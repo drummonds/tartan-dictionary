@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Glenburnie School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406))
 - 2002 — Glenburnie (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5781/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1406](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406)
+- Scottish Tartans Authority (ITI): 5781
+
 ## Thread count
 N/88 R8 W4 O12 R4 N24 R88 O12 R4 Wa/40
 ![Sett](sett.png)

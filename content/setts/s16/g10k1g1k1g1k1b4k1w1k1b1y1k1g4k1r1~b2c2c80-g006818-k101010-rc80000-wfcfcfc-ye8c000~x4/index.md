@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1830 — Cockburn - 1830 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4548/))
 - 01/01/1906 — Cockburn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=699))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [699](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=699)
+- Scottish Tartans Authority (ITI): 4548
+
 ## Thread count
 G/40 K4 G4 K4 G4 K4 DB16 K4 W4 K4 DB4 Y4 K4 G16 K4 R/4
 ![Sett](sett.png)

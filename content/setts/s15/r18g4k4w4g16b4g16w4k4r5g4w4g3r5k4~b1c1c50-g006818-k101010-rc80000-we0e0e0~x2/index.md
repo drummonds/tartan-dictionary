@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1800? — Gayre Bodyguard (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1154/))
 - undated — Gayre Bodyguard #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1322))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1322](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1322)
+- Scottish Tartans Authority (ITI): 1154
+- Scottish Tartans World Register: 1154
+
 ## Thread count
 K/8 R10 G6 LN8 G8 R10 K8 LN8 G32 DB8 G32 LN8 K8 G8 R/36
 ![Sett](sett.png)

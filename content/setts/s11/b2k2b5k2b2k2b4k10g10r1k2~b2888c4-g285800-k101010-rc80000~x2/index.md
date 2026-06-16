@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2000 — Bijral (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=260))
 - pre 2002 — Bijral (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4009/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [260](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=260)
+- Scottish Tartans Authority (ITI): 4009
+- Scottish Tartans World Register: 2709
+
 ## Thread count
 B/4 K4 B10 K4 B4 K4 B8 K20 G20 R2 K/4
 ![Sett](sett.png)

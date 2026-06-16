@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/1999 — Singh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3800))
 - Apr.1999 — Singh (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2600/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3800](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3800)
+- Scottish Tartans Authority (ITI): 2600
+- Scottish Tartans World Register: 2600
+
 ## Thread count
 DR/6 N4 G36 DY4 G36 P68 DR6 P/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2007 — U.S. Law Enforcement (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4186))
 - April 2007 — U.S. Law Enforcement (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7173/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4186](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4186)
+- Scottish Tartans Authority (ITI): 7173
+
 ## Thread count
 Na/8 K6 DBa12 DB8 DBa114 N6 DBa6 N6 DBa6 R/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Finnigan (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1185))
 - pre 2005 — Finnigan (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6752/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1185](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1185)
+- Scottish Tartans Authority (ITI): 6752
+
 ## Thread count
 K/4 R40 G16 R6 DB30 R/6
 ![Sett](sett.png)

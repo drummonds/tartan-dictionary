@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/2002 — Regan/O'Riagain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3489))
 - 2002 — Regan/O'Riagain (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4020/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3489](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3489)
+- Scottish Tartans Authority (ITI): 4020
+- Scottish Tartans World Register: 2837
+
 ## Thread count
 P/8 K8 LN8 P80 Y8 DB16 K8 DB16 LN8 Y/8
 ![Sett](sett.png)

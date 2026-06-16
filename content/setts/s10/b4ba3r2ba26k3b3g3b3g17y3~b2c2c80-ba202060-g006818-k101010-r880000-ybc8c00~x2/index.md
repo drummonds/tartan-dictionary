@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2005 — Boyle (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=327))
 - 2005 August — Boyle (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6758/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [327](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=327)
+- Scottish Tartans Authority (ITI): 6758
+
 ## Thread count
 DBa/8 DB6 DR4 DB52 K6 DBa6 G6 DBa6 G34 DY/6
 ![Sett](sett.png)

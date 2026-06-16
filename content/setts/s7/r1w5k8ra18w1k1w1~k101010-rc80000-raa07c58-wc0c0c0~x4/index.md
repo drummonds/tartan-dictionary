@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Merrick, Camel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2937))
 - 1985 — Merrick, Camel (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1688/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2937](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2937)
+- Scottish Tartans Authority (ITI): 1688
+- Scottish Tartans World Register: 1688
+
 ## Thread count
 N/4 K4 N4 LT72 K32 N20 R/4
 ![Sett](sett.png)

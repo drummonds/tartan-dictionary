@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — Glendronach Distillery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1409))
 - pre 1991 — Glendronach Distillery (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2293/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1409](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1409)
+- Scottish Tartans Authority (ITI): 2293
+- Scottish Tartans World Register: 2293
+
 ## Thread count
 DG/88 DR8 N4 Y12 DR4 DG24 DR88 Y12 DR4 DG/40
 ![Sett](sett.png)

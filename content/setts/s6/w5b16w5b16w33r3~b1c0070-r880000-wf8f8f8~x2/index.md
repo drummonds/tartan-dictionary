@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Buchanan Dress Blue (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=424))
 - 1983 — Buchanan Dress, Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1672/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [424](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=424)
+- Scottish Tartans Authority (ITI): 1672
+- Scottish Tartans World Register: 1672
+
 ## Thread count
 DR/6 W66 DB32 W10 DB32 W/10
 ![Sett](sett.png)

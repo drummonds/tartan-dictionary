@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/1997 — Tartan Army (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073))
 - June 1997 — Tartan Army (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2389/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4073](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073)
+- Scottish Tartans Authority (ITI): 2389
+- Scottish Tartans World Register: 2389
+
 ## Thread count
 B/44 DB4 B8 DB4 B8 DB16 LN4 DB4 LN4 DB20 R10 Y4 R10 DB20 LN4 DB4 LN4 DB16 B36 DB4 B/8
 ![Sett](sett.png)

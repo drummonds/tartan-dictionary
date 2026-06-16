@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Yarrow (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4791))
 - pre 1984 — Yarrow (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4240/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4791](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4791)
+- Scottish Tartans Authority (ITI): 4240
+
 ## Thread count
 T/84 DR20 B4 DR4 LT4 DR4 T20 LT12 DR4 LT6 T/4
 ![Sett](sett.png)

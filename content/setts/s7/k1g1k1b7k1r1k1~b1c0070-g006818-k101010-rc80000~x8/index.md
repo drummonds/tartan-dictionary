@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1707 — Eglinton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1090))
 - 1707? — Eglinton (District?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2075/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1090](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1090)
+- Scottish Tartans Authority (ITI): 2075
+- Scottish Tartans World Register: 2075
+
 ## Thread count
 K/8 G8 K8 DB56 K8 R8 K/8
 ![Sett](sett.png)

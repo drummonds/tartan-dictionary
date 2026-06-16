@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 14/02/2000 — Peacock (Samantha) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3309))
 - Feb. 2000 — Peacock (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2655/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3309](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3309)
+- Scottish Tartans Authority (ITI): 2655
+- Scottish Tartans World Register: 2655
+
 ## Thread count
 B/80 P12 DB28 Y/4
 ![Sett](sett.png)

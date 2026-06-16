@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Shannon (?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7725/))
 - undated — Shannon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5711))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5711](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5711)
+- Scottish Tartans Authority (ITI): 7725
+
 ## Thread count
 T/96 P22 G32 Y32 T22 R6 T/22
 ![Sett](sett.png)

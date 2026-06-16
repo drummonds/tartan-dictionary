@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — University of North Carolina at Greensboro, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4199))
 - 2003 — University of North Carolina (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6265/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4199](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4199)
+- Scottish Tartans Authority (ITI): 6265
+
 ## Thread count
 DB/96 Y11 DB8 Y11 DB16 Y6 W4 Y16 W/8
 ![Sett](sett.png)

@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/2000 — Auckland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5087))
 - undated — Auckland New Zealand District Tartan Tartan Number: 3043. Earliest known date: 1999 Designed by the House of Tartan for Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. This company appears to have gone out of business without ever promoting the tartan. Copyright remains with the designers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3043))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5087](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5087)
+- Scottish Tartans Authority (ITI): 3043
+
 ## Thread count
 DG/6 K6 DB4 K32 DB4 K4 DB48 N/4
 ![Sett](sett.png)

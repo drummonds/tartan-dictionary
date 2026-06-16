@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Turner (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4165))
 - pre 2004 — Turner (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6285/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4165](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4165)
+- Scottish Tartans Authority (ITI): 6285
+
 ## Thread count
 R/96 K24 N14 K10 W/6
 ![Sett](sett.png)

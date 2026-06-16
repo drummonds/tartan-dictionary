@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - August 2008 — U.S. Merchant Marine Academy (Corpo (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7749/))
 - undated — U.S. Merchant Marine Academy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5730))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5730](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5730)
+- Scottish Tartans Authority (ITI): 7749
+
 ## Thread count
 N/6 DB98 N16 DY4 DR12 DY4 N/74
 ![Sett](sett.png)

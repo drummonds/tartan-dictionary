@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1853 — Balmoral (Royal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=182))
 - 1853 — Balmoral (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1300/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [182](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=182)
+- Scottish Tartans Authority (ITI): 1300
+- Scottish Tartans World Register: 1300
+
 ## Thread count
 Na/10 R6 Na48 N14 K12 Na6 N6 Na6 N22 Na12 K6 Na6 R/6
 ![Sett](sett.png)

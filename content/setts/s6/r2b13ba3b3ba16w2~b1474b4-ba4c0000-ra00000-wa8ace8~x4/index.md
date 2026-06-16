@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — MacArthur-Fox Blue (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283))
 - 1997 — MacArthur-Fox Blue (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/459/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2283](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283)
+- Scottish Tartans Authority (ITI): 459
+- Scottish Tartans World Register: 459
+
 ## Thread count
 DRa/8 B52 DR12 B12 DR64 LP/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1819 — Ross (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/883/))
 - 01/01/2002 — Ross #6 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3557))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3557](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3557)
+- Scottish Tartans Authority (ITI): 883
+- Scottish Tartans World Register: 883
+
 ## Thread count
 G/36 R4 G36 R36 DB2 R2 G4 R2 DB2 R36 DB2 R2 DB4 R2 DB2 R36 DB36 R4 DB36 R36 G4 R8 G4 R36 G36 R4 G/36
 ![Sett](sett.png)

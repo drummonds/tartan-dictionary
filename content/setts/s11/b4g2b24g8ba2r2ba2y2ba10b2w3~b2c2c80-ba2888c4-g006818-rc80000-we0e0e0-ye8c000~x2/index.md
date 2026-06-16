@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1997 — McCartney (Evening/Night) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2876))
 - June 1997 — McCartney (Evening) (Coporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2594/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2876](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2876)
+- Scottish Tartans Authority (ITI): 2594
+- Scottish Tartans World Register: 2594
+
 ## Thread count
 DB/8 G4 DB48 G16 B4 R4 B4 Y4 B20 DB4 LN/6
 ![Sett](sett.png)

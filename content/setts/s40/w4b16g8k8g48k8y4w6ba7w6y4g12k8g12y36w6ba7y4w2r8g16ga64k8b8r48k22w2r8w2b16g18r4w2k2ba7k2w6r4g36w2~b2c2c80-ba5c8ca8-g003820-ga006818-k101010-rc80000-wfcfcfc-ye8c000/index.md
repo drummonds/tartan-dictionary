@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Valencia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4982))
 - Unknown — Valencia (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3890/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4982)
+- Scottish Tartans Authority (ITI): 3890
+
 ## Thread count
 W/4 DB16 DG8 K8 DG48 K8 Y4 W6 B7 W6 Y4 DG12 K8 DG12 Y36 W6 B7 Y4 W2 R8 DG16 G64 K8 DB8 R48 K22 W2 R8 W2 DB16 DG18 R4 W2 K2 B7 K2 W6 R4 DG36 W/2
 ![Sett](sett.png)

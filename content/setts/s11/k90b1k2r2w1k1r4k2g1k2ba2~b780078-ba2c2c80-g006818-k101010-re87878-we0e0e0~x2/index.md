@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - September 2008 — CoVASS (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7737/))
 - undated — CoVASS (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5720))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5720](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5720)
+- Scottish Tartans Authority (ITI): 7737
+
 ## Thread count
 DB/4 K4 G2 K4 LR8 K2 LN2 LR4 K4 P2 K/180
 ![Sett](sett.png)

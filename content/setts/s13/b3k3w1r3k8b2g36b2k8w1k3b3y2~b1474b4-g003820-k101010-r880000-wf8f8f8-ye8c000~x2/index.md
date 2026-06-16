@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2005 — U.S. Special Forces (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4191))
 - 2005 March — U.S. Special Forces (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6519/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4191](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4191)
+- Scottish Tartans Authority (ITI): 6519
+
 ## Thread count
 B/6 K6 W2 DR6 K16 B4 DG72 B4 K16 W2 K6 B6 Y/4
 ![Sett](sett.png)

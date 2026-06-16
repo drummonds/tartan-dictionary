@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Mann (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2809))
 - pre 2002 — Mann (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4127/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2809](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2809)
+- Scottish Tartans Authority (ITI): 4127
+
 ## Thread count
 K/6 R4 T8 R2 DB50 G24 T28 DB6 R/2
 ![Sett](sett.png)

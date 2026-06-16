@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2005 — Aberuchill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=23))
 - 2005 November — Aberuchill (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6814/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [23](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=23)
+- Scottish Tartans Authority (ITI): 6814
+
 ## Thread count
 O/6 K4 G55 T30 DP30 T10 K2 P/8
 ![Sett](sett.png)

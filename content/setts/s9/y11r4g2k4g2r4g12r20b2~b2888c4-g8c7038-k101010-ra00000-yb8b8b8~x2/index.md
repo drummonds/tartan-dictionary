@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Australia Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=139))
 - 1988 — Australia Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/612/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [139](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=139)
+- Scottish Tartans Authority (ITI): 612
+- Scottish Tartans World Register: 612
+
 ## Thread count
 B/4 DR40 LT24 DR8 LT4 K8 LT4 DR8 N/22
 ![Sett](sett.png)

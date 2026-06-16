@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1810 — MacLaine of Lochbuie (Coburn) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2591))
 - pre 1810 — MacLaine of Lochbuie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1462/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2591](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2591)
+- Scottish Tartans Authority (ITI): 1462
+- Scottish Tartans World Register: 1462
+
 ## Thread count
 R/64 G16 B8 Y/2
 ![Sett](sett.png)

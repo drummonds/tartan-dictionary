@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Robb Red (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4850))
 - undated — Robb Red (Personal) Personal Tartan Tartan Number: 3158. Earliest known date: 1994 Designed by Peter MacDonald for Martin Robb of Carroglen, Comrie, Perthshire, Scotland. Can be worn by anyone of the name but Martin Robb would appreciate being advised. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3158))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4850](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4850)
+- Scottish Tartans Authority (ITI): 3158
+
 ## Thread count
 DP/4 R2 DG52 R36 DP52 LG2 R2 DP/4
 ![Sett](sett.png)

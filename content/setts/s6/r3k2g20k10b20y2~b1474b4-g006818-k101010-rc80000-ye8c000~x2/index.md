@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1831 — MacLeod of Assynt (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2636))
 - 1831 — MacLeod of Assynt (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1582/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2636](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2636)
+- Scottish Tartans Authority (ITI): 1582
+- Scottish Tartans World Register: 1582
+
 ## Thread count
 R/6 K4 G40 K20 B40 Y/4
 ![Sett](sett.png)

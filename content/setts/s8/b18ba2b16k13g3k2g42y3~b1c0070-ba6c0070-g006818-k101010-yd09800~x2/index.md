@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/1999 — McFadden (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2881))
 - March 2000 — McFadden (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2656/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2881](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2881)
+- Scottish Tartans Authority (ITI): 2656
+- Scottish Tartans World Register: 2656
+
 ## Thread count
 DB/36 P4 DB32 K26 G6 K4 G84 DY/6
 ![Sett](sett.png)

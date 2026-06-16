@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Beatty (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=236))
 - 1997 — Beatty (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4199/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [236](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=236)
+- Scottish Tartans Authority (ITI): 4199
+
 ## Thread count
 K/12 B6 DB56 DY16 K20 DY4 K4 N4 K8 G32 DR24 K4 DR12 N/4
 ![Sett](sett.png)

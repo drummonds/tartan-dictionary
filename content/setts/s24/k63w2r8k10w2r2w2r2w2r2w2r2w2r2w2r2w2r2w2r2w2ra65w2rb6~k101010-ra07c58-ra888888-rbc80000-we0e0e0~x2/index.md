@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Sobieski-Stewart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3830))
 - January 2007 — Sobieski-Stewart (District?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7096/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3830](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3830)
+- Scottish Tartans Authority (ITI): 7096
+
 ## Thread count
 K/126 LN4 LT16 K20 LN4 LT4 LN4 LT4 LN4 LT4 LN4 LT4 LN4 LT4 LN4 LT4 LN4 LT4 LN4 LT4 LN4 Na130 LN4 R/12
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Glenfalloch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1415))
 - pre 2002 — Glenfalloch (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2111/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1415](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1415)
+- Scottish Tartans Authority (ITI): 2111
+- Scottish Tartans World Register: 2111
+
 ## Thread count
 DB/8 LR2 DB24 LN2 LR8 LN2 G8 LN2 DR8 G24 DB2 LN/4
 ![Sett](sett.png)

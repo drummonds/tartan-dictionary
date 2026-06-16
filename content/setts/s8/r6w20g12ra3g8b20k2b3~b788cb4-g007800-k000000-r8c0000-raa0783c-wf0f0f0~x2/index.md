@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Coulter Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=776))
 - pre 2002 — Coulter Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4142/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [776](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=776)
+- Scottish Tartans Authority (ITI): 4142
+
 ## Thread count
 B/6 K4 B40 G16 LT6 G24 W40 DR/12
 ![Sett](sett.png)

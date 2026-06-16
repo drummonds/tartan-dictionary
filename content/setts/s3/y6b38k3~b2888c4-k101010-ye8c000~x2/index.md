@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1994 — Poulain League (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2539/))
 - 01/01/1995 — Poulain League (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3365))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3365](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3365)
+- Scottish Tartans Authority (ITI): 2539
+- Scottish Tartans World Register: 2539
+
 ## Thread count
 K/6 B76 Y/12
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Maresh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2832))
 - 2004 — Maresh (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6264/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2832](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2832)
+- Scottish Tartans Authority (ITI): 6264
+
 ## Thread count
 DB/6 R6 DB44 G12 K34 DB12 G44 Y6 K/6
 ![Sett](sett.png)

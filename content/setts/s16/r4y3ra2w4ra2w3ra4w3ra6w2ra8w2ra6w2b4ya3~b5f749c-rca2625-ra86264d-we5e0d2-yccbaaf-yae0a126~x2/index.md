@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 06/11/2012 — Bradwell, Carl (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10735))
 - undated — Bradwell, Amy Name Tartan Tartan Number: 10735. Earliest known date: 12 November 2012 Designed to celebrate Amy Bradwell's 30th birthday and the relocation of the family to Scotland in 2012. The colours reflect Amy's personal preferences and the family's mixed Yorkshire and Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10735))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10735](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10735)
+
 ## Thread count
 R/8 N6 DR4 W8 DR4 W6 DR8 W6 DR12 W4 DR16 W4 DR12 W4 B8 Y/6
 ![Sett](sett.png)

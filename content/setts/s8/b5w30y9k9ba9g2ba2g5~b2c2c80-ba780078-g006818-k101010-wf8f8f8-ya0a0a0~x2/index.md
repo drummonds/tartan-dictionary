@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Alexander of Menstry Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=48))
 - pre 2005 — Alexander of Menstry Dress (Personal (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6716/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [48](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=48)
+- Scottish Tartans Authority (ITI): 6716
+
 ## Thread count
 DB/10 W60 N18 K18 P18 G4 P4 G/10
 ![Sett](sett.png)

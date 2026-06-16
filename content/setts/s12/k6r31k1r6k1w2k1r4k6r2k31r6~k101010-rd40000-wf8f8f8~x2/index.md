@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2008 — University of Georgia (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7688/))
 - undated — University of Georgia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5687))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5687](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5687)
+- Scottish Tartans Authority (ITI): 7688
+
 ## Thread count
 K/12 R62 K2 R12 K2 W4 K2 R8 K12 R4 K62 R/12
 ![Sett](sett.png)

@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1966 — Melieres, Michel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1168/))
 - undated — Melieres Michel.. Tartan Tartan Number: 1168. Earliest known date: 1966 tba See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1168))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2912](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2912)
+- Scottish Tartans Authority (ITI): 1168
+- Scottish Tartans World Register: 1168
+
 ## Thread count
 K/4 R2 G16 R6 G6 R28 Y2 R2 LN/4
 ![Sett](sett.png)

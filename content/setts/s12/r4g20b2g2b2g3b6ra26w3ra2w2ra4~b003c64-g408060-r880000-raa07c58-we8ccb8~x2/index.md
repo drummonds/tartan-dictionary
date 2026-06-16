@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1990 — Dorcas (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3180/))
 - undated — Dorcas (WCWM) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4884))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4884](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4884)
+- Scottish Tartans Authority (ITI): 3180
+
 ## Thread count
 DR/8 G40 DB4 G4 DB4 G6 DB12 LT52 LR6 LT4 LR4 LT/8
 ![Sett](sett.png)

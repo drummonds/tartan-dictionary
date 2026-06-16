@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacShane (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3571/))
 - undated — MacShane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5123))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5123](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5123)
+- Scottish Tartans Authority (ITI): 3571
+
 ## Thread count
 DG/36 W8 DG36 K8 LT56 DY16 W8 R/8
 ![Sett](sett.png)

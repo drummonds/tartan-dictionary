@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1975 — MacSporran (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2764))
 - 1975? — MacSporran (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/495/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2764](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2764)
+- Scottish Tartans Authority (ITI): 495
+- Scottish Tartans World Register: 495
+
 ## Thread count
 DB/32 R4 DB6 R8 DB36 R4 K32 DG32 R8 DG6 R4 K4 Y/20
 ![Sett](sett.png)

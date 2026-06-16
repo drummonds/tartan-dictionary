@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — University of Dundee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4403))
 - pre 2007 — University of Dundee (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7169/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4403](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4403)
+- Scottish Tartans Authority (ITI): 7169
+
 ## Thread count
 DB/10 N8 R12 DY2 R18 DBa70 DB10 DY2 DB24 LN/2
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1882 — Keppoch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1951))
 - 1882 — Keppoch (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7122/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1951](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1951)
+- Scottish Tartans Authority (ITI): 7122
+
 ## Thread count
 K/10 G4 K10 G4 DB16 G50 W/8
 ![Sett](sett.png)

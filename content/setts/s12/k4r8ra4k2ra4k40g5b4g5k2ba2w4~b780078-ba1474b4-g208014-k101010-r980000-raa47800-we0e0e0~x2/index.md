@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2006 — MacMunn (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7272/))
 - 01/01/2007 — MacMunn, Munn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2900))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2900](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2900)
+- Scottish Tartans Authority (ITI): 7272
+
 ## Thread count
 K/8 DR16 DY8 K4 DY8 K80 G10 P8 G10 K4 B4 LN/8
 ![Sett](sett.png)

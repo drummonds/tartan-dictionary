@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2006 — Ralston (UK) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3448))
 - November 2006 — Ralston (UK) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7075/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3448](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3448)
+- Scottish Tartans Authority (ITI): 7075
+
 ## Thread count
 B/36 DB6 B20 DB6 B20 DB28 DY4 R14 DY4 LG28 DY4 DB/28
 ![Sett](sett.png)

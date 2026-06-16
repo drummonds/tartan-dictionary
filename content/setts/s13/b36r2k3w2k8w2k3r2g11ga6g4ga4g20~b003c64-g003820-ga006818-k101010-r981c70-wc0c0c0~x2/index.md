@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1996 — Carson of Rusco (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3256/))
 - undated — Carson of Rusco (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5235))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5235](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5235)
+- Scottish Tartans Authority (ITI): 3256
+
 ## Thread count
 DB/72 P4 K6 N4 K16 N4 K6 P4 DG22 G12 DG8 G8 DG/40
 ![Sett](sett.png)

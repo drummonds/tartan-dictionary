@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 20/10/2009 — Patterson, William John Magee (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10129))
 - undated — Patterson William John Magee Name Tartan Tartan Number: 9129. Earliest known date: 2009, October Named after grandfather William John Magee Patterson who took the Patterson family across the ocean to the Americas. Designed by grand daughter, Jane Patterson, with colours to symbolise her Irish and Scottish descent. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9129))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10129](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10129)
+
 ## Thread count
 DB/18 Na6 DB4 N4 DB18 Na12 DB6 N6 DB6 G36 DG16 R/4
 ![Sett](sett.png)

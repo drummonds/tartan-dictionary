@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Commonwealth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=721))
 - 1986 — Commonwealth (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/610/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [721](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=721)
+- Scottish Tartans Authority (ITI): 610
+- Scottish Tartans World Register: 610
+
 ## Thread count
 DN/24 LT8 R24 N12 K8 LT24 DN40 R8 DN12 R/8
 ![Sett](sett.png)

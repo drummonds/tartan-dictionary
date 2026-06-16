@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — MacKintosh Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2570))
 - pre 2005 — MacKintosh Dress - 2005 (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6562/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2570](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2570)
+- Scottish Tartans Authority (ITI): 6562
+
 ## Thread count
 G/6 R18 Ga36 P16 LN66 R/6
 ![Sett](sett.png)

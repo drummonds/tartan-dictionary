@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1998 — Glennie, The Rhythms of Evelyn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432))
 - Nov. 1999 — Glennie, The Rhythms of Evelyn (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2586/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1432](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432)
+- Scottish Tartans Authority (ITI): 2586
+- Scottish Tartans World Register: 2586
+
 ## Thread count
 K/4 DB4 K6 R4 DB6 K4 Y4 K6 R4 K8 R/50
 ![Sett](sett.png)

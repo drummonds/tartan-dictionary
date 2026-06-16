@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Cleikum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=672))
 - 2000 — Cleikum (Fashion? (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4057/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [672](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=672)
+- Scottish Tartans Authority (ITI): 4057
+
 ## Thread count
 DB/56 Y6 DB56 K4 DB4 K4 DB6 K68 Y4 K6 R6 K6 Y4 K68 DB6 K4 DB4 K/4
 ![Sett](sett.png)

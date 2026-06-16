@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — MacQueen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2736))
 - pre 1842 — MacQueen (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1209/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2736](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2736)
+- Scottish Tartans Authority (ITI): 1209
+- Scottish Tartans World Register: 1209
+
 ## Thread count
 K/8 R24 K8 R24 K48 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Regent (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3490))
 - 1819 — Regent (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/341/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3490](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3490)
+- Scottish Tartans Authority (ITI): 341
+- Scottish Tartans World Register: 341
+
 ## Thread count
 DP/36 K14 G10 R8 G14 K2 Y/4
 ![Sett](sett.png)

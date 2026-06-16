@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Marist School, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2836))
 - 1996 — Marist (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2376/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2836](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2836)
+- Scottish Tartans Authority (ITI): 2376
+- Scottish Tartans World Register: 2376
+
 ## Thread count
 DBa/116 DB8 DBa4 DB4 DBa4 DB4 B32 DY/4
 ![Sett](sett.png)

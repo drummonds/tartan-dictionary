@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Chapman (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=615))
 - pre 2003 — Chapman (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5924/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [615](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=615)
+- Scottish Tartans Authority (ITI): 5924
+
 ## Thread count
 K/72 G4 K4 G4 K36 LP36 K6 W6 K6 LP36 K36 G4 K4 G4 K36 LP36 K6 R/6
 ![Sett](sett.png)

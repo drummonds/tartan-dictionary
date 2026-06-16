@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Comrie Gold (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5630))
 - undated — Comrie Gold Fashion Tartan Tartan Number: 7606. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7606))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5630](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5630)
+- Scottish Tartans Authority (ITI): 7606
+
 ## Thread count
 R/8 W64 Ya24 Y10 DB4 W4 DB4 Y/84
 ![Sett](sett.png)

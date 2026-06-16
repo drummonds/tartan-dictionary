@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 28/03/2001 — Scotland 1782 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3675))
 - 01/01/2001 — Scotland 1782 #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3676](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676)
+- Scottish Tartans Authority (ITI): 4131
+- Scottish Tartans World Register: 2810
+
 ## Thread count
 B/6 DBa60 K8 G6 Pa4 P4 Pa4 P20 K4 P4 K8 P4 G6 P4 K8 P4 K4 P20 Pa4 P4 Pa4 G6 K8 DBa/60
 ![Sett](sett.png)

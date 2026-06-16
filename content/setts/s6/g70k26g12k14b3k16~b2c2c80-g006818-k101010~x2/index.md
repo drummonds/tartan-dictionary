@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Duchess of Fife #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1003))
 - pre 2002 — Duchess of Fife (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4730/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1003](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1003)
+- Scottish Tartans Authority (ITI): 4730
+
 ## Thread count
 G/140 K52 G24 K28 DB6 K/32
 ![Sett](sett.png)

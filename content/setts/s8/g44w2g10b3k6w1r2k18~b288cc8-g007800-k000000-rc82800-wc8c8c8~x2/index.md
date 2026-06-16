@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Mull Rugby Club (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5648/))
 - undated — Mull Rugby Club Corporate Sport Tartan Tartan Number: 5648. Earliest known date: pre 2002 Designed by Peter MacDonald at the suggestion of Mrs Ros Jones, Aros, Mull for the Mull Rugby Club. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5648))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3045](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3045)
+- Scottish Tartans Authority (ITI): 5648
+
 ## Thread count
 G/88 N4 G20 B6 K12 N2 R4 K/36
 ![Sett](sett.png)

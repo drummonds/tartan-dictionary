@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1992 — Brough (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2233/))
 - undated — Brough (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=389))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [389](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=389)
+- Scottish Tartans Authority (ITI): 2233
+- Scottish Tartans World Register: 2233
+
 ## Thread count
 DR/36 DB24 W4 DB24 G16 DR6 G/20
 ![Sett](sett.png)

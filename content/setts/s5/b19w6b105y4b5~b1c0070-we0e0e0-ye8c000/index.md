@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Greenock Morton F. C. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7467/))
 - undated — Greenock Morton Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5512))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5512](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5512)
+- Scottish Tartans Authority (ITI): 7467
+
 ## Thread count
 DB/19 LN6 DB105 Y4 DB/5
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Casey of West Virginia (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=590))
 - 1996 — Casey of West Virginia (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4475/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [590](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=590)
+- Scottish Tartans Authority (ITI): 4475
+
 ## Thread count
 G/16 DY4 DN4 DY4 DN8 G36 R4 DN24 W/4
 ![Sett](sett.png)

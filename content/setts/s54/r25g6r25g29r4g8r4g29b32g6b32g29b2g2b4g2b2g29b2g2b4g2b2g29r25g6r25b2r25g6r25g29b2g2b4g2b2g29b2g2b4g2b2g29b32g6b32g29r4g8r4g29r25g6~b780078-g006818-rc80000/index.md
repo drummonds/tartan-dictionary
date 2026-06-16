@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Ross (Wilsons) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4985))
 - undated — Ross (Wilsons) Clan/Family Tartan Tartan Number: 3560. Earliest known date: 1819 1819 (Key Pattern Book). Peter MacDonald says that there are over a dozen patterns of this type which obviously have a common ancestor which was probably the Lumsden of the mid 1700s. (#869). Relevant tartans are Ross, Rae, MacRae and Marchioness of Huntly's, Princes Own. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3560))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4985](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4985)
+- Scottish Tartans Authority (ITI): 3560
+
 ## Thread count
 G/6 R25 G29 R4 G8 R4 G29 P32 G6 P32 G29 P2 G2 P4 G2 P2 G29 P2 G2 P4 G2 P2 G29 R25 G6 R25 P2 R25 G6 R25 G29 P2 G2 P4 G2 P2 G29 P2 G2 P4 G2 P2 G29 P32 G6 P32 G29 R4 G8 R4 G29 R25 G6 R/25
 ![Sett](sett.png)

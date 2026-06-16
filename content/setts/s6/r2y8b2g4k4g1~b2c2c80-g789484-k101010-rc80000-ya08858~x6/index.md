@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Thompson (J.C.'s Fancy) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4109))
 - pre 2002 — Thompson (J.C.'s Fancy) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/286/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4109](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4109)
+- Scottish Tartans Authority (ITI): 286
+- Scottish Tartans World Register: 286
+
 ## Thread count
 LG/6 K24 LG24 DB12 LT48 R/12
 ![Sett](sett.png)

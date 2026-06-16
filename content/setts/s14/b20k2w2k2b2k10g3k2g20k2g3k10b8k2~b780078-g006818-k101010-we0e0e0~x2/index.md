@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Caithelyn (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3252/))
 - undated — Caithelyn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5156))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5156](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5156)
+- Scottish Tartans Authority (ITI): 3252
+
 ## Thread count
 K/4 P16 K20 G6 K4 G40 K4 G6 K20 P4 K4 LN4 K4 P/40
 ![Sett](sett.png)

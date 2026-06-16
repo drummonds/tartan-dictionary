@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - December 2001 — Carnegie of Skibo (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3814/))
 - undated — Carnegie of Skibo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5129))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5129](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5129)
+- Scottish Tartans Authority (ITI): 3814
+
 ## Thread count
 LN/6 DB10 B4 DB18 P20 K4 P10 K4 DG16 G58 LN/4
 ![Sett](sett.png)

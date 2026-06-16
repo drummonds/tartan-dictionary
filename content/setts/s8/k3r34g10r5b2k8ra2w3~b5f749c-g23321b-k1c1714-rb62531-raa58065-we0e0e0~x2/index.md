@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 08/01/2012 — Lambert (Front Royal) Greer (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10673))
 - undated — Lambert (Front Royal) Greer Name Tartan Tartan Number: 10673. Earliest known date: 14 August 2012 Designed by Charles Lambert, using the Scotweb Tartan Designer, for his family, to celebrate their Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Kai tartan (STR #10670) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10673))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10673](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10673)
+
 ## Thread count
 Ka/6 R68 K20 R10 B4 Ka16 LT4 LN/6
 ![Sett](sett.png)

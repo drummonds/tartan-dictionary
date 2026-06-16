@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Gigha Cherry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5599))
 - undated — Gigha Cherry Fashion Tartan Tartan Number: 7575. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7575))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5599](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5599)
+- Scottish Tartans Authority (ITI): 7575
+
 ## Thread count
 DR/8 R6 DR36 DRa36 W36 DRa2 W4 DRa/8
 ![Sett](sett.png)

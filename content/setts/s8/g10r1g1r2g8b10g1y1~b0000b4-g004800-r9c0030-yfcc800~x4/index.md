@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Glen Esk (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376))
 - pre 2002 — Glen Esk (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5006/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1376](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376)
+- Scottish Tartans Authority (ITI): 5006
+
 ## Thread count
 G/40 DR4 G4 DR8 G32 B40 G4 Y/4
 ![Sett](sett.png)

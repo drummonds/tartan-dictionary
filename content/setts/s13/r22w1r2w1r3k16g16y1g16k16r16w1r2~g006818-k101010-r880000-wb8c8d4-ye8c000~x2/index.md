@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - April 2008 — Beartrap (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7624/))
 - undated — Beartrap (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5643))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5643](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5643)
+- Scottish Tartans Authority (ITI): 7624
+
 ## Thread count
 DR/4 N2 DR32 K32 G32 Y2 G32 K32 DR6 N2 DR4 N2 DR/44
 ![Sett](sett.png)

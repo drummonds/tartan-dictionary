@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1996 — Scottish Power (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2435/))
 - 01/01/1997 — Scottish Power (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3739))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3739](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3739)
+- Scottish Tartans Authority (ITI): 2435
+- Scottish Tartans World Register: 2435
+
 ## Thread count
 Ga/10 G64 P10 K20 Ga16 DR6 Ga16 P/6
 ![Sett](sett.png)

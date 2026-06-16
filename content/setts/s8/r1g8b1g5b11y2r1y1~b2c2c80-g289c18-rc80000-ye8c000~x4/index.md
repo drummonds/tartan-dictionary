@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1995 — New Mexico, State of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2522/))
 - 01/01/1996 — New Mexico, State of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3116))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3116](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3116)
+- Scottish Tartans Authority (ITI): 2522
+- Scottish Tartans World Register: 2522
+
 ## Thread count
 R/4 G32 DB4 G20 DB44 Y8 R4 Y/4
 ![Sett](sett.png)

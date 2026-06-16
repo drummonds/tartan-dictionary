@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Dodd of Branford (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942))
 - pre 2002 — Dodd of Branford (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4686/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [942](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942)
+- Scottish Tartans Authority (ITI): 4686
+
 ## Thread count
 G/8 DR4 G40 DB16 K16 DB8 N2 DY4 K/2
 ![Sett](sett.png)

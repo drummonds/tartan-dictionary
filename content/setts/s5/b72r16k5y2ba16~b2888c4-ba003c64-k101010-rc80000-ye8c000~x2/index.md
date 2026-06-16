@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Thomas, Jean Marc (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4107))
 - 2005 — Thomas, Jean Marc (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6990/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4107](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4107)
+- Scottish Tartans Authority (ITI): 6990
+
 ## Thread count
 B/144 R32 K10 Y4 DB/32
 ![Sett](sett.png)

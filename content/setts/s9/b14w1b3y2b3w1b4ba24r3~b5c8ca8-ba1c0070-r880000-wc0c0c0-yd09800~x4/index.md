@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1956 — Musselburgh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3084))
 - 1956 — Musselburgh (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/620/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3084](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3084)
+- Scottish Tartans Authority (ITI): 620
+- Scottish Tartans World Register: 620
+
 ## Thread count
 B/56 N4 B12 DY8 B12 N4 B16 DB96 DR/12
 ![Sett](sett.png)

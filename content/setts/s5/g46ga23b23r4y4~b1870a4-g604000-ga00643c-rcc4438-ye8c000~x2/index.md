@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — McMoosie Htg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3102/))
 - undated — McMoosie Htg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4859))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4859](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4859)
+- Scottish Tartans Authority (ITI): 3102
+
 ## Thread count
 T/92 G46 B46 R8 Y/8
 ![Sett](sett.png)

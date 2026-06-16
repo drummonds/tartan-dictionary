@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Indianapolis MPD Emerald Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1822))
 - pre 2007 — Indianapolis MPD Emerald Soc. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7253/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1822](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1822)
+- Scottish Tartans Authority (ITI): 7253
+
 ## Thread count
 DB/24 G10 T5 R5 N2 R5 G10 T5 DB4 T5 G10 R5 Y2 R5 G10 T5 DB/67
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - September 2008 — Madras College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7757/))
 - undated — Madras College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5737))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5737](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5737)
+- Scottish Tartans Authority (ITI): 7757
+- Scottish Tartans World Register: 3259
+
 ## Thread count
 LN/6 LB4 Y4 LB40 K12 DB50 R/6
 ![Sett](sett.png)

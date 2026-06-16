@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Colliers International (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5561))
 - undated — Colliers International Canadian Corporate Tartan Tartan Number: 7524. Earliest known date: 2008 Colliers International are a long established (1985) international property company. This asymmetric tartan appears to have been designed for them by Janet Helm Presents Tartan - a design company from Vancouver. Count estimated from online photograph. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7524))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5561](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5561)
+- Scottish Tartans Authority (ITI): 7524
+
 ## Thread count
 DB/14 N14 DB80 Y6 DB80 N14 DB14 N14 DB14 N14 DB80 R6 DB80 N14 DB14 N14 DB14 N14 DB80 B6 DB80 N14 DB14 N/14
 ![Sett](sett.png)

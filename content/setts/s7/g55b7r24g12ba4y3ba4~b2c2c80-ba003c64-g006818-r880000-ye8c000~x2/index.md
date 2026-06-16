@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Crieff & Strathearn #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=804))
 - circa 1988 — Crieff & Strathearn #1 (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/664/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [804](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=804)
+- Scottish Tartans Authority (ITI): 664
+- Scottish Tartans World Register: 664
+
 ## Thread count
 DB/8 Y6 DB8 G24 DR48 DBa14 G/110
 ![Sett](sett.png)

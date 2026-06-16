@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1820 — Cameron of Locheil #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=498))
 - pre 1820 — Cameron of Lochiel -1820 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1398/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [498](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=498)
+- Scottish Tartans Authority (ITI): 1398
+- Scottish Tartans World Register: 1398
+
 ## Thread count
 R/16 DB32 R8 DB4 W4 DB4 R24 G12 R/24
 ![Sett](sett.png)

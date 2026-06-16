@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2003 — SmartWool (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3820))
 - March 2003 — SmartWool (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5828/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3820](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3820)
+- Scottish Tartans Authority (ITI): 5828
+
 ## Thread count
 K/200 T3 O3 T3 O/3
 ![Sett](sett.png)

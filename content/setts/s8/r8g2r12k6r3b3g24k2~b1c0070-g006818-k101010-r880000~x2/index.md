@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — McInery (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3391/))
 - undated — McInery (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5202))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5202](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5202)
+- Scottish Tartans Authority (ITI): 3391
+
 ## Thread count
 DR/16 G4 DR24 K12 DR6 DB6 G48 K/4
 ![Sett](sett.png)

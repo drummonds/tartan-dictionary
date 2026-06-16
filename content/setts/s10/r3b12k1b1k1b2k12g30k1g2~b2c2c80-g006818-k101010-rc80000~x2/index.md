@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1842 — Armstrong (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/793/))
 - undated — Armstrong Clan Tartan Tartan Number: 793. Earliest known date: 1842 An act passed by the Scottish parliament in 1587 refers to the Border clans. Armstrongs claim descent from Fairbairn, armour bearers to the Kings of Scotland, who granted them land in the Borders. A story is told that these gifts were made as a result of a great feat of strength in rescueing the King when his horse was killed under him in the midst of battle. The first gathering of Armstrongs for 400 years was held at Tourneyholm in Liddesdale in 1979. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=793))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [115](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=115)
+- Scottish Tartans Authority (ITI): 793
+- Scottish Tartans World Register: 793
+
 ## Thread count
 G/4 K2 G60 K24 DBa4 K2 DBa2 K2 DBa24 R/6
 ![Sett](sett.png)

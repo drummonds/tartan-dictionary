@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Forth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1238))
 - 1999 — Forth (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2602/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1238](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1238)
+- Scottish Tartans Authority (ITI): 2602
+- Scottish Tartans World Register: 2602
+
 ## Thread count
 DB/8 K6 DB46 K18 G4 B4 G4 B4 G16 K4 Y/6
 ![Sett](sett.png)

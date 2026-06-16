@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Police College Tulliallan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3351))
 - 1999 — Police College Tulliallan (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4231/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3351](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3351)
+- Scottish Tartans Authority (ITI): 4231
+
 ## Thread count
 DB/4 K8 DG72 G2 DBa68 DB8 W/4
 ![Sett](sett.png)

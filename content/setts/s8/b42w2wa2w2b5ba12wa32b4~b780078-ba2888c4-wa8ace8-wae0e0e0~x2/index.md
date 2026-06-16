@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Longniddry Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2207))
 - pre 2002 — Longniddry Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6559/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2207](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2207)
+- Scottish Tartans Authority (ITI): 6559
+
 ## Thread count
 P/8 LN64 B24 P10 LP4 LN4 LP4 P/84
 ![Sett](sett.png)

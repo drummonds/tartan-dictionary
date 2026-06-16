@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1997 — Kinloch Anderson Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1988))
 - pre 2002 — Kinloch Anderson Htg (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2405/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1988](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1988)
+- Scottish Tartans Authority (ITI): 2405
+- Scottish Tartans World Register: 2405
+
 ## Thread count
 DR/8 DB8 DR4 DB26 K12 G6 K12 LT4 G8 LT4 G28 P/8
 ![Sett](sett.png)

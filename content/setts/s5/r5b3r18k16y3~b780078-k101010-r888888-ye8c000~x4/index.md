@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — New York State Police Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3122))
 - 1993 — New York State Police (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5619/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3122](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3122)
+- Scottish Tartans Authority (ITI): 5619
+
 ## Thread count
 N/20 P12 N72 K64 Y/12
 ![Sett](sett.png)

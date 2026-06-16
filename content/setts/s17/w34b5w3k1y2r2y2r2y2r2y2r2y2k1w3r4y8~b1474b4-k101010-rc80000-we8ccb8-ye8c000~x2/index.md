@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Espana (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1130))
 - 1997 — Espana (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4824/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1130](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1130)
+- Scottish Tartans Authority (ITI): 4824
+
 ## Thread count
 LR/68 B10 LR6 K2 Y4 R4 Y4 R4 Y4 R4 Y4 R4 Y4 K2 LR6 R8 Y/16
 ![Sett](sett.png)

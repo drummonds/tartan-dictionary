@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1983 (March) — Booth (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3713/))
 - undated — Booth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5331))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5331](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5331)
+- Scottish Tartans Authority (ITI): 3713
+
 ## Thread count
 DR/8 K4 DR48 K8 DR12 K104 T56 R/8
 ![Sett](sett.png)

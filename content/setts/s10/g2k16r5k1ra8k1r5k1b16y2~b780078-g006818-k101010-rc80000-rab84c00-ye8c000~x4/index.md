@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Tribal #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4150))
 - July 2003 — Tribal (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5886/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4150](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4150)
+- Scottish Tartans Authority (ITI): 5886
+- Scottish Tartans World Register: 2963
+
 ## Thread count
 G/8 K64 R20 K4 DO32 K4 R20 K4 P64 Y/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1856 — MacLagan of Glenquiech (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771))
 - pre 1856 — MacLagan of Glenquiech (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7813/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5771](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771)
+- Scottish Tartans Authority (ITI): 7813
+
 ## Thread count
 R/6 DB6 R3 DB3 R3 DB28 K21 G28 R21 K2 Y/4
 ![Sett](sett.png)

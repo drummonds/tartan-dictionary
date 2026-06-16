@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1963 — Eyre (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143))
 - 1963 — Eyre (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6605/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143)
+- Scottish Tartans Authority (ITI): 6605
+
 ## Thread count
 K/4 R12 G36 R8 DB24 R/6
 ![Sett](sett.png)

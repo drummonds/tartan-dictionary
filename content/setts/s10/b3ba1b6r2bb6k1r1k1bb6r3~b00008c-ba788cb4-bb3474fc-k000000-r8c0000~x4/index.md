@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1963 — Ballater (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=179))
 - 1963 — Ballater (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1708/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [179](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=179)
+- Scottish Tartans Authority (ITI): 1708
+- Scottish Tartans World Register: 1708
+
 ## Thread count
 DB/12 B4 DB24 DR8 Ba24 K4 DR4 K4 Ba24 DR/12
 ![Sett](sett.png)

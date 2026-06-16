@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2007 — Callaghan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=483))
 - August 2007 — Callaghan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7299/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [483](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=483)
+- Scottish Tartans Authority (ITI): 7299
+
 ## Thread count
 DBa/10 DR2 DBa82 DG16 DBa16 Y2 DBa/10
 ![Sett](sett.png)

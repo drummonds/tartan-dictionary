@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Inglis (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1798/))
 - undated — Inglis (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1825))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1825](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1825)
+- Scottish Tartans Authority (ITI): 1798
+- Scottish Tartans World Register: 1798
+
 ## Thread count
 DY/8 DB24 R6 DB20 G48 N/8
 ![Sett](sett.png)

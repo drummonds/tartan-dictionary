@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Ayrton of Laoch (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=156))
 - 1978/9 — Ayrton of Laoch (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1330/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [156](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=156)
+- Scottish Tartans Authority (ITI): 1330
+- Scottish Tartans World Register: 1330
+
 ## Thread count
 R/4 DB8 G4 DB4 G4 DB6 G24 Y4 G24 R/4
 ![Sett](sett.png)

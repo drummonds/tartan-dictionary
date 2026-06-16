@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1830-40 — Russell (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3179/))
 - 01/01/1892 — Russell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5146))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5146](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5146)
+- Scottish Tartans Authority (ITI): 3179
+
 ## Thread count
 K/6 G20 K20 R6 DB16 W/6
 ![Sett](sett.png)

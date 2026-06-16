@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2007 — Scottish Thistle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3746))
 - February 2007 — Scottish Thistle (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7098/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3746](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3746)
+- Scottish Tartans Authority (ITI): 7098
+
 ## Thread count
 DB/4 B2 DB8 DBa30 DB6 Ka6 K22 DB66 Ka6 DB/4
 ![Sett](sett.png)

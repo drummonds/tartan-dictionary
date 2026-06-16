@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Bedford High School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=241))
 - pre 2003 — Bedford High School (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6008/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [241](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=241)
+- Scottish Tartans Authority (ITI): 6008
+
 ## Thread count
 DB/8 K6 DB24 K22 G26 Ga2 G2 Ga/6
 ![Sett](sett.png)

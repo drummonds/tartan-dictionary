@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1923 — Pritchard (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3414))
 - 1923 — Pritchard (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4172/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3414](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3414)
+- Scottish Tartans Authority (ITI): 4172
+
 ## Thread count
 W/96 DB8 K8 DY4 K4 W4 G24 N16 G4 N4 W/4
 ![Sett](sett.png)

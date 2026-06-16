@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Penman Grey (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3318))
 - 2005 — Penman Grey (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6644/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3318](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3318)
+- Scottish Tartans Authority (ITI): 6644
+
 ## Thread count
 Na/76 K8 LN8 K8 N20 K8 N20 K8 LN4 P/6
 ![Sett](sett.png)

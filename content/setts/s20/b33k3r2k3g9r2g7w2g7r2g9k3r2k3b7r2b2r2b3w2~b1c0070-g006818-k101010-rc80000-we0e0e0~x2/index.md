@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Ranking (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3242/))
 - 01/01/2003 — Ranking (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3463))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3463](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3463)
+- Scottish Tartans Authority (ITI): 3242
+- Scottish Tartans World Register: 2762
+
 ## Thread count
 DB/66 K6 R4 K6 G18 R4 G14 LN4 G14 R4 G18 K6 R4 K6 DB14 R4 DB4 R4 DB6 LN/4
 ![Sett](sett.png)

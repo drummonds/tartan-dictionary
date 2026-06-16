@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Confrerie de Vouvray (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=736))
 - 2003 — Confrerie de Vouvray (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5802/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [736](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=736)
+- Scottish Tartans Authority (ITI): 5802
+
 ## Thread count
 DB/16 R8 Y36 R8 DR38 Y8 DR38 DB12 DR8 G2 DR8 G2 DR8 G2 DR8 G2 DR/8
 ![Sett](sett.png)

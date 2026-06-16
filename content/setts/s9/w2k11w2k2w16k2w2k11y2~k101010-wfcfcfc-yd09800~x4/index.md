@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacFie of Colonsay Dress (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3369/))
 - undated — MacFie of Colonsay Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5124))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5124](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5124)
+- Scottish Tartans Authority (ITI): 3369
+
 ## Thread count
 DY/8 K44 W8 K8 W64 K8 W8 K44 W/8
 ![Sett](sett.png)

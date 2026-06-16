@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1981 — Manx Laxey, Red (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1721/))
 - undated — Manx Laxey Red District Tartan Tartan Number: 1721. Earliest known date: 1981 Presented by Dr. D.G. Teall in 1981 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1721))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2819](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2819)
+- Scottish Tartans Authority (ITI): 1721
+- Scottish Tartans World Register: 1721
+
 ## Thread count
 LN/4 T6 N6 R8 LN20 T4 N6 Y4 R/48
 ![Sett](sett.png)

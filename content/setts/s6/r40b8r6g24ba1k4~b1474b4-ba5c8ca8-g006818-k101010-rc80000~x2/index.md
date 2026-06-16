@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacPhail (Blue Bands) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2696))
 - pre 2002 — MacPhail (Blue bands) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1028/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2696)
+- Scottish Tartans Authority (ITI): 1028
+- Scottish Tartans World Register: 1028
+
 ## Thread count
 K/8 Ba2 G48 R12 B16 R/80
 ![Sett](sett.png)

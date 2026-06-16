@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Cailean #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3777/))
 - undated — Cailean (Pendleton) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5314))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5314](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5314)
+- Scottish Tartans Authority (ITI): 3777
+
 ## Thread count
 LT/8 N4 LT4 DR6 LT32 DB4 K4 DB4 K4 DB4 K24 LTa/8
 ![Sett](sett.png)

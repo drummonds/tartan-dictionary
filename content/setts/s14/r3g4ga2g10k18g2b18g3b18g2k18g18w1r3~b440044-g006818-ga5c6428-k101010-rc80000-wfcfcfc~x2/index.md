@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Paget (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3283))
 - 1993 — Paget (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2072/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3283](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3283)
+- Scottish Tartans Authority (ITI): 2072
+- Scottish Tartans World Register: 2072
+
 ## Thread count
 R/6 Ga8 G4 Ga20 K36 Ga4 DP36 Ga6 DP36 Ga4 K36 Ga36 W2 R/6
 ![Sett](sett.png)

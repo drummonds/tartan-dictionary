@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Banff, White (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3646/))
 - undated — Banff (White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4952))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4952](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4952)
+- Scottish Tartans Authority (ITI): 3646
+
 ## Thread count
 W/8 DR4 DRa6 N44 W44 Y6 W/16
 ![Sett](sett.png)

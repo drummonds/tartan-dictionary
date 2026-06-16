@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacDonald of Aird & Valley (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3274/))
 - undated — MacDonald of Aird & Valley (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5024))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5024](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5024)
+- Scottish Tartans Authority (ITI): 3274
+
 ## Thread count
 DR/48 DB4 DR4 G32 DR8 DB4 DR4 DB12 DR4 DB4 DR48 G4 DR4 G/32
 ![Sett](sett.png)

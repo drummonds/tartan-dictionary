@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Maciocia (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2488))
 - pre 2007 — Maciocia (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7158/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2488](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2488)
+- Scottish Tartans Authority (ITI): 7158
+
 ## Thread count
 LR/6 DR2 K6 DR18 N32 K6 LR6 K6 Ga6 K22 LT16 LTa/92
 ![Sett](sett.png)

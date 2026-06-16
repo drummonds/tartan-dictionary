@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Manroth (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3924/))
 - undated — Manroth (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5135))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5135](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5135)
+- Scottish Tartans Authority (ITI): 3924
+
 ## Thread count
 G/30 DB40 K4 R8 K4 DB40 G30 K4 Y/4
 ![Sett](sett.png)

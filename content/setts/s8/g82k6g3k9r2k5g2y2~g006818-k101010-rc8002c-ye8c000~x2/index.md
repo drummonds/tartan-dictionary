@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Crane of Cluny (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=791))
 - Aug. 1998 — Crane of Clunie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2674/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [791](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=791)
+- Scottish Tartans Authority (ITI): 2674
+- Scottish Tartans World Register: 2674
+
 ## Thread count
 G/164 K12 G6 K18 R4 K10 G4 Y/4
 ![Sett](sett.png)

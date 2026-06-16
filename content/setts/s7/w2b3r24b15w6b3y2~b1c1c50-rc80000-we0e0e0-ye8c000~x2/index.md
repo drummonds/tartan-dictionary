@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Fazzolettone (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7689/))
 - undated — Fazzolettone (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5688))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5688](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5688)
+- Scottish Tartans Authority (ITI): 7689
+
 ## Thread count
 LN/4 DB6 R48 DB30 LN12 DB6 Y/4
 ![Sett](sett.png)

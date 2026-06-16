@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Land's End Camel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2041))
 - pre 2002 — Land's End, Camel (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2577/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2041](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2041)
+- Scottish Tartans Authority (ITI): 2577
+- Scottish Tartans World Register: 2577
+
 ## Thread count
 DR/8 LT40 DG30 DR4 LT6 T12 LT6 DR4 LT/48
 ![Sett](sett.png)

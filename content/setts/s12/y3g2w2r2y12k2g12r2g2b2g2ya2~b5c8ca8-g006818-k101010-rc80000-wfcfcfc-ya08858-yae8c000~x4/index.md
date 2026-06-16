@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Arizona (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=111))
 - 1995 — Arizona (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5706/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [111](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=111)
+- Scottish Tartans Authority (ITI): 5706
+
 ## Thread count
 LT/12 G8 W8 R8 LT48 K8 G48 R8 G8 B8 G8 Y/8
 ![Sett](sett.png)

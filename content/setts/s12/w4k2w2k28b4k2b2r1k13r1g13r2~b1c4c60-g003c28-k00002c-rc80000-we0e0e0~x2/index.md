@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2007 — Niagara Region (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3133))
 - February 2007 — Niagara Region (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7110/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3133](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3133)
+- Scottish Tartans Authority (ITI): 7110
+
 ## Thread count
 LN/8 DB4 LN4 DB56 DBa8 DB4 DBa4 R2 DB26 R2 DG26 R/4
 ![Sett](sett.png)

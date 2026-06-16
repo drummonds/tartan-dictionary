@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1997 — Jones (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2476/))
 - 01/01/1998 — Jones (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1904))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1904)
+- Scottish Tartans Authority (ITI): 2476
+- Scottish Tartans World Register: 2476
+
 ## Thread count
 N/4 DB30 K16 Ga50 G12 N2 R/8
 ![Sett](sett.png)

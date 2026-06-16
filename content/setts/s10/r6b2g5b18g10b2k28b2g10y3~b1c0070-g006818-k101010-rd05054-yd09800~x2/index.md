@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Ofally, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4819))
 - 1997 — Ofally, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2268/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4819](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4819)
+- Scottish Tartans Authority (ITI): 2268
+- Scottish Tartans World Register: 2268
+
 ## Thread count
 DO/12 DB4 G10 DB36 G20 DB4 K56 DB4 G20 DY/6
 ![Sett](sett.png)

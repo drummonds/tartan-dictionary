@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Apr. 1999 — Universal Scientific Indust (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2588/))
 - 01/01/2005 — Universal Scientific Industrial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4402))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4402](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4402)
+- Scottish Tartans Authority (ITI): 6738
+
 ## Thread count
 B/10 K6 B4 LP12 K32 W4 LP48 B4 K/76
 ![Sett](sett.png)

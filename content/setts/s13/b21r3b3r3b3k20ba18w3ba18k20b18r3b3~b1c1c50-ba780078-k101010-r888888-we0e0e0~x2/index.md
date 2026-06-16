@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov 1993 — Westwood MacPoiret (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7492/))
 - undated — Westwood MacPoiret (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5533))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5533](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5533)
+- Scottish Tartans Authority (ITI): 7492
+
 ## Thread count
 DB/6 N6 DB36 K40 P36 LN6 P36 K40 DB6 N6 DB6 N6 DB/42
 ![Sett](sett.png)

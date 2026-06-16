@@ -18,6 +18,14 @@ This cloth appears in 4 source records; the oldest owns this page.
 - undated — Kidd Wilson's No 43 or.. Tartan Tartan Number: 1409. Earliest known date: 1819 This eventually became known as 'Clan MacPherson' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1409))
 - undated — MacPherson (Caledonia) Clan Tartan Tartan Number: 1410. Earliest known date: 1819 Also known as 'Caledonia' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1410))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2706](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2706)
+- Scottish Tartans Authority (ITI): 1410
+- Scottish Tartans World Register: 1410
+
 ## Thread count
 R/36 B10 R36 G48 Y6 K38 B20 K6 B6 K6 B20 R36 LN8 K10 R/10
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacNathair Sgianach (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3497/))
 - undated — MacNathair Sgianach (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5204))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5204](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5204)
+- Scottish Tartans Authority (ITI): 3497
+
 ## Thread count
 DB/4 R4 K48 G/4
 ![Sett](sett.png)

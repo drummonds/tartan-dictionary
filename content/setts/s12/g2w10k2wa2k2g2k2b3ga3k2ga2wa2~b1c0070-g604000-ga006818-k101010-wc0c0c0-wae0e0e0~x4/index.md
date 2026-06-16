@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacSheehy (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3572/))
 - undated — MacSheehy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5254))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5254](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5254)
+- Scottish Tartans Authority (ITI): 3572
+
 ## Thread count
 LN/8 G8 K8 G12 DB12 K8 T8 K8 LN8 K8 N40 T/8
 ![Sett](sett.png)

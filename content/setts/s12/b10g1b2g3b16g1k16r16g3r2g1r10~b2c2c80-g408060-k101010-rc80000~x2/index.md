@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — MacInroy (Wedding) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2479))
 - 1850 — MacInroy (Wedding) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/133/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2479](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2479)
+- Scottish Tartans Authority (ITI): 133
+- Scottish Tartans World Register: 133
+
 ## Thread count
 DB/20 G2 DB4 G6 DB32 G2 K32 R32 G6 R4 G2 R/20
 ![Sett](sett.png)

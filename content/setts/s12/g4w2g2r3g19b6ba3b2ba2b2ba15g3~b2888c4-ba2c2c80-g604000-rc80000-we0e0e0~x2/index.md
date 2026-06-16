@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — Cailean (Scotch House) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=460))
 - 1981 — Cailean #1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1728/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [460](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=460)
+- Scottish Tartans Authority (ITI): 1728
+- Scottish Tartans World Register: 1728
+
 ## Thread count
 T/6 DB30 B4 DB4 B4 DB6 B12 T38 R6 T4 LN4 T/8
 ![Sett](sett.png)

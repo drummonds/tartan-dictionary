@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - August 2008 — St. Mirren (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7745/))
 - undated — St. Mirren (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5726))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5726](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5726)
+- Scottish Tartans Authority (ITI): 7745
+
 ## Thread count
 DR/3 N4 DR3 DN28 K24 DN8 K16 DN10 K4 DN16 K4 N/10
 ![Sett](sett.png)

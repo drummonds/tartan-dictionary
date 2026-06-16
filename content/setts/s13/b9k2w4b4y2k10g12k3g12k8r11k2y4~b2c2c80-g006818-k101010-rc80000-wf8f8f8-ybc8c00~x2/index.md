@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — Watt (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6737/))
 - undated — Watt (Dunfermline) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4918))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4918](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4918)
+- Scottish Tartans Authority (ITI): 6737
+- Scottish Tartans World Register: 3043
+
 ## Thread count
 DB/18 K4 W8 DB8 DY4 K20 G24 K6 G24 K16 R22 K4 DY/8
 ![Sett](sett.png)

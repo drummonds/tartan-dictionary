@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2003 — Fox Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1240))
 - April 2003 — Fox Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5812/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1240](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1240)
+- Scottish Tartans Authority (ITI): 5812
+
 ## Thread count
 K/4 B36 Y6 B36 K4 G72 K4 R/8
 ![Sett](sett.png)

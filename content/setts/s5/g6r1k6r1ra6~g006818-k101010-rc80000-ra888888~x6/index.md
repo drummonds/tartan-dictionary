@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Timespan (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1002/))
 - undated — Timespan (MacKay) Corporate Tartan Tartan Number: 1002. Earliest known date: 1989 Based on MacKay of Strathnaver for 'Timespan Heritage Centre' at Helmsdale See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1002))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4127](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4127)
+- Scottish Tartans Authority (ITI): 1002
+- Scottish Tartans World Register: 1002
+
 ## Thread count
 G/36 R6 K36 R6 N/36
 ![Sett](sett.png)

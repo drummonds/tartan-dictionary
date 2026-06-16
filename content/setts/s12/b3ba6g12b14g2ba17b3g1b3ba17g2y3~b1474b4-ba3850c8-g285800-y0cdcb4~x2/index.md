@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Reflections of the Sea (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3486))
 - pre 1972 — Reflections of the Sea (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5419/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3486](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3486)
+- Scottish Tartans Authority (ITI): 5419
+
 ## Thread count
 B/6 Ba12 G24 B28 G4 Ba34 B6 G2 B6 Ba34 G4 LB/6
 ![Sett](sett.png)

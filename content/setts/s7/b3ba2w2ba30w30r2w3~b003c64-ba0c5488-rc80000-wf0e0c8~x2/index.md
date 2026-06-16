@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Torridon, Royal Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7596/))
 - undated — Torridon Royal Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5620))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5620](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5620)
+- Scottish Tartans Authority (ITI): 7596
+
 ## Thread count
 DB/6 B4 W4 B60 W60 R4 W/6
 ![Sett](sett.png)

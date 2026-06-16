@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Mina Perhonen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2960))
 - pre 2003 — Mina Perhonen (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5797/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2960](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2960)
+- Scottish Tartans Authority (ITI): 5797
+
 ## Thread count
 LN/8 DB48 Y4 Ba48 B10 DB8 Y/8
 ![Sett](sett.png)

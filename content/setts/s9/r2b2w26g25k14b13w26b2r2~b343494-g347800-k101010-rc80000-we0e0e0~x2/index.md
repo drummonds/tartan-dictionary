@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1987 — MacNaughton Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2677))
 - 1987 — MacNaughton Dress (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1434/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2677](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2677)
+- Scottish Tartans Authority (ITI): 1434
+- Scottish Tartans World Register: 1434
+
 ## Thread count
 R/4 B4 LN52 B26 K28 G50 LN52 B4 R/4
 ![Sett](sett.png)

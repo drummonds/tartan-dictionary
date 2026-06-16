@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1946 — Rollo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3542))
 - pre 1946 — Rollo (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1971/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3542](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3542)
+- Scottish Tartans Authority (ITI): 1971
+- Scottish Tartans World Register: 1971
+
 ## Thread count
 DB/42 K6 DB42 K42 G42 Y8 G42 K42 G42 R8 G42 K/42
 ![Sett](sett.png)

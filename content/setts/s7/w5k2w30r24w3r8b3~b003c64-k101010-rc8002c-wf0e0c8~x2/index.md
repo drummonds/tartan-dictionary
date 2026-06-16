@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Arduaine, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7572/))
 - undated — Arduaine Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5596))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5596](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5596)
+- Scottish Tartans Authority (ITI): 7572
+
 ## Thread count
 DB/6 R16 W6 R48 W60 K4 W/10
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Sligo County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7431/))
 - 01/05/2005 — Sligo County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5367))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5367](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5367)
+- Scottish Tartans Authority (ITI): 7431
+- Scottish Tartans World Register: 3099
+
 ## Thread count
 N/6 K5 G14 DR20 LN27 K5 N6 K52 N8 K16 O/8
 ![Sett](sett.png)

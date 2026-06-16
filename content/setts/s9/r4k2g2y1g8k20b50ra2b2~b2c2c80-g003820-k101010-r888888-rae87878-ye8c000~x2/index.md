@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2000 — Buckie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=432))
 - pre 2002 — Buckie (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4005/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [432](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=432)
+- Scottish Tartans Authority (ITI): 4005
+- Scottish Tartans World Register: 2827
+
 ## Thread count
 DB/4 LR4 DB100 K40 DG16 Y2 DG4 K4 N/8
 ![Sett](sett.png)

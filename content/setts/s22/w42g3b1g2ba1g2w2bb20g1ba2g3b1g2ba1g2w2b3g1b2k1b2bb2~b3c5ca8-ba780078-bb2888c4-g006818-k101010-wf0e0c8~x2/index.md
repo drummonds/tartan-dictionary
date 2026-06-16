@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Tiree, Turquoise (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7598/))
 - undated — Tiree Turquoise (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5622))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5622](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5622)
+- Scottish Tartans Authority (ITI): 7598
+
 ## Thread count
 B/4 Ba4 K2 Ba4 G2 Ba6 W4 G4 P2 G4 Ba2 G6 P4 G2 B40 W4 G4 P2 G4 Ba2 G6 W/84
 ![Sett](sett.png)

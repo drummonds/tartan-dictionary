@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Westwood Red Anderson (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7490/))
 - undated — Westwood Red Anderson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5531))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5531](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5531)
+- Scottish Tartans Authority (ITI): 7490
+
 ## Thread count
 LR/10 B12 LR4 B18 LR8 R12 LR8 K10 DY4 K4 DY4 K10 LN10 K10 R46 LR2 K4 LR2 R10 LR/8
 ![Sett](sett.png)

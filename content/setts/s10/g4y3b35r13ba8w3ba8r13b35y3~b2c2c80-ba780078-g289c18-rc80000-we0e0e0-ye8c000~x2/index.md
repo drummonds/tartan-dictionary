@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Kilsyth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1977))
 - undated — Kilsyth District Tartan Tartan Number: 4073. Earliest known date: January 2002 Kilsyth in Scotland, Canada, Australia, New Zealand and America. Designed by William & Colin Chalmers of Howe Rd, Kilsyth, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4073))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1977](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1977)
+- Scottish Tartans Authority (ITI): 4073
+
 ## Thread count
 G/8 Y6 DB70 R26 P16 LN6 P16 R26 DB70 Y/6
 ![Sett](sett.png)

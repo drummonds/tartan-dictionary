@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 1998 — Robert Gordon University (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2450/))
 - undated — Robert Gordon University University Tartan Tartan Number: 2450. Earliest known date: pre 2002 Designed by Mike King of Philip King Kiltmakers in Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2450))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3519](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3519)
+- Scottish Tartans Authority (ITI): 2450
+- Scottish Tartans World Register: 2450
+
 ## Thread count
 DY/4 K2 DB24 K24 DR4 K/8
 ![Sett](sett.png)

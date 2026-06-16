@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — Gammell (Brown) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1313))
 - 1989 — Gammell (Brown) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4959/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1313](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1313)
+- Scottish Tartans Authority (ITI): 4959
+
 ## Thread count
 DB/40 T4 DB4 T4 DB4 T12 G30 T/4
 ![Sett](sett.png)

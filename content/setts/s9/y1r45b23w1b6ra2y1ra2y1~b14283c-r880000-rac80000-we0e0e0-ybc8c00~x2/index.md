@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Arbroath Smokie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=105))
 - pre 2005 — Arbroath Smokie (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6596/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [105](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=105)
+- Scottish Tartans Authority (ITI): 6596
+
 ## Thread count
 DY/2 DR90 DN46 LN2 DN12 R4 DY2 R4 DY/2
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1945 — MacFadzean/MacPhedran (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2431))
 - pre 1945 — MacFadzean/MacPhedran (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/744/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2431)
+- Scottish Tartans Authority (ITI): 744
+- Scottish Tartans World Register: 744
+
 ## Thread count
 G/12 DB48 W4 K48 G52 R8 G/8
 ![Sett](sett.png)

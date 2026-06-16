@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/1997 — California State (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=482))
 - 1998 — California State (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2454/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [482](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=482)
+- Scottish Tartans Authority (ITI): 2454
+- Scottish Tartans World Register: 2454
+
 ## Thread count
 LP/8 K2 B56 K32 G20 R4 G20 R8 G20 R4 G20 K2 Y/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Wellmont Golf Tournament (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4591))
 - May 1997 — Wellmont Golf Tournament (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2472/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4591](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4591)
+- Scottish Tartans Authority (ITI): 2472
+- Scottish Tartans World Register: 2472
+
 ## Thread count
 G/8 DR48 DO2 DN16 DR4 W4 DR4 G/48
 ![Sett](sett.png)

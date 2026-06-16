@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/1996 — British Energy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=362))
 - 1997 — British Energy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2324/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [362](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=362)
+- Scottish Tartans Authority (ITI): 2324
+- Scottish Tartans World Register: 2324
+
 ## Thread count
 DB/104 K24 P36 Y2 P2 Y/8
 ![Sett](sett.png)

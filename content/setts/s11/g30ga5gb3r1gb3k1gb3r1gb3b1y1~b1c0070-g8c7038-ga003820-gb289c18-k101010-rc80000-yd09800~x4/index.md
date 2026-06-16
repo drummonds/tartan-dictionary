@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 22/07/1994 — California Department of Forestry (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5352))
 - 1994 — California Dept. of Forestry (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3785/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5352](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5352)
+- Scottish Tartans Authority (ITI): 3785
+
 ## Thread count
 DY/4 DB4 G12 R4 G12 K4 G12 R4 G12 DG20 LT/120
 ![Sett](sett.png)

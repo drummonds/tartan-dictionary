@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Lloyd of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2141))
 - undated — Lloyd Welsh Name Tartan Tartan Number: 5765. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Floyd, Flood, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5765))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2141](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2141)
+- Scottish Tartans Authority (ITI): 5765
+
 ## Thread count
 DB/2 G19 N20 R2 N/40
 ![Sett](sett.png)

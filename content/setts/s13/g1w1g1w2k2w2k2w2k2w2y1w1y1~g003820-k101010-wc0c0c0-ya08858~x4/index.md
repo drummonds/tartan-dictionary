@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/1997 — Glen Flesk (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1379))
 - 1997 — Glen Flesk (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2369/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1379](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1379)
+- Scottish Tartans Authority (ITI): 2369
+- Scottish Tartans World Register: 2369
+
 ## Thread count
 DG/4 N4 DG4 N8 K8 N8 K8 N8 K8 N8 LT4 N4 LT/4
 ![Sett](sett.png)

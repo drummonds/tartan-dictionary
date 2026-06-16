@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — MacKendrick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431))
 - undated — Henderson MacKendrick Clan Tartan Tartan Number: 1762. Earliest known date: 1906 The name Henderson in Gaelic is MacEanruig, which is sometimes rendered as MacKendrick. Hendersons from the north are associated with the Gunns. Hendersons lived in Lochaber and Angus. The Henderson tartan resembles the Davidson, both of which were first recorded by W & A.K.Johnston in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1762))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
+- Scottish Tartans Authority (ITI): 3404
+
 ## Thread count
 LN/2 DB12 G8 DB2 G32 K2 G8 K12 Y/2
 ![Sett](sett.png)

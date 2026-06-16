@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Gates, Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317))
 - 2002 — Gates, Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6263/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1317](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317)
+- Scottish Tartans Authority (ITI): 6263
+
 ## Thread count
 B/6 G60 Ga16 G6 Ga16 G24 Ga8 G6 Ga/48
 ![Sett](sett.png)

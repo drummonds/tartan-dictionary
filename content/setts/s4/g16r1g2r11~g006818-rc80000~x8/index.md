@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 1906 — Middleton (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/903/))
 - undated — Middleton Family Tartan Tartan Number: 903. Earliest known date: 1906 Sir Thomas Middleton of Rosefarm in Cromarty was a distinguished agriculturalist in the Department of Food Production during the First World War. Middletons are associated with the Forbes and the Innes Clans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=903))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2947](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2947)
+- Scottish Tartans Authority (ITI): 903
+- Scottish Tartans World Register: 903
+
 ## Thread count
 G/128 R8 G16 R/88
 ![Sett](sett.png)

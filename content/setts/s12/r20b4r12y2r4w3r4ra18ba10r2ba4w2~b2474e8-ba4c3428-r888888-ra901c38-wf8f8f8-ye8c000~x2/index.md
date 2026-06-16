@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Portree (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3361))
 - pre 1985 — Portree (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5850/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3361](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3361)
+- Scottish Tartans Authority (ITI): 5850
+
 ## Thread count
 N/40 B8 N24 Y4 N8 W6 N8 DR36 T20 N4 T8 W/4
 ![Sett](sett.png)

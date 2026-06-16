@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - February 2008 — Dram! (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7532/))
 - undated — Dram! (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5568))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5568](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5568)
+- Scottish Tartans Authority (ITI): 7532
+
 ## Thread count
 B/20 DB4 B100 DB60 B4 DB/20
 ![Sett](sett.png)

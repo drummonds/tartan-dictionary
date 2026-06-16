@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1800 — Glen Tilt #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1399))
 - pre 1800 — Glen Tilt #1 (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2076/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1399](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1399)
+- Scottish Tartans Authority (ITI): 2076
+- Scottish Tartans World Register: 2076
+
 ## Thread count
 N/4 DR4 G4 DR44 DB24 DR4 G56 DR4 G4 N/4
 ![Sett](sett.png)

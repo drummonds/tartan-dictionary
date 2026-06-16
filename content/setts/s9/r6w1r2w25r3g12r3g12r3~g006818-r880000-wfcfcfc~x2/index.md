@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Crawford Arisaid (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=800))
 - 1985 — Crawford Arisaid (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4608/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [800](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=800)
+- Scottish Tartans Authority (ITI): 4608
+
 ## Thread count
 DR/6 G24 DR6 G24 DR6 W50 DR4 W2 DR/12
 ![Sett](sett.png)

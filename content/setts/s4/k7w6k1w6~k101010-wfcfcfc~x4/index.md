@@ -18,6 +18,13 @@ This cloth appears in 4 source records; the oldest owns this page.
 - 1842 — MacFarlane B & W (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3051/))
 - 1842 — Lendrum (B&W) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3086/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
+- Scottish Tartans Authority (ITI): 3086
+
 ## Thread count
 K/28 W24 K4 W/24
 ![Sett](sett.png)

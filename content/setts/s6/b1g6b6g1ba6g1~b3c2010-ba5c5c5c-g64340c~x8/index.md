@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1972 — Brown Heather (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3737/))
 - undated — Brown Heather (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5332))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5332](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5332)
+- Scottish Tartans Authority (ITI): 3737
+
 ## Thread count
 K/8 T48 K48 T8 N48 T/8
 ![Sett](sett.png)

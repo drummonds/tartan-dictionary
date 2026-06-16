@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 10/06/2011 — Hororata (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10536))
 - undated — Hororata District Tartan Tartan Number: 10536. Earliest known date: 9 January 2012 This tartan was created to celebrate the inaugural Hororata Highland Games in the aftermath of the 2011 earthquake which devastated Christchurch and destroyed many important buildings in the small town of Hororata. Based on the Mackenzie Clan tartan after the colourful 19th century New Zealand folk hero, James Mackenzie. Hororata is Maori for 'drooping rata', the Rata tree that produces masses of bright red flowers, leading it to be known as the South Island Christmas tree. Colours: red for the Rata flowers; black and white to complete the colours of the Maori flag; white also represents the snow capped mountains, green represents the fertile Canterbury plains and blue the major rivers flowing into the Pacific; black and yellow are the town colours of Hororata. The design and the first 30 metres of cloth were donated by the Scottish Tartans Authority and Andrew Elliot, weavers of Selkirk. The official registration in the Scottish Register of Tartans was donated by the National Records of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10536))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10536](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10536)
+
 ## Thread count
 R/4 K2 DB60 K12 G24 Y2 DB4 Y2 G24 K6 W/2
 ![Sett](sett.png)

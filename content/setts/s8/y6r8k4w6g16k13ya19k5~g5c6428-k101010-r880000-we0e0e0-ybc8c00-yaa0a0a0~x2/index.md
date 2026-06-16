@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Kilkenny County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7405/))
 - 01/05/2005 — Kilkenny County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5363))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5363](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5363)
+- Scottish Tartans Authority (ITI): 7405
+- Scottish Tartans World Register: 3088
+
 ## Thread count
 DY/12 DR16 K8 LN12 G32 K26 N38 K/10
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Rollings (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3108/))
 - undated — Rollings (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5136))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5136](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5136)
+- Scottish Tartans Authority (ITI): 3108
+
 ## Thread count
 G/110 R8 N6 P22 LN8 DB22 N6 R8 G110 K/8
 ![Sett](sett.png)

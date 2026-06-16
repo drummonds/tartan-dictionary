@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1970 — Oromocto (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3266))
 - 1st Jan 1970 — Oromocto (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6987/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3266](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3266)
+- Scottish Tartans Authority (ITI): 6987
+
 ## Thread count
 R/12 K10 Y2 K2 LN6 Ba10 LN2 Ba40 LN2 Ba10 LN6 K2 R2 K10 Y/12
 ![Sett](sett.png)

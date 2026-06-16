@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Parma (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3296))
 - pre 1983 — Parma (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5516/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3296](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3296)
+- Scottish Tartans Authority (ITI): 5516
+
 ## Thread count
 LT/128 T32 LT4 T4 Na4 LT4 Na4 LTa4 LT4 T4 N4 LT16 T/4
 ![Sett](sett.png)

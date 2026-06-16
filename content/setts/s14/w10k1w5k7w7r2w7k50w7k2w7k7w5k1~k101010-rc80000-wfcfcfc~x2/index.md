@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1998 — Pars, Dress (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3834/))
 - undated — Pars, Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5125))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5125](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5125)
+- Scottish Tartans Authority (ITI): 3834
+
 ## Thread count
 K/2 W10 K14 W14 K4 W14 K100 W14 R4 W14 K14 W10 K2 W/20
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacNeish Htg (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3510/))
 - undated — MacNeish Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5195))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5195](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5195)
+- Scottish Tartans Authority (ITI): 3510
+
 ## Thread count
 DR/12 G6 K6 N48 G8 K20 G8 DR4 G48 DR12 G/4
 ![Sett](sett.png)

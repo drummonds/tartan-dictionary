@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1831 — Lendrum (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3366/))
 - undated — Lendrum (Lyon version) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5113))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5113](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5113)
+- Scottish Tartans Authority (ITI): 3366
+
 ## Thread count
 G/6 LN8 R6 K8 P24 G4 LN4 R6 K2 R6 LN4 G24 K2 R/84
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2006 — Mary Stewart, Queen of Scots (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2844))
 - December 2006 — Mary Stewart, Queen of Scots (Fash) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7033/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2844](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2844)
+- Scottish Tartans Authority (ITI): 7033
+
 ## Thread count
 LN/4 K2 LR6 K4 R12 G16 K4 Y4 K4 LN8 K10 DB10 LR/50
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/1997 — Edinburgh, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086))
 - 1998 Oct — Edinburgh, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2400/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1086](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086)
+- Scottish Tartans Authority (ITI): 2400
+- Scottish Tartans World Register: 2400
+
 ## Thread count
 N/20 K6 W6 K6 W6 K6 N20 R12 K30 R/6
 ![Sett](sett.png)

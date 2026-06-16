@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Prince Edward Island, Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3390))
 - pre 1994 — Prince Edward Island, Dress (Distric (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5475/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3390](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3390)
+- Scottish Tartans Authority (ITI): 5475
+
 ## Thread count
 DY/6 DR2 LN48 DR36 G8 DR4 G8 DR4 G/44
 ![Sett](sett.png)

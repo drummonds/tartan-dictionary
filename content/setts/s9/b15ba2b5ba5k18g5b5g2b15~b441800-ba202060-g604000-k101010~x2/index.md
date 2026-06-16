@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Laois, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2049))
 - 1997 — Laois, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2252/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2049](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2049)
+- Scottish Tartans Authority (ITI): 2252
+- Scottish Tartans World Register: 2252
+
 ## Thread count
 DR/30 DB4 DR10 DB10 K36 T10 DR10 T4 DR/30
 ![Sett](sett.png)

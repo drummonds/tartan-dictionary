@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/2002 — Fitzgerald (Military) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1194))
 - undated — Baluch Regiment (Old Count) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4955))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4955](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4955)
+- Scottish Tartans Authority (ITI): 3969
+- Scottish Tartans World Register: 1524
+
 ## Thread count
 R/10 G40 R10 G6 R8 G10 R72 T4 W/8
 ![Sett](sett.png)

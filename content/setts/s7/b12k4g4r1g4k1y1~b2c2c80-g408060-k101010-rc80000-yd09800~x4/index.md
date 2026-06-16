@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — MacLaren (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2594))
 - 1819 — MacLaren (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/342/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2594](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2594)
+- Scottish Tartans Authority (ITI): 342
+- Scottish Tartans World Register: 342
+
 ## Thread count
 DB/48 K16 G16 R4 G16 K4 DY/4
 ![Sett](sett.png)

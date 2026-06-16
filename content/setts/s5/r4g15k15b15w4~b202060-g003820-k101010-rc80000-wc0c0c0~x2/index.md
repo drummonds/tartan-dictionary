@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1840 — Dalmeny #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=879))
 - 1840 — Dalmeny - 1840 (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1480/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [879](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=879)
+- Scottish Tartans Authority (ITI): 1480
+- Scottish Tartans World Register: 1480
+
 ## Thread count
 N/8 DB30 K30 DG30 R/8
 ![Sett](sett.png)

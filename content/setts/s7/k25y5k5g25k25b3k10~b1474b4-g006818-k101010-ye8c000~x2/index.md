@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — London Community Gospel Choir (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5311))
 - June 2007 — London Community Gospel Choir (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7219/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5311](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5311)
+- Scottish Tartans Authority (ITI): 7219
+
 ## Thread count
 K/20 B6 K50 G50 K10 Y10 K/50
 ![Sett](sett.png)

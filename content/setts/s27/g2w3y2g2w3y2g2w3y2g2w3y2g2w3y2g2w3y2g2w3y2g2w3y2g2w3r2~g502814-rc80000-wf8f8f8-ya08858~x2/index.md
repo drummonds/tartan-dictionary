@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Glenmoidart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1425))
 - pre 2002 — Glenmoidart (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5039/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1425](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1425)
+- Scottish Tartans Authority (ITI): 5039
+
 ## Thread count
 R/4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T/4
 ![Sett](sett.png)

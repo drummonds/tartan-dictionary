@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Crook (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=811))
 - 1995 — Crook (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4616/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [811](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=811)
+- Scottish Tartans Authority (ITI): 4616
+
 ## Thread count
 K/8 R28 B4 N32 R6 K6 R6 B24 N/8
 ![Sett](sett.png)

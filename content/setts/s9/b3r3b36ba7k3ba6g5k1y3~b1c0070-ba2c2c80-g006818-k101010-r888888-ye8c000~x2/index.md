@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Incorporation of Weavers (Glasgow) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1820))
 - 2000 — Incorporation of Weavers (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7249/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1820](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1820)
+- Scottish Tartans Authority (ITI): 7249
+
 ## Thread count
 DBa/6 N6 DBa72 DB14 K6 DB12 G10 K2 Y/6
 ![Sett](sett.png)

@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1996 — Highland Park (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5190/))
 - undated — Highland Park Corporate Tartan Tartan Number: 5190. Earliest known date: 1996 Designed by Lochcarron in May 1996 for Highland Park Distillery (The Orkney Whisky Company) using the main logo colors. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5190))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1713](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1713)
+- Scottish Tartans Authority (ITI): 5190
+
 ## Thread count
 DY/4 K6 DB12 DR8 K96 DR8 DB12 K6 N/4
 ![Sett](sett.png)

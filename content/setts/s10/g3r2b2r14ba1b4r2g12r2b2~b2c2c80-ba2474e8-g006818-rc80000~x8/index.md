@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1952 — MacKillop (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/512/))
 - 01/01/2002 — MacKillop (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2538))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2538](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2538)
+- Scottish Tartans Authority (ITI): 512
+- Scottish Tartans World Register: 512
+
 ## Thread count
 DB/16 R16 G96 R16 DB32 B8 R112 DB16 R16 G/24
 ![Sett](sett.png)

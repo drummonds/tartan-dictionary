@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1985 — Johnnie Walker (1985) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1174/))
 - undated — Johnnie Walker Corporate Tartan Tartan Number: 1174. Earliest known date: 1985 Check this entry... See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1174))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1894](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1894)
+- Scottish Tartans Authority (ITI): 1174
+- Scottish Tartans World Register: 1174
+
 ## Thread count
 K/40 R4 K4 R8 K4 R56 K4 O4 R16 K4 R8 K4 R8 K/60
 ![Sett](sett.png)

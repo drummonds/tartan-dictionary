@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 05/10/1999 — Glengarry Highland Games (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419))
 - October 1999 — Glengarry Highland Games (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2638/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1419](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419)
+- Scottish Tartans Authority (ITI): 2638
+- Scottish Tartans World Register: 2638
+
 ## Thread count
 K/24 DB28 W6 R6 W6 DB28 K20 R12 G26 R6 G6 R/40
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Leith (Hay) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091))
 - 1819 — Leith & Hay (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2131/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2091](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091)
+- Scottish Tartans Authority (ITI): 2131
+- Scottish Tartans World Register: 2131
+
 ## Thread count
 K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 LN3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K14 R4 Y4 K8 R70 G8 R3 Y3 R8 G64 LN3 K63 R3 DP64 R8 Y3 R3 DP8 R70 K8 Y4 R/4
 ![Sett](sett.png)

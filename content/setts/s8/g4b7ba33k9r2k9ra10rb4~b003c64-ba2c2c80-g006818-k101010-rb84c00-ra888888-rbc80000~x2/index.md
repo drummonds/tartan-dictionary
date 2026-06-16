@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 16/02/1998 — Anne Arundel County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=93))
 - 1998 — Anne Arundel County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2453/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [93](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=93)
+- Scottish Tartans Authority (ITI): 2453
+- Scottish Tartans World Register: 2453
+
 ## Thread count
 G/8 DB14 DBa66 K18 DO4 K18 N20 R/8
 ![Sett](sett.png)

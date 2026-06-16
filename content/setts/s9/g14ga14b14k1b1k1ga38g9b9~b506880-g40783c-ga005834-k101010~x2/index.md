@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Fiddes - 2007 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7618/))
 - undated — Fiddes (2007) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5638))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5638](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5638)
+- Scottish Tartans Authority (ITI): 7618
+
 ## Thread count
 B/18 G18 Ga76 K2 B2 K2 B28 Ga28 G/28
 ![Sett](sett.png)

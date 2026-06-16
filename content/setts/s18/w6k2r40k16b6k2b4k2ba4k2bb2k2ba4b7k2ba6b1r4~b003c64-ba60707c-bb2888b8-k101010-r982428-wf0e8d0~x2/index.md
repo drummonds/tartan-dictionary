@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2005 — Breeding (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347))
 - Dec 2005 — Breeding (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6806/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [347](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347)
+- Scottish Tartans Authority (ITI): 6806
+
 ## Thread count
 DR/8 DB2 N12 K4 DB14 N8 K4 Ba4 K4 N8 K4 DB8 K4 DB12 K32 DR80 K4 W/12
 ![Sett](sett.png)

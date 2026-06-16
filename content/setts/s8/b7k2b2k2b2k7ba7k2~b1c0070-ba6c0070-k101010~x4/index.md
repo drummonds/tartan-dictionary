@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Glasgow Academy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1351))
 - 1996 — Glasgow Academy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2052/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1351](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1351)
+- Scottish Tartans Authority (ITI): 2052
+- Scottish Tartans World Register: 2052
+
 ## Thread count
 DB/28 K8 DB8 K8 DB8 K28 P28 K/8
 ![Sett](sett.png)

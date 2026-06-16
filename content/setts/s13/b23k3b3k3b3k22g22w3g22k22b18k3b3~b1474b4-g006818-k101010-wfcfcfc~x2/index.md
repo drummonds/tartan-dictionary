@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1817 — Lamont #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2035))
 - 1817 — Lamont (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/216/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2035](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2035)
+- Scottish Tartans Authority (ITI): 216
+- Scottish Tartans World Register: 216
+
 ## Thread count
 B/46 K6 B6 K6 B6 K44 G44 W6 G44 K44 B36 K6 B/6
 ![Sett](sett.png)

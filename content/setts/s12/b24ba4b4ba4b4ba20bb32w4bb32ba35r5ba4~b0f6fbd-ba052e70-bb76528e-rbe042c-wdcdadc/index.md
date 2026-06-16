@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 12/07/2012 — Caledonian Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10687))
 - undated — Caledonian Club Corporate Tartan Tartan Number: 10687. Earliest known date: 3 September 2012 The Caledonian Club, founded in 1891, is a private members’ Club situated in the heart of Belgravia. It was founded by Neville Campbell and the tartan is based on the Clan Campbell sett. The Caledonian Club building was originally built for Hugh Morrison, so the designer included the colour red from the Morrison tartan. The other colours are based on the Club arms, which features blue from the saltire, red and dark navy, with purple from the recent Club re-branding. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10687))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10687](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10687)
+
 ## Thread count
 B/24 DB4 B4 DB4 B4 DB20 Ba32 LN4 Ba32 DB35 R5 DB/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2005 — MacGregor, Black (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2462))
 - 2005 March — MacGregor - 2005 (Ronan - Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6588/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2462](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2462)
+- Scottish Tartans Authority (ITI): 6588
+
 ## Thread count
 K/144 G46 K14 G16 R2 LN/6
 ![Sett](sett.png)

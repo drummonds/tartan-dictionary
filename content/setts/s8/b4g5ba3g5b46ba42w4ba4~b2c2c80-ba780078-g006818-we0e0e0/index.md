@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2003 — Clans of Caledonia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=662))
 - September 2003 — Clans of Caledonia (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5923/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [662](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=662)
+- Scottish Tartans Authority (ITI): 5923
+
 ## Thread count
 DB/4 G5 P3 G5 DB46 P42 LN4 P/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Murray of Atholl Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3064))
 - 1880 — Murray of Atholl Dress - 1880 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1363/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3064](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3064)
+- Scottish Tartans Authority (ITI): 1363
+- Scottish Tartans World Register: 1363
+
 ## Thread count
 DR/4 DB20 K12 G20 DR4 G20 K12 LN8 DB8 LN32 DB2 LN/10
 ![Sett](sett.png)

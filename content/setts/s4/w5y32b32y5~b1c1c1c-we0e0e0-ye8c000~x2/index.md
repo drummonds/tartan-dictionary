@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — Barclay Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=214))
 - 1842 — Barclay Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1879/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [214](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=214)
+- Scottish Tartans Authority (ITI): 1879
+- Scottish Tartans World Register: 1879
+
 ## Thread count
 LN/10 Y64 K64 Y/10
 ![Sett](sett.png)

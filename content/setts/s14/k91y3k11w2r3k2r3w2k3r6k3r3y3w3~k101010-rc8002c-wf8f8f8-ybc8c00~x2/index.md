@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2005 — Firefighters (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1188))
 - 2005 July — Firefighters (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6684/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1188](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1188)
+- Scottish Tartans Authority (ITI): 6684
+
 ## Thread count
 K/182 DY6 K22 W4 R6 K4 R6 W4 K6 R12 K6 R6 DY6 W/6
 ![Sett](sett.png)

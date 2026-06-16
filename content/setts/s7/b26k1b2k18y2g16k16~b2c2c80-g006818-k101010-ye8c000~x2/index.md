@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Mowat (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/258/))
 - undated — Mowat Clan Tartan Tartan Number: 258. Earliest known date: 1906. Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=258))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3034](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034)
+- Scottish Tartans Authority (ITI): 258
+- Scottish Tartans World Register: 258
+
 ## Thread count
 DB/52 K2 DB4 K36 Y4 G32 K/32
 ![Sett](sett.png)

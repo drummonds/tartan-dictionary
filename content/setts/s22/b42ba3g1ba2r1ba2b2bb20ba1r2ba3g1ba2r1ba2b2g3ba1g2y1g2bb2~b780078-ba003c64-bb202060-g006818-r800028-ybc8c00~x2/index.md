@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 05/07/2002 — Monarch of the Glen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2978))
 - 2002 — Monarch of the Glen (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4542/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2978](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2978)
+- Scottish Tartans Authority (ITI): 4542
+- Scottish Tartans World Register: 2754
+
 ## Thread count
 DB/4 G4 DY2 G4 DBa2 G6 P4 DBa4 DR2 DBa4 G2 DBa6 DR4 DBa2 DB40 P4 DBa4 DR2 DBa4 G2 DBa6 P/84
 ![Sett](sett.png)

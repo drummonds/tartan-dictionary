@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Sligo, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3819))
 - 1997 — Sligo, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2256/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3819](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3819)
+- Scottish Tartans Authority (ITI): 2256
+- Scottish Tartans World Register: 2256
+
 ## Thread count
 DB/100 DR8 DB24 DR46 Y8 DR/8
 ![Sett](sett.png)

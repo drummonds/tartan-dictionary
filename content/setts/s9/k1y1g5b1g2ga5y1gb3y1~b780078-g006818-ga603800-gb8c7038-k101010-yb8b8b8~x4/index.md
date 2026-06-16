@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Corcoran of Sherbrooke (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=759))
 - 1994 — Corcoran of Sherbrooke (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4584/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [759](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=759)
+- Scottish Tartans Authority (ITI): 4584
+
 ## Thread count
 K/4 N4 G20 P4 G8 T20 N4 LT12 N/4
 ![Sett](sett.png)

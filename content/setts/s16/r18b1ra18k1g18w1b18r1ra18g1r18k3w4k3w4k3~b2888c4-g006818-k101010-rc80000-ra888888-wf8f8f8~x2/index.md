@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/06/2001 — City of Edinburgh (2001) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=656))
 - undated — Edinburgh, City of.. (2001) District Tartan Tartan Number: 6396. Earliest known date: June 2001 Asymmetric tartan. Lochcarron swatch. Note says June 2001 Trial. Muted version woven in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6396))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [656](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=656)
+- Scottish Tartans Authority (ITI): 6396
+
 ## Thread count
 K/6 W8 K6 W8 K6 R36 G2 N36 R2 B36 W2 G36 K2 N36 B2 R/36
 ![Sett](sett.png)

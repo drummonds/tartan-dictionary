@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Sommerville (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3835))
 - 1930 — Somerville (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1861/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3835](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3835)
+- Scottish Tartans Authority (ITI): 1861
+- Scottish Tartans World Register: 1861
+
 ## Thread count
 LN/4 R6 LR12 R96 DBa8 R4 Ga32 LR10 R6 LR10 DBa40 R10 Ga6 R10 Ga108 R6 LR10 Y/4
 ![Sett](sett.png)

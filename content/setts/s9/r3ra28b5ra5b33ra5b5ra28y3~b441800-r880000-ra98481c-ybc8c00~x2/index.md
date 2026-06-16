@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — MacIver of Strathendry Htg (Personal (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3397/))
 - undated — MacIver of Strathendry Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5036))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5036](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5036)
+- Scottish Tartans Authority (ITI): 3397
+
 ## Thread count
 DRa/6 T56 DR10 T10 DR66 T10 DR10 T56 DY/6
 ![Sett](sett.png)

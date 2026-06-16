@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Scottish Bluebell (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7560/))
 - undated — Scottish Bluebell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5588))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5588](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5588)
+- Scottish Tartans Authority (ITI): 7560
+- Scottish Tartans World Register: 3237
+
 ## Thread count
 B/8 LN1 DB80 K34 LN4 B8 LN4 K8 LN4 B8 LN4 K34 DB/80
 ![Sett](sett.png)

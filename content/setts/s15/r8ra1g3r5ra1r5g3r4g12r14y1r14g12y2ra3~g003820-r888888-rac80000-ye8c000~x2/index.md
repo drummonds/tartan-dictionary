@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2002 — Howells (Welsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5755/))
 - undated — Howells Welsh Name Tartan Tartan Number: 5755. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Powell, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5755))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4994](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4994)
+- Scottish Tartans Authority (ITI): 5755
+
 ## Thread count
 N/16 R2 DG6 N10 R2 N10 DG6 N8 DG24 N28 Y2 N28 DG24 Y4 R/6
 ![Sett](sett.png)

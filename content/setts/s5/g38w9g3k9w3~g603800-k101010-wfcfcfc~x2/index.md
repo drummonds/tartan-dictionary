@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Loch Tummel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2158))
 - pre 2002 — Loch Tummel (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1751/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2158](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2158)
+- Scottish Tartans Authority (ITI): 1751
+- Scottish Tartans World Register: 1751
+
 ## Thread count
 T/76 W18 T6 K18 W/6
 ![Sett](sett.png)

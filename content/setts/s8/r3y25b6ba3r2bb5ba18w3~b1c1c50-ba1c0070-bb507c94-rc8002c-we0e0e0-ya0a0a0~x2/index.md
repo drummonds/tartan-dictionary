@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Fulbright Foundation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1287))
 - pre 2006 — Fulbright Foundation (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7031/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1287](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1287)
+- Scottish Tartans Authority (ITI): 7031
+
 ## Thread count
 LN/6 DBa36 B10 R4 DBa6 DB12 N50 R/6
 ![Sett](sett.png)

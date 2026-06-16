@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — Papua New Guinea (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5406))
 - June 2007 — Papua New Guinea (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7235/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5406](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5406)
+- Scottish Tartans Authority (ITI): 7235
+
 ## Thread count
 G/6 Y10 R28 K72 LN/6
 ![Sett](sett.png)

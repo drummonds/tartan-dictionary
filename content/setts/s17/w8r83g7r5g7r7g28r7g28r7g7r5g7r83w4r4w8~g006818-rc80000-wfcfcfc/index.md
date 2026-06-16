@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1840 — Rothesay (Red) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3573))
 - 1840 — Rothesay, Red (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1533/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3573](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3573)
+- Scottish Tartans Authority (ITI): 1533
+- Scottish Tartans World Register: 1533
+
 ## Thread count
 W/8 R83 G7 R5 G7 R7 G28 R7 G28 R7 G7 R5 G7 R83 W4 R4 W/8
 ![Sett](sett.png)

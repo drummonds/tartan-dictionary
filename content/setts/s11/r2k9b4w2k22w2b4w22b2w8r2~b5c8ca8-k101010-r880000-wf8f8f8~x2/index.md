@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1977 — MacRae, Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5213))
 - 1977 — MacRae - 1977 (Dress) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3570/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5213](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5213)
+- Scottish Tartans Authority (ITI): 3570
+
 ## Thread count
 DR/4 K18 B8 W4 K44 W4 B8 W44 B4 W16 DR/4
 ![Sett](sett.png)

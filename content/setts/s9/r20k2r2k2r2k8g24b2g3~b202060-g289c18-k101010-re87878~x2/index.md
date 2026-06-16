@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2006 — Mostyn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3024))
 - 2006 March — Mostyn (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6896/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3024](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3024)
+- Scottish Tartans Authority (ITI): 6896
+
 ## Thread count
 G/6 DB4 G48 K16 LR4 K4 LR4 K4 LR/40
 ![Sett](sett.png)

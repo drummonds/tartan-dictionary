@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Tulsa, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4155))
 - 1978 — Tulsa, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/712/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4155](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4155)
+- Scottish Tartans Authority (ITI): 712
+- Scottish Tartans World Register: 712
+
 ## Thread count
 DG/28 DB16 DG28 R28 K6 R/28
 ![Sett](sett.png)

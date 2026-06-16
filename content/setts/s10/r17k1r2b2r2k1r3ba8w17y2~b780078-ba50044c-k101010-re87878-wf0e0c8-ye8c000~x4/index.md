@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Kyle, Pink (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7588/))
 - undated — Kyle Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5612))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5612](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5612)
+- Scottish Tartans Authority (ITI): 7588
+
 ## Thread count
 LR/68 K4 LR8 P8 LR8 K4 LR12 DP32 W68 Y/8
 ![Sett](sett.png)

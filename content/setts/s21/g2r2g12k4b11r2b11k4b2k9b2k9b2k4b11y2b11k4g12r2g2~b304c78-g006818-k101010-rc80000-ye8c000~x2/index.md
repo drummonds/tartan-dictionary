@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Allen (1998) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=56))
 - pre 1998 — Allen (1998) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2482/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [56](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=56)
+- Scottish Tartans Authority (ITI): 2482
+- Scottish Tartans World Register: 2482
+
 ## Thread count
 G/4 R4 G24 K8 B22 R4 B22 K8 B4 K18 B4 K18 B4 K8 B22 Y4 B22 K8 G24 R4 G/4
 ![Sett](sett.png)

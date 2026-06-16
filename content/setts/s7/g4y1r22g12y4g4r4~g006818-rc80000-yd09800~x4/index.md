@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Spice Apple (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3861))
 - pre 1972 — Spice Apple (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5314/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3861](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3861)
+- Scottish Tartans Authority (ITI): 5314
+
 ## Thread count
 G/16 DY4 R88 G48 DY16 G16 R/16
 ![Sett](sett.png)

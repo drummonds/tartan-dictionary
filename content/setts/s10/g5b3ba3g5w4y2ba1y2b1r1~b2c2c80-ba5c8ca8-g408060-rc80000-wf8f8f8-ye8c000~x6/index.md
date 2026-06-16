@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Northern College (Ontario) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3160))
 - 1983 — Northern College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/690/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3160](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3160)
+- Scottish Tartans Authority (ITI): 690
+- Scottish Tartans World Register: 690
+
 ## Thread count
 Ga/30 DB18 B18 Ga30 W24 Y12 B6 Y12 DB6 R/6
 ![Sett](sett.png)

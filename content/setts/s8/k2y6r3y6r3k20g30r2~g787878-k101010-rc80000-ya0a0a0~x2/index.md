@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - June 2008 — Hermitage Academy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7671/))
 - undated — Hermitage Academy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5674))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5674](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5674)
+- Scottish Tartans Authority (ITI): 7671
+
 ## Thread count
 K/4 N12 R6 N12 R6 K40 Na60 R/4
 ![Sett](sett.png)

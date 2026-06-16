@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1999 — MacMugen (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2657/))
 - 01/03/2000 — MacMugen (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2663))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2663)
+- Scottish Tartans Authority (ITI): 2657
+- Scottish Tartans World Register: 2657
+
 ## Thread count
 DB/9 LY48 DB12 LY9 DB36 LY/6
 ![Sett](sett.png)

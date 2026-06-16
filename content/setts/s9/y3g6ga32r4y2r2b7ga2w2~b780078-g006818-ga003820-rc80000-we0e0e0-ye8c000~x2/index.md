@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Pienaar (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3335))
 - 2005 — Pienaar (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6872/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3335](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3335)
+- Scottish Tartans Authority (ITI): 6872
+
 ## Thread count
 LN/4 DG4 P14 R4 Y4 R8 DG64 G12 Y/6
 ![Sett](sett.png)

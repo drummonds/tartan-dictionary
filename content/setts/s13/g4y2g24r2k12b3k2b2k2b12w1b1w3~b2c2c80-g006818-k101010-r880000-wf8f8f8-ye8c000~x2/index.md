@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2002 — Baron of Greencastle (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=220))
 - pre 2005 — Baron of Greencastle (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6196/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [220](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=220)
+- Scottish Tartans Authority (ITI): 6196
+- Scottish Tartans World Register: 2912
+
 ## Thread count
 G/8 Y4 G48 DR4 K24 DB6 K4 DB4 K4 DB24 W2 DB2 W/6
 ![Sett](sett.png)

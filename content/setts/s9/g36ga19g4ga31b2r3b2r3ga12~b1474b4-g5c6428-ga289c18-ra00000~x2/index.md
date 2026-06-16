@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — O'Brien (Scotch Corner) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3214))
 - pre 2004 — O'Brien #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6173/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3214](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3214)
+- Scottish Tartans Authority (ITI): 6173
+
 ## Thread count
 G/24 DR6 B4 DR6 B4 G62 Ga8 G38 Ga/72
 ![Sett](sett.png)

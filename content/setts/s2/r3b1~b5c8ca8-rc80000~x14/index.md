@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [2 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4693
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4693](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4693)
+- Scottish Tartans Authority (ITI): 448
+- Scottish Tartans World Register: 448
+
 ## Thread count
 B/14 R/42
 ![Sett](sett.png)

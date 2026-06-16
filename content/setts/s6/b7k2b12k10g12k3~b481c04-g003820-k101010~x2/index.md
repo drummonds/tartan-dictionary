@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1986 — Brown Watch (single) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7812/))
 - undated — Brown Watch (single tramlines) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5770))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5770](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5770)
+- Scottish Tartans Authority (ITI): 7812
+
 ## Thread count
 DR/14 K4 DR24 K20 DG24 K/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1959 — Prince Edward Island (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/918/))
 - 01/01/1960 — Prince Edward Island (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3388))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3388)
+- Scottish Tartans Authority (ITI): 918
+- Scottish Tartans World Register: 918
+
 ## Thread count
 G/40 T4 G8 T4 G8 T36 DR36 T2 Y8 T2 DR36 T36 G36 T2 W/8
 ![Sett](sett.png)

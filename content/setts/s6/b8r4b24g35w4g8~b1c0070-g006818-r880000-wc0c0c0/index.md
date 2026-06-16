@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Heritage Tartan, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1697))
 - pre 2002 — Heritage Tartan, The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5185/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1697](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1697)
+- Scottish Tartans Authority (ITI): 5185
+
 ## Thread count
 DB/8 DR4 DB24 G35 N4 G/8
 ![Sett](sett.png)

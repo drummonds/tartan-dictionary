@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Wild Geese (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5324))
 - pre 2007 — Wild Geese (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7400/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5324](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5324)
+- Scottish Tartans Authority (ITI): 7400
+- Scottish Tartans World Register: 3073
+
 ## Thread count
 DB/16 K2 LN10 K2 R10 DG26 K4 G8 K4 G22 DG40 DY14 DG/10
 ![Sett](sett.png)

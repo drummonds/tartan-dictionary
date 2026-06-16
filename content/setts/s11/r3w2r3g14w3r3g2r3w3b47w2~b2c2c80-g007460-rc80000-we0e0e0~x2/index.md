@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2007 — Friends of Scotland Caucus (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1281))
 - August 2007 — Friends of Scotland Caucus (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7275/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1281](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1281)
+- Scottish Tartans Authority (ITI): 7275
+
 ## Thread count
 LN/4 DB94 LN6 R6 G4 R6 LN6 G28 R6 LN4 R/6
 ![Sett](sett.png)

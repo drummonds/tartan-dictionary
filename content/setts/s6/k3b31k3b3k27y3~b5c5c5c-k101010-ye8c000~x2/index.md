@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov. 2008 — Scottish National Party (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7839/))
 - undated — Scottish National Party (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5791))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5791](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5791)
+- Scottish Tartans Authority (ITI): 7839
+
 ## Thread count
 K/6 N62 K6 N6 K54 Y/6
 ![Sett](sett.png)

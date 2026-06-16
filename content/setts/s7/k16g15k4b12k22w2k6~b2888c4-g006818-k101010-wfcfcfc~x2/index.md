@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2004 — Frame (Edinburgh) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1243))
 - June 2004 — Frame (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6289/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1243](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1243)
+- Scottish Tartans Authority (ITI): 6289
+
 ## Thread count
 K/32 G30 K8 B24 K44 W4 K/12
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/10/2000 — New Providence Presbyterian Church (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4861))
 - 2000 — New Providence Presb. Church (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3885/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4861](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4861)
+- Scottish Tartans Authority (ITI): 3885
+
 ## Thread count
 W/4 DB2 W28 DB4 W2 DB14 B14 R2 B14 DB14 R2 Y4 R32 Y4 R4 DB14 W2 DB4 W28 DB2 W/4
 ![Sett](sett.png)

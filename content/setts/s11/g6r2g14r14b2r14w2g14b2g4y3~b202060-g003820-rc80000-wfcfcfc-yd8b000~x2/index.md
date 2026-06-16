@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Hunter (USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1790))
 - 1984 — Hunter (USA) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5230/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1790](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1790)
+- Scottish Tartans Authority (ITI): 5230
+
 ## Thread count
 DG/12 R4 DG28 R28 DB4 R28 W4 DG28 DB4 DG8 Y/6
 ![Sett](sett.png)

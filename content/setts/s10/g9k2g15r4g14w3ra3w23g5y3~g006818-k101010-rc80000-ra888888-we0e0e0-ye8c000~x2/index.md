@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Taylor Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4082))
 - 1983 — Taylor Dress (Dance?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/810/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4082](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4082)
+- Scottish Tartans Authority (ITI): 810
+- Scottish Tartans World Register: 810
+
 ## Thread count
 G/18 K4 G30 R8 G28 LN6 N6 LN46 G10 Y/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/02/2004 — Gamblin Thompson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1309))
 - pre 2004 — Gamblin Thompson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6195/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1309](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1309)
+- Scottish Tartans Authority (ITI): 6195
+- Scottish Tartans World Register: 2995
+
 ## Thread count
 B/8 G52 R8 K24 DB92 W/4
 ![Sett](sett.png)

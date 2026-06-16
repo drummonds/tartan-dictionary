@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1982 — Dickie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=936))
 - 1982 — Dickie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4192/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [936](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=936)
+- Scottish Tartans Authority (ITI): 4192
+
 ## Thread count
 G/16 R4 G24 K12 G6 DB12 R48 K/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - July 2008 — Alegre-Wood (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7698/))
 - undated — Alegre-Wood (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5695))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5695](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5695)
+- Scottish Tartans Authority (ITI): 7698
+
 ## Thread count
 B/4 DY4 T2 DY2 T24 DR12 O4 DR/160
 ![Sett](sett.png)

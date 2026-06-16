@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Donegal, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=950))
 - 1996 — Donegal, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2247/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [950](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=950)
+- Scottish Tartans Authority (ITI): 2247
+- Scottish Tartans World Register: 2247
+
 ## Thread count
 DRa/4 B16 DRa4 B36 DR10 B6 G6 B6 G34 DY/6
 ![Sett](sett.png)

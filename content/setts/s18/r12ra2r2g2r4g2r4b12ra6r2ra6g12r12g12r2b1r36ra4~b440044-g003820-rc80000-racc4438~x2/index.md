@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — MacCoul (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2327))
 - 1850 — MacCoul (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1635/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2327](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2327)
+- Scottish Tartans Authority (ITI): 1635
+- Scottish Tartans World Register: 1635
+
 ## Thread count
 R/8 Ra72 DP2 Ra4 DG24 Ra24 DG24 R12 Ra4 R12 DP24 Ra8 DG4 Ra8 DG4 Ra4 R4 Ra/24
 ![Sett](sett.png)

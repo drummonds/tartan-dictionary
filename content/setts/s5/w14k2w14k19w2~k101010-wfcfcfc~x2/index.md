@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1906 — MacLeod Black & White (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2634))
 - 1906 — MacLeod B&W - 1906 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1828/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2634](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2634)
+- Scottish Tartans Authority (ITI): 1828
+- Scottish Tartans World Register: 1828
+
 ## Thread count
 W/4 K38 W28 K4 W/28
 ![Sett](sett.png)

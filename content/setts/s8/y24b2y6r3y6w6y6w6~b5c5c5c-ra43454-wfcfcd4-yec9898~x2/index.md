@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Weaving for Life (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4040))
 - 2007 — Weaving for Life (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7333/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4040](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4040)
+- Scottish Tartans Authority (ITI): 7333
+
 ## Thread count
 LRa/48 N4 LRa12 DR6 LRa12 LY12 LRa12 LY/12
 ![Sett](sett.png)

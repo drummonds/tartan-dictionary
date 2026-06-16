@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2001 — McCook/Cook (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3910/))
 - undated — McCook/Cook (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5280))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5280](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5280)
+- Scottish Tartans Authority (ITI): 3910
+
 ## Thread count
 G/48 B24 G24 R60 K4 R4 K/8
 ![Sett](sett.png)

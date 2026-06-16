@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2003 — Ross, David (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3565))
 - June 2003 — Ross, David (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6103/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3565](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3565)
+- Scottish Tartans Authority (ITI): 6103
+
 ## Thread count
 DO/60 DR8 LG4 DR8 DO60 N8 DO60 DR8 LG4 DR8 DO60 N24 G/16
 ![Sett](sett.png)

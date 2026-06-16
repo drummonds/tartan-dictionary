@@ -19,6 +19,13 @@ This cloth appears in 5 source records; the oldest owns this page.
 - pre 2002 — Marshall (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3875/))
 - undated — Marshall #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5240))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5240](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5240)
+- Scottish Tartans Authority (ITI): 3875
+
 ## Thread count
 B/12 K16 B16 G36 K/8
 ![Sett](sett.png)

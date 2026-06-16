@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2001 — Bell's Whisky (SA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3906))
 - 2001 August — Bell's Whisky (SA) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6908/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3906](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3906)
+- Scottish Tartans Authority (ITI): 6908
+
 ## Thread count
 DY/6 Na6 K6 Na48 K36 G6 K6 G6 K6 G36 N4 G/20
 ![Sett](sett.png)

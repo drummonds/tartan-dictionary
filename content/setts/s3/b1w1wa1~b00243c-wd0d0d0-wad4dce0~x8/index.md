@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1840 — Glen Moriston Estate Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386))
 - 1840ish — Glen Moriston (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7331/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1386](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386)
+- Scottish Tartans Authority (ITI): 7331
+
 ## Thread count
 DN/8 N8 LN/8
 ![Sett](sett.png)

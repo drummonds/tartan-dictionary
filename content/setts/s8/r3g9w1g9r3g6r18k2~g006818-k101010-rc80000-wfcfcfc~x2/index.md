@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — Cumming #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835))
 - 1850 — Cumming - 1850 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1157/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [835](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835)
+- Scottish Tartans Authority (ITI): 1157
+- Scottish Tartans World Register: 1157
+
 ## Thread count
 K/4 R36 G12 R6 G18 W2 G18 R/6
 ![Sett](sett.png)

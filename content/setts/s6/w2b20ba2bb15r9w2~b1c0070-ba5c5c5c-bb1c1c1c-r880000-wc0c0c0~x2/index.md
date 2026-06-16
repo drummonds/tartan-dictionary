@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Open Championship (1998) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3256))
 - 1998 — Open Championship (1998) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2575/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3256](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3256)
+- Scottish Tartans Authority (ITI): 2575
+- Scottish Tartans World Register: 2575
+
 ## Thread count
 Na/4 DB40 N4 K30 DR18 Na/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Glen Elg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374))
 - pre 2002 — Glen Elg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5004/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1374](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374)
+- Scottish Tartans Authority (ITI): 5004
+
 ## Thread count
 G/8 LG4 G128 LN4 G24 LG4 LN4 G12 LN8 Ga4 LN8 G8 LN8 Ga8 G12 LN4 Ga12 LN16 Ga4 LN16 G4 LG/8
 ![Sett](sett.png)

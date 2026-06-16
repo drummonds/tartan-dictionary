@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1840 — Cathcart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=596))
 - pre 1840 — Cathcart (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4479/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [596](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=596)
+- Scottish Tartans Authority (ITI): 4479
+
 ## Thread count
 G/16 DR2 G2 DR14 G12 DB42 N8 G/16
 ![Sett](sett.png)

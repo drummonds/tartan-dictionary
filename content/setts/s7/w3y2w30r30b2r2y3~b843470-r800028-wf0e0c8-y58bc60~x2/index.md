@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Torridon, Burgundy (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7607/))
 - undated — Torridon Burgundy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5631))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5631](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5631)
+- Scottish Tartans Authority (ITI): 7607
+
 ## Thread count
 LG/6 DR4 P4 DR60 W60 LG4 W/6
 ![Sett](sett.png)

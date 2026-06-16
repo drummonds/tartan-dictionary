@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Pride of Scotland Autumn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3376))
 - 2003 — Pride of Scotland, Autumn (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6479/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3376](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3376)
+- Scottish Tartans Authority (ITI): 6479
+
 ## Thread count
 G/18 DB4 P4 G4 P36 G4 DB4 G2 DB38 DR66 G/4
 ![Sett](sett.png)

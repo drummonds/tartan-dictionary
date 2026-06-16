@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1982 — Frame (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1242))
 - 1982 — Frame (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1777/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1242](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1242)
+- Scottish Tartans Authority (ITI): 1777
+- Scottish Tartans World Register: 1777
+
 ## Thread count
 W/16 B56 R4 B4 W4 B4 R4 B56 R56 B4 R4 W/4
 ![Sett](sett.png)

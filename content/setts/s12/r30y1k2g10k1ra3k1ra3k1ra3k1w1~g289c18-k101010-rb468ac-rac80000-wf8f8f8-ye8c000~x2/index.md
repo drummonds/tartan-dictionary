@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 30/07/2002 — Tweedmouth Middle School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167))
 - pre 2005 — Tweedmouth Middle School (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6740/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4167](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167)
+- Scottish Tartans Authority (ITI): 6740
+- Scottish Tartans World Register: 2906
+
 ## Thread count
 P/60 Y2 K4 G20 K2 R6 K2 R6 K2 R6 K2 W/2
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2007 — Samye Sangha (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5347))
 - March 2007 — Samye Sangha (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7129/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5347](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5347)
+- Scottish Tartans Authority (ITI): 7129
+
 ## Thread count
 DR/64 R6 DR6 R4 DR6 R/46
 ![Sett](sett.png)

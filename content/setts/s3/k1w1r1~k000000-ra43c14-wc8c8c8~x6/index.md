@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1847 — Coigach Tweed (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=707))
 - 1847 — Coigach Tweed (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4553/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [707](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=707)
+- Scottish Tartans Authority (ITI): 4553
+
 ## Thread count
 K/6 N6 T/6
 ![Sett](sett.png)

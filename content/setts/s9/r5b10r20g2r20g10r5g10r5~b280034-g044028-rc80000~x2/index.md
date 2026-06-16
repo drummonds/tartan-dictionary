@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1745 — Murray, Lord George (Plaid) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3077))
 - 1745 — Murray, Lord George (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5643/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3077](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3077)
+- Scottish Tartans Authority (ITI): 5643
+
 ## Thread count
 R/10 DG20 R10 DG20 R40 DG4 R40 DP20 R/10
 ![Sett](sett.png)

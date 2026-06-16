@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Argyle Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5092))
 - pre 1985 — Argyle Dress (Patons) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3602/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5092](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5092)
+- Scottish Tartans Authority (ITI): 3602
+
 ## Thread count
 DB/8 K6 G34 K34 DB30 K6 R8 K6 DB30 K34 LN6 DB8 LN50 DB6 LN12 DB6 LN50 DB8 LN6 K34 G34 K/6
 ![Sett](sett.png)

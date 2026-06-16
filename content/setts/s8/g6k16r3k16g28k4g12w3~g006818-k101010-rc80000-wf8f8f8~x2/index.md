@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — MacAulay of Lewis (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2287))
 - 1992 — MacAulay of Lewis (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6286/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2287](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2287)
+- Scottish Tartans Authority (ITI): 6286
+
 ## Thread count
 G/12 K32 R6 K32 G56 K8 G24 W/6
 ![Sett](sett.png)

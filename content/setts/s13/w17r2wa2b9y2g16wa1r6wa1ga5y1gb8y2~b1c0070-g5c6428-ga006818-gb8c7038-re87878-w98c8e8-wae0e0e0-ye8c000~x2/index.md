@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1978 — Okanagan(District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7700/))
 - undated — Okanagan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5696))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5696)
+- Scottish Tartans Authority (ITI): 7700
+
 ## Thread count
 LB/34 LR4 LN4 DB18 Y4 Ga32 LN2 LR12 LN2 G10 Y2 LT16 Y/4
 ![Sett](sett.png)

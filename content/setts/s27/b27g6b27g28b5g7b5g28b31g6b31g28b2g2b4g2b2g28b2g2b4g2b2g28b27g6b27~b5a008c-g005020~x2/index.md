@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — MacRae/Rae (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2757))
 - undated — Auld Lang Syne (Viking Technology) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5335))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5335](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5335)
+- Scottish Tartans World Register: 3071
+
 ## Thread count
 P/54 G12 P54 G56 P4 G4 P8 G4 P4 G56 P4 G4 P8 G4 P4 G56 P62 G12 P62 G56 P10 G14 P10 G56 P54 G12 P/54
 ![Sett](sett.png)

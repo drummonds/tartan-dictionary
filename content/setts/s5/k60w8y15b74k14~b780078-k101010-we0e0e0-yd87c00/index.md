@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Gingles (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7620/))
 - undated — Gingles (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5640))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5640](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5640)
+- Scottish Tartans Authority (ITI): 7620
+
 ## Thread count
 K/60 LN8 O15 P74 K/14
 ![Sett](sett.png)

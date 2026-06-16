@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1996 — Scottish Express International (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3715))
 - pre 1997 — Scottish Express International (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2309/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3715](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3715)
+- Scottish Tartans Authority (ITI): 2309
+- Scottish Tartans World Register: 2309
+
 ## Thread count
 K/4 DB28 K16 LP4 K16 P/4
 ![Sett](sett.png)

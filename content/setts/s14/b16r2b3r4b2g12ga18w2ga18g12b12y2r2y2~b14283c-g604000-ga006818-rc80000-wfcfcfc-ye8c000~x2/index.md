@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - May 2001 — Allen - 2001 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3208/))
 - undated — Allen - Northumbrian (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4943))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4943](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4943)
+- Scottish Tartans Authority (ITI): 3208
+
 ## Thread count
 DN/32 R4 DN6 R8 DN4 T24 G36 W4 G36 T24 DN24 Y4 R4 Y/4
 ![Sett](sett.png)

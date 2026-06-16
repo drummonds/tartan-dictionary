@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Drummond, Grey (Clans Originaux) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=994))
 - 1880 — Drummond, Grey (Clans Originaux) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6290/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [994](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=994)
+- Scottish Tartans Authority (ITI): 6290
+
 ## Thread count
 K/10 W6 K6 N20 W6 K6 W4 K12 W2 K30 W6 K6 W4 K/10
 ![Sett](sett.png)

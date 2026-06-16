@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1961 — Muskoka (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1799/))
 - 01/01/1963 — Muskoka (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3083))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3083](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3083)
+- Scottish Tartans Authority (ITI): 1799
+- Scottish Tartans World Register: 1799
+
 ## Thread count
 LN/4 G10 B20 G40 R2 Y4 DR4 Y/2
 ![Sett](sett.png)

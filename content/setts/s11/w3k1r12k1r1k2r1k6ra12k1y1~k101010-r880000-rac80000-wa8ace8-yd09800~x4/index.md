@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1992 — McCandlish, Red (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3324/))
 - undated — MacCandlish Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5216))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5216](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5216)
+- Scottish Tartans Authority (ITI): 3324
+
 ## Thread count
 DY/4 K4 R48 K24 DR4 K8 DR4 K4 DR48 K4 LP/12
 ![Sett](sett.png)

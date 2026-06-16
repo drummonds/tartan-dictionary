@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1908 — Buccleuch Check (9 squares) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=412))
 - 1908 — Scott of Buccleuch (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/647/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [412](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=412)
+- Scottish Tartans Authority (ITI): 647
+- Scottish Tartans World Register: 647
+
 ## Thread count
 B/10 LN8 K8 LN8 K8 LN8 K8 LN8 K8 LN8 K/8
 ![Sett](sett.png)

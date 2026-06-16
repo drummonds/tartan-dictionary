@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2007 — Luker (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2242))
 - May 2007 — Luker (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7225/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2242](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2242)
+- Scottish Tartans Authority (ITI): 7225
+
 ## Thread count
 LN/8 G15 K15 G5 K2 G6 K40 DB20 R/6
 ![Sett](sett.png)

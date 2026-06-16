@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 10/09/1999 — Total (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141))
 - Sep. 1999 — Total (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2615/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4141](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141)
+- Scottish Tartans Authority (ITI): 2615
+- Scottish Tartans World Register: 2615
+
 ## Thread count
 DB/48 O4 DB28 K6 W4 K6 O4 K8 DBa8 K8 O4 K6 W4 K6 R24 O4 DBa/48
 ![Sett](sett.png)

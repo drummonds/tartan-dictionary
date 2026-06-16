@@ -17,6 +17,12 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Robert Dewar Name Tartan Tartan Number: 10006. Earliest known date: 2009 Designed by Neil Dewar for his wedding in July 2009. Three kilt were ordered. The tartan was based on the Dewar Highlander corporate tartan which is often taken to be the clan tartan. This pattern puts the yellow stripe back on the green in a traditional format. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10006))
 - undated — Robert Dewar Personal Tartan Tartan Number: 9000. Earliest known date: 2009 Designed by Neil Dewar for his wedding in July 2009. Three kilt were ordered. The tartan was based on the Dewar Highlander corporate tartan which is often taken to be the clan tartan. This pattern puts the yellow stripe back on the green in a traditional format. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9000))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10006](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10006)
+
 ## Thread count
 DG/30 DB16 K10 DB16 DG30 Y6 DG30 DB16 K/10
 ![Sett](sett.png)

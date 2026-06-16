@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — British Caledonian Airways #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=358))
 - pre 1990 — British Caledonian Airways #2 (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5454/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [358](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=358)
+- Scottish Tartans Authority (ITI): 5454
+
 ## Thread count
 N/68 B5 K9 DY3 K3 Na3 K3 N20 DR9 K3 DR5 Na/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2005 — Falconer of Labhdal (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1145))
 - 2005 August — Falconer of Labhdal (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6787/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1145](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1145)
+- Scottish Tartans Authority (ITI): 6787
+
 ## Thread count
 B/8 Ba8 B80 Ba28 K28 Ba/28
 ![Sett](sett.png)

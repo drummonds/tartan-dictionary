@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1996 — Livingston (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2565/))
 - 1996 — Livingstone (Wedding) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7372/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2131](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131)
+- Scottish Tartans Authority (ITI): 2565
+- Scottish Tartans World Register: 2565
+
 ## Thread count
 G/52 R10 K2 R4 K2 R10 G32 R10 LN32 G4 LN/16
 ![Sett](sett.png)

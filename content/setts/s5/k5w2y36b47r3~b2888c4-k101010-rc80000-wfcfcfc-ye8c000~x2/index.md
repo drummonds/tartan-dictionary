@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1973 — Oliver Dress Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4807))
 - circa 1980s — Cornish National Day (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1262/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4807](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4807)
+- Scottish Tartans Authority (ITI): 1259
+- Scottish Tartans World Register: 1259
+
 ## Thread count
 K/10 W4 Y72 B94 R/6
 ![Sett](sett.png)

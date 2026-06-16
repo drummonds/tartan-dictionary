@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1967 — Tara (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1103/))
 - 01/01/1978 — Murphy/Tara (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4071))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4071](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4071)
+- Scottish Tartans Authority (ITI): 1103
+- Scottish Tartans World Register: 1103
+
 ## Thread count
 K/6 G8 R4 G48 T32 K4 N4 K4 DY4 K12 R4 K/16
 ![Sett](sett.png)

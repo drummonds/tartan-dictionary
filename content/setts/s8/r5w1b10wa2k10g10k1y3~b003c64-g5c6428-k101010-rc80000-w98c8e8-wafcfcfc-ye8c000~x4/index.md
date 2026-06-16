@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1746 — Culloden 1746 - Original (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5495))
 - 1746 — Culloden - 1746 (Original) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7422/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5495](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5495)
+- Scottish Tartans Authority (ITI): 7422
+
 ## Thread count
 R/20 LB4 DB40 W8 K40 G40 K4 Y/12
 ![Sett](sett.png)

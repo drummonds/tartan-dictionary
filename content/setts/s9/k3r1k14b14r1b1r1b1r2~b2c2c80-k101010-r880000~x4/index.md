@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Angus (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=88))
 - 1880 — Angus (District/Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1179/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [88](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=88)
+- Scottish Tartans Authority (ITI): 1179
+- Scottish Tartans World Register: 1179
+
 ## Thread count
 DR/8 DBa4 DR4 DBa4 DR4 DBa56 K56 DR4 K/12
 ![Sett](sett.png)

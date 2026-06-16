@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Leckie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2078))
 - 1988 — Leckie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5405/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2078](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2078)
+- Scottish Tartans Authority (ITI): 5405
+
 ## Thread count
 DR/12 DB4 DR48 DRa12 G48 N4 G/8
 ![Sett](sett.png)

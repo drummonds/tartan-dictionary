@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacKellar Dress Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2518))
 - pre 2002 — MacKellar Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6563/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2518)
+- Scottish Tartans Authority (ITI): 6563
+
 ## Thread count
 DG/6 LN52 LR4 K26 R10 LN4 R6 P8 R6 LN4 R/54
 ![Sett](sett.png)

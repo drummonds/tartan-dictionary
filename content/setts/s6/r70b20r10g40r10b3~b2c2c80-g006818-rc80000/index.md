@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — MacKintosh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2559))
 - 1819 — MacKintosh - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/521/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2559](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2559)
+- Scottish Tartans Authority (ITI): 521
+- Scottish Tartans World Register: 521
+
 ## Thread count
 DB/3 R10 G40 R10 DB20 R/70
 ![Sett](sett.png)

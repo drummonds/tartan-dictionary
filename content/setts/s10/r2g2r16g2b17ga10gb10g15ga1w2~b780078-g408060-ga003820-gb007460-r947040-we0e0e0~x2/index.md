@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - June 2008 — Grewar (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7675/))
 - undated — Grewar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5678))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5678](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5678)
+- Scottish Tartans Authority (ITI): 7675
+
 ## Thread count
 LN/4 DG2 G30 Ga20 DG20 P34 G4 LT32 G4 LT/4
 ![Sett](sett.png)

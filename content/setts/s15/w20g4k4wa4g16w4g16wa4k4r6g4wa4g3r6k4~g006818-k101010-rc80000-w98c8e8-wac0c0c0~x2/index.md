@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — Gayre (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1319))
 - ? — Gayre (Clan ?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8876/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1319](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1319)
+- Scottish Tartans Authority (ITI): 164
+- Scottish Tartans World Register: 164
+
 ## Thread count
 K/8 R12 G6 N8 G8 R12 K8 N8 G32 LB8 G32 N8 K8 G8 LB/40
 ![Sett](sett.png)

@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Sept 2003 — M'Kleod (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5985/))
 - undated — M'Kleod Personal Tartan Tartan Number: 5985. Earliest known date: 2003 The unusual spelling raised a query with the recording authority. The recording was passed on the basis that the design was categorised as personal. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5985))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2971](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2971)
+- Scottish Tartans Authority (ITI): 5985
+
 ## Thread count
 N/36 K6 G6 R4 LN6 DB72 K4 Y/12
 ![Sett](sett.png)

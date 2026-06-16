@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Caspari (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7802/))
 - undated — Caspari (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5764))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5764](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5764)
+- Scottish Tartans Authority (ITI): 7802
+
 ## Thread count
 R/8 G20 R8 G20 R30 Y4 R/16
 ![Sett](sett.png)

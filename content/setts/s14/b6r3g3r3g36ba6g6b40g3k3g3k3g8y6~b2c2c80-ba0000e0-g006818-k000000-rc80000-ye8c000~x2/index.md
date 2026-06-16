@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Princess Beatrice Hunting (MacKinlay strip) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3400))
 - 1930s — Princess Beatrice Htg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5467/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3400](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3400)
+- Scottish Tartans Authority (ITI): 5467
+
 ## Thread count
 DB/12 R6 G6 R6 G72 B12 G12 DB80 G6 K6 G6 K6 G16 Y/12
 ![Sett](sett.png)

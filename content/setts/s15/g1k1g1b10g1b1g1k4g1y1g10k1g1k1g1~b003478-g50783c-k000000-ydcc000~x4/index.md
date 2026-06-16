@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Glen Grant Distillery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1381))
 - pre 2002 — Glen Grant Distillery (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5011/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1381](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1381)
+- Scottish Tartans Authority (ITI): 5011
+
 ## Thread count
 G/4 K4 G4 DB40 G4 DB4 G4 K16 G4 Y4 G40 K4 G4 K4 G/4
 ![Sett](sett.png)

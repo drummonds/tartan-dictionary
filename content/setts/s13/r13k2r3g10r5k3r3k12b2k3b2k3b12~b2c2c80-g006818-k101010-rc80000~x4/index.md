@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Bonner or Bonnar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=308))
 - 1930 — Bonnar (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/285/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [308](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=308)
+- Scottish Tartans Authority (ITI): 285
+- Scottish Tartans World Register: 285
+
 ## Thread count
 DBa/48 K12 DBa8 K12 DBa8 K48 R12 K12 R20 G40 R12 K8 R/52
 ![Sett](sett.png)

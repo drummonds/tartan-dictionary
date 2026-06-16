@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Tartan de Longueuil (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4074))
 - pre 2007 — Tartan de Longueuil (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7171/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4074](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4074)
+- Scottish Tartans Authority (ITI): 7171
+
 ## Thread count
 DB/6 Y2 DB6 R2 G20 K2 R2 K2 DB14 K2 R2 K2 DB4 Y4 DB6 Y/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Loton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2226))
 - pre 2002 — Loton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5498/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2226)
+- Scottish Tartans Authority (ITI): 5498
+
 ## Thread count
 DR/8 G68 DB8 G8 DR/24
 ![Sett](sett.png)

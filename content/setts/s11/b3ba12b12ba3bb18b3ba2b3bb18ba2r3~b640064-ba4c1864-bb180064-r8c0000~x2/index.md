@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Royal Delight (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600))
 - pre 1972 — Royal Delight (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5397/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3600](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600)
+- Scottish Tartans Authority (ITI): 5397
+
 ## Thread count
 DR/6 DP4 DB36 P6 DP4 P6 DB36 DP6 P24 DP24 P/6
 ![Sett](sett.png)

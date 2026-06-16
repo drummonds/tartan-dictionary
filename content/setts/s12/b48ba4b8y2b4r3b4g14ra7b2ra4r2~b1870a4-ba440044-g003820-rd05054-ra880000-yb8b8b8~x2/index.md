@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Louth, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2234))
 - 1997 — Louth, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2277/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2234](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2234)
+- Scottish Tartans Authority (ITI): 2277
+- Scottish Tartans World Register: 2277
+
 ## Thread count
 B/96 DP8 B16 N4 B8 DO6 B8 DG28 DR14 B4 DR8 DO/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Robinson Dress (Pendleton) #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3538))
 - pre 2002 — Robinson Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/739/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3538](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3538)
+- Scottish Tartans Authority (ITI): 739
+- Scottish Tartans World Register: 739
+
 ## Thread count
 G/4 DB64 R28 K4 R28 K/4
 ![Sett](sett.png)

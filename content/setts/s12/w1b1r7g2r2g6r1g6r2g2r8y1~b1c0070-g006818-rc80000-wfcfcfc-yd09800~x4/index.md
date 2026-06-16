@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1964 — Bruce County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=401))
 - 1964 — Bruce County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1778/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [401](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=401)
+- Scottish Tartans Authority (ITI): 1778
+- Scottish Tartans World Register: 1778
+
 ## Thread count
 DY/4 R32 G8 R8 G24 R4 G24 R8 G8 R28 DB4 W/4
 ![Sett](sett.png)

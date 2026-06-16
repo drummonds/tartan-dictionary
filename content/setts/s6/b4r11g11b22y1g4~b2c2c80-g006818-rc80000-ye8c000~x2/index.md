@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Harvey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1622))
 - pre 1985 — Harvey (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6848/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1622](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1622)
+- Scottish Tartans Authority (ITI): 6848
+
 ## Thread count
 DB/8 R22 G22 DB44 Y2 G/8
 ![Sett](sett.png)

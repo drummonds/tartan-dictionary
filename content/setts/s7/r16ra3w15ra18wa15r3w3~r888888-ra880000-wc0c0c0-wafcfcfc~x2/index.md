@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Glasgow Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1356))
 - 1984 — Glasgow Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4993/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1356](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1356)
+- Scottish Tartans Authority (ITI): 4993
+
 ## Thread count
 N/6 Na6 W30 DR36 N30 DR6 Na/32
 ![Sett](sett.png)

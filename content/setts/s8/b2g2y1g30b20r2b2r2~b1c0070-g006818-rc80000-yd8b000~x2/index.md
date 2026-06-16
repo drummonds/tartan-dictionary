@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Gretna Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1540))
 - 1996 — Gretna Green (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5119/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1540)
+- Scottish Tartans Authority (ITI): 5119
+
 ## Thread count
 DB/4 G4 Y2 G60 DB40 R4 DB4 R/4
 ![Sett](sett.png)

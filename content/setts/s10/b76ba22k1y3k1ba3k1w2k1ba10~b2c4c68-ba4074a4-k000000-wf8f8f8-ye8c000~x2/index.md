@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Canberra, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=551))
 - 1997 — Canberra, City of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4449/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [551](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=551)
+- Scottish Tartans Authority (ITI): 4449
+
 ## Thread count
 B/152 Ba44 K2 Y6 K2 Ba6 K2 Wa4 K2 Ba/20
 ![Sett](sett.png)

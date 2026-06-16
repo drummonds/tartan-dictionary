@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1856 — MacBeth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2297))
 - 1856 — MacBeth (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/678/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2297](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2297)
+- Scottish Tartans Authority (ITI): 678
+- Scottish Tartans World Register: 678
+
 ## Thread count
 DB/144 Y16 K20 W4 K4 W4 K8 G32 R24 K4 R12 W/4
 ![Sett](sett.png)

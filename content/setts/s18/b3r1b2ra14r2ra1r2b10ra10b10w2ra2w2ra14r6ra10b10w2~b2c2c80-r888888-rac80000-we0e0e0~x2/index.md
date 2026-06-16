@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Ensemble Pour L'Avenir (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1113))
 - 1998 — Ville de St Georges (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2595/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1113](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1113)
+- Scottish Tartans Authority (ITI): 2595
+- Scottish Tartans World Register: 2595
+
 ## Thread count
 DB/6 N2 DB4 R28 N4 R2 N4 DB20 R20 DB20 LN4 R4 LN4 R28 N12 R20 DB20 LN/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Pierce (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3336))
 - Aug. 2000 — Pierce (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4150/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3336](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3336)
+- Scottish Tartans Authority (ITI): 4150
+- Scottish Tartans World Register: 2716
+
 ## Thread count
 LT/12 T18 G48 LT18 T6 LT6 T6 LT18 G28 T48 DR8 T/12
 ![Sett](sett.png)

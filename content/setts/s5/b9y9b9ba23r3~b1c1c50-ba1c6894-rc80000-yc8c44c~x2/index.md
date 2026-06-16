@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Aug 2007 — Tilburg (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7464/))
 - undated — Tilburg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5509))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5509](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5509)
+- Scottish Tartans Authority (ITI): 7464
+
 ## Thread count
 DB/18 LG18 DB18 B46 R/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Mounth, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3032))
 - 1988 — Mounth, The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/120/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3032](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3032)
+- Scottish Tartans Authority (ITI): 120
+- Scottish Tartans World Register: 120
+
 ## Thread count
 G/4 N26 B24 W6 B20 W6 B24 Ga26 P/4
 ![Sett](sett.png)

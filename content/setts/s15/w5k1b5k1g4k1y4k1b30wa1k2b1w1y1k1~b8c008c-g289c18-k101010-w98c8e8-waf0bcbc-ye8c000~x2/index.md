@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — House of Holland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7540/))
 - undated — House of Holland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5575))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5575](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5575)
+- Scottish Tartans Authority (ITI): 7540
+
 ## Thread count
 K/2 Y2 LB2 P2 K4 LR2 P60 K2 Y8 K2 G8 K2 P10 K2 LB/10
 ![Sett](sett.png)

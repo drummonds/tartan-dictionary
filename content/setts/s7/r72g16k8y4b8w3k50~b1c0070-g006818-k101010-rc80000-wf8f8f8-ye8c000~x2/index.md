@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2008 — Stewart, Anthony C (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7754/))
 - undated — Stewart, Anthony C (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5734))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5734](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5734)
+- Scottish Tartans Authority (ITI): 7754
+
 ## Thread count
 K/100 W6 DB16 Y8 K16 G32 R/144
 ![Sett](sett.png)

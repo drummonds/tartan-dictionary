@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — MacIngust (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2470))
 - pre 2003 — MacIngust (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5912/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2470](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2470)
+- Scottish Tartans Authority (ITI): 5912
+
 ## Thread count
 LN/2 B8 K8 R20 DG36 Y2 K4 R/140
 ![Sett](sett.png)

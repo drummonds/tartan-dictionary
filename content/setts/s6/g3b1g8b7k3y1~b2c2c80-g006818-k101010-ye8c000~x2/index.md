@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/1988 — Trafalgar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4145))
 - undated — Trafalger Trade Tartan Tartan Number: 720. Earliest known date: pre 2003 per A.C. Lumsden. A Canadian 'Fancy'. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=720))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4145](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4145)
+- Scottish Tartans Authority (ITI): 720
+- Scottish Tartans World Register: 720
+
 ## Thread count
 G/6 DB2 G16 DB14 K6 Y/2
 ![Sett](sett.png)

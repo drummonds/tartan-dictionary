@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — Sekai Fushigi Hakken (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3758))
 - 2001 — Sekai Fushigi Hakken (TV) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5784/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3758)
+- Scottish Tartans Authority (ITI): 5784
+
 ## Thread count
 DR/6 G4 R6 LN36 LR4 LN6 G4 LN54 R6 G4 DR6 LN54 G4 LN6 LR4 LN/36
 ![Sett](sett.png)

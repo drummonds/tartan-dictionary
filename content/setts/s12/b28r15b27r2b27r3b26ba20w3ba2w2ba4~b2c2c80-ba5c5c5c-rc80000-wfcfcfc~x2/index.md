@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Eidart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1091))
 - 1980s — Eidart 1980 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/445/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1091](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1091)
+- Scottish Tartans Authority (ITI): 445
+- Scottish Tartans World Register: 445
+
 ## Thread count
 DB/56 R30 DB54 R4 DB54 R6 DB52 N40 W6 N4 W4 N/8
 ![Sett](sett.png)

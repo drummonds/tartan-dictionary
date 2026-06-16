@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — MX-5 Owners' Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5070))
 - pre 2004 — MX-5 Owners' Club (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6208/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5070](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5070)
+- Scottish Tartans Authority (ITI): 6208
+- Scottish Tartans World Register: 2950
+
 ## Thread count
 R/12 DB54 B4 G4 B4 G60 W/8
 ![Sett](sett.png)

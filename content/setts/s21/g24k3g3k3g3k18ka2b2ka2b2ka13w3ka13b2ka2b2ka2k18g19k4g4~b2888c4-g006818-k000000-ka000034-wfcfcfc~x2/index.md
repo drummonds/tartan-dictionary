@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2000 — Dorris (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=953))
 - 2000 — Dorris (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4152/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [953](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=953)
+- Scottish Tartans Authority (ITI): 4152
+- Scottish Tartans World Register: 2711
+
 ## Thread count
 G/8 K8 G38 K36 DB4 B4 DB4 B4 DB26 W6 DB26 B4 DB4 B4 DB4 K36 G6 K6 G6 K6 G/48
 ![Sett](sett.png)

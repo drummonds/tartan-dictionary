@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 20/10/2012 — Cummins Royal Blue, B (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729))
 - undated — Cummins Royal Blue, B (Personal) Name Tartan Tartan Number: 10729. Earliest known date: 1 November 2012 Designed by Benaiah K Cummins for himself and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10729))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10729](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729)
+
 ## Thread count
 B/16 K10 W10 K18 W10 K10 B28 K18 W10 B10 K/18
 ![Sett](sett.png)

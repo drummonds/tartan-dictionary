@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - August 2008 — Holland & Sherry (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7720/))
 - undated — Holland & Sherry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5706))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5706](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5706)
+- Scottish Tartans Authority (ITI): 7720
+
 ## Thread count
 DB/40 B6 DB8 DR6 DB6 K20 G42 K8 DR/40
 ![Sett](sett.png)

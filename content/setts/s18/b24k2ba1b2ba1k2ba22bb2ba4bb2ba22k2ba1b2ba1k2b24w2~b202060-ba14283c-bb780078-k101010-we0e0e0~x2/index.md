@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Spirit of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3867))
 - undated — Spirit of Wales Fancy Tartan Tartan Number: 6495. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Dyfed Menswear, Llanelli, Carmarthenshire, Wales. For the sole use of Dyfed Menswear. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6495))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3867](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3867)
+- Scottish Tartans Authority (ITI): 6495
+
 ## Thread count
 DB/48 K4 DN2 DB4 DN2 K4 DN44 P4 DN8 P4 DN44 K4 DN2 DB4 DN2 K4 DB48 LN/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacEachain (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3359/))
 - undated — MacEachain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5186))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5186](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5186)
+- Scottish Tartans Authority (ITI): 3359
+
 ## Thread count
 DR/8 K4 DB24 K8 G24 LP/8
 ![Sett](sett.png)

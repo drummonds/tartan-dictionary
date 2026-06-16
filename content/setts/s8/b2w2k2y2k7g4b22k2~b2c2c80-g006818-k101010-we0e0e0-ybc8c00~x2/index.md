@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Glasgow, University of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1360))
 - Nov. 1999 — Glasgow, University of (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2680/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1360](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1360)
+- Scottish Tartans Authority (ITI): 2680
+- Scottish Tartans World Register: 2680
+
 ## Thread count
 DB/4 LN4 K4 DY4 K14 G8 DB44 K/4
 ![Sett](sett.png)

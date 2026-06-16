@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - December 2007 — Caledon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7731/))
 - undated — Caledon (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5715))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5715](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5715)
+- Scottish Tartans Authority (ITI): 7731
+
 ## Thread count
 B/16 LN6 B50 K6 B8 K16 R62 Y4 R/10
 ![Sett](sett.png)

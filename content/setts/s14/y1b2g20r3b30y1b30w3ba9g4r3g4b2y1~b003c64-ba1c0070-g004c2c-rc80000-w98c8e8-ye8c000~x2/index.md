@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - June 2008 — Benteau na mara (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7676/))
 - undated — Benteau na mara (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5679))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5679](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5679)
+- Scottish Tartans Authority (ITI): 7676
+
 ## Thread count
 Y/2 DBa4 G40 R6 DBa60 Y2 DBa60 LB6 DB18 G8 R6 G8 DBa4 Y/2
 ![Sett](sett.png)

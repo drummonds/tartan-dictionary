@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1871 — Campbell, Marquis of Lorne (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=533))
 - 1871 — Campbell, Marquis of Lorne (Commemo) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/18/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [533](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=533)
+- Scottish Tartans Authority (ITI): 18
+- Scottish Tartans World Register: 18
+
 ## Thread count
 K/6 G4 K22 G3 K3 G32 R3 G3 W3 G3 Y3 G32 K3 G3 K22 G4 K6 P/6
 ![Sett](sett.png)

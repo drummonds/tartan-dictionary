@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2006 — Robert Burns Legacy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3518))
 - 2006 February — Robert Burns of Ayr (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6843/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3518)
+- Scottish Tartans Authority (ITI): 6843
+
 ## Thread count
 DB/10 G42 DBa8 B8 DBa8 K24 DBa8 DB71 R/10
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2003 — Thistle Stop LLC (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4105))
 - March 2003 — Thistle Stop LLC (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5792/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4105](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4105)
+- Scottish Tartans Authority (ITI): 5792
+
 ## Thread count
 Ba/32 Ga2 G2 Ga2 B48 K24 LP32 P4 Ga/4
 ![Sett](sett.png)

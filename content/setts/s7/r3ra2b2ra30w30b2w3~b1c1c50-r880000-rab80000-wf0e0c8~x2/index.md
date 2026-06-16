@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Torridon, Cherry (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7573/))
 - undated — Torridon Cherry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5597))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5597](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5597)
+- Scottish Tartans Authority (ITI): 7573
+
 ## Thread count
 DR/6 R4 DB4 R60 W60 DB4 W/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2007 — Scottish Crofting Foundation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3712))
 - July 2007 — Scottish Crofting Foundation (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7239/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3712](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3712)
+- Scottish Tartans Authority (ITI): 7239
+
 ## Thread count
 DR/12 N6 DR36 T4 DR4 T20 G56 DRa4 G/8
 ![Sett](sett.png)

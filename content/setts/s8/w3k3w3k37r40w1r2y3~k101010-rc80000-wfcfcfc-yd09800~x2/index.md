@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - June 1997 — Marjoribanks (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2607/))
 - 01/06/1999 — Marjoribanks (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2838))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2838](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2838)
+- Scottish Tartans Authority (ITI): 2607
+- Scottish Tartans World Register: 2607
+
 ## Thread count
 DY/6 R4 W2 R80 K74 W6 K6 W/6
 ![Sett](sett.png)

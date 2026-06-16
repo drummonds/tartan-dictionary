@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/2004 — Parker Dress (USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3293))
 - 2004, October — Parker Dress (USA) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6446/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3293)
+- Scottish Tartans Authority (ITI): 6446
+
 ## Thread count
 DB/8 LN8 DB8 LN8 DB8 LN8 DB32 DY4 DB32 R12 LN6 DB/8
 ![Sett](sett.png)

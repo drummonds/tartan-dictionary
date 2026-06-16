@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Ruxton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3625))
 - 1997 Jan — Ruxton (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2378/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3625)
+- Scottish Tartans Authority (ITI): 2378
+- Scottish Tartans World Register: 2378
+
 ## Thread count
 DR/44 K6 DY2 K2 W6 K6 DB2 K6 DB16 K38 DY8 K4 DY2 K14 DY/6
 ![Sett](sett.png)

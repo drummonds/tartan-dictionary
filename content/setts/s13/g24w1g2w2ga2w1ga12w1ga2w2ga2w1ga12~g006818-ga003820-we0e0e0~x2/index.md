@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — MacDonald, Lord of the Isles Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2378))
 - 1950 — MacDonald, Lord of the Isles Htg #2 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2209/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2378](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2378)
+- Scottish Tartans Authority (ITI): 2209
+- Scottish Tartans World Register: 2209
+
 ## Thread count
 DG/24 LN2 DG4 LN4 DG4 LN2 DG24 LN2 DG4 LN4 G4 LN2 G/48
 ![Sett](sett.png)

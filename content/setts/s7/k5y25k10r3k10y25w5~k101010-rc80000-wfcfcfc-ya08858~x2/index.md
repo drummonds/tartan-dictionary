@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 09/01/1999 — Richmond de Ellel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510))
 - pre 2004 — Richmond de Ellel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6226/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3510](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510)
+- Scottish Tartans Authority (ITI): 6226
+- Scottish Tartans World Register: 2777
+
 ## Thread count
 K/10 LT50 K20 R6 K20 LT50 W/10
 ![Sett](sett.png)

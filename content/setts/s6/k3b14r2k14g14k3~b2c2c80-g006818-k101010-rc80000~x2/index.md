@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Gallamore (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1300))
 - pre 2003 — Gallamore (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6049/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1300](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1300)
+- Scottish Tartans Authority (ITI): 6049
+
 ## Thread count
 K/6 DB28 R4 K28 G28 K/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Pike (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5062))
 - 2/4/02 — Pike (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3229/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5062](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5062)
+- Scottish Tartans Authority (ITI): 3229
+
 ## Thread count
 G/20 K6 G6 K40 Ga6 K10 P6 K40 G6 K6 G/20
 ![Sett](sett.png)

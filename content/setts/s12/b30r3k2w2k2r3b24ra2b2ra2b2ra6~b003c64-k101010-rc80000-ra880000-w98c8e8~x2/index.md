@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2005 — Rosie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3551))
 - 2005 August — Rosie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6730/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3551](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3551)
+- Scottish Tartans Authority (ITI): 6730
+
 ## Thread count
 DB/60 R6 K4 LB4 K4 R6 DB48 DR4 DB4 DR4 DB4 DR/12
 ![Sett](sett.png)

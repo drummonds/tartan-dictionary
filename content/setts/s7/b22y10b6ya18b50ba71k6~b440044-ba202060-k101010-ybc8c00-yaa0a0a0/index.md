@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2004 — Charleston Police Department (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=616))
 - 2004, March — Charleston Police Department (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6153/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [616](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=616)
+- Scottish Tartans Authority (ITI): 6153
+
 ## Thread count
 DP/22 DY10 DP6 N18 DP50 DB71 K/6
 ![Sett](sett.png)

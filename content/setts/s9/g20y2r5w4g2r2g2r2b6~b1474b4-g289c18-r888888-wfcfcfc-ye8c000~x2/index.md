@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — Boucherville (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=319))
 - pre 2002 — Boucherville (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2119/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [319](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=319)
+- Scottish Tartans Authority (ITI): 2119
+- Scottish Tartans World Register: 2119
+
 ## Thread count
 B/12 N4 G4 N4 G4 Wa8 N10 Y4 G/40
 ![Sett](sett.png)

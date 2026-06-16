@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2006 — Banause-Zunft zu Olte (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=189))
 - 2006 May — Banause-Zunft zu Olte (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6935/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [189](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=189)
+- Scottish Tartans Authority (ITI): 6935
+
 ## Thread count
 Y/4 G8 DB2 DR6 DB6 G6 Ga2 DR64 DB28 LN6 Y/4
 ![Sett](sett.png)

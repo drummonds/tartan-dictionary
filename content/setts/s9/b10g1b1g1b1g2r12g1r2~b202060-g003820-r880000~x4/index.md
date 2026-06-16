@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Lawlis/Lawless (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068))
 - 1996 — Lawlis/Lawless (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5399/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2068](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068)
+- Scottish Tartans Authority (ITI): 5399
+
 ## Thread count
 DB/40 DG4 DB4 DG4 DB4 DG8 DR48 DG4 DR/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Devon Companion (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=922))
 - 1984 — Devon Companion (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1283/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [922](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=922)
+- Scottish Tartans Authority (ITI): 1283
+- Scottish Tartans World Register: 1283
+
 ## Thread count
 N/20 DB16 Y4 DB16 K16 T16 W/4
 ![Sett](sett.png)

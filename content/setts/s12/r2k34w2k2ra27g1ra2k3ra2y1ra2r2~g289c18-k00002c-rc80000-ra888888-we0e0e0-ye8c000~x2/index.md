@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1974 — Hudson's Bay Company (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1778))
 - 1974, pre — Hudson's Bay (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1612/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1778](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1778)
+- Scottish Tartans Authority (ITI): 1612
+- Scottish Tartans World Register: 1612
+
 ## Thread count
 R/4 DB68 LN4 DB4 N54 G2 N4 DB6 N4 Y2 N4 R/4
 ![Sett](sett.png)

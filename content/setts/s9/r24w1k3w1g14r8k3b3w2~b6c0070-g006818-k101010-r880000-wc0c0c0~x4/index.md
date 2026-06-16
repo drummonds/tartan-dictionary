@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/1995 — Leach (1995) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2073))
 - pre 1997 — Leach, 1997 (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2356/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2073](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2073)
+- Scottish Tartans Authority (ITI): 2356
+- Scottish Tartans World Register: 2356
+
 ## Thread count
 DR/96 N4 K12 N4 G56 DR32 K12 P12 N/8
 ![Sett](sett.png)

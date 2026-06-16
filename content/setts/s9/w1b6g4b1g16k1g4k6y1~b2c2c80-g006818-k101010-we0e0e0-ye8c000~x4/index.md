@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1842 — Henderson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1762/))
 - 1842 — MacKendrick (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3404/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1685](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1685)
+- Scottish Tartans Authority (ITI): 1762
+- Scottish Tartans World Register: 1762
+
 ## Thread count
 LN/4 DB24 G16 DB4 G64 K4 G16 K24 Y/4
 ![Sett](sett.png)

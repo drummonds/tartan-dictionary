@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - April 2008 — Starrett Company, L.S. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7621/))
 - undated — Starrett Company, L.S. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5641))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5641)
+- Scottish Tartans Authority (ITI): 7621
+
 ## Thread count
 N/10 K10 N4 K6 N3 K8 R34 Y3 R6 Y4 R4 Y6 R4 Y8 R26 Y8 R4 Y6 R4 Y4 R6 Y3 R/34
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Lennox Dress #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2098))
 - 1986 — Lennox Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1649/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2098](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2098)
+- Scottish Tartans Authority (ITI): 1649
+- Scottish Tartans World Register: 1649
+
 ## Thread count
 LN/8 DB4 LN40 DR8 R40 DR4 R/8
 ![Sett](sett.png)

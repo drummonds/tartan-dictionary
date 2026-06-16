@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Brooks Brothers (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3736/))
 - undated — Brooks Brothers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5378))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5378](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5378)
+- Scottish Tartans Authority (ITI): 3736
+
 ## Thread count
 DR/4 G44 K44 DY/4
 ![Sett](sett.png)

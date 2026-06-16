@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1999 — Scottish Lion (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3184/))
 - undated — Scottish Lion (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5033))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5033](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5033)
+- Scottish Tartans Authority (ITI): 3184
+
 ## Thread count
 DR/8 DB32 N4 DB32 DRb8 P14 DG42 DRb6 DG8 DRa/6
 ![Sett](sett.png)

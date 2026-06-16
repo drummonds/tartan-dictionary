@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — Portmeirion (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3359))
 - pre 2004 — Portmeirion (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6222/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3359](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3359)
+- Scottish Tartans Authority (ITI): 6222
+- Scottish Tartans World Register: 2842
+
 ## Thread count
 DR/14 W5 P27 W33 G5 B10 W33 P27 W5 DR14 W33 B10 W5 G5 W/56
 ![Sett](sett.png)

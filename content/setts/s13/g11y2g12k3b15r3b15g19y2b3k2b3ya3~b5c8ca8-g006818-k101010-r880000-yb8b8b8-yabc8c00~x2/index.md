@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Greylock (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1547))
 - 1985 — Greylock (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/944/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1547](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1547)
+- Scottish Tartans Authority (ITI): 944
+- Scottish Tartans World Register: 944
+
 ## Thread count
 DY/6 B6 K4 B6 N4 G38 B30 DR6 B30 K6 G24 N4 G/22
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — MacTavish Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2770))
 - 1958 — MacTavish Htg (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/232/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2770](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2770)
+- Scottish Tartans Authority (ITI): 232
+- Scottish Tartans World Register: 232
+
 ## Thread count
 B/6 K24 B24 G12 T56 B/8
 ![Sett](sett.png)

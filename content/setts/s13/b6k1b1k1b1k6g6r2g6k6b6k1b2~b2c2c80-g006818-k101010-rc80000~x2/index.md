@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1885 — New South Wales Scottish Rifles (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3119))
 - undated — New South Wales Scottish Rifle Regimental Tartan Tartan Number: 226. Earliest known date: 1885 - 1911 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=226))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3119](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3119)
+- Scottish Tartans Authority (ITI): 226
+- Scottish Tartans World Register: 226
+
 ## Thread count
 DB/12 K2 DB2 K2 DB2 K12 G12 R4 G12 K12 DB12 K2 DB/4
 ![Sett](sett.png)

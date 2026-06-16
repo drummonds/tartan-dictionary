@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2005 — Hebridean Cairn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1652))
 - 01/12/2005 — Hebridean Mist (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1655](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655)
+- Scottish Tartans Authority (ITI): 6823
+
 ## Thread count
 N/4 Na72 N8 Na40 N12 Na12 N12 Na8 N12 Na12 N12 Na40 N8 Na/72
 ![Sett](sett.png)

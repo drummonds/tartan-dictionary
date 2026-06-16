@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Salem Scottish Dancers (Dance) #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641))
 - 26/02/2001 — Salem Scottish Dancers (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3640))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641)
+- Scottish Tartans Authority (ITI): 4136
+- Scottish Tartans World Register: 2811
+
 ## Thread count
 Ba/10 DN60 W8 DN8 Ba36 W6 DN6 W6 Ba36 DN8 W8 DN60 Ba10 DN/10
 ![Sett](sett.png)

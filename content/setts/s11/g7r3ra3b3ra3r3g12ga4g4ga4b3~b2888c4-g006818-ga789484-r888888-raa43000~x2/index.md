@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Ralston (USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3449))
 - 2003 — Ralston (USA) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6109/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3449](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3449)
+- Scottish Tartans Authority (ITI): 6109
+
 ## Thread count
 B/6 LG8 G8 LG8 G24 N6 R6 B6 R6 N6 G/14
 ![Sett](sett.png)

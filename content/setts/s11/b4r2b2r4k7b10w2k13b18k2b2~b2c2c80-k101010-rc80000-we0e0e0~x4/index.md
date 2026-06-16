@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2000 — Ibrox (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1809))
 - Unknown — Ibrox (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3992/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1809](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1809)
+- Scottish Tartans Authority (ITI): 3992
+- Scottish Tartans World Register: 2724
+
 ## Thread count
 DB/8 K8 DB72 K52 LN8 DB40 K28 R16 DB8 R8 DB/16
 ![Sett](sett.png)

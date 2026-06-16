@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/1998 — Tulloch Homes (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4154))
 - 1998 — Tulloch Homes (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2493/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4154](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4154)
+- Scottish Tartans Authority (ITI): 2493
+- Scottish Tartans World Register: 2493
+
 ## Thread count
 Ga/6 G14 R9 DN7 R9 G54 Y/6
 ![Sett](sett.png)

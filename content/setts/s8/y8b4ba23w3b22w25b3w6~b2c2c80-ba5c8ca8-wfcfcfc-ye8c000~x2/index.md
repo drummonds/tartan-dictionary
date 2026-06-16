@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Culloden, Blue Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=831))
 - 1997 — Culloden Dress, Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1792/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [831](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=831)
+- Scottish Tartans Authority (ITI): 1792
+- Scottish Tartans World Register: 1792
+
 ## Thread count
 W/12 DB6 W50 DB44 W6 B46 DB8 Y/16
 ![Sett](sett.png)

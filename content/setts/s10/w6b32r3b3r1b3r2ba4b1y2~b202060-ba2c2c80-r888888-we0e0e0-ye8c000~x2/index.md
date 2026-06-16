@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2005 — X Marks the Scot (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4790))
 - 2005 July — X Marks the Scot (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6679/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4790](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4790)
+- Scottish Tartans Authority (ITI): 6679
+
 ## Thread count
 LN/12 DBa64 N6 DBa6 N2 DBa6 N4 DB8 DBa2 Y/4
 ![Sett](sett.png)

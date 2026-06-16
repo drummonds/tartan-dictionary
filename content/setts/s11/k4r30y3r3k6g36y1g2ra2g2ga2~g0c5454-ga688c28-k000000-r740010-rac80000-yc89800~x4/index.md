@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Chelsea (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=626))
 - pre 2002 — Chelsea (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4499/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [626](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=626)
+- Scottish Tartans Authority (ITI): 4499
+
 ## Thread count
 K/16 DR120 DY12 DR12 K24 G144 DY4 G8 R8 G8 LG/8
 ![Sett](sett.png)

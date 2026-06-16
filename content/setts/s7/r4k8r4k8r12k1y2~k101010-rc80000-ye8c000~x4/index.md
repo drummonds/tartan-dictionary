@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacDonald of Ardnamurchan (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3275/))
 - undated — MacDonald of Ardnamurchan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5217))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5217](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5217)
+- Scottish Tartans Authority (ITI): 3275
+
 ## Thread count
 R/16 K32 R16 K32 R48 K4 Y/8
 ![Sett](sett.png)

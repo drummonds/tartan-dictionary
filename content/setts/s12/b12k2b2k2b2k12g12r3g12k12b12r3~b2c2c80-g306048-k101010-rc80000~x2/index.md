@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1936 — Glenalmond College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1404))
 - 1936 — Glenalmond College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6123/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1404](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1404)
+- Scottish Tartans Authority (ITI): 6123
+
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 N24 R6 N24 K24 DB24 R/6
 ![Sett](sett.png)

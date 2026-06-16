@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Sunderland of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5549))
 - undated — Sunderland of Scotland Fashion Tartan Tartan Number: 7511. Earliest known date: July 2007 Woven by Lochcarron for Lyle & Scott of Hawick. Count & sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7511))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5549](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5549)
+- Scottish Tartans Authority (ITI): 7511
+
 ## Thread count
 N/4 K84 N20 K12 N20 K36 R/4
 ![Sett](sett.png)

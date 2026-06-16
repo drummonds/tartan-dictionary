@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1906 — MacTavish #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4840))
 - 1906 — MacTavish (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3598/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4840](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4840)
+- Scottish Tartans Authority (ITI): 3598
+
 ## Thread count
 B/8 DR48 DB8 B24 K24 B/8
 ![Sett](sett.png)

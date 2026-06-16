@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1957 — Cape Breton (yellow stripes) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=557))
 - July 1957 — Cape Breton (yellow stripes) (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1883/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [557](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=557)
+- Scottish Tartans Authority (ITI): 1883
+- Scottish Tartans World Register: 1883
+
 ## Thread count
 Y/12 K12 LGa60 K16 Nb36 K12 Y/6
 ![Sett](sett.png)

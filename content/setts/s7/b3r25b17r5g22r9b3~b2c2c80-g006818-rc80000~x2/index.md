@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1745 — MacFadyan (MacGregor Hastie) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/403/))
 - undated — MacFadyen MacBean (Old) Clan Tartan Tartan Number: 403. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=403))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2429](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2429)
+- Scottish Tartans Authority (ITI): 403
+- Scottish Tartans World Register: 403
+
 ## Thread count
 DB/6 R50 DB34 R10 G44 R18 DB/6
 ![Sett](sett.png)

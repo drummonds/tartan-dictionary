@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Heather MacRae (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1648))
 - 1988 — Heather MacRae (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7044/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1648](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1648)
+- Scottish Tartans Authority (ITI): 7044
+
 ## Thread count
 G/4 DR24 DB22 LT12 T12 DR24 G/4
 ![Sett](sett.png)

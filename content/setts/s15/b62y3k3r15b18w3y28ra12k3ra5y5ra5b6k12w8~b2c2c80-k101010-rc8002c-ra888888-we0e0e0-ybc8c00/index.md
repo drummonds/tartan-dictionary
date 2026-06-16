@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Clare County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7444/))
 - 01/05/2005 — Clare County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4828))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4828](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4828)
+- Scottish Tartans Authority (ITI): 7444
+- Scottish Tartans World Register: 3078
+
 ## Thread count
 DB/62 DY3 K3 R15 DB18 LN3 DY28 N12 K3 N5 DY5 N5 DB6 K12 LN/8
 ![Sett](sett.png)

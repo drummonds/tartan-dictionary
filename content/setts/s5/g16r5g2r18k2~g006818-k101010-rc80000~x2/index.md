@@ -18,6 +18,13 @@ This cloth appears in 4 source records; the oldest owns this page.
 - 1845 — MacCullough (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3339/))
 - undated — MacDonald of the Isles (Red) Portrait Tartan Tartan Number: 873. Earliest known date: 1750 This is MacDonald of Sleat with an extra black overcheck. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=873))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5199](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5199)
+- Scottish Tartans Authority (ITI): 3339
+
 ## Thread count
 G/32 R10 G4 R36 K/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Davidson (Wedding) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=892))
 - April 1998 — Davidson - 1998 (Wedding) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2576/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [892](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=892)
+- Scottish Tartans Authority (ITI): 2576
+- Scottish Tartans World Register: 2576
+
 ## Thread count
 R/8 DB56 K24 G4 W48 G4 W/8
 ![Sett](sett.png)

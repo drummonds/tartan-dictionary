@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 28/01/2000 — Queen Mary RMS (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3425))
 - Jan. 2000 — Queen Mary, RMS (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2700/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3425](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3425)
+- Scottish Tartans Authority (ITI): 2700
+- Scottish Tartans World Register: 2700
+
 ## Thread count
 DB/48 Y8 N8 P8 DB48 R8 LN6 K36 LN18 R8 K6 LN/4
 ![Sett](sett.png)

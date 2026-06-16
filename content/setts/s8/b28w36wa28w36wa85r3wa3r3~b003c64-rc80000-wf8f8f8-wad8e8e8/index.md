@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2006 — Malmo Skyblue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2798))
 - 2006 August — Malmo Skyblue (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7010/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2798](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2798)
+- Scottish Tartans Authority (ITI): 7010
+
 ## Thread count
 DB/28 W36 LN28 W36 LN85 R3 LN3 R/3
 ![Sett](sett.png)

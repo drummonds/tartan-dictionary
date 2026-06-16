@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Prince George's Police Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3392))
 - 1988 — Prince George's Police (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5474/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3392](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3392)
+- Scottish Tartans Authority (ITI): 5474
+- Scottish Tartans World Register: 2874
+
 ## Thread count
 DB/84 DR4 LG32 DR4 DB12 DR4 LG16 DY/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004, December — United Colours of Scotland (Corporat (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6504/))
 - undated — United Colours of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4978))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4978](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4978)
+- Scottish Tartans Authority (ITI): 6504
+- Scottish Tartans World Register: 3029
+
 ## Thread count
 DBa/10 LN6 DBa44 DB44 DG14 DBa6 DG/14
 ![Sett](sett.png)

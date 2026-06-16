@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Eastern Western Motor Group, Dalbraith (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=875))
 - pre 2002 — Dalbraith-Eastern Western (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2197/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [875](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=875)
+- Scottish Tartans Authority (ITI): 2197
+- Scottish Tartans World Register: 2197
+
 ## Thread count
 LT/8 G6 DB4 G46 DB36 T8 G4 T/56
 ![Sett](sett.png)

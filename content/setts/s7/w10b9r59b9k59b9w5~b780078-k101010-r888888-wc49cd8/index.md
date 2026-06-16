@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Central Newcastle School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=610))
 - pre 2007 — Central Newcastle High (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7210/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [610](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=610)
+- Scottish Tartans Authority (ITI): 7210
+
 ## Thread count
 LP/5 P9 K59 P9 N59 P9 LP/10
 ![Sett](sett.png)

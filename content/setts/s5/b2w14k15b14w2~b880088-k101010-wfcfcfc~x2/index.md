@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Furman University (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1291))
 - pre 2004 — Furman University (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6150/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1291](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1291)
+- Scottish Tartans Authority (ITI): 6150
+
 ## Thread count
 P/4 W28 K30 P28 W/4
 ![Sett](sett.png)

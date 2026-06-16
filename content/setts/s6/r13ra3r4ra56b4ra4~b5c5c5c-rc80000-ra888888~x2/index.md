@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Auchairne Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130))
 - 1998 — Auchairne, Grey (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2479/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [130](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130)
+- Scottish Tartans Authority (ITI): 2479
+- Scottish Tartans World Register: 2479
+
 ## Thread count
 Na/8 N8 Na112 R8 Na6 R/26
 ![Sett](sett.png)

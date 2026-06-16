@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Pre 1995 — American Soc.of Travel Agents (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2316/))
 - 01/01/1996 — American Society of Travel Agents, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=71))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [71](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=71)
+- Scottish Tartans Authority (ITI): 2316
+- Scottish Tartans World Register: 2316
+
 ## Thread count
 DB/4 N20 DB2 N2 DB20 R2 DB20 G20 LN/4
 ![Sett](sett.png)

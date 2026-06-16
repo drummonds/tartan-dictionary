@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2007 — Gothenburg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5432))
 - July 2007 — Gothenburg (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7309/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5432](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5432)
+- Scottish Tartans Authority (ITI): 7309
+
 ## Thread count
 Ba/52 LN56 Ba28 Y6 K2 Y4 K/2
 ![Sett](sett.png)

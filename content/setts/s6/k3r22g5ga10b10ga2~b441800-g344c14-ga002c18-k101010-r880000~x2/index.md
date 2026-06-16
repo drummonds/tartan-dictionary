@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Rowardennan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581))
 - pre 1978 — Rowardennan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5409/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3581](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581)
+- Scottish Tartans Authority (ITI): 5409
+
 ## Thread count
 DG/4 DR20 DG20 G10 DRa44 K/6
 ![Sett](sett.png)

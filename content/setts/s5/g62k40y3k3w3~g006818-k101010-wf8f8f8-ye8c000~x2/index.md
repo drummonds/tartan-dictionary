@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — O'Donoghue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3219))
 - 2003 — O'Donoghue (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6399/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3219](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3219)
+- Scottish Tartans Authority (ITI): 6399
+
 ## Thread count
 G/124 K80 Y6 K6 W/6
 ![Sett](sett.png)

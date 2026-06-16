@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1968 — Buie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=436))
 - 1968 — Buie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1590/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [436](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=436)
+- Scottish Tartans Authority (ITI): 1590
+- Scottish Tartans World Register: 1590
+
 ## Thread count
 R/8 K12 R/72
 ![Sett](sett.png)

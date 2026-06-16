@@ -19,6 +19,14 @@ This cloth appears in 5 source records; the oldest owns this page.
 - undated — Atholl District Tartan Tartan Number: 2078. Earliest known date: 1812 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2078))
 - undated — Murray of Atholl Clan Tartan Tartan Number: 281. Earliest known date: 1810-15 Also known as Atholl District tartan. There may be reference to this sett as early as 1619. James Logan suggested that the tartan derived from the Black Watch and that Lord Murray, who commanded the regiment, introduced the red lines. Logans count varies slightly from the one given here. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=281))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3063](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3063)
+- Scottish Tartans Authority (ITI): 281
+- Scottish Tartans World Register: 281
+
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 R6 G24 K24 DB24 K2 R/6
 ![Sett](sett.png)

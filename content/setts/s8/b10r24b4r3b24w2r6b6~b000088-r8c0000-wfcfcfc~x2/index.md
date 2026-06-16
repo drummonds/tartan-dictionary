@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Embrace, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1108))
 - 1972 — Embrace (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4811/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1108](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1108)
+- Scottish Tartans Authority (ITI): 4811
+
 ## Thread count
 DB/20 DR48 DB8 DR6 DB48 W4 DR12 DB/12
 ![Sett](sett.png)

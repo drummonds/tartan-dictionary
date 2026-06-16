@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Traynor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4147))
 - pre 2005 — Traynor (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6608/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4147](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4147)
+- Scottish Tartans Authority (ITI): 6608
+
 ## Thread count
 LB/4 DB36 LB6 DB8 LB6 DB8 LB60 DB6 LB4 Y/4
 ![Sett](sett.png)

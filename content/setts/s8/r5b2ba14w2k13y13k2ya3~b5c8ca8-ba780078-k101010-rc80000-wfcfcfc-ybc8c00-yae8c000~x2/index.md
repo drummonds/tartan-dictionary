@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1746 — Culloden (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820))
 - 1893 — Culloden - 1893 (O&R) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1328/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [820](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820)
+- Scottish Tartans Authority (ITI): 1328
+- Scottish Tartans World Register: 1328
+
 ## Thread count
 R/10 B4 P28 W4 K26 DY26 K4 Y/6
 ![Sett](sett.png)

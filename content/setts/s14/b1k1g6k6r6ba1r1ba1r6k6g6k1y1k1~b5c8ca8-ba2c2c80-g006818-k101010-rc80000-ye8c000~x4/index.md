@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2006 — Rossi (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568))
 - 2006 March — Rossi (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6897/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3568](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568)
+- Scottish Tartans Authority (ITI): 6897
+
 ## Thread count
 B/4 K4 G24 K24 R24 DB4 R4 DB4 R24 K24 G24 K4 Y4 K/4
 ![Sett](sett.png)

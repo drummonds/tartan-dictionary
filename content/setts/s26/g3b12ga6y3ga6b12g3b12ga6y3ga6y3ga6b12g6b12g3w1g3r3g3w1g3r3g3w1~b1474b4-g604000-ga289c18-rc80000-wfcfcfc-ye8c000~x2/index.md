@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 30/06/2002 — Sprouston (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3870))
 - pre 2004 — Sprouston (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6231/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3870](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3870)
+- Scottish Tartans Authority (ITI): 6231
+- Scottish Tartans World Register: 2907
+
 ## Thread count
 T/6 B24 G12 Y6 G12 B24 T6 B24 G12 Y6 G12 Y6 G12 B24 T12 B24 T6 W2 T6 R6 T6 W2 T6 R6 T6 W/2
 ![Sett](sett.png)

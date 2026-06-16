@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Inverness Caledonian Thistle Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1843))
 - undated — Inverness Caledonian Thistle F.C Corporate Weavers Tartan Tartan Number: 5272. Earliest known date: 1996 Designed by Polly Wittering of the House of Edgar C.1996 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5272))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1843](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1843)
+- Scottish Tartans Authority (ITI): 5272
+
 ## Thread count
 K/42 DB6 K24 DR4 DB24 K4 DB24 W/4
 ![Sett](sett.png)

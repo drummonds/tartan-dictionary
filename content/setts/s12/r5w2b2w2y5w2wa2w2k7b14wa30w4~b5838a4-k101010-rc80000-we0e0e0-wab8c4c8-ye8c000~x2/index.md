@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — St. Andrews Management School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3881))
 - June 2007 — St. Andrews Management School (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7237/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3881](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3881)
+- Scottish Tartans Authority (ITI): 7237
+
 ## Thread count
 LN/8 N60 Ba28 K14 LN4 N4 LN4 Y10 LN4 Ba4 LN4 R/10
 ![Sett](sett.png)

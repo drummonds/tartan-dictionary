@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Strakan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3974))
 - 1999 — Strakan (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4234/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3974](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3974)
+- Scottish Tartans Authority (ITI): 4234
+
 ## Thread count
 DB/36 N10 DB36 Y28 K6 W6 K6 Y28 N/6
 ![Sett](sett.png)

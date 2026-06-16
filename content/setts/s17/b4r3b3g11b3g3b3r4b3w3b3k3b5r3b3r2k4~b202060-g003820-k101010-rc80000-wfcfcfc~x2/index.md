@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Isla Grant (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1862))
 - 1996 — Isla Grant (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5278/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1862)
+- Scottish Tartans Authority (ITI): 5278
+
 ## Thread count
 DB/8 R6 DB6 DG22 DB6 DG6 DB6 R8 DB6 W6 DB6 K6 DB10 R6 DB6 R4 K/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Federal Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1156))
 - 1998 — Federal Memorial (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4191/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1156](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1156)
+- Scottish Tartans Authority (ITI): 4191
+
 ## Thread count
 DB/12 R4 DB4 R4 DB60 LN4 DB4 R16 DB4 LN4 DB4 B60 DB4 Y4 DB/12
 ![Sett](sett.png)

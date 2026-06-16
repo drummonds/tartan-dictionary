@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2004 — Fox, Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1241))
 - July 2004 — Fox, Red (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6312/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1241](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1241)
+- Scottish Tartans Authority (ITI): 6312
+
 ## Thread count
 R/14 DB12 R6 DB8 R6 DB22 R36 N6 R36 G30 R14 G30 R14 G20 R36 Y6 R36 DB22 R6 DB8 R6 DB12 R/14
 ![Sett](sett.png)

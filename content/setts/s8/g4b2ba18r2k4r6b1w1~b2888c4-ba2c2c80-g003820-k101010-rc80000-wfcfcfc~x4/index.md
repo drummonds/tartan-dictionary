@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Glenn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1430))
 - 2000 — Glenn (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5930/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1430](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1430)
+- Scottish Tartans Authority (ITI): 5930
+
 ## Thread count
 DG/16 B8 DB72 R8 K16 R24 B4 W/4
 ![Sett](sett.png)

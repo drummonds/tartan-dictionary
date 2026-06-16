@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2002 — Chartered Institute of Bankers in Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=618))
 - pre 2004 — Chartered Institute of Bankers (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6180/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [618](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=618)
+- Scottish Tartans Authority (ITI): 6180
+- Scottish Tartans World Register: 2917
+
 ## Thread count
 Y/5 K34 N5 K5 N8 K5 N56 LB5 N5 LB36 Y/5
 ![Sett](sett.png)

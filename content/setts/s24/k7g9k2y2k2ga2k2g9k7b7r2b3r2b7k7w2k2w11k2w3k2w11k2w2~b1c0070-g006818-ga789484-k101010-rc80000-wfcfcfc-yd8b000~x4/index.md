@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1888 — Malcolm Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2795))
 - pre 1888 — Malcolm Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1977/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2795](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2795)
+- Scottish Tartans Authority (ITI): 1977
+- Scottish Tartans World Register: 1977
+
 ## Thread count
 K/28 G36 K8 Y8 K8 LG8 K8 G36 K28 DB28 R8 DB12 R8 DB28 K28 W8 K8 W44 K8 W12 K8 W44 K8 W/8
 ![Sett](sett.png)

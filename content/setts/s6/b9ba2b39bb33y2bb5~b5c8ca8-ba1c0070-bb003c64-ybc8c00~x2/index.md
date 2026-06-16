@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2005, October — Port Authority of NY & NJ (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6793/))
 - undated — Port Authority of NY & NJ American Corporate Tartan Tartan Number: 6793. Earliest known date: 2005, October Designed by Clair Hunter (ne Donaldson) of The House of Edgar for The Pipers Cove - a Highland dress shop in Kearney, New Jersey for use by the Pipers' Cove Pipe Band. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6793))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3357](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3357)
+- Scottish Tartans Authority (ITI): 6793
+
 ## Thread count
 B/18 DB4 B78 DBa66 DY4 DBa/10
 ![Sett](sett.png)

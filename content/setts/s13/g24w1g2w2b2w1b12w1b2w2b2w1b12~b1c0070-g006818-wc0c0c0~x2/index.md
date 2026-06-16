@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1760 — MacDonald, Lord of the Isles Hunting #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5064))
 - 1760 — MacDonald, Lord of the Isles Htg #1 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3267/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5064](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5064)
+- Scottish Tartans Authority (ITI): 3267
+
 ## Thread count
 DB/24 N2 DB4 N4 DB4 N2 DB24 N2 DB4 N4 G4 N2 G/48
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2007 — Red Hatters United (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3478))
 - April 2007 — Ruby Ramblers Red Hat (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7177/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3478](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3478)
+- Scottish Tartans Authority (ITI): 7177
+
 ## Thread count
 K/8 R4 K4 LR4 K4 R72 K4 P24 K4 LR2 K6 R/4
 ![Sett](sett.png)

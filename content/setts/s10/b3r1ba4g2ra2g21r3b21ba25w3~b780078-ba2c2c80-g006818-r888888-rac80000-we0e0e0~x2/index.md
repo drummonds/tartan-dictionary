@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2008 — Accenture (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5564))
 - Feb 2008 — Accenture (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7527/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5564](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5564)
+- Scottish Tartans Authority (ITI): 7527
+
 ## Thread count
 LN/6 DB50 P42 N6 G42 R4 G4 DB8 N2 P/6
 ![Sett](sett.png)

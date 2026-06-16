@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — MacLeod of Lewis (Vestiarium Scoticum) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2640))
 - 1842 — MacLeod of Lewis (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1272/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2640](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2640)
+- Scottish Tartans Authority (ITI): 1272
+- Scottish Tartans World Register: 1272
+
 ## Thread count
 K/32 Y4 K32 Y48 R/4
 ![Sett](sett.png)

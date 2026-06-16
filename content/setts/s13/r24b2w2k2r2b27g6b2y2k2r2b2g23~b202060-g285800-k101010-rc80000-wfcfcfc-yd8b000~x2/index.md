@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1976 — Olympic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3242))
 - 1976 — Montreal Olympics (1976) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1923/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3242](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3242)
+- Scottish Tartans Authority (ITI): 1923
+- Scottish Tartans World Register: 1923
+
 ## Thread count
 G/46 DB4 R4 K4 Y4 DB4 G12 DB54 R4 K4 W4 DB4 R/48
 ![Sett](sett.png)

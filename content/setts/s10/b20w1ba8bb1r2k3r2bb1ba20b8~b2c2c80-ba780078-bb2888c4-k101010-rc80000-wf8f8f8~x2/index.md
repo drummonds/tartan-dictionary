@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Custer (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=858))
 - 2004 — Custer (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6421/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [858](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=858)
+- Scottish Tartans Authority (ITI): 6421
+
 ## Thread count
 DB/16 P40 B2 R4 K6 R4 B2 P16 W2 DB/40
 ![Sett](sett.png)

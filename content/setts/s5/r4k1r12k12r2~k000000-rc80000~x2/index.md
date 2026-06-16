@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1750 — Campbell of Armaddie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5030))
 - 1750 — Campbell of Armaddie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3800/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5030](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5030)
+- Scottish Tartans Authority (ITI): 3800
+
 ## Thread count
 R/4 K24 R24 K2 R/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Robberstad (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4938))
 - 2005 May — Robberstad (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6656/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4938](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4938)
+- Scottish Tartans Authority (ITI): 6656
+
 ## Thread count
 R/120 B30 R8 DB20 W4 DB20 W4 DB20 R/8
 ![Sett](sett.png)

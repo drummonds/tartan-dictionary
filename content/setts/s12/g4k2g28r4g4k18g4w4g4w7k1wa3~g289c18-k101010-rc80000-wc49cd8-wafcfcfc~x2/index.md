@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — Moss (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3023))
 - 2001 — Moss (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6063/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3023](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3023)
+- Scottish Tartans Authority (ITI): 6063
+
 ## Thread count
 G/8 K4 G56 R8 G8 K36 G8 LP8 G8 LP14 K2 W/6
 ![Sett](sett.png)

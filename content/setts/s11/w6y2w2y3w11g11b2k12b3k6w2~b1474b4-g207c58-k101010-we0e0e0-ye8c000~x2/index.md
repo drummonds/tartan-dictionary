@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Fitzpatrick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1199))
 - 1991 — Fitzpatrick (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1813/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1199](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1199)
+- Scottish Tartans Authority (ITI): 1813
+- Scottish Tartans World Register: 1813
+
 ## Thread count
 LN/4 K12 B6 K24 B4 G22 LN22 Y6 LN4 Y4 LN/12
 ![Sett](sett.png)

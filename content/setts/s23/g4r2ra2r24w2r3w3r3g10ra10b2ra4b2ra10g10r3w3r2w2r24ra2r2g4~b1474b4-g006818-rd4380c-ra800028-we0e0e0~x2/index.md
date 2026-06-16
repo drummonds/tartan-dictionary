@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Trost (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5343))
 - 2002 — Trost (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3811/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5343](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5343)
+- Scottish Tartans Authority (ITI): 3811
+
 ## Thread count
 G/8 R4 DR4 R48 LN4 R4 LN6 R6 G20 DR20 B4 DR8 B4 DR20 G20 R6 LN6 R6 LN4 R48 DR4 R4 G/8
 ![Sett](sett.png)

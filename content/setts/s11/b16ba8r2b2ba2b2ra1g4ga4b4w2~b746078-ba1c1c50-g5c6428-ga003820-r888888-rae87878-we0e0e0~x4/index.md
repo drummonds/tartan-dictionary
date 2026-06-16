@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Scottish H & I Film Com (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7547/))
 - undated — Scottish Highlands & Islands Film Company (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5579))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5579](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5579)
+- Scottish Tartans Authority (ITI): 7547
+
 ## Thread count
 LN/8 N16 DG16 G16 LR4 N8 DB8 N8 Na8 DB32 N/64
 ![Sett](sett.png)

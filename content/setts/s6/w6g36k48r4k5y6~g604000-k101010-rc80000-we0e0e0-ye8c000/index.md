@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1998 — Drambuie Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=973))
 - pre 1998 — Drambuie Dress (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2485/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [973](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=973)
+- Scottish Tartans Authority (ITI): 2485
+- Scottish Tartans World Register: 2485
+
 ## Thread count
 LN/6 T36 K48 R4 K5 Y/6
 ![Sett](sett.png)

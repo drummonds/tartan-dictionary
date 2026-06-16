@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Antarctic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=94))
 - 1999 — Antarctic (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2701/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [94](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=94)
+- Scottish Tartans Authority (ITI): 2701
+- Scottish Tartans World Register: 2701
+
 ## Thread count
 B/2 LN76 N4 LN4 N11 O11 Y7 K11 LN4 B11 DB32 LN/2
 ![Sett](sett.png)

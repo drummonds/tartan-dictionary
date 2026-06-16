@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2005 — Pinewoods Jubilee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3341))
 - 2005 September — Pinewoods Jubilee (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6818/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3341](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3341)
+- Scottish Tartans Authority (ITI): 6818
+
 ## Thread count
 W/6 Ba76 B4 K8 P8 K8 G60 Y2 G2 Y/4
 ![Sett](sett.png)

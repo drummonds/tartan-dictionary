@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — Inder (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6733/))
 - undated — Inder (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5411))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5411](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5411)
+- Scottish Tartans Authority (ITI): 6733
+- Scottish Tartans World Register: 3062
+
 ## Thread count
 R/4 P16 K16 W2 R/4
 ![Sett](sett.png)

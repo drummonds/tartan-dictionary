@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Dykes, of Perthshire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1062))
 - pre 2007 — Dykes of Perthshire (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7156/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1062](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1062)
+- Scottish Tartans Authority (ITI): 7156
+
 ## Thread count
 B/6 K6 B42 K24 R24 Y6 K8 W6 DG40 R16 K6 R12 W/6
 ![Sett](sett.png)

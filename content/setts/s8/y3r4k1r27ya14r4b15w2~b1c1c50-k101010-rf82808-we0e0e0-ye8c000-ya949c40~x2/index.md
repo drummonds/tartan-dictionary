@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Dalmagarry (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7723/))
 - undated — Dalmagarry (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5709))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5709](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5709)
+- Scottish Tartans Authority (ITI): 7723
+
 ## Thread count
 LN/4 DB30 R8 LT28 R54 K2 R8 Y/6
 ![Sett](sett.png)

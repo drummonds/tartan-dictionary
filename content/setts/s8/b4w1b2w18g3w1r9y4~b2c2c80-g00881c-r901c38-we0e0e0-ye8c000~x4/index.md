@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1958 — Manitoba Dress (1958) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7697/))
 - undated — Manitoba Dress (1958) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5694))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5694](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5694)
+- Scottish Tartans Authority (ITI): 7697
+
 ## Thread count
 DB/16 LN4 DB8 LN72 G12 LN4 DR36 Y/16
 ![Sett](sett.png)

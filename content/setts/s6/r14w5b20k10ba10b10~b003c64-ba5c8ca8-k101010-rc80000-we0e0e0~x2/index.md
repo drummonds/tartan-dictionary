@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Gandy of Myrton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5590))
 - undated — Gandy of Myrton Clan/Family Tartan Tartan Number: 7564. Earliest known date: 2008 Professor Gandy wrote, I wanted to make a family tartan and celebrates my being gazetted by Lyon as chief of the territorial house of the Gandys of Myrton on 19th August 2005. The tartan alludes to the tartan of a fairly remote cousin, the Earl of Cawdor (whose tartan we hitherto wore) and the principal colours of our arms. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7564))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5590](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5590)
+- Scottish Tartans Authority (ITI): 7564
+
 ## Thread count
 DB/20 B20 K20 DB40 LN10 R/28
 ![Sett](sett.png)

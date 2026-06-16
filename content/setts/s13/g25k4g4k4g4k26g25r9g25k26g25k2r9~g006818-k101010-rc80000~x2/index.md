@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/1998 — Moncrieffe (1998) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2982))
 - October 1998 — Moncrieffe Atholl (1998) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2517/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2982)
+- Scottish Tartans Authority (ITI): 2517
+- Scottish Tartans World Register: 2517
+
 ## Thread count
 G/50 K8 G8 K8 G8 K52 G50 R18 G50 K52 G50 K4 R/18
 ![Sett](sett.png)

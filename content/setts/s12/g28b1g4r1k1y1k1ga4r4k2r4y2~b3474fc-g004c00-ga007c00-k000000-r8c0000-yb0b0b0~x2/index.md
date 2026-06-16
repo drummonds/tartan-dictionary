@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Carroll O'Reed (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=578))
 - 1985 — Carroll O'Reed (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4471/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [578](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=578)
+- Scottish Tartans Authority (ITI): 4471
+
 ## Thread count
 Ga/56 B2 Ga8 DR2 K2 N2 K2 G8 DR8 K4 DR8 N/4
 ![Sett](sett.png)

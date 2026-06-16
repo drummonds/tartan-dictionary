@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — Kungsholmen Snooker (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2017))
 - June 2007 — Kungsholmen Snooker (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7216/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2017](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2017)
+- Scottish Tartans Authority (ITI): 7216
+
 ## Thread count
 K/52 T4 K4 G4 K4 R8 K4 G4 K4 T4 K52 LR4 Ba52 Y8 Ba4 LN/16
 ![Sett](sett.png)

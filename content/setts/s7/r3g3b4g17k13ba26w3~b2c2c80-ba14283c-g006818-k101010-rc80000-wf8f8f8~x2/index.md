@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1999 — Royal Burgh of Peebles (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5403/))
 - 01/01/2000 — Peebles Beltane Centenary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3311))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3311](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3311)
+- Scottish Tartans Authority (ITI): 5403
+- Scottish Tartans World Register: 2963
+
 ## Thread count
 R/6 G6 DB8 G34 K26 DN52 W/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Highland Spring (1997) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1721))
 - undated — Highland Spring (Green) Corporate Prom Tartan Tartan Number: 2322. Earliest known date: 1997 Tartan Society notes say "Second tartan for Highland Spring. It is a straight substitution of colours in the original sett (#130). On the relaunch of their packaging a second tartan was needed. It had been found that the 'green' image of the Highlands carried in tartan, increased their product's competitiveness." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2322))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1721](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1721)
+- Scottish Tartans Authority (ITI): 2322
+- Scottish Tartans World Register: 2322
+
 ## Thread count
 DP/14 G46 R6 G14 R6 G/46
 ![Sett](sett.png)

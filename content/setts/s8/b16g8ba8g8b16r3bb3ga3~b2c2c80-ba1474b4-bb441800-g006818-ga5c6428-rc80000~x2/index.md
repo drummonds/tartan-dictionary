@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Glen Erin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1375))
 - pre 2002 — Glen Erin (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1909/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1375](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1375)
+- Scottish Tartans Authority (ITI): 1909
+- Scottish Tartans World Register: 1909
+
 ## Thread count
 DB/32 Ga16 B16 Ga16 DB32 R6 DR6 G/6
 ![Sett](sett.png)

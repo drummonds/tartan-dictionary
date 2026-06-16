@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1847 — Davidson, Double (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=896))
 - 1847 — Davidson 'Double' - 1847 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/444/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [896](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=896)
+- Scottish Tartans Authority (ITI): 444
+- Scottish Tartans World Register: 444
+
 ## Thread count
 DB/6 R4 DB16 K16 G16 K6 W4 K/6
 ![Sett](sett.png)

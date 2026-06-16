@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Cooke (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=751))
 - circa 1993 — Cooke (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2130/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [751](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=751)
+- Scottish Tartans Authority (ITI): 2130
+- Scottish Tartans World Register: 2130
+
 ## Thread count
 G/12 K8 R20 G32 DB48 B8 K/24
 ![Sett](sett.png)

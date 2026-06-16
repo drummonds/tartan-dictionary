@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1965 — Gammell (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1311))
 - 1965 — Gammell (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/597/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1311](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1311)
+- Scottish Tartans Authority (ITI): 597
+- Scottish Tartans World Register: 597
+
 ## Thread count
 B/64 R6 B6 R6 B6 R20 G48 DR/6
 ![Sett](sett.png)

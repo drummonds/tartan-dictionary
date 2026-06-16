@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1853 — Balmoral (Green) (Royal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=183))
 - 1853 — Balmoral Green, (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7124/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [183](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=183)
+- Scottish Tartans Authority (ITI): 7124
+
 ## Thread count
 G/6 Na6 K6 Na12 N22 Na6 N6 Na6 K12 N14 Na48 G6 Na/10
 ![Sett](sett.png)

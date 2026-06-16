@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1945 — Campbell Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=510))
 - 1945 — Campbell Htg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/16/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [510](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=510)
+- Scottish Tartans Authority (ITI): 16
+- Scottish Tartans World Register: 16
+
 ## Thread count
 B/8 K2 W4 K6 Y2 N24 T2 K24 T24 R/8
 ![Sett](sett.png)

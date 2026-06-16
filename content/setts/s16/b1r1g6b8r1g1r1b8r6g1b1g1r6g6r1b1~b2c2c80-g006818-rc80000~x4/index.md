@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — Crieff Hydro Hotel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=805))
 - pre 1990 — Crieff Hydro Hotel (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5166/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [805](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=805)
+- Scottish Tartans Authority (ITI): 5166
+
 ## Thread count
 DB/4 R4 G24 DB32 R4 G4 R4 DB32 R24 G4 DB4 G4 R24 G24 R4 DB/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1840 — MacIntyre Hunting (VS) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2485))
 - 1840 — MacIntyre - 1842 (VS) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/743/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2485](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2485)
+- Scottish Tartans Authority (ITI): 743
+- Scottish Tartans World Register: 743
+
 ## Thread count
 G/8 DB24 R6 DB24 G64 W/8
 ![Sett](sett.png)

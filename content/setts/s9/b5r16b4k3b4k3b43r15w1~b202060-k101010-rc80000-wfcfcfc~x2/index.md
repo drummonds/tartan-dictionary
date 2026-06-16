@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Falkirk Football Club (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3835/))
 - undated — Falkirk Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4964))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4964](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4964)
+- Scottish Tartans Authority (ITI): 3835
+
 ## Thread count
 DB/10 R32 DB8 K6 DB8 K6 DB86 R30 W/2
 ![Sett](sett.png)

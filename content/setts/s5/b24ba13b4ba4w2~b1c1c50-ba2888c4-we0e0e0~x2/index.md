@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2008 — Gallaecia (Unofficial) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7820/))
 - undated — Gallaecia (Unofficial) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5776))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5776](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5776)
+- Scottish Tartans Authority (ITI): 7820
+
 ## Thread count
 DB/48 B26 DB8 B8 LN/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Little Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126))
 - 2000 — Little Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4138/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2126](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126)
+- Scottish Tartans Authority (ITI): 4138
+
 ## Thread count
 DY/4 K32 LN32 K8 LN32 K16 R16 K16 R16 K/16
 ![Sett](sett.png)

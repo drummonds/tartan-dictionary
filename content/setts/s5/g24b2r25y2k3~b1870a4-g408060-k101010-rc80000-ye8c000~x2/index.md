@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Bronte (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=379))
 - pre 2005 — Bronte (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6614/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [379](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=379)
+- Scottish Tartans Authority (ITI): 6614
+
 ## Thread count
 G/48 B4 R50 Y4 K/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 08/12/2008 — MacInnes Homecoming (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5772))
 - Dec. 2008 — MacInnes Homecoming (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7815/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5772](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5772)
+- Scottish Tartans Authority (ITI): 7815
+
 ## Thread count
 DY/6 K38 DN4 K4 DN4 K4 DN36 K6 DB6 K6 DN46 R/6
 ![Sett](sett.png)

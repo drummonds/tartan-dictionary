@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2006 September — Matthews (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7003/))
 - undated — Matthews Clan Tartan Tartan Number: 7003. Earliest known date: 2006 September A variant of the Donnachaidh (Robertson) tartan and reflects the Matthews family membership of that clan. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7003))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4914](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914)
+- Scottish Tartans Authority (ITI): 7003
+- Scottish Tartans World Register: 3147
+
 ## Thread count
 DB/6 R48 DB6 R6 DB50 LN/6
 ![Sett](sett.png)

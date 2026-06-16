@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2007 — Black Thistle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5815))
 - pre 2007 — Black Thistle (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7867/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5815](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5815)
+- Scottish Tartans Authority (ITI): 7867
+
 ## Thread count
 B/20 K12 G84 K4 G2 K4 R2 K48 R/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Desert in Bloom (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=919))
 - 1972 — Desert in Bloom (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7054/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [919](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=919)
+- Scottish Tartans Authority (ITI): 7054
+
 ## Thread count
 O/6 Y24 O24 W6 Y4 LT52 O6 Y/2
 ![Sett](sett.png)

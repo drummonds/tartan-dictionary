@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — Deas (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=903))
 - pre 1950 — Deas (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2153/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [903](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=903)
+- Scottish Tartans Authority (ITI): 2153
+- Scottish Tartans World Register: 2153
+
 ## Thread count
 DB/42 K4 DB4 K24 Y6 K24 G4 K4 G42 K4 R16 K12 R16 K/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Duchess of Albany (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1000))
 - 1880 — Duchess of Albany (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1378/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1000](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1000)
+- Scottish Tartans Authority (ITI): 1378
+- Scottish Tartans World Register: 1378
+
 ## Thread count
 DY/4 DB44 K32 G6 K4 G4 K4 G24 K4 G4 K4 G6 DB16 G4 DB16 G6 K4 G4 K4 G24 K4 G4 K4 G6 K32 DB48 R/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Gagetown (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7557/))
 - undated — Gagetown School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5585))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5585](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5585)
+- Scottish Tartans Authority (ITI): 7557
+
 ## Thread count
 B/12 K66 B30 K6 B30 K/6
 ![Sett](sett.png)

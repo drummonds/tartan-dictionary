@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2007 — Laurentian University (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2060))
 - May 2007 — Laurentian University (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7324/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2060](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2060)
+- Scottish Tartans Authority (ITI): 7324
+
 ## Thread count
 N/4 DB8 LN4 DB56 G56 Y6 DB8 T/4
 ![Sett](sett.png)

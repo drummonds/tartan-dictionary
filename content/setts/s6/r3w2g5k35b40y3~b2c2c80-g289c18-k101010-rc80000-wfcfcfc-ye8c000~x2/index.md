@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Italian National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1871))
 - pre 2004 — Italian National (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6315/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1871](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1871)
+- Scottish Tartans Authority (ITI): 6315
+
 ## Thread count
 R/6 W4 G10 K70 DB80 Y/6
 ![Sett](sett.png)

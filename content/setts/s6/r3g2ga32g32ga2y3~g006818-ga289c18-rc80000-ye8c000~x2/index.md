@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — Galloway Green (yellow line) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1304))
 - 1950 — Galloway, Green (yellow line) (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1469/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1304](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1304)
+- Scottish Tartans Authority (ITI): 1469
+- Scottish Tartans World Register: 1469
+
 ## Thread count
 R/6 G4 Ga64 G64 Ga4 Y/6
 ![Sett](sett.png)

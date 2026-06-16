@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2008 — Torana (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5748))
 - 2008 — Torana (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7778/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5748](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5748)
+- Scottish Tartans Authority (ITI): 7778
+
 ## Thread count
 DY/26 K26 DY4 O10 K26 R/26
 ![Sett](sett.png)

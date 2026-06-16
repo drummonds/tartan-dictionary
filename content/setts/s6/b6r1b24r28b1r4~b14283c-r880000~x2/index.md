@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Mary Erskine School, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2843))
 - pre 2002 — Mary Erskin (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2185/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2843](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2843)
+- Scottish Tartans Authority (ITI): 2185
+- Scottish Tartans World Register: 2185
+
 ## Thread count
 DN/12 DR2 DN48 DR56 DN2 DR/8
 ![Sett](sett.png)

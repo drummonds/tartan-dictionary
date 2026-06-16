@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1991 — California Highway Patrol (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3786/))
 - 01/01/1992 — California Highway Patrol (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5330))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5330](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5330)
+- Scottish Tartans Authority (ITI): 3786
+
 ## Thread count
 K/6 G6 T56 LT6 T6 LT56 DB6 Y/4
 ![Sett](sett.png)

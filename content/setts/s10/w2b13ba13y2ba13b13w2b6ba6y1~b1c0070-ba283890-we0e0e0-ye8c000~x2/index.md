@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Oct 1997 — Westwood MacSky (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7488/))
 - undated — Westwood MacSky (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5529))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5529](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5529)
+- Scottish Tartans Authority (ITI): 7488
+
 ## Thread count
 LN/4 DB26 B26 Y4 B26 DB26 LN4 DB12 B12 Y/2
 ![Sett](sett.png)

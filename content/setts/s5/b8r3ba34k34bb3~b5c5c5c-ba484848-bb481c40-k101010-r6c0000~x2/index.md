@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - December 2008 — Passion of Scotland, Pewter (Fashion (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7735/))
 - undated — Passion of Scotland Pewter (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5718))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5718](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5718)
+- Scottish Tartans Authority (ITI): 7735
+
 ## Thread count
 DP/6 K68 N68 DR6 Na/16
 ![Sett](sett.png)

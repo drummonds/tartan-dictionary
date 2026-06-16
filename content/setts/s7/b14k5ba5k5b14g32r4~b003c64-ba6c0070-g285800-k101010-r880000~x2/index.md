@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Bennachie (Whisky) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=248))
 - 1999 — Bennachie Whisky (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4228/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [248](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=248)
+- Scottish Tartans Authority (ITI): 4228
+
 ## Thread count
 DBa/28 K10 P10 K10 DBa28 Ga64 DR/8
 ![Sett](sett.png)

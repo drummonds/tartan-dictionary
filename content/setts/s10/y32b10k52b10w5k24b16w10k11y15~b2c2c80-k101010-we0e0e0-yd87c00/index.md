@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Cavan County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7443/))
 - 01/05/2005 — Cavan County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5325))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5325](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5325)
+- Scottish Tartans Authority (ITI): 7443
+- Scottish Tartans World Register: 3077
+
 ## Thread count
 O/32 DB10 K52 DB10 LN5 K24 DB16 LN10 K11 O/15
 ![Sett](sett.png)

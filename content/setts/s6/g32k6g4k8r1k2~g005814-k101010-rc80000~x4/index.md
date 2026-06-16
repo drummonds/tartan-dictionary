@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Fife, Duke Of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1182))
 - 1880 — Fife (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/790/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1182](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1182)
+- Scottish Tartans Authority (ITI): 790
+- Scottish Tartans World Register: 790
+
 ## Thread count
 G/128 K24 G16 K32 R4 K/8
 ![Sett](sett.png)

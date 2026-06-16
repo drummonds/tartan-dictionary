@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Late 1980's — Edinburgh TIC (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3944/))
 - undated — Edinburgh TIC (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4980))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4980](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4980)
+- Scottish Tartans Authority (ITI): 3944
+
 ## Thread count
 DB/64 R6 DB6 R8 LN6 R10 DB8 R/14
 ![Sett](sett.png)

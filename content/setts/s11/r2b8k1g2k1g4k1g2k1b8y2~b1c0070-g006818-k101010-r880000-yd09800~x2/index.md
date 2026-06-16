@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacCainsh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2304))
 - pre 2002 — MacCainsh (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1379/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2304](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2304)
+- Scottish Tartans Authority (ITI): 1379
+- Scottish Tartans World Register: 1379
+
 ## Thread count
 DR/4 DB16 K2 G4 K2 G8 K2 G4 K2 DB16 DY/4
 ![Sett](sett.png)

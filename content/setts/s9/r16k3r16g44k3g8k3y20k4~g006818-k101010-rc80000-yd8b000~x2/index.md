@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - June 1952 — MacMillan Society of Glasgow (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1271/))
 - 01/01/2002 — MacMillan Society of Glasgow (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2661))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2661](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2661)
+- Scottish Tartans Authority (ITI): 1271
+- Scottish Tartans World Register: 1271
+
 ## Thread count
 K/8 Y40 K6 G16 K6 G88 R32 K6 R/32
 ![Sett](sett.png)

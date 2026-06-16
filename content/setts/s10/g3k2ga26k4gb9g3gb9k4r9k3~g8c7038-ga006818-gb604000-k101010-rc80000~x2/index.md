@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Cavan, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=601))
 - 1996 — Cavan, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2274/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [601](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=601)
+- Scottish Tartans Authority (ITI): 2274
+- Scottish Tartans World Register: 2274
+
 ## Thread count
 K/6 R18 K8 T18 LT6 T18 K8 G52 K4 LT/6
 ![Sett](sett.png)

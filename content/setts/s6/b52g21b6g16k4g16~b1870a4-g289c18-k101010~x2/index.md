@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Milligan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2952))
 - pre 2003 — Milligan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6035/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2952](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2952)
+- Scottish Tartans Authority (ITI): 6035
+
 ## Thread count
 B/104 G42 B12 G32 K8 G/32
 ![Sett](sett.png)

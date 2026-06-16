@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/1998 — Moray Council (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3007))
 - 1998 — Moray Council (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2494/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3007](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3007)
+- Scottish Tartans Authority (ITI): 2494
+- Scottish Tartans World Register: 2494
+
 ## Thread count
 DB/16 DR4 DB66 DN30 G24 DY4 G4 DR/4
 ![Sett](sett.png)

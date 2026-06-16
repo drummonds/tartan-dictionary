@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2004 — Porcelanosa (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5426))
 - pre 2005 — Porcelanosa (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6726/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5426](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5426)
+- Scottish Tartans Authority (ITI): 6726
+- Scottish Tartans World Register: 3021
+
 ## Thread count
 Na/48 Nb18 N46 Y/6
 ![Sett](sett.png)

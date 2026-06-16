@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1860 — MacHardy (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/514/))
 - 01/01/1973 — MacHardy Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2468))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2468](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2468)
+- Scottish Tartans Authority (ITI): 514
+- Scottish Tartans World Register: 514
+
 ## Thread count
 DN/12 R6 G52 DN52 LN4 DN54 R10 G/10
 ![Sett](sett.png)

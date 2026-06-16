@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Clifford (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=687))
 - 1999 — Clifford (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2662/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [687](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=687)
+- Scottish Tartans Authority (ITI): 2662
+- Scottish Tartans World Register: 2662
+
 ## Thread count
 DN/20 K6 G6 K16 DR18 K6 DR20 B6 DR56 G6 K6 W6 K/6
 ![Sett](sett.png)

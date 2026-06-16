@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 20/04/2012 — Ryutokukan Junior High School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10647))
 - undated — Ryutokukan Junior High School Tartan Tartan Number: 10647. Earliest known date: 20/04/2012 A tartan for this highly respected junior high school reflecting dignity and intelligence. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10647))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10647](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10647)
+
 ## Thread count
 DR/12 DG26 K10 DR40 LY/6
 ![Sett](sett.png)

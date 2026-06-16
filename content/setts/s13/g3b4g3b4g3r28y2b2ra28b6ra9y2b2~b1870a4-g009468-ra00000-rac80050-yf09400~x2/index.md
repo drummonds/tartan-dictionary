@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1994 — Pitcairn Heritage (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2199/))
 - 01/01/1995 — Pitcairn Heritage (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3344))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3344](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3344)
+- Scottish Tartans Authority (ITI): 2199
+- Scottish Tartans World Register: 2199
+
 ## Thread count
 B/6 Ba8 B6 Ba8 B6 DR56 DY4 Ba4 R56 Ba12 R18 DY4 Ba/4
 ![Sett](sett.png)

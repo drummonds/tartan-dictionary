@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Eynon of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5811))
 - undated — Eynon Welsh Name Tartan Tartan Number: 7860. Earliest known date: pre 2008 The tartan for this Welsh surname and its variation, Beynon, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7860))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5811](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5811)
+- Scottish Tartans Authority (ITI): 7860
+
 ## Thread count
 DB/22 K2 G6 DB12 K2 DB12 G6 DB8 G14 DB22 DY2 DB22 G14 DY4 K/8
 ![Sett](sett.png)

@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1996 — Independence Tartan (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2285/))
 - undated — Independence Universal Tartan Tartan Number: 2285. Earliest known date: 1996 Designed by Donald Fraser 1996. Commissioned by New Scots for Independence and launched at a Scottish National Party (SNP) conference. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2285))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1821](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1821)
+- Scottish Tartans Authority (ITI): 2285
+- Scottish Tartans World Register: 2285
+
 ## Thread count
 DY/4 K4 DY2 N30 DY4 N4 DY4 K4 DY4 B32 DY4 K/4
 ![Sett](sett.png)

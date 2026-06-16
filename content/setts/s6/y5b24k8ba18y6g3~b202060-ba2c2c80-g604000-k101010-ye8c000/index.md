@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/1999 — Cala Homes (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=466))
 - Feb. 1999 — Cala Homes (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2527/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [466](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=466)
+- Scottish Tartans Authority (ITI): 2527
+- Scottish Tartans World Register: 2527
+
 ## Thread count
 T/3 Y6 DB18 K8 DBa24 Y/5
 ![Sett](sett.png)

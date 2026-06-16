@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — College of Radiographers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=710))
 - pre 1988 — College of Radiographers (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1274/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [710](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=710)
+- Scottish Tartans Authority (ITI): 1274
+- Scottish Tartans World Register: 1274
+
 ## Thread count
 K/30 DY4 K20 DB36 N/6
 ![Sett](sett.png)

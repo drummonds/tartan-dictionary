@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1983 — Berwick (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3686/))
 - undated — Berwick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5160))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5160](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5160)
+- Scottish Tartans Authority (ITI): 3686
+
 ## Thread count
 G/4 T6 K8 T12 N28 K6 G6 K6 DR4 K28 N4 G10 T/48
 ![Sett](sett.png)

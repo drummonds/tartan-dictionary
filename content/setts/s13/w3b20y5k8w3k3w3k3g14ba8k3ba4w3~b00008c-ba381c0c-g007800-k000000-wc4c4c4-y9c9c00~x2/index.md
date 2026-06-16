@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — Dowling (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=967))
 - 1990 — Dowling (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4708/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [967](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=967)
+- Scottish Tartans Authority (ITI): 4708
+
 ## Thread count
 N/6 DB40 LG10 Ka16 N6 Ka6 N6 Ka6 G28 K16 Ka6 K8 N/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Torridon, Saphire (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7594/))
 - undated — Torridon Saphire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5618))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5618](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5618)
+- Scottish Tartans Authority (ITI): 7594
+
 ## Thread count
 W/6 DB4 W60 DBa60 K4 DBa4 Y/6
 ![Sett](sett.png)

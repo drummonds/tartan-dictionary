@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Butler (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=458))
 - 2000 — Butler (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4058/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [458](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=458)
+- Scottish Tartans Authority (ITI): 4058
+
 ## Thread count
 DB/96 R36 DB12 R26 Y8 R/28
 ![Sett](sett.png)

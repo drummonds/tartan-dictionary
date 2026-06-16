@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1797 — Crieff (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=803))
 - 1797 — Crieff (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1636/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [803](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=803)
+- Scottish Tartans Authority (ITI): 1636
+- Scottish Tartans World Register: 1636
+
 ## Thread count
 R/2 Ra6 G4 Ra2 G85 Ra2 P21 Ra2 G4 Ra70 G4 Ra6 R/2
 ![Sett](sett.png)

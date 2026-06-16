@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Brodie Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=372))
 - 1880 — Brodie Hunting (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1334/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [372](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=372)
+- Scottish Tartans Authority (ITI): 1334
+- Scottish Tartans World Register: 1334
+
 ## Thread count
 R/8 B32 G32 K32 DY4 K32 R/8
 ![Sett](sett.png)

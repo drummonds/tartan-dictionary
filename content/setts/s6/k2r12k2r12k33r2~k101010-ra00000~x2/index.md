@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Cameron Black & Red (Dress) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=491))
 - pre 2002 — Cameron, Black & Red (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1186/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [491](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=491)
+- Scottish Tartans Authority (ITI): 1186
+- Scottish Tartans World Register: 1186
+
 ## Thread count
 DR/4 K66 DR24 K4 DR24 K/4
 ![Sett](sett.png)

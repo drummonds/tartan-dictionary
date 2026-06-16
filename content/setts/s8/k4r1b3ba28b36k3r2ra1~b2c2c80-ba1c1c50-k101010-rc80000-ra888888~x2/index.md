@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — ODL (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7832/))
 - undated — ODL (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5785))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5785](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5785)
+- Scottish Tartans Authority (ITI): 7832
+
 ## Thread count
 K/8 R2 DBa6 DB56 DBa72 K6 R4 N/2
 ![Sett](sett.png)

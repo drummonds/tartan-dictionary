@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 23/03/2012 — Submariners (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10589))
 - undated — Submariners Corporate Tartan Tartan Number: 10589. Earliest known date: 23/03/2012 Commissioned by Steven Johnson of Lisburn, NI. The colours are taken from the Royal Navy ensigns with the gold and red of the dolphin symbol worn by submariners. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10589))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10589](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10589)
+
 ## Thread count
 R/4 DB2 Y8 DB48 W4 DB2 W4 DB16 W16 R16 DB2 B24 DB2 W/8
 ![Sett](sett.png)

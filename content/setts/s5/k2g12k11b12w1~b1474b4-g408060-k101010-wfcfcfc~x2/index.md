@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — MacKirdy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2578))
 - pre 1950 — MacKirdy (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1092/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2578](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2578)
+- Scottish Tartans Authority (ITI): 1092
+- Scottish Tartans World Register: 1092
+
 ## Thread count
 K/4 Ga24 K22 B24 W/2
 ![Sett](sett.png)

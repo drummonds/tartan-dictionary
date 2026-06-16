@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Metcalf (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3471/))
 - undated — Metcalf (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5182))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5182](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5182)
+- Scottish Tartans Authority (ITI): 3471
+
 ## Thread count
 DB/4 DR10 G6 DR32 N10 DB4 N4 DB6 N18 K14 N10 K14 N18 DB6 N4 DB4 N10 G36 DR/88
 ![Sett](sett.png)

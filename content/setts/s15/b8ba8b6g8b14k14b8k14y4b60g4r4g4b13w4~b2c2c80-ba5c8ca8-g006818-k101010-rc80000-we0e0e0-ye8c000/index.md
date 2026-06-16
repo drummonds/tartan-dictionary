@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec. 2008 — Dickson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7857/))
 - undated — Dickson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5808))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5808)
+- Scottish Tartans Authority (ITI): 7857
+
 ## Thread count
 DB/8 B8 DB6 G8 DB14 K14 DB8 K14 Y4 DB60 G4 R4 G4 DB13 LN/4
 ![Sett](sett.png)

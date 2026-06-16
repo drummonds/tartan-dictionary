@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Monarchs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2979))
 - pre 2002 — Monarchs (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2222/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2979](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2979)
+- Scottish Tartans Authority (ITI): 2222
+- Scottish Tartans World Register: 2222
+
 ## Thread count
 DB/76 K16 DR4 K16 G36 DR/4
 ![Sett](sett.png)

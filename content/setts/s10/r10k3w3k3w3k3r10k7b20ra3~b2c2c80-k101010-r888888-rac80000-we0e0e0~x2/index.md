@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 28/03/2003 — Meeting Professionals International (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2908))
 - pre 2003 — Meeting Professionals Int. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5962/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2908](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2908)
+- Scottish Tartans Authority (ITI): 5962
+- Scottish Tartans World Register: 2939
+
 ## Thread count
 N/20 K6 LN6 K6 LN6 K6 N20 K14 DB40 R/6
 ![Sett](sett.png)

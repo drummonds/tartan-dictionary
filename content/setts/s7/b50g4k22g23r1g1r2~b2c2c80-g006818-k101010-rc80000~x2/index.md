@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — Casely of Mannerston (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=587))
 - 1990 — Casely of Mannerston (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7166/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [587](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=587)
+- Scottish Tartans Authority (ITI): 7166
+
 ## Thread count
 DB/100 G8 K44 G46 R2 G2 R/4
 ![Sett](sett.png)

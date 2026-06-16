@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Leitrim, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2092))
 - 1997 — Leitrim, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2271/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2092](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2092)
+- Scottish Tartans Authority (ITI): 2271
+- Scottish Tartans World Register: 2271
+
 ## Thread count
 LP/6 T36 LP8 K6 LP8 DO26 LP6 N36 T4 O/6
 ![Sett](sett.png)

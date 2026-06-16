@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Jan 2008 — British American School (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7465/))
 - undated — British American School of Charlotte (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5510))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5510](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5510)
+- Scottish Tartans Authority (ITI): 7465
+
 ## Thread count
 DB/4 B4 R2 B32 LN2 DB40 R/4
 ![Sett](sett.png)

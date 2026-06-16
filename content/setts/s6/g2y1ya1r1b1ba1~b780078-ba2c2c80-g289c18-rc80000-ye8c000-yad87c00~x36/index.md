@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1999 — Rainbow (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2647/))
 - 01/09/2000 — Rainbow (Gay Community) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3445))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3445](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3445)
+- Scottish Tartans Authority (ITI): 2647
+- Scottish Tartans World Register: 2647
+
 ## Thread count
 DB/36 P36 R36 O36 Y36 G/72
 ![Sett](sett.png)

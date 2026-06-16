@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Poulter Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5548))
 - undated — Poulter Pink Corporate Tartan Tartan Number: 7510. Earliest known date: 2008 One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7510))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5548](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5548)
+- Scottish Tartans Authority (ITI): 7510
+
 ## Thread count
 LN/50 DP8 LN8 DP8 LN8 DP46 N46 LNa8 N46 DP46 LN46 DP8 LN/8
 ![Sett](sett.png)

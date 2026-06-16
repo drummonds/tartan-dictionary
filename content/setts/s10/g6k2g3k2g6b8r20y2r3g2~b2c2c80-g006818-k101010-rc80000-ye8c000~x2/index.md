@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2007 — Connolly Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7356/))
 - undated — Connolly Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4928))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4928](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4928)
+- Scottish Tartans Authority (ITI): 7356
+- Scottish Tartans World Register: 3050
+
 ## Thread count
 G/12 K4 G6 K4 G12 DB16 R40 Y4 R6 G/4
 ![Sett](sett.png)

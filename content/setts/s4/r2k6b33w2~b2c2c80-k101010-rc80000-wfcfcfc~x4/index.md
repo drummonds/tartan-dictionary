@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/01/2004 — McCallie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2871))
 - pre 2004 — McCallie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6212/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2871](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2871)
+- Scottish Tartans Authority (ITI): 6212
+- Scottish Tartans World Register: 2994
+
 ## Thread count
 R/8 K24 DB132 W/8
 ![Sett](sett.png)

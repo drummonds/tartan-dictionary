@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacTaggart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2766))
 - pre 2002 — MacTaggart (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/409/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2766](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2766)
+- Scottish Tartans Authority (ITI): 409
+- Scottish Tartans World Register: 409
+
 ## Thread count
 DB/8 R2 DB36 K40 G4 DB8 G/60
 ![Sett](sett.png)

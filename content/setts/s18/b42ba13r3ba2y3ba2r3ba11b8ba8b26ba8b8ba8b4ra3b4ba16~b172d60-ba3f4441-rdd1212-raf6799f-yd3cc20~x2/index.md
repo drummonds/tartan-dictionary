@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/10/2012 — Cordiner (Boddam) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721))
 - undated — Cordiner (Boddam) Name Tartan Tartan Number: 10721. Earliest known date: 22 October 2012 The designer has created a modern tartan reflecting the history and ancestry of Cordiners from Boddam, Aberdeenshire. The designer is happy for all those with the surname Cordiner to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10721))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10721](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721)
+
 ## Thread count
 DB/84 N26 R6 N4 Y6 N4 R6 N22 DB16 N16 DB52 N16 DB16 N16 DB8 LR6 DB8 N/32
 ![Sett](sett.png)

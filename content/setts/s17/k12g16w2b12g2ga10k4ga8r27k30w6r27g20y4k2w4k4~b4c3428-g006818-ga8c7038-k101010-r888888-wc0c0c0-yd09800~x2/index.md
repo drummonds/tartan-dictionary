@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Le Cercle des Femmes (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3136/))
 - undated — Les Cercles de Femme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5233))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5233](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5233)
+- Scottish Tartans Authority (ITI): 3136
+
 ## Thread count
 K/24 G32 N4 T24 G4 LT20 K8 LT16 Na54 K60 N12 Na54 G40 DY8 K4 N8 K/8
 ![Sett](sett.png)

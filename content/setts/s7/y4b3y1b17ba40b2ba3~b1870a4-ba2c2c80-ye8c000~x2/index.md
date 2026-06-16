@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2000 — Danzas (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=888))
 - Feb. 2000 — Danzas (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2666/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [888](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=888)
+- Scottish Tartans Authority (ITI): 2666
+- Scottish Tartans World Register: 2666
+
 ## Thread count
 DB/6 B4 DB80 B34 Y2 B6 Y/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — Cavalier, Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=600))
 - pre 1981 — Cavalier, Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5851/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [600](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=600)
+- Scottish Tartans Authority (ITI): 5851
+
 ## Thread count
 LN/4 LT8 K4 LT12 DR16 K6 LN4 K4 LG4 K20 LT/80
 ![Sett](sett.png)

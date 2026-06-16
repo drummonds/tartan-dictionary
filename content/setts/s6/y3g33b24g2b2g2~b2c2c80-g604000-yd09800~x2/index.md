@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1988 — Keepers of the Quaich (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1934))
 - June 1988 — Keepers of the Quaich (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1731/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1934](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1934)
+- Scottish Tartans Authority (ITI): 1731
+- Scottish Tartans World Register: 1731
+
 ## Thread count
 DY/6 T66 DBa48 T4 DBa4 T/4
 ![Sett](sett.png)

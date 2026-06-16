@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2005 — Phinn (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7104/))
 - undated — Phinn Personal Tartan Tartan Number: 7104. Earliest known date: 2005 Anthony Thomson designed this tartan to make a silk stole in 2005. He returned in 2007 to have a kilt made up in heavyweight wool. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7104))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3333](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3333)
+- Scottish Tartans Authority (ITI): 7104
+
 ## Thread count
 DG/110 G30 DR40 Y20 LN/20
 ![Sett](sett.png)

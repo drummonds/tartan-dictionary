@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacLaine of Lochbuie Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2592))
 - pre 2002 — MacLaine of Lochbuie Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/491/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2592](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2592)
+- Scottish Tartans Authority (ITI): 491
+- Scottish Tartans World Register: 491
+
 ## Thread count
 DN/64 DR6 DN8 K4 DY/6
 ![Sett](sett.png)

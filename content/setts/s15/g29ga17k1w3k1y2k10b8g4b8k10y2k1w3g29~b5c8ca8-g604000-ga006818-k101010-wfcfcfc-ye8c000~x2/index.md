@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Massie/Massey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2852))
 - 1819? — Massie/Massey (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6631/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2852](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2852)
+- Scottish Tartans Authority (ITI): 6631
+
 ## Thread count
 T/58 G34 K2 W6 K2 Y4 K20 B16 T8 B16 K20 Y4 K2 W6 T/58
 ![Sett](sett.png)

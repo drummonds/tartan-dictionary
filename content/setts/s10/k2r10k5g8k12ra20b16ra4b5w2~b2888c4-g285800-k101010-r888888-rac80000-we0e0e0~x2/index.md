@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Manderson #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802))
 - Unknown — Manderson #2 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5713/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2802](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802)
+- Scottish Tartans Authority (ITI): 5713
+
 ## Thread count
 K/4 N20 K10 G16 K24 R40 B32 R8 B10 LN/4
 ![Sett](sett.png)

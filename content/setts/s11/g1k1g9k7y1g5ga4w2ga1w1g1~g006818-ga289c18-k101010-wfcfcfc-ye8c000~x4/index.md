@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2003 — Parkhead (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3294))
 - pre 2004 — Parkhead (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6220/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3294](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3294)
+- Scottish Tartans Authority (ITI): 6220
+- Scottish Tartans World Register: 2958
+
 ## Thread count
 Ga/4 K4 Ga36 K28 Y4 Ga20 G16 W8 G4 W4 Ga/4
 ![Sett](sett.png)

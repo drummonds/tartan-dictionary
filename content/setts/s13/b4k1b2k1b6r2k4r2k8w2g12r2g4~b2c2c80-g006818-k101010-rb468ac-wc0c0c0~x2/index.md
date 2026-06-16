@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacKusick (Piper) #1 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3429/))
 - undated — MacKusick (Piper) #1 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5252))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5252](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5252)
+- Scottish Tartans Authority (ITI): 3429
+
 ## Thread count
 DB/8 K2 DB4 K2 DB12 P4 K8 P4 K16 N4 G24 P4 G/8
 ![Sett](sett.png)

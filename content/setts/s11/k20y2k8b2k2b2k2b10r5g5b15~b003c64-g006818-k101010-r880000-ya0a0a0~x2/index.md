@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2005 — Lawtie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2072))
 - 2005 March — Lawtie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6683/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2072](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2072)
+- Scottish Tartans Authority (ITI): 6683
+
 ## Thread count
 DB/30 G10 DR10 DB20 K4 DB4 K4 DB4 K16 N4 K/40
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Innes Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3384/))
 - undated — Innes Red, Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5173))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5173](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5173)
+- Scottish Tartans Authority (ITI): 3384
+
 ## Thread count
 B/6 K4 N40 DR4 N6 DR4 N6 DR8 DY6 DR4 DB8 DR4 K4 G12 K6 DR4 N/6
 ![Sett](sett.png)

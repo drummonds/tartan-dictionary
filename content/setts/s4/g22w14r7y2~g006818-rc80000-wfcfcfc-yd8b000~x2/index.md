@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Loch Lomond #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2151))
 - pre 2002 — Loch Lomond #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/953/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2151](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2151)
+- Scottish Tartans Authority (ITI): 953
+- Scottish Tartans World Register: 953
+
 ## Thread count
 G/44 W28 R14 Y/4
 ![Sett](sett.png)

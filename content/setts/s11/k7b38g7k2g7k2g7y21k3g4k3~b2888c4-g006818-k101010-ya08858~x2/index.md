@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1999 — Chakraa (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3862/))
 - undated — Chakraa (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5242))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5242](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5242)
+- Scottish Tartans Authority (ITI): 3862
+
 ## Thread count
 K/14 B76 G14 K4 G14 K4 G14 LT42 K6 G8 K/6
 ![Sett](sett.png)

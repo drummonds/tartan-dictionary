@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Finnegan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1184))
 - pre 1988 — Finnegan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4859/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1184](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1184)
+- Scottish Tartans Authority (ITI): 4859
+
 ## Thread count
 DO/12 K4 G4 K8 R6 K4 R6 K8 G4 DO48 Y/4
 ![Sett](sett.png)

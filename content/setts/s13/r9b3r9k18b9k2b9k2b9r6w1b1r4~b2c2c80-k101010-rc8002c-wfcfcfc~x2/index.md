@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Metro Detroit Police & Fire P & (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2942))
 - 2003 — Metro Detroit Police & Fire (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6030/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2942](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2942)
+- Scottish Tartans Authority (ITI): 6030
+
 ## Thread count
 R/18 DB6 R18 K36 DB18 K4 DB18 K4 DB18 R12 W2 DB2 R/8
 ![Sett](sett.png)

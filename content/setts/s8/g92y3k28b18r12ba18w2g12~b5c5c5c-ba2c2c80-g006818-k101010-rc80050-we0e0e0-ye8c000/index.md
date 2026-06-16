@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Mull Millennium (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3044))
 - January 1998 — Mull Millennium (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2573/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3044](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3044)
+- Scottish Tartans Authority (ITI): 2573
+- Scottish Tartans World Register: 2573
+
 ## Thread count
 G/12 LN2 DB18 R12 N18 K28 Y3 G/92
 ![Sett](sett.png)

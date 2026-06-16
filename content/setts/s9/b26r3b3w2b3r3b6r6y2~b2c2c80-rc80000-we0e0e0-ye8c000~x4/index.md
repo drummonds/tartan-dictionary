@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Newton Primary School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131))
 - 1998 — Newton Primary (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2417/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3131](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131)
+- Scottish Tartans Authority (ITI): 2417
+- Scottish Tartans World Register: 2417
+
 ## Thread count
 DB/104 R12 DB12 LN8 DB12 R12 DB24 R24 Y/8
 ![Sett](sett.png)

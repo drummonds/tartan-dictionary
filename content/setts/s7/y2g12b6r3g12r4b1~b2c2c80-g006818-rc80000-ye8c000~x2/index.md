@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1951 — MacKintosh Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2574))
 - pre 1951 — MacKintosh Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/544/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2574](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2574)
+- Scottish Tartans Authority (ITI): 544
+- Scottish Tartans World Register: 544
+
 ## Thread count
 DB/2 R8 G24 R6 DB12 G24 Y/4
 ![Sett](sett.png)

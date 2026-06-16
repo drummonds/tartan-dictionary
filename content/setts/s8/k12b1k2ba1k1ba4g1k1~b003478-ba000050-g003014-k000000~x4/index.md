@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Scottish Funereal Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3718))
 - 1996 — Scottish Funereal Association (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5357/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3718](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3718)
+- Scottish Tartans Authority (ITI): 5357
+
 ## Thread count
 K/48 DB4 K8 DBa4 K4 DBa16 DG4 K/4
 ![Sett](sett.png)

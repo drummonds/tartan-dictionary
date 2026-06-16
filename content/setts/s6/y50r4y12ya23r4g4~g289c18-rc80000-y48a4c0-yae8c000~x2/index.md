@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2006 — Ingenico (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1824))
 - 2006 September — Ingenico (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7004/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1824](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1824)
+- Scottish Tartans Authority (ITI): 7004
+
 ## Thread count
 B/100 R8 B24 Y46 R8 Ga/8
 ![Sett](sett.png)

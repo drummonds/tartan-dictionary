@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1997 — Cornell (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3859/))
 - undated — Cornell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4959))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4959](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4959)
+- Scottish Tartans Authority (ITI): 3859
+
 ## Thread count
 DB/80 Y4 DB10 R4 G40 R4 G10 Y4 G10 W/100
 ![Sett](sett.png)

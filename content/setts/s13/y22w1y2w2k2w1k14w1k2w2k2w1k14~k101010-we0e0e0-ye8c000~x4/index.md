@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1940 — Thain Dress #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4099))
 - pre 1940 — Thain (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1256/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4099](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4099)
+- Scottish Tartans Authority (ITI): 1256
+- Scottish Tartans World Register: 1256
+
 ## Thread count
 K/56 LN4 K8 LN8 K8 LN4 K56 LN4 K8 LN8 Y8 LN4 Y/88
 ![Sett](sett.png)

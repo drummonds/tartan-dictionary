@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Marion (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2835))
 - pre 2007 — Marion (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7374/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2835](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2835)
+- Scottish Tartans Authority (ITI): 7374
+- Scottish Tartans World Register: 2966
+
 ## Thread count
 P/10 G16 K10 DB64 LN4 R/4
 ![Sett](sett.png)

@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - January 1997 — MacRobart (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2388/))
 - undated — MacRobart Family Tartan Tartan Number: 2388. Earliest known date: January 1997 Designed by Michael Owen Holden for family use only See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2388))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2760](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2760)
+- Scottish Tartans Authority (ITI): 2388
+- Scottish Tartans World Register: 2388
+
 ## Thread count
 DB/60 K20 G20 LP4 G30 LP/4
 ![Sett](sett.png)

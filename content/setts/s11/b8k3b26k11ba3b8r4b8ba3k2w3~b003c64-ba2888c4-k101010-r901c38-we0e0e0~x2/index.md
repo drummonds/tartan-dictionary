@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec. 2008 — Dublin Lie-ins (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7724/))
 - undated — Dublin Lie-ins (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5710))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5710](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5710)
+- Scottish Tartans Authority (ITI): 7724
+
 ## Thread count
 DB/16 K6 DB52 K22 B6 DB16 DR8 DB16 B6 K4 LN/6
 ![Sett](sett.png)

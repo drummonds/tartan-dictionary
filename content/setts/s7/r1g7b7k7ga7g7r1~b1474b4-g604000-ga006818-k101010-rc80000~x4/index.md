@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - circa 1930 — Tennant (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1653/))
 - 01/01/1950 — Tennant #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4089))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4089](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4089)
+- Scottish Tartans Authority (ITI): 1653
+- Scottish Tartans World Register: 1653
+
 ## Thread count
 R/4 T28 B28 K28 G28 T28 R/4
 ![Sett](sett.png)

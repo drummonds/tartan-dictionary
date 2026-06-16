@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — Little of Morton Rigg Red (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2128))
 - June 2007 — Little of Morton Rigg Red (Personal (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7238/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2128)
+- Scottish Tartans Authority (ITI): 7238
+
 ## Thread count
 K/6 B2 K64 DB12 K8 DB32 K6 R/4
 ![Sett](sett.png)

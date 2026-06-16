@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Baird (Modern) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=168))
 - 1880 — Baird (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/104/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [168](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=168)
+- Scottish Tartans Authority (ITI): 104
+- Scottish Tartans World Register: 104
+
 ## Thread count
 DB/12 K8 DB32 K32 G32 P4 G4 P/12
 ![Sett](sett.png)

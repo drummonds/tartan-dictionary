@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/1997 — Elgin-Landshut (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1098))
 - Apr 1997 — Elgin-Landshut (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2364/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1098](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1098)
+- Scottish Tartans Authority (ITI): 2364
+- Scottish Tartans World Register: 2364
+
 ## Thread count
 R/8 DB48 G8 K8 G8 K8 G48 K8 B8 K8 DB24 K24 G24 W/8
 ![Sett](sett.png)

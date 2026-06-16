@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 09/10/2012 — Mason, David Elsworth (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720))
 - undated — Mason, David Elsworth (Personal) Name Tartan Tartan Number: 10720. Earliest known date: 22 October 2012 Designed for Mr Elsworth’s family and his descendants to wear on special occasions and to celebrate an association with Glencoe Wood and the Keil Estate, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10720))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10720](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720)
+
 ## Thread count
 K/14 LR4 DG4 R62 DR70 O/4
 ![Sett](sett.png)

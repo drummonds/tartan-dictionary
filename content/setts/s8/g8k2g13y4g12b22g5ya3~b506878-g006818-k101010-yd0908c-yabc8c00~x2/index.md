@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1955 — Taylor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4080))
 - 1955 — Taylor (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/809/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4080](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4080)
+- Scottish Tartans Authority (ITI): 809
+- Scottish Tartans World Register: 809
+
 ## Thread count
 DY/6 G10 N44 G24 LR8 G26 K4 G/16
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Offally County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7456/))
 - 01/05/2005 — Offaly County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5058))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5058](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5058)
+- Scottish Tartans Authority (ITI): 7456
+- Scottish Tartans World Register: 3097
+
 ## Thread count
 DY/10 G12 K9 G4 LN14 K8 G76 K6 LR4 K8 Y/24
 ![Sett](sett.png)

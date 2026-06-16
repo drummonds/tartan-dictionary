@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2003 — Royal Army of Oman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3588))
 - July 2003 — Royal Army of Oman (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5885/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3588](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3588)
+- Scottish Tartans Authority (ITI): 5885
+
 ## Thread count
 DG/12 LN6 DG30 R6 DG30 Y6 K20 DG42 R6 K6 R6 DG/6
 ![Sett](sett.png)

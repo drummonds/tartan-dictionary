@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — National Trust for Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3102))
 - 1999 — National Trust for Scotland (Corpora (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5629/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3102](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3102)
+- Scottish Tartans Authority (ITI): 5629
+
 ## Thread count
 DBa/24 DB4 DG4 DB4 DG4 DB4 DBa24 G8 DB28 P4 DB28 G8 DG26 DB4 DBa4 DB4 DG/26
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Fraser Gathering, Red (1997) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1256))
 - 1997 — Fraser Gathering, Red (Commem) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2361/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1256](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1256)
+- Scottish Tartans Authority (ITI): 2361
+- Scottish Tartans World Register: 2361
+
 ## Thread count
 R/4 DB24 R4 G22 R8 DB10 G4 R48 W/4
 ![Sett](sett.png)

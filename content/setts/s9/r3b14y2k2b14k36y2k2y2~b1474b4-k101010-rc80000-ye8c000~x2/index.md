@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2002 — Ewbank (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1141))
 - pre 2002 — Ewbank (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5798/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1141](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1141)
+- Scottish Tartans Authority (ITI): 5798
+- Scottish Tartans World Register: 2898
+
 ## Thread count
 R/6 B28 Y4 K4 B28 K72 Y4 K4 Y/4
 ![Sett](sett.png)

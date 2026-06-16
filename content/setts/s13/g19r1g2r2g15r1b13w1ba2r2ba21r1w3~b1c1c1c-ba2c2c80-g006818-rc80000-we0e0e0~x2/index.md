@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Ontario (Official) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3253))
 - 1995 — Ontario (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6627/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3253](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3253)
+- Scottish Tartans Authority (ITI): 6627
+
 ## Thread count
 G/38 R2 G4 R4 G30 R2 Ka26 LN2 DB4 R4 DB42 R2 LN/6
 ![Sett](sett.png)

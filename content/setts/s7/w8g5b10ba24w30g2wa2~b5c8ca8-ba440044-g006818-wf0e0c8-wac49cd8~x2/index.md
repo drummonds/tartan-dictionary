@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Shiel, Purple (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7583/))
 - undated — Shiel Purple (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5607))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5607](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5607)
+- Scottish Tartans Authority (ITI): 7583
+
 ## Thread count
 LP/4 G4 W60 DP48 B20 G10 W/16
 ![Sett](sett.png)

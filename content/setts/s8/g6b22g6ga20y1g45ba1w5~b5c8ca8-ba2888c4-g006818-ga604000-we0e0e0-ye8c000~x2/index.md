@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2004 — Elbrick Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5052))
 - pre 2004 — Elbrick Hunting (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7362/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5052](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5052)
+- Scottish Tartans Authority (ITI): 7362
+- Scottish Tartans World Register: 3034
+
 ## Thread count
 G/12 Ba44 G12 T40 Y2 G90 B2 LN/10
 ![Sett](sett.png)

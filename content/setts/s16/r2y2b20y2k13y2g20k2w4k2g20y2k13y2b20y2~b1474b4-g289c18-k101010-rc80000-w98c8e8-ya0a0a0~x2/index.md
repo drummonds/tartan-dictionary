@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Stirling (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3963))
 - undated — Stirling Clan Tartan Tartan Number: 6759. Earliest known date: c1998 One of three tartans designed by Tony Murray of Stirling for the Stirling Clan Society in 1998/1999. Internet poll conducted by Michael Jex and the winning one shown here was chosen by a large majority. Woven by Lochcarron. Clan Stirling society thought to be based in the USA - possibly California. www.clanstirling.org See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6759))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3963](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3963)
+- Scottish Tartans Authority (ITI): 6759
+
 ## Thread count
 N/4 B40 N4 K26 N4 G40 K4 LB8 K4 G40 N4 K26 N4 B40 N4 R/4
 ![Sett](sett.png)

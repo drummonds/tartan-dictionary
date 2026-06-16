@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Kilbranan Sound (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7669/))
 - undated — Kilbranan Sound (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5672))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5672](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5672)
+- Scottish Tartans Authority (ITI): 7669
+
 ## Thread count
 DB/16 DR22 DB56 DR8 K34 LP2 K14 DR/4
 ![Sett](sett.png)

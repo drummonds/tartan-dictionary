@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2007 — Granite City (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7459/))
 - undated — Silver Granite (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5505))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5505](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5505)
+- Scottish Tartans Authority (ITI): 7459
+
 ## Thread count
 K/6 N6 K6 N42 Nb42 K6 Nb6 Na/2
 ![Sett](sett.png)

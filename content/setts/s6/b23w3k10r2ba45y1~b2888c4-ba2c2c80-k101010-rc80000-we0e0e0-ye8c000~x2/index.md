@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 27/10/2008 — Kirkcaldy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10072))
 - pre 2009 — Kirkcaldy (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10072/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10072](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10072)
+
 ## Thread count
 B/46 LN6 K20 R4 DB90 Y/2
 ![Sett](sett.png)

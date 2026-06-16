@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2002 — Lenaghan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2093))
 - April 2002 — Lenaghan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5835/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2093](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2093)
+- Scottish Tartans Authority (ITI): 5835
+
 ## Thread count
 DB/20 K2 Y4 K2 G10 DG10 DBa/20
 ![Sett](sett.png)

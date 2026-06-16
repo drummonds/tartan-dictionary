@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1980 — MacDonald of Denovan Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3278/))
 - undated — MacDonald of Denovan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5219))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5219](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5219)
+- Scottish Tartans Authority (ITI): 3278
+
 ## Thread count
 G/20 DR4 G6 DR8 G26 DR4 K26 Ga26 DR8 Ga6 P4 Ga/20
 ![Sett](sett.png)

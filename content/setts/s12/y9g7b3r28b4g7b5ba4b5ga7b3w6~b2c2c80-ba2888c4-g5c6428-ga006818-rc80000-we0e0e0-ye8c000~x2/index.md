@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Mayo County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7455/))
 - 01/05/2005 — Mayo County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4930))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4930](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4930)
+- Scottish Tartans Authority (ITI): 7455
+- Scottish Tartans World Register: 3094
+
 ## Thread count
 LN/12 DB6 G14 DB10 B8 DB10 Ga14 DB8 R56 DB6 Ga14 Y/18
 ![Sett](sett.png)

@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Pride of Scotland Dark (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5558))
 - undated — Pride of Scotland Hunting/Dark Fashion Tartan Tartan Number: 7520. Earliest known date: 2008 One of a series of tartans from McCalls of Aberdeen based on the Pride of Scotland (2469). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7520))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5558](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5558)
+- Scottish Tartans Authority (ITI): 7520
+
 ## Thread count
 DN/16 K4 LT4 DN4 K26 DN4 K4 LG2 DN28 K52 LG/4
 ![Sett](sett.png)

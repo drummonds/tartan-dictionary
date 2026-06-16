@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Mantle (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2811))
 - pre 2006 — Mantle (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6945/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2811](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2811)
+- Scottish Tartans Authority (ITI): 6945
+
 ## Thread count
 DR/6 G4 DR6 G36 K28 LN4 DB32 G/6
 ![Sett](sett.png)

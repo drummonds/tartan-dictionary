@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — Gilhooley (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6700/))
 - undated — Gilhooley (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4893))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4893](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4893)
+- Scottish Tartans Authority (ITI): 6700
+- Scottish Tartans World Register: 3041
+
 ## Thread count
 W/8 K6 B8 K54 Ga14 G44 K18 Y4 K2 Ga2 Y/14
 ![Sett](sett.png)

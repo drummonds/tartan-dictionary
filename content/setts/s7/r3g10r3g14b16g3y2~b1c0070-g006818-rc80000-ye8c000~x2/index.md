@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1940 — Cameron of Lochiel (Hunting) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=501))
 - 1956 — Cameron of Locheil Htg (1952) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1535/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [501](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=501)
+- Scottish Tartans Authority (ITI): 1535
+- Scottish Tartans World Register: 1535
+
 ## Thread count
 R/6 G20 R6 G28 DB32 G6 Y/4
 ![Sett](sett.png)

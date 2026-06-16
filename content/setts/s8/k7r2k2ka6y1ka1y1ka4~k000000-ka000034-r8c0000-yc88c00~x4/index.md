@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Printing Industries of America (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413))
 - 1999 — Printing Industries of America (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5446/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3413](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413)
+- Scottish Tartans Authority (ITI): 5446
+
 ## Thread count
 DB/16 DY4 DB4 DY4 DB24 K8 DR8 K/28
 ![Sett](sett.png)

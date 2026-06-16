@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Roscommon, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3546))
 - 1997 — Roscommon, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2246/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3546](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3546)
+- Scottish Tartans Authority (ITI): 2246
+- Scottish Tartans World Register: 2246
+
 ## Thread count
 DB/6 DG24 DB10 DG24 DR12 Y10 DR12 R38 Y6 R/10
 ![Sett](sett.png)

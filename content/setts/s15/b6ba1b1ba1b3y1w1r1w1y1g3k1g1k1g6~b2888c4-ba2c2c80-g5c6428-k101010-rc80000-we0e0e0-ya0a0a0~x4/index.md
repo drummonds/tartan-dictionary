@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2007 — McCulloch (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7380/))
 - undated — McCulloch (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5479))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5479](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5479)
+- Scottish Tartans Authority (ITI): 7380
+
 ## Thread count
 B/24 DB4 B4 DB4 B12 N4 LN4 R4 LN4 N4 G12 K4 G4 K4 G/24
 ![Sett](sett.png)

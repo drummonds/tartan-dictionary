@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — St Andrews Bay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3876))
 - pre 2003 — St. Andrews Bay Hotel (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5904/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3876](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3876)
+- Scottish Tartans Authority (ITI): 5904
+- Scottish Tartans World Register: 2867
+
 ## Thread count
 K/12 O6 K40 G40 LT40 LN8 LT/60
 ![Sett](sett.png)

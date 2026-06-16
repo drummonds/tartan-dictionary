@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Pride of Yorkland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3813/))
 - undated — Pride of Yorkland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5084))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5084](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5084)
+- Scottish Tartans Authority (ITI): 3813
+
 ## Thread count
 G/70 K6 DB52 K8 DBa8 W/6
 ![Sett](sett.png)

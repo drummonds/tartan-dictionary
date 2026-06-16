@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2000 — New Zealand (2000) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3124))
 - Mar. 2000 March — New Zealand (2000) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4215/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3124](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3124)
+- Scottish Tartans Authority (ITI): 4215
+
 ## Thread count
 G/8 K52 N36 K20 N8 K/84
 ![Sett](sett.png)

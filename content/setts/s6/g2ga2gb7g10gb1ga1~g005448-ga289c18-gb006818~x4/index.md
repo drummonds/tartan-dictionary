@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Emerald, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1109))
 - pre 1972 — Emerald (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4813/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1109](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1109)
+- Scottish Tartans Authority (ITI): 4813
+
 ## Thread count
 G/8 Gb8 Ga28 G40 Ga4 Gb/4
 ![Sett](sett.png)

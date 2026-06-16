@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Me to You (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2905))
 - 2005 Jan — Me to You (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6506/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2905](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2905)
+- Scottish Tartans Authority (ITI): 6506
+
 ## Thread count
 DB/64 W6 DB6 Y6 K6 G6 K6 R20 DB12 K6 DB6 G/6
 ![Sett](sett.png)

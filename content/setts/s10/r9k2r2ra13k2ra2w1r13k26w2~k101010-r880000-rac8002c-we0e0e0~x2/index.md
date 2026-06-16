@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Pride of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5553))
 - undated — Pride of Wales Fashion Tartan Tartan Number: 7515. Earliest known date: 2008 Count and sample from Lochcarron Feb. 2008. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7515))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5553](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5553)
+- Scottish Tartans Authority (ITI): 7515
+
 ## Thread count
 DR/18 K4 DR4 R26 K4 R4 LN2 DR26 K52 LN/4
 ![Sett](sett.png)

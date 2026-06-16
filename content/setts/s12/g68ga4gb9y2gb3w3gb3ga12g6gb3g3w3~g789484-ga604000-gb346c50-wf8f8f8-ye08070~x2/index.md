@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Kelly Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1937))
 - pre 2004 — Kelly Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6394/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1937](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1937)
+- Scottish Tartans Authority (ITI): 6394
+
 ## Thread count
 LG/136 T8 Ga18 LR4 Ga6 W6 Ga6 T24 LG12 Ga6 LG6 W/6
 ![Sett](sett.png)

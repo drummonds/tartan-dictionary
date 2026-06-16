@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 17/10/2000 — Plummer (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3348))
 - 2001 — Plummer (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5947/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3348](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3348)
+- Scottish Tartans Authority (ITI): 5947
+- Scottish Tartans World Register: 2778
+
 ## Thread count
 DB/32 R14 DB10 G96 K30 R/200
 ![Sett](sett.png)

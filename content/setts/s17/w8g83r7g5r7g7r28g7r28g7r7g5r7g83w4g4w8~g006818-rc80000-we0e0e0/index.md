@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1906 — Rothesay Hunting (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1805/))
 - 01/01/1940 — Rothesay Hunting, Duke of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3574))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3574](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3574)
+- Scottish Tartans Authority (ITI): 1805
+- Scottish Tartans World Register: 1805
+
 ## Thread count
 LN/8 G4 LN4 G83 R7 G5 R7 G7 R28 G7 R28 G7 R7 G5 R7 G83 LN/8
 ![Sett](sett.png)

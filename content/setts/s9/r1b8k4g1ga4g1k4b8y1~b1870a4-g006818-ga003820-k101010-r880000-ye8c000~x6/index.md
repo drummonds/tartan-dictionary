@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 20/11/1997 — Quinn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3432))
 - Nov. 1997 — Quinn/Mackay (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2478/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3432](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3432)
+- Scottish Tartans Authority (ITI): 2478
+- Scottish Tartans World Register: 2478
+
 ## Thread count
 DR/6 B48 K24 G6 DG24 G6 K24 B48 Y/6
 ![Sett](sett.png)

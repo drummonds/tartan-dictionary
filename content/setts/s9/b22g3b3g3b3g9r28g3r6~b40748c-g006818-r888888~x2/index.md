@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — Manx Centenary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2812))
 - 1981 — Manx Centenary (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/129/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2812](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2812)
+- Scottish Tartans Authority (ITI): 129
+- Scottish Tartans World Register: 129
+
 ## Thread count
 B/44 G6 B6 G6 B6 G18 N56 G6 N/12
 ![Sett](sett.png)

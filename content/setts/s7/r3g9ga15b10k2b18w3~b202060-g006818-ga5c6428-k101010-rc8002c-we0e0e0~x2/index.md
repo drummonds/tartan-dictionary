@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 30/11/2001 — Coulthard (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=777))
 - pre 2002 — Coulthard (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3999/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [777](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=777)
+- Scottish Tartans Authority (ITI): 3999
+- Scottish Tartans World Register: 2876
+
 ## Thread count
 LN/6 DB36 K4 DB20 Ga30 G18 R/6
 ![Sett](sett.png)

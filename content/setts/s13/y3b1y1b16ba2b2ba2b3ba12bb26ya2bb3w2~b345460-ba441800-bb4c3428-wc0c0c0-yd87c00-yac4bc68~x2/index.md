@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Buglass (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=435))
 - 1998 — Buglass (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2569/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [435](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=435)
+- Scottish Tartans Authority (ITI): 2569
+- Scottish Tartans World Register: 2569
+
 ## Thread count
 N/4 T6 LG4 T52 DR24 Na6 DR4 Na4 DR4 Na32 O2 Na2 O/6
 ![Sett](sett.png)

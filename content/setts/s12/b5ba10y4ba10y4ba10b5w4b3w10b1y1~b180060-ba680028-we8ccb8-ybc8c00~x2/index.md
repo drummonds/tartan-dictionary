@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1996 — Glover, Thomas Blake (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1441))
 - 1996 — Glover, Thomas Blake (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2416/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1441](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1441)
+- Scottish Tartans Authority (ITI): 2416
+- Scottish Tartans World Register: 2416
+
 ## Thread count
 DB/10 DR20 DY8 DR20 DY8 DR20 DB10 LR8 DB6 LR20 DB2 DY/2
 ![Sett](sett.png)

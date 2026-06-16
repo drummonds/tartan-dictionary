@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Spens (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3858))
 - pre 2004 — Spens (Lochcarron) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6386/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3858](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3858)
+- Scottish Tartans Authority (ITI): 6386
+
 ## Thread count
 R/80 W2 DB14 W2 G24 R16 DB12 B4 W/2
 ![Sett](sett.png)

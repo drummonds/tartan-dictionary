@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec 2007 — MacLellan of Gartbreck (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7426/))
 - undated — MacLellan of Gartbreck (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5498))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5498](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5498)
+- Scottish Tartans Authority (ITI): 7426
+
 ## Thread count
 LN/6 N50 K4 Na6 K6 N8 K10 Na40 DR8 Na8 DR6 Na/6
 ![Sett](sett.png)

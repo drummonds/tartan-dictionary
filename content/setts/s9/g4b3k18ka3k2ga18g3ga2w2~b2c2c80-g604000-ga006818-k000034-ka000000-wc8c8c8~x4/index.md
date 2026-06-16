@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Tombow 21st School Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4136))
 - 2000 — Tombow 21st School Memorial (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4216/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4136](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4136)
+- Scottish Tartans Authority (ITI): 4216
+
 ## Thread count
 N/8 G8 T12 G72 DB8 K12 DB72 DBa12 T/16
 ![Sett](sett.png)

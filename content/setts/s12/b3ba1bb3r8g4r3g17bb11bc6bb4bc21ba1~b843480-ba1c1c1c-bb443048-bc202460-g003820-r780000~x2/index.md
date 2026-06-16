@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2006 — Doane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=940))
 - 2006 September — Doane (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7011/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [940](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=940)
+- Scottish Tartans Authority (ITI): 7011
+
 ## Thread count
 K/2 DB42 N8 DB12 N22 DG34 DR6 DG8 DR16 N6 K2 P/6
 ![Sett](sett.png)

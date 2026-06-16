@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Lougheed (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2228))
 - pre 2003 — Lougheed (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5932/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2228](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2228)
+- Scottish Tartans Authority (ITI): 5932
+
 ## Thread count
 K/8 DR8 K4 DR72 LR8 K16 DR12 LR/12
 ![Sett](sett.png)

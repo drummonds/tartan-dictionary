@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2002 — Balnagowan (Harrods) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=187))
 - May 2003 — Balnagown (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5824/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [187](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=187)
+- Scottish Tartans Authority (ITI): 5824
+- Scottish Tartans World Register: 2925
+
 ## Thread count
 T/4 DO14 T6 R4 T6 K10 T8 K10 T40 R2 Y4 R2 T6 Y/6
 ![Sett](sett.png)

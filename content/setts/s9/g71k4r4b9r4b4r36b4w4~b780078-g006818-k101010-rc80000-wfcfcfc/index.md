@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1969 — Rattray (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3467))
 - pre 1969 — Rattray (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/819/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3467](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3467)
+- Scottish Tartans Authority (ITI): 819
+- Scottish Tartans World Register: 819
+
 ## Thread count
 G/71 K4 R4 P9 R4 P4 R36 P4 W/4
 ![Sett](sett.png)

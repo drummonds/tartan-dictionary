@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Houston #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1774))
 - 1994 — Houston (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6043/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1774](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1774)
+- Scottish Tartans Authority (ITI): 6043
+
 ## Thread count
 DYa/64 DR4 DYa24 Ta4 DYa2 G4 DYa2 Ta4 DYa2 G4 DYa2 Ta/4
 ![Sett](sett.png)

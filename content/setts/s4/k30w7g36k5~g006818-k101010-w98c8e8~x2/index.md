@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 19/04/1969 — Innes Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831))
 - pre 1969 — Innes Htg (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/368/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1831](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831)
+- Scottish Tartans Authority (ITI): 368
+- Scottish Tartans World Register: 368
+
 ## Thread count
 K/10 G72 LB14 K/60
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2005 — Meanwood McMain (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2906))
 - 2005 December — Meanwood McMain (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6813/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2906](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2906)
+- Scottish Tartans Authority (ITI): 6813
+
 ## Thread count
 DP/60 DB20 P10 DB20 DP60 DB6 Pa10 DB6 DP/60
 ![Sett](sett.png)

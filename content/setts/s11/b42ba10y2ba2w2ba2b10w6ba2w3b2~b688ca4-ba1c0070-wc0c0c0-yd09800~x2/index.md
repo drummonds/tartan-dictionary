@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Goil Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1443))
 - pre 1984 — Goil Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5050/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1443](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1443)
+- Scottish Tartans Authority (ITI): 5050
+
 ## Thread count
 B/84 DB20 DY4 DB4 N4 DB4 B20 N12 DB4 N6 B/4
 ![Sett](sett.png)

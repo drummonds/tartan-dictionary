@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Clergy "Two Spirit" (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7640/))
 - undated — Clergy "Two Spirit" (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5654))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5654](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5654)
+- Scottish Tartans Authority (ITI): 7640
+
 ## Thread count
 B/2 DB6 B2 DB4 B2 K12 LP2 K12 DB12 B2 K/2
 ![Sett](sett.png)

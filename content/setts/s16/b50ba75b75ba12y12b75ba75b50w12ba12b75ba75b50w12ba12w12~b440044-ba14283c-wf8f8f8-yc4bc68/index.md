@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/2005 — Henbury (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1682))
 - 2005 October — Henbury (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6792/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1682](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1682)
+- Scottish Tartans Authority (ITI): 6792
+
 ## Thread count
 DP/50 DN75 DP75 DN12 LG12 DP75 DN75 DP50 W12 DN12 DP75 DN75 DP50 W12 DN12 W/12
 ![Sett](sett.png)

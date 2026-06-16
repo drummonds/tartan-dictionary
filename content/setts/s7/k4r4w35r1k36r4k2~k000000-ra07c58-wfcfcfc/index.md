@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1987 — Gleneagles (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1410))
 - 1987 — Gleneagles (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5030/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1410](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1410)
+- Scottish Tartans Authority (ITI): 5030
+
 ## Thread count
 K/2 LT4 K36 LT1 W35 LT4 K/4
 ![Sett](sett.png)

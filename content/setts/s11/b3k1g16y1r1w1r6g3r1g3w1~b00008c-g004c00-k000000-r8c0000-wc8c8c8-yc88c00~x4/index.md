@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1939 — Canadian Caledonian Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=542))
 - 1939 — Canadian Caledonian Htg (Universal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/335/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [542](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=542)
+- Scottish Tartans Authority (ITI): 335
+- Scottish Tartans World Register: 335
+
 ## Thread count
 DB/12 K4 G64 DY4 DR4 N4 DR24 G12 DR4 G12 N/4
 ![Sett](sett.png)

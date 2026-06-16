@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1831 — MacLachlan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2581))
 - 1831 — MacLachlan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/732/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2581](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2581)
+- Scottish Tartans Authority (ITI): 732
+- Scottish Tartans World Register: 732
+
 ## Thread count
 R/4 K4 R32 K32 DB32 G6 DB32 K32 R4 K4 R4 K4 R/32
 ![Sett](sett.png)

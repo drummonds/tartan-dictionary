@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 16/01/2012 — McGuigan, Julia (St Monans, Fife) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10605))
 - undated — McGuigan, Julia (St Monans, Fife Name Tartan Tartan Number: 10605. Earliest known date: 16/01/2012 Inspired by the MacNeil of Colonsay tartan (STR ref #2688), as the surname McGuigan is considered a sept of MacNeil of Colonsay and Gigha. Using the green, red and white stripes of the MacNeil of Colonsay tartan, the colours have been toned down to create a softer palette. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10605))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10605](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10605)
+
 ## Thread count
 Ga/18 G104 T30 O/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Susan G Komen 06 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4039))
 - 2006 — Susan G Komen (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7332/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4039](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4039)
+- Scottish Tartans Authority (ITI): 7332
+
 ## Thread count
 LT/4 LY8 LR44 LT40 DR6 N27 LY/6
 ![Sett](sett.png)

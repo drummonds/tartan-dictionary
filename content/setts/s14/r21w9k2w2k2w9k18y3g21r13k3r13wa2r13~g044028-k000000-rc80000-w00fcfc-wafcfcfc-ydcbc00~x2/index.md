@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1818 — Caledonian Cameron Commando (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=472))
 - 1818 — Caledonian Cameron Commando (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5598/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [472](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=472)
+- Scottish Tartans Authority (ITI): 5598
+
 ## Thread count
 R/42 LB18 K4 LB4 K4 LB18 K36 Y6 DG42 R26 K6 R26 W4 R/26
 ![Sett](sett.png)

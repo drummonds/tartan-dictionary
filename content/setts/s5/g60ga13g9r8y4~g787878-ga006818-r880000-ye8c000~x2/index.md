@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Ballantyne (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7563/))
 - undated — Ballantyne (Personal) STA (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5589))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5589](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5589)
+- Scottish Tartans Authority (ITI): 7563
+
 ## Thread count
 N/120 G26 N18 DR16 Y/8
 ![Sett](sett.png)

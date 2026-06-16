@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/2007 — MacRaes of America (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2758))
 - Octpber 2007 — MacRaes of America (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7304/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2758)
+- Scottish Tartans Authority (ITI): 7304
+
 ## Thread count
 LY/16 DB8 Y4 DB72 B96 DB4 B8 R/10
 ![Sett](sett.png)

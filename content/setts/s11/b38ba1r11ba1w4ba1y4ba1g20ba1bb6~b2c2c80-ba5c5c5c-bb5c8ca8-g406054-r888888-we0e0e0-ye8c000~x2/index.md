@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Manx Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2817))
 - 1980 — Manx Hunting (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/149/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2817](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2817)
+- Scottish Tartans Authority (ITI): 149
+- Scottish Tartans World Register: 149
+
 ## Thread count
 B/12 Na2 Nb40 Na2 Y8 Na2 LN8 Na2 N22 Na2 DB/76
 ![Sett](sett.png)

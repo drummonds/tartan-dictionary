@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacDonald, Sir John A (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2379))
 - pre 2002 — MacDonald, Sir John A (Comm) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1581/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2379](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2379)
+- Scottish Tartans Authority (ITI): 1581
+- Scottish Tartans World Register: 1581
+
 ## Thread count
 DR/20 K6 G4 N4 K44 DB8 K44 DR8 G8 DR28 N/6
 ![Sett](sett.png)

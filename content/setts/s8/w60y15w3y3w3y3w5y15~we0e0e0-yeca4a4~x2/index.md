@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Walk the Walk (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2013))
 - pre 2007 — Walk the Walk (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7306/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2013](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2013)
+- Scottish Tartans Authority (ITI): 7306
+
 ## Thread count
 LN/120 LR30 LN6 LR6 LN6 LR6 LN10 LR/30
 ![Sett](sett.png)

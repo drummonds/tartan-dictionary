@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1720 — Glenorchy, Lord (Portrait) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7061/))
 - 01/01/2006 — Glenorchy, Lord (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1435))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1435](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1435)
+- Scottish Tartans Authority (ITI): 7061
+
 ## Thread count
 R/100 W2 DR24 O8 DR2 O8 DR24 W2 R8 DR2 R8 W2 DR12 R2 DR12 W2 R8 DR2 R8 W2 DR24 W2 R/100
 ![Sett](sett.png)

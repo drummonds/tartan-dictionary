@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Collister (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=712))
 - pre 2005 — Collister (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6757/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [712](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=712)
+- Scottish Tartans Authority (ITI): 6757
+
 ## Thread count
 K/52 N4 K4 N4 K4 N20 W20 N12 DB20 O/10
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1831 — Montrose (Graham) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2996))
 - 01/01/1831 — Graham Dress (1831) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4857))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4857](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4857)
+- Scottish Tartans Authority (ITI): 3499
+- Scottish Tartans World Register: 350
+
 ## Thread count
 LG/8 K8 R64 DG64 K48 LG32 R64 K8 LG/8
 ![Sett](sett.png)

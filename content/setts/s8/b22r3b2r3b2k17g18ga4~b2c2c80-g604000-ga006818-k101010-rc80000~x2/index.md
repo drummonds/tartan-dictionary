@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Scotch House 2000 Antique (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3668))
 - 1999 — Scotch House 2000 Antique (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2636/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3668](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3668)
+- Scottish Tartans Authority (ITI): 2636
+- Scottish Tartans World Register: 2636
+
 ## Thread count
 DB/44 R6 DB4 R6 DB4 K34 T36 G/8
 ![Sett](sett.png)

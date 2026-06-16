@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1997 — Connemara (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3897/))
 - undated — Connemara (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4983))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4983](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4983)
+- Scottish Tartans Authority (ITI): 3897
+
 ## Thread count
 G/4 DB8 Y2 Ga2 DR64 Ga32 G6 Ga2 LG/6
 ![Sett](sett.png)

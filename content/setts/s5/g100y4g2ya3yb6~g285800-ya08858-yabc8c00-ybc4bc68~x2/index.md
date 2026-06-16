@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Lagrande (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2024))
 - pre 1972 — Lagrande (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5376/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2024](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2024)
+- Scottish Tartans Authority (ITI): 5376
+
 ## Thread count
 G/200 LT8 G4 DY6 LG/12
 ![Sett](sett.png)

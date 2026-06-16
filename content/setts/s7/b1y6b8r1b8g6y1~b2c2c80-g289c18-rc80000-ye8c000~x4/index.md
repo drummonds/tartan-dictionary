@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - August 2008 — Hill of Banchory Primary (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7659/))
 - undated — Hill of Banchory Primary School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5666))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5666)
+- Scottish Tartans Authority (ITI): 7659
+
 ## Thread count
 DB/4 Y24 DB32 R4 DB32 G24 Y/4
 ![Sett](sett.png)

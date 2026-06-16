@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2008 — Melrose (Newbigging) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5580))
 - pre 2008 — Melrose (Newbigging) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7548/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5580](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5580)
+- Scottish Tartans Authority (ITI): 7548
+
 ## Thread count
 LN/2 K4 G20 N2 G4 N2 G4 K4 N30 DR2 N4 DR2 N4 DR2 N4 DR30 K2 O/2
 ![Sett](sett.png)

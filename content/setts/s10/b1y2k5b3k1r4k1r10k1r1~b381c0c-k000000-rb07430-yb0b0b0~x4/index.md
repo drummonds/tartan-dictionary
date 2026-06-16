@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Campbell 'Camel' (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505))
 - 1988 — Campbell, 'Camel' (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4427/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [505](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505)
+- Scottish Tartans Authority (ITI): 4427
+
 ## Thread count
 Ka/4 N8 K20 Ka12 K4 LT16 K4 LT40 K4 LT/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Limerick, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2113))
 - 1996 — Limerick, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2272/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2113](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2113)
+- Scottish Tartans Authority (ITI): 2272
+- Scottish Tartans World Register: 2272
+
 ## Thread count
 DB/4 DR6 G28 DB4 T6 DB4 T10 DB4 T6 DY8 T/12
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2000 — Clanton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=663))
 - pre 2002 — Clanton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4000/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=663)
+- Scottish Tartans Authority (ITI): 4000
+- Scottish Tartans World Register: 2734
+
 ## Thread count
 P/4 K8 DR28 N16 DR8 K16 DR28 N8 P/4
 ![Sett](sett.png)

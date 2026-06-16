@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/07/2003 — Black Isle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=275))
 - pre 2004 — Black Isle (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6183/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [275](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=275)
+- Scottish Tartans Authority (ITI): 6183
+- Scottish Tartans World Register: 2956
+
 ## Thread count
 K/106 N44 K20 N20 K4 N/8
 ![Sett](sett.png)

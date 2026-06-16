@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 24/02/2013 — Leaf Peeper (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10915))
 - undated — Leaf Peeper Fashion Tartan Tartan Number: 10915. Earliest known date: 24/02/2013 Inspired by the October foliage of New Hampshire's White Mountains region, this tartan is named after the tourists who swarm the area to see the foliage and who are nicknamed "Leaf Peepers" by the locals. The colours are those of the sugar maple, oak, birch and elm trees of the Mount Washington Valley in October, as they change from yellow/gold and red to brown, while the pines remain green throughout the season. The hints of white are for the snow that frequently appears at the summits of the higher elevations at that time of year. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10915))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10915](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10915)
+
 ## Thread count
 K/4 W2 DG50 T22 DR24 W2 Y24 K2 W/4
 ![Sett](sett.png)

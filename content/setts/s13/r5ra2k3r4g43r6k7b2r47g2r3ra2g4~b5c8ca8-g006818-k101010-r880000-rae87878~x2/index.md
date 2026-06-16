@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Glen Coe (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3850/))
 - undated — Glen Coe (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4839))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4839](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4839)
+- Scottish Tartans Authority (ITI): 3850
+
 ## Thread count
 DR/10 LR4 K6 DR8 G86 DR12 K14 B4 DR94 G4 DR6 LR4 G/8
 ![Sett](sett.png)

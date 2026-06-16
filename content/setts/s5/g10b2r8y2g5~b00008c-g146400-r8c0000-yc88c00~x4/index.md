@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Cub Scouts of America (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=819))
 - pre 2000 — Cub Scouts of America (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4119/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [819](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=819)
+- Scottish Tartans Authority (ITI): 4119
+
 ## Thread count
 G/40 DB8 DR32 DY8 G/20
 ![Sett](sett.png)

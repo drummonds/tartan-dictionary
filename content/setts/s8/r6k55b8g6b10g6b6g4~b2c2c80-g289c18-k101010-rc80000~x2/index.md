@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2001 — Frederiction Police Force (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1274))
 - 2001 — Fredericton Police Force (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6194/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1274](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1274)
+- Scottish Tartans Authority (ITI): 6194
+- Scottish Tartans World Register: 2870
+
 ## Thread count
 G/8 DB12 G12 DB20 G12 DB16 K110 R/12
 ![Sett](sett.png)

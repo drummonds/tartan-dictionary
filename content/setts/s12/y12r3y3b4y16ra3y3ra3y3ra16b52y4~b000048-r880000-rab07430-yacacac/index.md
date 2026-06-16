@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Carsaig (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=579))
 - 1984 — Carsaig (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4472/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [579](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=579)
+- Scottish Tartans Authority (ITI): 4472
+
 ## Thread count
 N/4 DB52 LT16 N3 LT3 N3 LT3 N16 DB4 N3 DR3 N/12
 ![Sett](sett.png)

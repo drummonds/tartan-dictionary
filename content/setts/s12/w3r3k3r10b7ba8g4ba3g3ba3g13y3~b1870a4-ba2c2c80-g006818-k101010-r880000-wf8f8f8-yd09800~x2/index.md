@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Chattahoochee River (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=620))
 - 1994 — Chattahoochee River (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2203/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [620](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=620)
+- Scottish Tartans Authority (ITI): 2203
+- Scottish Tartans World Register: 2203
+
 ## Thread count
 DY/6 G26 DB6 G6 DB6 G8 DB16 B14 DR20 K6 DR6 W/6
 ![Sett](sett.png)

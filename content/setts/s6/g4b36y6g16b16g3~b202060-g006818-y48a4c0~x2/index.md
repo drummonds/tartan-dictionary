@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1987 — City of Kincardine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=657))
 - 1987 — City of Kincardine (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2590/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [657](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=657)
+- Scottish Tartans Authority (ITI): 2590
+- Scottish Tartans World Register: 2590
+
 ## Thread count
 G/8 DBa72 B12 G32 DBa32 G/6
 ![Sett](sett.png)

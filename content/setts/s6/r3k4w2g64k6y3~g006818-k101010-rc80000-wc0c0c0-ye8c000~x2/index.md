@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 19/08/2003 — Braemar Royal Highland Gathering (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=336))
 - August 2003 — Braemar Royal Highland Gathering (C) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6025/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [336](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=336)
+- Scottish Tartans Authority (ITI): 6025
+- Scottish Tartans World Register: 2972
+
 ## Thread count
 R/6 K8 N4 G128 K12 Y/6
 ![Sett](sett.png)

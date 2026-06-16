@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/12/2012 — Rogues (United States), The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10749))
 - undated — Rogues (United States), The Corporate Tartan Tartan Number: 10749. Earliest known date: 15/12/2012 Designed by Steven Randall Wothke as the official tartan for his traditional piping and drumming band, The Rogues, formed in Texas in 1994. Colours: black is reminiscent of formal attire; red, yellow and blue were inspired by the first kilt Mr Wothke owned. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10749))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10749](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10749)
+
 ## Thread count
 R/6 B24 K100 Y/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 29/01/2001 — California Riverside, University of (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=481))
 - pre 2005 — California Riverside, Uni. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6705/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [481](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=481)
+- Scottish Tartans Authority (ITI): 6705
+- Scottish Tartans World Register: 2854
+
 ## Thread count
 DB/84 K12 DB6 K6 DB6 W10 DB34 W14 DY20 K/6
 ![Sett](sett.png)

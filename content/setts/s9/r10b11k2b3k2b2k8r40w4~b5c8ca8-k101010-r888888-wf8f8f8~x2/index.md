@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1979 — Doune (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4707/))
 - 01/01/2002 — Doune (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=965))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [965](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=965)
+- Scottish Tartans Authority (ITI): 4707
+
 ## Thread count
 N/20 B22 K4 B6 K4 B4 K16 N80 W/8
 ![Sett](sett.png)

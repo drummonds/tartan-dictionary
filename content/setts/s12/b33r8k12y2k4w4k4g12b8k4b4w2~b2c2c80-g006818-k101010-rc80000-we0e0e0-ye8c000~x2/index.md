@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — MacLulich (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/558/))
 - undated — MacLulich Clan Tartan Tartan Number: 558. Earliest known date: 1862 Brydone See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=558))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2651](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2651)
+- Scottish Tartans Authority (ITI): 558
+- Scottish Tartans World Register: 558
+
 ## Thread count
 DB/66 R16 K24 Y4 K8 LN8 K8 G24 DB16 K8 DB8 LN/4
 ![Sett](sett.png)

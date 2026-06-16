@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1998 — Federal Memorial Dress (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7793/))
 - undated — Federal Memorial Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5758))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5758)
+- Scottish Tartans Authority (ITI): 7793
+
 ## Thread count
 B/12 R4 B4 R4 B60 LN4 B4 R16 B4 LN60 B4 Y4 DB/12
 ![Sett](sett.png)

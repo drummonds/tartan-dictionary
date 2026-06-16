@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Colvin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=719))
 - pre 1998 — Colvin (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4196/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [719](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=719)
+- Scottish Tartans Authority (ITI): 4196
+
 ## Thread count
 DB/12 DR18 G128 DB32 N8 DB8 N8 DB/72
 ![Sett](sett.png)

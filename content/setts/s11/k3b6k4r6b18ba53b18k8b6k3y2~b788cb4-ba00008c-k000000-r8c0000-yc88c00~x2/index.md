@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Australia 2000 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=138))
 - pre 2002 — Australia 2000 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4148/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [138](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=138)
+- Scottish Tartans Authority (ITI): 4148
+
 ## Thread count
 DY/4 K6 B12 K16 B36 DB106 B36 DR12 K8 B12 K/6
 ![Sett](sett.png)

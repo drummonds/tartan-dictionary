@@ -17,6 +17,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - April 2008 — Hash House Harriers Trail (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7628/))
 - undated — Hash House Harriers Trail (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5646))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5646](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5646)
+- Scottish Tartans Authority (ITI): 7628
+
 ## Thread count
 Y/2 DY2 Y2 DY2 R8 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 DR56 G56 DB8 G56 DR56 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 LN8 Y2 DY2 Y2 DY2 LN8 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y2 DY2 Y/2
 ![Sett](sett.png)

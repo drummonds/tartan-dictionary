@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Sonsub (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3837))
 - 2006 — Sonsub (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6984/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3837](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3837)
+- Scottish Tartans Authority (ITI): 6984
+
 ## Thread count
 Nb/60 K10 Nb38 K10 Nb4 Na40 Y4 Na40 K10 Y/8
 ![Sett](sett.png)

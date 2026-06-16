@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Tiree Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4130))
 - pre 2002 — Tiree Grey (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5110/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4130](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4130)
+- Scottish Tartans Authority (ITI): 5110
+
 ## Thread count
 DR/4 Na60 K12 N12 K12 N/12
 ![Sett](sett.png)

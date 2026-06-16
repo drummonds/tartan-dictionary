@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — MacLeod Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2643))
 - 1980 — MacLeod Red (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/496/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2643](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2643)
+- Scottish Tartans Authority (ITI): 496
+- Scottish Tartans World Register: 496
+
 ## Thread count
 DB/8 R2 DB2 R4 DB22 R4 DB2 R2 Y2 R2 DB2 R32 DB16 R8 G8 R32 G22 R16 DB8 R4 Y/4
 ![Sett](sett.png)

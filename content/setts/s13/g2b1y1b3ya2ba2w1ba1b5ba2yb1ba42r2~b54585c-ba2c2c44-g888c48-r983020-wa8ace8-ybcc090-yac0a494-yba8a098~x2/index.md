@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov. 2008 — Registers of Scotland, The (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7830/))
 - undated — Registers of Scotland, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5784))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5784](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5784)
+- Scottish Tartans Authority (ITI): 7830
+
 ## Thread count
 G/4 N2 Na2 N6 Nc4 DB4 LP2 DB2 N10 DB4 Nb2 DB84 T/4
 ![Sett](sett.png)

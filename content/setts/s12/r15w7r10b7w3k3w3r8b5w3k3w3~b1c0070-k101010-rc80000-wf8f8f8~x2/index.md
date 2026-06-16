@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Westgaard of Kileughterco (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4607))
 - 1993 — Westgaard of Kileughterco (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2194/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4607](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4607)
+- Scottish Tartans Authority (ITI): 2194
+- Scottish Tartans World Register: 2194
+
 ## Thread count
 R/30 W14 R20 DB14 W6 K6 W6 R16 DB10 W6 K6 W/6
 ![Sett](sett.png)

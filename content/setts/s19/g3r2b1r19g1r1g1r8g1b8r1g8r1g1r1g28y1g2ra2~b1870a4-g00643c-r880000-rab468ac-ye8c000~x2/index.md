@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Brewer (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=349))
 - 2006, January — Brewer (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6833/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [349](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=349)
+- Scottish Tartans Authority (ITI): 6833
+
 ## Thread count
 G/6 DRa4 B2 DRa38 G2 DRa2 G2 DRa16 G2 B16 DRa2 G16 DRa2 G2 DRa2 G56 Y2 G4 P/4
 ![Sett](sett.png)

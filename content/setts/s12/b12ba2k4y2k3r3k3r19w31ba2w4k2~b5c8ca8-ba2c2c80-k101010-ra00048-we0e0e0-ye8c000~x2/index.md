@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — MacLean of Duart Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/59/))
 - undated — MacLean Dress Burgundy Clan Tartan Tartan Number: 59. Earliest known date: pre 2003 Dress form of MacLean of Duart. Count taken from a sample in Reproduction colours See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=59))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2616](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2616)
+- Scottish Tartans Authority (ITI): 59
+- Scottish Tartans World Register: 59
+
 ## Thread count
 B/24 DB4 K8 Y4 K6 R6 K6 R38 LN62 DB4 LN8 K/4
 ![Sett](sett.png)

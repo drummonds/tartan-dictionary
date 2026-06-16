@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Spotsylvania County Sheriff's Office (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5353))
 - pre 2007 — Spotsylvania County Sheriff (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7146/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5353](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5353)
+- Scottish Tartans Authority (ITI): 7146
+
 ## Thread count
 K/4 Y4 K48 Y4 K4 Y4 LT60 LN6 G4 R/4
 ![Sett](sett.png)

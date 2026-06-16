@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Maryville College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2848))
 - pre 2004 — Maryville College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6154/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2848](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2848)
+- Scottish Tartans Authority (ITI): 6154
+
 ## Thread count
 K/26 DR80 O26 N/16
 ![Sett](sett.png)

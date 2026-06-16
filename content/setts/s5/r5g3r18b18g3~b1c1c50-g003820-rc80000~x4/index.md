@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1979 — Wotherspoon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4784))
 - pre 1979 — Wotherspoon (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/741/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4784](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4784)
+- Scottish Tartans Authority (ITI): 741
+- Scottish Tartans World Register: 741
+
 ## Thread count
 DG/12 DB72 R72 DG12 R/20
 ![Sett](sett.png)

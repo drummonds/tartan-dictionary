@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Jewish (Kosher) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7615/))
 - undated — Jewish (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5637))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5637](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5637)
+- Scottish Tartans Authority (ITI): 7615
+
 ## Thread count
 DY/4 DBa10 N2 DR8 N2 DBa4 N2 DBa88 LY2 DB6 LY/6
 ![Sett](sett.png)

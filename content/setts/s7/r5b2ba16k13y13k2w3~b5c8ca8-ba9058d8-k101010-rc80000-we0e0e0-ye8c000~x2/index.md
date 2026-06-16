@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Casey (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=588))
 - 2002 — Casey (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6914/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [588](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=588)
+- Scottish Tartans Authority (ITI): 6914
+
 ## Thread count
 LN/6 K4 Y26 K26 P32 B4 R/10
 ![Sett](sett.png)

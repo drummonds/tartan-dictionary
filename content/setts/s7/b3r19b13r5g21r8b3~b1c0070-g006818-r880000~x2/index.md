@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacBean of Tomatin (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3342/))
 - undated — MacBean of Tomatin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5023))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5023](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5023)
+- Scottish Tartans Authority (ITI): 3342
+
 ## Thread count
 DB/6 DR38 DB26 DR10 G42 DR16 DB/6
 ![Sett](sett.png)

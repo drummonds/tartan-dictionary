@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2005 — Greenshields (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530))
 - undated — Greenshields Family Tartan Tartan Number: 6578. Earliest known date: August 2004 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6578))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530)
+- Scottish Tartans Authority (ITI): 6578
+
 ## Thread count
 DB/80 LP6 DB6 LP6 DB6 LP8 DG16 G16 N16 LN4 N16 G16 DG16 LP8 DB6 LP6 DB6 LP/6
 ![Sett](sett.png)

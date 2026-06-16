@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — City of Armadale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=654))
 - pre 2003 — City of Armadale (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5868/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [654](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=654)
+- Scottish Tartans Authority (ITI): 5868
+
 ## Thread count
 G/8 Ra4 G4 Ra58 G30 K6 G4 K4 G4 K/42
 ![Sett](sett.png)

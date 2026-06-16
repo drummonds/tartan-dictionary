@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Dobrain (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=941))
 - pre 2002 — Dobrain (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4118/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [941](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=941)
+- Scottish Tartans Authority (ITI): 4118
+
 ## Thread count
 N/16 Na8 K6 R28 Na4 K12 N4 R8 Na4 R/48
 ![Sett](sett.png)

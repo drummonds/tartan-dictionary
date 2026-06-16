@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1997 — Round Table (1997) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3579))
 - 1997 — Round Table (1997) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2365/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3579](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3579)
+- Scottish Tartans Authority (ITI): 2365
+- Scottish Tartans World Register: 2365
+
 ## Thread count
 DB/94 G28 DP10 T4 DR6 G/14
 ![Sett](sett.png)

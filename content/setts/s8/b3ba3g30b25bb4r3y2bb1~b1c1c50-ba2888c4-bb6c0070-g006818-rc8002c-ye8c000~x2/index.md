@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Young (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4796))
 - 1992 — Young (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2048/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4796](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4796)
+- Scottish Tartans Authority (ITI): 2048
+- Scottish Tartans World Register: 2048
+
 ## Thread count
 DB/6 B6 G60 DB50 P8 Ra6 Y4 P/2
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Drambuie Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=974))
 - pre 1998 — Drambuie Htg (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2475/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [974](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=974)
+- Scottish Tartans Authority (ITI): 2475
+- Scottish Tartans World Register: 2475
+
 ## Thread count
 DY/6 K5 R4 K48 T36 LT/6
 ![Sett](sett.png)

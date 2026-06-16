@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/1962 — Bermuda Plaid (1962) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=254))
 - undated — Bermuda Plaid District Tartan Tartan Number: 696. Earliest known date: 1962 The original Bermuda Plaid was designed by Peter Macarthur Limited of Hamilton, Scotland in 1962 and was marketed on the island by Trimmingham Bros., Ltd. The colours represent the Sky, the Sea, the Coral and the Cedar trees which grow on the island. Bermuda is a British Dependant Territory. (Source: District Tartans, P Smith and G Teall, 1992) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=696))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [254](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=254)
+- Scottish Tartans Authority (ITI): 696
+- Scottish Tartans World Register: 696
+
 ## Thread count
 B/16 DB4 B16 G24 DB24 R16 B/66
 ![Sett](sett.png)

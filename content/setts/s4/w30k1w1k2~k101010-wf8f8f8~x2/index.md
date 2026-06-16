@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Covenanter (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=779))
 - pre 2004 — Covenanter (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6377/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [779](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=779)
+- Scottish Tartans Authority (ITI): 6377
+
 ## Thread count
 K/4 W2 K2 W/60
 ![Sett](sett.png)

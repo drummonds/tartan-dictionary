@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1982 — Tait #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4064))
 - 1982 — Tait #2 (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6284/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4064](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4064)
+- Scottish Tartans Authority (ITI): 6284
+
 ## Thread count
 W/8 K2 R4 K2 G18 K4 B48 K4 R12 K4 G24 Y/4
 ![Sett](sett.png)

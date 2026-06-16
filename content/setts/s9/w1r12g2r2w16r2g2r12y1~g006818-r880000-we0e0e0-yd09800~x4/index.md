@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacFie Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2436))
 - pre 2002 — MacFie Dress (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4563/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2436](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2436)
+- Scottish Tartans Authority (ITI): 4563
+
 ## Thread count
 DY/4 DR48 G8 DR8 LN64 DR8 G8 DR48 LN/4
 ![Sett](sett.png)

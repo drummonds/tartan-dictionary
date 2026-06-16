@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — MacLaren Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2599))
 - 1981 — MacLaren Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/649/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2599](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2599)
+- Scottish Tartans Authority (ITI): 649
+- Scottish Tartans World Register: 649
+
 ## Thread count
 DB/4 W24 K16 G16 R4 G16 K2 DY/4
 ![Sett](sett.png)

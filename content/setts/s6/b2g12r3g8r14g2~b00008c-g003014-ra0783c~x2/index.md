@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Confederate Infantry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=731))
 - 1998 — Confederate Infantry (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4568/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [731](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=731)
+- Scottish Tartans Authority (ITI): 4568
+
 ## Thread count
 DB/4 DG24 LT6 DG16 LT28 DG/4
 ![Sett](sett.png)

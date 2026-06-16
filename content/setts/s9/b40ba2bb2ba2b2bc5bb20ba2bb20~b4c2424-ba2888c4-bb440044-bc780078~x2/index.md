@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2001 — Phillips (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3914/))
 - undated — Phillips Name Tartan Tartan Number: 3914. Earliest known date: 2001 Designed by Maxine Scott of House of Tartan and Rachael Phillips of Winsford, Cheshire for Phillips worldwide. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3914))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5013](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5013)
+- Scottish Tartans Authority (ITI): 3914
+
 ## Thread count
 DP/40 B4 DP40 P10 T4 B4 DP4 B4 T/80
 ![Sett](sett.png)

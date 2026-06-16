@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov 1992 — Westwood Gordon Pink (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7491/))
 - undated — Westwood Gordon Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5532))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5532)
+- Scottish Tartans Authority (ITI): 7491
+
 ## Thread count
 DB/42 K6 DB6 K6 DB6 K40 G36 LR6 G36 K40 DB36 K6 DB/6
 ![Sett](sett.png)

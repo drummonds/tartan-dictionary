@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/1988 — De Maynard (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=899))
 - Aug 1988 — de Maynard (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5927/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [899](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=899)
+- Scottish Tartans Authority (ITI): 5927
+
 ## Thread count
 DP/8 O36 G32 O16 Y4 O16 DB40 W/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1996 — Pinney's of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3343))
 - 1996 — Pinney's of Scotland (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2284/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3343](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3343)
+- Scottish Tartans Authority (ITI): 2284
+- Scottish Tartans World Register: 2284
+
 ## Thread count
 DBa/8 G4 DB20 Y2 DB4 G26 DBa22 G26 DB26 Y/4
 ![Sett](sett.png)

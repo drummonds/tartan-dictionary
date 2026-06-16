@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — MacCorquodale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2326))
 - 1981 — MacCorquodale (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/283/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2326](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2326)
+- Scottish Tartans Authority (ITI): 283
+- Scottish Tartans World Register: 283
+
 ## Thread count
 Ba/8 K8 B48 K48 Ba56 K8 R/14
 ![Sett](sett.png)

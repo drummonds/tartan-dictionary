@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1977 — Holyrood (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/98/))
 - 01/01/1980 — Holyrood (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1754))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1754](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1754)
+- Scottish Tartans Authority (ITI): 98
+- Scottish Tartans World Register: 98
+
 ## Thread count
 DB/96 G24 DY6 G6 LN6 G6 N18 T16 B4 T20 LN/4
 ![Sett](sett.png)

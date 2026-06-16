@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Mowat, Sir Oliver (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5651/))
 - undated — Mowat, Sir Oliver Commemorative Tartan Tartan Number: 5651. Earliest known date: pre 2002 1820 - 1903. One of the Fathers of the Confederation. Premier of Ontario. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5651))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3036](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3036)
+- Scottish Tartans Authority (ITI): 5651
+
 ## Thread count
 DR/8 K4 DY6 K4 N6 K4 G32 K6 G6 K6 G8 DR32 G12 K4 DY6 K4 N6 K4 G/12
 ![Sett](sett.png)

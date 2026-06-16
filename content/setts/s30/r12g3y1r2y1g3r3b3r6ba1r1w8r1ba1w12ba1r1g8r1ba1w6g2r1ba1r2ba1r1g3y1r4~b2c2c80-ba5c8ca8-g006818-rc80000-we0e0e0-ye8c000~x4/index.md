@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2005 — MacAlister Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2268))
 - 2005, March — MacAlister Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6629/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2268](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2268)
+- Scottish Tartans Authority (ITI): 6629
+
 ## Thread count
 R/48 G12 Y4 R8 Y4 G12 R12 DB12 R24 B4 R4 LN32 R4 B4 LN48 B4 R4 G32 R4 B4 LN24 G8 R4 B4 R8 B4 R4 G12 Y4 R/16
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — Fitzsimmons Red (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6808/))
 - 01/08/2007 — Fitzsimmons Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1202))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1202](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1202)
+- Scottish Tartans Authority (ITI): 6808
+
 ## Thread count
 G/6 LT4 K8 T12 K8 DR30 K8 LT36 G4 T/6
 ![Sett](sett.png)

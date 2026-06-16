@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Wanless (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3913/))
 - undated — Wanless (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4915))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4915](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4915)
+- Scottish Tartans Authority (ITI): 3913
+
 ## Thread count
 DB/50 Y10 DB24 Y6 R2 LN2 DB24 Y6 LN2 DB24 Y6 LN2 DB24 Y10 R2 LN2 DB24 Y8 LN/4
 ![Sett](sett.png)

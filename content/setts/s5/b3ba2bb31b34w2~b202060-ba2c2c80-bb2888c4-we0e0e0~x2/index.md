@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1998 — Gilt Edge (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4986/))
 - 01/02/2001 — Gilt Edge (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1346))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1346](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1346)
+- Scottish Tartans Authority (ITI): 4986
+- Scottish Tartans World Register: 2817
+
 ## Thread count
 DB/6 DBa4 B62 DB68 LN/4
 ![Sett](sett.png)

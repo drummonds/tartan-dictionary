@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec 2001 — Balmer (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7133/))
 - undated — Balmer (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5437))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5437](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5437)
+- Scottish Tartans Authority (ITI): 7133
+- Scottish Tartans World Register: 3040
+
 ## Thread count
 LN/4 DB98 R10 Y4 R10 Y/4
 ![Sett](sett.png)

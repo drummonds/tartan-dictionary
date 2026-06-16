@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2003 — Triad Highland Games Proposed (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149))
 - 2003 Feb — Triad Highland Games (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6527/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4149](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149)
+- Scottish Tartans Authority (ITI): 6527
+
 ## Thread count
 LR/4 B32 K32 LR4 K32 G32 LR/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Peeper (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3312))
 - 2006 — Peeper (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6991/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3312](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3312)
+- Scottish Tartans Authority (ITI): 6991
+
 ## Thread count
 LT/2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 R12 LT2 LTa2 LT2 LTa2 K2 R16 K2 LT2 LTa2 LT2 LTa2 LT2 LTa2 G18 R/8
 ![Sett](sett.png)

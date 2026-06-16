@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Durham (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1052))
 - 1819 — Durham (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1089/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1052](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1052)
+- Scottish Tartans Authority (ITI): 1089
+- Scottish Tartans World Register: 1089
+
 ## Thread count
 K/8 G16 K14 DB16 R/8
 ![Sett](sett.png)

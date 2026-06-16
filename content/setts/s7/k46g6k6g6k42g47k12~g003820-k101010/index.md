@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 22/12/2014 — Taiheiyo Club, Inc. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210))
 - 2015 — Taiheiyo Club, Inc (warp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11210/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11210](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210)
+
 ## Thread count
 K/12 DG47 K42 DG6 K6 DG6 K/46
 ![Sett](sett.png)

@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 18/10/2011 — St Andrews Golf Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10643))
 - undated — St Andrews Golf Club Corporate Tartan Tartan Number: 10643. Earliest known date: 18/10/2011 The pattern for this tartan was created by the Secretary and Chairman with the assistance of the designers at House of Tartan. The colours are taken from the club's crest. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10643))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10643](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10643)
+
 ## Thread count
 LN/4 DB48 K36 N4 K4 N20 B4 N12 O/4
 ![Sett](sett.png)

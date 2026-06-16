@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Cowper (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=783))
 - pre 2003 — Cowper (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5926/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [783](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=783)
+- Scottish Tartans Authority (ITI): 5926
+
 ## Thread count
 G/4 W4 G32 W4 G32 W4 G8 W4 G16 W/4
 ![Sett](sett.png)

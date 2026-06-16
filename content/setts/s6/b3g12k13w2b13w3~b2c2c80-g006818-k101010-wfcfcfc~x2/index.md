@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Herd/Hurd (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1691))
 - 1978 — Herd/Hurd (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/170/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1691](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1691)
+- Scottish Tartans Authority (ITI): 170
+- Scottish Tartans World Register: 170
+
 ## Thread count
 DBa/6 G24 K26 W4 DBa26 W/6
 ![Sett](sett.png)

@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1996 — Gleneil (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2545/))
 - undated — Gleneil Corporate Tartan Tartan Number: 2545. Earliest known date: 1996 The STS calls this a spoof tartan. Designed by J B Renwick of Lochcarron for Gleneil Publishers to accompany their fictional book by Michael Brander on the bogus Gleneil clan. The tartan is Johnston with blue changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2545))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1414](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1414)
+- Scottish Tartans Authority (ITI): 2545
+- Scottish Tartans World Register: 2545
+
 ## Thread count
 DY/4 G4 K2 G48 R36 K2 R4 K/4
 ![Sett](sett.png)

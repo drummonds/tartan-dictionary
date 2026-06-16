@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 05/05/1998 — Royal Canadian Mounted Police (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3594))
 - February 1998 — Royal Canadian Mounted Police (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2447/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3594](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3594)
+- Scottish Tartans Authority (ITI): 2447
+- Scottish Tartans World Register: 2447
+
 ## Thread count
 DN/152 B2 DN4 N2 G28 DR10 DN26 DO2 DY/2
 ![Sett](sett.png)

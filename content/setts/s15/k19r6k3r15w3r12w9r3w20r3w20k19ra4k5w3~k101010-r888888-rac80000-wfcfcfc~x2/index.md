@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Black and White (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=271))
 - 1984 — Black & White Whisky (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2042/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [271](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=271)
+- Scottish Tartans Authority (ITI): 2042
+- Scottish Tartans World Register: 2042
+
 ## Thread count
 K/38 N12 K6 N30 W6 N24 W18 N6 W40 N6 W40 K38 R8 K10 W/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Lawrie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2070))
 - 2000 — Lawrie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4219/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2070](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2070)
+- Scottish Tartans Authority (ITI): 4219
+
 ## Thread count
 DB/8 K4 DB32 G50 P2 T4 P/12
 ![Sett](sett.png)

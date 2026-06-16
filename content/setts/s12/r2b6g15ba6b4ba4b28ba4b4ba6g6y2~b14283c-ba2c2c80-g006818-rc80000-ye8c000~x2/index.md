@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Los Angeles Police Bagpipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2224))
 - 1999 — Los Angeles Police Bagpipe Band (Cor (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5496/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2224](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2224)
+- Scottish Tartans Authority (ITI): 5496
+
 ## Thread count
 R/4 DN12 G30 DB12 DN8 DB8 DN56 DB8 DN8 DB12 G12 Y/4
 ![Sett](sett.png)

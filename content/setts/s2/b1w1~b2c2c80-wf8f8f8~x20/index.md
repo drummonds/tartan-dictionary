@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1932 — Sillitoe (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3786))
 - 1932 — Sillitoe (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6430/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3786](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3786)
+- Scottish Tartans Authority (ITI): 6430
+
 ## Thread count
 DB/20 W/20
 ![Sett](sett.png)

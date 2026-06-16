@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Swedish Dance (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5161/))
 - undated — Swedish District Tartan Tartan Number: 5161. Earliest known date: pre 2002 Designed and woven by Peter McDonald for a member of Perth Royal Scottish Country Dance Society (RSCDS) who wished it for a Swedish friend. Not intended as "the" Swedish tartan, but to represent a Scottish-Swedish connection and available for any who may wish to use it. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5161))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4056](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4056)
+- Scottish Tartans Authority (ITI): 5161
+
 ## Thread count
 DB/80 DY1 K4 DY4 K4 DY4 K22 G36 DB4 B6 N/2
 ![Sett](sett.png)

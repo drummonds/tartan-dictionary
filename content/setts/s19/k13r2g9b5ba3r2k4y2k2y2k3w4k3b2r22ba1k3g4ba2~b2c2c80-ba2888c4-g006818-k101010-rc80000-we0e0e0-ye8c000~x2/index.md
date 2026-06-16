@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2006 May — Anderson of Ardbrake (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7024/))
 - undated — Anderson of Ardbrake Clan/Family Tartan Tartan Number: 7024. Earliest known date: 2006 May Designed by David A R Waterton-Anderson, Chairman of the Anderson Association in answer to requests from some members for an Anderson tartan with with a red, rather than a light blue bakcground. His notes on the design are as follows: "The Anderson family of Ardbrake in Banffshire is amongst the principal families of the name. Evidence from many sources over five centuries show a high intermarriage and association with the powerful clan Gordon plus many other families in the north-east of Scotland, many of whom have tartans in strong red hues. The majority of tartans ascribed to the name Anderson embody a clear motif of a broad white and two yellow (tramline) stripes set on black and this new design follows this traditional feature." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7024))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [85](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=85)
+- Scottish Tartans Authority (ITI): 7024
+
 ## Thread count
 B/4 G8 K6 B2 R44 DB4 K6 LN8 K6 Y4 K4 Y4 K8 R4 B6 DB10 G18 R4 K/26
 ![Sett](sett.png)

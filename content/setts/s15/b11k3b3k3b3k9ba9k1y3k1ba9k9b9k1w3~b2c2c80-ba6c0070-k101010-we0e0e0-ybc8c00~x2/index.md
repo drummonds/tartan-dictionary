@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Glengoyne Distillery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1420))
 - 1993 — Glengoyne Distillery (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1144/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1420](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1420)
+- Scottish Tartans Authority (ITI): 1144
+- Scottish Tartans World Register: 1144
+
 ## Thread count
 DB/22 K6 DB6 K6 DB6 K18 P18 K2 DY6 K2 P18 K18 DB18 K2 LN/6
 ![Sett](sett.png)

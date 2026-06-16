@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Ochterlonie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825))
 - pre 2002 — Auchterlonie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2677/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4825](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825)
+- Scottish Tartans Authority (ITI): 2677
+- Scottish Tartans World Register: 2677
+
 ## Thread count
 DB/70 N16 DB42 N26 DB12 DY/8
 ![Sett](sett.png)

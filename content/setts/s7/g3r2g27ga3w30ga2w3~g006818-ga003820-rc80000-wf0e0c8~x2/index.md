@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Uist Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5626))
 - undated — Uist Green Fashion Tartan Tartan Number: 7602. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7602))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5626](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5626)
+- Scottish Tartans Authority (ITI): 7602
+
 ## Thread count
 G/6 R4 G54 DG6 W60 DG4 W/6
 ![Sett](sett.png)

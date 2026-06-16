@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Border Reiver, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=312))
 - 1998 — Border Reiver, The (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2471/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [312](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=312)
+- Scottish Tartans Authority (ITI): 2471
+- Scottish Tartans World Register: 2471
+
 ## Thread count
 R/8 K4 R20 K20 R8 K4 R4 K4 R8 K20 R/20
 ![Sett](sett.png)

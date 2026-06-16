@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2004 — Presley of Memphis (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3367))
 - April 2004 — Presley of Memphis (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6237/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3367](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3367)
+- Scottish Tartans Authority (ITI): 6237
+- Scottish Tartans World Register: 2993
+
 ## Thread count
 DR/8 W8 DB8 W42 LR2 DB84 W2 Y/8
 ![Sett](sett.png)

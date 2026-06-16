@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Bank of Scotland (1995) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=191))
 - Jun. 1995 — Bank of Scotland (1995) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2462/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [191](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=191)
+- Scottish Tartans Authority (ITI): 2462
+- Scottish Tartans World Register: 2462
+
 ## Thread count
 DY/6 DBa36 K30 DBa36 N/6
 ![Sett](sett.png)

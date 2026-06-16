@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2007 — Longmore (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7373/))
 - undated — Longmore (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5322))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5322](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5322)
+- Scottish Tartans Authority (ITI): 7373
+- Scottish Tartans World Register: 3065
+
 ## Thread count
 B/8 LN2 B4 R66 G4 R4 G54 Y6 G/30
 ![Sett](sett.png)

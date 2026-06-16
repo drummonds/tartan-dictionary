@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Las Vegas Fire Fighters (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2054))
 - pre 2006 — Las Vegas Fire Fighters (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7052/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2054](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2054)
+- Scottish Tartans Authority (ITI): 7052
+
 ## Thread count
 N/2 R4 K2 R60 K56 N4 K6 R/2
 ![Sett](sett.png)

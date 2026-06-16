@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Thistle of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4104))
 - 2000 — Thistle of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4158/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4104](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4104)
+- Scottish Tartans Authority (ITI): 4158
+
 ## Thread count
 N/6 DB56 G4 DB4 G4 DB6 K32 DBa48 P/6
 ![Sett](sett.png)

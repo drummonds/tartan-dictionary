@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Royal Air Force (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3586))
 - 1989, July — Royal Air Force (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2123/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3586](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3586)
+- Scottish Tartans Authority (ITI): 2123
+- Scottish Tartans World Register: 2123
+
 ## Thread count
 DR/6 B4 Ba14 B6 Ba40 DBa8 DB16 B40 DR6 B14 LN/4
 ![Sett](sett.png)

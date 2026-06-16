@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1995 — Forbo Nairn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1226))
 - pre 2002 — Forbo Nairn (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2298/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1226)
+- Scottish Tartans Authority (ITI): 2298
+- Scottish Tartans World Register: 2298
+
 ## Thread count
 B/8 G32 K28 DB48 R/8
 ![Sett](sett.png)

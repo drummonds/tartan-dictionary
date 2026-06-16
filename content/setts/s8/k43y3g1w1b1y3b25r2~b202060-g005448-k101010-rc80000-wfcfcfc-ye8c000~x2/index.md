@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/1998 — Royal Yacht Britannia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3616))
 - December 1998 — Royal Yacht Britannia (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2529/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3616](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3616)
+- Scottish Tartans Authority (ITI): 2529
+- Scottish Tartans World Register: 2529
+
 ## Thread count
 K/86 Y6 G2 W2 DB2 Y6 DB50 R/4
 ![Sett](sett.png)

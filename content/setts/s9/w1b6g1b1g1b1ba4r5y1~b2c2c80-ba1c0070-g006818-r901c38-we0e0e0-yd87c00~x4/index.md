@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Sep. 1999 — McLion (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2658/))
 - 08/03/2000 — McLion (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2897))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2897](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2897)
+- Scottish Tartans Authority (ITI): 2658
+- Scottish Tartans World Register: 2658
+
 ## Thread count
 LN/4 DB24 G4 DB4 G4 DB4 DBa16 DR20 O/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - July 2007 — Model T Ford (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7479/))
 - undated — Model T Ford (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5521))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5521](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5521)
+- Scottish Tartans Authority (ITI): 7479
+
 ## Thread count
 K/8 DB32 K6 DB6 K64 DY14 K6 R20 K4 LN/8
 ![Sett](sett.png)

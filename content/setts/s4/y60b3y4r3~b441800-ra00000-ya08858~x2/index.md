@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Rabbie's Dram (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7530/))
 - undated — Rabbie's Dram (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5566))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5566](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5566)
+- Scottish Tartans Authority (ITI): 7530
+
 ## Thread count
 DRa/6 LT8 DR6 LT/120
 ![Sett](sett.png)

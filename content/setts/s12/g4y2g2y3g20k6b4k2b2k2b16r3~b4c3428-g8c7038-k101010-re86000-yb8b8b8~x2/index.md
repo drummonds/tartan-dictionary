@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Dorcas (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4879))
 - 1980 — Scotch House 'Dorcas' (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1315/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4879](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4879)
+- Scottish Tartans Authority (ITI): 1315
+
 ## Thread count
 LT/8 N4 LT4 N6 LT40 K12 T8 K4 T4 K4 T32 O/6
 ![Sett](sett.png)

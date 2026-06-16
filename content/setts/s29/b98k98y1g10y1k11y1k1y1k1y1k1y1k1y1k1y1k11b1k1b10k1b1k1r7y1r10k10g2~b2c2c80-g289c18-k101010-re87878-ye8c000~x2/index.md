@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Westwood Metropolitan 1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5540))
 - undated — Westwood Metropolitan Fashion Tartan Tartan Number: 7500. Earliest known date: Nov 1994 This vibrant design woven by Lochcarron in 1994 for Vivienne Westwood, gives a sett size of above 18 inches See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7500))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5540)
+- Scottish Tartans Authority (ITI): 7500
+
 ## Thread count
 DB/196 K196 Y2 G20 Y2 K22 Y2 K2 Y2 K2 Y2 K2 Y2 K2 Y2 K2 Y2 K22 DB2 K2 DB20 K2 DB2 K2 LR14 Y2 LR20 K20 G/4
 ![Sett](sett.png)

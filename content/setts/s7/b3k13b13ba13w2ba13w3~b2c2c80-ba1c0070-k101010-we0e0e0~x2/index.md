@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Brodie Countryfare (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=370))
 - pre 2006 — Brodie Countryfare (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6937/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [370](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=370)
+- Scottish Tartans Authority (ITI): 6937
+
 ## Thread count
 DBa/6 K26 DBa26 DB26 LN4 DB26 LN/6
 ![Sett](sett.png)

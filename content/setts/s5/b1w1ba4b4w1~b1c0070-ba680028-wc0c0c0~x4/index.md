@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Laval, Tartan de (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2064))
 - 1988 — Laval, Tartan de (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2120/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2064](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2064)
+- Scottish Tartans Authority (ITI): 2120
+- Scottish Tartans World Register: 2120
+
 ## Thread count
 DB/4 N4 DR16 DB16 N/4
 ![Sett](sett.png)

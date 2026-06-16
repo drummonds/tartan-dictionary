@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2005 — Albuquerque, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=43))
 - 2005, Nov. 30th — Albuquerque, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6720/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [43](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=43)
+- Scottish Tartans Authority (ITI): 6720
+
 ## Thread count
 R/4 G24 DB4 G16 DB36 W6 R4 W/4
 ![Sett](sett.png)

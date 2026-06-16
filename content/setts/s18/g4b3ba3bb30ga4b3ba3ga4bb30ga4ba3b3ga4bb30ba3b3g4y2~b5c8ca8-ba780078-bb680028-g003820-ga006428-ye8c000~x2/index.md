@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Islay Whisky Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4834))
 - undated — Islay Whisky Club Corporate Weavers Tartan Tartan Number: 3818. Earliest known date: 2002 A tartan for members of the Islay Whisky Club and for sale only through that club. info@islaywhiskyclub.com See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3818))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4834](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4834)
+- Scottish Tartans Authority (ITI): 3818
+
 ## Thread count
 DG/8 B6 P6 DR60 G8 B6 P6 G8 DR60 G8 P6 B6 G8 DR60 P6 B6 DG8 Y/4
 ![Sett](sett.png)

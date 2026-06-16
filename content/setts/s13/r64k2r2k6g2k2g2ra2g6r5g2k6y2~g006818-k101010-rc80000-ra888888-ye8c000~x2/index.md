@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2001 March — Melrose (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3926/))
 - undated — Melrose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5155))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5155](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5155)
+- Scottish Tartans Authority (ITI): 3926
+
 ## Thread count
 R/128 K4 R4 K12 G4 K4 G4 N4 G12 R10 G4 K12 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Scotland Forever (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3678))
 - March 2003 — Scotland Forever (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6038/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3678](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3678)
+- Scottish Tartans Authority (ITI): 6038
+
 ## Thread count
 DB/12 K6 DN38 K12 DN8 K6 P24 G8 P24 W4 DB/10
 ![Sett](sett.png)

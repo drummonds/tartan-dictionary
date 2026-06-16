@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2001 — Carstairs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=581))
 - 2001 — Carstairs (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4032/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [581](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=581)
+- Scottish Tartans Authority (ITI): 4032
+- Scottish Tartans World Register: 2836
+
 ## Thread count
 DY/8 LN4 G6 LN8 DB20 K4 DB56 K4 DB10 K4 DB16 LN4 DY4 G/10
 ![Sett](sett.png)

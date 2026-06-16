@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Jan 2008 — VersaCold/Atlas (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7482/))
 - undated — VersaCold/Atlas (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5524))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5524](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5524)
+- Scottish Tartans Authority (ITI): 7482
+
 ## Thread count
 DB/6 N88 K18 N20 K18 N20 K18 N88 R/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Valley Forge Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4437))
 - pre 2002 — Valley Forge Pipe Band (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4351/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4437](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4437)
+- Scottish Tartans Authority (ITI): 4351
+
 ## Thread count
 N/4 K4 N8 K4 N4 K10 G10 N4 G10 K10 DB10 R/4
 ![Sett](sett.png)

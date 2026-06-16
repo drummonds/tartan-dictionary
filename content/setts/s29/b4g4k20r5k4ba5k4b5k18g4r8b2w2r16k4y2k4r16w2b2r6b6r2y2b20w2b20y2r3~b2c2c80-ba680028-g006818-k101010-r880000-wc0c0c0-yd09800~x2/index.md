@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1996 — Hird (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2243/))
 - undated — Hird Family Tartan Tartan Number: 2243. Earliest known date: 1996 Designed for the wedding of Miss Fiona Hird to a Mr. Blumsden. A very complex non-reversing design. Said to combine three checks, James C.Hird, Kathleen E. Hird and Fiona J.Hird but the meaning of that comment is not understood. The STS version appears to differ in some respects from the generally accepted sett. No SINDEX details on this so difficult to check either way. (EBW Feb 2005). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2243))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1735](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1735)
+- Scottish Tartans Authority (ITI): 2243
+- Scottish Tartans World Register: 2243
+
 ## Thread count
 DBa/8 G8 K40 DR10 K8 DRa10 K8 DBa10 K36 G8 DR16 DBa4 N4 DR32 K8 DY4 K8 DR32 N4 DBa4 DR12 DBa12 DR4 DY4 DBa40 N4 DBa40 DY4 DR/6
 ![Sett](sett.png)

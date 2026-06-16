@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov 1996 — Westwood MacBrick (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7485/))
 - undated — Westwood MacBrick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5526))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5526](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5526)
+- Scottish Tartans Authority (ITI): 7485
+
 ## Thread count
 K/22 R4 K22 R40 LN4 R40 K14 R2 K14 R2 K14 R22 LN/2
 ![Sett](sett.png)

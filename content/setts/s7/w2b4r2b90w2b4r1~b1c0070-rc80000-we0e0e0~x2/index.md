@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2007 — Spirit of Ulster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3866))
 - March 2007 — Spirit of Ulster (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7194/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3866](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3866)
+- Scottish Tartans Authority (ITI): 7194
+
 ## Thread count
 LN/4 DB8 R4 DB180 LN4 DB8 R/2
 ![Sett](sett.png)

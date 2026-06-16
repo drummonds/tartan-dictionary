@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1989 — Gordon Dress (US Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3588/))
 - undated — Gordon Dress (F.Schumacher) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5261))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5261](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5261)
+- Scottish Tartans Authority (ITI): 3588
+
 ## Thread count
 DB/8 K8 DB16 K16 G20 DY4 G20 K16 G8 B8 G24 B4 K/8
 ![Sett](sett.png)

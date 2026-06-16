@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — MacLeod of Argentina (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2635))
 - 1978 — MacLeod of Argentina (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/627/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2635](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2635)
+- Scottish Tartans Authority (ITI): 627
+- Scottish Tartans World Register: 627
+
 ## Thread count
 B/20 W6 B24 Y28 R/8
 ![Sett](sett.png)

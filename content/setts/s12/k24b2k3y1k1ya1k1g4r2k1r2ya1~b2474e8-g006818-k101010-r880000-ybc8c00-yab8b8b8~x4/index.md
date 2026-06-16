@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1960 — Stewart/Stuart (Black) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3943))
 - pre 1960 — Stewart, Black (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1061/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3943](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3943)
+- Scottish Tartans Authority (ITI): 1061
+- Scottish Tartans World Register: 1061
+
 ## Thread count
 K/96 B8 K12 DY4 K4 N4 K4 G16 DR8 K4 DR8 N/4
 ![Sett](sett.png)

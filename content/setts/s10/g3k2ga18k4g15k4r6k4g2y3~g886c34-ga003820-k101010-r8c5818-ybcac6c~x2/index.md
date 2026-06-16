@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Fitzsimmons (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201))
 - August 2007 — Fitzsimmons Hunting (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7266/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1201](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201)
+- Scottish Tartans Authority (ITI): 7266
+
 ## Thread count
 LG/6 LT4 K8 T12 K8 LT30 K8 DG36 K4 LT/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Reiver Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3496))
 - 1997 — Reiver Check (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2567/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3496](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3496)
+- Scottish Tartans Authority (ITI): 2567
+- Scottish Tartans World Register: 2567
+
 ## Thread count
 K/108 LN8 K8 LN8 K8 LN8 K8 LN8 K16 R/20
 ![Sett](sett.png)

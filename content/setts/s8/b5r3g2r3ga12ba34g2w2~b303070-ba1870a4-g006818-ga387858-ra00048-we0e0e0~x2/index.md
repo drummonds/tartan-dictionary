@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Moran (Wedding) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3004))
 - 2003 — Moran (Wedding) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5986/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3004](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3004)
+- Scottish Tartans Authority (ITI): 5986
+
 ## Thread count
 DB/10 R6 Ga4 R6 G24 B68 Ga4 LN/4
 ![Sett](sett.png)

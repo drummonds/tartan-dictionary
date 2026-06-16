@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Nov. 2007 — Page (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7468/))
 - undated — Page Clan/Family Tartan Tartan Number: 7468. Earliest known date: 2007 Designed by George Page of Quebec, Canada and Trudie Ainsworth of House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7468))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5513](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5513)
+- Scottish Tartans Authority (ITI): 7468
+
 ## Thread count
 DG/92 K36 DG12 K26 R8 K8 LN/8
 ![Sett](sett.png)

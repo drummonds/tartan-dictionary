@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Herbage of Laggan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690))
 - pre 1985 — Herbage of Laggan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/811/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1690](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690)
+- Scottish Tartans Authority (ITI): 811
+- Scottish Tartans World Register: 811
+
 ## Thread count
 G/136 K44 N56 DR6 N/24
 ![Sett](sett.png)

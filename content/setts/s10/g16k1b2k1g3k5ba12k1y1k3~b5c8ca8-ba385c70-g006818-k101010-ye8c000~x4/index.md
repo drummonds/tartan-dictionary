@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1980 — Hope-Vere (Lochcarron) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7736/))
 - undated — Hope-Vere (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5719))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5719](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5719)
+- Scottish Tartans Authority (ITI): 7736
+
 ## Thread count
 G/64 K4 B8 K4 G12 K20 Ba48 K4 Y4 K/12
 ![Sett](sett.png)

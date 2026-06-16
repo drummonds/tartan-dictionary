@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2000 — Braid (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=337))
 - 2001 — Braid (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4033/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [337](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=337)
+- Scottish Tartans Authority (ITI): 4033
+- Scottish Tartans World Register: 2822
+
 ## Thread count
 DB/26 K6 DB10 K12 G36 K4 P18 K4 DB6 K4 P22 K8 R/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Princess Diana (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3401))
 - 1997 — Princess Diana (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5459/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3401](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3401)
+- Scottish Tartans Authority (ITI): 5459
+
 ## Thread count
 DR/16 B2 DB24 N2 G36 DR4 G36 K4 DR4 K4 DR4 K/28
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1908 — MacInnes (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2471))
 - 1908 — MacInnes (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1464/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2471](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2471)
+- Scottish Tartans Authority (ITI): 1464
+- Scottish Tartans World Register: 1464
+
 ## Thread count
 R/4 G12 DB24 K6 B6 K6 G32 K4 G4 K4 G4 K24 Y/4
 ![Sett](sett.png)

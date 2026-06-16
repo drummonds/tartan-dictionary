@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — Wemyss (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4600))
 - 1842 — Wemyss (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1512/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4600](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4600)
+- Scottish Tartans Authority (ITI): 1512
+- Scottish Tartans World Register: 1512
+
 ## Thread count
 R/16 G4 R96 K16 R16 K48 W4 K48 R/16
 ![Sett](sett.png)

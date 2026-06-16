@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2002 — Royal College of Midwives (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596))
 - August 2002 — Midwives (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5766/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3596](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596)
+- Scottish Tartans Authority (ITI): 5766
+
 ## Thread count
 W/6 Na86 B6 Na6 N22 Na12 K2 Na6 Y/10
 ![Sett](sett.png)

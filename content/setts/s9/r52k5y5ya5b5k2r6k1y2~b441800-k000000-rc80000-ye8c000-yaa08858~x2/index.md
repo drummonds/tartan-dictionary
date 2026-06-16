@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — Braemar Castle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=333))
 - circa 1989 — Braemar Castle (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1628/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [333](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=333)
+- Scottish Tartans Authority (ITI): 1628
+- Scottish Tartans World Register: 1628
+
 ## Thread count
 R/104 K10 Y10 LT10 DRa10 K4 R12 K2 Y/4
 ![Sett](sett.png)

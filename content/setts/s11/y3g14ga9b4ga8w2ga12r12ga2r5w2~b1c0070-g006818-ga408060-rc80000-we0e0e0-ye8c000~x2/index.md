@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Muirhead (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3099/))
 - undated — Muirhead (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4992))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4992](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4992)
+- Scottish Tartans Authority (ITI): 3099
+
 ## Thread count
 LN/4 R10 G4 R24 G24 LN4 G16 DB8 G18 Ga28 Y/6
 ![Sett](sett.png)

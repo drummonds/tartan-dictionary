@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Bacon, Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5221))
 - Unknown — Bacon, Blue (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3626/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5221](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5221)
+- Scottish Tartans Authority (ITI): 3626
+
 ## Thread count
 DB/28 K6 DR6 LN/2
 ![Sett](sett.png)

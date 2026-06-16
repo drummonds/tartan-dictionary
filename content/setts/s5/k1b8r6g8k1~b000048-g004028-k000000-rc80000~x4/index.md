@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Edinburgh Military Tattoo 50th (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4960))
 - undated — Edinburgh Military Tattoo 50th Military Tartan Tartan Number: 3614. Earliest known date: 1998 Based on a Wilsons of Bannockburn sett, designed by Peter MacDonald in 1998 for the Edinburgh Military Tattoo to celebrate their 50th anniversary in 2000. The colours depict the three military forces - Navy, Army & Air Force with the black from Edinburgh's heraldic arms. Launched on June 16th 1999 in time for the final Tattoo of the 20th century. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3614))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4960](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4960)
+- Scottish Tartans Authority (ITI): 3614
+
 ## Thread count
 K/4 DB32 R24 DG32 K/4
 ![Sett](sett.png)

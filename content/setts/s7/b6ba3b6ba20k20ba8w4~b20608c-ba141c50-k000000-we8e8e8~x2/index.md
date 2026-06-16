@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 28/08/2012 — Allianz Deutschland 2012 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684))
 - undated — Allianz Deutschland 2012 Corporate Tartan Tartan Number: 10684. Earliest known date: 28 August 2012 Designed by Blair Urquhart of House of Tartan Ltd, together with the Creative Team, Allianz Deutschland, for the 2013 Scottish Visit. The tartan incorporates both the colours and the three elements of Allianz Deutschland's Corporate Trademark Device. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10684))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684)
+
 ## Thread count
 B/12 DB6 B12 DB40 K40 DB16 LN/8
 ![Sett](sett.png)

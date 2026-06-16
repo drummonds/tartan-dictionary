@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Millennium (Langholm) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3474/))
 - undated — Millennium (Langholm) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4947))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4947](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4947)
+- Scottish Tartans Authority (ITI): 3474
+
 ## Thread count
 DP/70 DN4 T2 DN2 N2 DN10 DR4 G10 DY/8
 ![Sett](sett.png)

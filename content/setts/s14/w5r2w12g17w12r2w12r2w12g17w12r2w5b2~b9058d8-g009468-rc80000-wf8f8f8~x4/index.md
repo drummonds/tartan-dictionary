@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Milne Green (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2954))
 - undated — Milne Green Fancy Tartan Tartan Number: 6549. Earliest known date: pre 2004 A dance version of #634 designed by Dr. Phil Smith of Georgia for a Highland dance teacher. Prior to the threadcount shown here (received from the designer Dr Phil Smith) the sett shown was P/8 W20 LB8 W48 G68 Y2 W48 LB8 W/48. The present sett shown here misses out the yellow and replaces light blue with red. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6549))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2954](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2954)
+- Scottish Tartans Authority (ITI): 6549
+
 ## Thread count
 P/8 W20 R8 W48 B68 W48 R8 W48 R8 W48 B68 W48 R8 W/20
 ![Sett](sett.png)

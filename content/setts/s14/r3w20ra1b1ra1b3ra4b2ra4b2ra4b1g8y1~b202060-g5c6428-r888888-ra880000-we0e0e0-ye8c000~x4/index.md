@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1984 — Cairn (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3778/))
 - undated — Cairn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5010))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5010](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5010)
+- Scottish Tartans Authority (ITI): 3778
+
 ## Thread count
 N/12 LN80 DR4 DB4 DR4 DB12 DR16 DB8 DR16 DB8 DR16 DB4 G32 Y/4
 ![Sett](sett.png)

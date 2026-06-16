@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2006 — Sandberg of Greenock (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3650))
 - 2006 July — Sandberg of Greenock (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6974/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3650](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3650)
+- Scottish Tartans Authority (ITI): 6974
+
 ## Thread count
 R/4 K8 R4 DB48 G20 DB4 K48 Y/12
 ![Sett](sett.png)

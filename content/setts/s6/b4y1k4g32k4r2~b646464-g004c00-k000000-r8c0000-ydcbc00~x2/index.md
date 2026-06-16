@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/1998 — Tough (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4142))
 - undated — Tough Personal Tartan Tartan Number: 5099. Earliest known date: 1997 A private family tartan designed in by Peter E. MacDonald in May 1997 for Kenneth Tough, Glasgow whose family came from Aberdeenshire hence the use of the Tribe of Mar tartan as a basis for this sett. The family has interests in salmon farming and grey was therefore added to show this connection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5099))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4142](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4142)
+- Scottish Tartans Authority (ITI): 2582
+- Scottish Tartans World Register: 2582
+
 ## Thread count
 DR/4 K8 G64 K8 Y2 N/8
 ![Sett](sett.png)

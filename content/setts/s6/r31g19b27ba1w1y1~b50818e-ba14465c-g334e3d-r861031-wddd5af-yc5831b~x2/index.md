@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10438
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10438](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10438)
+
 ## Thread count
 DO/2 LR2 DB2 B54 N38 DR/62
 ![Sett](sett.png)

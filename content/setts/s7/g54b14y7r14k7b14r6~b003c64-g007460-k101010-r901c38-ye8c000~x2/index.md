@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - circa 2002 — Gloucester County Pipe Band (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7539/))
 - undated — Gloucester County Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5574))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5574](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5574)
+- Scottish Tartans Authority (ITI): 7539
+
 ## Thread count
 DR/12 DB28 K14 DR28 Y14 DB28 G/108
 ![Sett](sett.png)

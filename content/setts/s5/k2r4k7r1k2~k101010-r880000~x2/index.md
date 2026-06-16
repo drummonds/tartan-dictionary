@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Romsdal Tresfjord (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3545))
 - pre 2002 — Romsdal Tresfjord District (Artefact (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2088/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3545](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3545)
+- Scottish Tartans Authority (ITI): 2088
+- Scottish Tartans World Register: 2088
+
 ## Thread count
 K/4 DR2 K14 DR8 K/4
 ![Sett](sett.png)

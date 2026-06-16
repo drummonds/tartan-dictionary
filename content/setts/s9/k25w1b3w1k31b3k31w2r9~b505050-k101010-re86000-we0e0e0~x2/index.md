@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Savannah Harley Davidson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5542))
 - undated — Savannah Harley Davidson American Corporate Tartan Tartan Number: 7502. Earliest known date: Oct. 2007 Woven sample from Lochcarron produced in October 2007 for Galeic Themes of Glasgow for the Savannah Harley Davidson compnay in Georgia (http://www.savannahhd.com/). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7502))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5542](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5542)
+- Scottish Tartans Authority (ITI): 7502
+
 ## Thread count
 K/50 LN2 N6 LN2 K62 N6 K62 LN4 O/18
 ![Sett](sett.png)

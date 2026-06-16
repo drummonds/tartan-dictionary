@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Duchess of Kent (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1004))
 - 1930s — Duchess of Kent (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1368/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1004](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1004)
+- Scottish Tartans Authority (ITI): 1368
+- Scottish Tartans World Register: 1368
+
 ## Thread count
 R/8 LB80 K12 R8 K8 R12 K8 R12 K8 R12 K8 W/8
 ![Sett](sett.png)

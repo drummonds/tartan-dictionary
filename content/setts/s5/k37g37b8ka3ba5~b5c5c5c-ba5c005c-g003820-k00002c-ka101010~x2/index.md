@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Dallard (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7424/))
 - undated — Dallard (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5496))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5496](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5496)
+- Scottish Tartans Authority (ITI): 7424
+
 ## Thread count
 DB/74 DG74 N16 K6 P/10
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — White Stripes Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4614))
 - June 2007 — White Stripes Hunting (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7206/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4614](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4614)
+- Scottish Tartans Authority (ITI): 7206
+
 ## Thread count
 R/16 K8 R16 K112 W8 K8 W/8
 ![Sett](sett.png)

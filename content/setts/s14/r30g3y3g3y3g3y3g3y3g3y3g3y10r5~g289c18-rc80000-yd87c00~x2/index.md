@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Antigua & Barbuda (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=96))
 - pre 2007 — Antigua & Barbuda (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7185/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [96](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=96)
+- Scottish Tartans Authority (ITI): 7185
+
 ## Thread count
 R/60 Ga6 O6 Ga6 O6 Ga6 O6 Ga6 O6 Ga6 O6 Ga6 O20 R/10
 ![Sett](sett.png)

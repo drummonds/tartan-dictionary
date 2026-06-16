@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1985 — Ailsa, Grey (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3025/))
 - undated — Ailsa, Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5008))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5008](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5008)
+- Scottish Tartans Authority (ITI): 3025
+
 ## Thread count
 G/6 LN2 Na2 LN2 Na2 N50 Na18 LN18 Na/18
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Tenmaya Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4087))
 - 1996 — Tenmaya Check (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2346/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4087](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4087)
+- Scottish Tartans Authority (ITI): 2346
+- Scottish Tartans World Register: 2346
+
 ## Thread count
 N/4 DO20 DB8 DO4 DB4 DO4 Na48 N/4
 ![Sett](sett.png)

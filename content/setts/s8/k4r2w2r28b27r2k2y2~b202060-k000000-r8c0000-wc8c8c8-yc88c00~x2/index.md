@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2000 April — Toronto Fire Services (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3044/))
 - undated — Toronto Fire Services (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5375))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5375](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5375)
+- Scottish Tartans Authority (ITI): 3044
+
 ## Thread count
 DY/4 K4 DR4 DB54 DR56 N4 DR4 K/8
 ![Sett](sett.png)

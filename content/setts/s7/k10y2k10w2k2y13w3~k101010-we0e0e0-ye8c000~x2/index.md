@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Nooten-Boom (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3145))
 - 2002 — Nooten-Boom (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4021/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3145](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3145)
+- Scottish Tartans Authority (ITI): 4021
+- Scottish Tartans World Register: 3070
+
 ## Thread count
 K/20 Y4 K20 LN4 K4 Y26 LN/6
 ![Sett](sett.png)

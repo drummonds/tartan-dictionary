@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — McGuffey (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3379/))
 - undated — McGuffey School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5101))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5101](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5101)
+- Scottish Tartans Authority (ITI): 3379
+
 ## Thread count
 LN/2 K2 DB6 K28 DB6 K2 Y4 K2 DB6 K4 N/28
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1815 — MacArthur (Highland Society) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2280))
 - 1815 — MacArthur (1815) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/959/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2280](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2280)
+- Scottish Tartans Authority (ITI): 959
+- Scottish Tartans World Register: 959
+
 ## Thread count
 G/36 Y4 G36 K8 G4 K/30
 ![Sett](sett.png)

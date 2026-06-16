@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1805 — Abercrombie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10))
 - 1831 — Abercrombie - 1831 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/241/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10)
+- Scottish Tartans Authority (ITI): 241
+- Scottish Tartans World Register: 241
+
 ## Thread count
 DB/28 K8 DB8 K8 DB8 K28 G28 LN4 G/56
 ![Sett](sett.png)

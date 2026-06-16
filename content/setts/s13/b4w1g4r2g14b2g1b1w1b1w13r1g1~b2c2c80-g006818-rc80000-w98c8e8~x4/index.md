@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2000 — Maine Dirigo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2787))
 - 2001 — Maine Dirigo (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3068/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2787](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2787)
+- Scottish Tartans Authority (ITI): 3068
+- Scottish Tartans World Register: 2866
+
 ## Thread count
 DB/16 LB4 G16 R8 G56 DB8 G4 DB4 LB4 DB4 LB52 R4 G/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2004 — Rabbie Burns (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3434))
 - July 2004 — Rabbie Burns (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6318/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3434](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3434)
+- Scottish Tartans Authority (ITI): 6318
+
 ## Thread count
 DB/8 Y4 DB10 DR22 DB8 DR4 DB4 G20 DB56 K2 DR/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Meath, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2907))
 - 1997 — Meath, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2269/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2907](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2907)
+- Scottish Tartans Authority (ITI): 2269
+- Scottish Tartans World Register: 2269
+
 ## Thread count
 DY/10 DB4 DR28 T18 DG16 DB6 DR6 DB6 DR6 DB6 DG36 LG/6
 ![Sett](sett.png)

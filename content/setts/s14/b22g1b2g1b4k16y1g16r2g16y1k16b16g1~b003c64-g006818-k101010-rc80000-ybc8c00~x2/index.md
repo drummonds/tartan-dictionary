@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2006 — Milne of Corstorphine #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2955))
 - 2006 March — Milne of Corstorphine (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6895/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2955](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2955)
+- Scottish Tartans Authority (ITI): 6895
+
 ## Thread count
 DB/44 G2 DB4 G2 DB8 K32 DY2 G32 R4 G32 DY2 K32 DB32 G/2
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Westenra of Christchurch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606))
 - undated — Westenra of Christchurch NZ Commemorative Tartan Tartan Number: 6384. Earliest known date: 2006 Designed to commemorate the success of New Zealand soprano Hayley Westenra on the occasion of her visit to Scotland in 2006. Andrew Fenning is a member of the Hayley Westenra International and an opera fan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6384))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4606](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606)
+- Scottish Tartans Authority (ITI): 6881
+
 ## Thread count
 DB/8 K16 DBa18 K16 DB28 K16 R6 LN6 DBa20 K24 DBa20 LN6 R6 K16 DB28 K16 DBa18 K16 DB8 K/40
 ![Sett](sett.png)

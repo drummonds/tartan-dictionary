@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2004 — Ayre (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=150))
 - 2004 Nov — Ayre (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6305/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [150](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=150)
+- Scottish Tartans Authority (ITI): 6305
+
 ## Thread count
 W/2 K6 DB36 K18 R4 K18 G28 Y/6
 ![Sett](sett.png)

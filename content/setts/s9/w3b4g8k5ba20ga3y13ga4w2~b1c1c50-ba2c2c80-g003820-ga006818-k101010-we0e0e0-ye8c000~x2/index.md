@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Armagh County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7447/))
 - 01/05/2005 — Armagh County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4927))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4927](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4927)
+- Scottish Tartans Authority (ITI): 7447
+- Scottish Tartans World Register: 3075
+
 ## Thread count
 LN/6 DBa8 DG16 K10 DB40 G6 Y26 G8 LN/4
 ![Sett](sett.png)

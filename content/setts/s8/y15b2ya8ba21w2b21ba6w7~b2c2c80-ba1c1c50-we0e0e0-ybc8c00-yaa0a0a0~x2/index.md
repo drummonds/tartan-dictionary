@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Monaghan County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7412/))
 - 01/05/2005 — Monaghan County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5041))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5041](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5041)
+- Scottish Tartans Authority (ITI): 7412
+- Scottish Tartans World Register: 3096
+
 ## Thread count
 DY/30 DB4 N16 DBa42 LN4 DB42 DBa12 LN/14
 ![Sett](sett.png)

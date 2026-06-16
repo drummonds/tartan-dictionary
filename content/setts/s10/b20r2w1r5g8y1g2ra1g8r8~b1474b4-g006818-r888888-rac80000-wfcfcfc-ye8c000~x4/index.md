@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1994 — Connecticut, State of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2671/))
 - undated — Connecticut State American District Tartan Tartan Number: 2671. Earliest known date: 1994 An asymmetric tartan designed by three professors at Three Rivers Community College in Norwich, Connecticut - Brent A. Maynard (Professor of Nuclear Engineering Technology), Kathleen Swope and Noel Alexis. Adopted by legislature and signed into law by and Governor John Rowland, 22 May 1995. Blue is for the Long Island sound, green for the forests, red and yellow for the autumn leaves, grey for granite and white for snow. The offset white symbolises the irregularity of the Connecticut snowfall. Official count given as Blue-10, gray-2, white-1, gray-5, green-8, yellow-1, green-2, red-1, green-8, gray-8 and blue-10. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2671))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [744](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=744)
+- Scottish Tartans Authority (ITI): 2671
+- Scottish Tartans World Register: 2671
+
 ## Thread count
 B/80 Na8 Wa4 Na20 G32 Ya4 G8 Ra4 G32 Na/32
 ![Sett](sett.png)

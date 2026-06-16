@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2005 — Wells Red, Greg (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4594))
 - 2005 Feb. — Wells, Greg # 1 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6511/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4594](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4594)
+- Scottish Tartans Authority (ITI): 6511
+
 ## Thread count
 N/24 K4 N24 Y4 K24 LN2 K24 Y4 R24 K4 R/24
 ![Sett](sett.png)

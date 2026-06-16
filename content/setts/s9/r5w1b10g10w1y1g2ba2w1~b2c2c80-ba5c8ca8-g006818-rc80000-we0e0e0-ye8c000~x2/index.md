@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1800 — Mary, Queen of Scots (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2846))
 - 1800s — Mary, Queen of Scots (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5969/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2846](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2846)
+- Scottish Tartans Authority (ITI): 5969
+
 ## Thread count
 LN/2 B4 G4 Y2 LN2 G20 DB20 LN2 R/10
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Derry County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7442/))
 - 01/05/2005 — Derry County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5337))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5337](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5337)
+- Scottish Tartans Authority (ITI): 7442
+- Scottish Tartans World Register: 3080
+
 ## Thread count
 K/14 DB22 K5 DY11 K5 Y24 K11 DY11 R54 DY8 K/10
 ![Sett](sett.png)

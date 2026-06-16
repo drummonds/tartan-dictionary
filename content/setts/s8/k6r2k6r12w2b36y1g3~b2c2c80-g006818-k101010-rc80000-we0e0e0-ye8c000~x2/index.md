@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Fremont Presbyterian Church (P) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1280))
 - pre 2007 — Fremont Presbyterian Church (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7325/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1280](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1280)
+- Scottish Tartans Authority (ITI): 7325
+
 ## Thread count
 G/6 Y2 DB72 LN4 R24 K12 R4 K/12
 ![Sett](sett.png)

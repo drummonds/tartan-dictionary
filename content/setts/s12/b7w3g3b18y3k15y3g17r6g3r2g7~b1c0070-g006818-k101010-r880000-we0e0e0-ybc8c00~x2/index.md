@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Drennan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=975))
 - pre 2002 — Drennan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4710/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [975](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=975)
+- Scottish Tartans Authority (ITI): 4710
+
 ## Thread count
 DB/14 LN6 G6 DB36 DY6 K30 DY6 G34 DR12 G6 DR4 G/14
 ![Sett](sett.png)

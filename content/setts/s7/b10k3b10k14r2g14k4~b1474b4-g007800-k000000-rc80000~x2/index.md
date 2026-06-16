@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Fletcher #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1206))
 - pre 2002 — Fletcher (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/257/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1206)
+- Scottish Tartans Authority (ITI): 257
+- Scottish Tartans World Register: 257
+
 ## Thread count
 B/20 K6 B20 K28 R4 G28 K/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Fujitsu (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1286))
 - pre 2007 — Fujitsu (Corporate?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7248/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1286](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1286)
+- Scottish Tartans Authority (ITI): 7248
+
 ## Thread count
 LN/2 DB12 P18 DR24 K24 G64 K12 Y/2
 ![Sett](sett.png)

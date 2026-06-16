@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1893 — Fraser of Lovat (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1264))
 - 1893 — Fraser of Lovat (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/391/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1264](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1264)
+- Scottish Tartans Authority (ITI): 391
+- Scottish Tartans World Register: 391
+
 ## Thread count
 DB/4 R4 DB28 G28 R26 W4 R26 G28 R4 DB4 R4 DB/32
 ![Sett](sett.png)

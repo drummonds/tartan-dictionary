@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - May 2008 — West Virginia (US State) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7631/))
 - undated — West Virginia State American District Tartan Tartan Number: 7631. Earliest known date: May 2008 Adapted from 4252 - West Virginia Shawl by Dr Phil Smith and John A Grant III. Adopted by the West Virginia senate (HCR #29) on March 6th 2008. Part of the resolution reads: "Whereas, In order to complement our mountain state the color red is to represent the cardinal (State bird); yellow for the fall colors; dark blue for the mountain rivers and lakes; black for the black bear, coal and oil; green for the rhododendron and mountain meadows; azure for the sky above; and white to have all the colors of this great nation intertwined with the State of West Virginia; therefore, be it Resolved by the Legislature of West Virginia: That the adaption, as described above, of the West Virgina Shawl be designated the Official Tartan of the State of West Virginia." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7631))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5649](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5649)
+- Scottish Tartans Authority (ITI): 7631
+
 ## Thread count
 DY/8 G8 DB16 G16 B12 R54 LN2 K6 R54 G16 R16 DB16 G8 DY/8
 ![Sett](sett.png)

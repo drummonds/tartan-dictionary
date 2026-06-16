@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1935 — Canadian Irish Regiment (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=548))
 - pre 1935 — Canadian Irish Regiment (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1544/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [548](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=548)
+- Scottish Tartans Authority (ITI): 1544
+- Scottish Tartans World Register: 1544
+
 ## Thread count
 DY/200 T52 G6 R/4
 ![Sett](sett.png)

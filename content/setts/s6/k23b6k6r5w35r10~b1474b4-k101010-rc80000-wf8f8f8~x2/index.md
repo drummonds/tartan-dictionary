@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Merrilees Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2939))
 - pre 2000 — Merrilees Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6369/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2939](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2939)
+- Scottish Tartans Authority (ITI): 6369
+
 ## Thread count
 K/46 B12 K12 R10 W70 R/20
 ![Sett](sett.png)

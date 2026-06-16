@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1968 — Tweedside Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4168))
 - 1968 — Tweedside Htg (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/163/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4168](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4168)
+- Scottish Tartans Authority (ITI): 163
+- Scottish Tartans World Register: 163
+
 ## Thread count
 DB/72 G8 K8 G20 W8 G8 W8 G8 K/8
 ![Sett](sett.png)

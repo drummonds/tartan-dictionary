@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Canice-Moodie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=552))
 - 2002 — Canice-Moodie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4544/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [552](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=552)
+- Scottish Tartans Authority (ITI): 4544
+
 ## Thread count
 R/6 DB12 G10 DB2 G2 DB6 Y12 LN12 Y4 LN12 R/4
 ![Sett](sett.png)

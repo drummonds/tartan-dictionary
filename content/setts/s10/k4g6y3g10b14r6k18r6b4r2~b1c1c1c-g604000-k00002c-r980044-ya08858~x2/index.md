@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Tupper, Sir Charles (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4157))
 - pre 2002 — Tupper, Sir Charles (Commem) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/614/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4157](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4157)
+- Scottish Tartans Authority (ITI): 614
+- Scottish Tartans World Register: 614
+
 ## Thread count
 DB/8 T12 LT6 T20 K28 R12 DB36 R12 K8 R/4
 ![Sett](sett.png)

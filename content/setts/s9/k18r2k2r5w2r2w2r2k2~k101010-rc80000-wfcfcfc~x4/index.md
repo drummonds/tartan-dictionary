@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1840 — Tweedside Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4169))
 - 1840 — Tweedside Red (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1175/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4169](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4169)
+- Scottish Tartans Authority (ITI): 1175
+- Scottish Tartans World Register: 1175
+
 ## Thread count
 K/72 R8 K8 R20 W8 R8 W8 R8 K/8
 ![Sett](sett.png)

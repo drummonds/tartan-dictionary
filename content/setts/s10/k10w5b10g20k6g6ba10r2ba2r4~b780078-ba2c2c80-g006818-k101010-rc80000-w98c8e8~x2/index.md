@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2003 — Brotherston (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=388))
 - pre 2005 — Brotherston (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6710/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=388)
+- Scottish Tartans Authority (ITI): 6710
+- Scottish Tartans World Register: 2957
+
 ## Thread count
 K/20 LB10 P20 G40 K12 G12 DB20 R4 DB4 R/8
 ![Sett](sett.png)

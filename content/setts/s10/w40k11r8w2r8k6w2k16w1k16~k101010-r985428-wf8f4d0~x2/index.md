@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Lebrun (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2077))
 - pre 1972 — Lebrun (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5404/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2077](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2077)
+- Scottish Tartans Authority (ITI): 5404
+
 ## Thread count
 K/32 LY2 K32 LY4 K12 T16 LY4 T16 K22 LY/80
 ![Sett](sett.png)

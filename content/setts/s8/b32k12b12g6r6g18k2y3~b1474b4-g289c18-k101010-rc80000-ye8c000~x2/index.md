@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Gillies (House of Edgar) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1341))
 - pre 2002 — Gillies (House of Edgar) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/309/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1341](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1341)
+- Scottish Tartans Authority (ITI): 309
+- Scottish Tartans World Register: 309
+
 ## Thread count
 B/64 K24 B24 G12 R12 G36 K4 Y/6
 ![Sett](sett.png)

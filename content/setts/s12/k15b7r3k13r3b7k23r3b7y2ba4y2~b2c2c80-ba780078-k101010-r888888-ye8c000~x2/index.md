@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2004 — Apache (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=101))
 - 2004 Nov — Apache (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6447/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [101](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=101)
+- Scottish Tartans Authority (ITI): 6447
+
 ## Thread count
 K/30 DB14 N6 K26 N6 DB14 K46 N6 DB14 Y4 P8 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Mars (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3817/))
 - undated — Mars (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5416))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5416](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5416)
+- Scottish Tartans Authority (ITI): 3817
+
 ## Thread count
 DR/32 G32 DR16 K16 Y6 K6 DB6 K6 Y6 DR28 W/6
 ![Sett](sett.png)

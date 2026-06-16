@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Tipperary County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7433/))
 - 01/05/2005 — Tipperary County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5051))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5051](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5051)
+- Scottish Tartans Authority (ITI): 7433
+- Scottish Tartans World Register: 3100
+
 ## Thread count
 DR/10 N36 K24 DR30 DY8 K16 LN18 DB16 DY/9
 ![Sett](sett.png)

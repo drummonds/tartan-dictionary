@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1750/1819 — Campbell of Breadalbane (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1046/))
 - 01/01/1819 — Campbell of Breadalbane #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=517))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [517](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=517)
+- Scottish Tartans Authority (ITI): 1046
+- Scottish Tartans World Register: 1046
+
 ## Thread count
 K/6 DB18 K18 G18 Y4 G18 K/18
 ![Sett](sett.png)

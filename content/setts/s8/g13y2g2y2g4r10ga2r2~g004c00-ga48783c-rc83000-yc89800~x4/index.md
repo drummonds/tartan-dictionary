@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Oakwood (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3210))
 - pre 2002 — Oakwood (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5532/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3210](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3210)
+- Scottish Tartans Authority (ITI): 5532
+
 ## Thread count
 G/52 DY8 G8 DY8 G16 R40 Ga8 R/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — Sail Chalmadale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3637))
 - June 2007 — Sail Chalmadale (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7217/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3637](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3637)
+- Scottish Tartans Authority (ITI): 7217
+
 ## Thread count
 DB/8 LN2 DB34 DR56 DP34 R/4
 ![Sett](sett.png)

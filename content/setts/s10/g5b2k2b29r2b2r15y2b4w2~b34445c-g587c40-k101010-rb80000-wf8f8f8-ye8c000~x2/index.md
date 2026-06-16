@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Bro-Naoned (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=378))
 - 2005 May — Bro-Naoned (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6648/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [378](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=378)
+- Scottish Tartans Authority (ITI): 6648
+
 ## Thread count
 G/10 N4 K4 N58 R4 N4 R30 Y4 N8 W/4
 ![Sett](sett.png)

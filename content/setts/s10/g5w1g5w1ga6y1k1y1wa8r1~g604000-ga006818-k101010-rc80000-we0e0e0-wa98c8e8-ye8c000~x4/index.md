@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 10/08/2002 — Glendale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1408))
 - 2006 October — Glendale (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7020/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1408](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1408)
+- Scottish Tartans Authority (ITI): 7020
+- Scottish Tartans World Register: 2915
+
 ## Thread count
 R/4 LB32 Y4 K4 Y4 G24 LN4 T20 LN4 T/20
 ![Sett](sett.png)

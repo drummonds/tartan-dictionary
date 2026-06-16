@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Montmorency (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2992))
 - pre 2002 — Montmorency (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/103/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2992](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2992)
+- Scottish Tartans Authority (ITI): 103
+- Scottish Tartans World Register: 103
+
 ## Thread count
 DB/42 G4 DB6 G4 DB4 G28 K30 G8 K30 G28 DB28 G4 DB/6
 ![Sett](sett.png)

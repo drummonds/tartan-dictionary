@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Alexander of Menstry Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=49))
 - 2002 — Alexander of Menstry Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6715/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [49](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=49)
+- Scottish Tartans Authority (ITI): 6715
+
 ## Thread count
 P/10 Ga4 P4 Ga52 K18 N18 LB26 W/10
 ![Sett](sett.png)

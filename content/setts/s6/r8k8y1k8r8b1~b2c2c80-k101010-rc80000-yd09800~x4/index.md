@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Skinner (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3810))
 - undated — Skinner Family Tartan Tartan Number: 2341. Earliest known date: 1880 circa A tartan worn by a John Skinner in 1941. He was born in Dundee 1873. His grandson (John H Beech?) wished the tartan identified and recorded. It is a Wallace variant, with a blue substituted for the black overcheck.. Safe enough now for wear by all Skinners. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2341))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3810](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3810)
+- Scottish Tartans Authority (ITI): 2341
+- Scottish Tartans World Register: 2341
+
 ## Thread count
 DBa/4 R32 K32 DY4 K32 R/32
 ![Sett](sett.png)

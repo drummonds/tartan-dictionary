@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2003 — Made in Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2779))
 - pre 2004 — Made in Scotland (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6210/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2779](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2779)
+- Scottish Tartans Authority (ITI): 6210
+- Scottish Tartans World Register: 2967
+
 ## Thread count
 P/4 K4 B4 K2 B4 K2 B4 K2 B4 K2 B40 O4 B40 K2 B4 K2 B4 K2 B4 K2 B4 K18 W/6
 ![Sett](sett.png)

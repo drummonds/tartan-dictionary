@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 05/07/2002 — Pride of Fife (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3371))
 - 2002 — Pride of Fife (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3123/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3371](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3371)
+- Scottish Tartans Authority (ITI): 3123
+- Scottish Tartans World Register: 2752
+
 ## Thread count
 DB/4 B4 DP12 DB74 DR10 DP4 B4 DP32 W4 DB/4
 ![Sett](sett.png)

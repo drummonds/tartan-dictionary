@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1907 — Carmichael (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=565))
 - 1907 — Carmichael 1907 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1078/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [565](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=565)
+- Scottish Tartans Authority (ITI): 1078
+- Scottish Tartans World Register: 1078
+
 ## Thread count
 K/10 G64 DB64 R6 DB6 Y/6
 ![Sett](sett.png)

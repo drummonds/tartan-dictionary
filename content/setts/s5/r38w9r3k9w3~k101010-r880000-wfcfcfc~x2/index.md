@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Loch Morar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2154))
 - pre 2002 — Loch Morar (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1701/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2154](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2154)
+- Scottish Tartans Authority (ITI): 1701
+- Scottish Tartans World Register: 1701
+
 ## Thread count
 DR/76 W18 DR6 K18 W/6
 ![Sett](sett.png)

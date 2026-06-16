@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 28/08/1997 — St Andrews Links (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3880))
 - May 1997 — St. Andrews Links (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2391/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3880](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3880)
+- Scottish Tartans Authority (ITI): 2391
+- Scottish Tartans World Register: 2391
+
 ## Thread count
 DN/32 G8 DN6 G6 DY4 G48 DR/4
 ![Sett](sett.png)

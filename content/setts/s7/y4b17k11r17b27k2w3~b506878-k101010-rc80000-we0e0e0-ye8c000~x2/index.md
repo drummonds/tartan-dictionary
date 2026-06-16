@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2000 — MacNamara (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2673))
 - May 2000 — MacNamara (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6432/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2673](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2673)
+- Scottish Tartans Authority (ITI): 6432
+
 ## Thread count
 LN/6 K4 N54 R34 K22 N34 Y/8
 ![Sett](sett.png)

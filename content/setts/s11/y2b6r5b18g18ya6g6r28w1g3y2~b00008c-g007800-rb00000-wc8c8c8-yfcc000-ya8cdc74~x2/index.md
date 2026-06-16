@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Carr (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=574))
 - pre 2002 — Carr (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4120/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [574](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=574)
+- Scottish Tartans Authority (ITI): 4120
+
 ## Thread count
 Y/4 DB12 DR10 DB36 G36 LG12 G12 DR56 N2 G6 Y/4
 ![Sett](sett.png)

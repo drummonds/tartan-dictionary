@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Cargill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138))
 - 1880 — Cargill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3132/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5138](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138)
+- Scottish Tartans Authority (ITI): 3132
+
 ## Thread count
 DB/4 G4 DB24 K24 G4 K24 G4 DB8 G4 DB12 G/4
 ![Sett](sett.png)

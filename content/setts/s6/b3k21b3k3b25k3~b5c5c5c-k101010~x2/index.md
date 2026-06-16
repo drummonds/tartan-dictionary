@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Slanj, Grey (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7840/))
 - undated — Slanj, Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5792))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5792](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5792)
+- Scottish Tartans Authority (ITI): 7840
+
 ## Thread count
 K/6 N50 K6 N6 K42 N/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Longford, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2201))
 - 1997 — Longford, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2281/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2201](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2201)
+- Scottish Tartans Authority (ITI): 2281
+- Scottish Tartans World Register: 2281
+
 ## Thread count
 DB/10 K6 DB36 DG12 K12 DG12 T24 R10 T24 R/6
 ![Sett](sett.png)

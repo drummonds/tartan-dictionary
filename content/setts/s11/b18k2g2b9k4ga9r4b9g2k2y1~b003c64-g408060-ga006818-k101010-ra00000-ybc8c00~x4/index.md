@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Amarillo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5262))
 - 1996 — Amarillo (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3622/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5262](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5262)
+- Scottish Tartans Authority (ITI): 3622
+
 ## Thread count
 DB/72 K8 Ga8 DB36 K16 G36 DR16 DB36 Ga8 K8 DY/4
 ![Sett](sett.png)

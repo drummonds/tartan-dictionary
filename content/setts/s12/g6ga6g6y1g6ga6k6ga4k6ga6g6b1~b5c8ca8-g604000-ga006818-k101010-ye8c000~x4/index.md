@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — Buchanan Hunting (Scott Adie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428))
 - pre 1850 — Buchanan Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2019/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [428](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428)
+- Scottish Tartans Authority (ITI): 2019
+- Scottish Tartans World Register: 2019
+
 ## Thread count
 B/4 T24 G24 K24 G16 K24 G24 T24 Y4 T24 G24 T/24
 ![Sett](sett.png)

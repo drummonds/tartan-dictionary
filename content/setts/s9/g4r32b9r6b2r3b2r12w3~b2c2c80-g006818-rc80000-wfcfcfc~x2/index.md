@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — Rose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3547))
 - 1842 — Rose - 1842 (VS Plate) Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/845/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3547](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3547)
+- Scottish Tartans Authority (ITI): 845
+- Scottish Tartans World Register: 845
+
 ## Thread count
 G/8 R64 DB18 R12 DB4 R6 DB4 R24 W/6
 ![Sett](sett.png)

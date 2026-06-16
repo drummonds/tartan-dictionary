@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - April 2003 — Irish Diaspora (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5827/))
 - undated — Irish Diaspora District Tartan Tartan Number: 5827. Earliest known date: 2003 An assymetric tartan designed by Erica Randall of The House of Edgar in Perth for all those of Irish descent at home in Ireland and around the world. The central stripes incorporate the colours of the Republic of Ireland flag. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5827))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1853](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853)
+- Scottish Tartans Authority (ITI): 5827
+
 ## Thread count
 Ba/28 K6 Ba28 K20 G80 K2 Ga6 K2 LN6 K2 DO6 K2 G80 K/20
 ![Sett](sett.png)

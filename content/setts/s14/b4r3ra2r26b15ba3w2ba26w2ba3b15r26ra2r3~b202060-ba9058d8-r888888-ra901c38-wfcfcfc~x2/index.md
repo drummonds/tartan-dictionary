@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/1997 — Scottish Highlander Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3723))
 - undated — Scottish Highlander Universal Tartan Tartan Number: 2408. Earliest known date: pre 2002 Designed for Gavin Kiltmakers & Dress Hire of Fraserburgh (01346 516039) for their kilt hire range. Based on the Grampian tartan with Maroon and Lavender added for heather and thistles. Will supply the tartan to other kiltmakers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2408))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3723](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3723)
+- Scottish Tartans Authority (ITI): 2408
+- Scottish Tartans World Register: 2408
+
 ## Thread count
 DB/8 N6 DR4 N52 DB30 P6 W4 P52 W4 P6 DB30 N52 DR4 N/6
 ![Sett](sett.png)

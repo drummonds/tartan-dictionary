@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Caledonian Oriental Airlines (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=475))
 - 2003 — Caledonian Orient (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6029/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [475](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=475)
+- Scottish Tartans Authority (ITI): 6029
+
 ## Thread count
 DY/8 P50 K26 P10 K6 P10 K6 P20 K26 R6 K/8
 ![Sett](sett.png)

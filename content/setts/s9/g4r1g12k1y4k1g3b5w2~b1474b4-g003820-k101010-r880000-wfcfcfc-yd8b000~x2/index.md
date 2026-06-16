@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Lees-McRae College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2084))
 - 1999 — Lees-McRae College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4130/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2084](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2084)
+- Scottish Tartans Authority (ITI): 4130
+
 ## Thread count
 DG/8 DR2 DG24 K2 Y8 K2 DG6 B10 W/4
 ![Sett](sett.png)

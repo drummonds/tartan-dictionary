@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Largs Dress (1972) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2052))
 - 1972 — Laronde (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5392/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2052](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2052)
+- Scottish Tartans Authority (ITI): 5392
+
 ## Thread count
 K/108 N4 K4 LT18 K4 LT18 K2 N4 K18 R16 K4 R16 K8 LT/4
 ![Sett](sett.png)

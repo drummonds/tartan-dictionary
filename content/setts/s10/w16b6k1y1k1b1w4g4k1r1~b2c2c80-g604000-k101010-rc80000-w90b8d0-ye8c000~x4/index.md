@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/1996 — Kirk in the Hills (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2004))
 - 1997 — Kirk in the Hills (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2318/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2004](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2004)
+- Scottish Tartans Authority (ITI): 2318
+- Scottish Tartans World Register: 2318
+
 ## Thread count
 LB/64 DB24 K4 Y4 K4 DB4 LB16 T16 K4 R/4
 ![Sett](sett.png)

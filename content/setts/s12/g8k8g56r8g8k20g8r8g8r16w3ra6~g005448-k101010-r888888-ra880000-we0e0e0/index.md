@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1995 — Kelly of Sleat Hunting (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3871/))
 - undated — Kelly of Sleat Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5143))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5143)
+- Scottish Tartans Authority (ITI): 3871
+
 ## Thread count
 DR/6 LN3 N16 G8 N8 G8 K20 G8 N8 G56 K8 G/8
 ![Sett](sett.png)

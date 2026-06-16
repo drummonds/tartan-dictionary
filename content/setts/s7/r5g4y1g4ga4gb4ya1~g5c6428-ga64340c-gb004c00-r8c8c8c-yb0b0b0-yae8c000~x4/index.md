@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1984 — Devon, Green (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1284/))
 - 01/01/1990 — Devon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=920))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [920](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=920)
+- Scottish Tartans Authority (ITI): 1284
+- Scottish Tartans World Register: 1284
+
 ## Thread count
 Na/20 Ga16 N4 Ga16 T16 G16 Y/4
 ![Sett](sett.png)

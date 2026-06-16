@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Glen Nevis #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1391))
 - 1994 — Glen Nevis #3 (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5018/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1391](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1391)
+- Scottish Tartans Authority (ITI): 5018
+
 ## Thread count
 DRa/4 G4 DB24 G14 DR6 G4 DR4 G/28
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Canna (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=554))
 - pre 2002 — Canna (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4451/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [554](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=554)
+- Scottish Tartans Authority (ITI): 4451
+
 ## Thread count
 LY/128 DRc36 DY4 DRc8 LY4 DRc8 DR28 LT16 DRc4 LT8 LY/4
 ![Sett](sett.png)

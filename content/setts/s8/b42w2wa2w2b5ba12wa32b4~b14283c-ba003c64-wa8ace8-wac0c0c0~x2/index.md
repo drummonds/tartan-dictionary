@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Longniddry Blue (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2205))
 - pre 2002 — Longniddry, Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5486/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2205](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2205)
+- Scottish Tartans Authority (ITI): 5486
+
 ## Thread count
 DN/84 LP4 N4 LP4 DN10 DB24 N64 DN/8
 ![Sett](sett.png)

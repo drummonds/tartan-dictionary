@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Swan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4054))
 - pre 2002 — Swan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5164/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4054](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4054)
+- Scottish Tartans Authority (ITI): 5164
+
 ## Thread count
 B/12 K8 B72 K72 N8 K/12
 ![Sett](sett.png)

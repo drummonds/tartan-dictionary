@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Princess Beatrice Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3399))
 - pre 2002 — Princess Beatrice Htg (STS) (Fashion (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/545/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3399](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3399)
+- Scottish Tartans Authority (ITI): 545
+- Scottish Tartans World Register: 545
+
 ## Thread count
 DBa/10 G5 DBa5 G60 DBa13 G10 DB67 G5 K5 G5 K5 G13 Y/10
 ![Sett](sett.png)

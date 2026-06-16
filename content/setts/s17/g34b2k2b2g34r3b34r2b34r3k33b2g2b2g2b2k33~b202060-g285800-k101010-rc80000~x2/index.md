@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1996 — Lumsden Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2245))
 - 1997 — Lumsden Hunting (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2366/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2245](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2245)
+- Scottish Tartans Authority (ITI): 2366
+- Scottish Tartans World Register: 2366
+
 ## Thread count
 G/68 DB4 K4 DB4 G68 R6 DB68 R4 DB68 R6 K66 DB4 G4 DB4 G4 DB4 K/66
 ![Sett](sett.png)

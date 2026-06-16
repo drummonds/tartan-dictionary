@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2002 — Edwards (Welsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5731/))
 - undated — Edwards Welsh Name Tartan Tartan Number: 5731. Earliest known date: 2002 The tartan for this Welsh surname and its variations, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5731))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1088](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1088)
+- Scottish Tartans Authority (ITI): 5731
+- Scottish Tartans World Register: 2988
+
 ## Thread count
 N/2 DB4 B2 DB40 N9 DB4 N7 DB4 N/37
 ![Sett](sett.png)

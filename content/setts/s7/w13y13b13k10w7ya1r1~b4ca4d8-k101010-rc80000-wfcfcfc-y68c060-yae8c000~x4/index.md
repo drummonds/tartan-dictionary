@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2000 — Lachine Historic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020))
 - pre 2004 — Lachine (Historic) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6203/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2020](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020)
+- Scottish Tartans Authority (ITI): 6203
+- Scottish Tartans World Register: 2911
+
 ## Thread count
 R/4 Y4 W28 K40 B52 LG52 W/52
 ![Sett](sett.png)

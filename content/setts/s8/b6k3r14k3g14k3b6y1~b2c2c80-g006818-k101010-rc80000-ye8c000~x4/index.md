@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Kilgour (Asymmetrical) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1968))
 - 1880 — Kilgour (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1979/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1968](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1968)
+- Scottish Tartans Authority (ITI): 5348
+
 ## Thread count
 DBa/24 K12 R56 K12 G56 K12 DBa24 Y/4
 ![Sett](sett.png)

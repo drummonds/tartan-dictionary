@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Fleming/Frisken/Flanders (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204))
 - 1997 — Fleming/Frisken/Flanders (Commem.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2531/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1204](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204)
+- Scottish Tartans Authority (ITI): 2531
+- Scottish Tartans World Register: 2531
+
 ## Thread count
 DB/32 K6 DB6 K6 DB6 K32 DB34 K4 Y8 K4 DB34 K32 DB34 K4 LN/8
 ![Sett](sett.png)

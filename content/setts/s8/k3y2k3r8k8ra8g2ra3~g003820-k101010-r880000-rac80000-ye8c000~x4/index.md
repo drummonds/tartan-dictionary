@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Davis (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898))
 - 2003 — Davis (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5770/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [898](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898)
+- Scottish Tartans Authority (ITI): 5770
+
 ## Thread count
 K/12 Y8 K12 DR32 K32 R32 DG8 R/12
 ![Sett](sett.png)

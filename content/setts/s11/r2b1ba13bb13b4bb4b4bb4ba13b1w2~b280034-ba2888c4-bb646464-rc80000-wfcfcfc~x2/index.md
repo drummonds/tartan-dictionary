@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Toronto Blue Jays (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4139))
 - 1996 — Toronto Blue Jays (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5103/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4139](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4139)
+- Scottish Tartans Authority (ITI): 5103
+
 ## Thread count
 R/4 DP2 B26 N26 DP8 N8 DP8 N8 B26 DP2 W/4
 ![Sett](sett.png)

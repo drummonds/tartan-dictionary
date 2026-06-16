@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/1981 — Leask (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2076))
 - April 1981 — Leask (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/905/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2076](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2076)
+- Scottish Tartans Authority (ITI): 905
+- Scottish Tartans World Register: 905
+
 ## Thread count
 G/8 R4 LN2 R4 K2 R48 G24 Y4 G6 Y4 G24 R4 G6 Y/8
 ![Sett](sett.png)

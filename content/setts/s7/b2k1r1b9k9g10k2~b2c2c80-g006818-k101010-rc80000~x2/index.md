@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Reid and Taylor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3493))
 - 1984 — Reid & Taylor (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/355/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3493](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3493)
+- Scottish Tartans Authority (ITI): 355
+- Scottish Tartans World Register: 355
+
 ## Thread count
 DB/4 K2 R2 DB18 K18 G20 K/4
 ![Sett](sett.png)

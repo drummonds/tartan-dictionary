@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — MacDonald of Lochmaddy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2365))
 - 1950? — MacDonald of Lochmaddy (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/971/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2365](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2365)
+- Scottish Tartans Authority (ITI): 971
+- Scottish Tartans World Register: 971
+
 ## Thread count
 DG/6 R4 DG2 R32 W2 LB4 R4 DB8 R4 LB4 W2 R4 DG28 R4 LB4 W2 R/26
 ![Sett](sett.png)

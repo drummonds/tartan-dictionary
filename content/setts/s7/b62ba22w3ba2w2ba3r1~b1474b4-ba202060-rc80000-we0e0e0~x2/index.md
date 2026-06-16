@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1996 — North Tyneside Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3155))
 - July 1996 — North Tyneside (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2351/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3155](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3155)
+- Scottish Tartans Authority (ITI): 2351
+- Scottish Tartans World Register: 2351
+
 ## Thread count
 B/124 DB44 LN6 DB4 LN4 DB6 R/2
 ![Sett](sett.png)

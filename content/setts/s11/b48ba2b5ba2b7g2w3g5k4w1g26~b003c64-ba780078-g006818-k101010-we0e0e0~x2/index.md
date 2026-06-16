@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - July 2007 — Spirit of West Lothian (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7256/))
 - undated — Spirit of West Lothian Corporate Tartan Tartan Number: 7256. Earliest known date: July 2007 Designed by Kirsty Anderson of the House of Edgar for the Kilt Centre of Hamilton, but copyright later assigned to West Lothian Council. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7256))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3868](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3868)
+- Scottish Tartans Authority (ITI): 7256
+
 ## Thread count
 DB/96 P4 DB10 P4 DB14 G4 LN6 G10 K8 LN2 G/52
 ![Sett](sett.png)

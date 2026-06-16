@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Munster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3052))
 - 1997 — Munster (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4061/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3052](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3052)
+- Scottish Tartans Authority (ITI): 4061
+
 ## Thread count
 B/8 R4 B6 G2 B2 G4 B36 R2 K24 Ga42 B2 K6 Ga2 K4 Ga8 R/4
 ![Sett](sett.png)

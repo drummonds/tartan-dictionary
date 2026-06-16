@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Wilson's No.053 #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4658))
 - 01/01/1819 — Wilson's No.118 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4684))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4684)
+- Scottish Tartans Authority (ITI): 1075
+- Scottish Tartans World Register: 1075
+
 ## Thread count
 G/8 K10 G8 Y/2
 ![Sett](sett.png)

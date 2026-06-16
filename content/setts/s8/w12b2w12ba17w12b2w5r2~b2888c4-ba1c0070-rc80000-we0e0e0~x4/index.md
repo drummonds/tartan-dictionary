@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Milne Royal Blue Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2957))
 - pre 2005 — Milne Dress, Royal Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6547/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2957](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2957)
+- Scottish Tartans Authority (ITI): 6547
+
 ## Thread count
 LN/48 B8 LN48 DB68 LN48 B8 LN20 R/8
 ![Sett](sett.png)

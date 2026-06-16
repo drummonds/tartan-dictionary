@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Spare (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3853))
 - undated — Spare #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3854))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3854](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3854)
+- Scottish Tartans World Register: 1447
+
 ## Thread count
 LN/5 R/5
 ![Sett](sett.png)

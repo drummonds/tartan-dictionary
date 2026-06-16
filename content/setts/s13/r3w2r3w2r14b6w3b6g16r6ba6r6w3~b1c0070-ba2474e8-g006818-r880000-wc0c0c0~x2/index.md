@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Ritchie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3514))
 - pre 2002 — Ritchie (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5412/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3514](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3514)
+- Scottish Tartans Authority (ITI): 5412
+
 ## Thread count
 DR/6 N4 DR6 N4 DR28 DB12 N6 DB12 G32 DR12 B12 DR12 N/6
 ![Sett](sett.png)

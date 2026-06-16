@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1978 — Prince of Wales (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3306/))
 - 01/01/1998 — Prince of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3396))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3396](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3396)
+- Scottish Tartans Authority (ITI): 3306
+- Scottish Tartans World Register: 2715
+
 ## Thread count
 G/12 R24 G8 R4 G8 R4 G64 LN4 G8 LN/12
 ![Sett](sett.png)

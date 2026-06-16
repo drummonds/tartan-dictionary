@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Ferring Pharmaceuticals (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172))
 - 2003 — Ferring Pharmaceuticals (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6111/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1172](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172)
+- Scottish Tartans Authority (ITI): 6111
+
 ## Thread count
 LB/12 Ba4 DBa8 DB24 Ba96 DB16 Bb16 B20 Bb18 DB16 Bb48 DB16 Ba12 DB8 LB/8
 ![Sett](sett.png)

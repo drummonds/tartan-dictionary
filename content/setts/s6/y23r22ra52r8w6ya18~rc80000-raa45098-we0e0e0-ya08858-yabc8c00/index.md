@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — Lady Boys of Bangkok (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7142/))
 - undated — Lady Boys of Bangkok (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5075))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5075](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5075)
+- Scottish Tartans Authority (ITI): 7142
+- Scottish Tartans World Register: 3069
+
 ## Thread count
 DY/18 LN6 R8 P52 R22 LT/23
 ![Sett](sett.png)

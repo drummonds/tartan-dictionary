@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1975 — McAvoy (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2869))
 - 1975 — McAvoy (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6687/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2869](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2869)
+- Scottish Tartans Authority (ITI): 6687
+
 ## Thread count
 LN/4 DB44 R2 DB8 G34 LN2 G10 K4 G10 Y/6
 ![Sett](sett.png)

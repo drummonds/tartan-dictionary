@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2004 — Kinloch of Loch Awe (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5340))
 - pre 2005 — Kinloch at Loch Awe (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6731/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5340](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5340)
+- Scottish Tartans Authority (ITI): 6731
+- Scottish Tartans World Register: 3027
+
 ## Thread count
 K/2 P6 B4 N58 W/36
 ![Sett](sett.png)

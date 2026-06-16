@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Bank of Scotland (2000) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3649/))
 - undated — Bank of Scotland 2000 Corporate Tartan Tartan Number: 3650. Earliest known date: 2002 Designed by Betty Davies, Principal and Head Designer, Scottish Fashion International. Different warp from weft. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3650))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4945](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4945)
+- Scottish Tartans Authority (ITI): 3649
+
 ## Thread count
 B/128 DBa6 DN8 DR10 DN16 DB24 B6 DB8 B4 DY/2
 ![Sett](sett.png)

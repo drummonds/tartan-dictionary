@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Bro-Wened (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=390))
 - 2005 May — Bro-Wened (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6651/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [390](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=390)
+- Scottish Tartans Authority (ITI): 6651
+
 ## Thread count
 DB/6 LY30 K6 LY6 DR20 K/86
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Miyuki #4 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2970))
 - 1998 — Miyuki #4 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2605/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2970](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2970)
+- Scottish Tartans Authority (ITI): 2605
+- Scottish Tartans World Register: 2605
+
 ## Thread count
 LT/6 T16 LT6 T40 LT40 R6 LT16 R/6
 ![Sett](sett.png)

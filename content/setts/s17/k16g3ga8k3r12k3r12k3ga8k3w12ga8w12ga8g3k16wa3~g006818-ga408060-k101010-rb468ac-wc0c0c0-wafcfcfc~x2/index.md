@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — St. Margaret's School Edinburgh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3900))
 - pre 2004 — St. Margaret's (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6232/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3900](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3900)
+- Scottish Tartans Authority (ITI): 6232
+- Scottish Tartans World Register: 2942
+
 ## Thread count
 K/32 Ga6 G16 K6 P24 K6 P24 K6 G16 K6 N24 G16 N24 G16 Ga6 K32 W/6
 ![Sett](sett.png)

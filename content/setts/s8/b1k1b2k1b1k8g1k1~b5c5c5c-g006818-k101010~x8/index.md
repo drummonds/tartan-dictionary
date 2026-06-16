@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Nightstalker (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7796/))
 - undated — Nightstalker (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5760))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5760](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5760)
+- Scottish Tartans Authority (ITI): 7796
+
 ## Thread count
 K/8 G8 K64 N8 K8 N16 K8 N/8
 ![Sett](sett.png)

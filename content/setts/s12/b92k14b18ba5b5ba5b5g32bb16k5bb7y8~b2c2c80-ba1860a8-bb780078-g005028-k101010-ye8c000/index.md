@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Bavidge (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=230))
 - 1998 — Bavidge (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2488/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [230](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=230)
+- Scottish Tartans Authority (ITI): 2488
+- Scottish Tartans World Register: 2488
+
 ## Thread count
 DB/92 K14 DB18 B5 DB5 B5 DB5 G32 P16 K5 P7 Y/8
 ![Sett](sett.png)

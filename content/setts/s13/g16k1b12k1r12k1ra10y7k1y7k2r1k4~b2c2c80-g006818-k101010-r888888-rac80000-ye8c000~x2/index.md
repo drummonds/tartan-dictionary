@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1991 — Ville de Beauport (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2192/))
 - undated — Ville de Beauport District Canadian Tartan Tartan Number: 2192. Earliest known date: 1991 District tartan for the town of Ville de Beauport - east of Quebec City on the St Lawrence River. Tartan approved in 1991 by Jaques Langlois, Mayor of Beauport. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2192))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4461](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4461)
+- Scottish Tartans Authority (ITI): 2192
+- Scottish Tartans World Register: 2192
+
 ## Thread count
 G/32 K2 DB24 K2 N24 K2 R20 Y14 K2 Y14 K4 N2 K/8
 ![Sett](sett.png)

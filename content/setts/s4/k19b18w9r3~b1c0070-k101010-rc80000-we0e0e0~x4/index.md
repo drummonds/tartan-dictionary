@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1995 — Raven (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7536/))
 - undated — Raven (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5571))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5571](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5571)
+- Scottish Tartans Authority (ITI): 7536
+
 ## Thread count
 K/76 DB72 LN36 R/12
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Miramichi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962))
 - 1996 — Miramichi (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5678/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2962](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962)
+- Scottish Tartans Authority (ITI): 5678
+
 ## Thread count
 DG/62 DY2 DG36 DB36 DR/2
 ![Sett](sett.png)

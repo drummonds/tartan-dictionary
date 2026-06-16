@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Nov 2003 — Dress Watch (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6069/))
 - undated — Dress Watch (Fashion) Fashion Tartan Tartan Number: 6069. Earliest known date: Nov 2003 Introduced as a fashion tartan by the House of Edgar to provide a photogenic pattern similar to the Black Watch. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6069))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [976](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=976)
+- Scottish Tartans Authority (ITI): 6069
+
 ## Thread count
 DB/8 K6 DB36 K36 G36 DB2 G4 W/8
 ![Sett](sett.png)

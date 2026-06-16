@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2005 — East of Scotland Tartan Army (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1069))
 - August 2005 — East of Scotland Tartan Army (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6719/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1069](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1069)
+- Scottish Tartans Authority (ITI): 6719
+
 ## Thread count
 DN/40 Y10 DN8 R20 DN100 W/5
 ![Sett](sett.png)

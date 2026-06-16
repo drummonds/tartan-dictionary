@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Skye, Green (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7601/))
 - undated — Skye Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5625))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5625)
+- Scottish Tartans Authority (ITI): 7601
+
 ## Thread count
 LY/8 G42 W72 N2 W4 N/8
 ![Sett](sett.png)

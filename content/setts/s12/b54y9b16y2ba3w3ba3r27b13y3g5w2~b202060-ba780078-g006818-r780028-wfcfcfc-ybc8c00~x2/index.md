@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1966 — Queen's University Ont. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2103/))
 - 01/01/2002 — Queens University Kingston Ontario (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3429))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3429](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3429)
+- Scottish Tartans Authority (ITI): 2103
+- Scottish Tartans World Register: 2103
+
 ## Thread count
 DB/108 DY18 DB32 DY4 P6 W6 P6 DR54 DB26 DY6 G10 W/4
 ![Sett](sett.png)

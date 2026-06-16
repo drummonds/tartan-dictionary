@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Sept. 2008 — Merise and Lars (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7743/))
 - undated — Merise and Lars (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5724))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5724](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5724)
+- Scottish Tartans Authority (ITI): 7743
+
 ## Thread count
 N/6 LT6 N24 DBa4 LT4 O4 LT16 DBa4 DB24 P16 DBa4 P/4
 ![Sett](sett.png)

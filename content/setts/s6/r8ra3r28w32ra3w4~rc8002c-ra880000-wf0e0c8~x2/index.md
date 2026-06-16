@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Ailsa, Red V2 (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7571/))
 - undated — Ailsa Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5595))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5595](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5595)
+- Scottish Tartans Authority (ITI): 7571
+
 ## Thread count
 R/16 DR6 R56 W64 DR6 W/8
 ![Sett](sett.png)

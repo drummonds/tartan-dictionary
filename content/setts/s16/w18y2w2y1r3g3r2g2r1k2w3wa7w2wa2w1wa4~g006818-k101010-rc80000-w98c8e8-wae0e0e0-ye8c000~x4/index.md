@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/2003 — Inverness County (Canada) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1844))
 - Oct 2003 — Inverness County (Canada) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6164/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1844](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1844)
+- Scottish Tartans Authority (ITI): 6164
+
 ## Thread count
 LB/72 Y8 LB8 Y4 R12 G12 R8 G8 R4 K8 LB12 LN28 LB8 LN8 LB4 LN/16
 ![Sett](sett.png)

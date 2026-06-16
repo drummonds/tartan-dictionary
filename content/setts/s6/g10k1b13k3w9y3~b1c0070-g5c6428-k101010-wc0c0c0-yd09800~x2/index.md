@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Inverary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1838))
 - pre 2002 — Inverary (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/772/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1838](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1838)
+- Scottish Tartans Authority (ITI): 772
+- Scottish Tartans World Register: 772
+
 ## Thread count
 DY/6 N18 K6 DB26 K2 G/20
 ![Sett](sett.png)

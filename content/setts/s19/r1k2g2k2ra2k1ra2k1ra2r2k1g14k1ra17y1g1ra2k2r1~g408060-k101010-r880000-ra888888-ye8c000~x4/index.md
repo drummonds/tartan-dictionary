@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1957 — Craig (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=785))
 - 1957 — Craig (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1574/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [785](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=785)
+- Scottish Tartans Authority (ITI): 1574
+- Scottish Tartans World Register: 1574
+
 ## Thread count
 DR/4 K8 G8 K8 N8 K4 N8 K4 N8 DR8 K4 G56 K4 N68 Y4 G4 N8 K8 DR/4
 ![Sett](sett.png)

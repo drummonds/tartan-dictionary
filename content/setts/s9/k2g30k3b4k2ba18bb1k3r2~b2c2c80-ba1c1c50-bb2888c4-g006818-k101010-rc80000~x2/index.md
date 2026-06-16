@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — Lusk (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2252))
 - June 2007 — Lusk (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7228/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2252](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2252)
+- Scottish Tartans Authority (ITI): 7228
+
 ## Thread count
 K/4 G60 K6 DBa8 K4 DB36 B2 K6 R/4
 ![Sett](sett.png)

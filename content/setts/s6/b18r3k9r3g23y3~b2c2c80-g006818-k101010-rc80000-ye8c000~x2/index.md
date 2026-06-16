@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - September 1996 — Royal College of Physicians (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2350/))
 - 01/01/1997 — Royal College of Physicians of Edinburgh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3597))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3597](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3597)
+- Scottish Tartans Authority (ITI): 2350
+- Scottish Tartans World Register: 2350
+
 ## Thread count
 DB/36 R6 K18 R6 G46 Y/6
 ![Sett](sett.png)

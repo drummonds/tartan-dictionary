@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2000 — Madewell Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2782))
 - 2000 — Madewell Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4051/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2782](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2782)
+- Scottish Tartans Authority (ITI): 4051
+- Scottish Tartans World Register: 2719
+
 ## Thread count
 LN/4 K4 Y4 G12 DG26 LN32 K4 R/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Morgan of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3013))
 - undated — Morgan Welsh Name Tartan Tartan Number: 5760. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Morgaine, Morgan, Morgant, Morgans, Morgen, Morgun, Morrgun, Morgraunt, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5760))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3013](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3013)
+- Scottish Tartans Authority (ITI): 5760
+
 ## Thread count
 DRa/4 Y34 DR20 Y4 DR8 Y6 R2 Y5 DR2 Y3 DRa/4
 ![Sett](sett.png)

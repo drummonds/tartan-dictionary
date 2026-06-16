@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1740 — Leslie, Hebridean (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2105))
 - 1740 C — Leslie, Hebridean (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1111/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2105](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2105)
+- Scottish Tartans Authority (ITI): 1111
+- Scottish Tartans World Register: 1111
+
 ## Thread count
 K/12 G30 LN4 DB44 LR4 K/8
 ![Sett](sett.png)

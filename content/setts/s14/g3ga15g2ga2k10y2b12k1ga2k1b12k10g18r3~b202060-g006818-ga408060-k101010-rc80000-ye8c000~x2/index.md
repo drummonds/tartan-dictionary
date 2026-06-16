@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Leinster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2089))
 - 1997 — Leinster (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4062/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2089](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2089)
+- Scottish Tartans Authority (ITI): 4062
+
 ## Thread count
 Ga/6 G30 Ga4 G4 K20 Y4 DB24 K2 G4 K2 DB24 K20 Ga36 R/6
 ![Sett](sett.png)

@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Mar. 1995 — Head of The Lakes (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2241/))
 - undated — Head of the Lakes District Canada Tartan Tartan Number: 2241. Earliest known date: 1996 Designed by Joan Forrester Troniak & Fiona Irwin as a District Tartan to comemorate the 25th anniversary of the Ontario city of Thunder Bay which has adopted it. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2241))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1639](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1639)
+- Scottish Tartans Authority (ITI): 2241
+- Scottish Tartans World Register: 2241
+
 ## Thread count
 B/4 DB54 N4 P10 N4 P10 DG28 DB56 N4 G/14
 ![Sett](sett.png)

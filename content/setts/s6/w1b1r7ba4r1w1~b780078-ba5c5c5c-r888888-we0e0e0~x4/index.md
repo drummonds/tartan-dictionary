@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1974 — Lochnagar Plaid (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1771/))
 - 01/01/2002 — Lochnagar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2176))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2176](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2176)
+- Scottish Tartans Authority (ITI): 1771
+- Scottish Tartans World Register: 1771
+
 ## Thread count
 LN/4 Na4 N16 Na28 P4 LN/4
 ![Sett](sett.png)

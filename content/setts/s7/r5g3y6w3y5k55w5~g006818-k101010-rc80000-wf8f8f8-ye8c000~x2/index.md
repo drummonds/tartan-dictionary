@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Avalon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=143))
 - pre 2004 — Avalon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6361/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=143)
+- Scottish Tartans Authority (ITI): 6361
+
 ## Thread count
 R/10 Ga6 Y12 W6 Y10 K110 W/10
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Lanoir (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2047))
 - pre 1972 — Lanoir (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5385/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2047](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2047)
+- Scottish Tartans Authority (ITI): 5385
+
 ## Thread count
 K/24 R24 K120 R6 K120 LN/24
 ![Sett](sett.png)

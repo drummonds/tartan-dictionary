@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Chieftain's (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=632))
 - 2007 — Chieftain's (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7240/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [632](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=632)
+- Scottish Tartans Authority (ITI): 7240
+
 ## Thread count
 B/32 G32 K4 R4 LY4 B8 G8 K4 R4 LY4 B32 G/32
 ![Sett](sett.png)

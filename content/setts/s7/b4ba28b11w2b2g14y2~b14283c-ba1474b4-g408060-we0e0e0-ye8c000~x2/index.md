@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Mar. 2000 — Rhode Island, State of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2659/))
 - undated — Rhode Island State American District Tartan Tartan Number: 2659. Earliest known date: Mar. 2000 Official state tartan for RI. Designed for the St Andrew's Society of the State of Rhode Island by Claire Donaldson of the House of Edgar. Distribution contolled by the St Andrew's Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2659))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3504](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3504)
+- Scottish Tartans Authority (ITI): 2659
+- Scottish Tartans World Register: 2659
+
 ## Thread count
 DN/8 B56 DN22 LN4 DN4 G28 Y/4
 ![Sett](sett.png)

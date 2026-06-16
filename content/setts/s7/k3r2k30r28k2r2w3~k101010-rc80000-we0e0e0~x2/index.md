@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Cunningham #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=843))
 - pre 1880 — Cunningham (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4644/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [843](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=843)
+- Scottish Tartans Authority (ITI): 4644
+
 ## Thread count
 K/6 R4 K60 R56 K4 R4 LN/6
 ![Sett](sett.png)

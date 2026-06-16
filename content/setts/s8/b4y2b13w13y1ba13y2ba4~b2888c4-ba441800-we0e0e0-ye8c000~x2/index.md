@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1975 — Bannockbane Tan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=206))
 - pre 1975 — Bannockbane, Tan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/669/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=206)
+- Scottish Tartans Authority (ITI): 669
+- Scottish Tartans World Register: 669
+
 ## Thread count
 B/8 Y4 B26 LN26 Y2 DR26 Y4 DR/8
 ![Sett](sett.png)

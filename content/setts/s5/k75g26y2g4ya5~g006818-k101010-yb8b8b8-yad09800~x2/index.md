@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Perry Hunting (Green) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3323))
 - 1986 — Perry Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1119/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3323](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3323)
+- Scottish Tartans Authority (ITI): 1119
+- Scottish Tartans World Register: 1119
+
 ## Thread count
 DY/10 G8 N4 G52 K/150
 ![Sett](sett.png)

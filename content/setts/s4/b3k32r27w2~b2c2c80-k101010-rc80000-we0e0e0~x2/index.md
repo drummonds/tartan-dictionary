@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Templar Grand Priory USA (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4086))
 - 2005 Jan. — Templar Grand Priory USA (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6503/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4086](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4086)
+- Scottish Tartans Authority (ITI): 6503
+
 ## Thread count
 DB/6 K64 R54 LN/4
 ![Sett](sett.png)

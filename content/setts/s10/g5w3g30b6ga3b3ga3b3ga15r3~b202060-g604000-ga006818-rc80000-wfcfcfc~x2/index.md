@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1906 — Chisholm Hunting #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=641))
 - 1906 — Chisholm - 1906 (Johnston?) Hunting (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1458/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=641)
+- Scottish Tartans Authority (ITI): 1458
+- Scottish Tartans World Register: 1458
+
 ## Thread count
 R/6 G30 DB6 G6 DB6 G6 DB12 T60 W6 T/10
 ![Sett](sett.png)

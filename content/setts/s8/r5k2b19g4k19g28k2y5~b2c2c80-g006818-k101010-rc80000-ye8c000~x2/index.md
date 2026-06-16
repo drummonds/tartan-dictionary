@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Tait #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4063))
 - pre 2003 — Tait #1 (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5949/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4063](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4063)
+- Scottish Tartans Authority (ITI): 5949
+
 ## Thread count
 R/10 K4 DB38 G8 K38 G56 K4 Y/10
 ![Sett](sett.png)

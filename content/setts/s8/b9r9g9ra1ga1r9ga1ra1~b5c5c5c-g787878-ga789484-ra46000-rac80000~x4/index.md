@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/1978 — Jardine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881))
 - 1978 May — Jardine (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1432/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1881](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881)
+- Scottish Tartans Authority (ITI): 1432
+- Scottish Tartans World Register: 1432
+
 ## Thread count
 N/36 DO36 Na36 R4 LG4 DO36 LG4 R/4
 ![Sett](sett.png)

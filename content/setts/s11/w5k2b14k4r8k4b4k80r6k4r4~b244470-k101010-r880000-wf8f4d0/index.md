@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2006 — American Heritage (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=69))
 - December 2006 — American Heritage (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7087/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [69](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=69)
+- Scottish Tartans Authority (ITI): 7087
+
 ## Thread count
 DR/4 K4 DR6 K80 B4 K4 DR8 K4 B14 K2 LY/5
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1940 — Gillies (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1340))
 - 1940 — Gillies (Lochcarron) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/324/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1340](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1340)
+- Scottish Tartans Authority (ITI): 324
+- Scottish Tartans World Register: 324
+
 ## Thread count
 DB/88 K15 G9 R12 G20 K3 Y8 K6 G20 R12 G9 K15 DB24 K/36
 ![Sett](sett.png)

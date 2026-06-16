@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Bro-Leon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=377))
 - 2005 May — Bro-Leon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6653/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [377](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=377)
+- Scottish Tartans Authority (ITI): 6653
+
 ## Thread count
 DB/8 K44 DY4 K4 G14 DY4 K4 DY34 K/8
 ![Sett](sett.png)

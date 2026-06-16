@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — Antique 2000 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97))
 - 2001 — Antique 2000 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4087/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [97](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97)
+- Scottish Tartans Authority (ITI): 4087
+
 ## Thread count
 B/4 LT18 K12 DB2 R2 DB2 R2 DB/20
 ![Sett](sett.png)

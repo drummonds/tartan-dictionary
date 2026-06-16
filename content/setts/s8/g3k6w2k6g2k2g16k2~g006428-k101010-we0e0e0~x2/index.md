@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — MacLean of Duart Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617))
 - 1842 — MacLean of Duart Htg (VS) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/824/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2617](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617)
+- Scottish Tartans Authority (ITI): 824
+- Scottish Tartans World Register: 824
+
 ## Thread count
 G/6 K12 LN4 K12 G4 K4 G32 K/4
 ![Sett](sett.png)

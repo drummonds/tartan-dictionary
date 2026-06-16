@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — MacCallum High School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2308))
 - pre 2002 — MacCallum HS of Philadelphia (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1279/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2308](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2308)
+- Scottish Tartans Authority (ITI): 1279
+- Scottish Tartans World Register: 1279
+
 ## Thread count
 N/6 B66 N6 B18 N/54
 ![Sett](sett.png)

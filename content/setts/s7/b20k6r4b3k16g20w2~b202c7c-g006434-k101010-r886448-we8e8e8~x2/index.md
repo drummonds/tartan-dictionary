@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 09/07/2012 — Deloughery, Paul (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10658))
 - undated — Deloughery, Paul Name Tartan Tartan Number: 10658. Earliest known date: 09/07/2012 Registration notes: Created by the designer for his family. Colours: saffron, green and blue represent their Irish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10658))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10658](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10658)
+
 ## Thread count
 DB/40 K12 LT8 DB6 K32 G40 LN/4
 ![Sett](sett.png)

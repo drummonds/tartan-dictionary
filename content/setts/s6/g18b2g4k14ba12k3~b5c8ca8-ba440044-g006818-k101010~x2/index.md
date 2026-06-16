@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1820 — Coburg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4838))
 - 1820 — Coburg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3860/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4838](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4838)
+- Scottish Tartans Authority (ITI): 3860
+
 ## Thread count
 G/36 B4 G8 K28 DP24 K/6
 ![Sett](sett.png)

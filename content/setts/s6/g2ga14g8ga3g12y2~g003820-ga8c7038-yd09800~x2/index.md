@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1997 — Confederate Cavalry (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4567/))
 - 01/01/2002 — Confederate Cavalry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=730))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [730](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=730)
+- Scottish Tartans Authority (ITI): 4567
+
 ## Thread count
 DG/4 LT28 DG16 LT6 DG24 DY/4
 ![Sett](sett.png)

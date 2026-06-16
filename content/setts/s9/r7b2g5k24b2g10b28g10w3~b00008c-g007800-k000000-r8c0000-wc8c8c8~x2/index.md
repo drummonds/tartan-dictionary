@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1997 — Colgan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=709))
 - pre 2002 — Colgan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2403/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [709](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=709)
+- Scottish Tartans Authority (ITI): 2403
+- Scottish Tartans World Register: 2403
+
 ## Thread count
 DR/14 DB4 G10 K48 DB4 G20 DB56 G20 N/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Finlaggan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1183))
 - 1999 — Finlaggan (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2564/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1183](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1183)
+- Scottish Tartans Authority (ITI): 2564
+- Scottish Tartans World Register: 2564
+
 ## Thread count
 DG/14 LN2 DG36 DB12 R36 DG/4
 ![Sett](sett.png)

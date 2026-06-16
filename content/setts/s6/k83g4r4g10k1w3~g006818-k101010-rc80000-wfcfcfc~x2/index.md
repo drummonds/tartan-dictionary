@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2003 — Perratt (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3319))
 - pre 2004 — Perratt (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6221/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3319](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3319)
+- Scottish Tartans Authority (ITI): 6221
+- Scottish Tartans World Register: 2747
+
 ## Thread count
 K/166 G8 R8 G20 K2 W/6
 ![Sett](sett.png)

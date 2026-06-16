@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — City of Rome Pipe Band (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6697/))
 - undated — City of Rome Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4911))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4911](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4911)
+- Scottish Tartans Authority (ITI): 6697
+- Scottish Tartans World Register: 3068
+
 ## Thread count
 DR/12 O6 K88 DB45 K6 DB6 Y/6
 ![Sett](sett.png)

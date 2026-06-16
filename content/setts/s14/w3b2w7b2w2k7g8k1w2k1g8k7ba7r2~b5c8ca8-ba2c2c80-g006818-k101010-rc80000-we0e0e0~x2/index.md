@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacKenzie Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2524))
 - pre 2002 — MacKenzie Dress - 1950 (Cant) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1362/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2524](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2524)
+- Scottish Tartans Authority (ITI): 1362
+- Scottish Tartans World Register: 1362
+
 ## Thread count
 LN/6 B4 LN14 B4 LN4 K14 G16 K2 LN4 K2 G16 K14 DB14 R/4
 ![Sett](sett.png)

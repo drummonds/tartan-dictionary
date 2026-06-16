@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Bruce of Kinnaird (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=403))
 - pre 1819 — Bruce of Kinnaird (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1483/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [403](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=403)
+- Scottish Tartans Authority (ITI): 1483
+- Scottish Tartans World Register: 1483
+
 ## Thread count
 R/48 G44 K4 W12 K4 Y4 K30 LG12 LR12 W/4
 ![Sett](sett.png)

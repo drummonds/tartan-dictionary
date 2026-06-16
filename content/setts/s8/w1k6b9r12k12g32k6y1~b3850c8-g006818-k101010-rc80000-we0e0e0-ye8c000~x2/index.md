@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2007 — McGeachie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2883))
 - August 2007 — McGeachie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7291/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2883](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2883)
+- Scottish Tartans Authority (ITI): 7291
+- Scottish Tartans World Register: 3240
+
 ## Thread count
 LN/2 K12 B18 R24 K24 G64 K12 Y/2
 ![Sett](sett.png)

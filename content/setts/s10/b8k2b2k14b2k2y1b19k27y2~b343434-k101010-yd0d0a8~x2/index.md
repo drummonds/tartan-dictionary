@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - April 2007 — Pride of Scotland, Muted (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7477/))
 - undated — Pride of Scotland Muted (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5519))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5519](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5519)
+- Scottish Tartans Authority (ITI): 7477
+
 ## Thread count
 DN/16 K4 DN4 K28 DN4 K4 LR2 DN38 K54 LR/4
 ![Sett](sett.png)

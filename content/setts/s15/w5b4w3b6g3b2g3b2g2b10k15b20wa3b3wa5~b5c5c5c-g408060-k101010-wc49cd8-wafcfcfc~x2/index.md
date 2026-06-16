@@ -18,6 +18,14 @@ This cloth appears in 4 source records; the oldest owns this page.
 - pre 2004 — Midnight Thistle (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7499/))
 - undated — Midnight Thistle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5539))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5539](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5539)
+- Scottish Tartans Authority (ITI): 7499
+- Scottish Tartans World Register: 2941
+
 ## Thread count
 LP/10 N8 LP6 N12 G6 N4 G6 N4 G4 N20 K30 N40 W6 N6 W/10
 ![Sett](sett.png)

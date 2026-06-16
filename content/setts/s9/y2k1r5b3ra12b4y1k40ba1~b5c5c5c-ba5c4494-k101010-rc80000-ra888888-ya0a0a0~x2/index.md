@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2006 — Montgomerie, Colin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2987))
 - July 2006 — Montgomerie, Colin (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7252/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2987](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2987)
+- Scottish Tartans Authority (ITI): 7252
+
 ## Thread count
 B/2 K80 N2 Nb8 Na24 Nb6 R10 K2 N/4
 ![Sett](sett.png)

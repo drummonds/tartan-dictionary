@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Burns (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3774/))
 - undated — Burns (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5040))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5040](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5040)
+- Scottish Tartans Authority (ITI): 3774
+
 ## Thread count
 LY/4 LT12 N12 LY4 N24 LY/60
 ![Sett](sett.png)

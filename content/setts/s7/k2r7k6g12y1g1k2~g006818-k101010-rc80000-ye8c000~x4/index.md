@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Blackstock Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=288))
 - undated — Blackstock Hunting Family Tartan Tartan Number: 1120. Earliest known date: 1982 Commissioned by Herbert Earl Blackstock in 1983, President of the Clan Blackstock Society in the USA. Blackstocks were a 'Scotch-Irish' family who emigrated to the US from Ulster. Designed by kiltmaker and historian Bob Martin of Greenville, South Carolina. www.clanblackstocksociety.com See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1120))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [288](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=288)
+- Scottish Tartans Authority (ITI): 1120
+- Scottish Tartans World Register: 1120
+
 ## Thread count
 K/8 G4 Ya4 G48 K24 R28 K/8
 ![Sett](sett.png)

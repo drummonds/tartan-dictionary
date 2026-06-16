@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2003 — Freedom of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278))
 - August 2003 — Freedom of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5910/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1278](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278)
+- Scottish Tartans Authority (ITI): 5910
+
 ## Thread count
 K/30 N14 K12 N22 K100 N/8
 ![Sett](sett.png)

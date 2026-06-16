@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec. 2008 — Ivanka Trump (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7843/))
 - undated — Ivanka Trump (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5795))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5795](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5795)
+- Scottish Tartans Authority (ITI): 7843
+
 ## Thread count
 LR/24 W4 K8 W8 K2 W48 LR4 W4 LR4 W4 B2 W2 LP6 K4 W/24
 ![Sett](sett.png)

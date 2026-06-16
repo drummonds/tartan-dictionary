@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 1985 — St. Piran Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1685/))
 - undated — St Piran Dress District Tartan Tartan Number: 1685. Earliest known date: 1984 Padstow, Cornwall See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1685))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904)
+- Scottish Tartans Authority (ITI): 1685
+- Scottish Tartans World Register: 1685
+
 ## Thread count
 LN/8 K76 LN16 DG4 LN16 DG4 LN38 R/8
 ![Sett](sett.png)

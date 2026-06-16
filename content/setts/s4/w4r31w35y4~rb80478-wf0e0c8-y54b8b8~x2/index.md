@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Lewis, Magenta (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7579/))
 - undated — Lewis Magenta (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5603))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5603](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5603)
+- Scottish Tartans Authority (ITI): 7579
+
 ## Thread count
 B/8 W70 R62 W/8
 ![Sett](sett.png)

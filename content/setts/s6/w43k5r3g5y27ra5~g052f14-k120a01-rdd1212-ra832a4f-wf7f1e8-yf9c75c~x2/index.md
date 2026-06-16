@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 09/09/2012 — Reekie, Charlene (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10701))
 - undated — Reekie, Charlene Name Tartan Tartan Number: 10701. Earliest known date: 19 September 2012 Robert Reekie designed this tartan for his sister to thank her for her dedication and commitment to the study of Reekie heraldry. Colours: magenta is for dedication; yellow is one of the family colours; green is for patience; red represents a passion for heraldry; black ties the family together; white is for compassion and purity. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10701))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10701](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10701)
+
 ## Thread count
 DR/10 LG54 DG10 R6 K10 W/86
 ![Sett](sett.png)

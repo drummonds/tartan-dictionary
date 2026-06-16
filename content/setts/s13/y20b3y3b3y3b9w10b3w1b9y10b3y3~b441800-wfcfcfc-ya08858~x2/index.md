@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Brown Watch Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=393))
 - pre 2002 — Brown Watch Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1746/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [393](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=393)
+- Scottish Tartans Authority (ITI): 1746
+- Scottish Tartans World Register: 1746
+
 ## Thread count
 LT/40 DR6 LT6 DR6 LT6 DR18 W20 DR6 W2 DR18 LT20 DR6 LT/6
 ![Sett](sett.png)

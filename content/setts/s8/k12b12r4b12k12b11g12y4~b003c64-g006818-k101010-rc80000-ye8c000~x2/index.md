@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/1996 — Montrose of Alabama (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3000))
 - 1996 — Montrose of Alabama (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2288/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3000](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3000)
+- Scottish Tartans Authority (ITI): 2288
+- Scottish Tartans World Register: 2288
+
 ## Thread count
 K/24 DB24 R8 DB24 K24 DB22 G24 Y/8
 ![Sett](sett.png)

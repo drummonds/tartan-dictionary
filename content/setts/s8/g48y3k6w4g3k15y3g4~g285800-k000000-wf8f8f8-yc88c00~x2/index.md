@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Birmingham Irish Pipes & Drums (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=263))
 - 1999 — Birmingham Irish (Pipe Band) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4232/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [263](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=263)
+- Scottish Tartans Authority (ITI): 4232
+
 ## Thread count
 Ga/8 DY6 K30 Ga6 W8 K12 DY6 Ga/96
 ![Sett](sett.png)

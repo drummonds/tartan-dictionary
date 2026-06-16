@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Pride of Scotland Contemporary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3377))
 - pre 2005 — Pride of Scotland, Contempo. (Fashio (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6498/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3377](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3377)
+- Scottish Tartans Authority (ITI): 6498
+
 ## Thread count
 K/18 N4 Na4 N4 K36 N4 K4 LP2 N38 K66 P/4
 ![Sett](sett.png)

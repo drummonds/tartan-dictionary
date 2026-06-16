@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — McCarthy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2873))
 - 1998 — McCarthy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2438/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2873](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2873)
+- Scottish Tartans Authority (ITI): 2438
+- Scottish Tartans World Register: 2438
+
 ## Thread count
 DB/10 G2 DB6 DP4 G20 DB6 G8 DB56 DP4 DB4 G2 DB8 DP/2
 ![Sett](sett.png)

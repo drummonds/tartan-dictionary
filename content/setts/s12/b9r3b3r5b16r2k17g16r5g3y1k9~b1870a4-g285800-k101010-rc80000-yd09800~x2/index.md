@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1990 — Bowie, Black (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3716/))
 - undated — Bowie, Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5268))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5268](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5268)
+- Scottish Tartans Authority (ITI): 3716
+
 ## Thread count
 B/18 R6 B6 R10 B32 R4 K34 G32 R10 G6 DY2 K/18
 ![Sett](sett.png)

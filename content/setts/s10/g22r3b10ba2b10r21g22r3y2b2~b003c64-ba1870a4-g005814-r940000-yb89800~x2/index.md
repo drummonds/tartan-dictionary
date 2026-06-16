@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Glasgow Cathedral 2000 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1354))
 - 1995 — Glasgow Cathedral 2000 (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4082/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1354](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1354)
+- Scottish Tartans Authority (ITI): 4082
+
 ## Thread count
 DB/4 DY4 DR6 G44 DR42 DB20 B4 DB20 DR6 G/44
 ![Sett](sett.png)

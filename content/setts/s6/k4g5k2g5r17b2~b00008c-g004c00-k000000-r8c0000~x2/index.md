@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Denny Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=915))
 - pre 2002 — Denny Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/518/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [915](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=915)
+- Scottish Tartans Authority (ITI): 518
+- Scottish Tartans World Register: 518
+
 ## Thread count
 DB/4 DR34 G10 K4 G10 K/8
 ![Sett](sett.png)

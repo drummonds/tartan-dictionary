@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Royal National Lifeboat Inst. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3114/))
 - undated — Royal National Lifeboat Institution (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5283))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5283](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5283)
+- Scottish Tartans Authority (ITI): 3114
+
 ## Thread count
 DB/30 LN4 DB30 Y4 DB30 R4 DB30 Y4 DB30 LN4 DB30 R8 K/4
 ![Sett](sett.png)

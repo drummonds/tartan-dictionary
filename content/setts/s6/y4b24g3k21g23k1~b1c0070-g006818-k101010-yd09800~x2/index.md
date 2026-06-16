@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Glenturret Distillery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1439))
 - pre 1996 — Glenturret Distillery (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1097/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1439)
+- Scottish Tartans Authority (ITI): 1097
+- Scottish Tartans World Register: 1097
+
 ## Thread count
 DY/8 DB48 G6 K42 G46 K/2
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2006 — Conlon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=737))
 - 2006 May — Conlon (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6946/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [737](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=737)
+- Scottish Tartans Authority (ITI): 6946
+
 ## Thread count
 G/8 DBa4 G34 DG4 DR8 DG4 G6 DG22 G/4
 ![Sett](sett.png)

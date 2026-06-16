@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Rooney (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5555))
 - undated — Rooney Personal Tartan Tartan Number: 7517. Earliest known date: pre 2008 An asymmettic family tartan based on Henderson. Lochcarron sample. Feb 2008. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7517))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5555)
+- Scottish Tartans Authority (ITI): 7517
+
 ## Thread count
 B/36 LG12 B4 LG72 K4 LG13 K36 R4 K4 Y4 K36 LG13 K4 LG72 B4 LG12 B36 LN/4
 ![Sett](sett.png)

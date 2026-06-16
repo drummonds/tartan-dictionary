@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Montrose Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2999))
 - pre 2005 — Montrose Football Club (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6579/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2999](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2999)
+- Scottish Tartans Authority (ITI): 6579
+
 ## Thread count
 LN/4 DN2 LN4 DN80 R13 LN/6
 ![Sett](sett.png)

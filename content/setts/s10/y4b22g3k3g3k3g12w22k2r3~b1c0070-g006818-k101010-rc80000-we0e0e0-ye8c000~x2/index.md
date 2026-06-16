@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Californian MacLeod (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2637))
 - 1988 — MacLeod (California) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1623/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2637](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2637)
+- Scottish Tartans Authority (ITI): 1623
+- Scottish Tartans World Register: 1623
+
 ## Thread count
 R/6 K4 LN44 G24 K6 G6 K6 G6 DB44 Y/8
 ![Sett](sett.png)

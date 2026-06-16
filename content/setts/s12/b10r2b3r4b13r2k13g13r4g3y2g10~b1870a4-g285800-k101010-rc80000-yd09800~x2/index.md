@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Bowie (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=323))
 - 1960s — Bowie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/435/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [323](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=323)
+- Scottish Tartans Authority (ITI): 435
+- Scottish Tartans World Register: 435
+
 ## Thread count
 B/20 R4 B6 R8 B26 R4 K26 G26 R8 G6 DY4 G/20
 ![Sett](sett.png)

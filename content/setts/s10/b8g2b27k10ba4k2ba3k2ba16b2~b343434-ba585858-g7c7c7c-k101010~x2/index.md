@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Highland Granite (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1709))
 - 2005 — Highland Granite (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6499/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1709](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1709)
+- Scottish Tartans Authority (ITI): 6499
+
 ## Thread count
 DN/16 N4 DN54 K20 Na8 K4 Na6 K4 Na32 DN/4
 ![Sett](sett.png)

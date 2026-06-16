@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Lockhart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2179))
 - 1996 — Lockhart (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2258/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2179](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2179)
+- Scottish Tartans Authority (ITI): 2258
+- Scottish Tartans World Register: 2258
+
 ## Thread count
 G/26 K4 B32 R4 B32 K12 G68 K4 G/26
 ![Sett](sett.png)

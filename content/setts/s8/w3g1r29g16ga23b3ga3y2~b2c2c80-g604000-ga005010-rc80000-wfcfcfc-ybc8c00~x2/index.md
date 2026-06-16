@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Tache, Sir Etienne Paschal #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4062))
 - pre 2002 — Tache, Sir Etienne Paschal (Commem) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1877/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4062](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4062)
+- Scottish Tartans Authority (ITI): 1877
+- Scottish Tartans World Register: 1877
+
 ## Thread count
 DY/4 G6 DB6 G46 T32 R58 T2 W/6
 ![Sett](sett.png)

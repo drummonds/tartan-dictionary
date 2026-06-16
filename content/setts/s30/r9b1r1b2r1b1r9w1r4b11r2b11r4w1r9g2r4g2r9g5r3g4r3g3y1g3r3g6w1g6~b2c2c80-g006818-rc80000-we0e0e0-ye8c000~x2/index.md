@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Unknown — Lumsden (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/931/))
 - undated — Lumsden Short version Family Tartan Tartan Number: 931. Earliest known date: 0 One of a set of three similar designs for Laurie, Lawrie and Lowry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=931))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2243](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2243)
+- Scottish Tartans Authority (ITI): 931
+- Scottish Tartans World Register: 931
+
 ## Thread count
 G/12 LN2 G12 R6 G6 Y2 G6 R6 G8 R6 G10 R18 G4 R8 G4 R18 LN2 R8 DB22 R4 DB22 R8 LN2 R18 DB2 R2 DB4 R2 DB2 R/18
 ![Sett](sett.png)

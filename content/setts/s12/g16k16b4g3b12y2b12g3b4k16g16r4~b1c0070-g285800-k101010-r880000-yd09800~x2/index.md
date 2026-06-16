@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Junior Chamber International (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1913))
 - undated — Junior Chamber International Corporate Tartan Tartan Number: 2331. Earliest known date: 1994 Count taken from an STS brochure/folder C. Designed by Polly Wittering of the House of Edgar for the Aberdeen branch of the Junior Chamber of Commerce as a corporate tartan for Junior Chamber International Conference in 1995. Sample Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2331))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1913](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1913)
+- Scottish Tartans Authority (ITI): 2331
+- Scottish Tartans World Register: 2331
+
 ## Thread count
 DR/8 G32 K32 DB8 G6 DB24 DY4 DB24 G6 DB8 K32 G/32
 ![Sett](sett.png)

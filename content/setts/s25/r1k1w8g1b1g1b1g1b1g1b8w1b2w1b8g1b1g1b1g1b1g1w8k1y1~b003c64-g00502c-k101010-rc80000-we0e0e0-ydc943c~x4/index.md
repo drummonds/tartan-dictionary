@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/1998 — Recovery Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3474))
 - 1998 — Recovery Dress (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2441/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3474](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3474)
+- Scottish Tartans Authority (ITI): 2441
+- Scottish Tartans World Register: 2441
+
 ## Thread count
 O/4 K4 LN32 G4 DB4 G4 DB4 G4 DB4 G4 DB32 LN4 DB8 LN4 DB32 G4 DB4 G4 DB4 G4 DB4 G4 LN32 K4 R/4
 ![Sett](sett.png)

@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1970 — Moulin (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5655/))
 - undated — Moulin Fashion Tartan Tartan Number: 5655. Earliest known date: 1970 From Reis of New Haven, 1970 Same sett as #4490. Ref to Reis reads: ""Our exclusive English hand-blocked silk foulards are created by Reis craftsmen of only the purest unweighted silks, hand-sewn and fully lined. When you tie one on, you'll know it's a Reis." Reis were based in New Haven, Connecticut. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5655))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3029](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3029)
+- Scottish Tartans Authority (ITI): 5655
+
 ## Thread count
 DR/8 K4 T24 DRa16 K12 T12 DR4 T12 K12 DRa/144
 ![Sett](sett.png)

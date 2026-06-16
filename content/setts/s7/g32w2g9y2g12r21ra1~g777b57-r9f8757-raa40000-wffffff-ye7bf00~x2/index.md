@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2012 — Weathered Cyclist (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10732))
 - undated — Weathered Cyclist Commemorative Tartan Tartan Number: 10732. Earliest known date: 6 November 2012 Designed for The Tartan Ride, a charity cycling event. Once woven, this tartan is for all to wear, however the design as an entity may not be used without the designer's express permission. The design is the intellectual property of Ali Campbell and is a device of The Tartan Ride. Any use of the design must be authorised by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10732))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10732](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10732)
+
 ## Thread count
 DR/2 LT42 G24 Y4 G18 W4 G/64
 ![Sett](sett.png)

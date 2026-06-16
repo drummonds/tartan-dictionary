@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Wilson's No.116 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4681))
 - 01/01/2002 — Wilson's No.211 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4742))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4742](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4742)
+- Scottish Tartans Authority (ITI): 116
+- Scottish Tartans World Register: 116
+
 ## Thread count
 DG/16 DP16 DG4 DP/4
 ![Sett](sett.png)

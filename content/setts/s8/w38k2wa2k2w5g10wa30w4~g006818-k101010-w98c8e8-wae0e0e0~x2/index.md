@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Longniddry Turquoise (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2212))
 - pre 2002 — Longniddry, Turquoise (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/369/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2212](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2212)
+- Scottish Tartans Authority (ITI): 369
+- Scottish Tartans World Register: 369
+
 ## Thread count
 LB/76 K4 LN4 K4 LB10 G20 LN60 LB/8
 ![Sett](sett.png)

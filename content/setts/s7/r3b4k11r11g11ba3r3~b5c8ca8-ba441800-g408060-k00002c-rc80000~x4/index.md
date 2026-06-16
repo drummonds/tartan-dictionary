@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Stewart /Stuart- Fragment Cf 1452 & 1445 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3932))
 - pre 2002 — Stewart (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1316/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3932](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3932)
+- Scottish Tartans Authority (ITI): 1316
+- Scottish Tartans World Register: 1316
+
 ## Thread count
 R/12 B16 DBa44 R44 G44 DR12 R/12
 ![Sett](sett.png)

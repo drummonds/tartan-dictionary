@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 10/08/2002 — Twempy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4171))
 - pre 2005 — Twempy (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6739/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4171](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4171)
+- Scottish Tartans Authority (ITI): 6739
+- Scottish Tartans World Register: 2916
+
 ## Thread count
 DY/2 R4 DB32 K4 G14 K2 W6 K2 DR8 K/2
 ![Sett](sett.png)

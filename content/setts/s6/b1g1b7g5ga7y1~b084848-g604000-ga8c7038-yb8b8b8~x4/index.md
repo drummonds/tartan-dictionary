@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1979 — Dewar (WCWM) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925))
 - pre 1979 — Dewar (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4675/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [925](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925)
+- Scottish Tartans Authority (ITI): 4675
+
 ## Thread count
 G/4 T4 G28 T20 LT28 N/4
 ![Sett](sett.png)

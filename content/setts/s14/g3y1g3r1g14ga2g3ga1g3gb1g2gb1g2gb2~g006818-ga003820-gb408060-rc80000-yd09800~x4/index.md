@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — New South Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3118))
 - 1998 — New South Wales (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2492/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3118](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3118)
+- Scottish Tartans Authority (ITI): 2492
+- Scottish Tartans World Register: 2492
+
 ## Thread count
 G/12 DY4 G12 R4 G56 DG8 G12 DG4 G12 Ga4 G8 Ga4 G8 Ga/8
 ![Sett](sett.png)

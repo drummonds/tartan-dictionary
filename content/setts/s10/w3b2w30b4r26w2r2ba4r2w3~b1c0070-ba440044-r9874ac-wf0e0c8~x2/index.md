@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Harris, Lilac (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7581/))
 - undated — Harris Lilac (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5605))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5605](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5605)
+- Scottish Tartans Authority (ITI): 7581
+
 ## Thread count
 W/6 DB4 W60 DB8 LP52 W4 LP4 DP8 LP4 W/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1999 — Scotsman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3687))
 - Nov. 1999 — Scotsman (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2645/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3687](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3687)
+- Scottish Tartans Authority (ITI): 2645
+- Scottish Tartans World Register: 2645
+
 ## Thread count
 G/42 K28 G18 DB42 K6 DB24 P/6
 ![Sett](sett.png)

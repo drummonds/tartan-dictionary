@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Paterson Blue (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3301))
 - 1996 — Patterson, John (Blue) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2325/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3301](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3301)
+- Scottish Tartans Authority (ITI): 2325
+- Scottish Tartans World Register: 2325
+
 ## Thread count
 DB/44 LN4 K20 G22 R6 G/8
 ![Sett](sett.png)

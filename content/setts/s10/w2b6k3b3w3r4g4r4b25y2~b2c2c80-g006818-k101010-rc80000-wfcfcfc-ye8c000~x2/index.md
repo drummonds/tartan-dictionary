@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2002 — University of Edinburgh Business School, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1081))
 - Aug 2002 — University of Edinburgh Business Sch (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6107/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1081](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1081)
+- Scottish Tartans Authority (ITI): 6107
+
 ## Thread count
 W/4 DB12 K6 DB6 W6 R8 G8 R8 DB50 Y/4
 ![Sett](sett.png)

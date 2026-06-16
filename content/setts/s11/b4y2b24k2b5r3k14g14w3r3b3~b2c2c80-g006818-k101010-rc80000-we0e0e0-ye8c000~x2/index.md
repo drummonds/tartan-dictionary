@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Czech National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5516))
 - undated — Czech National District Tartan Tartan Number: 7474. Earliest known date: 2008 VacLav Rout is the Chairman of the Friends of Scotland CZ and designed this tartan as the Czech National Tartan. Normally the STA requires proof from a national government source that the tartan is indeed accepted by that country. In this case the 'proof' came from the Consulate General of the Czech Republic in Edinburgh and is filed in the STA archives. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7474))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5516](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5516)
+- Scottish Tartans Authority (ITI): 7474
+
 ## Thread count
 DB/6 R6 LN6 G28 K28 R6 DB10 K4 DB48 Y4 DB/8
 ![Sett](sett.png)

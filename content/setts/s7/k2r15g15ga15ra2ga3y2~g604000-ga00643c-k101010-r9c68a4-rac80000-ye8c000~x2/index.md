@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2004 — Crossbill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=814))
 - 2004 Nov (?) — Crossbill (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6475/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [814](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=814)
+- Scottish Tartans Authority (ITI): 6475
+
 ## Thread count
 K/4 LP30 T30 G30 R4 G6 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Annand Family (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=92))
 - 1997 — Annand (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6059/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [92](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=92)
+- Scottish Tartans Authority (ITI): 6059
+
 ## Thread count
 LT/6 G20 T12 LT4 G4 LT4 O4 LT4 G4 LT16 P/8
 ![Sett](sett.png)

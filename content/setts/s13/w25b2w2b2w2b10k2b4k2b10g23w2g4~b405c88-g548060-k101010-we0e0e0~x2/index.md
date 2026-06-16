@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 05/05/2010 — Oliphant Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10227))
 - undated — Oliphant Dress Clan Tartan Tartan Number: 9227. Earliest known date: 2010 Intended as the officially recognised dress tartan for the Oliphant clan. The design proposal has the clan chief's approval. Chief Richard Oliphant said, "I am more than happy with the design and glad to have it." The main elements of the Oliphant tartan have been preserved in the new design and woven in the brightest ancient colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9227))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10227](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10227)
+
 ## Thread count
 Ga/8 LN4 Ga46 B20 K4 B8 K4 B20 LN4 B4 LN4 B4 LN/50
 ![Sett](sett.png)

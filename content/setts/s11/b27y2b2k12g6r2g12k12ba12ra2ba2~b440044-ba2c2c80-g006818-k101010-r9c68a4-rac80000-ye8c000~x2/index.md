@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Boxell of West Niddry, Baron (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4912))
 - pre 2005 — Boxell, Baron (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6712/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4912](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4912)
+- Scottish Tartans Authority (ITI): 6712
+- Scottish Tartans World Register: 3020
+
 ## Thread count
 DB/4 R4 DB24 K24 G24 LP4 G12 K24 DP4 Y4 DP/54
 ![Sett](sett.png)

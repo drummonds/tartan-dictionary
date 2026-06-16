@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Fiddes (Artefact) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1177))
 - pre 2002 — Fiddes - 1950 (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/123/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1177](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1177)
+- Scottish Tartans Authority (ITI): 123
+- Scottish Tartans World Register: 123
+
 ## Thread count
 DB/36 G10 DB12 R50 DB12 R10 DB10 R12 DB36 R24 G/32
 ![Sett](sett.png)

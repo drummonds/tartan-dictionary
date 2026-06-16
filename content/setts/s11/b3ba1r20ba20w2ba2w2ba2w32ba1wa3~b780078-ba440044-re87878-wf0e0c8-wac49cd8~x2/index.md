@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Sunart, Pink (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7586/))
 - undated — Sunart Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5610))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5610](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5610)
+- Scottish Tartans Authority (ITI): 7586
+
 ## Thread count
 LP/6 DP2 W64 DP4 W4 DP4 W4 DP40 LR40 DP2 P/6
 ![Sett](sett.png)

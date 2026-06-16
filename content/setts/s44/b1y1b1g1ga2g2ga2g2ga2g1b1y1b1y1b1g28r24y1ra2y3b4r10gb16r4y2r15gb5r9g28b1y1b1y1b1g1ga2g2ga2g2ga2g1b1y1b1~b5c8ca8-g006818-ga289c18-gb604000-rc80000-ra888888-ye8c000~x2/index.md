@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1959 — New Brunswick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3110))
 - Apr. 1959 — New Brunswick (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1880/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3110](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3110)
+- Scottish Tartans Authority (ITI): 1880
+- Scottish Tartans World Register: 1880
+
 ## Thread count
 B/2 Y2 B2 G2 Ga4 G4 Ga4 G4 Ga4 G2 B2 Y2 B2 Y2 B2 G56 R18 T10 R30 Y4 R8 T32 R20 B8 Y6 N4 Y2 R48 G56 B2 Y2 B2 Y2 B2 G2 Ga4 G4 Ga4 G4 Ga4 G2 B2 Y2 B/2
 ![Sett](sett.png)

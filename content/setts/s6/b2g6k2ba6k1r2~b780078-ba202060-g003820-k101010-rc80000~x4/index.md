@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — MacCaughan or MacEachain (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2312))
 - 1993 — MacCaughan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/169/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2312](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2312)
+- Scottish Tartans Authority (ITI): 169
+- Scottish Tartans World Register: 169
+
 ## Thread count
 P/8 DG24 K8 DB24 K4 R/8
 ![Sett](sett.png)

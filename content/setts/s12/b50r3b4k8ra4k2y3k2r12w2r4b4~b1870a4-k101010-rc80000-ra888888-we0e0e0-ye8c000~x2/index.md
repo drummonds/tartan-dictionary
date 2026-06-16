@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — City of Barrie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=655))
 - 2002 — City of Barrie (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5809/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [655](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=655)
+- Scottish Tartans Authority (ITI): 5809
+
 ## Thread count
 B/100 R6 B8 K16 N8 K4 Y6 K4 R24 LN4 R8 B/8
 ![Sett](sett.png)

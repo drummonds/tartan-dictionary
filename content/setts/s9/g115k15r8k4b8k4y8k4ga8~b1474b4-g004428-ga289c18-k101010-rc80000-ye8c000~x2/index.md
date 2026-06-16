@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/1974 — Granvert (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1515))
 - 1974, December — Granvert (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7059/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1515](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1515)
+- Scottish Tartans Authority (ITI): 7059
+
 ## Thread count
 DG/230 K30 R16 K8 B16 K8 Y16 K8 G/16
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Ross, Ryan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7637/))
 - undated — Ross, Ryan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5652))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5652](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5652)
+- Scottish Tartans Authority (ITI): 7637
+
 ## Thread count
 G/6 K8 G6 K8 Ga4 K100 Ga4 K8 Ga8 R6 Ga8 R/6
 ![Sett](sett.png)

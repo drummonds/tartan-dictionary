@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — Glasgow, City of Culture (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1359))
 - 1990? — Culture, The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1534/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1359](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1359)
+- Scottish Tartans Authority (ITI): 4994
+
 ## Thread count
 R/12 G4 R4 G42 K4 W8 K4 DB46 Y4 DB4 Y/12
 ![Sett](sett.png)

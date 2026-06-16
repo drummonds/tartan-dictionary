@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Finzean's Fancy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186))
 - pre 1985? — Finzean's Fancy (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1860/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1186](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186)
+- Scottish Tartans Authority (ITI): 1860
+- Scottish Tartans World Register: 1860
+
 ## Thread count
 N/4 DRa2 DR108 K8 N4 G56 DY24 DR12 K4 DR12 DY24 B56 K12 DR12 DY16 N/16
 ![Sett](sett.png)

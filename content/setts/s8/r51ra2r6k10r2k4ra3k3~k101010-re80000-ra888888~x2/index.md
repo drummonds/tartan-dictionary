@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 28/11/2001 — Virgin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4465))
 - 2001 — Virgin (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3915/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4465](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4465)
+- Scottish Tartans Authority (ITI): 3915
+- Scottish Tartans World Register: 2880
+
 ## Thread count
 K/6 N6 K8 R4 K20 R12 N4 R/102
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — Rose White Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3549))
 - pre 1950 — Rose White Dress (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1227/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3549](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3549)
+- Scottish Tartans Authority (ITI): 1227
+- Scottish Tartans World Register: 1227
+
 ## Thread count
 DR/96 B16 K16 G16 LY52 K/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Duffy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008))
 - Feb. 1995 — Duffy (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2172/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1008](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008)
+- Scottish Tartans Authority (ITI): 2172
+- Scottish Tartans World Register: 2172
+
 ## Thread count
 Ga/16 G120 W2 K66 Ga18 Y8 Ga/8
 ![Sett](sett.png)

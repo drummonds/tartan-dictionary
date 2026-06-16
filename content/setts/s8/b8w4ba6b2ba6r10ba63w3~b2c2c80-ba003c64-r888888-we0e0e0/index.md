@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Pride of the Clyde (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3382))
 - pre 2007 — Pride of the Clyde (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7298/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3382](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3382)
+- Scottish Tartans Authority (ITI): 7298
+
 ## Thread count
 DB/8 LN4 DBa6 DB2 DBa6 N10 DBa63 LN/3
 ![Sett](sett.png)

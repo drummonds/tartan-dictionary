@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1901 — Norwegian Migration Period (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3165))
 - 400 - 600AD — Norwegian Migration Period (Artefact (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5584/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3165](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3165)
+- Scottish Tartans Authority (ITI): 5584
+
 ## Thread count
 DR/32 K32 LT24 K4 Na8 K36 LY16 N/120
 ![Sett](sett.png)

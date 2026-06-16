@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2005 — Royal Scottish Corporation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3609))
 - 2005, June — Royal Scottish Corporation (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6907/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3609](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3609)
+- Scottish Tartans Authority (ITI): 6907
+
 ## Thread count
 LN/4 R6 DBb24 DB6 DBb6 DB56 R6 DB6 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2001 — De Nardi Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=901))
 - pre 2004 — de Nardi Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6188/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [901](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=901)
+- Scottish Tartans Authority (ITI): 6188
+- Scottish Tartans World Register: 2891
+
 ## Thread count
 DB/60 R6 DB6 Y6 DB6 G60 DB72 W/10
 ![Sett](sett.png)

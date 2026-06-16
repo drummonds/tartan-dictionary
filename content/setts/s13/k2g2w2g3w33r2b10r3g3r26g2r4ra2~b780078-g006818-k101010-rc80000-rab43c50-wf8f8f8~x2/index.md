@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Crieff Red Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=806))
 - pre 2004 — Crieff Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6555/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [806](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=806)
+- Scottish Tartans Authority (ITI): 6555
+
 ## Thread count
 K/4 G4 W4 G6 W66 Ra4 P20 Ra6 G6 Ra52 G4 Ra8 R/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1914 — Tyneside Scottish (Blue) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4174))
 - pre 1914 — Tyneside Scottish (Blue) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/593/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4174](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4174)
+- Scottish Tartans Authority (ITI): 593
+- Scottish Tartans World Register: 593
+
 ## Thread count
 B/48 T6 B6 T6 B6 T48 G48 T6 G48 T48 B48 T6 B/6
 ![Sett](sett.png)

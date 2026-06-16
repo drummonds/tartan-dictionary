@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2006 June — University of Nebraska (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6955/))
 - undated — Nebraska, University of American Corporate Tartan Tartan Number: 6955. Earliest known date: 2006 June This tartan weas designed by Strikke Designs of Hastings Nebraska and Lochcarron of Scotland to be used to support the Alumni Association. Colours are those of the University of Nebraska. Woven by Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6955))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4404](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4404)
+- Scottish Tartans Authority (ITI): 6955
+
 ## Thread count
 K/8 R4 K4 R82 K62 LN4 K4 LN/12
 ![Sett](sett.png)

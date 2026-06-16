@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/1997 — London Scottish Rugby Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2199))
 - May 1998 — London Scottish Rugby Club (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2360/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2199](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2199)
+- Scottish Tartans Authority (ITI): 2360
+- Scottish Tartans World Register: 2360
+
 ## Thread count
 K/8 G16 DB26 LN2 DB80 R/10
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Bro-sant-Brieg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=386))
 - 2005 May — Bro-sant-Brieg (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6654/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [386](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=386)
+- Scottish Tartans Authority (ITI): 6654
+
 ## Thread count
 DN/6 G12 DN4 Y6 DN84 K12 LN/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Benreay Medical Centre (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3665/))
 - undated — Benreay Medical Centre (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5166))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5166)
+- Scottish Tartans Authority (ITI): 3665
+
 ## Thread count
 LP/4 K24 P16 B20 R4 P/16
 ![Sett](sett.png)

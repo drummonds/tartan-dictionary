@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2005 — Balamory (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6784/))
 - undated — Balamory Fancy Tartan Tartan Number: 6784. Earliest known date: pre 2005 Archies kilt See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6784))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [172](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=172)
+- Scottish Tartans Authority (ITI): 6784
+
 ## Thread count
 B/18 LB4 B18 LY4 B18 LR32 B2 K20 LR8 K4 LR4 K4 LR8 B/18
 ![Sett](sett.png)

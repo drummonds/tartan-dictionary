@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Lyons (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2258))
 - 2002 — Lyons (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6515/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2258](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2258)
+- Scottish Tartans Authority (ITI): 6515
+
 ## Thread count
 B/18 DB6 Ga22 K14 G6 K6 G64 R6 LN6 R/14
 ![Sett](sett.png)

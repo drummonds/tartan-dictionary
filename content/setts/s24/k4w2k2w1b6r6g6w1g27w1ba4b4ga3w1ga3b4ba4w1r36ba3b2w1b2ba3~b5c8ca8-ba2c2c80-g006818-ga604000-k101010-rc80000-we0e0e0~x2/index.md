@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1766 — Ross Wedding Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3564))
 - 1766 — Unnamed C18th - Wedding Dress/Shawl (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/90/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3564](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3564)
+- Scottish Tartans Authority (ITI): 90
+- Scottish Tartans World Register: 90
+
 ## Thread count
 DB/6 B4 LN2 B4 DB6 R72 LN2 DB8 B8 T6 LN2 T6 B8 DB8 LN2 G54 LN2 G12 R12 B12 LN2 K4 LN4 K/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1999 — Canterbury (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3265/))
 - 01/01/2000 — Canterbury (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5326](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326)
+- Scottish Tartans Authority (ITI): 3265
+
 ## Thread count
 DR/4 K40 DR10 K8 G8 K8 DR10 K4 DR28 K4 DY/4
 ![Sett](sett.png)

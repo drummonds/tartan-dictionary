@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Scottish Cultural Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3713))
 - undated — Scottish Cultural Society Ltd Corporate Tartan Tartan Number: 2390. Earliest known date: 1994 An Illinois charity for members with Scottish connections/interests founded in 1977. Designers Judie Macrae and Jean Givler. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2390))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3713](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3713)
+- Scottish Tartans Authority (ITI): 2390
+- Scottish Tartans World Register: 2390
+
 ## Thread count
 G/32 K64 DY8 K8 DB32 N8 DB8 N16 DB8 N8 DB32 K8 DY8 K64 G32 P/16
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Ford & Etal (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1227))
 - pre 2004 — Ford & Etal (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6193/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1227](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1227)
+- Scottish Tartans Authority (ITI): 6193
+- Scottish Tartans World Register: 2903
+
 ## Thread count
 K/12 W4 R64 K4 G84 B36 K24 W/4
 ![Sett](sett.png)

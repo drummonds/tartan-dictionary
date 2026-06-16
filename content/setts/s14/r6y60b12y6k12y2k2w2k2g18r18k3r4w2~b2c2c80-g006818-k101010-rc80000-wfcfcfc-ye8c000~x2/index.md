@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1847 — Victoria (Yellow) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4455))
 - 1847? — Victoria,Yellow (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1712/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4455](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4455)
+- Scottish Tartans Authority (ITI): 1712
+- Scottish Tartans World Register: 1712
+
 ## Thread count
 R/12 Y120 DB24 Y12 K24 Y4 K4 W4 K4 G36 R36 K6 R8 W/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1800 — Lasting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2055))
 - 1800 — Lasting (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1789/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2055](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2055)
+- Scottish Tartans Authority (ITI): 1789
+- Scottish Tartans World Register: 1789
+
 ## Thread count
 W/16 DP14 W4 LG12 W4 Y8 W4 DP8 W4 Y8 W4 DG38 W4 DP14 W4 DP14 W4 R38 W8 R6 LG4 R6 W/4
 ![Sett](sett.png)

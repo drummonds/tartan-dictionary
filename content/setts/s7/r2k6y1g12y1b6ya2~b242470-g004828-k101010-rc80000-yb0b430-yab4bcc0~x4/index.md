@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/1997 — James (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1879))
 - pre 1998 — James (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2456/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1879](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1879)
+- Scottish Tartans Authority (ITI): 2456
+- Scottish Tartans World Register: 2456
+
 ## Thread count
 N/8 DBa24 Y4 DG48 Y4 K24 R/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2003 — Visit Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4469))
 - 2003 May — Visit Scotland Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6031/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4469](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4469)
+- Scottish Tartans Authority (ITI): 6031
+
 ## Thread count
 DB/102 B8 DB14 P4 DB4 Ga4 DB4 G20 DB26 LN/4
 ![Sett](sett.png)

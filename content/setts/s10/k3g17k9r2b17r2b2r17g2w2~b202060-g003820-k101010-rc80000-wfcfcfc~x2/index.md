@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1825 — MacInroy (Rattray) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5117))
 - 1825 — MacInroy of Lude (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3399/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5117](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5117)
+- Scottish Tartans Authority (ITI): 3399
+
 ## Thread count
 K/6 DG34 K18 R4 DB34 R4 DB4 R34 DG4 W/4
 ![Sett](sett.png)

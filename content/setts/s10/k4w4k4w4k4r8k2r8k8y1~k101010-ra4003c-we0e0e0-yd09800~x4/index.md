@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1991 — Little of Morton Rigg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2127))
 - 1991 — Little of Morton Rigg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2349/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2127](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2127)
+- Scottish Tartans Authority (ITI): 2349
+- Scottish Tartans World Register: 2349
+
 ## Thread count
 DY/4 K32 R32 K8 R32 K16 LN16 K16 LN16 K/16
 ![Sett](sett.png)

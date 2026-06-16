@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1750 — Unnamed 18th century plaid from Rothiemurchus (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1511))
 - 1750 — Grant of Rothiemurchus (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1496/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1511](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1511)
+- Scottish Tartans Authority (ITI): 1496
+- Scottish Tartans World Register: 1496
+
 ## Thread count
 R/2 G2 R64 DP64 R16 G2 R2 G2 R16 G64 R64 G2 R/2
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1831 — Murray #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057))
 - 1885 — NSW Scottish Rifles (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/226/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3057](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057)
+- Scottish Tartans Authority (ITI): 219
+- Scottish Tartans World Register: 219
+
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 R8 G24 K24 DB24 K4 DB/8
 ![Sett](sett.png)

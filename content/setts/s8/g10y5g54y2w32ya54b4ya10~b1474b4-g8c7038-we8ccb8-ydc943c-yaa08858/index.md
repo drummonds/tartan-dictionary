@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2003 — Cladish (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6011/))
 - undated — Cladish Weavers Tartan Tartan Number: 6011. Earliest known date: pre 2003 From the Marton Mills Keighly range (5.5oz polyester/cotton). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6011))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [659](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=659)
+- Scottish Tartans Authority (ITI): 6011
+
 ## Thread count
 LT/10 O5 LT54 O2 LR32 LTa54 B4 LTa/10
 ![Sett](sett.png)

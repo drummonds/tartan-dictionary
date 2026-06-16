@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Ballantrae (Dalgety) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177))
 - pre 2002 — Ballantrae - Dalgety (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1541/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [177](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177)
+- Scottish Tartans Authority (ITI): 1541
+- Scottish Tartans World Register: 1541
+
 ## Thread count
 R/10 G44 T6 DG40 T62 R6 T/10
 ![Sett](sett.png)

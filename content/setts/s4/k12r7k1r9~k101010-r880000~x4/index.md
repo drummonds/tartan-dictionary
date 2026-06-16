@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Lendrum (Black & Red) or MacFarlane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2094))
 - pre 2002 — Lendrum (Black & Red) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1190/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2094](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2094)
+- Scottish Tartans Authority (ITI): 1190
+- Scottish Tartans World Register: 1190
+
 ## Thread count
 DR/36 K4 DR28 K/48
 ![Sett](sett.png)

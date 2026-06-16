@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Think Pink (ICF) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4100))
 - pre 2002 — Think Pink (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5134/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4100](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4100)
+- Scottish Tartans Authority (ITI): 5134
+
 ## Thread count
 DB/16 DBa8 Na52 LR52 N/8
 ![Sett](sett.png)

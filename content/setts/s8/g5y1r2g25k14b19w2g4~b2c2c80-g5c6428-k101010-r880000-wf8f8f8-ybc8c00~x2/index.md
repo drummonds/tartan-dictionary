@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Tooth (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4138))
 - pre 1980 — Tooth (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/922/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4138](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4138)
+- Scottish Tartans Authority (ITI): 922
+- Scottish Tartans World Register: 922
+
 ## Thread count
 G/10 DY2 DR4 G50 K28 DB38 W4 G/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Scottish National Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3732))
 - undated — Scottish National (hunting) Universal Tartan Tartan Number: 2240. Earliest known date: 1996 Designed by Michael King of Philip King Ltd, Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2240))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3732](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3732)
+- Scottish Tartans Authority (ITI): 2240
+- Scottish Tartans World Register: 2240
+
 ## Thread count
 N/132 P6 G6 P6 G32 DR16 G6 DR6 R8 DR6 G6 DR16 G32 P6 G6 P/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — Cranston (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=795))
 - 1842 — Cranston (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/706/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [795](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=795)
+- Scottish Tartans Authority (ITI): 706
+- Scottish Tartans World Register: 706
+
 ## Thread count
 G/28 B4 G4 B4 G6 B12 Ga24 R/4
 ![Sett](sett.png)

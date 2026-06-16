@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2003 — Baru (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6005/))
 - undated — Baru Weavers Tartan Tartan Number: 6005. Earliest known date: pre 2003 Count from woven sample. What appears to be black is a very dark green. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6005))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226)
+- Scottish Tartans Authority (ITI): 6005
+
 ## Thread count
 LN/10 DG70 P46 DG16 P/46
 ![Sett](sett.png)

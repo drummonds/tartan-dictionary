@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2008 — University of Edinburgh (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7516/))
 - undated — University of Edinburgh Corporate Tartan Tartan Number: 7516. Earliest known date: 2008 Woven scarf sample from Lochcarron but this had been previously woven by another company. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7516))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5554](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5554)
+- Scottish Tartans Authority (ITI): 7516
+
 ## Thread count
 K/8 DR26 K22 N110 LN4 K5 LN/4
 ![Sett](sett.png)

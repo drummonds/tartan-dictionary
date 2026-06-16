@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — MacDonald (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2334))
 - 1819 — MacDonald - 1800 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/419/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2334](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2334)
+- Scottish Tartans Authority (ITI): 419
+- Scottish Tartans World Register: 419
+
 ## Thread count
 DB/34 R4 DB4 R10 DB58 R4 K62 G58 R10 G4 R4 G/34
 ![Sett](sett.png)

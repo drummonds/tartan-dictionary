@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Ross Hunting Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3563))
 - 1980 — Ross Htg - 1980 (Dress/Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/760/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3563](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3563)
+- Scottish Tartans Authority (ITI): 760
+- Scottish Tartans World Register: 760
+
 ## Thread count
 DG/8 G6 DG6 G8 DG8 DB16 DG6 DB18 LN58 R4 LN8 R/4
 ![Sett](sett.png)

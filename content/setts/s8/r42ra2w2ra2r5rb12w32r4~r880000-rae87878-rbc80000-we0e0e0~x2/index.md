@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Longniddry Burgundy (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206))
 - pre 2002 — Longniddry, Burgundy (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1651/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206)
+- Scottish Tartans Authority (ITI): 1651
+- Scottish Tartans World Register: 1651
+
 ## Thread count
 DR/8 LN64 R24 DR10 LR4 LN4 LR4 DR/84
 ![Sett](sett.png)

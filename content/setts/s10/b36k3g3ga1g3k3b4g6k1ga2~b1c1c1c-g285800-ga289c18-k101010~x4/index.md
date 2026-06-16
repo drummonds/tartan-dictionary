@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1970 — Verdon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4448))
 - pre 1970 — Verdon (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4349/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4448](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4448)
+- Scottish Tartans Authority (ITI): 4349
+
 ## Thread count
 Gb/8 Ka4 G24 K16 Ka12 G12 Gb4 G12 Ka12 K/144
 ![Sett](sett.png)

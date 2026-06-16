@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Handley (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1583))
 - pre 2007 — Handley (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7163/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1583](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1583)
+- Scottish Tartans Authority (ITI): 7163
+
 ## Thread count
 G/24 LN4 K10 Ga48 K8 G18 K4 Ga26 K8 G26 K4 Y/6
 ![Sett](sett.png)

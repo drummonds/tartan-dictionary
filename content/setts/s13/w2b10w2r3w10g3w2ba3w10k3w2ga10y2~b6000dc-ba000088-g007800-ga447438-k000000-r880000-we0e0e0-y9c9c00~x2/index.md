@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — Morris of Balgonie Arisaid (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3015))
 - 1989 — Morris of Balgonie Arisaid (Personal (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5660/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3015](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3015)
+- Scottish Tartans Authority (ITI): 5660
+
 ## Thread count
 LG/4 G20 LN4 K6 LN20 DB6 LN4 Ga6 LN20 DR6 LN4 P20 LN/4
 ![Sett](sett.png)

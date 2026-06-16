@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Waterford County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7458/))
 - 01/05/2005 — Waterford County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5011))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5011](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5011)
+- Scottish Tartans Authority (ITI): 7458
+- Scottish Tartans World Register: 3102
+
 ## Thread count
 DY/10 G10 N26 DBa26 N8 DB60 DBa10 LN/16
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — MacConnell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2320))
 - 1989 — MacConnell (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/141/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2320](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2320)
+- Scottish Tartans Authority (ITI): 141
+- Scottish Tartans World Register: 141
+
 ## Thread count
 DB/40 DG12 DB12 LP4 DG40 DR16 DG12 DR8 DG20 N/6
 ![Sett](sett.png)

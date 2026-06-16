@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1970 — MacGillivray Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3371/))
 - undated — MacGillivray Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5388))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5388)
+- Scottish Tartans Authority (ITI): 3371
+
 ## Thread count
 G/16 T10 G10 T10 G10 T12 DB2 T4 G16 T4 DB2 T48 DB8 T/12
 ![Sett](sett.png)

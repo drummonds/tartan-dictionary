@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Thirkill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4101))
 - 2000 — Thirkill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4015/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4101](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4101)
+- Scottish Tartans Authority (ITI): 4015
+
 ## Thread count
 LN/8 K4 R30 K4 R10 G14 DG14 K4 Y/8
 ![Sett](sett.png)

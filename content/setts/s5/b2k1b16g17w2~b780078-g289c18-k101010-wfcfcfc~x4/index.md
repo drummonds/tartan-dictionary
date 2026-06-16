@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/1999 — Kansai Highland Games (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1928))
 - 1999 — Kansai Highland Games (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3988/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1928](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1928)
+- Scottish Tartans Authority (ITI): 3988
+- Scottish Tartans World Register: 2708
+
 ## Thread count
 Pa/8 K4 Pa64 G68 W/8
 ![Sett](sett.png)

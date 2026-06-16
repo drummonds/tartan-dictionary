@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2000 — MacCulloch (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3340/))
 - 04/04/2004 — MacCulloch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5356))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5356](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5356)
+- Scottish Tartans Authority (ITI): 3340
+
 ## Thread count
 T/6 K8 G40 T2 LN2 G4 DB20 R40 LN4 K6 T/10
 ![Sett](sett.png)

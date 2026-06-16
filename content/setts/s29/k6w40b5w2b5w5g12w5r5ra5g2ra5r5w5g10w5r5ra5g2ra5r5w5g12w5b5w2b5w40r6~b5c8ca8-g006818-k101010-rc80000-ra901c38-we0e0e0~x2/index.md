@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — MacBean, Meta (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294))
 - 1972 — MacBean, Meta (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1220/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2294](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294)
+- Scottish Tartans Authority (ITI): 1220
+- Scottish Tartans World Register: 1220
+
 ## Thread count
 K/12 LN80 B10 LN4 B10 LN10 G24 LN10 R10 DR10 G4 DR10 R10 LN10 G20 LN10 R10 DR10 G4 DR10 R10 LN10 G24 LN10 B10 LN4 B10 LN80 R/12
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Nisbet Dress Rose (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3141))
 - pre 2002 — Nisbet Dress, Rose (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/946/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3141](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3141)
+- Scottish Tartans Authority (ITI): 946
+- Scottish Tartans World Register: 946
+
 ## Thread count
 G/8 LN32 K32 R80 LN4 R/12
 ![Sett](sett.png)

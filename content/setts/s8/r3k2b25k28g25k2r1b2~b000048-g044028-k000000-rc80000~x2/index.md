@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Common Kilt (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=720))
 - 1819? — Common Kilt (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/554/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [720](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=720)
+- Scottish Tartans Authority (ITI): 554
+- Scottish Tartans World Register: 554
+
 ## Thread count
 DB/4 R2 K4 DG50 K56 DB50 K4 R/6
 ![Sett](sett.png)

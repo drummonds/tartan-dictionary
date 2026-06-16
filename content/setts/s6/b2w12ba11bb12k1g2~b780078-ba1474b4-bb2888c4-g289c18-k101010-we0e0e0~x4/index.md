@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Isle of Barra (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7623/))
 - undated — Isle of Barra (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5642))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5642](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5642)
+- Scottish Tartans Authority (ITI): 7623
+
 ## Thread count
 G/8 K4 Ba48 B44 LN48 P/8
 ![Sett](sett.png)

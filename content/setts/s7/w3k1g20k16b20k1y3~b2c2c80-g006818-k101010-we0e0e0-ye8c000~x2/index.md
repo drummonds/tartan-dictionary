@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - August 2007 — MacCormick (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7161/))
 - undated — MacCormick Tartan Tartan Number: 7161. Earliest known date: August 2007 Designed by Keith McCormick of New Brunswick, Canada for the use of his family which is descended from Hebridean Scots who were a sept of MacLaine of Lochbuie. Can be worn by those of the same name or spelling variations. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7161))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2324](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2324)
+- Scottish Tartans Authority (ITI): 7161
+
 ## Thread count
 LN/6 K2 G40 K32 DB40 K2 Y/6
 ![Sett](sett.png)

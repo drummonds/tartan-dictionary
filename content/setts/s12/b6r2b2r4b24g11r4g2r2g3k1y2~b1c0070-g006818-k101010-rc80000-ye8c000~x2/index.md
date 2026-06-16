@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Law of Heather Athol (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2065))
 - pre 2002 — Law of Heather Athol (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/493/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2065](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2065)
+- Scottish Tartans Authority (ITI): 493
+- Scottish Tartans World Register: 493
+
 ## Thread count
 DB/12 R4 DB4 R8 DB48 G22 R8 G4 R4 G6 K2 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacEwan Arisaid (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3361/))
 - undated — MacEwan Arisaid (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5215))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5215](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5215)
+- Scottish Tartans Authority (ITI): 3361
+
 ## Thread count
 DR/6 K4 W36 DB36 K6 DB6 K6 DB36 K36 W36 K4 DY/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Glenlea (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1421))
 - 1984 — Glenlea (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5037/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1421](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1421)
+- Scottish Tartans Authority (ITI): 5037
+
 ## Thread count
 B/4 Nc12 DN3 Nc3 DN3 Nc3 DN8 N3 DN3 N3 DN3 N12 Na8 Nb4 Na28 N3 Nb3 N3 DN/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Cockburn of Ormiston Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=705))
 - 1930s — Cockburn of Ormiston Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1579/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [705](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=705)
+- Scottish Tartans Authority (ITI): 1579
+- Scottish Tartans World Register: 1579
+
 ## Thread count
 R/4 K4 G16 K4 Y4 K4 DB16 K4 W4 K4 DB16 G4 K4 G4 K4 W/62
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Pride of Scotland Platinum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3380))
 - pre 2006 — Pride of Scotland, Platinum (Fashion (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6850/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3380](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3380)
+- Scottish Tartans Authority (ITI): 6850
+
 ## Thread count
 K/20 N4 Na4 N4 K28 N4 K4 LP2 N24 K48 P/4
 ![Sett](sett.png)

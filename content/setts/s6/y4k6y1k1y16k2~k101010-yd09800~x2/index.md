@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Monoch Airline (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2986))
 - pre 2002 — Monoch Airline (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4213/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2986](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2986)
+- Scottish Tartans Authority (ITI): 4213
+
 ## Thread count
 DY/8 K12 DY2 K2 DY32 K/4
 ![Sett](sett.png)

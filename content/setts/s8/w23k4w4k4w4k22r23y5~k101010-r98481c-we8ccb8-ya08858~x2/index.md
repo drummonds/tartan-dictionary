@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2001 — Aberlour (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=21))
 - pre 2003 — Aberlour (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5982/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [21](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=21)
+- Scottish Tartans Authority (ITI): 5982
+- Scottish Tartans World Register: 3266
+
 ## Thread count
 LR/46 K8 LR8 K8 LR8 K44 T46 LT/10
 ![Sett](sett.png)

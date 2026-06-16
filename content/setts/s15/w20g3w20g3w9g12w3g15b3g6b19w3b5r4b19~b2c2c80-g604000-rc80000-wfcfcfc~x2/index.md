@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Black and White Colourway (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=272))
 - pre 2002 — Black & White Colourway (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2006/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [272](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=272)
+- Scottish Tartans Authority (ITI): 2006
+- Scottish Tartans World Register: 2006
+
 ## Thread count
 DB/38 R8 DB10 W6 DB38 T12 DB6 T30 W6 T24 W18 T6 W40 T6 W/40
 ![Sett](sett.png)

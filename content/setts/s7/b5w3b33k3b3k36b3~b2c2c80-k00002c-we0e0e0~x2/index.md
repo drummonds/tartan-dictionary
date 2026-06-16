@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 27/06/1995 — Argentina (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=108))
 - 1998 — St. Andrew Soc. of River Plate (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2487/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [108](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=108)
+- Scottish Tartans Authority (ITI): 2487
+- Scottish Tartans World Register: 2487
+
 ## Thread count
 DB/6 DBa72 DB6 DBa6 DB66 LN6 DB/10
 ![Sett](sett.png)

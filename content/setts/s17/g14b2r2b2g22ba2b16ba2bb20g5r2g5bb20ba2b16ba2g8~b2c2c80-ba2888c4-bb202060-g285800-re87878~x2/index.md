@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Frangord (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1245))
 - pre 2002 — Frangord (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4907/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1245](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1245)
+- Scottish Tartans Authority (ITI): 4907
+
 ## Thread count
 G/16 B4 DB32 B4 DBa40 G10 LR4 G10 DBa40 B4 DB32 B4 G44 DB4 LR4 DB4 G/28
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1968 — Dogwood (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943))
 - 1968 — Dogwood (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/913/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [943](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943)
+- Scottish Tartans Authority (ITI): 913
+- Scottish Tartans World Register: 913
+
 ## Thread count
 G/16 K40 G40 LT24 K4 LY104 G8 K/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1982 — Caribou (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2056/))
 - 01/01/1990 — Caribou (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=561))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [561](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=561)
+- Scottish Tartans Authority (ITI): 2056
+- Scottish Tartans World Register: 2056
+
 ## Thread count
 LN/4 DR16 K4 B12 K4 G16 B4 G16 K4 B12 K4 N16 DB4 N16 K4 B12 K4 DR16 LN/4
 ![Sett](sett.png)

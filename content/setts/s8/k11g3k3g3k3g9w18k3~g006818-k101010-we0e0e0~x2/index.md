@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2003 — Lamont Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2036))
 - Dec 2003 — Lamont Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6391/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2036](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2036)
+- Scottish Tartans Authority (ITI): 6391
+
 ## Thread count
 K/22 G6 K6 G6 K6 G18 LN36 K/6
 ![Sett](sett.png)

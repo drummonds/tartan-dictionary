@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1986 — Service of Drymen (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1380/))
 - 01/01/2002 — Service of Drymen (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3768))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3768](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3768)
+- Scottish Tartans Authority (ITI): 1380
+- Scottish Tartans World Register: 1380
+
 ## Thread count
 DR/4 DB28 K4 Na10 G6 N2 G6 N2 G6 K2 G6 K2 G6 Na10 K4 DB28 DY/4
 ![Sett](sett.png)

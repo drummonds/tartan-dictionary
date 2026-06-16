@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Feb 2008 — U.S. Customs & Border Protection (C (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7567/))
 - undated — U.S. Customs & Border Protection (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5593))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5593](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5593)
+- Scottish Tartans Authority (ITI): 7567
+
 ## Thread count
 LT/4 DR8 K4 DR12 T16 K4 W4 K4 DB4 K28 LT/96
 ![Sett](sett.png)

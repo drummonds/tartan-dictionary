@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacKellar Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2516))
 - pre 2002 — MacKellar Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/926/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2516](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2516)
+- Scottish Tartans Authority (ITI): 926
+- Scottish Tartans World Register: 926
+
 ## Thread count
 DG/6 W52 B4 K26 T10 W4 T6 Y8 T6 W4 T/54
 ![Sett](sett.png)

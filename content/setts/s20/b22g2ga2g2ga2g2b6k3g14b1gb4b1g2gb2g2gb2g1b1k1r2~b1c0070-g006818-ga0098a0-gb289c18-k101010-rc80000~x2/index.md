@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Peter Pan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3330))
 - pre 1998 — Peter Pan (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5505/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3330](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3330)
+- Scottish Tartans Authority (ITI): 5505
+
 ## Thread count
 DB/44 G4 B4 G4 B4 G4 DB12 K6 G28 DB2 Ga8 DB2 G4 Ga4 G4 Ga4 G2 DB2 K2 R/4
 ![Sett](sett.png)

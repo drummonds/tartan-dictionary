@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Pearl O' the Tay (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3088/))
 - undated — Pearl O' The Tay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5112))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5112](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5112)
+- Scottish Tartans Authority (ITI): 3088
+- Scottish Tartans World Register: 3004
+
 ## Thread count
 DB/12 G6 DB6 W4 DB10 K4 DB6 K4 P32 R6 K/4
 ![Sett](sett.png)

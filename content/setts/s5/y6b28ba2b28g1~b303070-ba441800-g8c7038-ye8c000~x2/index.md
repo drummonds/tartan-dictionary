@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1951 — Pearson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3310))
 - 1951 — Pearson (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1734/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3310](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3310)
+- Scottish Tartans Authority (ITI): 1734
+- Scottish Tartans World Register: 1734
+
 ## Thread count
 LT/2 DB56 DR4 DB56 Y/12
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/2003 — MacKenzie Morgan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2530))
 - Oct 2003 — MacKenzie Morgan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6068/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2530)
+- Scottish Tartans Authority (ITI): 6068
+
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 R4 W4 R4 G24 K24 DB24 R6 DB/4
 ![Sett](sett.png)

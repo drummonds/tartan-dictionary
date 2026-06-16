@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1991 — Highlands School (North Carolina) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1732))
 - pre 2002 — Highlands School (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2109/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1732](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1732)
+- Scottish Tartans Authority (ITI): 2109
+- Scottish Tartans World Register: 2109
+
 ## Thread count
 DY/24 DB4 DY4 DB60 DN4 DB4 DN26 N/8
 ![Sett](sett.png)

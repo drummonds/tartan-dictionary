@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Dewar's Highlander (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=926))
 - January 1988 — Dewars Highlander (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/694/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [926](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=926)
+- Scottish Tartans Authority (ITI): 694
+- Scottish Tartans World Register: 694
+
 ## Thread count
 G/6 K6 G45 K35 DB45 DY6 DB45 K35 G7 K6 G7 K6 G/56
 ![Sett](sett.png)

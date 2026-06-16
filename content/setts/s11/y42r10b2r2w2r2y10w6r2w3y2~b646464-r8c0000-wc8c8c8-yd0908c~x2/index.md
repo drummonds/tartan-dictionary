@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Nevis Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3109))
 - pre 1984 — Nevis Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5625/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3109](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3109)
+- Scottish Tartans Authority (ITI): 5625
+
 ## Thread count
 LR/84 DR20 N4 DR4 Na4 DR4 LR20 Na12 DR4 Na6 LR/4
 ![Sett](sett.png)

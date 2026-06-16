@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Matheson Hunting (Blue) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4852))
 - 1995 — Matheson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3458/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4852](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4852)
+- Scottish Tartans Authority (ITI): 3458
+
 ## Thread count
 LG/32 DB16 LG4 DB4 LG4 DB96 K32 LG16 DB4 LG4 DB4 LG16 DB32 LG4 DB4 LG4 DB4 K32 LG32 DB8 LG/8
 ![Sett](sett.png)

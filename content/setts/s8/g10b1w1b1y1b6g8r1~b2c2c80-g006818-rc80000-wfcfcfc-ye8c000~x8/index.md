@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Marshall Field (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2839))
 - 1986 — Marshall Field (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/747/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2839](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2839)
+- Scottish Tartans Authority (ITI): 747
+- Scottish Tartans World Register: 747
+
 ## Thread count
 G/80 DB8 W8 DB8 Y8 DB48 G64 R/8
 ![Sett](sett.png)

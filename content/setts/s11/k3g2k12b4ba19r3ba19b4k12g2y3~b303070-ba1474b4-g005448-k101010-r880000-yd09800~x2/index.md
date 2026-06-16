@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1998 — Loch Lomond Millenium (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2153))
 - November 1998 — Loch Lomond Millenium (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2520/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2153](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2153)
+- Scottish Tartans Authority (ITI): 2520
+- Scottish Tartans World Register: 2520
+
 ## Thread count
 DY/6 G4 K24 DB8 B38 DR6 B38 DB8 K24 G4 K/6
 ![Sett](sett.png)

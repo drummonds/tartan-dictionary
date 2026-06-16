@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1970 — Heritage Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1696))
 - 1978 — Heritage Plaid (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2336/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1696)
+- Scottish Tartans Authority (ITI): 2336
+- Scottish Tartans World Register: 2336
+
 ## Thread count
 LN/4 R6 K4 R10 K20 LT4 K4 LT4 K12 DB6 R/88
 ![Sett](sett.png)

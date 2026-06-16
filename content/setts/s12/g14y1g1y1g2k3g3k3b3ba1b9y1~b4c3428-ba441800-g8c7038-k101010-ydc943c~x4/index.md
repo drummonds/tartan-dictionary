@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/1997 — Glen Nevis #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1390))
 - 1997 — Glen Nevis #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2372/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1390](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1390)
+- Scottish Tartans Authority (ITI): 2372
+- Scottish Tartans World Register: 2372
+
 ## Thread count
 LT/56 O4 LT4 O4 LT8 K12 LT12 K12 T12 DR4 T36 O/4
 ![Sett](sett.png)

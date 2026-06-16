@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1960 — Colquhoun Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=717))
 - 1960 — Colquhoun Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1960/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [717](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=717)
+- Scottish Tartans Authority (ITI): 1960
+- Scottish Tartans World Register: 1960
+
 ## Thread count
 DB/20 K4 DB4 K4 DB20 K30 N6 DB6 N36 DB4 DR4 DB4 N38 DB6 N6 K30 N4 G28 DR4 G28 N4 K/30
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Glenbarr (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1405))
 - pre 2007 — Glenbarr (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7366/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1405](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1405)
+- Scottish Tartans Authority (ITI): 7366
+- Scottish Tartans World Register: 2785
+
 ## Thread count
 G/12 K24 R8 K24 G12 K8 G64 K/4
 ![Sett](sett.png)

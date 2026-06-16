@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Burberry Grey (Original) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=442))
 - pre 2007 — Burberry, Grey (Original) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7268/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [442](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=442)
+- Scottish Tartans Authority (ITI): 7268
+
 ## Thread count
 DB/4 N80 K20 LN28 K/20
 ![Sett](sett.png)

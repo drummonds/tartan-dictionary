@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Barton-Watson de Bavidge (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=225))
 - 2000 — Barton-Watson de Bavidge (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2664/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [225](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=225)
+- Scottish Tartans Authority (ITI): 2664
+- Scottish Tartans World Register: 2664
+
 ## Thread count
 P/6 DBa32 DR6 DG34 K32 DBa52 Y2 P/6
 ![Sett](sett.png)

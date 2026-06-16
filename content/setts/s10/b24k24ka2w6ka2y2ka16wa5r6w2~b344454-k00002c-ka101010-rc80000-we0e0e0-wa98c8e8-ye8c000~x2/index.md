@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Scotland's International - Home (Fas (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7842/))
 - undated — Scotland's International - Home (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5794))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5794](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5794)
+- Scottish Tartans Authority (ITI): 7842
+
 ## Thread count
 LN/4 R12 LB10 K32 Y4 K4 LN12 K4 DB48 N/48
 ![Sett](sett.png)

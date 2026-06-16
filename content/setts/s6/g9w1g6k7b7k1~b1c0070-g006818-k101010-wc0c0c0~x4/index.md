@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Menteith (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2919))
 - pre 2002 — Menteith (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/929/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2919](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2919)
+- Scottish Tartans Authority (ITI): 929
+- Scottish Tartans World Register: 929
+
 ## Thread count
 G/36 N4 G24 K28 DB28 K/4
 ![Sett](sett.png)

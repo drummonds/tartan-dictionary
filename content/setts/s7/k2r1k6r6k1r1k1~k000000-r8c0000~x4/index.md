@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1730 — Campbell of Lochlane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5031))
 - 1730 — Campbell of Lochlane (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3799/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5031](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5031)
+- Scottish Tartans Authority (ITI): 3799
+
 ## Thread count
 K/4 DR4 K4 DR24 K24 DR4 K/8
 ![Sett](sett.png)

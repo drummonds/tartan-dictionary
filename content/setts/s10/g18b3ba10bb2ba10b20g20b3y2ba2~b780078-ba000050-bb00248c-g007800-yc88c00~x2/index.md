@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Glasgow Cathedral (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1353))
 - undated — Glasgow Cathedral Corporate Tartan Tartan Number: 4996. Earliest known date: 1996 Colours completely different to Glasgow Cathedral 2000. Have these changed since 1995/6? Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4996))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1353](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1353)
+- Scottish Tartans Authority (ITI): 4996
+
 ## Thread count
 DBa/4 DY4 P6 G40 P40 DBa20 DB4 DBa20 P6 G/36
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — New Club Centenary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4986))
 - 2001 — New Club Centenary (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3911/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4986](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4986)
+- Scottish Tartans Authority (ITI): 3911
+
 ## Thread count
 DG/8 DB6 DG40 DB18 DR4 DB4 DR4 DB36 DP/8
 ![Sett](sett.png)

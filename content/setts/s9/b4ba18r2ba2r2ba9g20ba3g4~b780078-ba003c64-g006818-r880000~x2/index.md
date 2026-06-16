@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — St. Andrews New Golf Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3882))
 - 1998 — St. Andrews New Golf Club (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2497/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3882](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3882)
+- Scottish Tartans Authority (ITI): 2497
+- Scottish Tartans World Register: 2497
+
 ## Thread count
 G/8 DB6 G40 DB18 DRa4 DB4 DRa4 DB36 P/8
 ![Sett](sett.png)

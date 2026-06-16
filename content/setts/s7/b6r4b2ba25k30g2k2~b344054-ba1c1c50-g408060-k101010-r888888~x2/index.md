@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - December 2007 — Passion of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7729/))
 - undated — Passion of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5713))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5713](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5713)
+- Scottish Tartans Authority (ITI): 7729
+
 ## Thread count
 K/4 G4 K60 DB50 N4 Na8 N/12
 ![Sett](sett.png)

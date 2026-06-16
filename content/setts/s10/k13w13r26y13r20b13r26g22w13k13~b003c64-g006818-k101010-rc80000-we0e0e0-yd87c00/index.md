@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Nassau County Firefighters (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7690/))
 - undated — Nassau County Firefighters Pipes & Drums (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5689))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5689](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5689)
+- Scottish Tartans Authority (ITI): 7690
+
 ## Thread count
 K/13 LN13 G22 R26 DB13 R20 O13 R26 LN13 K/13
 ![Sett](sett.png)

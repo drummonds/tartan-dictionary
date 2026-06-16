@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - December 2006 — German American (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7017/))
 - undated — German American (Fashion) American Fashion Tartan Tartan Number: 7017. Earliest known date: December 2006 Designed by William C. (Rocky) Roeger III of usakilts.com to honor German Americans and their contributions to American History. It is a private fashion tartan designed for ANYONE to wear, regardless of clan affiliation or nationality. The colors chosen in this tartan represent the flags of both countries, America and Germany. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7017))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1334](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1334)
+- Scottish Tartans Authority (ITI): 7017
+
 ## Thread count
 DR/4 K4 DY3 K4 DR54 R5 K54 DR4 K3 DB9 K2 LY/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec. 2008 — Abadia Da Cova (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7850/))
 - undated — Abadia Da Cova (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5802))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5802](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5802)
+- Scottish Tartans Authority (ITI): 7850
+
 ## Thread count
 Ga/60 G2 Ga6 DR60 K2 Y/6
 ![Sett](sett.png)

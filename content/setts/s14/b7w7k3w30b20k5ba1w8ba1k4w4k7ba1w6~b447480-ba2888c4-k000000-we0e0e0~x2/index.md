@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Skye Dress Blue, Isle of (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3813))
 - pre 2002 — Skye Dress, Blue, Isle of (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5324/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3813](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3813)
+- Scottish Tartans Authority (ITI): 5324
+
 ## Thread count
 G/14 LN14 K6 LN60 G40 K10 B2 LN16 B2 K8 LN8 K14 B2 LN/12
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1991 — Safeway (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3636))
 - pre 1997 — Safeway (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2177/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3636](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3636)
+- Scottish Tartans Authority (ITI): 2177
+- Scottish Tartans World Register: 2177
+
 ## Thread count
 DB/38 K6 DB6 K6 DB6 K40 G38 K4 R10 K4 G38 K40 DB38 K6 DB/6
 ![Sett](sett.png)

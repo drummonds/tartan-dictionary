@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Tau-Taurini (Provisional) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4079))
 - pre 2007 — Tau-Taurini (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7311/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4079](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4079)
+- Scottish Tartans Authority (ITI): 7311
+
 ## Thread count
 DB/10 B10 LN3 P3 G3 DR3 R12 LN3 Y3 DB/64
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1995 — Loch Ness (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5450/))
 - undated — Loch Ness #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5423))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5423](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5423)
+- Scottish Tartans Authority (ITI): 5450
+- Scottish Tartans World Register: 3039
+
 ## Thread count
 LB/4 DB34 Ba22 B42 R4 B4 R/4
 ![Sett](sett.png)

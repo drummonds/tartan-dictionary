@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Wexford, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4611))
 - 1997 — Wexford, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4248/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4611](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4611)
+- Scottish Tartans Authority (ITI): 4248
+
 ## Thread count
 DG/10 G10 K2 Y6 K2 G72 DG12 G12 W2 K4 W2 G12 DG12 G/22
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Hebron (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1675))
 - 1993 — Hebron (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5173/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1675](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1675)
+- Scottish Tartans Authority (ITI): 5173
+
 ## Thread count
 DB/32 DN4 DB4 DN4 DB4 DN28 N24 DN12 N24 DN28 DB24 DN4 DB/4
 ![Sett](sett.png)

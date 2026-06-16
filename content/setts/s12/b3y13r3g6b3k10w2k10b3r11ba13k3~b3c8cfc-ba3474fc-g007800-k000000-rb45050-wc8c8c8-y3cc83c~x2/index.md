@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Cascade Summers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=585))
 - 1993 — Cascade Summers (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2195/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [585](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=585)
+- Scottish Tartans Authority (ITI): 2195
+- Scottish Tartans World Register: 2195
+
 ## Thread count
 B/6 Ga26 LT6 G12 B6 K20 N4 K20 B6 LT22 Ba26 K/6
 ![Sett](sett.png)

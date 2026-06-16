@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2002 — Royal Naval Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3604))
 - 2002 — Royal Naval Association (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3935/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3604](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3604)
+- Scottish Tartans Authority (ITI): 3935
+- Scottish Tartans World Register: 2755
+
 ## Thread count
 DB/28 DBa42 R4 DBa6 DB8 DBa42 R6 LN6 R6 DBa42 DB8 DBa6 R4 DBa42 DB28 LN/6
 ![Sett](sett.png)

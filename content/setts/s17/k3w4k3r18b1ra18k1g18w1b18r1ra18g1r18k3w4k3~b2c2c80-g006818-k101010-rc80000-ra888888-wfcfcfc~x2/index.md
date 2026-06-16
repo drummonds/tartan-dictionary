@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Brinkie's Brae (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354))
 - pre 2002 — Brinkie's Brae (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2572/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [354](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354)
+- Scottish Tartans Authority (ITI): 2572
+- Scottish Tartans World Register: 2572
+
 ## Thread count
 K/6 W8 K6 R36 DB2 N36 K2 G36 W2 DB36 R2 N36 G2 R36 K6 W8 K/6
 ![Sett](sett.png)

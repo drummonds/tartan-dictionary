@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Jrgensen of Taasingee (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1909))
 - 2006 — Jorgensen of Taasinge (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7214/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1909](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1909)
+- Scottish Tartans Authority (ITI): 7214
+
 ## Thread count
 B/4 DRb10 DBa6 G10 DBa6 DRb22 LG6 DRb4 DBa22 DRb4 DBa22 G36 DBa22 DRb4 DBa22 DRb4 LG6 DBa10 LG/3
 ![Sett](sett.png)

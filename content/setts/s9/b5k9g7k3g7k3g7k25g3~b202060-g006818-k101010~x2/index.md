@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2004 — Menez Du (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2916))
 - 2004 November — Menez Du (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6462/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2916](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2916)
+- Scottish Tartans Authority (ITI): 6462
+
 ## Thread count
 DB/10 K18 G14 K6 G14 K6 G14 K50 G/6
 ![Sett](sett.png)

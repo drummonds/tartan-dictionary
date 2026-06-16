@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 09/01/2012 — Eastern Shore Police Emerald Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10672))
 - undated — Eastern Shore Police Emerald So Corporate Tartan Tartan Number: 10672. Earliest known date: 13 August 2012 The Eastern Shore Police Emerald Society was founded in March of 2011. It is a non-profit making Irish/Gaelic cultural organization that supports law enforcement officers and organizations on the Delmarva Peninsula of Maryland. The Eastern Shore Police Emerald Society's mission is to develop the spirit of fraternalism and fellowship amongst members, to encourage active participation in community activities, to encourage and enhance professionalism within the law enforcement profession to better serve the community and to promote shared Irish heritage and customs. This tartan was designed to represent these goals. The tartan begins with four fields of emerald green at the centre that represent the four provinces of Ireland. The black, blue and black striping surrounding the four fields of dark green symbolises the thin blue line that is the internationally recognized phrase for the police profession and those whom they protect. The black, gold and black striping surrounding the edge of the tartan is representative of the family coat of arms of the Calvert family, as Maryland was founded by Cecilius Calvert, the second Baron of Baltimore. The small stripe of silver at the centre of this border represents the silver badges associated with the rank and file of law enforcement. Members and supporters of the Eastern Shore Police Emerald Society are permitted and encouraged to wear the Eastern Shore Police Emerald Society Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10672))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10672](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10672)
+
 ## Thread count
 Ga/8 G80 Ga8 K16 B8 K16 Ga10 K4 Y8 K4 G2 Ga4 G4 K2 LN/2
 ![Sett](sett.png)

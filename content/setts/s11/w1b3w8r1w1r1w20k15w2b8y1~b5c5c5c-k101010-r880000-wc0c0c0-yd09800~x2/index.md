@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Harris (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1616))
 - pre 2002 — Harris (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5159/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1616](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1616)
+- Scottish Tartans Authority (ITI): 5159
+
 ## Thread count
 DY/2 N16 Na4 K30 Na40 DR2 Na2 DR2 Na16 N6 Na/2
 ![Sett](sett.png)

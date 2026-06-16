@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2003 — Shaughnessy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3774))
 - May 2003 — Shaughnessy (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6033/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3774](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3774)
+- Scottish Tartans Authority (ITI): 6033
+
 ## Thread count
 DB/136 LB8 T20 Y4 T6 W6 T6 G22 DB16 T6 DB6 W/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Merchiston Castle School Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2935))
 - 1996 — Merchiston Castle School (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1234/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2935](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2935)
+- Scottish Tartans Authority (ITI): 1234
+- Scottish Tartans World Register: 1234
+
 ## Thread count
 K/24 W12 K12 W12 R8 W26 K6 W8 K16 DB48 R/6
 ![Sett](sett.png)

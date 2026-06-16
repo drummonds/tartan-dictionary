@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/06/2010 — Spirit of South Korea (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10681))
 - undated — Spirit of South Korea Fashion Tartan Tartan Number: 10681. Earliest known date: 22 August 2012 Designed for an international fashion show. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10681))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10681](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10681)
+
 ## Thread count
 K/4 W16 R24 B24 W2 R4 W2 B4 W48 K8 W4 K8 W/16
 ![Sett](sett.png)

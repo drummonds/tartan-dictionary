@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2005 — Dunfermline Athletic (2008) (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7538/))
 - undated — Dunfermline Athletic Football Club New Pars (2008) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5573))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5573](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5573)
+- Scottish Tartans Authority (ITI): 7538
+
 ## Thread count
 K/88 LN8 K8 LN8 K32 N64 R/8
 ![Sett](sett.png)

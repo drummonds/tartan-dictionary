@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1999 — O'Neill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2663/))
 - 01/01/2000 — O'Neill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4824))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4824](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4824)
+- Scottish Tartans Authority (ITI): 2663
+- Scottish Tartans World Register: 2663
+
 ## Thread count
 G/10 K8 LT48 K8 G90 DR10 G10 LN/12
 ![Sett](sett.png)

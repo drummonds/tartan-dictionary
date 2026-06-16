@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Coigach (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=706))
 - 2005 Janaury — Coigach (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6570/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [706](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=706)
+- Scottish Tartans Authority (ITI): 6570
+
 ## Thread count
 DR/6 LR6 K6 LR6 DR6 DB16 K2 Y4 K2 DB16 K4 G60 K2 G20 K/4
 ![Sett](sett.png)

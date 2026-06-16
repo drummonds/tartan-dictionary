@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/1997 — Utah (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4826))
 - undated — Utah State American District Tartan Tartan Number: 2702. Earliest known date: 1995 Utah state tartan was commissioned by Garry Bryant, KdeB, KCR, SC, designed by Dr. Phil Smith and adopted by a joint committee of the state's Scottish Societies and made official by Senate Resolution. A combination of the Logan and Skene tartans to honour the first two fur trappers to enter Utah. Sample in STA Johnston Collection. Tartan Society notes add: It is the Logan Tartan TS399 with a white over check added and a blue substituted for a white. Ephraim Logan was an early visitor to Cache Valley in northern Utah in 1824 naming the river after his clan/family name. Official threadcount tripled. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2702))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4826](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4826)
+- Scottish Tartans Authority (ITI): 2702
+- Scottish Tartans World Register: 2702
+
 ## Thread count
 LN/6 DB18 DR18 DB12 DR18 DG54 DR18 LN/12
 ![Sett](sett.png)

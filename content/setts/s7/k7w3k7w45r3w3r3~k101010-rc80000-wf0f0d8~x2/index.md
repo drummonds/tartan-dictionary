@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — White Stripes (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7461/))
 - undated — White Stripes, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5507))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5507](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5507)
+- Scottish Tartans Authority (ITI): 7461
+
 ## Thread count
 K/14 LY6 K14 LY90 R6 LY6 R/6
 ![Sett](sett.png)

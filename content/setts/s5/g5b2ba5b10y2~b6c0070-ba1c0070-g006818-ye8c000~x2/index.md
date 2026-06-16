@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Bryson (2000) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=410))
 - 2000 — Bryson Check (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4156/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [410](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=410)
+- Scottish Tartans Authority (ITI): 4156
+
 ## Thread count
 G/10 P4 DB10 P20 Y/4
 ![Sett](sett.png)

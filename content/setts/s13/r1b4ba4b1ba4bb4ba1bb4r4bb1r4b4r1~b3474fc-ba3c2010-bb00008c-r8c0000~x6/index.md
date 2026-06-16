@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Vincent (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4462))
 - pre 2002 — Vincent (WCWM - Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4342/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4462](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4462)
+- Scottish Tartans Authority (ITI): 4342
+
 ## Thread count
 DR/6 B24 DR24 DB6 DR24 DB24 K6 DB24 K24 B6 K24 B24 DR/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — Cavalier, Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=599))
 - pre 1981 — Cavalier, Green (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1292/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [599](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=599)
+- Scottish Tartans Authority (ITI): 1292
+- Scottish Tartans World Register: 1292
+
 ## Thread count
 G/80 K20 LT4 K4 LN4 K6 DR16 G12 K4 G8 LN/4
 ![Sett](sett.png)

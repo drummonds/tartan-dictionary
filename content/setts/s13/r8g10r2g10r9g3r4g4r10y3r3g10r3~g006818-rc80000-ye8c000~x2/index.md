@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — MacRurie/MacRory (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2762))
 - pre 1950 — MacRory (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1498/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2762](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2762)
+- Scottish Tartans Authority (ITI): 1498
+- Scottish Tartans World Register: 1498
+
 ## Thread count
 R/16 G20 R4 G20 R18 G6 R8 G8 R20 Y6 R6 G20 R/6
 ![Sett](sett.png)

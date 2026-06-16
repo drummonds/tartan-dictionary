@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov 1996 — Westwood MacStone (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7486/))
 - undated — Westwood MacStone (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5527))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5527](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5527)
+- Scottish Tartans Authority (ITI): 7486
+
 ## Thread count
 DR/2 LT12 K12 LN4 K26 LT26 DR4 LT26 K26 LN/4
 ![Sett](sett.png)

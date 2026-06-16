@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Qaboos (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1806/))
 - undated — Quaboos Pipers Plaid Regimental Tartan Tartan Number: 1806. Earliest known date: 1983 The Sultan of Oman is the ruler of Quaboos. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1806))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3420](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3420)
+- Scottish Tartans Authority (ITI): 1806
+- Scottish Tartans World Register: 1806
+
 ## Thread count
 LN/18 G46 R46 LN/18
 ![Sett](sett.png)

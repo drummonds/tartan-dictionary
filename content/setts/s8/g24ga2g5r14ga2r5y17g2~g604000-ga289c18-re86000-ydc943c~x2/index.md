@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1975 — Loch Rannoch #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157))
 - 1975 — Loch Rannoch (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1735/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2157](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157)
+- Scottish Tartans Authority (ITI): 1735
+- Scottish Tartans World Register: 1735
+
 ## Thread count
 T/48 G4 T10 Oa28 G4 Oa10 O34 T/4
 ![Sett](sett.png)

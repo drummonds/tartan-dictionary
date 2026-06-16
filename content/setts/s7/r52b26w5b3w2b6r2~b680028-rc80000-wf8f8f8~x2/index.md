@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Sep 2008 — St. Andrews School (Delaware) (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7744/))
 - undated — St Andrew's School, Delaware (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5725))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5725](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5725)
+- Scottish Tartans Authority (ITI): 7744
+
 ## Thread count
 R/4 DR12 W4 DR6 W10 DR52 R/104
 ![Sett](sett.png)

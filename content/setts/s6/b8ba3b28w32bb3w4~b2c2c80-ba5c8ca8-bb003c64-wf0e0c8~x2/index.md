@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Ailsa Royal Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5619))
 - undated — Ailsa Royal Blue Fashion Tartan Tartan Number: 7595. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7595))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5619](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5619)
+- Scottish Tartans Authority (ITI): 7595
+
 ## Thread count
 DBa/16 B6 DBa56 W64 DB6 W/8
 ![Sett](sett.png)

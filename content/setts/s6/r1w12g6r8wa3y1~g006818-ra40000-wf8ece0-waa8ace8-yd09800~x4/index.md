@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacLean Dress (Lumsden) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2604))
 - pre 2002 — MacLean Dress (Lumsden) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1686/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2604](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2604)
+- Scottish Tartans Authority (ITI): 1686
+- Scottish Tartans World Register: 1686
+
 ## Thread count
 DR/4 LY48 G24 DR32 LP12 DY/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1730 — Plowman (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3347))
 - pre 1730 — Plowman (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6523/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3347](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3347)
+- Scottish Tartans Authority (ITI): 6523
+- Scottish Tartans World Register: 3066
+
 ## Thread count
 LN/2 G6 R48 G4 R4 DP36 R4 G4 R2 Y2 G2 R40 DP4 R4 G6 R4 DP34 R/4
 ![Sett](sett.png)

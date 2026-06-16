@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1977 — Edmonton, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087))
 - May 1977 — City of Edmonton (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7262/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1087](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087)
+- Scottish Tartans Authority (ITI): 7262
+
 ## Thread count
 B/32 Y8 G16 Y8 P16 Y8 B32 LY60 DY/8
 ![Sett](sett.png)

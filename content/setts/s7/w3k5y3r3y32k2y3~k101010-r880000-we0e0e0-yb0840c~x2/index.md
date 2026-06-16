@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Bro-Dreger (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=375))
 - 2005 May — Bro-Dreger (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6650/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [375](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=375)
+- Scottish Tartans Authority (ITI): 6650
+
 ## Thread count
 DY/6 K4 DY64 DR6 DY6 K10 LN/6
 ![Sett](sett.png)

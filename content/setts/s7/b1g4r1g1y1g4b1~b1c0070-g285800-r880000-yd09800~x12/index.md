@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — Justus Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1921))
 - pre 2002 — Justus Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2499/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1921](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1921)
+- Scottish Tartans Authority (ITI): 2499
+- Scottish Tartans World Register: 2499
+
 ## Thread count
 DB/12 G48 DR12 G12 DY12 G48 DB/12
 ![Sett](sett.png)

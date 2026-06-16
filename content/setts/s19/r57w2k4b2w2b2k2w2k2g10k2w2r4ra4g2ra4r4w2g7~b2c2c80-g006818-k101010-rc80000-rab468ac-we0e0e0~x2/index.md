@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1847 — MacBean (1847) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2291))
 - 1847 ish — MacBean (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/952/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2291](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2291)
+- Scottish Tartans Authority (ITI): 952
+- Scottish Tartans World Register: 952
+
 ## Thread count
 G/14 LN4 R8 P8 G4 P8 R8 LN4 K4 G20 K4 LN4 K4 DB4 LN4 DB4 K8 LN4 R/114
 ![Sett](sett.png)

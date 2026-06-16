@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1977 — Saskatchewan Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7696/))
 - undated — Saskatchewan Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5693))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5693](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5693)
+- Scottish Tartans Authority (ITI): 7696
+
 ## Thread count
 LN/4 K2 G12 T22 LN52 R4 LN2 Y/4
 ![Sett](sett.png)

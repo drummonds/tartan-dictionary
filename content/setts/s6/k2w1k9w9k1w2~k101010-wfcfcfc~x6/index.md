@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Erskine (Black and White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1122))
 - 1980 — Erskine Black & White (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1246/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1122](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1122)
+- Scottish Tartans Authority (ITI): 1246
+- Scottish Tartans World Register: 1246
+
 ## Thread count
 K/12 W6 K54 W54 K6 W/12
 ![Sett](sett.png)

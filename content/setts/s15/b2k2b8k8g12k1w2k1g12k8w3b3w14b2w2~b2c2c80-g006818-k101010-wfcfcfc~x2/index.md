@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Forbes Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222))
 - pre 2002 — Forbes Dress - 1990 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/293/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1222](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222)
+- Scottish Tartans Authority (ITI): 293
+- Scottish Tartans World Register: 293
+
 ## Thread count
 DB/4 K4 DB16 K16 G24 K2 W4 K2 G24 K16 W6 DB6 W28 DB4 W/4
 ![Sett](sett.png)

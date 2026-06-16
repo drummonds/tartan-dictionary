@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 26/02/2001 — Alba (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=37))
 - February 2001 — Alba (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3825/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [37](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=37)
+- Scottish Tartans Authority (ITI): 3825
+- Scottish Tartans World Register: 2812
+
 ## Thread count
 P/48 DBa4 G6 LP4 G6 K22 DBa58 W/4
 ![Sett](sett.png)

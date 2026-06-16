@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2005 March — All as One (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6617/))
 - undated — All as One (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5350))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5350](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5350)
+- Scottish Tartans Authority (ITI): 6617
+- Scottish Tartans World Register: 3045
+
 ## Thread count
 K/22 B76 R22 G22 K/10
 ![Sett](sett.png)

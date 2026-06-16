@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Reese (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3485))
 - pre 2006 — Reese (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6915/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3485](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3485)
+- Scottish Tartans Authority (ITI): 6915
+
 ## Thread count
 LN/8 DB88 K20 R8 G8 R/16
 ![Sett](sett.png)

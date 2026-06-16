@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Presley of Lonmay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383))
 - pre 2004 — Presley of Lonmay (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6224/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5383](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383)
+- Scottish Tartans Authority (ITI): 6224
+
 ## Thread count
 K/4 N50 K4 B16 K4 G56 Y/4
 ![Sett](sett.png)

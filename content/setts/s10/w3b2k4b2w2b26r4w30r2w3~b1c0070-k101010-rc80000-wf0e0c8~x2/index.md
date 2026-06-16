@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Harris, Royal Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7592/))
 - undated — Harris Royal Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5616))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5616](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5616)
+- Scottish Tartans Authority (ITI): 7592
+
 ## Thread count
 W/6 DB4 K8 DB4 W4 DB52 R8 W60 R4 W/6
 ![Sett](sett.png)

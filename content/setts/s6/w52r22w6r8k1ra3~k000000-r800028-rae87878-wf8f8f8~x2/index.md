@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1975 — MacGregor Dress Burgundy (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452))
 - 1975 — MacGregor - 1975 (Dance, Burgundy) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1577/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2452](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452)
+- Scottish Tartans Authority (ITI): 1577
+- Scottish Tartans World Register: 1577
+
 ## Thread count
 LR/6 K2 DR16 W12 DR44 W/104
 ![Sett](sett.png)

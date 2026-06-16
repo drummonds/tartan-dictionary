@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1977 — Isle of Arran (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1866))
 - 1977 — Arran, Isle of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5281/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1866](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1866)
+- Scottish Tartans Authority (ITI): 5281
+
 ## Thread count
 DR/4 DY16 DRa12 DR4 DRa12 N4 G12 DB12 N/4
 ![Sett](sett.png)

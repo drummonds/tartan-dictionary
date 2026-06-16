@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Froach's Grian (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1282))
 - pre 2007 — Fraoch's Grian (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7095/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1282](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1282)
+- Scottish Tartans Authority (ITI): 7095
+
 ## Thread count
 N/4 LP48 LT28 N50 LT28 N50 Y40 N/4
 ![Sett](sett.png)

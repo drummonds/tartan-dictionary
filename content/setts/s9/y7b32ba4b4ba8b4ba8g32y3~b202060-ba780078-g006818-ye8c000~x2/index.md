@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Children 1st (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6707/))
 - undated — Children 1st (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5339))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5339](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5339)
+- Scottish Tartans Authority (ITI): 6707
+- Scottish Tartans World Register: 3001
+
 ## Thread count
 Y/14 DB64 P8 DB8 P16 DB8 P16 G64 Y/6
 ![Sett](sett.png)

@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/06/1997 — Dundee Discovery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1033))
 - undated — Dundee Discovery Corporate Tartan Tartan Number: 2512. Earliest known date: Nov. 1996 Asymmetric sett designed in 1996 by Keith Lumsden of the STS for the District Council. Dundee is the home of the RRS Discovery on which Scott and Shackleton sailed to the Antarctic. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2512))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1033](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1033)
+- Scottish Tartans Authority (ITI): 2512
+- Scottish Tartans World Register: 2512
+
 ## Thread count
 DB/8 K4 DB8 K4 DB44 K4 DB8 K4 DB8 G24 DY6 G6 DY2 K6 DR4 K6 DY2 G6 DY6 G24 DB40 K4 DB8 K4 DB40 K28 G24 DR4 G24 K/28
 ![Sett](sett.png)

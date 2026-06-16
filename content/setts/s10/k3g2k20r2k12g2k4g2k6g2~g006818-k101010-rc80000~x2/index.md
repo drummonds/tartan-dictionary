@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 1975 — Renwick (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/787/))
 - undated — Renwick Family Tartan Tartan Number: 787. Earliest known date: Unknown For Robin Rennie. The accreditation list gives the author and weaver, James Scarlett, as the designer in 1980. The tartan register records the designer as Peter MacDonald who worked as a weaver for the Scottish Tartans Society in 1981. Rennies, Rainys and Rainnies (from 'Ranald') are listed as a sept of MacDonell of Keppoch. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=787))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3503](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3503)
+- Scottish Tartans Authority (ITI): 787
+- Scottish Tartans World Register: 787
+
 ## Thread count
 G/4 K12 G4 K8 G4 K24 R4 K40 G4 K/6
 ![Sett](sett.png)

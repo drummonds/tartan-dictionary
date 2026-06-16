@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Gillies Red Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1345))
 - 1986 — Gillies Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/639/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1345](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1345)
+- Scottish Tartans Authority (ITI): 639
+- Scottish Tartans World Register: 639
+
 ## Thread count
 B/4 W6 B4 W48 K20 R16 DG8 R24 K4 Y/12
 ![Sett](sett.png)

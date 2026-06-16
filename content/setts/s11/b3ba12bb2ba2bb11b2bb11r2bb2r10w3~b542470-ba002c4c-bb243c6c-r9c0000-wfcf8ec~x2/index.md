@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - October 2007 — United Scots American (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7336/))
 - undated — United Scots American (Fashion) Fashion Tartan Tartan Number: 7336. Earliest known date: October 2007 Designed by Trudie Ainsworth of The House of Edgar for the companny's stock list. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7336))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4398](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4398)
+- Scottish Tartans Authority (ITI): 7336
+
 ## Thread count
 P/6 DB24 B4 DB4 B22 P4 B22 DR4 B4 DR20 W/6
 ![Sett](sett.png)

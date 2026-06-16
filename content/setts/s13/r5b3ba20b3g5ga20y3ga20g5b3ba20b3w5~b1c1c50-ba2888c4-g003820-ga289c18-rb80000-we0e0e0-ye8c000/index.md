@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2006 — Hosey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1770))
 - November 2006 — Hosey (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7040/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1770](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1770)
+- Scottish Tartans Authority (ITI): 7040
+
 ## Thread count
 LN/5 DBb3 B20 DBb3 DG5 G20 Y3 G20 DG5 DBb3 B20 DBb3 R/5
 ![Sett](sett.png)

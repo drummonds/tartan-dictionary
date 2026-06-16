@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1933 — London Caledonian Games Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2195))
 - 1933 — London Caledonian Games Assoc.(Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1388/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2195](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2195)
+- Scottish Tartans Authority (ITI): 1388
+- Scottish Tartans World Register: 1388
+
 ## Thread count
 R/16 P4 R4 G34 R4 G4 R4 P16 R4 LG4 R42 P4 R/18
 ![Sett](sett.png)

@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 12/02/2010 — MacHarg, Iain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10159))
 - 12th Feb. 2010 — MacHarg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10159/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10159](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10159)
+
 ## Thread count
 DB/6 P6 DB48 K16 G4 K4 G4 K4 G/40
 ![Sett](sett.png)

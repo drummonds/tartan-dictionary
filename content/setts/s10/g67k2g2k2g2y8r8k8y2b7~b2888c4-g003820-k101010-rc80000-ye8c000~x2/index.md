@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - May 2003 — Moran (French) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7385/))
 - undated — Moran (French) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5480))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5480](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5480)
+- Scottish Tartans Authority (ITI): 7385
+
 ## Thread count
 B/14 Y4 K16 R16 Y16 DG4 K4 DG4 K4 DG/134
 ![Sett](sett.png)

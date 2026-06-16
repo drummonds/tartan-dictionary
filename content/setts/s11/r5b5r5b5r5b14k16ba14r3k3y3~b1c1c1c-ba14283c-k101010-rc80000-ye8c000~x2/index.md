@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacDougall - 1970 (William) (Comm) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3353/))
 - undated — MacDougall, William (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5348](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348)
+- Scottish Tartans Authority (ITI): 3353
+
 ## Thread count
 R/10 K10 R10 K10 R10 K28 Ka32 DN28 R6 Ka6 Y/6
 ![Sett](sett.png)

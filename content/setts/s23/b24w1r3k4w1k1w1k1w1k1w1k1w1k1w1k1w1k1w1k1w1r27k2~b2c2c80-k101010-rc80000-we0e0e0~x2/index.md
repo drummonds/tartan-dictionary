@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - April 2008 — McCready (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7625/))
 - undated — McCready (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5644))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5644](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5644)
+- Scottish Tartans Authority (ITI): 7625
+
 ## Thread count
 DB/48 LN2 R6 K8 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 R54 K/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Elwyn Glen (Scottish Borders) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1107))
 - 1996 — Elwyn Glen (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4810/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1107](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1107)
+- Scottish Tartans Authority (ITI): 4810
+
 ## Thread count
 DB/4 Nb20 G8 Na10 G4 Na6 G4 Na10 G8 DB30 N/4
 ![Sett](sett.png)

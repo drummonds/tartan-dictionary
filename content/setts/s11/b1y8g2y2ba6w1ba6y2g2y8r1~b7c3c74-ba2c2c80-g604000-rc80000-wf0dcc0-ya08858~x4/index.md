@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — MacKessog (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2535))
 - pre 2006 — MacKessog (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6928/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2535](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2535)
+- Scottish Tartans Authority (ITI): 6928
+
 ## Thread count
 N/4 LT32 T8 LT8 DB24 W4 DB24 LT8 T8 LT32 R/4
 ![Sett](sett.png)

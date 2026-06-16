@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2004 — Avalon - Carroll House (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=145))
 - 2004 Sept — Avalon - Carroll House (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6362/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [145](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=145)
+- Scottish Tartans Authority (ITI): 6362
+
 ## Thread count
 W/6 K2 B30 K12 B10 K6 B16 K4 B10 Y6 W4 Y8 K2 W/6
 ![Sett](sett.png)

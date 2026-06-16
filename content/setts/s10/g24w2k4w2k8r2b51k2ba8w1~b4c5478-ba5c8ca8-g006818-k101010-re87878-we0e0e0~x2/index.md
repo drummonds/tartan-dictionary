@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1998 — Victoria State (Australia) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4454))
 - Nov. 1998 — Victoria (Australia) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2509/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4454](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4454)
+- Scottish Tartans Authority (ITI): 2509
+- Scottish Tartans World Register: 2509
+
 ## Thread count
 G/48 LN4 K8 LN4 K16 LR4 N102 K4 B16 LN/2
 ![Sett](sett.png)

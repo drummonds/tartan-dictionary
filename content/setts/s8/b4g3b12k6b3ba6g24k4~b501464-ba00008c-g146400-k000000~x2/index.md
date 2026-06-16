@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1992 — Gary/Garry (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4189/))
 - 01/01/2002 — Gary/Garry (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1315))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1315](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1315)
+- Scottish Tartans Authority (ITI): 4189
+
 ## Thread count
 K/8 G48 DB12 P6 K12 P24 G6 P/8
 ![Sett](sett.png)

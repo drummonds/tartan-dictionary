@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Hudson Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1777))
 - 1997 — Hudson Hunting (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5222/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1777](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1777)
+- Scottish Tartans Authority (ITI): 5222
+
 ## Thread count
 DB/8 B4 K4 DB24 B8 G12 K12 G56 K4 B4 G/6
 ![Sett](sett.png)

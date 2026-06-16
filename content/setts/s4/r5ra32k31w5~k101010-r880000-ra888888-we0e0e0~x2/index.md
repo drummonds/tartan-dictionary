@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Loganair (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2190))
 - pre 1988 — Loganair (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1629/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2190](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2190)
+- Scottish Tartans Authority (ITI): 1629
+- Scottish Tartans World Register: 1629
+
 ## Thread count
 DR/10 N64 K62 LN/10
 ![Sett](sett.png)

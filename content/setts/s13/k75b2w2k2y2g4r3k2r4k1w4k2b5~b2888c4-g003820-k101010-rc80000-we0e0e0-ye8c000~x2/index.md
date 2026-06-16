@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2008 — New World Celts (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7636/))
 - undated — New World Celts (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5651))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5651](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5651)
+- Scottish Tartans Authority (ITI): 7636
+
 ## Thread count
 B/10 K4 LN8 K2 R8 K4 R6 DG8 Y4 K4 LN4 B4 K/150
 ![Sett](sett.png)

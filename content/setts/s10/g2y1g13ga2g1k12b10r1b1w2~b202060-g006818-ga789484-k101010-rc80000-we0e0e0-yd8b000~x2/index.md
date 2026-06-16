@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1993 — Bullman (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3763/))
 - undated — Bullman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4855))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4855](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4855)
+- Scottish Tartans Authority (ITI): 3763
+
 ## Thread count
 G/4 Y2 G26 LG4 G2 K24 DB20 R2 DB2 LN/4
 ![Sett](sett.png)

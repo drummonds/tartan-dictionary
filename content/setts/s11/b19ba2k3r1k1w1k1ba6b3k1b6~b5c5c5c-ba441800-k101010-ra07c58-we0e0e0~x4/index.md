@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — Glen Clova #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1370))
 - pre 1989 — Glen Clova #1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4484/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1370](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1370)
+- Scottish Tartans Authority (ITI): 4484
+
 ## Thread count
 N/76 DR8 K12 LT4 K4 LN4 K4 DR24 N12 K4 N/24
 ![Sett](sett.png)

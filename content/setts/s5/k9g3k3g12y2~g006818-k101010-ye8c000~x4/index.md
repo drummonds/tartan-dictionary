@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — MacArthur (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2278))
 - 1842 — MacArthur (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1100/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2278](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2278)
+- Scottish Tartans Authority (ITI): 1100
+- Scottish Tartans World Register: 1100
+
 ## Thread count
 K/36 G12 K12 G48 Y/8
 ![Sett](sett.png)

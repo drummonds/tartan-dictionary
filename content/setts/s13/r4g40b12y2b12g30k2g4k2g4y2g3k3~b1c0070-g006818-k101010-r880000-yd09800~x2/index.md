@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/1999 — Bartlett from Winnetka, Illinois (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=224))
 - Oct. 1999 — Bartlett (Name #1) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2640/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [224](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=224)
+- Scottish Tartans Authority (ITI): 2640
+- Scottish Tartans World Register: 2640
+
 ## Thread count
 DR/8 G80 DB24 DY4 DB24 G60 K4 G8 K4 G8 DY4 G6 K/6
 ![Sett](sett.png)

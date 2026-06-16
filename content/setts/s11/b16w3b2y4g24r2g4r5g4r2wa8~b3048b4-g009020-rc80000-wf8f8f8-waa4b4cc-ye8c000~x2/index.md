@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1977 — Currie of Arran (Clan/family) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/499/))
 - 01/01/1981 — Currie of Arran (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=853))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [853](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=853)
+- Scottish Tartans Authority (ITI): 499
+- Scottish Tartans World Register: 499
+
 ## Thread count
 B/32 W6 B4 Y8 G48 R4 G8 R10 G8 R4 N/16
 ![Sett](sett.png)

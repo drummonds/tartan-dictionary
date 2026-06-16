@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 18.06.03 — Trevison (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5846/))
 - undated — Trevison Personal Tartan Tartan Number: 5846. Earliest known date: 18.06.03 Final version. Includes the colours of the Italian flag. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5846))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4148](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4148)
+- Scottish Tartans Authority (ITI): 5846
+
 ## Thread count
 K/26 R4 LN4 G4 K26 R12 LN6 DB4 LN6 R12 K2 R/94
 ![Sett](sett.png)

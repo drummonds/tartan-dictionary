@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Burrell (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=452))
 - 2006 — Burrell, Paul (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6819/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [452](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=452)
+- Scottish Tartans Authority (ITI): 6819
+
 ## Thread count
 DR/58 N2 DR4 N2 DR120 DY4 DR4 DB20 G4 Ga2 G4 DB20 DR4 DY/4
 ![Sett](sett.png)

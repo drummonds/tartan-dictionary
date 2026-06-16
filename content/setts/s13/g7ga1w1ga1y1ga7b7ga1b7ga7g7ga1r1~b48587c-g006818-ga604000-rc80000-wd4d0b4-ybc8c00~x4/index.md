@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - April 2008 — Hash House Harriers Hunting (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7627/))
 - undated — Hash House Harriers Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5645))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5645](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5645)
+- Scottish Tartans Authority (ITI): 7627
+
 ## Thread count
 G/28 T4 LR4 T4 DY4 T28 B28 T4 B28 T28 G28 T4 R/4
 ![Sett](sett.png)

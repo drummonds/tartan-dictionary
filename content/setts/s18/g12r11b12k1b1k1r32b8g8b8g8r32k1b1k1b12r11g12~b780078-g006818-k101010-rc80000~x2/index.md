@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1790s — Fiddes - 1790 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/836/))
 - undated — Fiddes Family Tartan Tartan Number: 836. Earliest known date: 1800 Unusual sett from Wilsons of Bannockburn See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=836))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1176](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1176)
+- Scottish Tartans Authority (ITI): 836
+- Scottish Tartans World Register: 836
+
 ## Thread count
 G/24 R22 P24 K2 P2 K2 R64 G16 P16 G16 P16 R64 K2 P2 K2 P24 R22 G/24
 ![Sett](sett.png)

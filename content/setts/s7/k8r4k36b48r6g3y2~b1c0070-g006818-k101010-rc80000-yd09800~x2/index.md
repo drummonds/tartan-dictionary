@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Royal Marines Condor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3602))
 - 1994 — Royal Marines Condor (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2330/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3602](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3602)
+- Scottish Tartans Authority (ITI): 2330
+- Scottish Tartans World Register: 2330
+
 ## Thread count
 DY/4 G6 R12 DB96 K72 R8 K/16
 ![Sett](sett.png)

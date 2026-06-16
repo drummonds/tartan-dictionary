@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2007 — Firefighters' Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1189))
 - July 2007 — Firefighters' Memorial (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7339/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1189](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1189)
+- Scottish Tartans Authority (ITI): 7339
+
 ## Thread count
 DR/4 K4 DR65 K8 DR6 K35 DY2 K2 G7 K35 R3 K2 R/4
 ![Sett](sett.png)

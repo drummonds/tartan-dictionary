@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1975 — Man, Isle of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2799))
 - 1975 — Man, Isle of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5697/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2799](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2799)
+- Scottish Tartans Authority (ITI): 5697
+
 ## Thread count
 DR/4 DB44 T8 N6 G14 DY4 G8 N4 G18 P12 DY4 P8 N/4
 ![Sett](sett.png)

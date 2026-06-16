@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Cranston Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=794))
 - pe 2002 — Cranston Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/753/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [794](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=794)
+- Scottish Tartans Authority (ITI): 753
+- Scottish Tartans World Register: 753
+
 ## Thread count
 Ga/6 G26 DB14 R6 DB4 R2 DB4 R/30
 ![Sett](sett.png)

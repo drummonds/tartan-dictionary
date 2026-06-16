@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Donnolly (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=951))
 - 2003 — Donnolly (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6034/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [951](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=951)
+- Scottish Tartans Authority (ITI): 6034
+
 ## Thread count
 DB/6 G42 DB6 DO42 DB70 W/6
 ![Sett](sett.png)

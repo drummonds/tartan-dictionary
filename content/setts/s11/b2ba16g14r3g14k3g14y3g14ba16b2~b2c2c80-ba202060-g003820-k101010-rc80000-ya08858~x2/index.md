@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1998 — Pendleton Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3315))
 - 1998 — Pendleton Htg (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2467/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3315](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3315)
+- Scottish Tartans Authority (ITI): 2467
+- Scottish Tartans World Register: 2467
+
 ## Thread count
 DB/4 DBa32 DG28 LT6 DG28 K6 DG28 R6 DG28 DBa32 DB/4
 ![Sett](sett.png)

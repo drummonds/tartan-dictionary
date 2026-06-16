@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — U.S.S. John Paul Jones #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4193))
 - pre 2002 — U.S.S. John Paul Jones (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4360/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4193](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4193)
+- Scottish Tartans Authority (ITI): 4360
+
 ## Thread count
 LP/12 DB4 B64 DB64 B8 N/8
 ![Sett](sett.png)

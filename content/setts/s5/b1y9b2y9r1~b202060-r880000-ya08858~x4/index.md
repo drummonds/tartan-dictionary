@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Brooks Brothers Tattersall Camel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=383))
 - pre 2005 — Brooks Bros Tattersall Camel (Fashio (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6571/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [383](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=383)
+- Scottish Tartans Authority (ITI): 6571
+
 ## Thread count
 DB/4 LT36 DB8 LT36 DR/4
 ![Sett](sett.png)

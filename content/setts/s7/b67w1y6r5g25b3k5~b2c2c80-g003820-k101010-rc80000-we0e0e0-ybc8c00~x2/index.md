@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2006 — Guide Dogs (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7537/))
 - undated — Guide Dogs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5572))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5572](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5572)
+- Scottish Tartans Authority (ITI): 7537
+
 ## Thread count
 DB/134 LN2 DY12 R10 DG50 DB6 K/10
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2003 — Trillard (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5455))
 - pre 2004 — Trillard (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6235/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5455](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5455)
+- Scottish Tartans Authority (ITI): 6235
+- Scottish Tartans World Register: 2983
+
 ## Thread count
 B/4 K4 B48 W16 K24 W16 B20 K16 R12 K6 R6 B/8
 ![Sett](sett.png)

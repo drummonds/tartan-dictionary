@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Bro-sant-Malou (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=387))
 - 2005 May — Bro-sant-Malou (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6649/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [387](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=387)
+- Scottish Tartans Authority (ITI): 6649
+
 ## Thread count
 G/6 Y2 W22 DB32 R48 K/6
 ![Sett](sett.png)

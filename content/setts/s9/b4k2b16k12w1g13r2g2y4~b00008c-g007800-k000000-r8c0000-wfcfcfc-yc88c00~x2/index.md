@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Cusack (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4649/))
 - undated — Cusack Clan/Family Tartan Tartan Number: 4649. Earliest known date: 2002 Designed by Peter MacDonald for Jeremy Cusack, Guernsey, Channel Isles. Copyright Peter MacDonald but can be worn by all Cusacks. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4649))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [857](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=857)
+- Scottish Tartans Authority (ITI): 4649
+- Scottish Tartans World Register: 2775
+
 ## Thread count
 DB/8 K4 DB32 K24 W2 G26 DR4 G4 DY/8
 ![Sett](sett.png)

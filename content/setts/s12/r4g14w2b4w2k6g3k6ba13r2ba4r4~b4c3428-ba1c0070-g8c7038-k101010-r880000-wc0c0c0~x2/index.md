@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1997 — Kinloch Anderson Old Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1989))
 - pre 2002 — Kinloch Anderson Dress (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2406/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1989](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1989)
+- Scottish Tartans Authority (ITI): 2406
+- Scottish Tartans World Register: 2406
+
 ## Thread count
 DR/8 DB8 DR4 DB26 K12 LT6 K12 N4 T8 N4 LT28 DR/8
 ![Sett](sett.png)

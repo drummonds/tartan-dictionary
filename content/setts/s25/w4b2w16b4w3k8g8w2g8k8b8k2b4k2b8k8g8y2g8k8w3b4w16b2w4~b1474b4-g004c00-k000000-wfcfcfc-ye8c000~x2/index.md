@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Campbell Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5458))
 - 1880 — Campbell Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/19/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5458](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5458)
+- Scottish Tartans Authority (ITI): 19
+- Scottish Tartans World Register: 19
+
 ## Thread count
 W/8 B4 W32 B8 W6 K16 G16 W4 G16 K16 B16 K4 B8 K4 B16 K16 G16 Y4 G16 K16 W6 B8 W32 B4 W/8
 ![Sett](sett.png)

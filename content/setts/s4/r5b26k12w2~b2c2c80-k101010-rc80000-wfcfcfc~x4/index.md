@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1999 — Mirror (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6218/))
 - 01/05/2002 — Mirror (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2963))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2963](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2963)
+- Scottish Tartans Authority (ITI): 6218
+- Scottish Tartans World Register: 2893
+
 ## Thread count
 R/20 DB104 K48 W/8
 ![Sett](sett.png)

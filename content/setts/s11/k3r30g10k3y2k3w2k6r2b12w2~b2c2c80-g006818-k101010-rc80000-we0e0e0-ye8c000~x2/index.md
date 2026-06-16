@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1882 — Kilmorie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1976))
 - 1882 — Kilmorie (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7123/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1976](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1976)
+- Scottish Tartans Authority (ITI): 7123
+
 ## Thread count
 K/6 R60 G20 K6 Y4 K6 LN4 K12 R4 DB24 LN/4
 ![Sett](sett.png)

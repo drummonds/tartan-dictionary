@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2007 — MacCormick Festive (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2325))
 - September 2007 — MacCormick Festive? (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7295/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2325](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2325)
+- Scottish Tartans Authority (ITI): 7295
+
 ## Thread count
 LN/6 DB6 K2 B32 K2 DB16 R6 DB48 Y/6
 ![Sett](sett.png)

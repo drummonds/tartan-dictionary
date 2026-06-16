@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Midnight Glen (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7612/))
 - undated — Midnight Glen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5634))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5634](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5634)
+- Scottish Tartans Authority (ITI): 7612
+
 ## Thread count
 DP/6 K80 N6 DP12 K20 DP20 K6 N2 LT/6
 ![Sett](sett.png)

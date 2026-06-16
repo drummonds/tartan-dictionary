@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1920 — Douglas, Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=964))
 - pre 2002 — Douglas, Black (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1029/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [964](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=964)
+- Scottish Tartans Authority (ITI): 1029
+- Scottish Tartans World Register: 1029
+
 ## Thread count
 K/8 B5 G44 K40 R/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Melrose of Alabama (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2913))
 - pre 2002 — Melrose of Alabama (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4151/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2913](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2913)
+- Scottish Tartans Authority (ITI): 4151
+
 ## Thread count
 DY/8 G24 K24 DB24 DR8 DB24 K/24
 ![Sett](sett.png)

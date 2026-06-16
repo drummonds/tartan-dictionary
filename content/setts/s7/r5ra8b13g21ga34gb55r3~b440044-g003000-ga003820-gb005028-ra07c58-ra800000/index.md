@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — Lunting Papi (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2251))
 - June 2007 — Lunting Papi (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7223/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2251](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2251)
+- Scottish Tartans Authority (ITI): 7223
+
 ## Thread count
 LT/5 DR8 DP13 DG21 DGa34 G55 LT/3
 ![Sett](sett.png)

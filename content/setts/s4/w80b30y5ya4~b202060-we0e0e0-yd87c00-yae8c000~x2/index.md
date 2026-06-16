@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2001 — Tarbh Deargh (Red Bull) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4072))
 - pre 2002 — Tarbh Deargh (Red Bull) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3974/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4072](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4072)
+- Scottish Tartans Authority (ITI): 3974
+- Scottish Tartans World Register: 2860
+
 ## Thread count
 LN/160 DB60 O10 Y/8
 ![Sett](sett.png)

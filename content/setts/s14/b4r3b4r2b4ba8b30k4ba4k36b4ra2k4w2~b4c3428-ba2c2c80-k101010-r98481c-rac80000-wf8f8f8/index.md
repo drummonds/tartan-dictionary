@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2005 — Capercaillie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=558))
 - 2005 December — Capercaillie (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6857/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [558](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=558)
+- Scottish Tartans Authority (ITI): 6857
+
 ## Thread count
 Ta/4 T3 Ta4 T2 Ta4 DB8 Ta30 K4 DB4 K36 Ta4 R2 K4 W/2
 ![Sett](sett.png)

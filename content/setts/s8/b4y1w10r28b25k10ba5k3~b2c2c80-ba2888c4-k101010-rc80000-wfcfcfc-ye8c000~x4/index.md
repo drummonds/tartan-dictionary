@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — McKnight Dress #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2895))
 - pre 2004 — McKnight Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6214/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2895](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2895)
+- Scottish Tartans Authority (ITI): 6214
+
 ## Thread count
 DB/16 Y4 W40 R112 DB100 K40 B20 K/12
 ![Sett](sett.png)

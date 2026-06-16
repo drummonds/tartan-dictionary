@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1831 — MacNaughton (Logan) #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2676))
 - pre 1831 — MacNaughton (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1066/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2676](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2676)
+- Scottish Tartans Authority (ITI): 1066
+- Scottish Tartans World Register: 1066
+
 ## Thread count
 K/4 DB4 Ra52 DB26 K26 G50 Ra52 DB4 K/4
 ![Sett](sett.png)

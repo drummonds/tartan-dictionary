@@ -18,6 +18,14 @@ This cloth appears in 4 source records; the oldest owns this page.
 - undated — Logan or MacLennan Clan Tartan Tartan Number: 1429. Earliest known date: 1831 This sett is also recorded under MacLennan. Logans have another tartan also known as Skene or Rose. There is no conclusive explanation for the Logan - MacLennan connection, but it has been suggested that Logan or Lobban is an 'alias' for MacLennan, a common feature of early Scottish surnames. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1429))
 - undated — MacLennan (or Logan) Clan Tartan Tartan Number: 2143. Earliest known date: 1831 This sett is also listed under Logan. D C Stewart says, "The group of five red lines is often seen with the lines equally spaced, and even equal width. The earlier arrangement here shown is preferable." Dr. Micheil MacDonald suggests that Logan (possibly Lobban) was an alternative name for MacLennan rather than a separate clan. Alternative names or aliases are not uncommon in early Scottish records. ('The Clans of Scotland', M. MacDonald, 1991) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2143))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2187](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2187)
+- Scottish Tartans Authority (ITI): 490
+- Scottish Tartans World Register: 490
+
 ## Thread count
 R/12 DB6 R4 DB4 R4 DB32 K24 G32 R2 K2 Y/4
 ![Sett](sett.png)

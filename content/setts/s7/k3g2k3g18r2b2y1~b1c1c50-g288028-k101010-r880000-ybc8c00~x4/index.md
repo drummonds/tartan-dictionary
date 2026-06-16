@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Selvon-Bruce (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7566/))
 - undated — Selvon-Bruce (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5592))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5592](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5592)
+- Scottish Tartans Authority (ITI): 7566
+
 ## Thread count
 DY/4 DB8 DR8 G72 K12 G8 K/12
 ![Sett](sett.png)

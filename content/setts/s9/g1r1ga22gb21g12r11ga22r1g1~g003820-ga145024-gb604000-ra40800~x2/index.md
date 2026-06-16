@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec. 2008 — MacNaughton Htg (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7852/))
 - undated — Macnaughton Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5804))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5804](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5804)
+- Scottish Tartans Authority (ITI): 7852
+
 ## Thread count
 DG/2 DR2 G44 DR22 DG24 T42 G44 DR2 DG/2
 ![Sett](sett.png)

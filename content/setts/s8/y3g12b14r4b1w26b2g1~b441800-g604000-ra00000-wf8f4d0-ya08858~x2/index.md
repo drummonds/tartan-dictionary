@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Turnberry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4159))
 - pre 1978 — Turnberry (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5088/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4159](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4159)
+- Scottish Tartans Authority (ITI): 5088
+
 ## Thread count
 LT/6 T24 DR28 DRa8 DR2 LY52 DR4 T/2
 ![Sett](sett.png)

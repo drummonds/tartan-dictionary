@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1984 — Ben Ledi (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3676/))
 - undated — Ben Ledi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4951))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4951](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4951)
+- Scottish Tartans Authority (ITI): 3676
+
 ## Thread count
 LT/4 K16 LT3 K12 G24 LT3 LY3 LT8 LY3 LT3 LY/60
 ![Sett](sett.png)

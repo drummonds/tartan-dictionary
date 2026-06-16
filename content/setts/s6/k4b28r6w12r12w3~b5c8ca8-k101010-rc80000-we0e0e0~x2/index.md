@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/1998 — Thompson, D.C. (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4113))
 - 1998 — Thompson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2484/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4113](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4113)
+- Scottish Tartans Authority (ITI): 2484
+- Scottish Tartans World Register: 2484
+
 ## Thread count
 K/8 B56 R12 LN24 R24 LN/6
 ![Sett](sett.png)

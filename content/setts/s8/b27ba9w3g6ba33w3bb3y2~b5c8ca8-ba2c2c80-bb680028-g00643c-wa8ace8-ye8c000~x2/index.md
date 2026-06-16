@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2005 — Blue Ridge Highlands Heritage (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=304))
 - 2005 April — Blue Ridge Highlands Heritage (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6637/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [304](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=304)
+- Scottish Tartans Authority (ITI): 6637
+
 ## Thread count
 B/54 DBa18 LP6 G12 DBa66 LP6 DR6 Y/4
 ![Sett](sett.png)

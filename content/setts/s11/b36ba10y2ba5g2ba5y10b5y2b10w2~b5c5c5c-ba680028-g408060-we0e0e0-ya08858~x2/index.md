@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2004 — Toyokawa Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4143))
 - 2004 Dec. — Toyokawa Check (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6467/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4143)
+- Scottish Tartans Authority (ITI): 6467
+
 ## Thread count
 LN/4 N20 LT4 N10 LT20 DR10 G4 DR10 LT4 DR20 N/72
 ![Sett](sett.png)

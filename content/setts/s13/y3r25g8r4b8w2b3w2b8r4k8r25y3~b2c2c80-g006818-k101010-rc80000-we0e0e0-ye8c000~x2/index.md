@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 14/06/2000 — Maynard (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2866))
 - pre 2007 — Maynard (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7379/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2866](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2866)
+- Scottish Tartans Authority (ITI): 7379
+- Scottish Tartans World Register: 2875
+
 ## Thread count
 Y/6 R50 G16 R8 DB16 LN4 DB6 LN4 DB16 R8 K16 R50 Y/6
 ![Sett](sett.png)

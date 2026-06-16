@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 06/04/2002 — New York City (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5085))
 - 2002 — New York City (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3812/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5085](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5085)
+- Scottish Tartans Authority (ITI): 3812
+
 ## Thread count
 B/16 DB24 K8 DB24 N24 G32 DR/8
 ![Sett](sett.png)

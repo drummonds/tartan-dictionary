@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1840 — Roxburgh Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3583))
 - 1840 — Roxburgh, Red (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/140/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3583](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3583)
+- Scottish Tartans Authority (ITI): 140
+- Scottish Tartans World Register: 140
+
 ## Thread count
 DB/6 G52 DB6 R6 DB40 R6 DB6 R52 G10 W/6
 ![Sett](sett.png)

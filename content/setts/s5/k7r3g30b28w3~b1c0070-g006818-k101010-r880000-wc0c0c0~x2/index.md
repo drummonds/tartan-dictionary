@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1997 Sep — Highlander Highland Laddie (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2396/))
 - undated — Highlander Universal Tartan Tartan Number: 2396. Earliest known date: 1997 Sep Can be worn by customers of the Highland Laddie - an Edinburgh Highland outfitters and kilt maker. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2396))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1727](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1727)
+- Scottish Tartans Authority (ITI): 2396
+- Scottish Tartans World Register: 2396
+
 ## Thread count
 K/14 DR6 G60 DB56 N/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Canuck Place (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=555))
 - pre 2007 — Canuck Place (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7182/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=555)
+- Scottish Tartans Authority (ITI): 7182
+
 ## Thread count
 DY/2 DR4 LT6 LP48 LT52 DB6 LT30 DB4 LN/2
 ![Sett](sett.png)

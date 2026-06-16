@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1996 — Irish National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1855))
 - 1996 — Irish National (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2245/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1855](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1855)
+- Scottish Tartans Authority (ITI): 2245
+- Scottish Tartans World Register: 2245
+
 ## Thread count
 G/106 DG10 Y10 DG18 Ka10 LN10 DG4 G14 DG2 Y/4
 ![Sett](sett.png)

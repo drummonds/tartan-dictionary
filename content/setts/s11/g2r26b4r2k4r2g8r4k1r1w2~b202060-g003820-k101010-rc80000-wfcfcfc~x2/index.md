@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1829 — Stewart/Stuart of Rothesay (Sobieski) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3954))
 - 1829 — Stewart of Rothesay - 1829 (C Mss) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/847/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3954](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3954)
+- Scottish Tartans Authority (ITI): 847
+- Scottish Tartans World Register: 847
+
 ## Thread count
 DG/4 R52 DB8 R4 K8 R4 DG16 R8 K2 R2 W/4
 ![Sett](sett.png)

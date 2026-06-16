@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Calais (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3779/))
 - undated — Calais (Fashion) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5032))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5032](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5032)
+- Scottish Tartans Authority (ITI): 3779
+
 ## Thread count
 G/44 B16 G24 T44 B4 K4 T/16
 ![Sett](sett.png)

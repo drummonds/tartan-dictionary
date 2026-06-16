@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1988 — Durie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2228/))
 - 01/01/1994 — Durie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1053))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1053](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1053)
+- Scottish Tartans Authority (ITI): 2228
+- Scottish Tartans World Register: 2228
+
 ## Thread count
 DB/48 DR4 DB4 DR4 DB4 DR16 G48 Y4 G/8
 ![Sett](sett.png)

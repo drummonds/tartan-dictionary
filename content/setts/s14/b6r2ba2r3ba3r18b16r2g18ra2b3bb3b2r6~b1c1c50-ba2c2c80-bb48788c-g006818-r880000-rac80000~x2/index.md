@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Minster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2961))
 - pre 1986 — Minster (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5679/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2961](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2961)
+- Scottish Tartans Authority (ITI): 5679
+
 ## Thread count
 DBa/12 DR4 DB4 DR6 DB6 DR36 DBa32 DR4 G36 R4 DBa6 B6 DBa4 DR/12
 ![Sett](sett.png)

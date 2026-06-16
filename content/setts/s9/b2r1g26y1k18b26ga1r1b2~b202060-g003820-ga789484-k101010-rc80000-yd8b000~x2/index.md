@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1994 — Robb Hunting (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3157/))
 - undated — Robb (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4854))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4854](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4854)
+- Scottish Tartans Authority (ITI): 3157
+
 ## Thread count
 DB/4 R2 DG52 Y2 K36 DB52 LG2 R2 DB/4
 ![Sett](sett.png)

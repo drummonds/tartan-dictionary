@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Baird Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/233/))
 - undated — Baird Dress Clan Tartan Tartan Number: 233. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=233))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [170](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=170)
+- Scottish Tartans Authority (ITI): 233
+- Scottish Tartans World Register: 233
+
 ## Thread count
 DB/8 K8 DB46 K24 G20 K2 LN46 P4 LN4 P/8
 ![Sett](sett.png)

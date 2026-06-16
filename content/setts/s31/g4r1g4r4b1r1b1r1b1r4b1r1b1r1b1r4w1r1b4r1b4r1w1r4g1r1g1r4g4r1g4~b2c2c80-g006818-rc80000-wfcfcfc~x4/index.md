@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — MacRae (Red) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2742))
 - 1850 — MacRae - 1850 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/859/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2742](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2742)
+- Scottish Tartans Authority (ITI): 859
+- Scottish Tartans World Register: 859
+
 ## Thread count
 G/16 R4 G16 R16 DB4 R4 DB4 R4 DB4 R16 DB4 R4 DB4 R4 DB4 R16 W4 R4 DB16 R4 DB16 R4 W4 R16 G4 R4 G4 R16 G16 R4 G/16
 ![Sett](sett.png)

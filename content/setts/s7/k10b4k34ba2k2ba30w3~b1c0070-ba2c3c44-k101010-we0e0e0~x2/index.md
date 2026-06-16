@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Patriot, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5459))
 - undated — Patriot Weavers Tartan Tartan Number: 7343. Earliest known date: pre 2009 The Patriot tartan has been especially designed for those proud of their Scots connections. The colours in the design are navy blue, black, royal blue and white. The influence for the design comes from the Douglas tartan, in homage to one of Scotland's greatest patriots, Sir James (Black) Douglas. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7343))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5459](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5459)
+- Scottish Tartans Authority (ITI): 7343
+
 ## Thread count
 K/20 DB8 K68 DN4 K4 DN60 LN/6
 ![Sett](sett.png)

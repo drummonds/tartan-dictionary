@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Macissac (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5552))
 - undated — Macissac Clan/Family Tartan Tartan Number: 7514. Earliest known date: pre 2008 Count and sample from Lochcarron. Very large sett of about 14 inches. Colours in woven sample described as weathered blue (grey) and weathered green (brown). Colours in brackets are those used to match them. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7514))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5552](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5552)
+- Scottish Tartans Authority (ITI): 7514
+
 ## Thread count
 DY/8 K2 N40 K40 LT40 DY8 LT40 K40 N4 K4 N4 K4 N/40
 ![Sett](sett.png)

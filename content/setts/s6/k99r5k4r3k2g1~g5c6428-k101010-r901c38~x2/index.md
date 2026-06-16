@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2007 — Allt Dubh (Black Burn) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61))
 - September 2007 — Allt Dubh (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7296/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [61](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61)
+- Scottish Tartans Authority (ITI): 7296
+
 ## Thread count
 G/2 K4 DR6 K8 DR10 K/198
 ![Sett](sett.png)

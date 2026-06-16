@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2000 — MacDougal (Dress) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2391))
 - Dec 2000 — MacDougall - 1970 (Dress) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6433/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2391](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2391)
+- Scottish Tartans Authority (ITI): 6433
+
 ## Thread count
 W/4 LR4 R4 W32 R6 W4 R6 W4 R6 K12 LR4 R4 LR4 DG12 R14 W12 R4 K4 R32 LR4 R4 W/4
 ![Sett](sett.png)

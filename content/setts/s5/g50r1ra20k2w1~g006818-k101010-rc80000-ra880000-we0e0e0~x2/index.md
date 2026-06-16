@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2006 — Kenspeckle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1949))
 - 2006 July — Kenspeckle (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6969/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1949](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1949)
+- Scottish Tartans Authority (ITI): 6969
+
 ## Thread count
 G/100 R2 DR40 K4 LN/2
 ![Sett](sett.png)

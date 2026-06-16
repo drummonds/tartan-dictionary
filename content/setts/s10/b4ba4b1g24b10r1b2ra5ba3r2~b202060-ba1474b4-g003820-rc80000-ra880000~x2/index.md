@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec 2001 — Rikaco Classic (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3931/))
 - undated — Rikaco Classic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4896))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4896](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4896)
+- Scottish Tartans Authority (ITI): 3931
+
 ## Thread count
 DB/8 B8 DB2 DG48 DB20 R2 DB4 DR10 B6 R/4
 ![Sett](sett.png)

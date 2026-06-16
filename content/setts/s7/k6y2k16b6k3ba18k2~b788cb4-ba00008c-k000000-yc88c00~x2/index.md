@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — Carrick High School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=576))
 - 2000 — Carrick High (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4145/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [576](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=576)
+- Scottish Tartans Authority (ITI): 4145
+
 ## Thread count
 K/4 DB36 K6 B12 K32 DY4 K/12
 ![Sett](sett.png)

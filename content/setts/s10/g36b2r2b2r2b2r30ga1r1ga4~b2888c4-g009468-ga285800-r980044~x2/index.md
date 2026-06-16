@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Connaught (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=742))
 - pre 1997 — Connaught/Connacht (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4063/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [742](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=742)
+- Scottish Tartans Authority (ITI): 4063
+
 ## Thread count
 B/72 Ba4 R4 Ba4 R4 Ba4 R60 G2 R2 G/8
 ![Sett](sett.png)

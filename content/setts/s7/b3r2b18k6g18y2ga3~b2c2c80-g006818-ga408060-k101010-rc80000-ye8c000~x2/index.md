@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — McComb (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2878))
 - pre 1997 — McComb (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2340/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2878](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2878)
+- Scottish Tartans Authority (ITI): 2340
+- Scottish Tartans World Register: 2340
+
 ## Thread count
 DB/6 R4 DB36 K12 G36 Y4 Ga/6
 ![Sett](sett.png)

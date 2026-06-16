@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Campagna Center (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7544/))
 - undated — Campagna Center (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5578))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5578](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5578)
+- Scottish Tartans Authority (ITI): 7544
+
 ## Thread count
 G/4 R72 G22 K10 LN2 G2 Y2 K2 LN2 K2 G32 R10 LN/2
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacDonell of Glengarry Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2384))
 - pre 2002 — MacDonell of Glengarry Dress (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1999/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2384](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2384)
+- Scottish Tartans Authority (ITI): 1999
+- Scottish Tartans World Register: 1999
+
 ## Thread count
 DB/12 R4 DB14 R4 DB14 R4 K14 G16 R4 G6 R4 G10 LN4 G10 R4 G6 R4 G16 K18 LN30 K18 R/4
 ![Sett](sett.png)

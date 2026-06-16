@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — Ramsay Blue Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3454))
 - pre 1950 — Ramsay, Blue Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/259/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3454](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3454)
+- Scottish Tartans Authority (ITI): 259
+- Scottish Tartans World Register: 259
+
 ## Thread count
 B/6 K2 B60 K56 N4 K/8
 ![Sett](sett.png)

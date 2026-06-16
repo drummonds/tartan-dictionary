@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2006 — Steel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3912))
 - 2006 February — Steel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6856/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3912](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3912)
+- Scottish Tartans Authority (ITI): 6856
+
 ## Thread count
 DB/6 G48 K4 Y4 K4 W4 G20 R10 K4 R6 W/5
 ![Sett](sett.png)

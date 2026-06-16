@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1728 — Brown of Castledean (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3738/))
 - undated — Brown of Castledean (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5130))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5130](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5130)
+- Scottish Tartans Authority (ITI): 3738
+
 ## Thread count
 DB/24 R60 DB4 N4 K16 N4 K8 Y4 K8 DG30 R16 K4 R8 N/4
 ![Sett](sett.png)

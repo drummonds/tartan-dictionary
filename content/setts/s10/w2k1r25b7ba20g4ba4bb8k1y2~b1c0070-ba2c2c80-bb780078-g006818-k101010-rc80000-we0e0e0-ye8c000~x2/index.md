@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2008 — Guardian of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5787))
 - Dec. 2008 — Guardian of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7835/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5787](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5787)
+- Scottish Tartans Authority (ITI): 7835
+
 ## Thread count
 LN/4 K2 R50 DBa14 DB40 G8 DB8 P16 K2 Y/4
 ![Sett](sett.png)

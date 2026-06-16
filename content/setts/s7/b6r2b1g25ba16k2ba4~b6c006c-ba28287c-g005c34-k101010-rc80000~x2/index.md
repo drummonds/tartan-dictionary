@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Laurie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2061))
 - 1999 — Laurie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4224/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2061](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2061)
+- Scottish Tartans Authority (ITI): 4224
+- Scottish Tartans World Register: 2921
+
 ## Thread count
 DB/8 K4 DB32 G50 P2 R4 P/12
 ![Sett](sett.png)

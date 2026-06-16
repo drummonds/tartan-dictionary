@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/1999 — Coldstream (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=708))
 - 1999 — Coldstream (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2650/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3428](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3428)
+- Scottish Tartans Authority (ITI): 2649
+- Scottish Tartans World Register: 2649
+
 ## Thread count
 LN/6 DB2 B36 Ra6 Ba8 Ra6 DBa8 DB6 DBa4 DB48 R/2
 ![Sett](sett.png)

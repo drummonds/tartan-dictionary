@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Galway, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1308))
 - 1997 — Galway, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2254/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1308](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1308)
+- Scottish Tartans Authority (ITI): 2254
+- Scottish Tartans World Register: 2254
+
 ## Thread count
 DR/8 DG26 DR6 DP8 DR6 DP6 DR80 DP6 DR4 DY/8
 ![Sett](sett.png)

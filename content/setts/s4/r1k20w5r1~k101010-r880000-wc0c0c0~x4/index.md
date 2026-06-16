@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2002 — Dobelman (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3241/))
 - undated — Dobelman (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5385))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5385](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5385)
+- Scottish Tartans Authority (ITI): 3241
+
 ## Thread count
 DR/4 K80 N20 DR/4
 ![Sett](sett.png)

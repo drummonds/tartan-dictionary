@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 17/12/2008 — Sens (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5732))
 - 17th Dec. 2008 — Sens (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7752/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5732](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5732)
+- Scottish Tartans Authority (ITI): 7752
+
 ## Thread count
 LN/6 DBa2 LN2 DBa64 R16 Y8 DBa6 Y2 LN4 R/52
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — Louisiana (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2233))
 - 2001 — Louisiana (District (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1945/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2233](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2233)
+- Scottish Tartans Authority (ITI): 4126
+- Scottish Tartans World Register: 1945
+
 ## Thread count
 K/6 G6 N4 G22 K24 DB36 K4 N/6
 ![Sett](sett.png)

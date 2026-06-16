@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1970 — MacGrath (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3375/))
 - undated — MacGrath (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5095))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5095](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5095)
+- Scottish Tartans Authority (ITI): 3375
+
 ## Thread count
 B/16 DB4 B4 DB4 Y4 W48 Y20 W4 Y/24
 ![Sett](sett.png)

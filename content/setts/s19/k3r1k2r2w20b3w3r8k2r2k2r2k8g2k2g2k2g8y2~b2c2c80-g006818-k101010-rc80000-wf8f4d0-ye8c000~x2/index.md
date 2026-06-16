@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Princess Beatrice Dress (1880) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3397))
 - 1880 — Princess Beatrice Dress (1880) (Fash (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1206/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3397](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3397)
+- Scottish Tartans Authority (ITI): 1206
+- Scottish Tartans World Register: 1206
+
 ## Thread count
 K/6 R2 K4 R4 LY40 DB6 LY6 R16 K4 R4 K4 R4 K16 G4 K4 G4 K4 G16 Y/4
 ![Sett](sett.png)

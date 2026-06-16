@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Hopetoun (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1761))
 - February 1984 — Hopetoun (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/722/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1761](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1761)
+- Scottish Tartans Authority (ITI): 722
+- Scottish Tartans World Register: 722
+
 ## Thread count
 G/44 B4 G8 K44 LG4 K8 LG4 K44 G8 K8 G/52
 ![Sett](sett.png)

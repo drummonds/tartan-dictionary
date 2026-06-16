@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1746 — MacDonald of Borrodale (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2584/))
 - undated — MacDonald of Borrodale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2351))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2351](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2351)
+- Scottish Tartans Authority (ITI): 2584
+- Scottish Tartans World Register: 2584
+
 ## Thread count
 R/12 DB6 R6 DB64 K60 G60 Y6 R/6
 ![Sett](sett.png)

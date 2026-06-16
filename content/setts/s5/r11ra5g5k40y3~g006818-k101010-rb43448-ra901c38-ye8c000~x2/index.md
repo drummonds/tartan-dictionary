@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — MacShimsi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2763))
 - pre 2007 — MacShimsi (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7318/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2763](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2763)
+- Scottish Tartans Authority (ITI): 7318
+
 ## Thread count
 R/22 DR10 G10 K80 Y/6
 ![Sett](sett.png)

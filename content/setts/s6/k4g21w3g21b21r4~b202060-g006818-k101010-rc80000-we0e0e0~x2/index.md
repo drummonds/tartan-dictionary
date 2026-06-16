@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Duncan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1025))
 - pre 1880 — Duncan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1112/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1025](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1025)
+- Scottish Tartans Authority (ITI): 1112
+- Scottish Tartans World Register: 1112
+
 ## Thread count
 K/8 G42 LN6 G42 DB42 R/8
 ![Sett](sett.png)

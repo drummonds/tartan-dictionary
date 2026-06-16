@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 04/07/2012 — Riley's Theme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10657))
 - undated — Riley's Theme Commemorative Tartan Tartan Number: 10657. Earliest known date: 04/07/2012 This tartan was created for Riley Hagel as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10657))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10657](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10657)
+
 ## Thread count
 B/40 K8 N10 Nb28 Na2 B/4
 ![Sett](sett.png)

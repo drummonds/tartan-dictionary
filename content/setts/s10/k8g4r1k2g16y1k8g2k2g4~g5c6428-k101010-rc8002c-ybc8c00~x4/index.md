@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 09/06/2011 — Manitoba Cue Sports (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454))
 - 9th June 2011 — Manitoba Cue (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10454/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10454](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454)
+
 ## Thread count
 G/16 K8 G8 K32 DY4 G64 K8 R4 G16 K/32
 ![Sett](sett.png)

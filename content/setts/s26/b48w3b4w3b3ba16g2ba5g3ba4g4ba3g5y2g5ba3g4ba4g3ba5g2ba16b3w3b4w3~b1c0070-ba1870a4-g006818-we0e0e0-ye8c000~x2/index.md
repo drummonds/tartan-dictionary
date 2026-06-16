@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2003 — St. Andrews (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3874))
 - undated — St Andrews District Tartan Tartan Number: 5899. Earliest known date: August 2003 Designed by Robin Elliot of Elliots of Selkirk for a company called St Andrews Ltd of 19 Rutland Square, Edinburgh. Sample in STA Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5899))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3874](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3874)
+- Scottish Tartans Authority (ITI): 5899
+
 ## Thread count
 DBa/96 LN6 DBa8 LN6 DBa6 B32 G4 B10 G6 B8 G8 B6 G10 Y4 G10 B6 G8 B8 G6 B10 G4 B32 DBa6 LN6 DBa8 LN/6
 ![Sett](sett.png)

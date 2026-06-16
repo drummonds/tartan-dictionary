@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2004 — Glen Moray (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1385))
 - Apr 2004 — Glen Moray (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6249/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1385](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1385)
+- Scottish Tartans Authority (ITI): 6249
+
 ## Thread count
 DB/4 DY4 DB52 LTa12 LT12 LTa12 R4 LTa/4
 ![Sett](sett.png)

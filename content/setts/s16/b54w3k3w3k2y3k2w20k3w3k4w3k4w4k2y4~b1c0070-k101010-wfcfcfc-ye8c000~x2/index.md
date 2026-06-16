@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Livingstone Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2136))
 - pre 2002 — Livingstone Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/650/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2136](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2136)
+- Scottish Tartans Authority (ITI): 650
+- Scottish Tartans World Register: 650
+
 ## Thread count
 DB/108 W6 K6 W6 K4 Y6 K4 W40 K6 W6 K8 W6 K8 W8 K4 Y/8
 ![Sett](sett.png)

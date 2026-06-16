@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1893 — Menzies (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2920))
 - pre 1893 — Menzies (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/894/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2920](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2920)
+- Scottish Tartans Authority (ITI): 894
+- Scottish Tartans World Register: 894
+
 ## Thread count
 G/96 R8 G4 R8 G12 R4 G6 R/18
 ![Sett](sett.png)

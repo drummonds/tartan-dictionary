@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — MacPherson-Grant (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2726))
 - pre 2003 — MacPherson-Grant (Portrait) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6055/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2726](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2726)
+- Scottish Tartans Authority (ITI): 6055
+
 ## Thread count
 R/3 K4 R6 G45 R6 G6 R90 K6 R6 K6 R/90
 ![Sett](sett.png)

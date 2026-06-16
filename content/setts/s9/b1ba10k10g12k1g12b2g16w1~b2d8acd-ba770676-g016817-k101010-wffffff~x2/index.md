@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 20/02/2012 — Faskin Family (Aberdeenshire) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10571))
 - undated — Faskin Family Name Tartan Tartan Number: 10571. Earliest known date: 20/02/2012 Created to be a family tartan for the Faskin (Fasken) family in Aberdeenshire. The family name originates from Farskane near Cullen in Banffshire and Faskins have been resident in Aberdeenshire for 400 years. This tartan is primarily for the use of the designer's immediate family, but is also available for others to use in any way they choose. The colours were chosen to represent the Aberdeenshire and Banffshire countryside. Designed online using the Croftweaver software at www.tartansauthority.com. Anyone may have the tartan woven and it’s use should not be restricted See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10571))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10571](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10571)
+
 ## Thread count
 B/2 P20 K20 G24 K2 G24 B4 G32 W/2
 ![Sett](sett.png)

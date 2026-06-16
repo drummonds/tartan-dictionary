@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Pinehurst Resort (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3340))
 - 1995? — Pinehurst Resort (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4173/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3340](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3340)
+- Scottish Tartans Authority (ITI): 4173
+
 ## Thread count
 DB/16 DR4 DB16 DR4 G56 N4 G/4
 ![Sett](sett.png)

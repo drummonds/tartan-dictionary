@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1956 — Porcupine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3355))
 - pre 1969 — Porcupine (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1303/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3355](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3355)
+- Scottish Tartans Authority (ITI): 1303
+- Scottish Tartans World Register: 1303
+
 ## Thread count
 N/4 R4 N12 LT4 N4 T32 Y28 G4 N4 B4 W/4
 ![Sett](sett.png)

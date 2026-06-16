@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Sarna (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2558/))
 - Historic — Sarna (State) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3654))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3654](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3654)
+- Scottish Tartans Authority (ITI): 2558
+- Scottish Tartans World Register: 2558
+
 ## Thread count
 G/8 Y2 T4 P4 G3 P4 T42 G4 R3 G4 T4 P5 R/3
 ![Sett](sett.png)

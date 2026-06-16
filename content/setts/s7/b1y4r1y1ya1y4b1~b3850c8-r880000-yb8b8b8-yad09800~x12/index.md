@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/1990 — Justus Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1920))
 - undated — Justus Dress Personal Tartan Tartan Number: 2500. Earliest known date: 1986 One of 7 tartans created by Christopher Carlisle Justus in Hendersonville NC - 1986. Status not known and no evidence of actual commercial weaving although it is said to have been adopted by the Justus Family Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2500))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1920](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1920)
+- Scottish Tartans Authority (ITI): 2500
+- Scottish Tartans World Register: 2500
+
 ## Thread count
 B/12 N48 DR12 N12 DY12 N48 B/12
 ![Sett](sett.png)

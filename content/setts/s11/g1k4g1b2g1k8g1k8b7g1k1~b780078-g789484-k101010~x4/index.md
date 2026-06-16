@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1830 — Priest (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3383))
 - 1830 — Priest (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/246/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3383](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3383)
+- Scottish Tartans Authority (ITI): 246
+- Scottish Tartans World Register: 246
+
 ## Thread count
 K/4 LG4 P28 K32 LG4 K32 LG4 P8 LG4 K16 LG/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2006 — Liberton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2112))
 - 2006 June — Liberton (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6993/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2112](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2112)
+- Scottish Tartans Authority (ITI): 6993
+
 ## Thread count
 K/10 N6 DG10 R4 DG10 N6 K10 DB50 K10 N10 Y4 N10 K/10
 ![Sett](sett.png)

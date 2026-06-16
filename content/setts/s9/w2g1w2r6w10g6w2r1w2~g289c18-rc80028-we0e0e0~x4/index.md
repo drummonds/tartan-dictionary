@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — O'Neill Pipe Band 1999/ Oliver dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3250))
 - pre 2002 — O'Neill Pipe Band 1999 (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1810/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3250](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3250)
+- Scottish Tartans Authority (ITI): 1810
+- Scottish Tartans World Register: 1810
+
 ## Thread count
 LN/8 Gb4 LN8 R24 LN40 Gb24 LN8 R4 LN/8
 ![Sett](sett.png)

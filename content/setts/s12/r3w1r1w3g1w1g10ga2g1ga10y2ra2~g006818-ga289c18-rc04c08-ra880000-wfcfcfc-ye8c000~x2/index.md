@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Breacan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=345))
 - pre 2003 — Breacan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6026/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [345](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=345)
+- Scottish Tartans Authority (ITI): 6026
+
 ## Thread count
 DO/6 W2 DO2 W6 Ga2 W2 Ga20 G4 Ga2 G20 Y4 DR/4
 ![Sett](sett.png)

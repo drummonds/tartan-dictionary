@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Lochcarron (1985) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2167))
 - 1985 — Lochcarron (1985) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5462/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2167](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2167)
+- Scottish Tartans Authority (ITI): 5462
+
 ## Thread count
 DB/96 N8 K16 DB8 R/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Flotilla Navy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1209))
 - pre 2002 — Flotilla Navy (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4872/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1209](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1209)
+- Scottish Tartans Authority (ITI): 4872
+
 ## Thread count
 K/144 DB24 DY4 DB4 N4 DB4 G32 DR16 DB4 DR8 N/4
 ![Sett](sett.png)

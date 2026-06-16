@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2005 — Letham (S.Australia) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2106))
 - 2005 August — Letham (S.Australia) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6718/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2106](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2106)
+- Scottish Tartans Authority (ITI): 6718
+
 ## Thread count
 B/8 K8 G26 B14 K8 B20 K40 G/80
 ![Sett](sett.png)

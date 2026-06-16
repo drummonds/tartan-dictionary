@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2004 December — Lermontov (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6493/))
 - undated — Lermontov Family Tartan Tartan Number: 6493. Earliest known date: 2004 December For the Russian descendents of George Lermont (a Scotch Knight) of Fife who emigrated to Russia in 1613 to serve as a military instructor to Tsar Mikhail Romanov. The most famous Lermontov was Mikhail (b1814) - a much revered poet and dissident who was killed in a duel in 1841. His standing in Russia was almost akin to that of Robert Burns. This tartan is based upon the MacDuff, drawing upon George Lermont's home county of Fife. The white lines on blue symbolise St Andrew, patron saint of both Russia and Scotland and celebrate the Lermontovs Scottish ancestry. The remaining colours are from the Lermontov coat of arms registered in Russia in 1798. The three black lines represent the three lozenges in that device. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6493))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2100](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2100)
+- Scottish Tartans Authority (ITI): 6493
+
 ## Thread count
 DB/4 LN4 DB48 N18 R58 Y16 K4 Y2 K/4
 ![Sett](sett.png)

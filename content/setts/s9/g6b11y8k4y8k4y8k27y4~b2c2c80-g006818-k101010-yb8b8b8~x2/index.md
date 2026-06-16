@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2001 — Brittany National (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3902/))
 - 13/03/2002 — Brittany National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=364))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [364](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=364)
+- Scottish Tartans Authority (ITI): 3902
+- Scottish Tartans World Register: 2886
+
 ## Thread count
 G/12 DB22 N16 K8 N16 K8 N16 K54 N/8
 ![Sett](sett.png)

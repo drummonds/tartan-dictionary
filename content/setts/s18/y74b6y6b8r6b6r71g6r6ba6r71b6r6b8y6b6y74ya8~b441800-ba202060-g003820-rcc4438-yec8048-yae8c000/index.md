@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/1999 — Macallan The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2273))
 - Feb 1999 — Macallan The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5837/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2273](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2273)
+- Scottish Tartans Authority (ITI): 5837
+
 ## Thread count
 O/74 DR6 O6 DR8 R6 DR6 R71 DG6 R6 DB6 R71 DR6 R6 DR8 O6 DR6 O74 Y/8
 ![Sett](sett.png)

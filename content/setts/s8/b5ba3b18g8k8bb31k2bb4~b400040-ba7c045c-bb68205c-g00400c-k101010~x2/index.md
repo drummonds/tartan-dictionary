@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2008 — By Storm (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6018))
 - pre 2008 — Tartan Spirit Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7687/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [6018](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6018)
+- Scottish Tartans Authority (ITI): 7687
+
 ## Thread count
 DP/10 Pa6 DP36 DG16 K16 P62 K4 P/8
 ![Sett](sett.png)

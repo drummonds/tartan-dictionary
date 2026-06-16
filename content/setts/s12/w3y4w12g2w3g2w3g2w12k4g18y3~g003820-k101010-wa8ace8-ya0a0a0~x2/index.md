@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2007 — Breifne (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=351))
 - August 2007 — Breifne (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7265/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [351](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=351)
+- Scottish Tartans Authority (ITI): 7265
+
 ## Thread count
 LP/6 N8 LP24 DG4 LP6 DG4 LP6 DG4 LP24 K8 DG36 N/6
 ![Sett](sett.png)

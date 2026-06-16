@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — MacCormick (Dress) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2323))
 - 1985 — MacCormick Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1091/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2323](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2323)
+- Scottish Tartans Authority (ITI): 1091
+- Scottish Tartans World Register: 1091
+
 ## Thread count
 DR/6 K4 DR26 K20 G26 K/6
 ![Sett](sett.png)

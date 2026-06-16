@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Titanic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4131))
 - pre 1999 — Titanic (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6643/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4131](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4131)
+- Scottish Tartans Authority (ITI): 6643
+
 ## Thread count
 DB/4 LR8 Y8 DB12 N12 DO12 Y4 N4 Y/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1977 — Al-Maktoum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=62))
 - 1977 — Al-Maktoum (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1531/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [62](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=62)
+- Scottish Tartans Authority (ITI): 1531
+- Scottish Tartans World Register: 1531
+
 ## Thread count
 R/10 G24 R10 G24 R64 W/22
 ![Sett](sett.png)

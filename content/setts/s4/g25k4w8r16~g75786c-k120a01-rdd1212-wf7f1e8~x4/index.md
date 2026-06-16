@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 12/09/2012 — Buckeye (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10702))
 - undated — Buckeye Corporate Tartan Tartan Number: 10702. Earliest known date: 20 September 2012 The official tartan for The Ohio State University. The Ohio State Buckeyes is a collegiate football team that competes as part of the National Collegiate Athletic Association (NCAA) Division I Football Bowl Subdivision, representing the Ohio State University in the Leaders Division of the Big Ten Conference. The tartan is a lattice work of the Ohio State football uniform strip pattern featuring the Ohio State University’s official school colours since 1878, scarlet and grey. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10702))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10702](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10702)
+
 ## Thread count
 N/100 K16 W32 R/64
 ![Sett](sett.png)

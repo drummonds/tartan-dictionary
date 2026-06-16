@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - May 2008 — Presbyterian College Band (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7674/))
 - undated — Presbyterian College Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5677))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5677](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5677)
+- Scottish Tartans Authority (ITI): 7674
+
 ## Thread count
 DR/56 K4 P72 K4 W8 K4 P/14
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Lennie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2095))
 - 1819 — Lennie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/725/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2095](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2095)
+- Scottish Tartans Authority (ITI): 725
+- Scottish Tartans World Register: 725
+
 ## Thread count
 DG/4 P16 K18 LG4 DG20 K/4
 ![Sett](sett.png)

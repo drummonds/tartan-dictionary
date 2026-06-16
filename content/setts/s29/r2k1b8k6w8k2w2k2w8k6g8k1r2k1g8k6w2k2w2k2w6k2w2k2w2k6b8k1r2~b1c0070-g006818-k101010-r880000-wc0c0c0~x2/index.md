@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacKinlay Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2541))
 - pre 2002 — MacKinlay Dress (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4564/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2541](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2541)
+- Scottish Tartans Authority (ITI): 4564
+
 ## Thread count
 DR/4 K2 DB16 K12 N16 K4 N4 K4 N16 K12 G16 K2 DR4 K2 G16 K12 N4 K4 N4 K4 N12 K4 N4 K4 N4 K12 DB16 K2 DR/4
 ![Sett](sett.png)

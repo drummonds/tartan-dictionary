@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Washington State (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4495))
 - 1988 — Washington State (US State) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2133/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4495](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4495)
+- Scottish Tartans Authority (ITI): 2133
+- Scottish Tartans World Register: 2133
+
 ## Thread count
 DY/4 K6 B6 G64 DB32 DR6 W/6
 ![Sett](sett.png)

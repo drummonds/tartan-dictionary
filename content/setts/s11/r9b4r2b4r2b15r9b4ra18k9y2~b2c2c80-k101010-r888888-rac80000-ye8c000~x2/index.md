@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/2006 — Stephens (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3915))
 - October 2006 — Stephens (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7029/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3915](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3915)
+- Scottish Tartans Authority (ITI): 7029
+
 ## Thread count
 N/18 DB8 N4 DB8 N4 DB30 N18 DB8 R36 K18 Y/4
 ![Sett](sett.png)

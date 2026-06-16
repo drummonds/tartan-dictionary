@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1829 — Merrilees (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2938))
 - 1829 — Meg Merrilees, Old (1828) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1602/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2938](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2938)
+- Scottish Tartans Authority (ITI): 1602
+- Scottish Tartans World Register: 1602
+
 ## Thread count
 R/20 K70 R10 W12 B12 W/46
 ![Sett](sett.png)

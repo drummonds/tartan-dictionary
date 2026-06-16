@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Scotch Whisky Heritage Centre (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3672))
 - January 1988 — Scotch Whisky Heritage Centre (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1920/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3672](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3672)
+- Scottish Tartans Authority (ITI): 1920
+- Scottish Tartans World Register: 1920
+
 ## Thread count
 DB/146 Ga32 DB20 R16 DB20 K8 DB20 LN/4
 ![Sett](sett.png)

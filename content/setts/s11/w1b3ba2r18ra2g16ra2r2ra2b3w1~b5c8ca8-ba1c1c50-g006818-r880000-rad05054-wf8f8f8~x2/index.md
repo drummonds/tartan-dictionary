@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1735 — Moray of Abercairny (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3010))
 - pre 1735 — Moray of Abercairny (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/51/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3010](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3010)
+- Scottish Tartans Authority (ITI): 51
+- Scottish Tartans World Register: 51
+
 ## Thread count
 W/2 B6 DB4 DR36 DO4 G32 DO4 DR4 DO4 B6 W/2
 ![Sett](sett.png)

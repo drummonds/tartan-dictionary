@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1996 — MacKillen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2536))
 - pre 2002 — MacKillen (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3422/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2536](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2536)
+- Scottish Tartans Authority (ITI): 3422
+- Scottish Tartans World Register: 2848
+
 ## Thread count
 DG/6 DR40 DG60 K6 DG14 K6 DG10 DY30 K/8
 ![Sett](sett.png)

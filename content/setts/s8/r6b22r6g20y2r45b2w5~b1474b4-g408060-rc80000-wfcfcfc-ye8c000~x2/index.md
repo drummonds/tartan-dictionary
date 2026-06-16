@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2001 — Elbrick Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1095))
 - pre 2004 — Elbrick Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6190/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1095](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1095)
+- Scottish Tartans Authority (ITI): 6190
+- Scottish Tartans World Register: 2971
+
 ## Thread count
 R/12 B44 R12 G40 Y4 R90 B4 W/10
 ![Sett](sett.png)

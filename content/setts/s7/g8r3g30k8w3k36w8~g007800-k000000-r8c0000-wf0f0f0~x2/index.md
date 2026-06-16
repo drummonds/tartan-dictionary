@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Cleghorn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=671))
 - pre 2002 — Cleghorn (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4144/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [671](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=671)
+- Scottish Tartans Authority (ITI): 4144
+
 ## Thread count
 G/16 DR6 G60 K16 W6 K72 W/16
 ![Sett](sett.png)

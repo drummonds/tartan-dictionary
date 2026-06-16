@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Turnbull Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4161))
 - pre 1980 — Turnbull Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1035/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4161](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4161)
+- Scottish Tartans Authority (ITI): 1035
+- Scottish Tartans World Register: 1035
+
 ## Thread count
 K/12 DB6 G60 R60 Y/6
 ![Sett](sett.png)

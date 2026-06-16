@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/1962 — Lions Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2122))
 - May 1962 — Lions Club (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/93/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2122](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2122)
+- Scottish Tartans Authority (ITI): 93
+- Scottish Tartans World Register: 93
+
 ## Thread count
 P/60 LG2 W2 K2 P2 Y2 P8 W8 Y12 P10 K2 LG5 P5 W2 LG2 W2 P5 LG5 P5 K5 W/12
 ![Sett](sett.png)

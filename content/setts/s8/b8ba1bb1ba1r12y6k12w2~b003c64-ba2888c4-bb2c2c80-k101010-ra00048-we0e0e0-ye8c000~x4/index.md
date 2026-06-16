@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Maryland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2847))
 - 2003 — Maryland (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5920/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2847](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2847)
+- Scottish Tartans Authority (ITI): 5920
+
 ## Thread count
 DBa/32 B4 DB4 B4 R48 Y24 K48 LN/8
 ![Sett](sett.png)

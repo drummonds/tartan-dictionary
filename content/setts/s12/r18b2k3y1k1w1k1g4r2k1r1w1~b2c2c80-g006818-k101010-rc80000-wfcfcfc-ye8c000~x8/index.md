@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1800 — Stewart/Stuart, Royal #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3958))
 - circa 1800 — Royal Stewart (Universal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1370/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3958](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3958)
+- Scottish Tartans Authority (ITI): 1370
+- Scottish Tartans World Register: 1370
+
 ## Thread count
 R/144 DBa16 K24 Y8 K8 W8 K8 G32 R16 K8 R8 W/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1830 — Rattray of Lude (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3468))
 - 1830 — Rattray of Lude (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1096/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3468](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3468)
+- Scottish Tartans Authority (ITI): 1096
+- Scottish Tartans World Register: 1096
+
 ## Thread count
 K/4 G32 K16 R4 DB32 R4 DB4 R32 G4 W/4
 ![Sett](sett.png)

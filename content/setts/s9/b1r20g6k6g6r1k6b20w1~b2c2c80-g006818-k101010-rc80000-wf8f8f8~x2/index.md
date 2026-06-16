@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Bush Pilot (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=453))
 - pre 2006 — Bush Pilot (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7155/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [453](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=453)
+- Scottish Tartans Authority (ITI): 7155
+
 ## Thread count
 DB/2 R40 G12 K12 G12 R2 K12 DB40 W/2
 ![Sett](sett.png)

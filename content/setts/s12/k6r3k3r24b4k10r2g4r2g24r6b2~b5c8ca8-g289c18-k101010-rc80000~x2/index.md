@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Bates (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=227))
 - 2003 — Bates (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6057/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [227](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=227)
+- Scottish Tartans Authority (ITI): 6057
+
 ## Thread count
 B/4 R12 G48 R4 G8 R4 K20 B8 R48 K6 R6 K/12
 ![Sett](sett.png)

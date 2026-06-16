@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Tyndrum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4173))
 - 1983 — Tyndrum (District?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1128/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4173](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4173)
+- Scottish Tartans Authority (ITI): 1128
+- Scottish Tartans World Register: 1128
+
 ## Thread count
 K/16 N16 K8 LT48 K32 N16 K8 N8 K8 N/48
 ![Sett](sett.png)

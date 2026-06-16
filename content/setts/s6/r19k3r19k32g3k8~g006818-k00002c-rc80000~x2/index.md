@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/10/2001 — Tartan TV (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077))
 - 2001 — Tartan TV (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3906/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4077](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077)
+- Scottish Tartans Authority (ITI): 3906
+- Scottish Tartans World Register: 2858
+
 ## Thread count
 DB/16 G6 DB64 Ra38 DB6 Ra/38
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Confederate Rose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=734))
 - pre 2004 — Confederate Rose (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6251/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [734](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=734)
+- Scottish Tartans Authority (ITI): 6251
+
 ## Thread count
 Pa/48 W8 P20 W8 Y8 W56 N12 W8 N12 W56 P36 W2 DB8 W/6
 ![Sett](sett.png)

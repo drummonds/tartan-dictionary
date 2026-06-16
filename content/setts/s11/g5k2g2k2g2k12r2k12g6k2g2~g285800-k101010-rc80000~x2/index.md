@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — MacLoughlin of Ardmarnoch (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2650))
 - pre 1999 — MacLoughlin of Ardmarnoch (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2096/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2650](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2650)
+- Scottish Tartans Authority (ITI): 2096
+- Scottish Tartans World Register: 2096
+
 ## Thread count
 G/10 K4 G4 K4 G4 K24 R4 K24 G12 K4 G/4
 ![Sett](sett.png)

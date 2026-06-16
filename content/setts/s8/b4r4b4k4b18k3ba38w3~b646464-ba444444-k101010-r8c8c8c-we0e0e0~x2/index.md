@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — Scotch Mist (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3671))
 - June 2007 — Scotch Mist (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7242/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3671](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3671)
+- Scottish Tartans Authority (ITI): 7242
+
 ## Thread count
 LN/6 N76 K6 Na36 K8 Na8 Nb8 Na/8
 ![Sett](sett.png)

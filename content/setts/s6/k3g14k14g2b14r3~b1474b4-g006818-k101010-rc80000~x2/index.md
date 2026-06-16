@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Morrison Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3021))
 - 1880 — Morrison Society (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1083/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3021](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3021)
+- Scottish Tartans Authority (ITI): 1083
+- Scottish Tartans World Register: 1083
+
 ## Thread count
 K/6 G28 K28 G4 B28 R/6
 ![Sett](sett.png)

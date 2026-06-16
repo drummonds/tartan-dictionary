@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/1995 — Racing Stewart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3940))
 - pre 1997 — Racing Stewart (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2306/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3940](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3940)
+- Scottish Tartans Authority (ITI): 2306
+- Scottish Tartans World Register: 2306
+
 ## Thread count
 DB/108 N6 K10 N2 K4 N2 K4 G16 DR16 N/4
 ![Sett](sett.png)

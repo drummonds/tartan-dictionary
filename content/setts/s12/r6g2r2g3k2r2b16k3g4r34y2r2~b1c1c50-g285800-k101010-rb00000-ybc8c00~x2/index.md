@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2005 — Methodist Church (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2941))
 - 2005 September — Methodist Church (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6794/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2941](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2941)
+- Scottish Tartans Authority (ITI): 6794
+
 ## Thread count
 DR/4 DY4 DR68 G8 K6 DB32 DR4 K4 G6 DR4 G4 DR/12
 ![Sett](sett.png)

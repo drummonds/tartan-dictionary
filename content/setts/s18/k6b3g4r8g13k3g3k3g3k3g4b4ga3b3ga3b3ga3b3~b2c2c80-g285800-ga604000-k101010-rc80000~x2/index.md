@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1815 — Glasgow Celtic Society (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/594/))
 - 01/01/1968 — Forbes of Druminnor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1224))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1355](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1355)
+- Scottish Tartans Authority (ITI): 594
+- Scottish Tartans World Register: 594
+
 ## Thread count
 DB/6 T6 DB6 T6 DB6 T6 DB8 G8 K6 G6 K6 G6 K6 G26 R16 G8 DB6 K/12
 ![Sett](sett.png)

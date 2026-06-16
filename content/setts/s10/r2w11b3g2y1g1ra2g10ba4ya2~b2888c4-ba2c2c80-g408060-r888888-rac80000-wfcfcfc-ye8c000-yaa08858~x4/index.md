@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/1999 — Lanark Highlands (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2038))
 - May 1999 — Lanark Highlands (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2637/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2038](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2038)
+- Scottish Tartans Authority (ITI): 2637
+- Scottish Tartans World Register: 2637
+
 ## Thread count
 LT/8 DB16 G40 R8 G4 Y4 G8 B12 W44 N/8
 ![Sett](sett.png)

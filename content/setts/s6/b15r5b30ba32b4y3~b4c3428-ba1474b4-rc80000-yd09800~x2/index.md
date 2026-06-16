@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1914 — Cameron Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=494))
 - pre 1914 — Cameron Hunting (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1745/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [494](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=494)
+- Scottish Tartans Authority (ITI): 1745
+- Scottish Tartans World Register: 1745
+
 ## Thread count
 DY/6 T8 B64 T60 R10 T/30
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Simple Technology (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3790))
 - undated — Simple Technology Corporate Tartan Tartan Number: 2320. Earliest known date: 1996 The East Kilbride based American 'Simple Technology' computer company manufactures (manufactured?) circuit boards and this tartan was launched at the opneing of their new plant. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2320))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3790](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3790)
+- Scottish Tartans Authority (ITI): 2320
+- Scottish Tartans World Register: 2320
+
 ## Thread count
 G/56 DB18 DG36 LN6 DG36 DB18 G56 R/6
 ![Sett](sett.png)

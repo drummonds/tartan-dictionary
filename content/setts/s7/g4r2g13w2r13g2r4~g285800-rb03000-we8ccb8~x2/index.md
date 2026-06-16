@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — Crossnor School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=815))
 - 2001 — Crossnor (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6282/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [815](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=815)
+- Scottish Tartans Authority (ITI): 6282
+
 ## Thread count
 G/8 R4 G26 LR4 R26 G4 R/8
 ![Sett](sett.png)

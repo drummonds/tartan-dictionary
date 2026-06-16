@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Rothesay, Duke of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3576))
 - Unknown — Duke of Rothesay (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1845/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3576](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3576)
+- Scottish Tartans Authority (ITI): 1845
+- Scottish Tartans World Register: 1845
+
 ## Thread count
 LN/8 R44 G6 R6 G6 R6 G26 R8 G26 R6 G6 R6 G6 R46 LN4 R4 LN/8
 ![Sett](sett.png)

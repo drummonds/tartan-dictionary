@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2003 — Crane of Cluny Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793))
 - pre 2004 — Crane of Cluny Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6143/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [793](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793)
+- Scottish Tartans Authority (ITI): 6143
+- Scottish Tartans World Register: 2960
+
 ## Thread count
 LT/166 K12 LT6 K18 R4 K10 LT4 Y/4
 ![Sett](sett.png)

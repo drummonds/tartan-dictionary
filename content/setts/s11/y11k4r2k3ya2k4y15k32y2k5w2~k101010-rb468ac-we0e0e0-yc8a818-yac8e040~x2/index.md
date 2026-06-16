@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Livingston Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2132))
 - pre 2005 — Livingston F. C. (pre 2005) (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6581/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2132](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2132)
+- Scottish Tartans Authority (ITI): 6581
+
 ## Thread count
 LN/4 K10 Y4 K64 Y30 K8 LG4 K6 P4 K8 Y/22
 ![Sett](sett.png)

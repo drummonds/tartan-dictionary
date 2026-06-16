@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 22/08/2003 — Richecourt, Baron of (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3509))
 - pre 2004 — Richecourt, Baron of (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6225/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3509](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3509)
+- Scottish Tartans Authority (ITI): 6225
+- Scottish Tartans World Register: 2952
+
 ## Thread count
 W/8 K60 R2 K2 R6 W24 Y/6
 ![Sett](sett.png)

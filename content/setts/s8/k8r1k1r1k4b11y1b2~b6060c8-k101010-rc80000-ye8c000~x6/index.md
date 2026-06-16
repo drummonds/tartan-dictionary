@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2006 — Rutherford (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3621))
 - 2006 May — Rutherford (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6926/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3621](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3621)
+- Scottish Tartans Authority (ITI): 6926
+
 ## Thread count
 B/12 Y6 B66 K24 R6 K6 R6 K/48
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1918 — Duke of York (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/577/))
 - 01/01/1930 — Duke of York (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1011))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1011](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1011)
+- Scottish Tartans Authority (ITI): 577
+- Scottish Tartans World Register: 577
+
 ## Thread count
 DB/122 DR12 W4 DR16 DY4 DB6 DY4 DB/30
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Scotland's National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3682))
 - 01/01/1994 — Scottish National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3730))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3730](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3730)
+- Scottish Tartans Authority (ITI): 2154
+- Scottish Tartans World Register: 2154
+
 ## Thread count
 DN/24 LN4 DN4 DR4 DN4 K20 Ga24 K4 Ga8 K4 Ga24 K20 DN24 K4 DR6 K4 DN24 K20 Ga24 K4 Ga8 K4 Ga24 K20 DN4 DR4 DN4 LN/4
 ![Sett](sett.png)

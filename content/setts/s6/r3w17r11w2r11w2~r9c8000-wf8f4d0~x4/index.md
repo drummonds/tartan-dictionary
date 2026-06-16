@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Fallow Deer, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1147))
 - 1972 — Fallow Deer (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4835/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1147](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1147)
+- Scottish Tartans Authority (ITI): 4835
+
 ## Thread count
 LG/12 LY68 LG44 LY8 LG44 LY/8
 ![Sett](sett.png)

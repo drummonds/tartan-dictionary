@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Biskup (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=267))
 - 1998 — Biskup (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2574/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [267](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=267)
+- Scottish Tartans Authority (ITI): 2574
+- Scottish Tartans World Register: 2574
+
 ## Thread count
 DB/24 DR8 DB36 DR4 K38 G36 DR8 G6 DY4 G/16
 ![Sett](sett.png)

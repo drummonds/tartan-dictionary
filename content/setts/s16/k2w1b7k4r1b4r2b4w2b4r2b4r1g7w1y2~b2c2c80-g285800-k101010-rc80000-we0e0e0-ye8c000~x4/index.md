@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacLellan/McLellan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2622))
 - pre 2002 — MacLellan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1224/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2622](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2622)
+- Scottish Tartans Authority (ITI): 1224
+- Scottish Tartans World Register: 1224
+
 ## Thread count
 K/8 LN4 DB28 K16 R4 DB16 R8 DB16 LN8 DB16 R8 DB16 R4 G28 LN4 Y/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Down County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7451/))
 - 01/05/2005 — Down County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5401))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5401](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5401)
+- Scottish Tartans Authority (ITI): 7451
+- Scottish Tartans World Register: 3082
+
 ## Thread count
 DY/16 K6 DR12 K4 G40 DB8 G4 DB8 G10 LB8 DB6 LN/6
 ![Sett](sett.png)

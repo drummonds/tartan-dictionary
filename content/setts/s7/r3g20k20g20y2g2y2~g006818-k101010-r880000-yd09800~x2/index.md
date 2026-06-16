@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Paton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3302))
 - 1930s — Paton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2128/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3302](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3302)
+- Scottish Tartans Authority (ITI): 2128
+- Scottish Tartans World Register: 2128
+
 ## Thread count
 DR/6 G40 K40 G40 DY4 G4 DY/4
 ![Sett](sett.png)

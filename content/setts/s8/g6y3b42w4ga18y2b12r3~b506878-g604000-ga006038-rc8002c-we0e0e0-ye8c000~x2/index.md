@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - July 2007 — Glasgow High (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7480/))
 - undated — Glasgow High School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5522))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5522](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5522)
+- Scottish Tartans Authority (ITI): 7480
+
 ## Thread count
 R/6 N24 Y4 G36 LN8 N84 Y6 T/12
 ![Sett](sett.png)

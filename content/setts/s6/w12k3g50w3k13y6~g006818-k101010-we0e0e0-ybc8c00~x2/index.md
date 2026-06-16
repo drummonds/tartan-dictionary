@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Limerick County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7407/))
 - 01/05/2005 — Limerick County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5362))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5362](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5362)
+- Scottish Tartans Authority (ITI): 7407
+- Scottish Tartans World Register: 3091
+
 ## Thread count
 DY/12 K26 LN6 G100 K6 LN/24
 ![Sett](sett.png)

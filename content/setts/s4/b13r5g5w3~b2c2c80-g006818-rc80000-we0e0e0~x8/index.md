@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2008 — International Highland Games Fed. (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7809/))
 - undated — International Highland Games Fed. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5768))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5768](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5768)
+- Scottish Tartans Authority (ITI): 7809
+
 ## Thread count
 DB/104 R40 G40 LN/24
 ![Sett](sett.png)

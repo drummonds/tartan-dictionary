@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2003 — South Australian Pipes & Drums (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3842))
 - undated — South Australian Pipes & Drums Australian Corporate Tartan Tartan Number: 5890. Earliest known date: July 2003 Woven by Elliot Fine Fabric of Selkirk. A noticeable tartan for the South Australia Pipes & Drums who performed in the Edinburgh Tattoo in 2003 with their tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5890))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3842](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3842)
+- Scottish Tartans Authority (ITI): 5890
+
 ## Thread count
 DB/120 Y12 DB22 R50 DB22 Y12 DB22 R50 DB22 Y/12
 ![Sett](sett.png)

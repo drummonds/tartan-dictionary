@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/1995 — Marie Curie Fields Of Hope (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2833))
 - 1995 — Marie Curie Fields Of Hope (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2463/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2833](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2833)
+- Scottish Tartans Authority (ITI): 2463
+- Scottish Tartans World Register: 2463
+
 ## Thread count
 B/48 DY4 B8 DY4 B12 K20 G40 DY4 G/8
 ![Sett](sett.png)

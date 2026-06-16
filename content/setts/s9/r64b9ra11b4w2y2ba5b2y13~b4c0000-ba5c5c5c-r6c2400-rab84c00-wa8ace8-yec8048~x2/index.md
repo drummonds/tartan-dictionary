@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Down, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=968))
 - 1997 — Down, County District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2266/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [968](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=968)
+- Scottish Tartans Authority (ITI): 2266
+- Scottish Tartans World Register: 2266
+
 ## Thread count
 O/26 DR4 N10 O4 LP4 DR8 DO22 DR18 T/128
 ![Sett](sett.png)

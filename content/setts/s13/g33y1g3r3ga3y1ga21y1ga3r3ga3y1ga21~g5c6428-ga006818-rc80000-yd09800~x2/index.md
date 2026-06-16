@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Terry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4096))
 - 1993 — Terry (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2204/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4096](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4096)
+- Scottish Tartans Authority (ITI): 2204
+- Scottish Tartans World Register: 2204
+
 ## Thread count
 G/42 DY2 G6 R6 G6 DY2 G42 DY2 G6 R6 Ga6 DY2 Ga/66
 ![Sett](sett.png)

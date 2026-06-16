@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - July 2007 — MacKinnon Black (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7494/))
 - undated — MacKinnon Black (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5535))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5535](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5535)
+- Scottish Tartans Authority (ITI): 7494
+
 ## Thread count
 LN/6 R12 P6 K24 R52 K20 R6 K48 R24 K10 R8 P/6
 ![Sett](sett.png)

@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 1906 — Menzies Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1184/))
 - undated — Menzies Black & Red Clan Tartan Tartan Number: 1184. Earliest known date: 1906 The red and white Menzies tartan appears in the Cockburn Collection (c.1815) under the name, MacFarlane, but this is taken to be an error on the part of General Cockburn at a time when the establishment of clan names for tartan was in its infancy. The same sett was certified as Menzies, by the clan chief, in the collection of the Highland Society of London (c.1816). The tartan is woven in various colours, green, black, red and white to the same design. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1184))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2929](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2929)
+- Scottish Tartans Authority (ITI): 1184
+- Scottish Tartans World Register: 1184
+
 ## Thread count
 K/96 R8 K4 R8 K12 R4 K6 R/18
 ![Sett](sett.png)

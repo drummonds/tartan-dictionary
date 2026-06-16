@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Dunedin (NZ) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1041))
 - 1988 — Dunedin (NZ) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2114/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1041](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1041)
+- Scottish Tartans Authority (ITI): 2114
+- Scottish Tartans World Register: 2114
+
 ## Thread count
 B/8 W8 B32 K8 R8 K8 LG32 Y/8
 ![Sett](sett.png)

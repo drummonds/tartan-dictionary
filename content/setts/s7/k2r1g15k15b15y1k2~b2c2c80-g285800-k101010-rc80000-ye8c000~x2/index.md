@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1951 — MacCaskill (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2310))
 - 1951 — MacCaskill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1152/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2310](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2310)
+- Scottish Tartans Authority (ITI): 1152
+- Scottish Tartans World Register: 1152
+
 ## Thread count
 K/4 R2 G30 K30 DB30 Y2 K/4
 ![Sett](sett.png)

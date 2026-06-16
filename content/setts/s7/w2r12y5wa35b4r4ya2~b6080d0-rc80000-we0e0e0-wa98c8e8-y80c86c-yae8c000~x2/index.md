@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Jan 2008 — Nicolson of the Isles (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7470/))
 - undated — Nicolson of the Isles (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5515))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5515](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5515)
+- Scottish Tartans Authority (ITI): 7470
+
 ## Thread count
 LN/4 R24 LG10 LB70 B8 R8 Y/4
 ![Sett](sett.png)

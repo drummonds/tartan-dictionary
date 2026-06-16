@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Wexford County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7435/))
 - 01/05/2005 — Wexford County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5323))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5323](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5323)
+- Scottish Tartans Authority (ITI): 7435
+- Scottish Tartans World Register: 3104
+
 ## Thread count
 LN/6 G6 LN6 G12 N8 G14 DY24 K4 N4 K4 P44 LN12 G20 K4 N/5
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Unidentified #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4204))
 - undated — Annandale (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5334))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5334](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5334)
+- Scottish Tartans World Register: 3017
+
 ## Thread count
 P/128 B20 K3 DG6 K1 DG4 G8 K2 Ba5 K2 G70 LN6 G12 R24 G5 R5 G8 B4 G12 K2 Y/7
 ![Sett](sett.png)

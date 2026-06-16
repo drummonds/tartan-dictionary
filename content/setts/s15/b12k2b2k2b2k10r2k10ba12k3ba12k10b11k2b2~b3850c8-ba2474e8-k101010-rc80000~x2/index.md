@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2003 — Mundigl (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3046))
 - Nov 2003 — Mundigl (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6066/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3046](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3046)
+- Scottish Tartans Authority (ITI): 6066
+
 ## Thread count
 Ba/4 K4 Ba22 K20 B24 K6 B24 K20 R4 K20 Ba4 K4 Ba4 K4 Ba/24
 ![Sett](sett.png)

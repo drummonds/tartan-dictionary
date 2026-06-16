@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacNett (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3501/))
 - undated — MacNett (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5096))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5096](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5096)
+- Scottish Tartans Authority (ITI): 3501
+
 ## Thread count
 K/2 DB2 G32 DB16 K24 R32 G32 DB2 K/2
 ![Sett](sett.png)

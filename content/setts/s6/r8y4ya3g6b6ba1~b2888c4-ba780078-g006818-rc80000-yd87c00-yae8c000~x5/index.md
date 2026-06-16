@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2008 — Pride, The Tartan of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5684))
 - pre 2008 — Pride, The Tartan of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7682/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5684)
+- Scottish Tartans Authority (ITI): 7682
+
 ## Thread count
 P/5 B30 G30 Y15 O20 R/40
 ![Sett](sett.png)

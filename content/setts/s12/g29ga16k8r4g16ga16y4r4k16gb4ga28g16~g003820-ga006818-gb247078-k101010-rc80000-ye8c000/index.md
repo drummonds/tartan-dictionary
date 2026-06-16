@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — McCamley (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2872))
 - 2007 — McCamley (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7241/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2872](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2872)
+- Scottish Tartans Authority (ITI): 7241
+
 ## Thread count
 DG/16 G28 Ga4 K16 R4 Y4 G16 DG16 R4 K8 G16 DG/29
 ![Sett](sett.png)

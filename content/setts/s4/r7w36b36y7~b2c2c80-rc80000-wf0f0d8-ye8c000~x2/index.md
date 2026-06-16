@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1893 — MacRae of Conchra #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2750))
 - 1893 — MacRae of Conchra - 1893 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1683/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2750](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2750)
+- Scottish Tartans Authority (ITI): 1683
+- Scottish Tartans World Register: 1683
+
 ## Thread count
 R/14 LY72 DB72 Y/14
 ![Sett](sett.png)

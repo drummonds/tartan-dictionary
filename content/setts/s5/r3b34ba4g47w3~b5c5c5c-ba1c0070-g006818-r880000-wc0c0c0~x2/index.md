@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Exabyte (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2286/))
 - undated — Exabyte Corporate Tartan Tartan Number: 2286. Earliest known date: pre 2002 Exabyte is an American software firm based in Larbert, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2286))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1142](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142)
+- Scottish Tartans Authority (ITI): 2286
+- Scottish Tartans World Register: 2286
+
 ## Thread count
 DR/6 Na68 DB8 G94 N/6
 ![Sett](sett.png)

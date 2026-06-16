@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1893 — Lennox (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2096))
 - 1893 — Lennox (District & Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/935/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2096](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2096)
+- Scottish Tartans Authority (ITI): 935
+- Scottish Tartans World Register: 935
+
 ## Thread count
 G/8 N4 G40 DR8 R40 DR4 R/8
 ![Sett](sett.png)

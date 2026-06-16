@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Initial City Link (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5429))
 - pre 2007 — Initial City Link (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7140/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5429](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5429)
+- Scottish Tartans Authority (ITI): 7140
+
 ## Thread count
 K/100 G14 K8 LN4 K4 Y4 K4 G14 K4 G6 Y/4
 ![Sett](sett.png)

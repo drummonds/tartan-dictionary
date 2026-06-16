@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Sandelin (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5395))
 - pre 2007 — Sandelin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7145/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5395](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5395)
+- Scottish Tartans Authority (ITI): 7145
+
 ## Thread count
 LN/20 DB4 LN2 DB70 G20 DY6 G20 R/8
 ![Sett](sett.png)

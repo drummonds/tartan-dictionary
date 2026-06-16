@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1997 — Fraser Gathering Dress (Commem.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2362/))
 - undated — Fraser Gathering Dress Clan Tartan Tartan Number: 2362. Earliest known date: 1997 Designed in 1997 by Polly Wittering of the Macnaughton Group and Lady Saltoun for the Castle Fraser Gathering in July 1997 for use by all Frasers See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2362))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1254](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1254)
+- Scottish Tartans Authority (ITI): 2362
+- Scottish Tartans World Register: 2362
+
 ## Thread count
 G/4 LN48 G4 DB10 DG8 G22 DG4 DB24 R/4
 ![Sett](sett.png)

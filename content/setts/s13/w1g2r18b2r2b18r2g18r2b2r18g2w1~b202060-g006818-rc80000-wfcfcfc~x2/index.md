@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1820 — Robertson 1820 - White line (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3528))
 - 1820 — Robertson - 1820 (White line) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1803/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3528)
+- Scottish Tartans Authority (ITI): 1803
+- Scottish Tartans World Register: 1803
+
 ## Thread count
 W/2 G4 R36 DB4 R4 DB36 R4 G36 R4 DB4 R36 G4 W/2
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — D'Souza (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=998))
 - pre 2005 — D'Souza (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6616/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [998](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=998)
+- Scottish Tartans Authority (ITI): 6616
+
 ## Thread count
 DP/48 K4 DP4 O4 DP4 K40 DB32 N4 DB4 N/6
 ![Sett](sett.png)

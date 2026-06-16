@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Ball (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=175))
 - 2003 — Ball (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6056/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [175](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=175)
+- Scottish Tartans Authority (ITI): 6056
+
 ## Thread count
 G/4 W8 K12 R20 B32 O/52
 ![Sett](sett.png)

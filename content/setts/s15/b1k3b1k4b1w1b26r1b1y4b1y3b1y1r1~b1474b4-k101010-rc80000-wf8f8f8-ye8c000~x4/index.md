@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1765 — Laing (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6096/))
 - 01/01/1770 — Laing (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2027))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2027](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2027)
+- Scottish Tartans Authority (ITI): 6096
+- Scottish Tartans World Register: 2801
+
 ## Thread count
 B/4 K12 B4 K16 B4 W4 B104 R4 B4 Y16 B4 Y12 B4 Y4 R/4
 ![Sett](sett.png)

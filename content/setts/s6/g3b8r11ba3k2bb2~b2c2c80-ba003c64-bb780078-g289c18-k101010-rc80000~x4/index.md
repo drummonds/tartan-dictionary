@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2009 — Nicolson of Tiree & Coll (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7870/))
 - undated — Nicolson of Tiree & Coll (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5817))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5817](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5817)
+- Scottish Tartans Authority (ITI): 7870
+
 ## Thread count
 G/12 DB32 R44 DBa12 K8 P/8
 ![Sett](sett.png)

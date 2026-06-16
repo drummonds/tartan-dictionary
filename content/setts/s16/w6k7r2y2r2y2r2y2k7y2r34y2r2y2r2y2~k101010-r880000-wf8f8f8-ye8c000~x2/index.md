@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 11/08/2001 — DeWolfe (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=927))
 - 2001 Oct — DeWolfe (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6704/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [927](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=927)
+- Scottish Tartans Authority (ITI): 6704
+- Scottish Tartans World Register: 2841
+
 ## Thread count
 W/12 K14 DR4 Y4 DR4 Y4 DR4 Y4 K14 Y4 DR68 Y4 DR4 Y4 DR4 Y/4
 ![Sett](sett.png)

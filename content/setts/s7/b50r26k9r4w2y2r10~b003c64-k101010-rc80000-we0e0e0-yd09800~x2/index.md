@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2000 — Java Saint Andrew Society Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1885))
 - September 2000 — Java Saint Andrew Soc. Dress (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5401/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1885](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1885)
+- Scottish Tartans Authority (ITI): 5401
+- Scottish Tartans World Register: 2721
+
 ## Thread count
 DB/100 R52 K18 R8 LN4 DY4 R/20
 ![Sett](sett.png)

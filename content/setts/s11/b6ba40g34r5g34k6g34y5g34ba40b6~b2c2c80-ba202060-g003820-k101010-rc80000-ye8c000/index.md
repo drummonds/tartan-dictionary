@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1998 — Pendleton Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3314))
 - 1998 — Pendleton Dress (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2468/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3314](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3314)
+- Scottish Tartans Authority (ITI): 2468
+- Scottish Tartans World Register: 2468
+
 ## Thread count
 DB/6 DBa40 DG34 R5 DG34 K6 DG34 Y5 DG34 DBa40 DB/6
 ![Sett](sett.png)

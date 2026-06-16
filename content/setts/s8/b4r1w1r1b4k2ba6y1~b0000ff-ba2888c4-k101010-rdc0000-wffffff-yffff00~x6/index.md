@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5745
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5745](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5745)
+- Scottish Tartans Authority (ITI): 7770
+
 ## Thread count
 B/24 R6 W6 R6 B24 K12 Ba36 Y/6
 ![Sett](sett.png)

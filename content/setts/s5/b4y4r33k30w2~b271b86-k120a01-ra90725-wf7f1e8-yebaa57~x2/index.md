@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 08/10/2012 — Wormeck (2013) Germany (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10714))
 - undated — Wormeck (2013) German Name Tartan Tartan Number: 10714. Earliest known date: 11 October 2012 This tartan was created by the designer for his wedding and for all those with the surname Wormeck who wish to wear it. The colours are taken from the national and regional flags of Germany and former Prussia, the province of Schleswig-Holstein, Scotland, the Czech Republic and Sweden, all places significant to the designer and his family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10714))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10714](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10714)
+
 ## Thread count
 DB/8 O8 DR66 K60 W/4
 ![Sett](sett.png)

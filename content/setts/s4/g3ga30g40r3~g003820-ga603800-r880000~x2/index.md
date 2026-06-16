@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/1999 — Sanix Muted (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4823))
 - Dec. 1999 — Sanix Muted (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2644/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4823](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4823)
+- Scottish Tartans Authority (ITI): 2644
+- Scottish Tartans World Register: 2644
+
 ## Thread count
 DG/6 T60 DG80 DR/6
 ![Sett](sett.png)

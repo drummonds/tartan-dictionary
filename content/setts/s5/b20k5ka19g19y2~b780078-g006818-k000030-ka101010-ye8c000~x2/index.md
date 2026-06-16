@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — Martin Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2842))
 - 2001 — Martin Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4943/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2842](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2842)
+- Scottish Tartans Authority (ITI): 4943
+
 ## Thread count
 P/40 DB10 K38 G38 Y/4
 ![Sett](sett.png)

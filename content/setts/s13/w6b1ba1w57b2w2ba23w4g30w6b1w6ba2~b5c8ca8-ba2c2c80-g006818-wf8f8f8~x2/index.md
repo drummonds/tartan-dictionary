@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — McGillivray, Pauline (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2443))
 - 1983 — MacGillivray - 1983 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6367/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2443](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2443)
+- Scottish Tartans Authority (ITI): 6367
+
 ## Thread count
 DB/4 W12 B2 W12 G60 W8 DB46 W4 B4 W114 DB2 B2 W/12
 ![Sett](sett.png)

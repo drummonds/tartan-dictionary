@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Norwell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3166))
 - 2003 — Norwell (Personal)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5945/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3166)
+- Scottish Tartans Authority (ITI): 5945
+
 ## Thread count
 R/8 K8 R64 Ga8 LN6 Ga8 K26 Ga6 DB36 R4 Y/6
 ![Sett](sett.png)

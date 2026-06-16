@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - May 1984 — Victoria, County of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4343/))
 - 01/01/1986 — Victoria, County of (Texas, USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4459))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4459](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4459)
+- Scottish Tartans Authority (ITI): 4343
+
 ## Thread count
 Na/36 N3 G3 N3 R20 Na3 B24 G32 DY3 R3 Na3 B6 Na6 R3 DY3 N3 G6 N3 DY3 B3 R/6
 ![Sett](sett.png)

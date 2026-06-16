@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1725 — Campbell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=502))
 - 1725 — Campbell (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [502](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=502)
+- Scottish Tartans Authority (ITI): 1
+- Scottish Tartans World Register: 1
+
 ## Thread count
 N/6 K6 N32 K32 G32 K6 G32 K32 N6 K6 N6 K6 N/28
 ![Sett](sett.png)

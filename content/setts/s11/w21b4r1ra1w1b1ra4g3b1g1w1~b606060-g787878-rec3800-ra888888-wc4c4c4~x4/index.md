@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — Glen Ross (WCWM - 1) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1395))
 - pre 1989 — Glen Ross (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5021/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1395](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1395)
+- Scottish Tartans Authority (ITI): 5021
+
 ## Thread count
 N/4 Na4 Nb4 Na12 Nc16 Nb4 N4 Nc4 R4 Nb16 N/84
 ![Sett](sett.png)

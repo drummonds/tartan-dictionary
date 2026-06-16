@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — MacPhail (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2695))
 - pre 1950 — MacPhail (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1031/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2695](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2695)
+- Scottish Tartans Authority (ITI): 1031
+- Scottish Tartans World Register: 1031
+
 ## Thread count
 K/8 LG4 G52 R12 K28 R/100
 ![Sett](sett.png)

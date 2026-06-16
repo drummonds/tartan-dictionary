@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Anderson of Kinnedear Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5189))
 - 1993 — Anderson of Kinnedear Red (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3015/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5189](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5189)
+- Scottish Tartans Authority (ITI): 3015
+
 ## Thread count
 DB/6 DR12 DB2 G4 DB2 DR44 K8 G4 K8 DY4 K4 DY4 K8 DR6 DB12 DR8 DB4 DR4 DB12 DR/8
 ![Sett](sett.png)

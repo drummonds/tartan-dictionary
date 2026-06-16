@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Confessore (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=735))
 - pre 22002 — Confessore (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2165/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [735](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=735)
+- Scottish Tartans Authority (ITI): 2165
+- Scottish Tartans World Register: 2165
+
 ## Thread count
 K/24 G4 K4 G16 Y4 R4 Y16 R4 Y8 G16 K4 G4 K32 LN4 K/8
 ![Sett](sett.png)

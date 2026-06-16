@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Covenant College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5556))
 - undated — Covenant College Corporate Tartan Tartan Number: 7518. Earliest known date: pre 2008 Covenant College is a four-year Christian college that emphasizes the liberal arts. Founded in 1955 in Pasadena, California, the college moved its campus to Lookout Mountain, Georgia in 1965. It is an educational institution of the Presbyterian Church in America. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7518))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5556](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5556)
+- Scottish Tartans Authority (ITI): 7518
+
 ## Thread count
 B/4 LP4 DB46 B2 DB4 B8 DB4 B2 DB46 LP/4
 ![Sett](sett.png)

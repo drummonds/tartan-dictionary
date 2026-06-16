@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 10/09/2001 — Moon (Georgia, USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3002))
 - pre 2002 — Moon (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4100/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3002](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3002)
+- Scottish Tartans Authority (ITI): 4100
+
 ## Thread count
 DB/6 DR16 DG16 K2 DY6 K2 B8 DB54 B8 K2 DY6 K2 DG16 DR16 DB6 DR10 K2 N/8
 ![Sett](sett.png)

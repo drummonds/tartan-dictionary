@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Caledonian Airways (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3781/))
 - undated — Caledonian Airways (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4876))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4876](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4876)
+- Scottish Tartans Authority (ITI): 3781
+
 ## Thread count
 B/4 DN8 B8 DB36 B4 DB4 B4 DB20 B4 DB4 B4 DN36 B/4
 ![Sett](sett.png)

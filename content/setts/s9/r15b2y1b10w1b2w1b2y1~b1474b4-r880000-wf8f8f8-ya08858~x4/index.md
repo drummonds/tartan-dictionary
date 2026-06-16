@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Rafferty (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3439))
 - pre 2005 — Rafferty (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6749/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3439)
+- Scottish Tartans Authority (ITI): 6749
+
 ## Thread count
 DR/60 B8 LT4 B40 W4 B8 W4 B8 LT/4
 ![Sett](sett.png)

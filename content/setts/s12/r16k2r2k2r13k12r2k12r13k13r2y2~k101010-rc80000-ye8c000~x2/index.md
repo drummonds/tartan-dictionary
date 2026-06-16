@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Aug. 1995 — German National (US) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1095/))
 - 01/07/1996 — German National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1337))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1337](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1337)
+- Scottish Tartans Authority (ITI): 1095
+- Scottish Tartans World Register: 1095
+
 ## Thread count
 R/32 K4 R4 K4 R26 K24 R4 K24 R26 K26 R4 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacArthur (Variant) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2279))
 - pre 2002 — MacArthur Variant (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1492/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2279](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2279)
+- Scottish Tartans Authority (ITI): 1492
+- Scottish Tartans World Register: 1492
+
 ## Thread count
 R/6 G60 K24 G12 K32 Y/4
 ![Sett](sett.png)

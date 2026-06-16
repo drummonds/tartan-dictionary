@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacEwen/MacEwan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2428))
 - pre 2002 — MacEwen (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1587/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2428](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2428)
+- Scottish Tartans Authority (ITI): 1587
+- Scottish Tartans World Register: 1587
+
 ## Thread count
 R/4 K4 G24 K24 DB24 K4 DB4 K4 DB24 K24 G24 K4 Y/4
 ![Sett](sett.png)

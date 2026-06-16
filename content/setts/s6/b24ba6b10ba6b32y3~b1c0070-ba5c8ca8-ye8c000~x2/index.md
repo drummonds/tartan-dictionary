@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Sultan of Qaboo's Air Force (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4037))
 - pre 1996 — Sultan of Qaboo's Air Force (Milit.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5165/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4037](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4037)
+- Scottish Tartans Authority (ITI): 5165
+
 ## Thread count
 DB/48 B12 DB20 B12 DB64 Y/6
 ![Sett](sett.png)

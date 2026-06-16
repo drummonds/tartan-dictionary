@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1964 — Maple Leaf Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2825))
 - 1964 — Maple Leaf, Blue (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5702/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2825](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2825)
+- Scottish Tartans Authority (ITI): 5702
+
 ## Thread count
 DR/60 DB12 DR12 DB76 G24 LTa24 LT24 DB76 DR12 DB12 DR60 LTa/52
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Vosko (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4471))
 - pre 2002 — Vosko (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/373/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4471](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4471)
+- Scottish Tartans Authority (ITI): 373
+- Scottish Tartans World Register: 373
+
 ## Thread count
 DB/32 K16 DY8 K12 DR8 K12 DY8 K16 G/32
 ![Sett](sett.png)

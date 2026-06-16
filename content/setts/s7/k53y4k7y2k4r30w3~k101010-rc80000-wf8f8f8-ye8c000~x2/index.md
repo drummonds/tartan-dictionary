@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Partick Thistle Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3298))
 - Jan 2002 — Partick Thistle F.C. (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6401/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3298](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3298)
+- Scottish Tartans Authority (ITI): 6401
+
 ## Thread count
 K/106 Y8 K14 Y4 K8 R60 W/6
 ![Sett](sett.png)

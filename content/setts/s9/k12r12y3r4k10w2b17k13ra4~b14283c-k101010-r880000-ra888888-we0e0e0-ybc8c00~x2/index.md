@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2003 December — Tayside Police (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6598/))
 - undated — Tayside Police (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5321))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5321](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5321)
+- Scottish Tartans Authority (ITI): 6598
+- Scottish Tartans World Register: 3047
+
 ## Thread count
 K/24 DR24 DY6 DR8 K20 LN4 DN34 K26 N/8
 ![Sett](sett.png)

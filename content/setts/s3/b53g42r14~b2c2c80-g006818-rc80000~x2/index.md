@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1976 — Agnew (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=26))
 - 1976 — Agnew (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/182/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [26](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=26)
+- Scottish Tartans Authority (ITI): 182
+- Scottish Tartans World Register: 182
+
 ## Thread count
 DB/106 G84 R/28
 ![Sett](sett.png)

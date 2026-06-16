@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1830 — MacNeil Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2685))
 - 1830ish — MacNeil Dress (Unofficial) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1974/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2685](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2685)
+- Scottish Tartans Authority (ITI): 1974
+- Scottish Tartans World Register: 1974
+
 ## Thread count
 B/36 K26 G36 Y8 G36 K26 LN8 B8 LN36 B8 LN8 B8 LN36 B8 LN8 K26 B36 LN/8
 ![Sett](sett.png)

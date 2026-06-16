@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Turnbull of Thornton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4164))
 - 1996 — Turnbull of Thornton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5087/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4164](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4164)
+- Scottish Tartans Authority (ITI): 5087
+
 ## Thread count
 K/12 R6 G60 Y20 DB60 W/6
 ![Sett](sett.png)

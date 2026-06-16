@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Glen Boig (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1366))
 - pre 2002 — Glen Boig (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/915/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1366](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1366)
+- Scottish Tartans Authority (ITI): 915
+- Scottish Tartans World Register: 915
+
 ## Thread count
 G/78 T18 G6 Ta18 T/6
 ![Sett](sett.png)

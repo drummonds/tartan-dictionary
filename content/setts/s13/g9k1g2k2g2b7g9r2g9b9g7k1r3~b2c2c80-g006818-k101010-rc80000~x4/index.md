@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Moncrieff of Atholl (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2981))
 - pre 2003 — Moncrieff of Atholl (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5940/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2981](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2981)
+- Scottish Tartans Authority (ITI): 5940
+
 ## Thread count
 G/36 K4 G8 K8 G8 DB28 G36 R8 G36 DB36 G28 K4 R/12
 ![Sett](sett.png)

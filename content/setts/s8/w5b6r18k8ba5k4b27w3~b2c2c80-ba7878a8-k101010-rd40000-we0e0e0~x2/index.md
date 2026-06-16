@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Clinton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=688))
 - 2006 — Clinton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7076/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [688](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=688)
+- Scottish Tartans Authority (ITI): 7076
+
 ## Thread count
 LN/6 DB54 K8 B10 K16 R36 DB12 LN/10
 ![Sett](sett.png)

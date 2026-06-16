@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Dick (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=935))
 - pre 2007 — Dick (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7183/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [935](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=935)
+- Scottish Tartans Authority (ITI): 7183
+
 ## Thread count
 K/10 G60 Y6 B30 K30 B14 LN/6
 ![Sett](sett.png)

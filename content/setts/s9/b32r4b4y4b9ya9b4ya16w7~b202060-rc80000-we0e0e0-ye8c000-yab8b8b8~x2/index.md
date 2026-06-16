@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 14/03/2001 — Nevada State (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3108))
 - 2001 — Nevada State (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3091/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3108](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3108)
+- Scottish Tartans Authority (ITI): 3091
+- Scottish Tartans World Register: 2947
+
 ## Thread count
 DB/64 R8 DB8 Y8 DB18 N18 DB8 N32 LN/14
 ![Sett](sett.png)

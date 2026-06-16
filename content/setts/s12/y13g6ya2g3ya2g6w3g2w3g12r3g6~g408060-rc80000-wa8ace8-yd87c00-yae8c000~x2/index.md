@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — O'Brien (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4818))
 - Mar. 1995 — O'Brien (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2225/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4818](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4818)
+- Scottish Tartans Authority (ITI): 2225
+- Scottish Tartans World Register: 2225
+
 ## Thread count
 Ga/12 R6 Ga24 LP6 Ga4 LP6 Ga12 Y4 Ga6 Y4 Ga12 O/26
 ![Sett](sett.png)

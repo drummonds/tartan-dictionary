@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2005 — Verble (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4447))
 - 2005 March — Verble (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6659/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4447](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4447)
+- Scottish Tartans Authority (ITI): 6659
+
 ## Thread count
 G/48 Y12 K12 B48 G12 Y12 K/12
 ![Sett](sett.png)

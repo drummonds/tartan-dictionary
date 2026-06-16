@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Campbell, 42nd Dress (Balhousie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=531))
 - pre 2002 — Campbell, 42nd Dress (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/20/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [531](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=531)
+- Scottish Tartans Authority (ITI): 20
+- Scottish Tartans World Register: 20
+
 ## Thread count
 B/4 K2 B16 K14 Ga16 K4 Ga16 K14 LN6 B6 LN30 K4 LN/6
 ![Sett](sett.png)

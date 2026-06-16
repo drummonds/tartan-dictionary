@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2006 — St Andrew's College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3877))
 - 2006 March — St. Andrew's College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6898/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3877](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3877)
+- Scottish Tartans Authority (ITI): 6898
+
 ## Thread count
 DB/36 W4 DB4 R6 DB42 K56 Y2 K2 G/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Pride of Scotland Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3378))
 - pre 1997 — Pride of Scotland Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6566/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3378](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3378)
+- Scottish Tartans Authority (ITI): 6566
+
 ## Thread count
 DB/4 LN66 DB38 G4 DB4 R2 P36 K6 P4 R4 G/18
 ![Sett](sett.png)

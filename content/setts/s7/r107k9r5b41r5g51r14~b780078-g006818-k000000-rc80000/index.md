@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1831 — Buccleuch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=411))
 - 1831 — Buccleuch (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1505/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [411](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=411)
+- Scottish Tartans Authority (ITI): 1505
+- Scottish Tartans World Register: 1505
+
 ## Thread count
 R/14 G51 R5 P41 R5 K9 R/107
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1966 — Canadian Centennial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=543))
 - 1966 — Canadian Centennial (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1704/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [543](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=543)
+- Scottish Tartans Authority (ITI): 1704
+- Scottish Tartans World Register: 1704
+
 ## Thread count
 DY/4 DB8 K4 DB72 DG64 R4 LN12 R/6
 ![Sett](sett.png)

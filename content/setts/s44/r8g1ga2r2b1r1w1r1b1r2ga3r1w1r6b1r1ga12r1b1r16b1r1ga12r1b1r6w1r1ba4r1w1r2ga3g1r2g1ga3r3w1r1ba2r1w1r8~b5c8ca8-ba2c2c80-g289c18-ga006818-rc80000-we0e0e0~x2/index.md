@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1845 — MacAlister (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1465/))
 - 01/01/1850 — MacAlister (Smith 1850) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2265))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2265](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2265)
+- Scottish Tartans Authority (ITI): 1465
+- Scottish Tartans World Register: 1465
+
 ## Thread count
 R/16 G2 Ga4 R4 B2 R2 LN2 R2 B2 R4 Ga6 R2 LN2 R12 B2 R2 Ga24 R2 B2 R32 B2 R2 Ga24 R2 B2 R12 LN2 R2 DB8 R2 LN2 R4 Ga6 G2 R4 G2 Ga6 R6 LN2 R2 DB4 R2 LN2 R/16
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Gleneagles USA (Dalgleish) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1413))
 - pre 2002 — Gleneagles USA (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5032/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1413](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1413)
+- Scottish Tartans Authority (ITI): 5032
+
 ## Thread count
 DR/6 G22 DR28 G14 N62 G/8
 ![Sett](sett.png)

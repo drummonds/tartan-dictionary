@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1842 — MacMillan - 1842 (Dress) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1723/))
 - 01/01/1880 — MacMillan Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2658))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2658](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2658)
+- Scottish Tartans Authority (ITI): 1723
+- Scottish Tartans World Register: 1723
+
 ## Thread count
 DR/4 Y16 DR4 Y16 DR6 Y4 DR24 Y4 DR/6
 ![Sett](sett.png)

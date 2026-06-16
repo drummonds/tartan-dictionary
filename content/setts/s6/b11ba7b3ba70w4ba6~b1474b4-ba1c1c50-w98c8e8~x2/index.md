@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1982 — Auchairne (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2214/))
 - 01/01/1994 — Auchairne (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=129))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [129](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=129)
+- Scottish Tartans Authority (ITI): 2214
+- Scottish Tartans World Register: 2214
+
 ## Thread count
 B/22 DB14 B6 DB140 LB8 DB/12
 ![Sett](sett.png)

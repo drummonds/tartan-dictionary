@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1747 — Morrison (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3019))
 - 1747 — Morrison (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/998/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3019](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3019)
+- Scottish Tartans Authority (ITI): 998
+- Scottish Tartans World Register: 998
+
 ## Thread count
 G/10 LN4 G16 R18 K6 R8 K6 R34 G/6
 ![Sett](sett.png)

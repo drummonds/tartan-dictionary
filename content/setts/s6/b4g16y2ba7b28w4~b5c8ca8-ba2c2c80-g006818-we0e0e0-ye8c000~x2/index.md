@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1980-81 — Allanton (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3032/))
 - undated — Allanton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5397))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5397](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5397)
+- Scottish Tartans Authority (ITI): 3032
+
 ## Thread count
 B/8 G32 Y4 DB14 B56 LN/8
 ![Sett](sett.png)

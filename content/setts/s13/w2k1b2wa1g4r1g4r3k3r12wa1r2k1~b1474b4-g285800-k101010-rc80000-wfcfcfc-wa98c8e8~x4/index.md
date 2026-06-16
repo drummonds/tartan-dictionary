@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2002 — Peacock (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3308))
 - March 2003 — Peacock (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5793/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3308](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3308)
+- Scottish Tartans Authority (ITI): 5793
+- Scottish Tartans World Register: 2890
+
 ## Thread count
 K/4 R8 LB4 R48 K12 R12 G16 R4 G16 LB4 B8 K4 W/8
 ![Sett](sett.png)

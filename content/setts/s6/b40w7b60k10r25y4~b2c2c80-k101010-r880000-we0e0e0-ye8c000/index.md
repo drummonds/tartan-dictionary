@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Stradling (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7650/))
 - undated — Stradling (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5663))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5663)
+- Scottish Tartans Authority (ITI): 7650
+
 ## Thread count
 DB/40 LN7 DB60 K10 DR25 Y/4
 ![Sett](sett.png)

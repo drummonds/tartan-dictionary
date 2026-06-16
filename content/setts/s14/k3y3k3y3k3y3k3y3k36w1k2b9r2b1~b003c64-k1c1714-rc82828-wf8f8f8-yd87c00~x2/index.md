@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11340
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11340](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11340)
+
 ## Thread count
 DB/2 R4 DB18 K4 W2 K72 O6 K6 O6 K6 O6 K6 O6 K/6
 ![Sett](sett.png)

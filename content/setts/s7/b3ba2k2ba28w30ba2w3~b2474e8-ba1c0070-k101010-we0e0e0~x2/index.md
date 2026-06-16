@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Cunningham, Dress Blue (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=851))
 - pre 2002 — Cunningham Dress, Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4642/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [851](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=851)
+- Scottish Tartans Authority (ITI): 4642
+
 ## Thread count
 B/6 DB4 K4 DB56 LN60 DB4 LN/6
 ![Sett](sett.png)

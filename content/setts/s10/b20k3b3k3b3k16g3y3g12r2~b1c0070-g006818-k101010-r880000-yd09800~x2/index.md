@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1996 — Barnes (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2244/))
 - undated — Barnes Family Tartan Tartan Number: 2244. Earliest known date: 1996 Woven by K.C. Dalgliesh. this is a "Black Watch B" variation. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2244))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [218](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=218)
+- Scottish Tartans Authority (ITI): 2244
+- Scottish Tartans World Register: 2244
+
 ## Thread count
 DB/40 K6 DB6 K6 DB6 K32 G6 DY6 G24 DR/4
 ![Sett](sett.png)

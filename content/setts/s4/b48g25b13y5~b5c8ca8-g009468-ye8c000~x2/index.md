@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Laurel Park (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2059))
 - pre 2003 — Laurel Park (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6016/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2059](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2059)
+- Scottish Tartans Authority (ITI): 6016
+
 ## Thread count
 B/96 Ba50 B26 Y/10
 ![Sett](sett.png)

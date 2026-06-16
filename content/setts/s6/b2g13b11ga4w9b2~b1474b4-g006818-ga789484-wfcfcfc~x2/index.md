@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1975 — Loch Leven (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148))
 - 1975 — Loch Leven (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/108/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2148](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148)
+- Scottish Tartans Authority (ITI): 108
+- Scottish Tartans World Register: 108
+
 ## Thread count
 B/4 G26 B22 LG8 W18 B/4
 ![Sett](sett.png)

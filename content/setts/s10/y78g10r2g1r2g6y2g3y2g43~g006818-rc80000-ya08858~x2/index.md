@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Montreal (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2993))
 - pre 2002 — Montreal (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6259/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2993](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2993)
+- Scottish Tartans Authority (ITI): 6259
+
 ## Thread count
 G/86 LT4 G6 LT4 G12 R4 G2 R4 G20 LT/156
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Contrecoeur Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=749))
 - 1992 — Contrecoeur Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2295/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [749](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=749)
+- Scottish Tartans Authority (ITI): 2295
+- Scottish Tartans World Register: 2295
+
 ## Thread count
 LN/8 N8 G8 T4 Y40 LN28 R12 LN52 DB20 Y40 LN4 G8 N8 LN8 R/4
 ![Sett](sett.png)

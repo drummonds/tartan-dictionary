@@ -17,6 +17,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1812 — Ogilvie - 1831 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2132/))
 - 01/01/2002 — Ogilvie (Logan) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3228))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3228](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3228)
+- Scottish Tartans Authority (ITI): 2132
+- Scottish Tartans World Register: 2132
+
 ## Thread count
 G/28 K8 G28 Y8 K4 R16 LN4 R16 LN4 R16 K4 Y4 G16 LN4 G16 Y4 K4 R16 LN4 R16 LN4 R16 K4 Y4 G28 K8 G28 K8 G28 Y4 K4 R16 LN4 R16 LN4 R16 K24 LN2 DB8 LN2 K24 Y8 G12 Y4 G12 Y8 P4 R8 K4 R28 LN2 DB4 LN2 R28 LN2 DB4 LN2 R28 K4 R8 P4 Y4 G16 LN4 G16 Y4 K4 R16 LN4 R16 LN4 R16 K4 Y8 G16 Y8 K4 R16 LN4 R16 LN/4
 ![Sett](sett.png)

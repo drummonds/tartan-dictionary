@@ -17,6 +17,12 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Cox Name Tartan Tartan Number: 9140. Earliest known date: 2009 The idea of the tartan is to combine the basic pattern of the bell (my wife's Maiden name) and the Marshall (my mum's) tartans with the added pattern representing me red married white to Debbie blue surrounded by purple happiness. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9140))
 - undated — Lee Cox Tartan Tartan Number: 9205. Earliest known date: 2009 The idea of the tartan is to combine the basic pattern of the bell (my wife's Maiden name) and the Marshall (my mum's) tartans with the added pattern representing me red married white to Debbie blue surrounded by purple happiness. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9205))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10205](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10205)
+
 ## Thread count
 B/6 LN4 DR4 N12 G20 B6 K6 B6 K6 B6 G28 B6 K6 B6 K14 G4 DR/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2007 — Frogaletto (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1284))
 - September 2007 — Frogaletto (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7293/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1284](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1284)
+- Scottish Tartans Authority (ITI): 7293
+
 ## Thread count
 DB/16 K8 R4 K6 DB28 N20 LG4 N4 B4 N10 DB18 N6 DB4 N4 DB4 N/52
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1975 — Bicentenary (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4198/))
 - 01/01/1999 — Bicentenary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=259))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [259](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=259)
+- Scottish Tartans Authority (ITI): 4198
+
 ## Thread count
 DR/8 K4 G32 DRa16 DB8 K8 DY4 K4 DRa/24
 ![Sett](sett.png)

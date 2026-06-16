@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — MacGill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2439))
 - 1930 — MacGill (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1487/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2439)
+- Scottish Tartans Authority (ITI): 1487
+- Scottish Tartans World Register: 1487
+
 ## Thread count
 LN/12 Y8 R8 K8 DB20 LN8 Y8 R4 Y8 LN8 K28 G40 R/112
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 19/09/2001 — Spirit of Alba (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862))
 - undated — Spirit of Alba Fashion Weavers Tartan Tartan Number: 3904. Earliest known date: 2001 Designed by Claire Donaldson of the House of Edgar for Robert Nicol of Perth & Dunfermline. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3904))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862)
+- Scottish Tartans Authority (ITI): 3904
+- Scottish Tartans World Register: 2846
+
 ## Thread count
 DBa/4 G2 P48 DB36 G4 DB4 G2 DBa38 B8 DBa38 G2 DB4 G4 DB36 P48 G/2
 ![Sett](sett.png)

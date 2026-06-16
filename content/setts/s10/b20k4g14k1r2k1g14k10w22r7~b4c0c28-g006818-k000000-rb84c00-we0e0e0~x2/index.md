@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Border Union Cattle Show (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5333))
 - 1994 — Border Union Cattle Show (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3715/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5333](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5333)
+- Scottish Tartans Authority (ITI): 3715
+
 ## Thread count
 DO/14 LN44 K20 G28 K2 DO4 K2 G28 K8 DR/40
 ![Sett](sett.png)

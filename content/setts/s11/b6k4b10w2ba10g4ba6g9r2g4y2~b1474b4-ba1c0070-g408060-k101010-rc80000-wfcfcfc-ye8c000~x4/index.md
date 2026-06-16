@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2000 — O'Sullivan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3272))
 - pre 2002 — O'Sullivan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3311/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3272](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3272)
+- Scottish Tartans Authority (ITI): 3311
+- Scottish Tartans World Register: 2704
+
 ## Thread count
 B/24 K16 B40 W8 DBa40 Ga16 DBa24 Ga36 R8 Ga16 Y/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1937 — Baillie of Polkemmet (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=165))
 - 1937 — Baillie of Polkemett, Green (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/206/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [165](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=165)
+- Scottish Tartans Authority (ITI): 206
+- Scottish Tartans World Register: 206
+
 ## Thread count
 DB/44 K4 DB4 K4 DB4 K36 G36 LN4 G4 LN4 G4 LN4 G36 K36 DB32 K4 DB/4
 ![Sett](sett.png)

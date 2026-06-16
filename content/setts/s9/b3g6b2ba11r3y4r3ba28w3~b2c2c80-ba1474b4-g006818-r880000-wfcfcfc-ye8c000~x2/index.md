@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/1993 — Bains of Caithness (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=167))
 - Jun 1993 — Bains - Caithness (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6158/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [167](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=167)
+- Scottish Tartans Authority (ITI): 6158
+
 ## Thread count
 DB/6 G12 DB4 B22 DR6 Y8 DR6 B56 W/6
 ![Sett](sett.png)

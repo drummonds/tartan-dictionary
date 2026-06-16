@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Royal Agricultural Winter Fair (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3585))
 - 1997 — Royal Agricultural Winter Fair (Comm (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5408/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3585](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3585)
+- Scottish Tartans Authority (ITI): 5408
+
 ## Thread count
 DB/128 N4 DB4 DY8 DB4 DR4 DB16 DG/64
 ![Sett](sett.png)

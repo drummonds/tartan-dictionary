@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1892 — Maud, Mary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2859))
 - pre 1892 — Maud, Mary (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/268/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2859](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2859)
+- Scottish Tartans Authority (ITI): 268
+- Scottish Tartans World Register: 268
+
 ## Thread count
 B/130 K9 B21 Y8 B21 W8 B35 R/70
 ![Sett](sett.png)

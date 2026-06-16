@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Shiel, Magenta (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7580/))
 - undated — Shiel Magenta (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5604))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5604](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5604)
+- Scottish Tartans Authority (ITI): 7580
+
 ## Thread count
 DG/4 Ba4 W60 N48 B20 Ba10 W/16
 ![Sett](sett.png)

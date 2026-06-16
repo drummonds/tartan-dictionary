@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — O'Shaughnessy Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3270))
 - pre 2006 — O'Shaughnessy Memorial (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7051/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3270](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3270)
+- Scottish Tartans Authority (ITI): 7051
+
 ## Thread count
 B/114 LNa6 K18 Y4 K4 LN6 K4 G20 B12 K4 B4 R/6
 ![Sett](sett.png)

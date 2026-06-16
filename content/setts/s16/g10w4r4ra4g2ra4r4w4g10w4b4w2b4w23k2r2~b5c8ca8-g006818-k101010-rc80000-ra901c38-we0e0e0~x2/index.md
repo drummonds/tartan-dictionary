@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - after 1972 — MacBean Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2415/))
 - undated — MacBean Dress (Clan) Clan/Family Tartan Tartan Number: 2415. Earliest known date: after 1972 Sample from the MacBean Clan Society of North America. The design is almost identical to James Scarlett's Meta MacBean 1220. with the addition of black guards and the replacing with red, of a black line on alternate white bands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2415))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2292](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2292)
+- Scottish Tartans Authority (ITI): 2415
+- Scottish Tartans World Register: 2415
+
 ## Thread count
 G/20 LN8 R8 DR8 G4 DR8 R8 LN8 G20 LN8 B8 LN4 B8 LN46 K4 R/4
 ![Sett](sett.png)

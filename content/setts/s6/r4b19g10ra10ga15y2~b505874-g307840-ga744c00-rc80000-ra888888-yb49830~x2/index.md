@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - November 2008 — Isle of Rona (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7819/))
 - undated — Isle of Rona (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5775))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5775](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5775)
+- Scottish Tartans Authority (ITI): 7819
+
 ## Thread count
 DO/4 T30 Na20 G20 N38 R/8
 ![Sett](sett.png)

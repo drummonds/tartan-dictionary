@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1816 — Galbraith (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5127))
 - 1816 — Galbraith (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3176/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5127](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5127)
+- Scottish Tartans Authority (ITI): 3176
+
 ## Thread count
 K/4 G34 K32 R4 DB34 W/4
 ![Sett](sett.png)

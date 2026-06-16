@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Yule (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5338))
 - undated — Yule Name Tartan Tartan Number: 3896. Earliest known date: pre 2002 For the Yule families of Aberdeenshire, Lanarkshire and East Lothian not connected with Clan Buchanan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3896))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5338](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5338)
+- Scottish Tartans Authority (ITI): 3896
+
 ## Thread count
 B/2 Y6 G28 LN4 DB44 LN4 P28 B6 Y/2
 ![Sett](sett.png)

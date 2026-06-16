@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - January 1990 — Rosevear (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2541/))
 - undated — Rosevear Family/Clan Tartan Tartan Number: 2541. Earliest known date: 1990 A familyl tartan designed by House of Edgar Woollens Ltd. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2541))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3550](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3550)
+- Scottish Tartans Authority (ITI): 2541
+- Scottish Tartans World Register: 2541
+
 ## Thread count
 DR/100 Y8 LN32 DB4 LN8 DB4 LN30 G54 R/8
 ![Sett](sett.png)

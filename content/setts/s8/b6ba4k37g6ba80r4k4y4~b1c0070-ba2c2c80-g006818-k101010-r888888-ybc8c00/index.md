@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2007 — Law Enforcement Officers' Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5506))
 - Dec. 2007 — Law Enforcement Officers' Mem. (Cor (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7460/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5506](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5506)
+- Scottish Tartans Authority (ITI): 7460
+
 ## Thread count
 DBa/6 DB4 K37 G6 DB80 N4 K4 DY/4
 ![Sett](sett.png)

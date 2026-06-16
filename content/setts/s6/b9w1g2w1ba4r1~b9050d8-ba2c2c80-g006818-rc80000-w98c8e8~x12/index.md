@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2003 — McIntosh, Georgina (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889))
 - pre 2007 — McIntosh, Georgina (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7382/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2889](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889)
+- Scottish Tartans Authority (ITI): 7382
+- Scottish Tartans World Register: 2936
+
 ## Thread count
 P/108 LB12 G24 LB12 DB48 R/12
 ![Sett](sett.png)

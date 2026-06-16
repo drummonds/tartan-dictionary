@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1996 — Wisconsin in Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4766))
 - undated — Wisconsin in Scotland Corporate Univ Tartan Tartan Number: 2323. Earliest known date: 1997 Possibly designed by Morgan Clifford for use by the various departments of the University of Wisconsin that maintained (maintains?) a cultural study centre south of Edinburgh at Dalkeith. Count multiplied by four to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2323))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4766](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4766)
+- Scottish Tartans Authority (ITI): 2323
+- Scottish Tartans World Register: 2323
+
 ## Thread count
 DB/88 Y8 DR16 N8 DR16 R16 LN8 R16 DR16 N8 DR16 Y8 DB88 LN8 DB88 Y8 DR16 N8 DR16 R16 LN8 R16 DR16 N8 DR16 Y8 DB88 Y/8
 ![Sett](sett.png)

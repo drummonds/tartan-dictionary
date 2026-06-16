@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1882 — Syme (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6376/))
 - 01/01/1888 — Syme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4059))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4059](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4059)
+- Scottish Tartans Authority (ITI): 6376
+
 ## Thread count
 K/4 G32 W4 K32 DB32 R/4
 ![Sett](sett.png)

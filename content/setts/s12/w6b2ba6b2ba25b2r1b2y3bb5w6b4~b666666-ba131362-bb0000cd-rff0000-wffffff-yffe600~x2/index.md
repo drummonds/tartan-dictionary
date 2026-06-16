@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 19/08/2008 — Mead of Poetry, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10667))
 - undated — Mead Of Poetry, The Fashion Tartan Tartan Number: 10667. Earliest known date: 19/08/2008 In Norse mythology, the 'Poetic Mead' or 'Mead of Poetry' is a mythical beverage that enables the drinker to become omniscient. According to Wikipedia, the 'drink is a vivid metaphor for poetic inspiration, often associated with Odin the god of 'possession' via berserker rage or poetic inspiration'. Inspired by a blanket design. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10667))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10667](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10667)
+
 ## Thread count
 N/8 W12 B10 Y6 N4 R2 N4 DB50 N4 DB12 N4 W/12
 ![Sett](sett.png)

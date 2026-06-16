@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Copar a'Beannichte (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6483/))
 - 01/06/2005 — Copar a'Beannichte (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=757))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [757](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=757)
+- Scottish Tartans Authority (ITI): 6483
+
 ## Thread count
 G/40 B12 DG30 DB10 DG4 DB30 N8 DB20 R/4
 ![Sett](sett.png)

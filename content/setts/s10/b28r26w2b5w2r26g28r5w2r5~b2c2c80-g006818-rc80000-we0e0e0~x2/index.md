@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1772 — Glenaladale (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3619/))
 - undated — Glenaladale Plaid District Tartan Tartan Number: 2015. Earliest known date: 1772 Found in Prince Edward Island and said to have been brought from Glenaladale in 1772. (MacDonald of Glenaladale - Clan) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2015))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4904)
+- Scottish Tartans Authority (ITI): 3619
+
 ## Thread count
 DB/56 R52 LN4 DB10 LN4 R52 G56 R10 LN4 R/10
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Bell of the Borders (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=243))
 - 1984 — Bell of the Borders (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1489/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [243](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=243)
+- Scottish Tartans Authority (ITI): 1489
+- Scottish Tartans World Register: 1489
+
 ## Thread count
 R/12 Ga8 K36 N8 K8 N96 Y8 N8 Y/4
 ![Sett](sett.png)

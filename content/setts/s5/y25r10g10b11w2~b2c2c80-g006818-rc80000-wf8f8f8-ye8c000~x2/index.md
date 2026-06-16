@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2007 — Samye (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5410))
 - March 2007 — Samye (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7128/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5410](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5410)
+- Scottish Tartans Authority (ITI): 7128
+
 ## Thread count
 W/4 DB22 G20 R20 Y/50
 ![Sett](sett.png)

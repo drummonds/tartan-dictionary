@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1830 — Gudbrandsdalen, Rondastakken (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1556))
 - pre 1830 — Gudbrandsdalen, Rondastakken (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2086/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1556](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1556)
+- Scottish Tartans Authority (ITI): 2086
+- Scottish Tartans World Register: 2086
+
 ## Thread count
 R/22 G6 R6 G22 DR8 R6 W4 R/130
 ![Sett](sett.png)

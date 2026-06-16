@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 05/07/2001 — Baptist Union of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=207))
 - July 2001 — Baptist Union of Scotland (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4104/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [207](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=207)
+- Scottish Tartans Authority (ITI): 4104
+- Scottish Tartans World Register: 2821
+
 ## Thread count
 N/4 DB23 B16 K4 DB23 O/4
 ![Sett](sett.png)

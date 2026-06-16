@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Chinzei Keiai School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=637))
 - 2002 — Chinzei Keiai School (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5741/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [637](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=637)
+- Scottish Tartans Authority (ITI): 5741
+
 ## Thread count
 DR/6 P6 DN32 K4 DN4 G32 DR6 G4 LN/4
 ![Sett](sett.png)

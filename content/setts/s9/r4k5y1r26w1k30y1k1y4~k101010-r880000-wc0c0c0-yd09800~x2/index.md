@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1999 — MacAlister of Skye (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3300/))
 - undated — MacAlister of Skye (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5209))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5209](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5209)
+- Scottish Tartans Authority (ITI): 3300
+
 ## Thread count
 DR/8 K10 DY2 DR52 N2 K60 DY2 K2 DY/8
 ![Sett](sett.png)

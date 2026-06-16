@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2003 — Heddle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1677))
 - 2003 June — Heddle (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6775/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1677](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1677)
+- Scottish Tartans Authority (ITI): 6775
+
 ## Thread count
 N/16 DB48 K4 DB4 N16 DB4 K4 DB8 Y4 DB8 K4 N24 W/6
 ![Sett](sett.png)

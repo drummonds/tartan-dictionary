@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1982 — Dunlop (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1197/))
 - undated — Dunlop Clan Tartan Tartan Number: 1197. Earliest known date: 1982 Revised version See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1197))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1045](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1045)
+- Scottish Tartans Authority (ITI): 1197
+- Scottish Tartans World Register: 1197
+
 ## Thread count
 K/6 R2 K60 LN2 DB56 R2 DB2 LN/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1979 — Penman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316))
 - 1979 — Penman (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/166/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3316](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316)
+- Scottish Tartans Authority (ITI): 166
+- Scottish Tartans World Register: 166
+
 ## Thread count
 B/20 G20 K4 R12 K2 N24 B24 G24 Y4 B8 Y4 G24 B24 N/44
 ![Sett](sett.png)

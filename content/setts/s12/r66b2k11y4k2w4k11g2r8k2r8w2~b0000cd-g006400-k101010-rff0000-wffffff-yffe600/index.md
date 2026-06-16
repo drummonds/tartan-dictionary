@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 15/03/2006 — TIlted Kilt (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10682))
 - undated — TIlted Kilt Corporate Tartan Tartan Number: 10682. Earliest known date: 23 August 2012 The Tilted Kilt is a Celtic-themed pub franchise based in Tempe, Arizona, USA. The tartan is used in staff costume and throughout brand presence. It was designed and the first 2000 metres of it produced by Marton Mills (England). A further 2000-plus metres have since been produced. It has appeared in advertisments, on television and on race cars, boats and other applications. It has also been included in the Tilted Kilt trade dress registration in the US Patent Office. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10682))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10682](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10682)
+
 ## Thread count
 R/66 B2 K11 Y4 K2 W4 K11 G2 R8 K2 R8 W/2
 ![Sett](sett.png)

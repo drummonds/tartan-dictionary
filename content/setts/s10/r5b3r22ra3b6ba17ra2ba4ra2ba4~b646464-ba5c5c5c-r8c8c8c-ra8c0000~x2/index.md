@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Clyde (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=692))
 - pre 1983 — Clyde (Pendelton Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1296/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [692](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=692)
+- Scottish Tartans Authority (ITI): 1296
+- Scottish Tartans World Register: 1296
+
 ## Thread count
 N/10 Na6 N44 DR6 Na12 Nb34 DR4 Nb8 DR4 Nb/8
 ![Sett](sett.png)

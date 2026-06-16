@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — Cunningham Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=850))
 - 1990 — Cunningham Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1972/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [850](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=850)
+- Scottish Tartans Authority (ITI): 1972
+- Scottish Tartans World Register: 1972
+
 ## Thread count
 DB/24 K4 G4 K4 G4 K4 DB26 DR12 K20 DR12 G26 K4 DY4 K4 N4 K4 G/24
 ![Sett](sett.png)

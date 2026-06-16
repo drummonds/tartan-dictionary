@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — MacKenzie Hunting (Brown) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528))
 - 1819 — MacKenzie Brown Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5905/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528)
+- Scottish Tartans Authority (ITI): 5905
+
 ## Thread count
 LTa/24 K4 LTa4 K4 LTa4 K24 LT24 K2 LN4 K2 LT24 K24 LTa24 K2 R/4
 ![Sett](sett.png)

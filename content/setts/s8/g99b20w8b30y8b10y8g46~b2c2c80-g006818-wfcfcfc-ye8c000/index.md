@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Duke of York Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1012))
 - pre 2002 — Duke of York Htg (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/745/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1012](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1012)
+- Scottish Tartans Authority (ITI): 745
+- Scottish Tartans World Register: 745
+
 ## Thread count
 G/99 DB20 W8 DB30 Y8 DB10 Y8 G/46
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2006 — Voluntary Service Aberdeen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4470))
 - 2006 August — Voluntary Service Aberdeen (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6995/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4470](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4470)
+- Scottish Tartans Authority (ITI): 6995
+
 ## Thread count
 LN/2 LP16 DB28 LN2 LP8 DB4 N2 K70 LN2 Na/8
 ![Sett](sett.png)

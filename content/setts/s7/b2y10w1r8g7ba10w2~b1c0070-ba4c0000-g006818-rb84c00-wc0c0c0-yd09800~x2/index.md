@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1996 — Kipp (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2002))
 - pre 1998 — Kipp (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2445/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2002](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2002)
+- Scottish Tartans Authority (ITI): 2445
+- Scottish Tartans World Register: 2445
+
 ## Thread count
 DB/4 DY20 N2 DO16 G14 DR20 N/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Bethune (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=257))
 - pre 1997 — Bethune (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2428/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [257](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=257)
+- Scottish Tartans Authority (ITI): 2428
+- Scottish Tartans World Register: 2428
+
 ## Thread count
 B/8 DB72 Y16 K20 Y4 K4 LN4 K8 G32 R24 K4 R12 LN/4
 ![Sett](sett.png)

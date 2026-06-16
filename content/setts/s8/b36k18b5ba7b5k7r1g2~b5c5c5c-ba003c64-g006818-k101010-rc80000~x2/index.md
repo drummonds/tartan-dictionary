@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Suttle (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7668/))
 - undated — Suttle (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5671))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5671](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5671)
+- Scottish Tartans Authority (ITI): 7668
+
 ## Thread count
 G/4 R2 K14 N10 DB14 N10 K36 N/72
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2000 — McCarthy, Old (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2874))
 - pre 2000 — McCarthy, Old (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4049/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2874](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2874)
+- Scottish Tartans Authority (ITI): 4049
+
 ## Thread count
 DB/14 DR52 DB14 DG48 Y/4
 ![Sett](sett.png)

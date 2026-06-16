@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1974 — Matheson Hunting (Crowe 1974) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856))
 - 1974 — Matheson Htg Dance (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6368/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2856](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856)
+- Scottish Tartans Authority (ITI): 6368
+
 ## Thread count
 G/32 B16 G4 B4 G4 B96 W32 G16 B4 G4 B4 G16 B32 G4 B4 G4 B4 W32 G32 B8 G/8
 ![Sett](sett.png)

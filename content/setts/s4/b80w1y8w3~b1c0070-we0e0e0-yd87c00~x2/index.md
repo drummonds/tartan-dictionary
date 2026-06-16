@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Weir Minerals (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7613/))
 - undated — Weir Minerals (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5635))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5635](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5635)
+- Scottish Tartans Authority (ITI): 7613
+
 ## Thread count
 DB/160 LN2 O16 LN/6
 ![Sett](sett.png)

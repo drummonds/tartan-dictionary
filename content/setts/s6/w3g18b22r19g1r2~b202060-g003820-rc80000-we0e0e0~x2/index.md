@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Nibley (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134))
 - 1997 Feb — Nibley (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2338/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3134](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134)
+- Scottish Tartans Authority (ITI): 2338
+- Scottish Tartans World Register: 2338
+
 ## Thread count
 LN/6 DG36 DB44 R38 DG2 R/4
 ![Sett](sett.png)

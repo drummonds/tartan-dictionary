@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Ettrick Forest (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1137))
 - 1995 — Ettrick Forest (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4829/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1137](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1137)
+- Scottish Tartans Authority (ITI): 4829
+
 ## Thread count
 DB/4 G4 DR2 G8 DR2 DB12 DR4 G2 Y2 G2 DR2 G2 DR2 G2 B2 G2 DR4 DB12 G52 DR2 G2 DR2 G2 DB/2
 ![Sett](sett.png)

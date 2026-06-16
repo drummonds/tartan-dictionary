@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Commonwealth Games 1998 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=722))
 - undated — Malay 98 / Commonwealth Games (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4889))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4889](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4889)
+- Scottish Tartans Authority (ITI): 3080
+
 ## Thread count
 DG/20 Ra4 DG4 R8 DG32 P32 R4 B36 DY4 B16 R/6
 ![Sett](sett.png)

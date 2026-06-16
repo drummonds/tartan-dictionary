@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2006 — Uitwaaien Papi (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4195))
 - 2006 September — Uitwaaien Papi (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7007/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4195](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4195)
+- Scottish Tartans Authority (ITI): 7007
+
 ## Thread count
 DR/5 DRa8 DP13 DB21 DG34 G55 DR/3
 ![Sett](sett.png)

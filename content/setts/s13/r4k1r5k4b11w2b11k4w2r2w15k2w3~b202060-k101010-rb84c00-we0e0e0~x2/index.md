@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2001 — Tommy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137))
 - pre 2002 — Tommy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3973/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4137](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137)
+- Scottish Tartans Authority (ITI): 3973
+- Scottish Tartans World Register: 2855
+
 ## Thread count
 DO/8 K2 DO10 K8 DB22 LN4 DB22 K8 LN4 DO4 LN30 K4 LN/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2007 — MacHatters of the Old Pueblo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2469))
 - February 2007 — MacHatters of the Old Pueblo (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7102/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2469](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2469)
+- Scottish Tartans Authority (ITI): 7102
+
 ## Thread count
 LP/4 R58 K30 Ra2 K4 Ra4 P46 Ra4 R4 Pa4 P/14
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Balfour #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=174))
 - undated — Balfour Hunting Family Tartan Tartan Number: 684. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=684))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [174](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=174)
+- Scottish Tartans Authority (ITI): 684
+- Scottish Tartans World Register: 684
+
 ## Thread count
 DB/36 Y4 T12 Y4 T38 R/6
 ![Sett](sett.png)

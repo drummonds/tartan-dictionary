@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1989 — Antigonish Centennial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5248))
 - 1989 — Antigonish (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3523/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5248](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5248)
+- Scottish Tartans Authority (ITI): 3523
+
 ## Thread count
 K/8 Na4 DB10 Na14 DB18 G28 N8 G2 N/8
 ![Sett](sett.png)

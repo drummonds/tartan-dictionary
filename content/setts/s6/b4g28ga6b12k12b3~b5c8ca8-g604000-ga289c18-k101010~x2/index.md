@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1965 — Thomson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4120))
 - 1965 — Thomson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/231/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4120](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4120)
+- Scottish Tartans Authority (ITI): 231
+- Scottish Tartans World Register: 231
+
 ## Thread count
 B/6 K24 B24 G12 T56 B/8
 ![Sett](sett.png)

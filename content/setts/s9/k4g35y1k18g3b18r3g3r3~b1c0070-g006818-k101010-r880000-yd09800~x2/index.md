@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1996 — Mackay, John (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2283/))
 - undated — John.W.Mackay Family Tartan Tartan Number: 2283. Earliest known date: 1996 Designed for a John MacKay when he retired from the Post Office. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2283))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2505](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2505)
+- Scottish Tartans Authority (ITI): 2283
+- Scottish Tartans World Register: 2283
+
 ## Thread count
 DR/6 G6 DR6 DB36 G6 K36 DY2 G70 K/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Lee (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2080))
 - 1995 — Lee (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5407/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2080](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2080)
+- Scottish Tartans Authority (ITI): 5407
+
 ## Thread count
 G/8 K4 G48 DR16 G12 DB36 N/8
 ![Sett](sett.png)

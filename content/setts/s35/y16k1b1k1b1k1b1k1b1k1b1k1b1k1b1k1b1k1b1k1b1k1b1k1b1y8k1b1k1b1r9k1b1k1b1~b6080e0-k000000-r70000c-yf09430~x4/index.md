@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Coulin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775))
 - pre 2002 — Coulin (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4593/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [775](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775)
+- Scottish Tartans Authority (ITI): 4593
+
 ## Thread count
 B/4 K4 B4 K4 DR36 B4 K4 B4 K4 Y32 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 Y/64
 ![Sett](sett.png)

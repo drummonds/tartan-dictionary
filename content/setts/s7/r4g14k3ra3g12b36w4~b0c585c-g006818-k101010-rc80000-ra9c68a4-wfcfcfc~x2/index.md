@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Vipont (White line) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4463))
 - 1930 ish — Vipont (White line) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1479/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4463](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4463)
+- Scottish Tartans Authority (ITI): 1479
+- Scottish Tartans World Register: 1479
+
 ## Thread count
 R/8 Ga28 K6 LP6 Ga24 G72 W/8
 ![Sett](sett.png)

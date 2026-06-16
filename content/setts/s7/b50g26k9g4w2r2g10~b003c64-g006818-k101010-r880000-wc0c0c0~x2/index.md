@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 05/07/2001 — Java Saint Andrew Society Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1886))
 - Jun. 2001 — Java Saint Andrew Society Htg (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4105/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1886](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1886)
+- Scottish Tartans Authority (ITI): 4105
+- Scottish Tartans World Register: 2821
+
 ## Thread count
 DB/100 G52 K18 G8 N4 DR4 G/20
 ![Sett](sett.png)

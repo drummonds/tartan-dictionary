@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Duncan of Sketraw (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5301))
 - 2005 January — Duncan of Sketraw (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6497/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5301](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5301)
+- Scottish Tartans Authority (ITI): 6497
+- Scottish Tartans World Register: 3224
+
 ## Thread count
 B/4 K2 G28 K2 LN4 K2 B10 R2 B10 K2 Y4 K2 G28 K4 G4 K12 R/4
 ![Sett](sett.png)

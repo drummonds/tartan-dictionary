@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Miller (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2951))
 - 1998 — Miller (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4177/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2951](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2951)
+- Scottish Tartans Authority (ITI): 4177
+
 ## Thread count
 DR/4 DB12 G30 B18 DB60 B18 G12 DY/4
 ![Sett](sett.png)

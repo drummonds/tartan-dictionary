@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2006 — Sandberg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3649))
 - 2006 February — Sandberg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6860/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3649](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3649)
+- Scottish Tartans Authority (ITI): 6860
+
 ## Thread count
 R/12 K48 G16 DB48 R4 K8 R/4
 ![Sett](sett.png)

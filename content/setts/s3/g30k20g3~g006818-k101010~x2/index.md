@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Scotch Tape (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7782/))
 - undated — Scotch Tape (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5751))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5751](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5751)
+- Scottish Tartans Authority (ITI): 7782
+
 ## Thread count
 G/6 K40 G/60
 ![Sett](sett.png)

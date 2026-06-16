@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2005 — Tantallon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5294))
 - Jul. 2005 — Tantallon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6849/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5294](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5294)
+- Scottish Tartans Authority (ITI): 6849
+
 ## Thread count
 W/6 DB42 K4 R14 K4 G20 K4 R14 K42 Y/6
 ![Sett](sett.png)

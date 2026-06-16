@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — McShane (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904))
 - pre 2002 — McShane (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4111/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904)
+- Scottish Tartans Authority (ITI): 4111
+
 ## Thread count
 G/36 N8 G36 K8 T56 Y16 N8 R/8
 ![Sett](sett.png)

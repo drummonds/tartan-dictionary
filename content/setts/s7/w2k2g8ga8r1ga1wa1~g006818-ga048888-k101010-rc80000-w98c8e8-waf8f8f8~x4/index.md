@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Lundy (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2249))
 - pre 1997 — Lundy (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5514/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2249](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2249)
+- Scottish Tartans Authority (ITI): 5514
+
 ## Thread count
 LB/8 K8 G32 B32 R4 B4 W/4
 ![Sett](sett.png)

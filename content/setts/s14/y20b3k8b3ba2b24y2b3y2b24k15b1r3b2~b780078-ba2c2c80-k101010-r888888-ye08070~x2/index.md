@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2005 — Black Rose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=276))
 - 2005 April — Black Rose (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6632/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [276](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=276)
+- Scottish Tartans Authority (ITI): 6632
+
 ## Thread count
 LR/40 P6 K16 P6 DB4 P48 LR4 P6 LR4 P48 K30 P2 N6 P/4
 ![Sett](sett.png)

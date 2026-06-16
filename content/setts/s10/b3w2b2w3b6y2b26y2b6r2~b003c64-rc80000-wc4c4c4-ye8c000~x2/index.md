@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — Dundee Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1035))
 - 1990 — Dundee Football Club (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2058/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1035](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1035)
+- Scottish Tartans Authority (ITI): 2058
+- Scottish Tartans World Register: 2058
+
 ## Thread count
 DB/6 N4 DB4 N6 DB12 Y4 DB52 Y4 DB12 R/4
 ![Sett](sett.png)

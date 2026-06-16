@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2003 — Brigadoon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5463))
 - pre 2007 — Brigadoon (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7349/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5463](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5463)
+- Scottish Tartans Authority (ITI): 7349
+
 ## Thread count
 LN/8 DB38 R8 P4 R8 P46 Y8 P/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Alma College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4981))
 - 1996 — Alma College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3413/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4981](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4981)
+- Scottish Tartans Authority (ITI): 3413
+
 ## Thread count
 Ba/48 K6 Ba4 K6 Ba8 K8 R40 K6 R/12
 ![Sett](sett.png)

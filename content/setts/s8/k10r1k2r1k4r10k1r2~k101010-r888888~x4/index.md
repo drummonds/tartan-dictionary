@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — Douglas, Grey (Vestiarium Scoticum) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957))
 - 1842 — Douglas, Grey (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1127/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [957](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957)
+- Scottish Tartans Authority (ITI): 1127
+- Scottish Tartans World Register: 1127
+
 ## Thread count
 K/40 N4 K8 N4 K16 N40 K4 N/8
 ![Sett](sett.png)

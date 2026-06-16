@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/1992 — Fife (Mann) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1179))
 - Mar 1992 — Fife (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6159/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1179](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1179)
+- Scottish Tartans Authority (ITI): 6159
+
 ## Thread count
 B/8 W4 B48 DY12 B28 T8 DY4 B8 K4 G16 W4 B/8
 ![Sett](sett.png)

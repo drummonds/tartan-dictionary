@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — MacPhee (Black and White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2699))
 - pre 1992 — MacFie B&W (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1252/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2699](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2699)
+- Scottish Tartans Authority (ITI): 1252
+- Scottish Tartans World Register: 1252
+
 ## Thread count
 K/44 W6 K6 W/44
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2007 — Kang (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7425/))
 - undated — Kang (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5497))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5497](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5497)
+- Scottish Tartans Authority (ITI): 7425
+
 ## Thread count
 B/88 K6 B6 K6 B6 K28 Y8 K6 LN4 K4 LN/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Cunningham Dress Burgundy (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=847))
 - 1986 — Cunningham Dress, Burgundy (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1873/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [847](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=847)
+- Scottish Tartans Authority (ITI): 1873
+- Scottish Tartans World Register: 1873
+
 ## Thread count
 W/10 DR4 W68 DR68 K4 DR4 Y/8
 ![Sett](sett.png)

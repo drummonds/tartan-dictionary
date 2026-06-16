@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Campbell, The 42nd (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=536))
 - 1819 — Campbell, The 42nd (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/12/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [536](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=536)
+- Scottish Tartans Authority (ITI): 12
+- Scottish Tartans World Register: 12
+
 ## Thread count
 B/12 K12 B36 K36 G44 K/10
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2002 — Wood (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4779))
 - 2003 — Wood (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6589/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4779](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4779)
+- Scottish Tartans Authority (ITI): 6589
+- Scottish Tartans World Register: 2899
+
 ## Thread count
 G/22 B6 G10 R6 G10 K44 DB44 K/10
 ![Sett](sett.png)

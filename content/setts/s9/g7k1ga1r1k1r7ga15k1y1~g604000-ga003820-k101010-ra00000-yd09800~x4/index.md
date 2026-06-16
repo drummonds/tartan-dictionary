@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Cozumel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=784))
 - 1996 — Cozumel (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4597/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [784](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=784)
+- Scottish Tartans Authority (ITI): 4597
+
 ## Thread count
 DY/4 K4 DG60 DR28 K4 DR4 DG4 K4 T/28
 ![Sett](sett.png)

@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 2007 — Stott (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7112/))
 - undated — Stott Personal Tartan Tartan Number: 7112. Earliest known date: 2007 The design includes the white Cross of St Piran, the Cornish flag which has connections with the family name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7112))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3972](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3972)
+- Scottish Tartans Authority (ITI): 7112
+
 ## Thread count
 W/4 K50 B4 DR12 Ya4 G12 B4 K50 W/4
 ![Sett](sett.png)

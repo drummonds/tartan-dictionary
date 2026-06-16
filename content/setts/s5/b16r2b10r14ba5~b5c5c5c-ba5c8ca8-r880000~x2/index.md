@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Mowbray (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3037))
 - 1984 — Mowbray (USA) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/565/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3037](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3037)
+- Scottish Tartans Authority (ITI): 565
+- Scottish Tartans World Register: 565
+
 ## Thread count
 B/10 DR28 N20 DR4 N/32
 ![Sett](sett.png)

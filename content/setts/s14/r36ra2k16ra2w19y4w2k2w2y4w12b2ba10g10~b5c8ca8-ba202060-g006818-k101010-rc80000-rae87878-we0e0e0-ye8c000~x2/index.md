@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Dundee Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1034))
 - pre 2002 — Dundee Dress #1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/691/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1034](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1034)
+- Scottish Tartans Authority (ITI): 691
+- Scottish Tartans World Register: 691
+
 ## Thread count
 G/20 DB20 B4 LN24 Y8 LN4 K4 LN4 Y8 LN38 LR4 K32 LR4 R/72
 ![Sett](sett.png)

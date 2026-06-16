@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1798 — Campbell of Cawdor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=518))
 - pre 1798 — Campbell of Cawdor (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=518)
+- Scottish Tartans Authority (ITI): 2
+- Scottish Tartans World Register: 2
+
 ## Thread count
 B/8 K4 G32 K32 DB32 K4 R/8
 ![Sett](sett.png)

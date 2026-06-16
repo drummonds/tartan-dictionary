@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1934 — Menzies (1938) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924))
 - pre 1934 — Menzies 1938 - Mourning (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1244/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2924](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924)
+- Scottish Tartans Authority (ITI): 1244
+- Scottish Tartans World Register: 1244
+
 ## Thread count
 K/144 W16 K12 W16 K24 W8 K4 W/48
 ![Sett](sett.png)

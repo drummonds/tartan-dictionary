@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Oct. 1882 — Baileville (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2326/))
 - 01/01/1993 — Baileville (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [159](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159)
+- Scottish Tartans Authority (ITI): 2326
+- Scottish Tartans World Register: 2326
+
 ## Thread count
 Y/4 DR4 Y44 K16 Y4 K16 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2007 — Kremlin Zoria (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2016))
 - August 2007 — Kremlin Zoria (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7290/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2016](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2016)
+- Scottish Tartans Authority (ITI): 7290
+
 ## Thread count
 LN/20 G8 LN20 DB20 R8 DB20 G44 Y8 G44 DB20 R/8
 ![Sett](sett.png)

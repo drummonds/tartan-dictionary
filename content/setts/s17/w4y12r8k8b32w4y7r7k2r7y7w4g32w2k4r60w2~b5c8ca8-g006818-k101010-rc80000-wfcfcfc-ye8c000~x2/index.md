@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Chattan, Chief of Clan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=624))
 - 1819 — Chattan (Chief) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1852/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [624](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=624)
+- Scottish Tartans Authority (ITI): 1852
+- Scottish Tartans World Register: 1852
+
 ## Thread count
 W/4 R120 K8 W4 G64 W8 Y14 R14 K4 R14 Y14 W8 B64 K16 R16 Y24 W/8
 ![Sett](sett.png)

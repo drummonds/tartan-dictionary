@@ -18,6 +18,14 @@ This cloth appears in 4 source records; the oldest owns this page.
 - 01/01/1949 — Royal Scots Fusiliers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3606))
 - 1949 — Royal Scots Fusiliers (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5394/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3606](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3606)
+- Scottish Tartans Authority (ITI): 5394
+- Scottish Tartans World Register: 755
+
 ## Thread count
 DG/10 G6 DG48 G48 DG6 G/10
 ![Sett](sett.png)

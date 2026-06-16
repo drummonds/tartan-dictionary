@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Texas Blue Bonnet (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4098))
 - 1983 — Texas Blue Bonnet (US State) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/852/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4098](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4098)
+- Scottish Tartans Authority (ITI): 852
+- Scottish Tartans World Register: 852
+
 ## Thread count
 G/20 R4 DB40 LN4 R4 LN4 B40 LN4 B40 LN4 Y/4
 ![Sett](sett.png)

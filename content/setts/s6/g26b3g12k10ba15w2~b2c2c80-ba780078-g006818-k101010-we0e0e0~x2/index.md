@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/1996 — Lossiemouth/Hersbruck (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2225))
 - pre 1997 — Lossiemouth/Hersbruck (Commem) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2311/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2225](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2225)
+- Scottish Tartans Authority (ITI): 2311
+- Scottish Tartans World Register: 2311
+
 ## Thread count
 G/52 DB6 G24 K20 P30 LN/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Dundee Wallace (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1039))
 - 1819 — Dundee Wallace (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1648/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1039](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1039)
+- Scottish Tartans Authority (ITI): 1648
+- Scottish Tartans World Register: 1648
+
 ## Thread count
 Ra/8 LR4 R4 K6 Ra20 B16 W4 P16 W16 P16 W4 B16 K36 Y8 W4 K4 W4 Y8 G86 W4 Ra/104
 ![Sett](sett.png)

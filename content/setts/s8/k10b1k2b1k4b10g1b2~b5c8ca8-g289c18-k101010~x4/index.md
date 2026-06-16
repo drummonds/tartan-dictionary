@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Martin's Own (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3433))
 - 2004 — Martin's Own (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6590/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3433](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3433)
+- Scottish Tartans Authority (ITI): 6590
+
 ## Thread count
 B/8 G4 B40 K16 B4 K8 B4 K/40
 ![Sett](sett.png)

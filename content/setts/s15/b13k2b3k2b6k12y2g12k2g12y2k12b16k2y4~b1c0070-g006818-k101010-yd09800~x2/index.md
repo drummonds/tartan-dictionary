@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Mulholland (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3042))
 - pre 2002 — Mulholland (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8886/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3042](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3042)
+- Scottish Tartans Authority (ITI): 5649
+
 ## Thread count
 DB/26 K4 DB6 K4 DB12 K24 DY4 G24 K4 G24 DY4 K24 DB32 K4 DY/8
 ![Sett](sett.png)

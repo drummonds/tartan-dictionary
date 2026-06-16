@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Bailey Atlanta National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=160))
 - Jun. 1999 — Bailey Atlanta National (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2589/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [160](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=160)
+- Scottish Tartans Authority (ITI): 2589
+- Scottish Tartans World Register: 2589
+
 ## Thread count
 DBa/26 K4 DBa4 K4 DBa4 DB26 G26 K4 G6 K4 G26 K26 G26 K4 DBa/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Callum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=485))
 - 1980 — Callum, Blue (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1319/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [485](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=485)
+- Scottish Tartans Authority (ITI): 1319
+- Scottish Tartans World Register: 1319
+
 ## Thread count
 DR/6 B32 DB4 B4 DB4 B6 DB12 LT40 N6 LT4 N4 LT/6
 ![Sett](sett.png)

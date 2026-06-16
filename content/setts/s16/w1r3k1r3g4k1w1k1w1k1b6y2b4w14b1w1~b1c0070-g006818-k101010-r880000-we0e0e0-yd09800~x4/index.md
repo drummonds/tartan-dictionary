@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1989 — MacBeth Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3319/))
 - undated — MacBeth Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5181))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5181](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5181)
+- Scottish Tartans Authority (ITI): 3319
+
 ## Thread count
 LN/4 DB4 LN56 DB16 DY8 DB24 K4 LN4 K4 LN4 K4 G16 DR12 K4 DR12 LN/4
 ![Sett](sett.png)

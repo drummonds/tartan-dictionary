@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/1998 — Prestoungrange (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3369))
 - November 1998 — Prestoungrange (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2518/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3369](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3369)
+- Scottish Tartans Authority (ITI): 2518
+- Scottish Tartans World Register: 2518
+
 ## Thread count
 DB/4 K2 DB4 K4 DB70 G6 K4 G4 K4 G30 R8 G6 B4 G/6
 ![Sett](sett.png)

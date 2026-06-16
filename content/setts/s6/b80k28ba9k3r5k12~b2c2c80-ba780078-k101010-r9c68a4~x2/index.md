@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/2005 — Earl Blue Marl (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1063))
 - 2005 May — Earl Blue Marl (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6867/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1063](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1063)
+- Scottish Tartans Authority (ITI): 6867
+
 ## Thread count
 DB/160 K56 P18 K6 LP10 K/24
 ![Sett](sett.png)

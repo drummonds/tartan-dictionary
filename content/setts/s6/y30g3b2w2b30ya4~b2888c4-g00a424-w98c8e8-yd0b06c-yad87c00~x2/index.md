@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — South Aiken Presby Church (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7732/))
 - undated — South Aiken Presbyterian Church (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5716))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5716](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5716)
+- Scottish Tartans Authority (ITI): 7732
+
 ## Thread count
 LG/60 G6 B4 LB4 B60 O/8
 ![Sett](sett.png)

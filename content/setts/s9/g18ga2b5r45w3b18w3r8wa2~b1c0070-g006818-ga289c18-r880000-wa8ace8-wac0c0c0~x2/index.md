@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — MacNiven (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2693))
 - pre 1988 — MacNiven (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/752/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2693](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2693)
+- Scottish Tartans Authority (ITI): 752
+- Scottish Tartans World Register: 752
+
 ## Thread count
 G/36 Ga4 DB10 DR90 LP6 DB36 LP6 DR16 N/4
 ![Sett](sett.png)

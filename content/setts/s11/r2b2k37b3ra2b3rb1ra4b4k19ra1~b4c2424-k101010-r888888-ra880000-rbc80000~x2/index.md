@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - August 2002 — Brodie, Graeme (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3243/))
 - 01/01/2003 — Brodie, Graeme (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=374))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [374](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=374)
+- Scottish Tartans Authority (ITI): 3243
+- Scottish Tartans World Register: 2766
+
 ## Thread count
 DR/2 K38 T8 DR8 R2 T6 DR4 T6 K74 T4 N/4
 ![Sett](sett.png)

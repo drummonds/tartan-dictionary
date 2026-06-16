@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Ikelman #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1812))
 - 1993 January — Ikelman #2 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2211/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1812](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1812)
+- Scottish Tartans Authority (ITI): 2211
+- Scottish Tartans World Register: 2211
+
 ## Thread count
 N/4 DY16 DR16 K16 N/44
 ![Sett](sett.png)

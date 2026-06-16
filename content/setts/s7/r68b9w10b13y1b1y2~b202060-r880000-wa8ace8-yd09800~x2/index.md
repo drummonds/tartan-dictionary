@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1969 — Canadian Legion Branch 50 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=549))
 - pre 1969 — Canadian Legion Br 50 (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1327/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [549](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=549)
+- Scottish Tartans Authority (ITI): 1327
+- Scottish Tartans World Register: 1327
+
 ## Thread count
 DR/136 DB18 LP20 DB26 DY2 DB2 DY/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Crozier/Crosser (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=816))
 - 1983 — Crozier (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1779/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [816](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=816)
+- Scottish Tartans Authority (ITI): 1779
+- Scottish Tartans World Register: 1779
+
 ## Thread count
 W/8 DB10 R6 DB44 Y8 K6 DG34 R14 K4 R14 Y/4
 ![Sett](sett.png)

@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Grey Pride of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5557))
 - undated — Grey Pride of Scotland Fashion Tartan Tartan Number: 7519. Earliest known date: pre 2008 Count and sample from Lochcarron. Grey is in fact a grey/black mixture (marl) which can't be replicated with this software. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7519))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5557](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5557)
+- Scottish Tartans Authority (ITI): 7519
+
 ## Thread count
 K/4 N52 K28 N2 K4 N4 K28 N4 K4 N4 K/16
 ![Sett](sett.png)

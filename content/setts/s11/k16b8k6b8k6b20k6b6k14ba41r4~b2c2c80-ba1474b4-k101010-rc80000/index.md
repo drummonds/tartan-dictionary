@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Merchiston Castle School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2934))
 - 1988 — Merchiston Castle (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1051/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2934](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2934)
+- Scottish Tartans Authority (ITI): 1051
+- Scottish Tartans World Register: 1051
+
 ## Thread count
 K/16 DB8 K6 DB8 K6 DB20 K6 DB6 K14 B41 R/4
 ![Sett](sett.png)

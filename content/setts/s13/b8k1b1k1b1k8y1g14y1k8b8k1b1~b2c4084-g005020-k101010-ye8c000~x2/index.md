@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1890 — Black from Cumnock (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4925))
 - undated — Campbell of Breadalbane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=515))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4925](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4925)
+- Scottish Tartans World Register: 3061
+
 ## Thread count
 B/16 K2 B2 K2 B2 K16 Y2 G28 Y2 K16 B16 K2 B/2
 ![Sett](sett.png)

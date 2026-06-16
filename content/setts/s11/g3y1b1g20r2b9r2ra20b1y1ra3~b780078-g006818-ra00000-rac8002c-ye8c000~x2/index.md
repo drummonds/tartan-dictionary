@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2002 — Scotland (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5067))
 - 2002 — Scotland (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3115/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5067](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5067)
+- Scottish Tartans Authority (ITI): 3115
+
 ## Thread count
 G/6 Y2 P2 G40 DR4 P18 DR4 R40 P2 Y2 R/6
 ![Sett](sett.png)

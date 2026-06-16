@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2003 — Maier (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786))
 - pre 2004 — Maier (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6211/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2786](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786)
+- Scottish Tartans Authority (ITI): 6211
+- Scottish Tartans World Register: 2949
+
 ## Thread count
 K/8 Y4 K74 R6 K6 R6 K44 R6 K6 R/14
 ![Sett](sett.png)

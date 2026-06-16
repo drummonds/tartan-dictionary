@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — Duchess of Fife (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002))
 - 1880 — Duchess of Fife (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/781/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1002](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002)
+- Scottish Tartans Authority (ITI): 781
+- Scottish Tartans World Register: 781
+
 ## Thread count
 G/140 K52 G24 K28 B6 K/32
 ![Sett](sett.png)

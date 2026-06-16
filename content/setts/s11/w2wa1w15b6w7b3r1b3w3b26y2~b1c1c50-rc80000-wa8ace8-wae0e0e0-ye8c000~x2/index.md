@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2008 — Vilaro-Thomas (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5800))
 - Feb 2008 — Vilaro-Thomas (Personal)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7848/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5800](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5800)
+- Scottish Tartans Authority (ITI): 7848
+
 ## Thread count
 LP/4 LN2 LP30 DB12 LP14 DB6 R2 DB6 LP6 DB52 Y/4
 ![Sett](sett.png)

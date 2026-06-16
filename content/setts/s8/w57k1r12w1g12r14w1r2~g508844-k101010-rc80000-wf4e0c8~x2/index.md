@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1982 — McBrayer Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2301))
 - 1982? — McBrayer Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7205/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2301](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2301)
+- Scottish Tartans Authority (ITI): 7205
+
 ## Thread count
 R/4 W2 R28 LG24 W2 R24 K2 W/114
 ![Sett](sett.png)

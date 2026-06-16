@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1820 — Brodie (Clan) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=368))
 - undated — Brodie Red Clan Tartan Tartan Number: 1192. Earliest known date: 1850 The origins of the Brodie tartan are difficult to pin down. The earliest and most reliable source is the original manuscript for the Smiths' book, 'Authenticated Tartans of the Clans and Families of Scotland'(1850), although the sett was not included in the published work. The Smiths' sources included the findings of George Hunter, an army clothier, who toured the Highlands in search of old tartans prior to 1822. D.W. Stewart confirms this date but also mentions that the Brodies in Aberdeenshire wore the Huntly District tartan prior to 1820. There is also a different and more colourful sett recorded in the 'Baronage of Angus and Mearns' (1856) and a 'hunting' sett published in Johnston's 1st edition of 1891. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1192))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [368](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=368)
+- Scottish Tartans Authority (ITI): 1192
+- Scottish Tartans World Register: 1192
+
 ## Thread count
 K/6 R30 K22 Y4 K8 R/6
 ![Sett](sett.png)

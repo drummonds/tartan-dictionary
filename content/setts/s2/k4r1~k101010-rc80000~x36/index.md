@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1900 — St Kilda (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3896))
 - pre 2002 — St. Kilda (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1189/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3896](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3896)
+- Scottish Tartans Authority (ITI): 1189
+- Scottish Tartans World Register: 1189
+
 ## Thread count
 K/144 R/36
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Over Mountain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3278))
 - 1998 — Over Mountain (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2448/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3278](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3278)
+- Scottish Tartans Authority (ITI): 2448
+- Scottish Tartans World Register: 2448
+
 ## Thread count
 DR/4 LP2 DB16 LP16 LT16 LP2 LT/2
 ![Sett](sett.png)

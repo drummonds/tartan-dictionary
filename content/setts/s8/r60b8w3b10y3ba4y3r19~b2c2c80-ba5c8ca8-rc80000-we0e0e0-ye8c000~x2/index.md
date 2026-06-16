@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Princess Elizabeth #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3403))
 - undated — Princess Elizabeth Royal Family Tartan Tartan Number: 1444. Earliest known date: pre 2003 Also Earl of Inverness See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1444))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3403](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3403)
+- Scottish Tartans Authority (ITI): 1444
+- Scottish Tartans World Register: 1444
+
 ## Thread count
 R/120 DB16 LN6 DB20 Y6 B8 Y6 R/38
 ![Sett](sett.png)

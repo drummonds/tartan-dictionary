@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2007 — Wilcox, Yu, Cruikshank Reunion (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4624))
 - August 2007 — Wilcox, Yu, Cruikshank Reunion (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7292/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4624](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4624)
+- Scottish Tartans Authority (ITI): 7292
+
 ## Thread count
 N/6 G24 K10 G4 K10 N4 DR4 N4 K10 G24 LN4 N/6
 ![Sett](sett.png)

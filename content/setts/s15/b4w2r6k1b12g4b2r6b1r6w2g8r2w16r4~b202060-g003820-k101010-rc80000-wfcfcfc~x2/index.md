@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — MacFarlane Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2433))
 - 1930 — MacFarlane Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/659/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2433](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2433)
+- Scottish Tartans Authority (ITI): 659
+- Scottish Tartans World Register: 659
+
 ## Thread count
 DB/8 W4 R12 K2 DB24 DG8 DB4 R12 DB2 R12 W4 DG16 R4 W32 R/8
 ![Sett](sett.png)

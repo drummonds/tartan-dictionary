@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1970 — Fitzgerald (Family) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1193))
 - 1975 — Fitzgerald Family (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1419/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1193](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1193)
+- Scottish Tartans Authority (ITI): 1419
+- Scottish Tartans World Register: 1419
+
 ## Thread count
 R/6 B44 R6 B6 K28 B28 Ba6 B6 W/4
 ![Sett](sett.png)

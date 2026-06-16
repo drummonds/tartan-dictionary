@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — MacAlister of Glenbarr Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2270))
 - pre 1984 — MacAlister of Glenbarr Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/910/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2270](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2270)
+- Scottish Tartans Authority (ITI): 910
+- Scottish Tartans World Register: 910
+
 ## Thread count
 G/40 T6 G12 T12 G12 T16 DB4 T4 G40 T4 DB4 T92 DB6 T/16
 ![Sett](sett.png)

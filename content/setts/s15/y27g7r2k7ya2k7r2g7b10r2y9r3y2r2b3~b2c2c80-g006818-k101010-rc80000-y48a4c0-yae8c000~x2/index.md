@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Mungall (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3047))
 - 2002 — Mungall (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4070/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3047](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3047)
+- Scottish Tartans Authority (ITI): 4070
+
 ## Thread count
 B/54 G14 R4 K14 Y4 K14 R4 G14 DB20 R4 B18 R6 B4 R4 DB/6
 ![Sett](sett.png)

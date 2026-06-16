@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1970 — Clodagh/Cork (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689))
 - 1970 — Clodagh (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1795/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [689](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689)
+- Scottish Tartans Authority (ITI): 1795
+- Scottish Tartans World Register: 1795
+
 ## Thread count
 W/6 N40 Y8 K18 W6 K6 W6 K6 G26 T18 K6 T8 W/8
 ![Sett](sett.png)

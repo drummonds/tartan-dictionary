@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1973 — Green Watch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526))
 - 1973 — Green Watch (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5114/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1526](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526)
+- Scottish Tartans Authority (ITI): 5114
+
 ## Thread count
 G/40 LT4 G4 LT4 N8 G4 LT/4
 ![Sett](sett.png)

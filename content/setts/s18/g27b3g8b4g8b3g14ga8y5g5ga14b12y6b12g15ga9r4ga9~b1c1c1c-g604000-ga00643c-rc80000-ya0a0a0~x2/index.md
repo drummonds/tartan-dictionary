@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2005 — Turcan Connell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4158))
 - 2005 November — Turcan Connell (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6815/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4158](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4158)
+- Scottish Tartans Authority (ITI): 6815
+
 ## Thread count
 G/18 R8 G18 T30 K24 N12 K24 G28 T10 N10 G16 T28 K6 T16 K8 T16 K6 T/54
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Fettes College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1173))
 - pre 2002 — Fettes College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4850/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1173](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1173)
+- Scottish Tartans Authority (ITI): 4850
+
 ## Thread count
 DR/8 DG46 K44 P6 DB44 DR2 W/4
 ![Sett](sett.png)

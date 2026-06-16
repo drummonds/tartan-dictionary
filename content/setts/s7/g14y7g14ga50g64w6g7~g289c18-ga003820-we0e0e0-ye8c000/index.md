@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2007 — Freedom of Derry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277))
 - March 2007 — Freedom of Derry (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7195/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1277](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277)
+- Scottish Tartans Authority (ITI): 7195
+
 ## Thread count
 G/7 LN6 G64 DG50 G14 Y7 G/14
 ![Sett](sett.png)

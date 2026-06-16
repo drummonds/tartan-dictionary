@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1815 — Menzies (1815) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2923))
 - pre 1815 — Menzies 1815 - Cockburn (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1699/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2923](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2923)
+- Scottish Tartans Authority (ITI): 1699
+- Scottish Tartans World Register: 1699
+
 ## Thread count
 R/144 W16 R12 W16 R24 W8 R4 W/48
 ![Sett](sett.png)

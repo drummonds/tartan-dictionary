@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — MacDonald, Flora (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2376))
 - 1996 — MacDonald, Flora - 1996 (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2257/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2376](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2376)
+- Scottish Tartans Authority (ITI): 2257
+- Scottish Tartans World Register: 2257
+
 ## Thread count
 R/6 DG16 DB10 W6 DG40 W6 DB10 W6 DB10 W44 DB6 W16 R/6
 ![Sett](sett.png)

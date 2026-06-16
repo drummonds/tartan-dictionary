@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1963 — Cairngorm (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=462))
 - 1963 — Cairngorm (1963) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1314/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [462](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=462)
+- Scottish Tartans Authority (ITI): 1314
+- Scottish Tartans World Register: 1314
+
 ## Thread count
 N/4 W4 LG14 Na28 N4 W/4
 ![Sett](sett.png)

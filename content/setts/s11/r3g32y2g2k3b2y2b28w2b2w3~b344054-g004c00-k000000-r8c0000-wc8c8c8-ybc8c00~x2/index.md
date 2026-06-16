@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - circa 1988 — Pringle (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5447/))
 - 01/01/1998 — Pringle #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3411))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3411](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3411)
+- Scottish Tartans Authority (ITI): 5447
+
 ## Thread count
 DR/6 G64 DY4 G4 K6 Na4 DY4 Na56 N4 Na4 N/6
 ![Sett](sett.png)

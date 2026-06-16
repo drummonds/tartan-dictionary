@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2006 — Browne (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=396))
 - 2006 July — Browne, Thomas (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6983/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [396](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=396)
+- Scottish Tartans Authority (ITI): 6983
+
 ## Thread count
 LN/2 DB24 N47 Na2 DB2 Na2 DB2 Na/20
 ![Sett](sett.png)

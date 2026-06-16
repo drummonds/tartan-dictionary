@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Renton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3502))
 - undated — Renton Personal Tartan Tartan Number: 7192. Earliest known date: 2007 The design is based on the Berwick tartan as the Renton family come from this area. Daniel and Chelsea Renton wanted to an asymmetrical design in muted or antique colours that reflected the natural shades of autumn. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7192))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3502](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3502)
+- Scottish Tartans Authority (ITI): 7192
+
 ## Thread count
 K/6 DB48 N16 K4 DT6 K4 N16 DB42 K8 DT16 K4 DT16 K8 DR6 K8 LT16 DT4 LT/16
 ![Sett](sett.png)

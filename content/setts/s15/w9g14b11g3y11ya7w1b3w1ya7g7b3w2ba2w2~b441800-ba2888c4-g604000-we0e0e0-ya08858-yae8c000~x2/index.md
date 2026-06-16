@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Bonnie Prince Charlie (Hudson Bay) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=310))
 - pre 1997 — Bonnie Prince Charlie (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2382/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [310](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=310)
+- Scottish Tartans Authority (ITI): 2382
+- Scottish Tartans World Register: 2382
+
 ## Thread count
 LN/4 B4 LN4 DR6 T14 Y14 LN2 DR6 LN2 Y14 LT22 T6 DR22 T28 LN/18
 ![Sett](sett.png)

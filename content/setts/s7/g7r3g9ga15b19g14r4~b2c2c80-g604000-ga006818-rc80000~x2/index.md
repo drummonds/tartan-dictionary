@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Dorward/Dogwood (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=955))
 - pre 2002 — Dorward/Dogwood (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2533/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [955](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=955)
+- Scottish Tartans Authority (ITI): 2533
+- Scottish Tartans World Register: 2533
+
 ## Thread count
 R/8 T28 DB38 G30 T18 R6 T/14
 ![Sett](sett.png)

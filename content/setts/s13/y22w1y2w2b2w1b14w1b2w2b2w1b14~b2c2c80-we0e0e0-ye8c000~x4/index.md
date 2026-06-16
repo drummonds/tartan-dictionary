@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1940 — Highland Park HS Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1714))
 - pre 1940 — Highland Park HS Pipe Band (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5191/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1714](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1714)
+- Scottish Tartans Authority (ITI): 5191
+
 ## Thread count
 DB/56 LN4 DB8 LN8 DB8 LN4 DB56 LN4 DB8 LN8 Y8 LN4 Y/88
 ![Sett](sett.png)

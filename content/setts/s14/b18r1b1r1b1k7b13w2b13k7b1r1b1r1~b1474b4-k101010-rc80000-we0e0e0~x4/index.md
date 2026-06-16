@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Tokyo Bluebells (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4134))
 - undated — Tokyo Bluebells Corporate Tartan Tartan Number: 2538. Earliest known date: pre 1995 Used by a Scottish Country Dance club from Tokyo, Japan. Designed by Donald & Fiona Fraser now (Oct 2002) of Berwick-upon-Tweed. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2538))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4134](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4134)
+- Scottish Tartans Authority (ITI): 2538
+- Scottish Tartans World Register: 2538
+
 ## Thread count
 B/72 R4 B4 R4 B4 K28 B52 LN8 B52 K28 B4 R4 B4 R/4
 ![Sett](sett.png)

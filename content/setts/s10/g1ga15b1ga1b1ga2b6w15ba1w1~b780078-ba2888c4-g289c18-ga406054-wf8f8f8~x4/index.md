@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Tweedsmuir Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4170))
 - Unknown — Tweedsmuir Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6568/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4170](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4170)
+- Scottish Tartans Authority (ITI): 6568
+
 ## Thread count
 G/4 N60 P4 N4 P4 N8 P24 W60 B4 W/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1963 — St. Lawrence (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3897))
 - 1963 — St. Lawrence (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1030/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3897](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3897)
+- Scottish Tartans Authority (ITI): 1030
+- Scottish Tartans World Register: 1030
+
 ## Thread count
 DR/6 K6 G28 DB6 K20 B4 Ba6 DB2 Ba2 DB2 Ba2 DB2 Ba2 DB52 G4 DB4 K/6
 ![Sett](sett.png)

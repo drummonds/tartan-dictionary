@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Calgary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=477))
 - 2002 — Calgary (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5728/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [477](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=477)
+- Scottish Tartans Authority (ITI): 5728
+
 ## Thread count
 LN/2 DR6 K60 DY2 DB6 N4 DR16 LN4 DR8 K10 R/80
 ![Sett](sett.png)

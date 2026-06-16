@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — MacManus (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2652))
 - pre 2005 — MacManus (unreliable) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6753/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2652](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2652)
+- Scottish Tartans Authority (ITI): 6753
+
 ## Thread count
 LG/8 K4 DB60 K8 LG12 K8 G32 LG8 W/12
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2004 — St. Clement of Rome (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6742/))
 - undated — St. Clement of Rome School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5439))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5439)
+- Scottish Tartans Authority (ITI): 6742
+- Scottish Tartans World Register: 3008
+
 ## Thread count
 DB/36 K10 R52 K10 G50 K10 DB36 Y/4
 ![Sett](sett.png)

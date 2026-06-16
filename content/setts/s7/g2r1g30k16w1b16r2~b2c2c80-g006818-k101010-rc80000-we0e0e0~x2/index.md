@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Unknown — Sinclair Htg (VS) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/889/))
 - undated — Sinclair Hunting Clan Tartan Tartan Number: 889. Earliest known date: 1842 Sinclairs wore a green tartan at the Battle of Flodden where the entire contingent were killed save the drummer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=889))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3797](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3797)
+- Scottish Tartans Authority (ITI): 889
+- Scottish Tartans World Register: 889
+
 ## Thread count
 G/4 R2 G60 K32 LN2 DB32 R/4
 ![Sett](sett.png)

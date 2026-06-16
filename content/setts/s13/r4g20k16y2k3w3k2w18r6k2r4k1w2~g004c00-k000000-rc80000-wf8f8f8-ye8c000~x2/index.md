@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Palmer, Edward (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3288))
 - pre 2002 — Palmer, Edward (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4796/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3288](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3288)
+- Scottish Tartans Authority (ITI): 4796
+
 ## Thread count
 R/8 G40 K32 Y4 K6 W6 K4 W36 R12 K4 R8 K2 W/4
 ![Sett](sett.png)

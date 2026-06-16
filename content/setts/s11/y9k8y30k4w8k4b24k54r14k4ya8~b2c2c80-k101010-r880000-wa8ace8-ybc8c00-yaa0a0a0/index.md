@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Dublin County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7452/))
 - 01/05/2005 — Dublin County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5050))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5050](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5050)
+- Scottish Tartans Authority (ITI): 7452
+- Scottish Tartans World Register: 3083
+
 ## Thread count
 DY/9 K8 DY30 K4 LP8 K4 DB24 K54 DR14 K4 N/8
 ![Sett](sett.png)

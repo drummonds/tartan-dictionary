@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1950 — MacNicol Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3503/))
 - undated — MacNicol Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5358))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5358](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5358)
+- Scottish Tartans Authority (ITI): 3503
+
 ## Thread count
 B/40 K4 G4 K4 G4 K4 B40 R10 K38 R10 G38 K4 Y4 K4 LN4 K4 G/40
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1972 — Burns Battalion (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3775/))
 - undated — Burns Battalion (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5425))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5425](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5425)
+- Scottish Tartans Authority (ITI): 3775
+
 ## Thread count
 T/44 B4 T6 Y8 T6 B4 T24 B8 LY38 T/6
 ![Sett](sett.png)

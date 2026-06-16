@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Clare, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=664))
 - 1996 — Clare, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2248/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [664](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=664)
+- Scottish Tartans Authority (ITI): 2248
+- Scottish Tartans World Register: 2248
+
 ## Thread count
 DR/6 DP28 DG28 DP4 DR28 DP4 DR28 DG28 DP4 Y/6
 ![Sett](sett.png)

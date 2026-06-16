@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2003 — Bedford Check (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6007/))
 - undated — Bedford Check Weavers Tartan Tartan Number: 6007. Earliest known date: pre 2003 Count from woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6007))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [240](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=240)
+- Scottish Tartans Authority (ITI): 6007
+
 ## Thread count
 B/4 K8 Na12 B/6
 ![Sett](sett.png)

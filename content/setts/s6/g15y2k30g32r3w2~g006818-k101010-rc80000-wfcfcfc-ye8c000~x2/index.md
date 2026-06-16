@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 05/12/2003 — Merwe (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2940))
 - pre 2004 — Merwe (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6215/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2940](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2940)
+- Scottish Tartans Authority (ITI): 6215
+- Scottish Tartans World Register: 2740
+
 ## Thread count
 G/30 Y4 K60 G64 R6 W/4
 ![Sett](sett.png)

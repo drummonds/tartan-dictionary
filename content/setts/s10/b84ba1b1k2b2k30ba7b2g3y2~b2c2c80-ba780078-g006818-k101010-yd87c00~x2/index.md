@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2008 — Ulster Scots (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7846/))
 - undated — Ulster Scots (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5798))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5798](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5798)
+- Scottish Tartans Authority (ITI): 7846
+
 ## Thread count
 DB/168 P2 DB2 K4 DB4 K60 P14 DB4 G6 O/4
 ![Sett](sett.png)

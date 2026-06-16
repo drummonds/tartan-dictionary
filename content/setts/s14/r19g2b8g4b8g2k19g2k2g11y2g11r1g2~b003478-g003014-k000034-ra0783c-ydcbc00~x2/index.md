@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Eildon (1996) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1093))
 - 1996 — Eildon (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4800/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1093](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1093)
+- Scottish Tartans Authority (ITI): 4800
+
 ## Thread count
 DG/4 LT2 DG22 Y4 DG22 DBa4 DG4 DBa38 DG4 DB16 DG8 DB16 DG4 LT/38
 ![Sett](sett.png)

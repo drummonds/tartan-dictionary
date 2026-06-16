@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1987 — Forrester (James) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1232))
 - pre 2002 — Forrester (James) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2386/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1232](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1232)
+- Scottish Tartans Authority (ITI): 2386
+- Scottish Tartans World Register: 2386
+
 ## Thread count
 DB/32 R28 G32 Y6 G32 R28 DB32 LN/6
 ![Sett](sett.png)

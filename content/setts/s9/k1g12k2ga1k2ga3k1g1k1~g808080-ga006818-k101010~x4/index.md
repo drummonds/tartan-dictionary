@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1983 — Glen Carron (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3851/))
 - undated — Glen Carron (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5255))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5255](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5255)
+- Scottish Tartans Authority (ITI): 3851
+
 ## Thread count
 K/4 N4 K4 G12 K8 G4 K8 N48 K/4
 ![Sett](sett.png)

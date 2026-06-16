@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2003 — McBeams Boy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2870))
 - August 2003 — McBeams Boy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5936/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2870](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2870)
+- Scottish Tartans Authority (ITI): 5936
+
 ## Thread count
 B/38 DB8 B38 LT10 B4 LT38 B4 LT10 B38 LN4 B38 R10 B4 R38 B4 R/10
 ![Sett](sett.png)

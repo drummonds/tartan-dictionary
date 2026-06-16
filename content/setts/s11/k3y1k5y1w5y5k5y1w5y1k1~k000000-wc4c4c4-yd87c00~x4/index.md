@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1991 — Dundee United Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1038))
 - pre 1991 — Dundee United Football Club (Corpor) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4757/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1038](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1038)
+- Scottish Tartans Authority (ITI): 4757
+
 ## Thread count
 K/12 O4 K20 O4 N20 O20 K20 O4 N20 O4 K/4
 ![Sett](sett.png)

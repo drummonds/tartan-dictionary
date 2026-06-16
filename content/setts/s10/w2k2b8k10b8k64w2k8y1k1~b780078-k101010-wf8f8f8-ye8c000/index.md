@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Payne of Wallins Creek (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3306))
 - pre 2005 — Payne, Wallins Creek (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6783/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3306](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3306)
+- Scottish Tartans Authority (ITI): 6783
+
 ## Thread count
 K/1 Y1 K8 W2 K64 P8 K10 P8 K2 W/2
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - June 2000 — Aviemore Highland (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5896/))
 - 01/03/2002 — Aviemore Highland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=149))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [149](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=149)
+- Scottish Tartans Authority (ITI): 5896
+- Scottish Tartans World Register: 2885
+
 ## Thread count
 G/80 K6 LN2 K10 R2 K4 LR/20
 ![Sett](sett.png)

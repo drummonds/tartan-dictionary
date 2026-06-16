@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1993 — Fulton (1999) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3952/))
 - undated — Fulton (1999) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5097))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5097](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5097)
+- Scottish Tartans Authority (ITI): 3952
+
 ## Thread count
 DB/12 K20 R8 G8 R12 G48 R24 K4 R/12
 ![Sett](sett.png)

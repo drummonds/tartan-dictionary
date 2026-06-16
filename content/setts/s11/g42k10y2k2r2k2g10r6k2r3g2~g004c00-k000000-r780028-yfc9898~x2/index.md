@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Dryfe (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=996))
 - pre 2002 — Dryfe (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4724/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [996](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=996)
+- Scottish Tartans Authority (ITI): 4724
+
 ## Thread count
 G/4 DR6 K4 DR12 G20 K4 DR4 K4 LR4 K20 G/84
 ![Sett](sett.png)

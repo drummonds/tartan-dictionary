@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Abertay University (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=22))
 - pre 2003 — Abertay University (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5990/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [22](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=22)
+- Scottish Tartans Authority (ITI): 5990
+
 ## Thread count
 DB/6 Y6 DB30 G6 DB30 R/10
 ![Sett](sett.png)

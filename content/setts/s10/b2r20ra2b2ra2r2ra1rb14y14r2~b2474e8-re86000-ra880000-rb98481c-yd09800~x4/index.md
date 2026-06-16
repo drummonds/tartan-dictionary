@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Star Is Born, A (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3908))
 - pre 1972 — Star Is Born, A (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5304/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3908](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3908)
+- Scottish Tartans Authority (ITI): 5304
+
 ## Thread count
 B/8 O80 DR8 B8 DR8 O8 DR4 T56 DY56 O/8
 ![Sett](sett.png)

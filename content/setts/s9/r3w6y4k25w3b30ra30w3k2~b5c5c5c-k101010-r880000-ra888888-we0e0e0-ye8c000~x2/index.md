@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2001 — Craparo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=797))
 - 2001 — Craparo (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4029/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [797](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=797)
+- Scottish Tartans Authority (ITI): 4029
+- Scottish Tartans World Register: 2831
+
 ## Thread count
 DR/6 LN12 Y8 K50 LN6 N60 Na60 LN6 K/4
 ![Sett](sett.png)

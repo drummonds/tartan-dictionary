@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec 2001 — Rikaco Morning Dew 1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3932/))
 - undated — Rikaco Morning Dew (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4976))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4976](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4976)
+- Scottish Tartans Authority (ITI): 3932
+
 ## Thread count
 DB/8 LN4 DB2 B48 DB20 LN2 DBa4 LN10 DBa6 R/4
 ![Sett](sett.png)

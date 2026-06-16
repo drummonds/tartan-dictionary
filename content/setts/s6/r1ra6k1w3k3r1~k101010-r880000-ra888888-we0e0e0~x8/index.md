@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Thompson Grey Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4111))
 - pre 1986 — Thompson, Grey Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1611/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4111](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4111)
+- Scottish Tartans Authority (ITI): 1611
+- Scottish Tartans World Register: 1611
+
 ## Thread count
 DR/8 K24 LN24 K8 N48 DR/8
 ![Sett](sett.png)

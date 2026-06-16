@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1800 — MacPherson (Crubin Plaid) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2711))
 - 1800 — MacPherson (Crubin Plaid) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/588/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2711](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2711)
+- Scottish Tartans Authority (ITI): 588
+- Scottish Tartans World Register: 588
+
 ## Thread count
 LG/3 R4 Y9 R9 K9 LG36 Y9 R4 K1 R4 Y9 DG36 W1 K2 R/160
 ![Sett](sett.png)

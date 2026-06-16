@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — Linden (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2114))
 - Jan 2003 — Linden (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5772/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2114](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2114)
+- Scottish Tartans Authority (ITI): 5772
+
 ## Thread count
 DN/8 K18 G40 P4 DG40 K10 DN12 N/4
 ![Sett](sett.png)

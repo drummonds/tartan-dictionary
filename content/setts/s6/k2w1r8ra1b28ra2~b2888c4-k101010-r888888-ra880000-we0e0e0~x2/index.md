@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Norris Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3151))
 - 1999 — Norris Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5944/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3151](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3151)
+- Scottish Tartans Authority (ITI): 5944
+
 ## Thread count
 DR/4 B56 DR2 N16 LN2 K/4
 ![Sett](sett.png)

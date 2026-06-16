@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/1997 — Peterhead (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3331))
 - 1997 — Peterhead (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2368/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3331](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3331)
+- Scottish Tartans Authority (ITI): 2368
+- Scottish Tartans World Register: 2368
+
 ## Thread count
 G/36 B4 G8 K16 G/8
 ![Sett](sett.png)

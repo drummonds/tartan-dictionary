@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 26/03/2001 — Meoni (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2931))
 - 2001 — Meoni (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4124/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2931](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2931)
+- Scottish Tartans Authority (ITI): 4124
+- Scottish Tartans World Register: 2813
+
 ## Thread count
 DB/2 G2 DB36 G24 K36 R2 K/2
 ![Sett](sett.png)

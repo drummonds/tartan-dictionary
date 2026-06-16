@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Cunningham Dress Green (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=848))
 - 1988 — Cunningham Dress, Green (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6532/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [848](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=848)
+- Scottish Tartans Authority (ITI): 6532
+
 ## Thread count
 W/10 G4 W68 G68 K4 G4 Y/8
 ![Sett](sett.png)

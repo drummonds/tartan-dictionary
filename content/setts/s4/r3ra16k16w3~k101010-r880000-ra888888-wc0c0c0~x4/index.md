@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Thompson, Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3597/))
 - undated — Thompson, Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5157))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5157](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5157)
+- Scottish Tartans Authority (ITI): 3597
+
 ## Thread count
 DR/12 Na64 K64 N/12
 ![Sett](sett.png)

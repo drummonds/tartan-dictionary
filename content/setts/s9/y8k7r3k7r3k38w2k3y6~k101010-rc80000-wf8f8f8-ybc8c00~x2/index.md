@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2005 — Bunnahabhain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=439))
 - 2005 July — Bunnahabhain (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6685/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=439)
+- Scottish Tartans Authority (ITI): 6685
+
 ## Thread count
 DY/16 K14 R6 K14 R6 K76 W4 K6 DY/12
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — Cooper/Couper (James Cant) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=754))
 - c. 1950 — Cooper (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1415/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [754](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=754)
+- Scottish Tartans Authority (ITI): 1415
+- Scottish Tartans World Register: 1415
+
 ## Thread count
 R/4 DBb4 Pa6 DBb28 K4 DBb4 G16 Pa6 G4 Pa6 K20 DBb6 G4 DBb6 G36 DBb4 Pa6 R/4
 ![Sett](sett.png)

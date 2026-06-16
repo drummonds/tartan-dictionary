@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Princess Elizabeth (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1613/))
 - undated — Princess Elizabeth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3402))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3402](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3402)
+- Scottish Tartans Authority (ITI): 1613
+- Scottish Tartans World Register: 1613
+
 ## Thread count
 R/144 K12 N4 K22 Y4 DB4 Y4 R/36
 ![Sett](sett.png)

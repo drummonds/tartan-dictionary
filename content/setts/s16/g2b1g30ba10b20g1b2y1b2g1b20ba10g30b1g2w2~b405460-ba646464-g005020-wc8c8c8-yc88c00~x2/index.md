@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Scottish Borderland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3709))
 - undated — Scottish Borderland Fashion Tartan Tartan Number: 5359. Earliest known date: pre 1996 Lochcarron of Scotland. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5359))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3709](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3709)
+- Scottish Tartans Authority (ITI): 5359
+
 ## Thread count
 G/4 N2 G60 Na20 N40 G2 N4 DY2 N4 G2 N40 Na20 G60 N2 G4 Nb/4
 ![Sett](sett.png)

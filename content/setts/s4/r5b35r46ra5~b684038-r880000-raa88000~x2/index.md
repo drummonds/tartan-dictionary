@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1953 — Bryce (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=408))
 - 1953 — Bryce (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1537/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [408](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=408)
+- Scottish Tartans Authority (ITI): 1537
+- Scottish Tartans World Register: 1537
+
 ## Thread count
 DR/10 N70 DR92 DY/10
 ![Sett](sett.png)

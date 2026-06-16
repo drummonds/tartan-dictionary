@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1816 — Robertson of Struan 1816 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3536))
 - 1816 — Robertson of Struan - 1816 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/530/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3536](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3536)
+- Scottish Tartans Authority (ITI): 530
+- Scottish Tartans World Register: 530
+
 ## Thread count
 DB/8 R8 G40 DB44 R4 DB4 R/12
 ![Sett](sett.png)

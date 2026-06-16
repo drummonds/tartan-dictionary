@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2008 — Budge (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7816/))
 - undated — Budge (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5773))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5773](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5773)
+- Scottish Tartans Authority (ITI): 7816
+
 ## Thread count
 B/96 DB8 N14 DB6 N8 DB2 N4 DB12 N6 DB18 B8 R6 DB/14
 ![Sett](sett.png)

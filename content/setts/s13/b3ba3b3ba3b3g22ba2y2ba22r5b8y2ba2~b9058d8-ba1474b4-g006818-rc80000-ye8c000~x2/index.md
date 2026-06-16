@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — Pitcairn Heritage Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6727/))
 - undated — Pitcairn Heritage Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5304))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5304](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5304)
+- Scottish Tartans Authority (ITI): 6727
+- Scottish Tartans World Register: 3023
+
 ## Thread count
 B/4 Y4 P16 R10 B44 Y4 B4 G44 P6 B6 P6 B6 P/6
 ![Sett](sett.png)

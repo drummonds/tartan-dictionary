@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 17/08/2012 — Clarks No.1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10678))
 - undated — Clarks No.1 Fashion Tartan Tartan Number: 10678. Earliest known date: 21 August 2012 Created for Clark's AW13 Collection as a signature material. Clarks (C and J Clark International Limited) have manufactured footware since 1825 when James Clark created his first pair of slippers in the village of Street in Somerset, UK. The tartan colours were chosen to accord with specific colours in the AW13 colour palette, so that the tartan can sit with products throughout the whole season (which spans 3 different colour palettes). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10678))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10678](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10678)
+
 ## Thread count
 N/10 B4 N22 G4 N4 G12 T34 DY18 N2 T/2
 ![Sett](sett.png)

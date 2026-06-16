@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Royal Scottish Agricultural Benevolent Institution (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3607))
 - 1996 — RSABI (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5393/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3607](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3607)
+- Scottish Tartans Authority (ITI): 5393
+
 ## Thread count
 K/6 G12 DB24 K2 G48 T10 K10 T10 K10 T/10
 ![Sett](sett.png)

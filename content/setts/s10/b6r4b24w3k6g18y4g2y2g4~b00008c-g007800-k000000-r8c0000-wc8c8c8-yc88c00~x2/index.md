@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Greene (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1527))
 - 1999 — Greene (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4187/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1527](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1527)
+- Scottish Tartans Authority (ITI): 4187
+
 ## Thread count
 DB/12 DR8 DB48 N6 K12 G36 DY8 G4 DY4 G/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Sept 1985 — Commonwealth Games 1986 (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1892/))
 - 01/01/1986 — Commonwealth Games 1986 #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=724))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [724](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=724)
+- Scottish Tartans Authority (ITI): 1892
+- Scottish Tartans World Register: 1892
+
 ## Thread count
 DB/6 W2 DB2 W2 DB4 W6 DB30 B4 DB4 B44 R/4
 ![Sett](sett.png)

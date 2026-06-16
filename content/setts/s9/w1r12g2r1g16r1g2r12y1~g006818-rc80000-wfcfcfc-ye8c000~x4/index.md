@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — MacPhie/Macfie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2727))
 - pre 1880 — MacFie - 1880 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1847/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2727](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2727)
+- Scottish Tartans Authority (ITI): 1847
+- Scottish Tartans World Register: 1847
+
 ## Thread count
 W/4 R48 G8 R4 G64 R4 G8 R48 Y/4
 ![Sett](sett.png)

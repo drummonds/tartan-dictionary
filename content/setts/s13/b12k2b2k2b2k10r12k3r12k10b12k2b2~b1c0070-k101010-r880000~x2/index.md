@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacDevitt (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3347/))
 - undated — MacDevitt (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5220))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5220](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5220)
+- Scottish Tartans Authority (ITI): 3347
+
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K20 DR24 K6 DR24 K20 DB24 K4 DB/4
 ![Sett](sett.png)

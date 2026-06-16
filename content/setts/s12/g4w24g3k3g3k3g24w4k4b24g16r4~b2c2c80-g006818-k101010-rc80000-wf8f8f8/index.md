@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — MacInnes Dress (Dalgliesh) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2475))
 - pre 2005 — MacInnes Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6766/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2475](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2475)
+- Scottish Tartans Authority (ITI): 6766
+
 ## Thread count
 G/4 W24 G3 K3 G3 K3 G24 W4 K4 DB24 G16 R/4
 ![Sett](sett.png)

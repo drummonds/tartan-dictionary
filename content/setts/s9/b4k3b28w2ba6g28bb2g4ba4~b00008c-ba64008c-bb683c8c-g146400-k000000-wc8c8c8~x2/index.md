@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Canmore (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=553))
 - 1995 — Canmore (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4450/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [553](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=553)
+- Scottish Tartans Authority (ITI): 4450
+
 ## Thread count
 DB/8 K6 DB56 N4 P12 G56 Na4 G8 P/8
 ![Sett](sett.png)

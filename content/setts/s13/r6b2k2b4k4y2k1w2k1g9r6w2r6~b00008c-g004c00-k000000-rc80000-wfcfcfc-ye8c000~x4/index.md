@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Christie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=648))
 - pre 1986 — Christie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1355/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [648](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=648)
+- Scottish Tartans Authority (ITI): 1355
+- Scottish Tartans World Register: 1355
+
 ## Thread count
 R/24 DB8 K8 DB16 K16 Y8 K4 W8 K4 G36 R24 W8 R/24
 ![Sett](sett.png)

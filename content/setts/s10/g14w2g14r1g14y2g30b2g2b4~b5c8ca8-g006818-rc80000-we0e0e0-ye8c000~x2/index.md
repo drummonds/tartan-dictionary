@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - circa 1999 — Holmston Primary (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7535/))
 - undated — Holmston Primary School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5570))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5570](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5570)
+- Scottish Tartans Authority (ITI): 7535
+
 ## Thread count
 B/8 G4 B4 G60 Y4 G28 R2 G28 LN4 G/28
 ![Sett](sett.png)

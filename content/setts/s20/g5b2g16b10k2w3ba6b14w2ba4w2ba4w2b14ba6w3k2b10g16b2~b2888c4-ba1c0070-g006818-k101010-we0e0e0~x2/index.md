@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1997 — Scottish Motor Trade Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3729))
 - undated — Scottish Motor Trade Association Trade Tartan Tartan Number: 2392. Earliest known date: 1903 This is a corporate tartan for the Scottish Motor Trade Association which was established in 1903. Tartan Society threadcount different - G/12 DB4 LG54 B26 K4 W8 DB18 B44 W3 DB12 W/4. Its graphic - and that of the STWR - is incorrect in that what is recorded G/12 for the first pivot actually shows as dark blue. (BW Feb 2005). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2392))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3729](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3729)
+- Scottish Tartans Authority (ITI): 2392
+- Scottish Tartans World Register: 2392
+
 ## Thread count
 B/4 G32 B20 K4 LN6 DB12 B28 LN4 DB8 LN4 DB8 LN4 B28 DB12 LN6 K4 B20 G32 B4 G/10
 ![Sett](sett.png)

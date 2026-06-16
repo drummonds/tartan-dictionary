@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/1990 — Asman Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=124))
 - undated — Asman Hunting Family Tartan Tartan Number: 2553. Earliest known date: 1989 Designed by Dr. Philip D.Smith, 1989 for David I Asman. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2553))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [124](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=124)
+- Scottish Tartans Authority (ITI): 2553
+- Scottish Tartans World Register: 2553
+
 ## Thread count
 DB/8 Y6 DB44 R12 W4 K12 W4 DB12 N40 K6 N/8
 ![Sett](sett.png)

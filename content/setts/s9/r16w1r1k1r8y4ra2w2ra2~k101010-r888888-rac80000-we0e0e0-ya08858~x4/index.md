@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Middleton, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2948))
 - 1972 circa — Middleton, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6466/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2948](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2948)
+- Scottish Tartans Authority (ITI): 6466
+
 ## Thread count
 N/64 LN4 N4 K4 N32 LT16 R8 LN8 R/8
 ![Sett](sett.png)

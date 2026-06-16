@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — MacFie Hunting (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3368/))
 - undated — MacFie Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5035))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5035](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5035)
+- Scottish Tartans Authority (ITI): 3368
+
 ## Thread count
 DY/4 DR48 G8 DRa8 G64 DRa8 G8 DR48 N/4
 ![Sett](sett.png)

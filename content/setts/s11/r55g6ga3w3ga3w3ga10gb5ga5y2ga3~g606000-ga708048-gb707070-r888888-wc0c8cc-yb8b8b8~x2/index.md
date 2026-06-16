@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - May 2007 — Long Way Down, The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7481/))
 - undated — Long Way Down, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5523))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5523](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5523)
+- Scottish Tartans Authority (ITI): 7481
+
 ## Thread count
 G/6 Nb4 G10 N10 G20 Na6 G6 Na6 G6 T12 Nc/110
 ![Sett](sett.png)

@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1st October 2003 — Irish American (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6104/))
 - undated — Irish American Fancy Tartan Tartan Number: 6104. Earliest known date: 2004 This is a sister tartan to the Scottish American. A tartan for any Americans of Irish descent. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6104))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1852](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1852)
+- Scottish Tartans Authority (ITI): 6104
+- Scottish Tartans World Register: 2965
+
 ## Thread count
 G/100 Ga6 K6 Ga18 DB14 Ga4 W8 Ga4 R10 Ga4 G16 Ga10 Ya/8
 ![Sett](sett.png)

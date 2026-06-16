@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Roscommon County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7429/))
 - 01/05/2005 — Roscommon County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5057))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5057](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5057)
+- Scottish Tartans Authority (ITI): 7429
+- Scottish Tartans World Register: 3098
+
 ## Thread count
 G/22 K10 LT14 LN10 LT14 K10 G14 LT22 DB32 LT14 Y/10
 ![Sett](sett.png)

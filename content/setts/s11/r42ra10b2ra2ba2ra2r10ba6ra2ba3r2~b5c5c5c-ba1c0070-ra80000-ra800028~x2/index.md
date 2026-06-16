@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Kirtle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2007))
 - pre 1984 — Kirtle (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5369/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2007](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2007)
+- Scottish Tartans Authority (ITI): 5369
+
 ## Thread count
 DR/4 DB6 DRa4 DB12 DR20 DRa4 DB4 DRa4 N4 DRa20 DR/84
 ![Sett](sett.png)

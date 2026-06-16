@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Glasgow's Miles Better (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1361))
 - 1988 — Glasgow's Miles Better (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1887/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1361](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1361)
+- Scottish Tartans Authority (ITI): 1887
+- Scottish Tartans World Register: 1887
+
 ## Thread count
 Y/24 Na8 N8 Y8 N8 R8 N30 Na30 R30 Y/16
 ![Sett](sett.png)

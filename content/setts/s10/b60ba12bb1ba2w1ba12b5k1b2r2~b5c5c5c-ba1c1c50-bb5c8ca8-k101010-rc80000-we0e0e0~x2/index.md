@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Jan 2008 — Kervegant (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7680/))
 - undated — Kervegant (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5682))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5682](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5682)
+- Scottish Tartans Authority (ITI): 7680
+
 ## Thread count
 N/120 DB24 B2 DB4 LN2 DB24 N10 K2 N4 R/4
 ![Sett](sett.png)

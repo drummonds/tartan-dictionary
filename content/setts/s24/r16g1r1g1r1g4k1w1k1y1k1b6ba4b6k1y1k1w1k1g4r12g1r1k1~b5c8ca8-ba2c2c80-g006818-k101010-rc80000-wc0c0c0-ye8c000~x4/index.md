@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1831 — Macan of Lurgyvallan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2276))
 - 1831? — MacAn of Lurgyvallan (Portrait) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1155/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2276](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2276)
+- Scottish Tartans Authority (ITI): 1155
+- Scottish Tartans World Register: 1155
+
 ## Thread count
 K/4 R4 G4 R48 G16 K4 N4 K4 Y4 K4 B24 DB16 B24 K4 Y4 K4 N4 K4 G16 R4 G4 R4 G4 R/64
 ![Sett](sett.png)

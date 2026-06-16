@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Dalgliesh Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=876))
 - pre 2002 — Dalgliesh Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4651/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [876](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=876)
+- Scottish Tartans Authority (ITI): 4651
+
 ## Thread count
 G/20 K20 N8 K4 Y4 K4 N6 K24 N24 K4 N/6
 ![Sett](sett.png)

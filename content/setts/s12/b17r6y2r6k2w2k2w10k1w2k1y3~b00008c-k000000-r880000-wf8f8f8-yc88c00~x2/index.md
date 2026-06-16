@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/1973 — Chieftain, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=631))
 - 1973 October — Chieftain, The (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4503/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [631](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=631)
+- Scottish Tartans Authority (ITI): 4503
+
 ## Thread count
 DB/34 DR12 DY4 DR12 K4 W4 K4 W20 K2 W4 K2 DY/6
 ![Sett](sett.png)

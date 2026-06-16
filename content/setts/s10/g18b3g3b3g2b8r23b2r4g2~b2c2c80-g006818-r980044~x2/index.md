@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — McGlynn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2885))
 - 2003 — McGlynn (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6020/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2885](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2885)
+- Scottish Tartans Authority (ITI): 6020
+
 ## Thread count
 G/36 DB6 G6 DB6 G4 DB16 R46 DB4 R8 G/4
 ![Sett](sett.png)

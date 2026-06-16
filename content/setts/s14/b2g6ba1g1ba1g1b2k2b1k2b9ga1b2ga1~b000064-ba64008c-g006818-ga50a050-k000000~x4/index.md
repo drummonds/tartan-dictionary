@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Lochcarron of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2172))
 - pre 2002 — Lochcarron of Scotland (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5466/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2172](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2172)
+- Scottish Tartans Authority (ITI): 5466
+
 ## Thread count
 DB/8 G24 P4 G4 P4 G4 DB8 K8 DB4 K8 DB36 LG4 DB8 LG/4
 ![Sett](sett.png)

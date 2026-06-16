@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2006 — Royal Scottish Country Dance Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3610))
 - June 2006 — RSCDS (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6975/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3610](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3610)
+- Scottish Tartans Authority (ITI): 6975
+
 ## Thread count
 R/6 DB28 K24 B48 K2 LN6 K2 B48 K24 DB4 K4 DB4 K4 DB16 Y2 R/6
 ![Sett](sett.png)

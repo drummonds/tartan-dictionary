@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Robbins (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3517))
 - pre 2002 — Robbins (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/412/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3517](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3517)
+- Scottish Tartans Authority (ITI): 412
+- Scottish Tartans World Register: 412
+
 ## Thread count
 DB/8 DR24 DB8 DR24 DB48 G/8
 ![Sett](sett.png)

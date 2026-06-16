@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2004 — Forfar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1229))
 - March 2004 — Forfar (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6238/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1229](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1229)
+- Scottish Tartans Authority (ITI): 6238
+
 ## Thread count
 B/6 Y2 B46 W40 LT2 W8 DB44 B8 DB8 R/2
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/2004 — Auchincloss (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082))
 - July 2004 — Auchincloss (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6859/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5082](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082)
+- Scottish Tartans Authority (ITI): 6859
+- Scottish Tartans World Register: 3025
+
 ## Thread count
 DB/28 K14 DB26 K/68
 ![Sett](sett.png)

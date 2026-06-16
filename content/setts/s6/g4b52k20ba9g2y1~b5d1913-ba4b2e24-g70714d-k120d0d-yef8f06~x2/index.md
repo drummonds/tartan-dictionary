@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2012 — Jack, John (Fife) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719))
 - undated — Jack, John (Fife) Name Tartan Tartan Number: 10719. Earliest known date: 22 October 2012 Designed for members of Mr Jack's extended family who bear the surname Jack, to use at family gatherings. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10719))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10719](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719)
+
 ## Thread count
 G/8 DR104 K40 T18 G4 O/2
 ![Sett](sett.png)

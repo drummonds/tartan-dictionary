@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1973 — Lord Laird (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216))
 - pre 1973 — Lord Laird (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5491/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2216](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216)
+- Scottish Tartans Authority (ITI): 5491
+
 ## Thread count
 K/8 LN52 K20 DY16 K6 DY16 K20 R52 LN/8
 ![Sett](sett.png)

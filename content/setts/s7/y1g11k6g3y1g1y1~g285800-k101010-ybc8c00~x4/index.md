@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1986 — Angle, Green (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3514/))
 - undated — Angle Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5264))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5264](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5264)
+- Scottish Tartans Authority (ITI): 3514
+
 ## Thread count
 DY/4 G4 DY4 G12 K24 G44 DY/4
 ![Sett](sett.png)

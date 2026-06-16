@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2004 — Avalon - Washington House (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=147))
 - 2004 Sept — Avalon - Washington House (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6364/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [147](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=147)
+- Scottish Tartans Authority (ITI): 6364
+
 ## Thread count
 W/6 K2 N30 K12 N10 K6 N16 K4 N10 Y6 W4 Y8 K2 W/6
 ![Sett](sett.png)

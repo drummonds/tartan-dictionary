@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - May 2002 — Gravesend Grammar School (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7100/))
 - 01/02/2007 — Gravesend Grammar School for Girls (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1516))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1516](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1516)
+- Scottish Tartans Authority (ITI): 7100
+
 ## Thread count
 DB/8 G5 DB72 DBa72 LP5 DBa16 LP5 DBa72 DB72 G5 DB/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1880 — Minnock (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3476/))
 - undated — Minnick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5192))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5192](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5192)
+- Scottish Tartans Authority (ITI): 3476
+
 ## Thread count
 DB/100 K28 G6 DR4 G6 DR4 G6 DR4 G6 K4 DY/4
 ![Sett](sett.png)

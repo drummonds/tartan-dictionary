@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — St. Andrew Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3873))
 - pre 2007 — St. Andrew Society (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7251/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3873](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3873)
+- Scottish Tartans Authority (ITI): 7251
+
 ## Thread count
 Ba/6 K4 DBa32 LN6 DBa32 K32 DB/32
 ![Sett](sett.png)

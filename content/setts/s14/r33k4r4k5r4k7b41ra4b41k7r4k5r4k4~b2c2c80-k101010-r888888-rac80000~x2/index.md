@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/1996 — Kinnaird (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1991))
 - undated — Kinnaird Family Tartan Tartan Number: 2242. Earliest known date: March 1996 For the Kinnaird Worldwide Association - http://www.kinnaird.net. From the Kinnaird website it would seem that anyone is free to weave this tartan (Feb 2005). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2242))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1991](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1991)
+- Scottish Tartans Authority (ITI): 2242
+- Scottish Tartans World Register: 2242
+
 ## Thread count
 K/8 N8 K10 N8 K14 DB82 R8 DB82 K14 N8 K10 N8 K8 N/66
 ![Sett](sett.png)

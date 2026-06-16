@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1840 — Lang (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4833))
 - Circa 1840 — Lang (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3113/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4833](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4833)
+- Scottish Tartans Authority (ITI): 3113
+
 ## Thread count
 B/8 P4 B12 P4 B20 P60 G20 P4 G18 P/4
 ![Sett](sett.png)

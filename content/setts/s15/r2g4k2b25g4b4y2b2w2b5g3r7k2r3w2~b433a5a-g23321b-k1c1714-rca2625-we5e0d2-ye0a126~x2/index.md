@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 27/11/2012 — Hueg (Bavaria) Scottish Blue Thistle (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10743))
 - undated — Hueg (Bavaria) Scottish Blue Thi Name Tartan Tartan Number: 10743. Earliest known date: 27/11/2012 Created by the designer to celebrate his love of Scotland and his belief that there are many similarities between Scots and Bavarians. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10743))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10743](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10743)
+
 ## Thread count
 R/4 Ka8 K4 N50 Ka8 N8 Y4 N4 W4 N10 Ka6 R14 K4 R6 W/4
 ![Sett](sett.png)

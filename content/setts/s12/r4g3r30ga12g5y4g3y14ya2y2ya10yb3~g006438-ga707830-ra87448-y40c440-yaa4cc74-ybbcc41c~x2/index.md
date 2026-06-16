@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Shrek (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3783))
 - 2009 — Shrek (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7259/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3783](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3783)
+- Scottish Tartans Authority (ITI): 7259
+
 ## Thread count
 LT/8 G6 LT60 Gb24 G10 LGa8 G6 LGa28 LG4 LGa4 LG20 Y/6
 ![Sett](sett.png)

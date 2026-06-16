@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2000 — Celts, Tartan of the (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=609))
 - pre 2005 — Celts, Tartan of the (Universal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6706/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [609](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=609)
+- Scottish Tartans Authority (ITI): 6706
+- Scottish Tartans World Register: 2713
+
 ## Thread count
 R/12 K6 R6 K6 G90 R24 DB24 R18 DB18 Y6 K6 Y/12
 ![Sett](sett.png)

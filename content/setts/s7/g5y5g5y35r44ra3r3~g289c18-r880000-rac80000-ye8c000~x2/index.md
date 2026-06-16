@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Fernandes (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5028))
 - undated — Fernandes Family Tartan Tartan Number: 3225. Earliest known date: 2001 Designed by Antonio Fernandes See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3225))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5028](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5028)
+- Scottish Tartans Authority (ITI): 3966
+
 ## Thread count
 DR/6 R6 DR88 Y70 G10 Y10 G/10
 ![Sett](sett.png)

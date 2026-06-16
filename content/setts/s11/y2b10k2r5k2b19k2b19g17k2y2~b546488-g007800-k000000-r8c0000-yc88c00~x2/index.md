@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 09/01/1998 — Montreat (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2995))
 - 1998 — Montreat (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2414/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2995](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2995)
+- Scottish Tartans Authority (ITI): 2414
+- Scottish Tartans World Register: 2414
+
 ## Thread count
 DY/4 B20 K4 DR10 K4 B38 K4 B38 G34 K4 DY/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Cowal Highland Gathering (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=780))
 - 1994 — Cowal Highland Gathering (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2536/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [780](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=780)
+- Scottish Tartans Authority (ITI): 2536
+- Scottish Tartans World Register: 2536
+
 ## Thread count
 DG/8 G32 DN4 G4 DN4 G4 DN32 DB36 N/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Longniddry Green Error (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2209))
 - pre 2002 — Longniddry, Green Error (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6520/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2209](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2209)
+- Scottish Tartans Authority (ITI): 6520
+
 ## Thread count
 G/8 W64 DG24 G10 Y2 W4 Y2 G/84
 ![Sett](sett.png)

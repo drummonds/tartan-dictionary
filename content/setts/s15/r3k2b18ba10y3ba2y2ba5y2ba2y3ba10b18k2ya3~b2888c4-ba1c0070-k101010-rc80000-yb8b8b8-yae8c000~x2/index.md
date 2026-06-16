@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1979 — Citadel Military Academy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=652))
 - 1980 — Citadel Military Academy (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1572/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [652](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=652)
+- Scottish Tartans Authority (ITI): 1572
+- Scottish Tartans World Register: 1572
+
 ## Thread count
 R/6 K4 B36 DB20 N6 DB4 N4 DB10 N4 DB4 N6 DB20 B36 K4 Y/6
 ![Sett](sett.png)

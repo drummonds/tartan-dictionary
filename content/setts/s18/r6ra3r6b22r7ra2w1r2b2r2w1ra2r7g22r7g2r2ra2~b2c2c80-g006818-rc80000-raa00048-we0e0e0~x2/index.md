@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — MacColl Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2319))
 - pre 1950 — MacColl - 1950 (Htg) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1637/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2319](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2319)
+- Scottish Tartans Authority (ITI): 1637
+- Scottish Tartans World Register: 1637
+
 ## Thread count
 R/4 Ra4 G4 Ra14 G44 Ra14 R4 LN2 Ra4 DB4 Ra4 LN2 R4 Ra14 DB44 Ra12 R6 Ra/12
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1689 — Latin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905))
 - 1689 — Latin (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3873/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4905](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905)
+- Scottish Tartans Authority (ITI): 3873
+
 ## Thread count
 DB/6 DY18 DB6 DY18 DB40 R/6
 ![Sett](sett.png)

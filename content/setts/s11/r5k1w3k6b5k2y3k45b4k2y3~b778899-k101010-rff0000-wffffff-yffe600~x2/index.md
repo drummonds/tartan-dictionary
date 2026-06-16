@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2012 — Williams Dress (Carolinas) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10707))
 - undated — Williams Dress (Carolinas) Name Tartan Tartan Number: 10707. Earliest known date: 27 September 2012 Richard Williams designed this tartan for his family and to mark their Scottish connections. The term Carolinas refers to the collective states of North and South Carolina. Registrant details: Richard Williams, 144 Williams Cove Ln, , , United States, 28681 richard.williams@logan.edu See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10707))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10707](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10707)
+
 ## Thread count
 R/10 K2 W6 K12 N10 K4 Y6 K90 N8 K4 Y/6
 ![Sett](sett.png)

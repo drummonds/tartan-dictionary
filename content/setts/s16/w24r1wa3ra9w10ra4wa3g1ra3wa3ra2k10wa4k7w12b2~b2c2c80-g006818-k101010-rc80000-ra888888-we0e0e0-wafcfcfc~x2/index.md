@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Manhattan Financial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2804))
 - 1999 — Manhattan Financial (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2603/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2804](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2804)
+- Scottish Tartans Authority (ITI): 2603
+- Scottish Tartans World Register: 2603
+
 ## Thread count
 DB/4 LN24 K14 W8 K20 N4 W6 N6 G2 W6 N8 LN20 N18 W6 R2 LN/48
 ![Sett](sett.png)

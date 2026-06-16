@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Gaelic College of St.Anns (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1294))
 - 1997 — Gaelic College of St.Anns (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4942/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1294](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1294)
+- Scottish Tartans Authority (ITI): 4942
+
 ## Thread count
 G/64 R8 G32 T16 W32 B24 W8 B24 W/32
 ![Sett](sett.png)

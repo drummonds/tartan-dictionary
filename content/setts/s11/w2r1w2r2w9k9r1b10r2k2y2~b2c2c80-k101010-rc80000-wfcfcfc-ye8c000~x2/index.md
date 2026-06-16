@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1950 — Cameron of Erracht Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496))
 - pre 1950 — Cameron of Erracht Dress (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1871/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [496](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496)
+- Scottish Tartans Authority (ITI): 1871
+- Scottish Tartans World Register: 1871
+
 ## Thread count
 W/4 R2 W4 R4 W18 K18 R2 DB20 R4 K4 Y/4
 ![Sett](sett.png)

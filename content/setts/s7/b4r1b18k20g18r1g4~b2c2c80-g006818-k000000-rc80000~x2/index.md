@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Blair (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291))
 - pre 1999 — Blair (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/416/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [291](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291)
+- Scottish Tartans Authority (ITI): 416
+- Scottish Tartans World Register: 416
+
 ## Thread count
 DBa/8 Ra2 DBa36 K40 Ga36 Ra2 Ga/8
 ![Sett](sett.png)

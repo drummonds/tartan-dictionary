@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Craig (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=787))
 - pre 2002 — Craig (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4599/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [787](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=787)
+- Scottish Tartans Authority (ITI): 4599
+
 ## Thread count
 DR/4 K4 DB6 DY2 DB40 K2 G36 K2 DR4 DB4 K2 DB4 K2 DB4 K4 G4 K4 DR/4
 ![Sett](sett.png)

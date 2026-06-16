@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1886 — MacQuarrie #5 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2732))
 - 1886 — MacQuarrie - 1886 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/892/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2732](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2732)
+- Scottish Tartans Authority (ITI): 892
+- Scottish Tartans World Register: 892
+
 ## Thread count
 G/48 R16 G4 R4 G4 R/64
 ![Sett](sett.png)

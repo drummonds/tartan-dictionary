@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Coca Cola (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5562))
 - undated — Coca Cola US Corporate Tartan Tartan Number: 7525. Earliest known date: 2008 Produced originally by the Janet Helm Company, Vancouver (specialist in corporate gifts) for Coca Cola. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7525))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5562](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5562)
+- Scottish Tartans Authority (ITI): 7525
+
 ## Thread count
 LN/14 T14 LN14 T80 R/6
 ![Sett](sett.png)

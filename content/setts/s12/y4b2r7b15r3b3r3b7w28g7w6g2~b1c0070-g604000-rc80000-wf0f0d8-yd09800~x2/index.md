@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Walker, Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4479))
 - 1993 — Walker, Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2070/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4479](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4479)
+- Scottish Tartans Authority (ITI): 2070
+- Scottish Tartans World Register: 2070
+
 ## Thread count
 DY/8 DB4 Ra14 DB30 Ra6 DB6 Ra6 DB14 LY56 T14 LY12 T/4
 ![Sett](sett.png)

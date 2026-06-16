@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1845 — MacDonell of Keppoch #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388))
 - 1845 — MacDonell of Keppoch - 1845 (McIain) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1506/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388)
+- Scottish Tartans Authority (ITI): 1506
+- Scottish Tartans World Register: 1506
+
 ## Thread count
 DR/48 G8 DR4 G4 DR4 G4 DR24 G48 DR4 K4 DR48 K4 DR4 K4 DR/12
 ![Sett](sett.png)

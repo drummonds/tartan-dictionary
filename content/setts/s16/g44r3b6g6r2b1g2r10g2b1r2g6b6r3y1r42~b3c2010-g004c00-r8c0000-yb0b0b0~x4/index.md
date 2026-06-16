@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 01/01/1992 — Norwegian - Guldbrandsdalen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3164))
 - pre 1992 — Gudbrandsdalen of Mannsdrakt (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2081/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3164](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3164)
+- Scottish Tartans Authority (ITI): 5585
+- Scottish Tartans World Register: 2081
+
 ## Thread count
 DR/168 N4 DR12 K24 G24 DR8 K4 G8 DR40 G8 K4 DR8 G24 K24 DR12 G/176
 ![Sett](sett.png)

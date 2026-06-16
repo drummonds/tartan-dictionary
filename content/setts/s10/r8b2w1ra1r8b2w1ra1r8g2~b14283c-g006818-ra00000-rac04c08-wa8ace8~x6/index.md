@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Fearns McIntosh Millennium (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1153))
 - 1999 — Fearns McIntosh Millennium (Personal (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4227/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1153](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1153)
+- Scottish Tartans Authority (ITI): 4227
+- Scottish Tartans World Register: 2782
+
 ## Thread count
 DR/48 DN12 LP6 DO6 DR48 DN12 LP6 DO6 DR48 G/12
 ![Sett](sett.png)

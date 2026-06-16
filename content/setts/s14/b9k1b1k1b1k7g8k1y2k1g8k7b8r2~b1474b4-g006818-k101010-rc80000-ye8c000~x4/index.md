@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1906 — MacLeod of Skye (Johnston) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2642))
 - 1906 — MacLeod of Skye (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/263/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2642](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2642)
+- Scottish Tartans Authority (ITI): 263
+- Scottish Tartans World Register: 263
+
 ## Thread count
 B/36 K4 B4 K4 B4 K28 G32 K4 Y8 K4 G32 K28 B32 R/8
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - November 2007 — University of Alberta (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7629/))
 - undated — University of Alberta (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5647))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5647](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5647)
+- Scottish Tartans Authority (ITI): 7629
+
 ## Thread count
 K/6 G64 K4 G8 Y8 G4 Y8 G8 K12 LN/6
 ![Sett](sett.png)

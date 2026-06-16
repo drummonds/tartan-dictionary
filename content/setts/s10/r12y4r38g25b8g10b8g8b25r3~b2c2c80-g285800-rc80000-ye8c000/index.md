@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — MacEdward (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2425))
 - c, 1930-1940 — MacEdward (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1335/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2425](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2425)
+- Scottish Tartans Authority (ITI): 1335
+- Scottish Tartans World Register: 1335
+
 ## Thread count
 R/3 DB25 G8 DB8 G10 DB8 G25 R38 Y4 R/12
 ![Sett](sett.png)

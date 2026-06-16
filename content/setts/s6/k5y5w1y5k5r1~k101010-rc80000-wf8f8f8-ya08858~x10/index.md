@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Canyon County Idaho Sheriff (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=556))
 - 2006 January — Canyon County Idaho Sheriff (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6829/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [556](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=556)
+- Scottish Tartans Authority (ITI): 6829
+
 ## Thread count
 K/50 LT50 W10 LT50 K50 R/10
 ![Sett](sett.png)

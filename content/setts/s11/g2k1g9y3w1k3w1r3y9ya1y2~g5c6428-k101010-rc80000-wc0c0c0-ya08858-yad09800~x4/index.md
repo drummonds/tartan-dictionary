@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Asman, Day Tan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5273))
 - undated — Asman Day Tan Family Tartan Tartan Number: 3529. Earliest known date: 2002 Based on a design by Phil Smith, woven by Peter MacDonald at the suggestion of David Asman for whom the original design was done. Intended for "day" wear. "Tan" is the name of the light brown colour. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3529))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5273](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5273)
+- Scottish Tartans Authority (ITI): 3529
+
 ## Thread count
 G/8 K4 G36 LT12 N4 K12 N4 R12 LT36 DY4 LT/8
 ![Sett](sett.png)

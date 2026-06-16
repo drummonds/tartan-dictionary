@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Pride of the Highlands (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7558/))
 - undated — Pride of the Highlands (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5586))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5586](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5586)
+- Scottish Tartans Authority (ITI): 7558
+
 ## Thread count
 DB/14 N4 DB56 K14 DB6 DY4 DB4 G4 DB26 R/4
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — MacCrimmon from Skye (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2328))
 - pre 2002 — MacCrimmon from Skye (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2610/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2328](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2328)
+- Scottish Tartans Authority (ITI): 2610
+- Scottish Tartans World Register: 2610
+
 ## Thread count
 R/10 K6 B44 K34 B44 K6 Y/10
 ![Sett](sett.png)

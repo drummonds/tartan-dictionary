@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — Art Pewter Silver (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5141))
 - 1994 — Art Pewter Silver (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3021/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5141](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5141)
+- Scottish Tartans Authority (ITI): 3021
+
 ## Thread count
 DB/24 K8 G24 Y2 G24 K8 DB16 R/6
 ![Sett](sett.png)

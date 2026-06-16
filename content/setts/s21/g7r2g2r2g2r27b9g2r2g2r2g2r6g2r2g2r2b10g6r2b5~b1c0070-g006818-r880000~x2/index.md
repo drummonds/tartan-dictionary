@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — Matheson (Lochcarron) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3461/))
 - undated — Matheson (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5025))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5025](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5025)
+- Scottish Tartans Authority (ITI): 3461
+
 ## Thread count
 DB/10 DR4 G12 DB20 DR4 G4 DR4 G4 DR12 G4 DR4 G4 DR4 G4 DB18 DR54 G4 DR4 G4 DR4 G/14
 ![Sett](sett.png)

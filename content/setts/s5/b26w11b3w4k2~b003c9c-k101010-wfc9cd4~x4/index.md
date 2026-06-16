@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - May 2008 — Debbie Munro Memorial (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7638/))
 - undated — Debbie Munro Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5653))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5653](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5653)
+- Scottish Tartans Authority (ITI): 7638
+
 ## Thread count
 B/104 LP44 B12 LP16 K/8
 ![Sett](sett.png)

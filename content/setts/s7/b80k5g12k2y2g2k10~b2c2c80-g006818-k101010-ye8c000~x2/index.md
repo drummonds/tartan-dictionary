@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2002 — Affara (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=25))
 - March 2002 — Affara (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4074/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [25](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=25)
+- Scottish Tartans Authority (ITI): 4074
+
 ## Thread count
 DB/160 K10 G24 K4 Y4 G4 K/20
 ![Sett](sett.png)

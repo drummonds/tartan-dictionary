@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1850 — Hong Kong Police Pipe Band (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6131/))
 - c1800 — MacKintosh Chief - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1622/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2569](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2569)
+- Scottish Tartans Authority (ITI): 1622
+- Scottish Tartans World Register: 1622
+
 ## Thread count
 LN/2 Y6 R6 K4 B12 LN2 Y4 R4 K2 R4 Y4 LN2 G12 LN2 K2 R/48
 ![Sett](sett.png)

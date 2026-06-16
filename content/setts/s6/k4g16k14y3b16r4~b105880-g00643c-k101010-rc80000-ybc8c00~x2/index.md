@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1957 — Birse (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=265))
 - pre 1957 — Birse (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1087/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [265](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=265)
+- Scottish Tartans Authority (ITI): 1087
+- Scottish Tartans World Register: 1087
+
 ## Thread count
 K/8 G32 K28 DY6 Ba32 R/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — Yudo (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6735/))
 - undated — Yudo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5346))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5346](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5346)
+- Scottish Tartans Authority (ITI): 6735
+- Scottish Tartans World Register: 3049
+
 ## Thread count
 K/8 R36 W8 DB8 W16 DB8 W8 DB80 W/8
 ![Sett](sett.png)

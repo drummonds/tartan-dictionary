@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1975 — Fitzgerald Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1197))
 - 1975 — Fitzgerald Red (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/576/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1197](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1197)
+- Scottish Tartans Authority (ITI): 576
+- Scottish Tartans World Register: 576
+
 ## Thread count
 K/8 R8 W8 R56 B8 R8 B50 R8 G50 R8 B8 R56 W8 R8 K/8
 ![Sett](sett.png)

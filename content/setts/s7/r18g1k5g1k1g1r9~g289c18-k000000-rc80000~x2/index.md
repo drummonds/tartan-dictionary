@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1830 — Duke of Sussex (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010))
 - 1830 — Duke of Sussex (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5265/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1010](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010)
+- Scottish Tartans Authority (ITI): 5265
+
 ## Thread count
 R/18 G2 K2 G2 K10 G2 R/36
 ![Sett](sett.png)

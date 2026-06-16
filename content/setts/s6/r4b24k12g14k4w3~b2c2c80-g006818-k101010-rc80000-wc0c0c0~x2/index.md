@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — MacPhail Hunting #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2698))
 - 1880 — MacPhail Htg (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2158/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2698](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2698)
+- Scottish Tartans Authority (ITI): 2158
+- Scottish Tartans World Register: 2158
+
 ## Thread count
 N/6 K8 G28 K24 DB48 R/8
 ![Sett](sett.png)

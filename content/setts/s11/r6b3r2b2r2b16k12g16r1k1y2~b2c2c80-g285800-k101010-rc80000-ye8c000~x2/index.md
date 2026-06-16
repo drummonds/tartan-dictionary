@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1880 — MacLennan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625))
 - pre 1880 — MacLennan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1429/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
+- Scottish Tartans Authority (ITI): 1429
+- Scottish Tartans World Register: 1429
+
 ## Thread count
 R/12 DB6 R4 DB4 R4 DB32 K24 G32 R2 K2 Y/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Salt Lake Scots (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3644))
 - pre 2002 — Salt Lake Scots (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5384/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3644](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3644)
+- Scottish Tartans Authority (ITI): 5384
+
 ## Thread count
 DR/34 B4 W4 B4 DR40 N36 DB6 N12 K/4
 ![Sett](sett.png)

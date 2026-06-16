@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Mens Bigi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2917))
 - Jan 2004 — Mens Bigi (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6101/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2917](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2917)
+- Scottish Tartans Authority (ITI): 6101
+
 ## Thread count
 O/8 K34 DR2 K8 DR4 K8 DR66 W/6
 ![Sett](sett.png)

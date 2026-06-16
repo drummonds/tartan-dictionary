@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1988 — Carlisle Ancient (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=563))
 - pre 1988 — Carlisle Ancient (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/680/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [563](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=563)
+- Scottish Tartans Authority (ITI): 680
+- Scottish Tartans World Register: 680
+
 ## Thread count
 B/44 DY8 DR4 DY8 DR/4
 ![Sett](sett.png)

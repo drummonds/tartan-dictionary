@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — Clergy (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=684))
 - pre 1850 — Clergy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1221/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=684)
+- Scottish Tartans Authority (ITI): 1221
+- Scottish Tartans World Register: 1221
+
 ## Thread count
 K/8 N8 B58 K58 N8 K58 N8 B12 N8 B28 N/8
 ![Sett](sett.png)

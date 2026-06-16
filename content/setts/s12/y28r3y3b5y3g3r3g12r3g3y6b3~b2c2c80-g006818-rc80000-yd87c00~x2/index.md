@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1972 — Bird of Paradise (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3691/))
 - undated — Bird of Paradise (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4888))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4888](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4888)
+- Scottish Tartans Authority (ITI): 3691
+
 ## Thread count
 DB/6 O12 G6 R6 G24 R6 G6 O6 DB10 O6 R6 O/56
 ![Sett](sett.png)

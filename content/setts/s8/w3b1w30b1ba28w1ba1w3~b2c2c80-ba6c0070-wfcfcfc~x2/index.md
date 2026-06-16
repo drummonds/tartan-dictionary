@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1982 — Dunlop Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1046))
 - 1982 — Dunlop Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1784/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1046](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1046)
+- Scottish Tartans Authority (ITI): 1784
+- Scottish Tartans World Register: 1784
+
 ## Thread count
 W/6 DB2 W60 DB2 P56 W2 P2 W/6
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2002 — McBrayer Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3321/))
 - undated — McBrayer (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5206))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5206)
+- Scottish Tartans Authority (ITI): 3321
+
 ## Thread count
 DR/8 N4 DR56 G56 N4 DR56 K4 T/200
 ![Sett](sett.png)

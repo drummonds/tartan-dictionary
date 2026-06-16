@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2000 March — Anzac (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3042/))
 - undated — Anzac (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5232))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5232](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5232)
+- Scottish Tartans Authority (ITI): 3042
+
 ## Thread count
 G/8 K52 N16 T8 N16 K16 N8 K/84
 ![Sett](sett.png)

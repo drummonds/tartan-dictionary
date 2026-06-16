@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Lynn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2255))
 - 2002 — Lynn (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5933/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2255](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2255)
+- Scottish Tartans Authority (ITI): 5933
+
 ## Thread count
 B/8 K90 LN2 B18 LN2 K6 LN2 B/36
 ![Sett](sett.png)

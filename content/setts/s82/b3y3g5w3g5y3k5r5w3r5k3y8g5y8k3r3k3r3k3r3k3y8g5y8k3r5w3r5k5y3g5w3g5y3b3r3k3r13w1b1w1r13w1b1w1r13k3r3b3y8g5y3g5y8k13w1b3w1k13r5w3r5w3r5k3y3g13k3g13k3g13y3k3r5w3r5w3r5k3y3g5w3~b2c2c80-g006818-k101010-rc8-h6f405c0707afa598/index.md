@@ -17,6 +17,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1812 — Drummond of Strathallan or Ogilvy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=992))
 - 1812 — Drummond of Strathallan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/671/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [992](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=992)
+- Scottish Tartans Authority (ITI): 671
+- Scottish Tartans World Register: 671
+
 ## Thread count
 DB/6 Y6 G10 W6 G10 Y6 K10 R10 W6 R10 K6 Y16 G10 Y16 K6 R6 K6 R6 K6 R6 K6 Y16 G10 Y16 K6 R10 W6 R10 K10 Y6 G10 W6 G10 Y6 DB6 R6 K6 R26 W2 DB2 W2 R26 W2 DB2 W2 R26 K6 R6 DB6 Y16 G10 Y6 G10 Y16 K26 W2 DB6 W2 K26 R10 W6 R10 W6 R10 K6 Y6 G26 K6 G26 K6 G26 Y6 K6 R10 W6 R10 W6 R10 K6 Y6 G10 W/6
 ![Sett](sett.png)

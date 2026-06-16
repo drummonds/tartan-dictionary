@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2004 — McClafferty (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2877))
 - 2004 September — McClafferty (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6471/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2877](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2877)
+- Scottish Tartans Authority (ITI): 6471
+
 ## Thread count
 DR/6 G20 K24 DB6 K4 DB4 K4 DB60 DR8 LN/2
 ![Sett](sett.png)

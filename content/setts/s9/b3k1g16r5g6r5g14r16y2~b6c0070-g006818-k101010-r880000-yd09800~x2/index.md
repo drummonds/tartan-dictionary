@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1982 — Fulton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1290))
 - 1982 — Fulton (1982) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2205/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1290](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1290)
+- Scottish Tartans Authority (ITI): 2205
+- Scottish Tartans World Register: 2205
+
 ## Thread count
 DY/4 DR32 G28 DR10 G12 DR10 G32 K2 P/6
 ![Sett](sett.png)

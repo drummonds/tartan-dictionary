@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/05/1992 — Angus Dress 1992 (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=90))
 - May 1992 — Angus Dress 1992 (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2473/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [90](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=90)
+- Scottish Tartans Authority (ITI): 2473
+- Scottish Tartans World Register: 2473
+
 ## Thread count
 K/6 R2 K64 DB12 W40 DB4 R2 DB4 R2 DB4 R/6
 ![Sett](sett.png)

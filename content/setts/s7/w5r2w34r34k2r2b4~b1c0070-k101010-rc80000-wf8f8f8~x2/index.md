@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1986 — Cunningham Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846))
 - 1986 — Cunningham Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/563/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [846](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846)
+- Scottish Tartans Authority (ITI): 563
+- Scottish Tartans World Register: 563
+
 ## Thread count
 DB/8 R4 K4 R68 W68 R4 W/10
 ![Sett](sett.png)

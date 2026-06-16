@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Kiernan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1958))
 - pre 1978 — Kiernan (Clan)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1800/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1958](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1958)
+- Scottish Tartans Authority (ITI): 1800
+- Scottish Tartans World Register: 1800
+
 ## Thread count
 LN/4 G8 K12 R4 K4 R4 K6 R4 G40 LN/2
 ![Sett](sett.png)

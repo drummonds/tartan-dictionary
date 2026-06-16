@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Land's End Maroon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2042))
 - pre 2002 — Land's End, Maroon (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2578/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2042](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2042)
+- Scottish Tartans Authority (ITI): 2578
+- Scottish Tartans World Register: 2578
+
 ## Thread count
 DBa/46 DY4 DR6 DB14 DR6 DY4 G30 DR42 DY/10
 ![Sett](sett.png)

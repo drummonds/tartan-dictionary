@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Carlow County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7449/))
 - 01/05/2005 — Carlow County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4931))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4931](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4931)
+- Scottish Tartans Authority (ITI): 7449
+- Scottish Tartans World Register: 3076
+
 ## Thread count
 K/14 Y8 K10 R16 K12 R64 G14 K12 G8 LN/15
 ![Sett](sett.png)

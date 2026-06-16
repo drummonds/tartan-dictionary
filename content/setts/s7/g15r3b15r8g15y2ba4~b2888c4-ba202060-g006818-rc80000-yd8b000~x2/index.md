@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Rotary International (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3570))
 - Mar. 1996 — Rotary International (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2334/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3570](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3570)
+- Scottish Tartans Authority (ITI): 2334
+- Scottish Tartans World Register: 2334
+
 ## Thread count
 DB/8 Y4 G30 R16 B30 R6 G/30
 ![Sett](sett.png)

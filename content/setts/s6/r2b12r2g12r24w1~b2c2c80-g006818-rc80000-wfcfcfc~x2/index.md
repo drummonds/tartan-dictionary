@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1745 — Fraser (1745) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1247))
 - 1829 Cromarty Ms — Fraser - 1842 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1424/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1247](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1247)
+- Scottish Tartans Authority (ITI): 1424
+- Scottish Tartans World Register: 1424
+
 ## Thread count
 R/4 DB24 R4 G24 R48 W/2
 ![Sett](sett.png)

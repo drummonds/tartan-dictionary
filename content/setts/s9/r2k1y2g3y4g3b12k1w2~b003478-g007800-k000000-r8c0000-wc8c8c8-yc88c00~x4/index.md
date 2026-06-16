@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Federated Women's Institutes of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1157))
 - 1996 — FWI of Ontario (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4840/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1157](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1157)
+- Scottish Tartans Authority (ITI): 4840
+
 ## Thread count
 DR/8 K4 DY8 G12 DY16 G12 DB48 K4 N/8
 ![Sett](sett.png)

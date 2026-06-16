@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Princess Margaret Rose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3405))
 - pre 2002 — Princess Margaret Rose (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/986/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3405](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3405)
+- Scottish Tartans Authority (ITI): 986
+- Scottish Tartans World Register: 986
+
 ## Thread count
 DG/64 R24 DG12 R12 K4 W/6
 ![Sett](sett.png)

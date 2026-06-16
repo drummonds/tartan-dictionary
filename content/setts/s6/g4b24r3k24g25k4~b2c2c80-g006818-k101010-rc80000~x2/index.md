@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1831 — Ferguson of Balquhidder - 1831 (Clan (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/738/))
 - undated — Ferguson of Balquhidder Clan Tartan Tartan Number: 738. Earliest known date: 1977 (1831) Logan records only two threads for the red stripe. D.C. Stewart calls this Ferguson of Balquhidder to differenciate it from the Ferguson of Athol. Chiefs of the Clan are the Fergussons of Kilkerran, descended from Fergus of Dalriada, who brought the 'Stone of Scone' to Scotland. The Fergussons of Perthshire were recognised as the principal Highland branch of the clan and the chiefship belonged to 'MacFhearghuis' of Dunfallandy. The present day chief is Sir Charles Fergusson of Kilkerran, Bt. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=738))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1167](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1167)
+- Scottish Tartans Authority (ITI): 738
+- Scottish Tartans World Register: 738
+
 ## Thread count
 G/8 DB48 R6 K48 G50 K/8
 ![Sett](sett.png)

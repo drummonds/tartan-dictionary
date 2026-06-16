@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2004 — Wicklow County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7436/))
 - 01/05/2005 — Wicklow County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5328))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5328](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5328)
+- Scottish Tartans Authority (ITI): 7436
+- Scottish Tartans World Register: 3105
+
 ## Thread count
 DB/32 DBa14 DY8 DBa4 DY32 DBa4 G48 DBa16 N/22
 ![Sett](sett.png)

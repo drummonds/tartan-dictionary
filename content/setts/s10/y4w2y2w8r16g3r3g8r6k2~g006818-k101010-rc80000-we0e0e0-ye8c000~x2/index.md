@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 1990 — Melieres, Carolyn (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1171/))
 - undated — Carolyn Melieres Family Tartan Tartan Number: 1171. Earliest known date: 1966 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1171))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2911](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2911)
+- Scottish Tartans Authority (ITI): 1171
+- Scottish Tartans World Register: 1171
+
 ## Thread count
 K/4 R12 G16 R6 G6 R32 LN16 Y4 LN4 Y/8
 ![Sett](sett.png)

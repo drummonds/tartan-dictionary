@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1965 — Yukon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4803))
 - 1965 — Yukon (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2129/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4803](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4803)
+- Scottish Tartans Authority (ITI): 2129
+- Scottish Tartans World Register: 2129
+
 ## Thread count
 B/80 P16 R16 W16 Ga16 Y16 B16 Y4 B8 Y4 B/80
 ![Sett](sett.png)

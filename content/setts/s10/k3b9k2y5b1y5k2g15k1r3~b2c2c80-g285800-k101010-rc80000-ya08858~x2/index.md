@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2003 — New Zealand (2003) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3125))
 - 2003 — New Zealand (District) 2003) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5790/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3125](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3125)
+- Scottish Tartans Authority (ITI): 5790
+- Scottish Tartans World Register: 2850
+
 ## Thread count
 K/6 DB18 K4 LT10 DB2 LT10 K4 G30 K2 R/6
 ![Sett](sett.png)

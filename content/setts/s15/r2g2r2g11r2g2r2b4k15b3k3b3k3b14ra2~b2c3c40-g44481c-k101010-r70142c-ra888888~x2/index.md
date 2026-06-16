@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Dec. 2008 — Homecoming (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7823/))
 - undated — Homecoming (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5779))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5779](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5779)
+- Scottish Tartans Authority (ITI): 7823
+- Scottish Tartans World Register: 3275
+
 ## Thread count
 DR/4 T4 DR4 T22 DR4 T4 DR4 DN8 K30 DN6 K6 DN6 K6 DN28 N/4
 ![Sett](sett.png)

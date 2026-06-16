@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1750 — Grant of Lurg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1507))
 - pre 1750 — Grant of Lurg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/527/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1507](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1507)
+- Scottish Tartans Authority (ITI): 527
+- Scottish Tartans World Register: 527
+
 ## Thread count
 R/4 DB20 R4 G20 R50 W/4
 ![Sett](sett.png)

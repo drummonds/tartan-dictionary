@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1989 — Morris of Balgonie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2460/))
 - 01/01/1995 — Morris of Balgonie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3014))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3014](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3014)
+- Scottish Tartans Authority (ITI): 2460
+- Scottish Tartans World Register: 2460
+
 ## Thread count
 DY/4 G40 K20 DR6 P40 W/4
 ![Sett](sett.png)

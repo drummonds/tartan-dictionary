@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov 2007 — Dugan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7483/))
 - undated — Dugan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5525))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5525](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5525)
+- Scottish Tartans Authority (ITI): 7483
+
 ## Thread count
 K/20 Na8 K68 DB6 G6 DB6 G6 DB52 N4 LN/6
 ![Sett](sett.png)

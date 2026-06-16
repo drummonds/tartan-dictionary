@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Ainslie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=28))
 - 1992 — Ainslie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2187/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [28](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=28)
+- Scottish Tartans Authority (ITI): 2187
+- Scottish Tartans World Register: 2187
+
 ## Thread count
 DB/48 K12 DB8 R8 DB8 R48 W8 K4 W/8
 ![Sett](sett.png)

@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 14/07/2012 — Forget Family (Yonne) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10694))
 - undated — Forget Family (Yonne) Name Tartan Tartan Number: 10694. Earliest known date: 11 September 2012 The gold and red colours in the tartan are the Forget family colours, with green to recall the importance of the forest for the family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10694))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10694](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10694)
+
 ## Thread count
 G/32 Y4 G32 Y48 R4 Y/4
 ![Sett](sett.png)

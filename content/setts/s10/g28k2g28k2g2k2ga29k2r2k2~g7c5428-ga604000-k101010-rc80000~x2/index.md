@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1590-1650 — Ulster (Peat) (District (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1196/))
 - 01/01/1600 — Ulster (Peat) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4196))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4196](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4196)
+- Scottish Tartans Authority (ITI): 1196
+- Scottish Tartans World Register: 1196
+
 ## Thread count
 K/4 R4 K4 T58 K4 Ta4 K4 Ta56 K4 Ta/56
 ![Sett](sett.png)

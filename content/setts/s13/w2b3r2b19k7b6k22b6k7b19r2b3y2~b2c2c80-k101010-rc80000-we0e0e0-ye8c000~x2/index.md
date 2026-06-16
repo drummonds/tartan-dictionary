@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2003 — MacIver of Strome (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2494))
 - March 2003 — MacIver of Strome (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5810/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2494](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2494)
+- Scottish Tartans Authority (ITI): 5810
+
 ## Thread count
 LN/4 DB6 R4 DB38 K14 DB12 K44 DB12 K14 DB38 R4 DB6 Y/4
 ![Sett](sett.png)

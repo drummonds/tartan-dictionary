@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Aberdeen University (1992) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=20))
 - 1992 — Aberdeen University - 1992 (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2152/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [20](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=20)
+- Scottish Tartans Authority (ITI): 2152
+- Scottish Tartans World Register: 2152
+
 ## Thread count
 Y/8 DB30 K24 R54 Y/8
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1778 — Mackenzie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2520))
 - 1819 — MacKenzie - 1780 (Clan) as 78th (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/267/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2520](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2520)
+- Scottish Tartans Authority (ITI): 267
+- Scottish Tartans World Register: 267
+
 ## Thread count
 B/24 K4 B4 K4 B4 K24 G24 K2 LN4 K2 G24 K24 B24 K2 R/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1991 — MacBeth (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3320/))
 - undated — MacBeth #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5191))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5191](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5191)
+- Scottish Tartans Authority (ITI): 3320
+
 ## Thread count
 DB/84 K12 DY4 K6 DY4 G20 DR14 K/4
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1847 — Prince Albert #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3386))
 - 1847 — Prince Albert (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6847/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3386](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3386)
+- Scottish Tartans Authority (ITI): 6847
+
 ## Thread count
 R/12 DB36 R8 K28 Y8 K8 W8 K8 G24 R20 K8 R8 W/8
 ![Sett](sett.png)

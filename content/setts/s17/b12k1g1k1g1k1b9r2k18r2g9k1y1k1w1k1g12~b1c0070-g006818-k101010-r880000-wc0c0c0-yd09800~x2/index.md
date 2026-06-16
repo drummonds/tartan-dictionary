@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1930 — Nicolson Green Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4809))
 - 1968 — Nicolson Green (Htg) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/322/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4809](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4809)
+- Scottish Tartans Authority (ITI): 322
+- Scottish Tartans World Register: 322
+
 ## Thread count
 DB/24 K2 G2 K2 G2 K2 DB18 DR4 K36 DR4 G18 K2 DY2 K2 N2 K2 G/24
 ![Sett](sett.png)

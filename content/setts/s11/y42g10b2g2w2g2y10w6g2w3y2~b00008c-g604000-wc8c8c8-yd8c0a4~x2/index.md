@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Elvan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1106))
 - pre 1984 — Elvan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4809/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1106](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1106)
+- Scottish Tartans Authority (ITI): 4809
+
 ## Thread count
 LR/4 N6 T4 N12 LR20 T4 N4 T4 DB4 T20 LR/84
 ![Sett](sett.png)

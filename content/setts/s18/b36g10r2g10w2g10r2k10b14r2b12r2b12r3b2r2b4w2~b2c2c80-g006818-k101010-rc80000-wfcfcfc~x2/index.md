@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1932 — Rankin #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3460))
 - pre 1932 — Rankin (1932) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/187/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3460](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3460)
+- Scottish Tartans Authority (ITI): 187
+- Scottish Tartans World Register: 187
+
 ## Thread count
 DB/72 G20 R4 G20 W4 G20 R4 K20 DB28 R4 DB24 R4 DB24 R6 DB4 R4 DB8 W/4
 ![Sett](sett.png)

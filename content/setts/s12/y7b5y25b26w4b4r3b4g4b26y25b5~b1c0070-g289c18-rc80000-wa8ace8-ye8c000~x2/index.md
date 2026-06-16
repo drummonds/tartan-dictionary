@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Mar. 2008 — O Savanao (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7849/))
 - undated — O Savaaoo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5801))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5801](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5801)
+- Scottish Tartans Authority (ITI): 7849
+
 ## Thread count
 DB/10 Y50 DB52 G8 DB8 R6 DB8 LP8 DB52 Y50 DB10 Y/14
 ![Sett](sett.png)

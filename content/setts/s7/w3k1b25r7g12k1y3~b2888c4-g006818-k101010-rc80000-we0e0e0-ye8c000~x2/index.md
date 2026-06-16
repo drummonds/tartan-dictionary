@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1978 — Caskie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=591))
 - pre 1978 — Caskie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5894/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [591](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=591)
+- Scottish Tartans Authority (ITI): 5894
+
 ## Thread count
 LN/6 K2 B50 R14 G24 K2 Y/6
 ![Sett](sett.png)

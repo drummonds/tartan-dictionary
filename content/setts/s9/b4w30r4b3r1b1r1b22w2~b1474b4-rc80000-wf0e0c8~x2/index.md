@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Canna, Saphire (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7597/))
 - undated — Canna Saphire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5621))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5621](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5621)
+- Scottish Tartans Authority (ITI): 7597
+
 ## Thread count
 B/8 W60 R8 B6 R2 B2 R2 B44 W/4
 ![Sett](sett.png)

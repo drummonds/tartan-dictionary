@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Aug 1997 — Franconian (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2305/))
 - undated — Franconian District Ger Tartan Tartan Number: 2305. Earliest known date: Aug 1997 August 1997. Designed by (or for?) the Highland Circle - a group of Malt Whisky drinkers in Franconia, Germany. Sample in STA's Johnston Collection + Lochcarron swatch. STS notes say designed by members of the Highland Circle and produced by Hugh MacPherson of Edinburgh. Blue & green lightened to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2305))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1244](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1244)
+- Scottish Tartans Authority (ITI): 2305
+- Scottish Tartans World Register: 2305
+
 ## Thread count
 B/10 DB8 G8 DB8 G44 DB8 G8 DB8 G8 DB44 R10 DB10 Y10 DB44 G8 DB8 G8 DB8 G44 DB8 G8 DB8 B10 DB44 G10 R10 G8 W10 G8 R10 G14 DB/44
 ![Sett](sett.png)

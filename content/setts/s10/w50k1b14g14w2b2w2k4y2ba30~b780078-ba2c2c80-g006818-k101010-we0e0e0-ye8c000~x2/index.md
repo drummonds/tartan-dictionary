@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — MacBeth Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2299))
 - pre 2005 — MacBeth Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6561/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2299](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2299)
+- Scottish Tartans Authority (ITI): 6561
+
 ## Thread count
 DB/60 Y4 K8 LN4 P4 LN4 G28 P28 K2 LN/100
 ![Sett](sett.png)

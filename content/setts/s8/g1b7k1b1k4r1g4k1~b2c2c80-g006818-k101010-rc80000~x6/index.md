@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 03/02/1999 — Brabender (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=329))
 - February 1999 — Brabender (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2639/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [329](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=329)
+- Scottish Tartans Authority (ITI): 2639
+- Scottish Tartans World Register: 2639
+
 ## Thread count
 G/6 DB42 K6 DB6 K24 R6 G24 K/6
 ![Sett](sett.png)

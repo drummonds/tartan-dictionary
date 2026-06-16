@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1998 — Cadence Design Systems (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=459))
 - 1998 — Cadence Design Systems (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2480/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [459](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=459)
+- Scottish Tartans Authority (ITI): 2480
+- Scottish Tartans World Register: 2480
+
 ## Thread count
 DB/102 G10 R30 G74 DB34 R12 G/14
 ![Sett](sett.png)

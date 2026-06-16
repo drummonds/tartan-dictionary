@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Fitzpatrick Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/766/))
 - undated — Fitzpatrick Irish Family Tartan Tartan Number: 766. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=766))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1200](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1200)
+- Scottish Tartans Authority (ITI): 766
+- Scottish Tartans World Register: 766
+
 ## Thread count
 G/4 K32 DB4 K32 G32 Y8 G12 Y4 G/20
 ![Sett](sett.png)

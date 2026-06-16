@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — Applecross (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=102))
 - undated — Applecross (MacDonald) District Tartan Tartan Number: 961. Earliest known date: pre 1947 Named after the district in which it was found. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=961))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [102](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=102)
+- Scottish Tartans Authority (ITI): 961
+- Scottish Tartans World Register: 961
+
 ## Thread count
 G/36 Ra4 G14 Ra/36
 ![Sett](sett.png)

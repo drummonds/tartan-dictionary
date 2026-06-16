@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Tyrone, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4178))
 - 1997 — Tyrone, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2264/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4178](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4178)
+- Scottish Tartans Authority (ITI): 2264
+- Scottish Tartans World Register: 2264
+
 ## Thread count
 DG/6 DR18 DG4 DR16 LT28 T4 N4 T4 DG4 T14 LT12 DR/100
 ![Sett](sett.png)

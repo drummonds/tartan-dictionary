@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1993 — Paterson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3300))
 - 1993 — Paterson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4174/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3300](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3300)
+- Scottish Tartans Authority (ITI): 4174
+
 ## Thread count
 G/6 DB24 W2 K24 G26 R4 G/4
 ![Sett](sett.png)

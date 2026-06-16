@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — MacColl (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2315))
 - 1950 (Setts) — MacColl (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/878/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2315](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2315)
+- Scottish Tartans Authority (ITI): 878
+- Scottish Tartans World Register: 878
+
 ## Thread count
 G/16 R4 G4 R48 DB4 R4 DB12 R4 DB4 R8 G32 R4 DB4 R/48
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1842 — Nisbet (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3140))
 - 1842 — Nisbet (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2115/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3140](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3140)
+- Scottish Tartans Authority (ITI): 2115
+- Scottish Tartans World Register: 2115
+
 ## Thread count
 R/20 G48 K20 R56 N6 R/12
 ![Sett](sett.png)

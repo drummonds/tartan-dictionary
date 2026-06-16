@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/09/2000 — Calgary, University of (Estimated Threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478))
 - pre 2002 — Calgary, University of (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4004/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [478](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478)
+- Scottish Tartans Authority (ITI): 4004
+- Scottish Tartans World Register: 2725
+
 ## Thread count
 R/16 K2 R2 K10 R2 K2 R16 K2 R2 K60 R2 Y/4
 ![Sett](sett.png)

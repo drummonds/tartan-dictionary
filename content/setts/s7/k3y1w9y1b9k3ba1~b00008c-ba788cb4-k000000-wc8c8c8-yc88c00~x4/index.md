@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1994 — St. Francis Xavier University (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3890))
 - Jun. 1994 — St. Francis Xavier University (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5305/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3890](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3890)
+- Scottish Tartans Authority (ITI): 5305
+- Scottish Tartans World Register: 2789
+
 ## Thread count
 B/4 K12 DB36 DY4 N36 DY4 K/12
 ![Sett](sett.png)

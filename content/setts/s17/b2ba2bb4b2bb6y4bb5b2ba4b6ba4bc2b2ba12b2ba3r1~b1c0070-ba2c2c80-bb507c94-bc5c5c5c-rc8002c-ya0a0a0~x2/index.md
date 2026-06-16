@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Fulbright, Senator (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1288))
 - pre 2006 — Fulbright, Senator (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7032/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1288](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1288)
+- Scottish Tartans Authority (ITI): 7032
+
 ## Thread count
 DBa/4 DB4 B8 DBa4 B12 Na8 B10 DBa4 DB8 DBa12 DB8 N4 DBa4 DB24 DBa4 DB6 R/2
 ![Sett](sett.png)

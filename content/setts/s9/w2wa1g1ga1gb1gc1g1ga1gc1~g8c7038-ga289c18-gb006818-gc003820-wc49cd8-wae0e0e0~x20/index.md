@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1999 — Stirling Millennium (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3966))
 - 1999 — Stirling Millennium (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2686/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3966](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3966)
+- Scottish Tartans Authority (ITI): 2686
+- Scottish Tartans World Register: 2686
+
 ## Thread count
 DG/20 Ga20 LT20 DG20 G20 Ga20 LT20 LN20 LP/40
 ![Sett](sett.png)

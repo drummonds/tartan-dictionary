@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Montgomrie/Montgomery of Eglinton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2991))
 - 1819 (1707?) — Montgomery - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1082/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2991](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2991)
+- Scottish Tartans Authority (ITI): 1082
+- Scottish Tartans World Register: 1082
+
 ## Thread count
 K/8 G10 K8 DP56 K8 R10 K/8
 ![Sett](sett.png)

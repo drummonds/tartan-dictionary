@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — O'Shaughnessy (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3269))
 - pre 2005 — O'Shaughnessy (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6754/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3269](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3269)
+- Scottish Tartans Authority (ITI): 6754
+
 ## Thread count
 DB/120 W6 P16 Y4 K4 W4 K4 G28 DB8 T20 W/4
 ![Sett](sett.png)

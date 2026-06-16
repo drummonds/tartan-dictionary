@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1906 — MacAlpine (1906) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2275))
 - pre 1906 — MacAlpine (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1914/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2275](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2275)
+- Scottish Tartans Authority (ITI): 1914
+- Scottish Tartans World Register: 1914
+
 ## Thread count
 DB/16 G4 DB4 G24 K4 G24 DB4 G4 DB16 LN4 K16 G4 K16 Y/4
 ![Sett](sett.png)

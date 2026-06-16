@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1980 — Erskine Purple (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1128))
 - 1980 — Erskine, Purple (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6534/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1128)
+- Scottish Tartans Authority (ITI): 6534
+
 ## Thread count
 P/12 W6 P54 W54 P6 W/12
 ![Sett](sett.png)

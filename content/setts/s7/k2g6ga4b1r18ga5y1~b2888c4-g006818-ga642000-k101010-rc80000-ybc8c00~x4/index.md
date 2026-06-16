@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Snelgrove (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7803/))
 - undated — Snelgrove (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5765))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5765](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5765)
+- Scottish Tartans Authority (ITI): 7803
+
 ## Thread count
 DY/4 T20 R72 B4 T16 G24 K/8
 ![Sett](sett.png)

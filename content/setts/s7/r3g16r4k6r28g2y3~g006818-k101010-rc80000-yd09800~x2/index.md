@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2000 — McInally (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3465/))
 - undated — McInally (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5154))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5154](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5154)
+- Scottish Tartans Authority (ITI): 3465
+
 ## Thread count
 DY/6 G4 R56 K12 R8 G32 R/6
 ![Sett](sett.png)

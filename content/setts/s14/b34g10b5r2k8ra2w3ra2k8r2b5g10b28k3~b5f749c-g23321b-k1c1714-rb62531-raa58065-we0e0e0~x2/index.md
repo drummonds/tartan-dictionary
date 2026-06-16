@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 25/07/2012 — Lambert (Front Royal) Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10661))
 - undated — Lambert (Front Royal) Dress Name Tartan Tartan Number: 10661. Earliest known date: 25/07/2012 Designed by Charles Lambert, using the Scotweb Tartan Designer, for his family to celebrate their Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Hunting tartan(STR #10663) using the same geometry but with muted colours and the Lambert (Front Royal) Dark Night tartan (STR #10669 using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10661))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10661](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10661)
+
 ## Thread count
 B/68 K20 B10 R4 Ka16 LT4 LN6 LT4 Ka16 R4 B10 K20 B56 Ka/6
 ![Sett](sett.png)

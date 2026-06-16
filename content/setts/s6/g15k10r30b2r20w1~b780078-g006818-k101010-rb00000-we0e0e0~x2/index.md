@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov.2008 — Kinnaird (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7781/))
 - undated — Kinnaird #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5750))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5750](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5750)
+- Scottish Tartans Authority (ITI): 7781
+
 ## Thread count
 G/30 K20 DR60 P4 DR40 LN/2
 ![Sett](sett.png)

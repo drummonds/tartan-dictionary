@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Brown, George (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=395))
 - pre 2002 — Brown, George (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1853/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [395](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=395)
+- Scottish Tartans Authority (ITI): 1853
+- Scottish Tartans World Register: 1853
+
 ## Thread count
 W/6 R6 K8 R12 G44 R8 K36 G48 Y/6
 ![Sett](sett.png)

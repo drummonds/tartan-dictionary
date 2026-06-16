@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Modowny (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2973))
 - pre 2002 — Modowny (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5677/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2973](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2973)
+- Scottish Tartans Authority (ITI): 5677
+
 ## Thread count
 DR/8 N48 K8 N8 K16 N8 K8 N48 DY/8
 ![Sett](sett.png)

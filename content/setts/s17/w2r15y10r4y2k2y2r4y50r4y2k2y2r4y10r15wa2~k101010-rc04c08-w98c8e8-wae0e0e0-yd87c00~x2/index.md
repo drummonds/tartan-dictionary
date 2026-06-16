@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1984 — Australia, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=141))
 - 1984 — Australia - 1984 (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/611/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [141](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=141)
+- Scottish Tartans Authority (ITI): 611
+- Scottish Tartans World Register: 611
+
 ## Thread count
 LB/4 DO30 O20 DO8 O4 K4 O4 DO8 O100 DO8 O4 K4 O4 DO8 O20 DO30 LN/4
 ![Sett](sett.png)

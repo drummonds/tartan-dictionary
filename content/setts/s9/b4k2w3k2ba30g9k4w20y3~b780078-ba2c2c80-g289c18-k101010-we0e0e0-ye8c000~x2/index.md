@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - Unknown — Minnesota Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3929/))
 - undated — Minnesota Dress American District Tartan Tartan Number: 3929. Earliest known date: Unknown Official State Tartan designed by Mark Osweiler of St Paul, MN, USA. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3929))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5043](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5043)
+- Scottish Tartans Authority (ITI): 3929
+
 ## Thread count
 P/8 K4 LN6 K4 DB60 G18 K8 LN40 Y/6
 ![Sett](sett.png)

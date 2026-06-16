@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1936 — Jubilee (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1911/))
 - 01/04/1950 — Jubilee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1911))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1911](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1911)
+- Scottish Tartans Authority (ITI): 1911
+- Scottish Tartans World Register: 1911
+
 ## Thread count
 G/3 LP24 G8 LP12 G44 DR6 G44 LP48 G6 LP48 G44 DY6 G44 LP12 G8 LP24 G/3
 ![Sett](sett.png)

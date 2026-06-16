@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Moonlight Glen (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7611/))
 - undated — Moonlight Glen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5633))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5633](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5633)
+- Scottish Tartans Authority (ITI): 7611
+
 ## Thread count
 LN/6 N2 K6 LN20 K20 LN12 N8 K80 N/6
 ![Sett](sett.png)

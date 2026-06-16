@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1982 — Perry Arisaid (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3320))
 - 1982 — Perry Arisaid (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1304/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3320](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3320)
+- Scottish Tartans Authority (ITI): 1304
+- Scottish Tartans World Register: 1304
+
 ## Thread count
 N/130 R54 W4 N8 Y/10
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - April 2008 — Nunavut (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7730/))
 - undated — Nunavut (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5714))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5714](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5714)
+- Scottish Tartans Authority (ITI): 7730
+
 ## Thread count
 K/12 B4 N4 B6 N4 B4 N60 K40 LN12 K/8
 ![Sett](sett.png)

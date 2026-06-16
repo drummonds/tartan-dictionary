@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Robertson Hunting #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3533))
 - undated — Robertson Hunting (MacGregor-Hastie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3534))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3534](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3534)
+- Scottish Tartans World Register: 334
+
 ## Thread count
 B/36 K20 G18 K4 R4 K4 G18 K20 B18 LN/4
 ![Sett](sett.png)

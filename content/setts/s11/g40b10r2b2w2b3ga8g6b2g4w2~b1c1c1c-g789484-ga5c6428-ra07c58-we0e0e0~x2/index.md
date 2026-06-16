@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1981 — Cavalier, Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=597))
 - pre 1981 — Cavalier, Blue (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4480/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [597](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=597)
+- Scottish Tartans Authority (ITI): 4480
+
 ## Thread count
 LG/80 K20 LT4 K4 LN4 K6 G16 LG12 K4 LG8 LN/4
 ![Sett](sett.png)

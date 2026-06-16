@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 16/03/2004 — S3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3630))
 - pre 2004 — Strategic Staffing Solutions (Corpor (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6227/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3630](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3630)
+- Scottish Tartans Authority (ITI): 6227
+- Scottish Tartans World Register: 2986
+
 ## Thread count
 DR/20 W8 G/120
 ![Sett](sett.png)

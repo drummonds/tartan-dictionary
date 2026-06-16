@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1965 — Canadian Confederation (Commemorat) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1964/))
 - 01/01/1967 — Canadian Confederation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=545))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [545](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=545)
+- Scottish Tartans Authority (ITI): 1964
+- Scottish Tartans World Register: 1964
+
 ## Thread count
 DB/16 R8 K8 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB1 K1 DB20 K4 R12 K24 G8 DB1 G1 DB1 G1 DB1 G1 DB1 G1 DB1 G1 DB1 G1 DB26 G6 K4 R24 W4 R/24
 ![Sett](sett.png)

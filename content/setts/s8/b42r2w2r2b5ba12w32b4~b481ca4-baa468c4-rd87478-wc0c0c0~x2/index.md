@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1992 — Longniddry Lavender (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2210))
 - pre 1992 — Longniddry, Lavender (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6468/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2210](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2210)
+- Scottish Tartans Authority (ITI): 6468
+
 ## Thread count
 P/84 LR4 N4 LR4 P10 Pa24 N64 P/8
 ![Sett](sett.png)

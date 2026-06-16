@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/08/2000 — Groen (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1552))
 - Sep. 2000 — Groen (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6197/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1552](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1552)
+- Scottish Tartans Authority (ITI): 6197
+- Scottish Tartans World Register: 2723
+
 ## Thread count
 N/24 R4 N6 R8 N30 K48 Ga36 Y2 K6 Ga6 W/6
 ![Sett](sett.png)

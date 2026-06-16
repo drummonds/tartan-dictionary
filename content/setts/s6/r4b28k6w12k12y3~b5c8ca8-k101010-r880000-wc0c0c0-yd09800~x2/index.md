@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1850 — MacTavish Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2769))
 - pre 2002 — MacTavish Dress (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1383/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2769](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2769)
+- Scottish Tartans Authority (ITI): 1383
+- Scottish Tartans World Register: 1383
+
 ## Thread count
 DR/8 B56 K12 N24 K24 DY/6
 ![Sett](sett.png)

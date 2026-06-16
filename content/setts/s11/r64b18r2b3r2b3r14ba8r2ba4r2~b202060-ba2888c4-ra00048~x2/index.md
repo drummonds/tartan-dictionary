@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Before 2002 — Bennet (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4949))
 - pre 2002 — Bennet (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3680/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4949](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4949)
+- Scottish Tartans Authority (ITI): 3680
+
 ## Thread count
 R/4 B8 R4 B16 R28 DB6 R4 DB6 R4 DB36 R/128
 ![Sett](sett.png)

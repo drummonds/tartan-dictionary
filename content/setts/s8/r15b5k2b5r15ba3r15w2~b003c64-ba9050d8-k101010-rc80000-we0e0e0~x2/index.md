@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Goodwillie (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7673/))
 - undated — Goodwillie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5676))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5676](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5676)
+- Scottish Tartans Authority (ITI): 7673
+
 ## Thread count
 LN/4 R30 P6 R30 DB10 K4 DB10 R/30
 ![Sett](sett.png)

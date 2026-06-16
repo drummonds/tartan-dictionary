@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Clemson University (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=675))
 - 2002 — Clemson University (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5879/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [675](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=675)
+- Scottish Tartans Authority (ITI): 5879
+
 ## Thread count
 DB/44 K8 DB8 K8 DB8 K32 P32 O8 P32 K32 DB32 K8 DB/8
 ![Sett](sett.png)

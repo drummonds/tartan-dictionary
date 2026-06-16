@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Indigo Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1823))
 - undated — Indigo Blue Works Corporate Tartan Tartan Number: 2352. Earliest known date: January 1997 Indigo Blue Works is a UK blue (indigo) denim material weaver and this tartan was designed to promote their products in the Japaneses market. (STS data). The tartan was launched at a filmed ceremony in Pitlochry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2352))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1823](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1823)
+- Scottish Tartans Authority (ITI): 2352
+- Scottish Tartans World Register: 2352
+
 ## Thread count
 B/10 K2 B2 K2 B10 DBa36 K2 DB8 K2 DBa18 K2 DB8 K2 DBa36 B10 K2 B2 K2 B10 DBa/8
 ![Sett](sett.png)

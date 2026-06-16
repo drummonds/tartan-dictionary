@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - circa 1984 — Thomson Dress (Grey) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3121/))
 - undated — Thomson Dress (Grey) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5279))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5279](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5279)
+- Scottish Tartans Authority (ITI): 3121
+
 ## Thread count
 R/8 N50 K12 LN24 K22 Y/6
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — MacDonald of Sleat (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2367))
 - undated — MacDonald of Sleat Clan Tartan Tartan Number: 904. Earliest known date: 1908 The MacDonald of Sleat tartan was manufactured in the 18th century and called MacDonald of Sleat, Lord of the Isles. The pattern was devised from an old MacDonald tartan that is shown in a painting at Armadale Castle, but it appears that the reconstruction differs somewhat from the original. Whether this was intended or simply a mistake is entirely open to conjecture but it would not be the first new design to have arisen from an error in the threadcount. The first recorded publication of the sett can be found in Adam's work of 1908. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=904))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2367](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2367)
+- Scottish Tartans Authority (ITI): 904
+- Scottish Tartans World Register: 904
+
 ## Thread count
 G/32 R10 G4 R/72
 ![Sett](sett.png)

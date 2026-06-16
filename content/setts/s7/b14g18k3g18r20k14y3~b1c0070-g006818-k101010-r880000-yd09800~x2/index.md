@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1998 — Scottish Parliament (unofficial) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3738))
 - 1998 — Scottish Parliament (Unauthorised) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2477/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3738](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3738)
+- Scottish Tartans Authority (ITI): 2477
+- Scottish Tartans World Register: 2477
+
 ## Thread count
 DB/28 G36 K6 G36 DR40 K28 DY/6
 ![Sett](sett.png)

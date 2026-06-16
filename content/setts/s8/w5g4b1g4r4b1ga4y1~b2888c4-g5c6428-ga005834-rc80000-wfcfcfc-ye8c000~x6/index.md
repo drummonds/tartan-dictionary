@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1990 — Devon Rural Skills Trust (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=923))
 - pre 1990 — Devon Rural Skills Trust (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2182/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [923](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=923)
+- Scottish Tartans Authority (ITI): 2182
+- Scottish Tartans World Register: 2182
+
 ## Thread count
 W/30 G24 B6 G24 R24 B6 Ga24 Y/6
 ![Sett](sett.png)

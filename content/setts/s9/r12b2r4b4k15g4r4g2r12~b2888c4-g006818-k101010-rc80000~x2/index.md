@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 1985 — Alexander - 1985 (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1405/))
 - 01/01/2002 — Alexander (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=44))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [44](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=44)
+- Scottish Tartans Authority (ITI): 1405
+- Scottish Tartans World Register: 1405
+
 ## Thread count
 R/24 B4 R8 B8 K30 G8 R8 G4 R/24
 ![Sett](sett.png)

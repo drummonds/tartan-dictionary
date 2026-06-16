@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1983 — Fontainbleu (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1213))
 - pre 1983 — Fontainbleu (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4874/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1213](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1213)
+- Scottish Tartans Authority (ITI): 4874
+
 ## Thread count
 DR/132 N16 DR8 K4 DR2 DY4 DR6 K8 DR8 DY2 K2 DR16 K4 N16 K4 DR16 K4 DR2 DY4 DR6 K8 DR8 DY2 K2 DR8 N/16
 ![Sett](sett.png)

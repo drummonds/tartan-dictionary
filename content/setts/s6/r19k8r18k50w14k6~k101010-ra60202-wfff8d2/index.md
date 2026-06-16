@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 14/05/2012 — Knights Breton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10616))
 - undated — Knights Breton Commemorative Tartan Tartan Number: 10616. Earliest known date: 14/05/2012 A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10616))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10616](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10616)
+
 ## Thread count
 DR/19 K8 DR18 K50 LY14 K/6
 ![Sett](sett.png)

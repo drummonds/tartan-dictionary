@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Dropkick Murphys (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=977))
 - pre 2007 — Dropkick Murphys (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7127/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [977](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=977)
+- Scottish Tartans Authority (ITI): 7127
+
 ## Thread count
 K/6 G55 Ga6 K85 Ga4 K4 G12 K2 LN/5
 ![Sett](sett.png)

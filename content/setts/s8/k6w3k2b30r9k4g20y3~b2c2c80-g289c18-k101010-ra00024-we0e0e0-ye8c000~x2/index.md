@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Minnesota (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5089))
 - undated — Minnesota American District Tartan Tartan Number: 3930. Earliest known date: 2002 Official State tartan designed by Mark Osweiler of St Paul, MN, USA. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3930))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5089](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5089)
+- Scottish Tartans Authority (ITI): 3930
+
 ## Thread count
 K/12 LN6 K4 DB60 DR18 K8 G40 Y/6
 ![Sett](sett.png)

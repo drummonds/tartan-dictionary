@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1830 — MacRae of Ardentoul (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2747))
 - pre 1830 — MacRae of Ardentoul - 1820 #1 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1178/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2747](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2747)
+- Scottish Tartans Authority (ITI): 1178
+- Scottish Tartans World Register: 1178
+
 ## Thread count
 R/24 B6 DB36 Y2 DB4 W2 K2 G36 R6 K2 R4 K6 R4 K2 R/160
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Hamilton Green Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1577))
 - pre 2002 — Hamilton Green (Hunting) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/139/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1577](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1577)
+- Scottish Tartans Authority (ITI): 139
+- Scottish Tartans World Register: 139
+
 ## Thread count
 DB/32 G8 DB32 G60 N/8
 ![Sett](sett.png)

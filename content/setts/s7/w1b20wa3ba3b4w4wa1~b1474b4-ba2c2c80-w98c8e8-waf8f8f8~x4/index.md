@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — Starr (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3909))
 - pre 2004 — Starr (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6373/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3909](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3909)
+- Scottish Tartans Authority (ITI): 6373
+
 ## Thread count
 LB/4 B80 W12 DB12 B16 LB16 W/4
 ![Sett](sett.png)

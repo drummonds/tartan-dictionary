@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2005 — Lysaght Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260))
 - 2005 March — Lysaght Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6593/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2260](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260)
+- Scottish Tartans Authority (ITI): 6593
+
 ## Thread count
 DR/24 LN16 DR24 LN44 DB4 LN12 DB12 LN4 DB44 DY24 DB16 DY/24
 ![Sett](sett.png)

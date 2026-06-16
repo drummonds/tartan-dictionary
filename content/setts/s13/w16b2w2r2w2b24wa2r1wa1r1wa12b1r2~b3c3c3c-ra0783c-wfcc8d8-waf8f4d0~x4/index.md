@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Fiona (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1187))
 - pre 2002 — Fiona (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4861/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1187](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1187)
+- Scottish Tartans Authority (ITI): 4861
+
 ## Thread count
 LT/8 N4 LY48 LT4 LY4 LT4 LY8 N96 W8 LT8 W8 N8 W/64
 ![Sett](sett.png)

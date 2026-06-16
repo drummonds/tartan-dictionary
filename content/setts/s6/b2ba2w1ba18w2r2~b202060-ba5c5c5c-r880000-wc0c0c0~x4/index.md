@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1995 — St. Giles Cathedral (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3220/))
 - undated — St. Giles Cathedral (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4970))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4970](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4970)
+- Scottish Tartans Authority (ITI): 3220
+
 ## Thread count
 DB/8 N8 Na4 N72 Na8 DR/8
 ![Sett](sett.png)

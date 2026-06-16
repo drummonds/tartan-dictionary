@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/06/2007 — McPartlin (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901))
 - June 2007 — McPartlin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7244/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2901](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901)
+- Scottish Tartans Authority (ITI): 7244
+
 ## Thread count
 K/54 LY58 K10 LY28 R/4
 ![Sett](sett.png)

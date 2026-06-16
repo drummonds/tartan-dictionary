@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2006 — Nova Scotia Int. Tattoo (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7476/))
 - undated — Nova Scotia International Tatoo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5518))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5518)
+- Scottish Tartans Authority (ITI): 7476
+
 ## Thread count
 DB/6 B4 DB42 K24 DG48 R2 DY/6
 ![Sett](sett.png)

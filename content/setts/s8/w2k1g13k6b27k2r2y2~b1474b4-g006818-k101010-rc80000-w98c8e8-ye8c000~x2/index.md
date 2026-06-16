@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2005 — German MacLeod (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1336))
 - 2005 December — German MacLeod (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6816/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1336](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1336)
+- Scottish Tartans Authority (ITI): 6816
+
 ## Thread count
 LB/4 K2 G26 K12 B54 K4 R4 Y/4
 ![Sett](sett.png)

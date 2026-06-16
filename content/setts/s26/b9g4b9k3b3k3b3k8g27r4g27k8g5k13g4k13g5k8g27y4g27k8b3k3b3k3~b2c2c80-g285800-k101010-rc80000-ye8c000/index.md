@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1819 — Stewart Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3934))
 - 1819 — Stewart Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6327/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3934](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3934)
+- Scottish Tartans Authority (ITI): 6327
+
 ## Thread count
 DB/9 Gb4 DB9 K3 DB3 K3 DB3 K8 Gb27 R4 Gb27 K8 Gb5 K13 Gb4 K13 Gb5 K8 Gb27 Y4 Gb27 K8 DB3 K3 DB3 K/3
 ![Sett](sett.png)

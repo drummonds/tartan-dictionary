@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2007 — Whisky (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4613))
 - pre 2007 — Whisky (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7267/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4613](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4613)
+- Scottish Tartans Authority (ITI): 7267
+
 ## Thread count
 DY/10 K2 LN3 K6 LT4 K2 LB8 K2 LT4 K6 LB3 B49 LTa4 K42 LT42 DY6 LT6 DY6 LT6 DY/8
 ![Sett](sett.png)

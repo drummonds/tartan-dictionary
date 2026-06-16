@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2004 — McKnight #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2893))
 - pre 2004 — McKnight (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6213/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2893](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2893)
+- Scottish Tartans Authority (ITI): 6213
+
 ## Thread count
 B/16 Y4 R112 DB96 K20 B20 K/12
 ![Sett](sett.png)

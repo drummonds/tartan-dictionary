@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1997 — Les Cercles de Fermieres du Quebec (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2101))
 - pre 1997 — Cercles de Fermieres (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2136/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2101](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2101)
+- Scottish Tartans Authority (ITI): 2136
+- Scottish Tartans World Register: 2136
+
 ## Thread count
 DB/32 DG80 LN10 DB50 G60 Y8 DG6 LN6 K8 DB30 G44 LN4 DG38 G4 T16 K8 T/32
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1800 — MacDonald of Boisdale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2350))
 - 1800-1810 — MacDonald of Boisdale (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1668/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2350](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2350)
+- Scottish Tartans Authority (ITI): 1668
+- Scottish Tartans World Register: 1668
+
 ## Thread count
 R/32 N2 DB14 N2 R8 G2 Ga14 G2 R8 G2 Ga32 G2 R52 N2 DB68 N2 R12 N2 DB14 N2 R/32
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Parr (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3297))
 - 1985 — Parr (white lines) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/439/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3297](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3297)
+- Scottish Tartans Authority (ITI): 439
+- Scottish Tartans World Register: 439
+
 ## Thread count
 B/106 R3 B4 R6 B8 K28 G8 LR4 G12 K/8
 ![Sett](sett.png)

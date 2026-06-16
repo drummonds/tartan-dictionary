@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Spirit of South Lanarkshire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5545))
 - undated — Spirit of South Lanarkshire District Tartan Tartan Number: 7507. Earliest known date: Nov 2007 This council previously used No.4017 which was designed by the late Don Smith of Heraldic Graphics. Copyright problems were experienced with his estate and the council ceased using this tartan and chose a new design from the Scottish Tartans Authority. Woven by House of Edgar and made-up by Robert Matheson of the Kilt Centre in Hamilton. The basis for this design is the Hamilton clan tartan incorporating the requested colours of blue, light blue, green, gold and black with the addition of the Hamilton red as a highlight. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7507))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5545](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5545)
+- Scottish Tartans Authority (ITI): 7507
+
 ## Thread count
 B/26 G4 B24 K16 R2 N70 DY/2
 ![Sett](sett.png)

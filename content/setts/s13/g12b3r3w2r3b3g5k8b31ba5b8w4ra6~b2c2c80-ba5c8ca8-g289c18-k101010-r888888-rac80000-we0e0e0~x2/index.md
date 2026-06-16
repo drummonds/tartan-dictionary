@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1995 — Twenty First Century (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4172))
 - 1995 — Twenty First Century (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2239/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4172](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4172)
+- Scottish Tartans Authority (ITI): 2239
+- Scottish Tartans World Register: 2239
+
 ## Thread count
 G/24 DB6 N6 LN4 N6 DB6 G10 K16 DB62 B10 DB16 LN8 R/12
 ![Sett](sett.png)

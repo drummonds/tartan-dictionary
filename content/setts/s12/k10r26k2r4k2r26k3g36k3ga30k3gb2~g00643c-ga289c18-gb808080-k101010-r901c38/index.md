@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/04/2004 — Pope of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3353))
 - undated — Pope Welsh Name Tartan Tartan Number: 6170. Earliest known date: Apr 2004 The tartan for this Welsh surname is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6170))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3353](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3353)
+- Scottish Tartans Authority (ITI): 6170
+
 ## Thread count
 K/10 DR26 K2 DR4 K2 DR26 K3 G36 K3 Ga30 K3 N/2
 ![Sett](sett.png)

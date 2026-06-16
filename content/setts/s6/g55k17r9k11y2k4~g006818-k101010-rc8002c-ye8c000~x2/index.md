@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1986 — Moran (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/675/))
 - 01/01/1987 — Moran (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3005))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3005](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3005)
+- Scottish Tartans Authority (ITI): 675
+- Scottish Tartans World Register: 675
+
 ## Thread count
 G/110 K34 R18 K22 Y4 K/8
 ![Sett](sett.png)

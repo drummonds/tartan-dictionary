@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1999 — Hammarby Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1582))
 - March 2000 — Hammarby Football Club (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2661/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1582](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1582)
+- Scottish Tartans Authority (ITI): 2661
+- Scottish Tartans World Register: 2661
+
 ## Thread count
 K/2 DY4 K2 G44 N4 G4 N4 G4 N4 G4 N4 K36 DY4 K/2
 ![Sett](sett.png)

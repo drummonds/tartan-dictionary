@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — MacGregor of Cardney (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2457))
 - c1930 — MacGregor of Cardney - 1930 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1285/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2457)
+- Scottish Tartans Authority (ITI): 1285
+- Scottish Tartans World Register: 1285
+
 ## Thread count
 LN/4 K4 G12 R8 G36 R/72
 ![Sett](sett.png)

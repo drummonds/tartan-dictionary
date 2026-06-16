@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/2000 — Alberta Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=40))
 - Jul. 2000 — Alberta Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4218/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [40](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=40)
+- Scottish Tartans Authority (ITI): 4218
+- Scottish Tartans World Register: 2729
+
 ## Thread count
 DY/4 K2 Ba36 K2 DR8 K2 G16 W38 G6 W/8
 ![Sett](sett.png)

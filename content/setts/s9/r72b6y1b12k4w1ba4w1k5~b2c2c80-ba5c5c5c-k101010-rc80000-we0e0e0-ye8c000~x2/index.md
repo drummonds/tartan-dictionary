@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 2006 — Inverness Cathedral (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7642/))
 - undated — Inverness Cathedral (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5656))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5656](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5656)
+- Scottish Tartans Authority (ITI): 7642
+
 ## Thread count
 K/10 LN2 N8 LN2 K8 DB24 Y2 DB12 R/144
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - March 2008 — Birnham, Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7599/))
 - undated — Birnham Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5623))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5623](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5623)
+- Scottish Tartans Authority (ITI): 7599
+
 ## Thread count
 K/6 W50 G32 W6 B50 W/6
 ![Sett](sett.png)

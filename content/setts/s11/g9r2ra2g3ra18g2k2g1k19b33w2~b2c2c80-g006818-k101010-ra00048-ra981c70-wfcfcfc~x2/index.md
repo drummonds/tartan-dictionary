@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1996 — Pride of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3375))
 - pre 1997 — Pride of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2469/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3375](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3375)
+- Scottish Tartans Authority (ITI): 2469
+- Scottish Tartans World Register: 2469
+
 ## Thread count
 G/18 R4 P4 G6 P36 G4 K4 G2 K38 DB66 W/4
 ![Sett](sett.png)

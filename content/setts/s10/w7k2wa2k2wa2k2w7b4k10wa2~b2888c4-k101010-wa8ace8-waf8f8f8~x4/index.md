@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2005 — Investors Group (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5320))
 - 2005 — Investors Group (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6732/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5320](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5320)
+- Scottish Tartans Authority (ITI): 6732
+- Scottish Tartans World Register: 3036
+
 ## Thread count
 LPb/28 K8 W8 K8 W8 K8 LPb28 B16 K40 W/8
 ![Sett](sett.png)

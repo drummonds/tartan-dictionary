@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2002 — Gillies Dress Blue #1 (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1343))
 - pre 2002 — Gillies Dress, Blue #1 (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/934/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1343](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1343)
+- Scottish Tartans Authority (ITI): 934
+- Scottish Tartans World Register: 934
+
 ## Thread count
 DG/8 W8 DG4 W56 K26 B20 Y10 B32 K4 R/14
 ![Sett](sett.png)

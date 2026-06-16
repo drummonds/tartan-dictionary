@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/07/1995 — Remony (Red) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3497))
 - Oct. 1995 — Red Remony (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2235/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3497](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3497)
+- Scottish Tartans Authority (ITI): 2235
+- Scottish Tartans World Register: 2235
+
 ## Thread count
 DB/4 G34 DB4 DR4 DB26 DR4 DB4 DR/34
 ![Sett](sett.png)

@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2005 — Baron of Greencastle Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6668/))
 - undated — Baron of Greencastle Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5329))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5329](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5329)
+- Scottish Tartans Authority (ITI): 6668
+- Scottish Tartans World Register: 3005
+
 ## Thread count
 DB/8 Y4 G48 Y4 K24 DB6 K4 DB4 K4 DB28 DR2 DB2 DR/6
 ![Sett](sett.png)

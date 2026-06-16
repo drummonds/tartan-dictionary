@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/03/2005 — Lions' Pride (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2124))
 - 2005 March — British Lions (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6636/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2124](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2124)
+- Scottish Tartans Authority (ITI): 6636
+
 ## Thread count
 DR/92 W4 DR4 W6 DR4 K6 DB14 K4 Y4 DR4 G16 W/6
 ![Sett](sett.png)

@@ -16,6 +16,12 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/10/2012 — MPS Emerald Society NCLEES 2012 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10711))
 - undated — MPS Emerald Society NCLEES 2012 Commemorative Tartan Tartan Number: 10711. Earliest known date: 5 October 2012 The Metropolitan Police Emerald Society was formed in 2005 and was the first law enforcement organisation from outside North America to be admitted to membership of NCLEES (National Conference of Law Enforcement Emerald Societies). During October 2012 in London, the MPS Emerald Society hosted the annual NCLEES Conference, the first time the conference has been held outside the USA. The Metropolitan Police Emerald Society tartan was designed to commemorate this historic occasion. Colours: two shades of green for the national colour of Ireland; two shades of blue - dark blue for the Thin Blue Line of Police Officers everywhere and light blue for the river Thames that flows through the City of London; yellow in recognition of the saffron kilts worn by MPS Emerald Society Pipe Band. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10711))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10711](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10711)
+
 ## Thread count
 LY/8 B20 DB10 G30 DG60 LY/8
 ![Sett](sett.png)

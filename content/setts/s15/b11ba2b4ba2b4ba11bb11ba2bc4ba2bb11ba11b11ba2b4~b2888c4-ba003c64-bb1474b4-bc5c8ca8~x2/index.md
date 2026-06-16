@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1985 — Scottish Gas (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3719))
 - 1985 — Scottish Gas (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/29/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3719](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3719)
+- Scottish Tartans Authority (ITI): 29
+- Scottish Tartans World Register: 29
+
 ## Thread count
 B/22 DB4 B8 DB4 B8 DB22 Bb22 DB4 Ba8 DB4 Bb22 DB22 B22 DB4 B/8
 ![Sett](sett.png)

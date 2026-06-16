@@ -17,6 +17,14 @@ This cloth appears in 3 source records; the oldest owns this page.
 - pre 2002 — Mariverain (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2327/))
 - undated — Mariverain Corporate Tartan Tartan Number: 2327. Earliest known date: pre 2002 Designed by Madelaine Saoie and Noella Vachon - assume that they are French Canadian. No further details at all. Asymmetrical. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2327))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2837](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2837)
+- Scottish Tartans Authority (ITI): 2327
+- Scottish Tartans World Register: 2327
+
 ## Thread count
 DB/40 DR8 DB40 G56 DB24 DY8 DB32 DR40 G16 DY16 G/16
 ![Sett](sett.png)

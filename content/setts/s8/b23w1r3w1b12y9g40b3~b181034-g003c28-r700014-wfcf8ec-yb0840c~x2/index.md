@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2007 — Pictou County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3334))
 - Feb.2007 — Pictou County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7113/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3334](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3334)
+- Scottish Tartans Authority (ITI): 7113
+
 ## Thread count
 DB/6 DG80 DY18 DBa24 W2 DR6 W2 DBa/46
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Fountain of the Strong (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1239))
 - pre 1972 — Fountain of the Strong (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4904/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1239](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1239)
+- Scottish Tartans Authority (ITI): 4904
+
 ## Thread count
 DO/12 K6 G6 K12 DR4 K4 DR4 K12 G6 DO28 R/4
 ![Sett](sett.png)

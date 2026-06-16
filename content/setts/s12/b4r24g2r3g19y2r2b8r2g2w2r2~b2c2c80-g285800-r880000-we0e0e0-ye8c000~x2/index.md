@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/12/2002 — Michael from Appin (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2943))
 - 2002 — Michael from Appin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5895/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2943](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2943)
+- Scottish Tartans Authority (ITI): 5895
+- Scottish Tartans World Register: 2954
+
 ## Thread count
 DB/8 DR48 G4 DR6 G38 Y4 DR4 DB16 DR4 G4 LN4 DR/4
 ![Sett](sett.png)

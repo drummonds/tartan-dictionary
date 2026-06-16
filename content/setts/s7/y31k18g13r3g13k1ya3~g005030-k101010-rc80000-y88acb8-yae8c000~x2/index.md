@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - Nov. 2007 — Big Sur MacLaren (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7469/))
 - undated — Big Sur MacLaren (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5514))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5514](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5514)
+- Scottish Tartans Authority (ITI): 7469
+
 ## Thread count
 B/62 K36 G26 R6 G26 K2 Y/6
 ![Sett](sett.png)

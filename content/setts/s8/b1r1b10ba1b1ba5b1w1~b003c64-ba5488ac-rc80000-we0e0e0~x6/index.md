@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - July 2008 — A2 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7722/))
 - undated — A2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5708))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5708](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5708)
+- Scottish Tartans Authority (ITI): 7722
+
 ## Thread count
 DB/6 R6 DB60 B6 DB6 B30 DB6 LN/6
 ![Sett](sett.png)

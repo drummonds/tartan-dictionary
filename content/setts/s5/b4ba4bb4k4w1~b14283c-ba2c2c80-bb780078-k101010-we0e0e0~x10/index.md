@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/02/2002 — Weston (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4609))
 - 2002 February — Weston (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5777/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4609](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4609)
+- Scottish Tartans Authority (ITI): 5777
+
 ## Thread count
 DN/40 DB40 P40 K40 LN/10
 ![Sett](sett.png)

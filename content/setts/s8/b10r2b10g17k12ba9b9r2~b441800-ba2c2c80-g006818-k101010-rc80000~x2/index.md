@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1906 — MacDuff Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2424))
 - pre 1906 — MacDuff Htg - 1906 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1654/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2424](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2424)
+- Scottish Tartans Authority (ITI): 1654
+- Scottish Tartans World Register: 1654
+
 ## Thread count
 DR/20 R4 DR20 G34 K24 DB18 DR18 R/4
 ![Sett](sett.png)

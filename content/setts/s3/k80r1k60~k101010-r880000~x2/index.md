@@ -17,6 +17,12 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 20th March 2010 — Bodog (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10194/))
 - undated — Bodog Corporate Tartan Tartan Number: 10194. Earliest known date: 20th March 2010 The red stripe which delineates the 3 and 4 inch squares, is intended to be almost invisible in certain lights. This design supercedes the original bodog.com tartan (STR ref: 306, STA ref:6889) to reflect the new brand licensing model that now controls all the intellectual property of bodogbrand.com. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10194))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10194](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194)
+
 ## Thread count
 K/120 DR2 K/160
 ![Sett](sett.png)

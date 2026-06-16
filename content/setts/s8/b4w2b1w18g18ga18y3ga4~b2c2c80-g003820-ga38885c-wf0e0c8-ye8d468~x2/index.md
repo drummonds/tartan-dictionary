@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - undated — Gigha Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5627))
 - undated — Gigha Green Fashion Tartan Tartan Number: 7603. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7603))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5627](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5627)
+- Scottish Tartans Authority (ITI): 7603
+
 ## Thread count
 DB/8 W4 DB2 W36 DG36 G36 LY6 G/8
 ![Sett](sett.png)

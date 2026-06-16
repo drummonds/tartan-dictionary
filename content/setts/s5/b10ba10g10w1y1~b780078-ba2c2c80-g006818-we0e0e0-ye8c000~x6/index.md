@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/2006 — Edelstein (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1071))
 - pre 2006 — Edelstein (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6931/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1071](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1071)
+- Scottish Tartans Authority (ITI): 6931
+
 ## Thread count
 P/60 DB60 G60 LN6 Y/6
 ![Sett](sett.png)

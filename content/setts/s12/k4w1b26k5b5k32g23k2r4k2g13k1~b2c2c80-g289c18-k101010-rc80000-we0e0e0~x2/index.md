@@ -16,6 +16,14 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 1859 — Young, Melvina (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2546/))
 - 01/05/1998 — Young, Melvina (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4800))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4800](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4800)
+- Scottish Tartans Authority (ITI): 2546
+- Scottish Tartans World Register: 2546
+
 ## Thread count
 K/2 G26 K4 R8 K4 G46 K64 DB10 K10 DB52 LN2 K/8
 ![Sett](sett.png)

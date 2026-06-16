@@ -17,6 +17,13 @@ This cloth appears in 3 source records; the oldest owns this page.
 - 1819 — Wilsons' No.060 (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/243/))
 - 1819 — Scottish Tartans Authority (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7556/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5584](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5584)
+- Scottish Tartans Authority (ITI): 7556
+
 ## Thread count
 B/8 K6 B4 DBa12 K30 R4 G32 DBa8 B4 DBa4 K/32
 ![Sett](sett.png)

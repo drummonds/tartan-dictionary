@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/01/1972 — Chalet (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=614))
 - 1972 — Chalet (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4489/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [614](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=614)
+- Scottish Tartans Authority (ITI): 4489
+
 ## Thread count
 G/16 R64 K20 R200 G16 W/4
 ![Sett](sett.png)

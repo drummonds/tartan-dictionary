@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - 01/11/2003 — Parkin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295))
 - Nov. 2003 — Parkin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6003/))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3295](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295)
+- Scottish Tartans Authority (ITI): 6003
+
 ## Thread count
 LN/6 DN18 Y2 LP6 P18 LP2 DN80 P/4
 ![Sett](sett.png)

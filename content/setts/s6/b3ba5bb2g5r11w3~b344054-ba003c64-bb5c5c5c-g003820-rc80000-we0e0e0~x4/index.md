@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2008 — Nicolson of Lewis (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7810/))
 - undated — Nicolson of Lewis (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5769))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5769](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5769)
+- Scottish Tartans Authority (ITI): 7810
+
 ## Thread count
 LN/12 R44 DG20 N8 DB20 Na/12
 ![Sett](sett.png)

@@ -16,6 +16,13 @@ This cloth appears in 2 source records; the oldest owns this page.
 - pre 2007 — Landels (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7370/))
 - undated — Landels (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5476))
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5476](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5476)
+- Scottish Tartans Authority (ITI): 7370
+
 ## Thread count
 DB/62 G4 K40 Y4 Ga/48
 ![Sett](sett.png)

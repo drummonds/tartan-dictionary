@@ -1,0 +1,13 @@
+{{/* The /sources/ index carries its whole body in the section's own content (a curated table of
+     sources), so render .Content like a single page instead of the date-grouped archive in
+     _default/list.html — same pattern as clan/list.html. */}}
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

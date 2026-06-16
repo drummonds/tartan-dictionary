@@ -107,9 +107,14 @@ weight = 1
   weight = 1
   [[menu.info]]
   parent = "info"
+  name = "Sources"
+  url = "/sources/"
+  weight = 2
+  [[menu.info]]
+  parent = "info"
   name = "About"
   url = "/about/"
-  weight = 2
+  weight = 3
 
 [params.social]
   github = "https://github.com/Drummonds"

@@ -188,13 +188,13 @@ body.container a {
    driven by js/search.js. The results dropdown hangs off the input, so the nav item anchors it. */
 .nav-search {
   position: relative;
-  flex: 0 1 14rem;
+  flex: 0 1 10rem;
 }
 .nav-search input {
   width: 100%;
   font: inherit;
-  font-size: .95em;
-  padding: .25em .6em;
+  font-size: .85em;
+  padding: .2em .55em;
   border: 1px solid #0003;
   border-radius: 1em;
   background: #ffffff;
@@ -251,7 +251,7 @@ body.container a {
 .nav-dropdown-label {
   font-size: 1.2em;
   padding: 1px;
-  margin: .5em;
+  margin: .35em;
   cursor: pointer;
 }
 .nav-dropdown-caret {
@@ -297,6 +297,17 @@ body.container a {
    900px nav wraps it onto a second row. */
 .nav-right {
   margin-left: auto;
+  white-space: nowrap;
+}
+/* Social / RSS glyphs: smaller than the word links, tighter spacing. */
+.nav-right a .fab,
+.nav-right a .fas {
+  font-size: .9em;
+}
+.nav-right > a {
+  font-size: 1em;
+  margin: .25em;
+  padding: 1px;
 }
 .nav-dropdown-menu li a {
   display: block;

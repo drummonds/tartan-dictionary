@@ -34,21 +34,14 @@ pagerSize = 20
   debug = false # display the visitor counts when using 'hugo server'
 
 [menu]
-  [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
-  [[menu.main]]
-  name = "Posts"
-  url = "/posts/"
-  weight = 2
+  # No "Home" entry — the Tartan Dictionary wordmark/logo is the home link.
   # "Clan" groups the named-after-something tartans. The label is loose Scottish
   # flavour — the children are Family / Clans / Corporate / Other, not only clans.
   [[menu.main]]
   name = "Clan"
   identifier = "clan"
   url = "#"
-  weight = 3
+  weight = 1
     [[menu.main]]
     parent = "clan"
     name = "Family"
@@ -77,7 +70,7 @@ pagerSize = 20
   name = "Tartans"
   identifier = "tartans"
   url = "#"
-  weight = 4
+  weight = 2
     [[menu.main]]
     parent = "tartans"
     name = "Stripe"
@@ -88,11 +81,18 @@ pagerSize = 20
     name = "Pattern"
     url = "/pattern/"
     weight = 2
-    [[menu.main]]
-    parent = "tartans"
-    name = "TTD"
-    url = "/ttd/"
-    weight = 3
+
+  # TTD (the tartan navigator) is its own top-level entry.
+  [[menu.main]]
+  name = "TTD"
+  url = "/ttd/"
+  weight = 3
+
+  # Editorial blog (was "Posts"), sits to the right of TTD.
+  [[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 4
 
 # Right-hand "Info" menu — rendered in nav-right, beside the social icons.
 [[menu.info]]

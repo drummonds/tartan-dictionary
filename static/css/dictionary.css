@@ -61,7 +61,7 @@ body.container a {
 
 /* Stripe summary: a responsive card grid (was a markdown table whose patterns column blew out to
    the width of the longest sett). Each card's sample swatches flex-wrap within the card. */
-.stripe-summary {
+.band-summary {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -69,20 +69,46 @@ body.container a {
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr));
   gap: 1rem;
 }
-.stripe-summary li {
+.band-summary li {
   border: 1px solid #0002;
   border-radius: .4rem;
   padding: .6rem .8rem;
   min-width: 0; /* let the card shrink so swatches wrap instead of overflowing */
 }
-.stripe-summary .count {
+.band-summary .count {
   display: block;
   margin-bottom: .4rem;
   text-decoration: none;
 }
-.stripe-summary .samples {
+.band-summary .samples {
   display: flex;
   flex-wrap: wrap;
+}
+
+/* Families A–Z summary: the same responsive card grid as .band-summary, one card per letter with
+   its entry count and a few sample names, linking to the letter's full list. */
+.family-summary {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
+  gap: 1rem;
+}
+.family-summary li {
+  border: 1px solid #0002;
+  border-radius: .4rem;
+  padding: .6rem .8rem;
+  min-width: 0;
+}
+.family-summary .letter {
+  display: block;
+  margin-bottom: .4rem;
+  text-decoration: none;
+}
+.family-summary .names {
+  font-size: .85rem;
+  color: #5a5a5a;
 }
 
 /* Pagination nav for the long per-stripe-count pages. */
@@ -251,8 +277,11 @@ body.container a {
 .nav-dropdown-label {
   font-size: 1.2em;
   padding: 1px;
-  margin: .35em;
+  margin: 0;
   cursor: pointer;
+  /* The label is a <span>, so it misses `body.container a`'s link colour; mirror it
+     here so the dropdown tops (Clan/Tartans/Info) match the plain links (TTD/Blog). */
+  color: #1a4f8b;
 }
 .nav-dropdown-caret {
   font-size: .7em;
@@ -296,7 +325,9 @@ body.container a {
 /* Keep the right-hand menu (Info + social icons) flush right, even when the narrow
    900px nav wraps it onto a second row. */
 .nav-right {
-  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: .9rem;
   white-space: nowrap;
 }
 /* Social / RSS glyphs: smaller than the word links, tighter spacing. */
@@ -306,7 +337,7 @@ body.container a {
 }
 .nav-right > a {
   font-size: 1em;
-  margin: .25em;
+  margin: 0;
   padding: 1px;
 }
 .nav-dropdown-menu li a {
@@ -319,6 +350,123 @@ body.container a {
 }
 .nav-dropdown-menu li a:hover {
   background: #1a4f8b14;
+}
+
+/* ------- mobile hamburger -------
+   Hidden on desktop; the @media block below shows it and collapses the nav into a
+   stacked panel that drops below the brand row. nav.js toggles `.nav-open` on <nav>. */
+.nav-toggle {
+  display: none;
+  margin-left: auto;          /* sit at the right end of the brand row */
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0;
+  border: 1px solid #0003;
+  border-radius: .4rem;
+  background: #fff;
+  cursor: pointer;
+}
+/* Three bars: the element is the middle bar, ::before/::after are top and bottom. */
+.nav-toggle-bars,
+.nav-toggle-bars::before,
+.nav-toggle-bars::after {
+  display: block;
+  width: 1.25rem;
+  height: 2px;
+  background: #1a4f8b;
+  border-radius: 2px;
+  transition: transform .15s ease, opacity .15s ease, top .15s ease;
+}
+.nav-toggle-bars {
+  position: relative;
+}
+.nav-toggle-bars::before,
+.nav-toggle-bars::after {
+  content: "";
+  position: absolute;
+  left: 0;
+}
+.nav-toggle-bars::before { top: -6px; }
+.nav-toggle-bars::after  { top: 6px; }
+/* Open → the bars fold into an X. */
+.nav-open .nav-toggle-bars { background: transparent; }
+.nav-open .nav-toggle-bars::before { top: 0; transform: rotate(45deg); }
+.nav-open .nav-toggle-bars::after  { top: 0; transform: rotate(-45deg); }
+
+@media screen and (max-width: 760px) {
+  .nav-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  /* The collapse panel: hidden until toggled, then a full-width stacked column. */
+  .nav-collapse {
+    display: none;
+    flex-basis: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: .35rem;
+    padding-bottom: .5rem;
+  }
+  .navigation.nav-open .nav-collapse { display: flex; }
+
+  .nav-search { flex: 1 1 auto; }
+  .nav-search input { width: 100%; }
+
+  .nav-menu,
+  .nav-right {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .35rem;
+    width: 100%;
+  }
+  /* Dropdowns expand inline rather than floating, and open on tap (nav.js sets .open). */
+  .nav-dropdown { display: block; width: 100%; }
+  .nav-dropdown-menu {
+    position: static;
+    display: none;
+    box-shadow: none;
+    border: none;
+    padding: .1rem 0 .2rem 1rem;
+    min-width: 0;
+  }
+  .nav-dropdown.open .nav-dropdown-menu { display: block; }
+  .nav-dropdown--right .nav-dropdown-menu { right: auto; }
+}
+
+/* ------- holding / "coming soon" pages -------
+   Used by layout: holding for nav entries whose real section isn't built yet. A panel of
+   the committed Drummond of Perth cloth (self-contained — no generated /bg asset needed)
+   carries a centred card so "Coming soon" always sits on tartan, at any screen width. */
+.holding {
+  background-image: url('../img/drummond-of-perth.png');
+  background-repeat: repeat;
+  background-size: 200px 200px;
+  border-radius: .5rem;
+  margin: 1.5rem 0;
+  padding: clamp(3rem, 12vw, 7rem) 1rem;
+  text-align: center;
+}
+.holding-card {
+  display: inline-block;
+  max-width: 90%;
+  background: #fbfbf8;
+  border-radius: .5rem;
+  padding: 1.6rem 2.6rem;
+  box-shadow: 0 2px 18px #0004;
+}
+.holding-title {
+  margin: 0 0 .15em;
+}
+.holding-soon {
+  margin: .15em 0;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #1a4f8b;
+}
+.holding-sub {
+  margin: .45em 0 0;
+  color: #5a5a5a;
 }
 
 /* ------- tartan thumbnails (clan/family/type tier) -------

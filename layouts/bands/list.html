@@ -1,7 +1,7 @@
-{{/* Stripe summary page: the shared _default/single chrome, minus the reading-time line (it is
-     meaningless for a generated card grid) and with the date moved out of the header into the
-     footer as a "Last updated" stamp — matching the date handling on the /stripes/stripesN/ pages.
-     Keeps the .post reading-card so the page still sits well on its tartan background. */}}
+{{/* Bands summary page (/bands/, was /stripe/): the shared single-page chrome — the body is the
+     generated band-count card grid, the date moved to the footer as a "Last updated" stamp. The
+     /bands/ section is a branch (its _index.md carries the summary) over the per-count /bands/bandsN/
+     leaves, so it renders here rather than as a date-grouped archive. */}}
 {{ define "main" }}
 <article class="post">
   <header class="post-header">

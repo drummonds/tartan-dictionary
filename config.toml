@@ -73,8 +73,8 @@ pagerSize = 20
   weight = 2
     [[menu.main]]
     parent = "tartans"
-    name = "Stripe"
-    url = "/stripe/"
+    name = "Bands"
+    url = "/bands/"
     weight = 1
     [[menu.main]]
     parent = "tartans"
@@ -105,6 +105,8 @@ weight = 1
   name = "Colour"
   url = "/colour/"
   weight = 1
+  # Placeholder sections — "coming soon" holding pages (layout: holding) until the real
+  # Sources / Designers / Suppliers content is built. See content/{sources,designers,suppliers}/.
   [[menu.info]]
   parent = "info"
   name = "Sources"
@@ -112,9 +114,19 @@ weight = 1
   weight = 2
   [[menu.info]]
   parent = "info"
+  name = "Designers"
+  url = "/designers/"
+  weight = 3
+  [[menu.info]]
+  parent = "info"
+  name = "Suppliers"
+  url = "/suppliers/"
+  weight = 4
+  [[menu.info]]
+  parent = "info"
   name = "About"
   url = "/about/"
-  weight = 3
+  weight = 5
 
 [params.social]
   github = "https://github.com/Drummonds"

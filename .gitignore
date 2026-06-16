@@ -14,3 +14,5 @@ WOW/
 content/setts/.render-manifest.tsv
 
 .vscode/
+
+.tp-release-comment

@@ -4,7 +4,15 @@
     <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
     {{ end }}
     <div class="nav-item nav-title">
-      <a href="{{ .Site.BaseURL }}"> {{ .Site.Title }}</a>
+      <a href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Title }} — home">
+        <img class="nav-logo" src="{{ "img/logo.svg" | absURL }}" alt="{{ .Site.Title }}">
+      </a>
+    </div>
+    {{/* The wordmark/logo above is the home link, so the search box leads the menu. */}}
+    <div class="nav-item nav-search" id="site-search">
+      <input type="search" placeholder="Tartan, clan or family…" aria-label="Search tartans, clans, families and septs"
+             autocomplete="off" spellcheck="false">
+      <ul class="search-results" hidden></ul>
     </div>
     <div class="nav-item nav-menu">
       {{ range .Site.Menus.main }}
@@ -21,11 +29,6 @@
       <a href="{{ .URL }}"> {{ .Name }}</a>
       {{ end }}
       {{ end }}
-    </div>
-    <div class="nav-item nav-search" id="site-search">
-      <input type="search" placeholder="Tartan, clan or family…" aria-label="Search tartans, clans, families and septs"
-             autocomplete="off" spellcheck="false">
-      <ul class="search-results" hidden></ul>
     </div>
   </div>
   <div class="nav-item nav-right fontawesome">

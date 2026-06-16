@@ -1,0 +1,10 @@
+---
+title: "MacDonald of Denovan"
+date: 2023-03-18
+---
+A family of [Clan MacDonald](/clan/macdonald/).
+
+## Tartan
+
+<a class="tartan" href="/setts/s12/g10b2g3r4g13k13r2ga13r4ga3r2ga10~b6c0070-g285800-ga408060-k101010-r880000~x2/"><img src="/setts/s12/g10b2g3r4g13k13r2ga13r4ga3r2ga10~b6c0070-g285800-ga408060-k101010-r880000~x2/sett.png" alt="MacDonald of Denovan (Personal)" width="240"><br>MacDonald of Denovan (Personal)</a>
+

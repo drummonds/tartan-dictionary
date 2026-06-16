@@ -1,0 +1,40 @@
+---
+title: "Clan MacDonald"
+date: 2023-03-18
+---
+## Families
+
+- [MacDonald of Aird & Valley](/clan/macdonald/aird-valley/)
+- [MacDonald of Belfinlay](/clan/macdonald/belfinlay/)
+- [MacDonald of Boisdale](/clan/macdonald/boisdale/)
+- [MacDonald of Borrodale](/clan/macdonald/borrodale/)
+- [MacDonald of Clanranald](/clan/macdonald/clanranald/)
+- [MacDonald of Clanranald #2](/clan/macdonald/clanranald-2/)
+- [MacDonald of Clanranald #3](/clan/macdonald/clanranald-3/)
+- [MacDonald of Clanranald #4](/clan/macdonald/clanranald-4/)
+- [MacDonald of Clanranald #5](/clan/macdonald/clanranald-5/)
+- [MacDonald of Clanranald D](/clan/macdonald/clanranald-d/)
+- [MacDonald of Denovan](/clan/macdonald/denovan/)
+- [MacDonald of Glenaladale](/clan/macdonald/glenaladale/)
+- [MacDonald of Glenaladale #2](/clan/macdonald/glenaladale-2/)
+- [MacDonald of Glenaladale Artifact](/clan/macdonald/glenaladale-artifact/)
+- [MacDonald of Glencoe](/clan/macdonald/glencoe/)
+- [MacDonald of Glencoe #2](/clan/macdonald/glencoe-2/)
+- [MacDonald of Glencoe #3](/clan/macdonald/glencoe-3/)
+- [MacDonald of Glencoe Artifact](/clan/macdonald/glencoe-artifact/)
+- [MacDonald of Glencoe/Ardnamurchan](/clan/macdonald/glencoe-ardnamurchan/)
+- [MacDonald of Kingsburgh](/clan/macdonald/kingsburgh/)
+- [MacDonald of Kingsburgh -1746](/clan/macdonald/kingsburgh-1746/)
+- [MacDonald of Lochmaddy](/clan/macdonald/lochmaddy/)
+- [MacDonald of Pr Edward Island](/clan/macdonald/pr-edward-island/)
+- [MacDonald of Prince Edward Island](/clan/macdonald/prince-edward-island/)
+- [MacDonald of Sleat](/clan/macdonald/sleat/)
+- [MacDonald of Staffa](/clan/macdonald/staffa/)
+- [MacDonald of Staffa #2](/clan/macdonald/staffa-2/)
+- [MacDonald of Staffa #3](/clan/macdonald/staffa-3/)
+- [MacDonald of Staffa #5](/clan/macdonald/staffa-5/)
+- [MacDonald of Staffa #6](/clan/macdonald/staffa-6/)
+- [MacDonald of The Isles](/clan/macdonald/the-isles/)
+- [MacDonald of Vallay](/clan/macdonald/vallay/)
+- [MacDonald of the Isles VS](/clan/macdonald/the-isles-vs/)
+

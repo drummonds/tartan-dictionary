@@ -59,8 +59,10 @@ body.container a {
   color: #1a4f8b;
 }
 
-/* Stripe summary: a responsive card grid (was a markdown table whose patterns column blew out to
-   the width of the longest sett). Each card's sample swatches flex-wrap within the card. */
+/* Band summary: a responsive card grid (was a markdown table whose patterns column blew out to
+   the width of the longest sett). Each card's sample swatches flex-wrap within the card. Shared by
+   the /bands/ and /stripes/ indexes — both emit `band-summary` cards with a `.count` link over a
+   `.samples` swatch row. (Renamed from `stripe-summary` when the stripe tier became the band tier.) */
 .band-summary {
   list-style: none;
   padding: 0;
@@ -85,8 +87,9 @@ body.container a {
   flex-wrap: wrap;
 }
 
-/* Families A–Z summary: the same responsive card grid as .band-summary, one card per letter with
-   its entry count and a few sample names, linking to the letter's full list. */
+/* Families A–Z summary: the same card grid, one card per letter — a `.letter` link (the letter, its
+   count) over a `.names` row of the first few families, each linked, with a trailing "…" to the
+   letter page. Narrower cards than the band grid since each holds only a few names. */
 .family-summary {
   list-style: none;
   padding: 0;
@@ -107,8 +110,8 @@ body.container a {
   text-decoration: none;
 }
 .family-summary .names {
-  font-size: .85rem;
-  color: #5a5a5a;
+  font-size: .9rem;
+  line-height: 1.5;
 }
 
 /* Pagination nav for the long per-stripe-count pages. */

@@ -1,0 +1,49 @@
+---
+title: "Glasgow Fancy Tartan Tartan Number: 4993. Earliest known date: 1984 From Dalgliesh Dancers Fancies swatch book. Sample in STA Dalgety Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [RWRWRRRWRWRW](/stripes/rwrwrrrwrwrw/) · **Stripes:** [O W R LB R O R LB R W O LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">O W R LB R O R LB R W O LB</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4993
+
+## Thread count
+Na/6 Nb6 W30 DRa36 Na30 DRa6 Nb32 DRa6 Na30 DRa36 W30 Nb/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> `#4C0000` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.25 |
+| DRa | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| Na | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| Nb | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Glasgow Dress (Dance)](/setts/s7/o16r3lb15r18w15o3lb3~x2/) — ΔT 1.18
+1. [Wombles 1 (Corporate)](/setts/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/) — ΔT 1.37
+1. [Lysaght Dress](/setts/s12/lo6db4lo6db11w1db3w3db1w11r6w4r6~x4/) — ΔT 1.38
+1. [Toorak Chapler](/setts/s9/do3o1lr1do1o3do3lr3ly6n1~x6/) — ΔT 1.39
+1. [Lamont Heather (Corporate)](/setts/s18/do18lo3do3lo3do3lo16w16y3w16lo16do17lo3do3lo3do17lo16w16y3~x2/) — ΔT 1.49
+1. [Canice-Moodie (Personal)](/setts/s11/r3db6g5db1g1db3ly6w6ly2w6r2~x2/) — ΔT 1.50
+1. [Poulter, Pink (Corporate)](/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/) — ΔT 1.52
+1. [Robertson, dress hunting](/setts/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/) — ΔT 1.57
+1. [Culloden, Red (dress)](/setts/s8/g16p8r45w6p45w44p6w12/) — ΔT 1.59
+1. [Wombles](/setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/) — ΔT 1.61
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o16r3lb15r18w15o3lb3~x2/"><circle cx="94.3" cy="211.4" r="4" fill="#3465a4"><title>Glasgow Dress (Dance)</title></circle></a><a href="/setts/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="69.2" cy="156.9" r="4" fill="#3465a4"><title>Wombles 1 (Corporate)</title></circle></a><a href="/setts/s12/lo6db4lo6db11w1db3w3db1w11r6w4r6~x4/"><circle cx="102.1" cy="170.0" r="4" fill="#3465a4"><title>Lysaght Dress</title></circle></a><a href="/setts/s9/do3o1lr1do1o3do3lr3ly6n1~x6/"><circle cx="79.8" cy="189.8" r="4" fill="#3465a4"><title>Toorak Chapler</title></circle></a><a href="/setts/s18/do18lo3do3lo3do3lo16w16y3w16lo16do17lo3do3lo3do17lo16w16y3~x2/"><circle cx="126.9" cy="175.9" r="4" fill="#3465a4"><title>Lamont Heather (Corporate)</title></circle></a><a href="/setts/s11/r3db6g5db1g1db3ly6w6ly2w6r2~x2/"><circle cx="27.5" cy="183.7" r="4" fill="#3465a4"><title>Canice-Moodie (Personal)</title></circle></a><a href="/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/"><circle cx="130.7" cy="172.1" r="4" fill="#3465a4"><title>Poulter, Pink (Corporate)</title></circle></a><a href="/setts/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/"><circle cx="118.5" cy="147.5" r="4" fill="#3465a4"><title>Robertson, dress hunting</title></circle></a><a href="/setts/s8/g16p8r45w6p45w44p6w12/"><circle cx="142.3" cy="179.9" r="4" fill="#3465a4"><title>Culloden, Red (dress)</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><circle cx="92.7" cy="135.2" r="4" fill="#3465a4"><title>Wombles</title></circle></a><circle cx="94.0" cy="186.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/lb3o3w15r18lb15r3o16r3lb15r18w15o3~x2/

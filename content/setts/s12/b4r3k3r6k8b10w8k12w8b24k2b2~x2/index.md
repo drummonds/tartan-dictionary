@@ -1,0 +1,62 @@
+---
+title: "Trillard (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BKBWKWBKRKRB](/stripes/bkbwkwbkrkrb/) · **Stripes:** [B K B W K W B K R K R B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B W K W B K R K R B</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5455
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/2003 — Trillard (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5455))
+- pre 2004 — Trillard (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6235/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5455](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5455)
+- Scottish Tartans Authority (ITI): 6235
+- Scottish Tartans World Register: 2983
+
+## Thread count
+B/4 K4 B48 W16 K24 W16 B20 K16 R12 K6 R6 B/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [(1) Abercrombie](/setts/s9/b27w2b14k14lg4k4lg4k4lg27/) — ΔT 0.92
+1. [Hydro-Electric](/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/) — ΔT 0.97
+1. [Hogmany Plaid (Fashion)](/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/) — ΔT 1.03
+1. [McRae, Dress](/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/) — ΔT 1.04
+1. [Breifne](/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/) — ΔT 1.06
+1. [Keela](/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/) — ΔT 1.10
+1. [Bannockbane Blue #1](/setts/s8/b4lo2b13w8lo1k13lo2k4~x2/) — ΔT 1.10
+1. [Ferguson Dress Blue (Dance)](/setts/s12/w3k2w18r3w18k23t35k23w18r3w18k2~x2/) — ΔT 1.12
+1. [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/) — ΔT 1.13
+1. [Kile (No red line) (Personal)](/setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/) — ΔT 1.14
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b27w2b14k14lg4k4lg4k4lg27/"><circle cx="184.7" cy="159.5" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/"><circle cx="194.0" cy="170.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/"><circle cx="177.9" cy="141.6" r="4" fill="#3465a4"><title>Hogmany Plaid (Fashion)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.3" cy="134.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/"><circle cx="220.2" cy="167.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/"><circle cx="219.1" cy="160.1" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/setts/s8/b4lo2b13w8lo1k13lo2k4~x2/"><circle cx="149.3" cy="172.3" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/setts/s12/w3k2w18r3w18k23t35k23w18r3w18k2~x2/"><circle cx="181.3" cy="137.0" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/"><circle cx="193.6" cy="125.7" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/"><circle cx="158.3" cy="155.3" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><circle cx="176.6" cy="159.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/b4r3k3r6k8b10w8k12w8b24k2b2~x2/

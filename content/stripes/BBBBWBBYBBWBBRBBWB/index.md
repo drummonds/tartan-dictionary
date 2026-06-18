@@ -1,0 +1,27 @@
+---
+title: Pattern BBBBWBBYBBWBBRBBWB
+date: 2023-03-18
+aliases:
+- /patterns/bbbbwbbybbwbbrbbwb/
+---
+BBBBWBBYBBWBBRBBWB
+
+It is a 18 band tartan.
+
+
+
+## Colour Sequence
+BBBBWBBYBBWBBRBBWB
+
+
+## Tartans with this colour sequence
+
+
+
+### DT P DT T W T DT LY DT T W T DT R DT T W T <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">DT P DT T W T DT LY DT T W T DT R DT T W T</span></span>
+
+| Tartans |
+|---------------|
+| [Vilario (Personal))](/setts/s18/dt20p2dt20t10w1t10dt20ly2dt20t10w1t10dt20r2dt20t10w1t10~x2/)|
+|![Vilario (Personal)) example sett](/setts/s18/dt20p2dt20t10w1t10dt20ly2dt20t10w1t10dt20r2dt20t10w1t10~x2/sett.png)|
+

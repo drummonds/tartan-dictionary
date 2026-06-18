@@ -1,0 +1,66 @@
+---
+title: "Bannockbane Tan"
+date: 2023-03-18
+---
+**Bands:** [BYBWYBYB](/stripes/bybwybyb/) · **Stripes:** [T LY T W LY DO LY DO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="seq">T LY T W LY DO LY DO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=206
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — Bannockbane Tan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=206))
+- pre 1975 — Bannockbane, Tan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/669/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=206)
+- Scottish Tartans Authority (ITI): 669
+- Scottish Tartans World Register: 669
+
+## Thread count
+B/8 Y4 B26 LN26 Y2 DR26 Y4 DR/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DR | <code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> `#441800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "B/8 Y4 B26 LN26 Y2 DR26 Y4 DR/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bannockbane, Dark Tan](/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/) — ΔT 0.61
+1. [Bannockbane Grey #1](/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/) — ΔT 0.72
+1. [Bannockbane Hunting (MacBean and Bishop)](/setts/s8/dg3o2dg14o1w10y14o2y3~x2/) — ΔT 0.74
+1. [Robertson Dress (Dalgleish) #2](/setts/s8/db24r4g24r4w20r10g3w4~x2/) — ΔT 0.95
+1. [MacKintosh (Artefact)](/setts/s7/r5w36dp14r9g28r8dp2~x2/) — ΔT 1.00
+1. [Bannock Bane M.407](/setts/s8/db4dy3db21dy2w14o22dy3o4~x2/) — ΔT 1.01
+1. [Robertson, dress](/setts/s9/db24r4g24r4db4w20r10g3w4~x2/) — ΔT 1.01
+1. [Unidentified (ex Tony Murray)](/setts/s8/dt8w22dt5w4k24r6k2r6~x2/) — ΔT 1.03
+1. [Alexander Brothers - 2007? (Corp.)](/setts/s8/g5ly2t20w2k20w20k2w5~x2/) — ΔT 1.09
+1. [National Trust](/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/"><circle cx="164.1" cy="170.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/"><circle cx="152.3" cy="167.0" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/setts/s8/dg3o2dg14o1w10y14o2y3~x2/"><circle cx="167.9" cy="167.2" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/setts/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="106.2" cy="188.8" r="4" fill="#3465a4"><title>Robertson Dress (Dalgleish) #2</title></circle></a><a href="/setts/s7/r5w36dp14r9g28r8dp2~x2/"><circle cx="167.1" cy="156.6" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/setts/s8/db4dy3db21dy2w14o22dy3o4~x2/"><circle cx="159.5" cy="166.9" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/setts/s9/db24r4g24r4db4w20r10g3w4~x2/"><circle cx="110.6" cy="182.4" r="4" fill="#3465a4"><title>Robertson, dress</title></circle></a><a href="/setts/s8/dt8w22dt5w4k24r6k2r6~x2/"><circle cx="140.3" cy="164.5" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/setts/s8/g5ly2t20w2k20w20k2w5~x2/"><circle cx="120.8" cy="153.6" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/"><circle cx="144.1" cy="169.0" r="4" fill="#3465a4"><title>National Trust</title></circle></a><circle cx="142.4" cy="168.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/do4ly2do13ly1w13t13ly2t4~x2/

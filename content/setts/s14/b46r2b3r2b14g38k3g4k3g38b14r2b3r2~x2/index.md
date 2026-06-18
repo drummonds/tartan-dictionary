@@ -1,0 +1,57 @@
+---
+title: "Greenlaw, American"
+date: 2023-03-18
+---
+**Bands:** [BRBRBGKGKGBRBR](/stripes/brbrbgkgkgbrbr/) · **Stripes:** [B R B R B G K G K G B R B R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">B R B R B G K G K G B R B R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1528
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1528)
+- Scottish Tartans Authority (ITI): 5791
+
+## Thread count
+B/92 R4 B6 R4 B28 Ga76 K6 Ga8 K6 Ga76 B28 R4 B6 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#901C38;"><span style="color:#901C38;filter:grayscale(1) invert(1) contrast(100);">#901C38</span></code> `#901C38` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| Ga | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Yarmouth NS (District)](/setts/s12/lo2t2lo1t18y2t10y10t2y18ly1y2ly2~x2/) — ΔT 1.13
+1. [Oliver Hunting](/setts/s16/k6g3ly3g3k3g22t3g5t62g5t3g22k3g3ly3g3~x2/) — ΔT 1.14
+1. [Maine, Original State of (Fashion)](/setts/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/) — ΔT 1.18
+1. [Maine State District Tartan Tartan Number: 502. Earliest known date: 1965 Maine tartan is the oldest of America's tartans. It was woven by the Maine Spinning Company which has now gone out of business. When the tartan was first introduced it was reported in the Glasgow Herald (30.12.65) that it had been 'duly accredited by the State of Maine'. The State archives, however, are unable to locate the authorization. It is now marketed by the Maine Tartan and Tweed company, who hold the copyright. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/g2r2t21db2t2db6t2db2g33r2t2~x2/) — ΔT 1.24
+1. [Johnston/Johnstone](/setts/s14/ly3g2k1g30b24k2b2k2b2k2b24g30k1g2~x2/) — ΔT 1.38
+1. [International Cricket Council](/setts/s13/b33db4b3db4b7dg2b2dg2b2dg16r2dg2r2~x2/) — ΔT 1.45
+1. [Greenlaw, American (Name)](/setts/s8/b46r2b3r2b14g38k3g4~x2/) — ΔT 1.50
+1. [Unidentified (Pahls)](/setts/s10/lo4g4db2g29w1db12g2lo16g4db2~x2/) — ΔT 1.55
+1. [Wiregrass (District)](/setts/s19/b2g3g1b4g2b2g2b2g7b2g4g1b22g8b3g4b2b1g2~x2/) — ΔT 1.57
+1. [Matheson Hunting](/setts/s21/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g4~x2/) — ΔT 1.58
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lo2t2lo1t18y2t10y10t2y18ly1y2ly2~x2/"><circle cx="343.0" cy="175.8" r="4" fill="#3465a4"><title>Yarmouth NS (District)</title></circle></a><a href="/setts/s16/k6g3ly3g3k3g22t3g5t62g5t3g22k3g3ly3g3~x2/"><circle cx="341.6" cy="130.4" r="4" fill="#3465a4"><title>Oliver Hunting</title></circle></a><a href="/setts/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/"><circle cx="321.6" cy="155.2" r="4" fill="#3465a4"><title>Maine, Original State of (Fashion)</title></circle></a><a href="/setts/s11/g2r2t21db2t2db6t2db2g33r2t2~x2/"><circle cx="317.2" cy="152.8" r="4" fill="#3465a4"><title>Maine State District Tartan Tartan Number: 502. Earliest known date: 1965 Maine tartan is the oldest of America's tartans. It was woven by the Maine Spinning Company which has now gone out of business. When the tartan was first introduced it was reported in the Glasgow Herald (30.12.65) that it had been 'duly accredited by the State of Maine'. The State archives, however, are unable to locate the authorization. It is now marketed by the Maine Tartan and Tweed company, who hold the copyright. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/ly3g2k1g30b24k2b2k2b2k2b24g30k1g2~x2/"><circle cx="344.3" cy="128.8" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/setts/s13/b33db4b3db4b7dg2b2dg2b2dg16r2dg2r2~x2/"><circle cx="381.1" cy="155.8" r="4" fill="#3465a4"><title>International Cricket Council</title></circle></a><a href="/setts/s8/b46r2b3r2b14g38k3g4~x2/"><circle cx="410.8" cy="183.2" r="4" fill="#3465a4"><title>Greenlaw, American (Name)</title></circle></a><a href="/setts/s10/lo4g4db2g29w1db12g2lo16g4db2~x2/"><circle cx="341.7" cy="150.8" r="4" fill="#3465a4"><title>Unidentified (Pahls)</title></circle></a><a href="/setts/s19/b2g3g1b4g2b2g2b2g7b2g4g1b22g8b3g4b2b1g2~x2/"><circle cx="300.3" cy="127.3" r="4" fill="#3465a4"><title>Wiregrass (District)</title></circle></a><a href="/setts/s21/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g4~x2/"><circle cx="320.9" cy="141.7" r="4" fill="#3465a4"><title>Matheson Hunting</title></circle></a><circle cx="351.5" cy="153.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/b46r2b3r2b14g38k3g4k3g38b14r2b3r2~x2/

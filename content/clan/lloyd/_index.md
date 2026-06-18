@@ -4,7 +4,7 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Lloyd of Astargus](/clan/lloyd/astargus/)
-- [Lloyd of Dolobran](/clan/lloyd/dolobran/)
-- [Lloyd of Wales](/clan/lloyd/wales/)
+- [Lloyd of Astargus](/families/lloyd-of-astargus/)
+- [Lloyd of Dolobran](/families/lloyd-of-dolobran/)
+- [Lloyd of Wales](/families/lloyd-of-wales/)
 

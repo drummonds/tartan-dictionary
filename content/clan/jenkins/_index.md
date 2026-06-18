@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Jenkins of Wales](/clan/jenkins/wales/)
+- [Jenkins of Wales](/families/jenkins-of-wales/)
 

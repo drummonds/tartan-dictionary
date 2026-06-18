@@ -1,0 +1,54 @@
+---
+title: "Scottish Heritage Preservation"
+date: 2023-03-18
+---
+**Bands:** [BKBKBKGWGKBBKBKBBKGWGKBKBK](/stripes/bkbkbkgwgkbbkbkbbkgwgkbkbk/) · **Stripes:** [DP K DP K DP K G LB G K DP DP K DP K DP DP K G LB G K DP K DP K](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">DP K DP K DP K G LB G K DP DP K DP K DP DP K G LB G K DP K DP K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3721
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3721](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3721)
+- Scottish Tartans Authority (ITI): 4107
+
+## Thread count
+K/4 P4 K4 P4 K36 G16 N4 G16 K32 P30 P2 K4 P4 K4 P2 P30 K32 G16 N4 G16 K36 P4 K4 P4 K4 P/44
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kormylo (Personal)](/setts/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9ly2~x2/) — ΔT 1.19
+1. [MacIntyre of Littleport](/setts/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3t1~x2/) — ΔT 1.23
+1. [Gwyn of Wales](/setts/s20/k3r30k2r4k2r30k3db30k35w2k35db30k3r30k2r4k2r30k3w2/) — ΔT 1.33
+1. [Cumming](/setts/s22/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3~x2/) — ΔT 1.39
+1. [Urbino](/setts/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3k1dg22k20dp20dg2dp2dg2dp2~x4/) — ΔT 1.40
+1. [Dryer](/setts/s29/db15k1db1k1db1k7r8k1ly3k1r8k7db8k1k3k1db8k7r8k1ly3k1r8k7db1k1db1k1db9~x4/) — ΔT 1.43
+1. [Cairns of Finavon](/setts/s28/db16g3db3g3db3g16db3g3db3g3db16m15db1ly3db1m15db16g15db3g3db3g15db16m15b1m3b1m15~x2/) — ΔT 1.45
+1. [Cairns of Finavon (Name)](/setts/s28/g16db3g3db3g3db16m15db1ly3db1m15db16g15db3g3db3g15db16m15b1m3b1m15db16g3db3g3db3~x2/) — ΔT 1.45
+1. [Unidentified Lindley #2](/setts/s18/ly4dg2ly1dg29db14r3db2r2db2r18db2r2db2r3db14dg29ly1dg2~x2/) — ΔT 1.47
+1. [Club World (Corporate)](/setts/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/) — ΔT 1.55
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/r9db3dg12r2db40r2dg20db2r18db2w2db2r18db2dg20r2db40r2dg12db3r9ly2~x2/"><circle cx="249.1" cy="103.3" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/setts/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3t1~x2/"><circle cx="258.9" cy="138.0" r="4" fill="#3465a4"><title>MacIntyre of Littleport</title></circle></a><a href="/setts/s20/k3r30k2r4k2r30k3db30k35w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="297.9" cy="144.9" r="4" fill="#3465a4"><title>Gwyn of Wales</title></circle></a><a href="/setts/s22/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3~x2/"><circle cx="247.6" cy="143.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/setts/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3k1dg22k20dp20dg2dp2dg2dp2~x4/"><circle cx="228.7" cy="122.2" r="4" fill="#3465a4"><title>Urbino</title></circle></a><a href="/setts/s29/db15k1db1k1db1k7r8k1ly3k1r8k7db8k1k3k1db8k7r8k1ly3k1r8k7db1k1db1k1db9~x4/"><circle cx="180.6" cy="119.3" r="4" fill="#3465a4"><title>Dryer</title></circle></a><a href="/setts/s28/db16g3db3g3db3g16db3g3db3g3db16m15db1ly3db1m15db16g15db3g3db3g15db16m15b1m3b1m15~x2/"><circle cx="212.1" cy="127.7" r="4" fill="#3465a4"><title>Cairns of Finavon</title></circle></a><a href="/setts/s28/g16db3g3db3g3db16m15db1ly3db1m15db16g15db3g3db3g15db16m15b1m3b1m15db16g3db3g3db3~x2/"><circle cx="212.1" cy="127.7" r="4" fill="#3465a4"><title>Cairns of Finavon (Name)</title></circle></a><a href="/setts/s18/ly4dg2ly1dg29db14r3db2r2db2r18db2r2db2r3db14dg29ly1dg2~x2/"><circle cx="303.2" cy="107.1" r="4" fill="#3465a4"><title>Unidentified Lindley #2</title></circle></a><a href="/setts/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/"><circle cx="234.1" cy="131.4" r="4" fill="#3465a4"><title>Club World (Corporate)</title></circle></a><circle cx="269.1" cy="121.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s26/dp22k2dp2k2dp2k18g8lb2g8k16dp15dp1k2dp2k2dp1dp15k16g8lb2g8k18dp2k2dp2k2~x2/

@@ -1,0 +1,64 @@
+---
+title: "Buffalo Plaid"
+date: 2023-03-18
+---
+**Bands:** [BK](/stripes/bk/) · **Stripes:** [DB K](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5286
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5286](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5286)
+- Scottish Tartans Authority (ITI): 3762
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Staines](/setts/s2/db12k1~x10/)
+- [Tartan Army](/setts/s2/db2k1~x4/)
+
+
+## Thread count
+DB/100 K/100
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/100 K/100 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Robin Hood/Wilson no.224/Rob Roy Hunting](/setts/s2/dg1k1~x100/) — ΔT 2.99
+1. [St. Combs Fisher Plaid](/setts/s2/b1db1~x14/) — ΔT 3.09
+1. [Rob Roy, Blue & Red (Fashion)](/setts/s2/db1r1~x100/) — ΔT 3.13
+1. [Cairnbulg & Inverllocjy Fisher Plaid](/setts/s2/db1r1~x14/) — ΔT 3.13
+1. [Wilson's No.219](/setts/s2/dg7y6~x2/) — ΔT 3.43
+1. [Glenlyon](/setts/s3/db8dg7k8~x2/) — ΔT 3.46
+1. [Hafren (Personal)](/setts/s2/g1n1~x130/) — ΔT 3.81
+1. [Wilson's No.116 (light)](/setts/s2/y9dp8~x2/) — ΔT 3.93
+1. [MacKillen Hunting](/setts/s2/g1k1~x168/) — ΔT 4.00
+1. [Tartan Army](/setts/s2/db2k1~x4/) — ΔT 4.09
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/dg1k1~x100/"><circle cx="335.9" cy="366.0" r="4" fill="#3465a4"><title>Robin Hood/Wilson no.224/Rob Roy Hunting</title></circle></a><a href="/setts/s2/b1db1~x14/"><circle cx="210.5" cy="366.0" r="4" fill="#3465a4"><title>St. Combs Fisher Plaid</title></circle></a><a href="/setts/s2/db1r1~x100/"><circle cx="236.2" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy, Blue &amp; Red (Fashion)</title></circle></a><a href="/setts/s2/db1r1~x14/"><circle cx="236.2" cy="366.0" r="4" fill="#3465a4"><title>Cairnbulg &amp; Inverllocjy Fisher Plaid</title></circle></a><a href="/setts/s2/dg7y6~x2/"><circle cx="309.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.219</title></circle></a><a href="/setts/s3/db8dg7k8~x2/"><circle cx="109.7" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon</title></circle></a><a href="/setts/s2/g1n1~x130/"><circle cx="306.1" cy="366.0" r="4" fill="#3465a4"><title>Hafren (Personal)</title></circle></a><a href="/setts/s2/y9dp8~x2/"><circle cx="233.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116 (light)</title></circle></a><a href="/setts/s2/g1k1~x168/"><circle cx="223.6" cy="366.0" r="4" fill="#3465a4"><title>MacKillen Hunting</title></circle></a><a href="/setts/s2/db2k1~x4/"><circle cx="396.9" cy="366.0" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><circle cx="288.2" cy="366.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s2/db1k1~x100/

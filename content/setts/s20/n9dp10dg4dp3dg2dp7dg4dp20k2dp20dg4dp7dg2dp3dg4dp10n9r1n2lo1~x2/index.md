@@ -1,0 +1,49 @@
+---
+title: "Michie (Name)"
+date: 2023-03-18
+---
+**Bands:** [BBGBGBGBKBGBGBGBBRBY](/stripes/bbgbgbgbkbgbgbgbbrby/) · **Stripes:** [N DP DG DP DG DP DG DP K DP DG DP DG DP DG DP N R N LO](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">N DP DG DP DG DP DG DP K DP DG DP DG DP DG DP N R N LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10042/
+
+## Thread count
+N/18 DP20 DG8 DP6 DG4 DP14 DG8 DP40 K4 DP40 DG8 DP14 DG4 DP6 DG8 DP20 N18 R2 N4 O/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#384C58;"><span style="color:#384C58;filter:grayscale(1) invert(1) contrast(100);">#384C58</span></code> `#384C58` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.10 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cordiner (Boddam)](/setts/s18/db42dt13r3dt2ly3dt2r3dt11db8dt8db26dt8db8dt8db4m3db4dt16~x2/) — ΔT 2.03
+1. [Brigid Mhairi](/setts/s8/db2dg4n11dp19db1dp19dp4o2~x2/) — ΔT 2.19
+1. [Cordiner (Name)](/setts/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2/) — ΔT 2.30
+1. [Griffith of Wales](/setts/s20/do37db17do4db8do6r2do5db2do3lo4do3db2do5r2do6db8do4db17do37lo4/) — ΔT 2.31
+1. [Pride (Wales)](/setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/) — ΔT 2.34
+1. [Silver Thistle](/setts/s12/g4db3k6db20k46o2k4o2k46db20k6db3~x2/) — ΔT 2.39
+1. [Roseline](/setts/s12/db5dg9r3db18dr80ly3dr40db18r3dg9db5w2~x2/) — ΔT 2.39
+1. [Meanwood McMain Personal Tartan Tartan Number: 6813. Earliest known date: 2005 December This was a gift from her colleagues to Dr. McMain from the meanwood Group Practice in Leeds on the occasion of her relocation to Australia after 16 years in Leeds. Designed by Maxine Scott of the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/dp30db10m5db10dp30db3dp5db3dp30db3dp5db3dp30db10m5db10~x2/) — ΔT 2.42
+1. [MacInnes Homecoming](/setts/s12/o3k19do2k2do2k2do18k3db3k3do23r3~x2/) — ΔT 2.47
+1. [Passion of Scotland, Purple (Fashion](/setts/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23db3dp2m2~x2/) — ΔT 2.49
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/db42dt13r3dt2ly3dt2r3dt11db8dt8db26dt8db8dt8db4m3db4dt16~x2/"><circle cx="394.7" cy="167.8" r="4" fill="#3465a4"><title>Cordiner (Boddam)</title></circle></a><a href="/setts/s8/db2dg4n11dp19db1dp19dp4o2~x2/"><circle cx="427.2" cy="203.5" r="4" fill="#3465a4"><title>Brigid Mhairi</title></circle></a><a href="/setts/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2/"><circle cx="376.9" cy="151.6" r="4" fill="#3465a4"><title>Cordiner (Name)</title></circle></a><a href="/setts/s20/do37db17do4db8do6r2do5db2do3lo4do3db2do5r2do6db8do4db17do37lo4/"><circle cx="462.6" cy="167.0" r="4" fill="#3465a4"><title>Griffith of Wales</title></circle></a><a href="/setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/"><circle cx="405.6" cy="188.7" r="4" fill="#3465a4"><title>Pride (Wales)</title></circle></a><a href="/setts/s12/g4db3k6db20k46o2k4o2k46db20k6db3~x2/"><circle cx="474.7" cy="172.4" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/setts/s12/db5dg9r3db18dr80ly3dr40db18r3dg9db5w2~x2/"><circle cx="443.7" cy="108.8" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/setts/s16/dp30db10m5db10dp30db3dp5db3dp30db3dp5db3dp30db10m5db10~x2/"><circle cx="457.5" cy="233.9" r="4" fill="#3465a4"><title>Meanwood McMain Personal Tartan Tartan Number: 6813. Earliest known date: 2005 December This was a gift from her colleagues to Dr. McMain from the meanwood Group Practice in Leeds on the occasion of her relocation to Australia after 16 years in Leeds. Designed by Maxine Scott of the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o3k19do2k2do2k2do18k3db3k3do23r3~x2/"><circle cx="386.0" cy="201.2" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/setts/s15/db7w1k3dp3k3db3k13dp2k2dp2k2dp23db3dp2m2~x2/"><circle cx="325.1" cy="136.7" r="4" fill="#3465a4"><title>Passion of Scotland, Purple (Fashion</title></circle></a><circle cx="434.5" cy="165.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s20/n9dp10dg4dp3dg2dp7dg4dp20k2dp20dg4dp7dg2dp3dg4dp10n9r1n2lo1~x2/

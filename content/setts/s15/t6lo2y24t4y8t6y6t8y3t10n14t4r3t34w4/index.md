@@ -1,0 +1,55 @@
+---
+title: "MatchPoint Dress"
+date: 2023-03-18
+---
+**Bands:** [BYGBGBGBGBBBRBW](/stripes/bygbgbgbgbbbrbw/) · **Stripes:** [T LO Y T Y T Y T Y T N T R T W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T LO Y T Y T Y T Y T N T R T W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10910
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10910](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10910)
+
+## Thread count
+B/6 DY2 N24 B4 N8 B6 N6 B8 N3 B10 Na14 B4 R3 B34 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5F749C;"><span style="color:#5F749C;filter:grayscale(1) invert(1) contrast(100);">#5F749C</span></code> `#5F749C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> `#808080` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.23 |
+| Na | <code style="background-color:#505050;"><span style="color:#505050;filter:grayscale(1) invert(1) contrast(100);">#505050</span></code> `#505050` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| R | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/lo3n20n4y3n3y3n3y3n4n13ly2n2ly2n3dg2n3y3~x2/) — ΔT 0.95
+1. [RAF Kinloss (Military)](/setts/s14/t10r4t44lr8t8t4lr4t4lr50t8lr6t5g4t6/) — ΔT 1.82
+1. [Sandbaggers (Corporate)](/setts/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/) — ΔT 1.90
+1. [RAF Kinloss](/setts/s24/dt5db6dt8n50dt4n4dt4k8n8dt44m4dt10m4dt44n8k8dt4n4dt4n50dt8dg6dt5ly4/) — ΔT 2.25
+1. [Long Way Down, The (Corporate)](/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/) — ΔT 2.31
+1. [Isle of Cumbrae (Corporate)](/setts/s7/k3y3r3y28n28lb2n2~x2/) — ΔT 2.34
+1. [Scottish Borderland](/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/) — ΔT 2.42
+1. [Queensferry](/setts/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2/) — ΔT 2.45
+1. [Outlander #1](/setts/s6/o52ly2n24r3lo26n4~x2/) — ΔT 2.50
+1. [Outlander #1](/setts/s6/y52ly2n24r3lo26n4~x2/) — ΔT 2.54
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/lo3n20n4y3n3y3n3y3n4n13ly2n2ly2n3dg2n3y3~x2/"><circle cx="361.8" cy="194.9" r="4" fill="#3465a4"><title>Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/t10r4t44lr8t8t4lr4t4lr50t8lr6t5g4t6/"><circle cx="327.2" cy="161.3" r="4" fill="#3465a4"><title>RAF Kinloss (Military)</title></circle></a><a href="/setts/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/"><circle cx="310.6" cy="209.2" r="4" fill="#3465a4"><title>Sandbaggers (Corporate)</title></circle></a><a href="/setts/s24/dt5db6dt8n50dt4n4dt4k8n8dt44m4dt10m4dt44n8k8dt4n4dt4n50dt8dg6dt5ly4/"><circle cx="368.9" cy="167.7" r="4" fill="#3465a4"><title>RAF Kinloss</title></circle></a><a href="/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/"><circle cx="480.9" cy="154.4" r="4" fill="#3465a4"><title>Long Way Down, The (Corporate)</title></circle></a><a href="/setts/s7/k3y3r3y28n28lb2n2~x2/"><circle cx="396.4" cy="221.6" r="4" fill="#3465a4"><title>Isle of Cumbrae (Corporate)</title></circle></a><a href="/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/"><circle cx="437.1" cy="181.9" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/setts/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2/"><circle cx="385.7" cy="188.9" r="4" fill="#3465a4"><title>Queensferry</title></circle></a><a href="/setts/s6/o52ly2n24r3lo26n4~x2/"><circle cx="409.5" cy="220.9" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s6/y52ly2n24r3lo26n4~x2/"><circle cx="424.5" cy="230.1" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><circle cx="392.0" cy="190.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/t6lo2y24t4y8t6y6t8y3t10n14t4r3t34w4/

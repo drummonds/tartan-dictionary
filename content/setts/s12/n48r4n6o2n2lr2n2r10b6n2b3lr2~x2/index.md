@@ -1,0 +1,55 @@
+---
+title: "Gabrielle"
+date: 2023-03-18
+---
+**Bands:** [BRBRBYBRBBBY](/stripes/brbrbybrbbby/) · **Stripes:** [N R N O N LR N R B N B LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">N R N O N LR N R B N B LR</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1293
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1293)
+- Scottish Tartans Authority (ITI): 4941
+
+## Thread count
+N/96 DR8 N12 LT4 N4 Na4 N4 DR20 B12 N4 B6 Na/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#3070FC;"><span style="color:#3070FC;filter:grayscale(1) invert(1) contrast(100);">#3070FC</span></code> `#3070FC` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| LT | <code style="background-color:#9C7438;"><span style="color:#9C7438;filter:grayscale(1) invert(1) contrast(100);">#9C7438</span></code> `#9C7438` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.18 |
+| N | <code style="background-color:#606060;"><span style="color:#606060;filter:grayscale(1) invert(1) contrast(100);">#606060</span></code> `#606060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#ACACAC;"><span style="color:#ACACAC;filter:grayscale(1) invert(1) contrast(100);">#ACACAC</span></code> `#ACACAC` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.19 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Orkney Heather](/setts/s14/db4lp2db2m4lp2db8lp2k2n43k2n43m2db8n2/) — ΔT 0.89
+1. [Gabrielle (Fashion)](/setts/s12/n48r4n6lo2n2lr2n2r10b6n2b3lr2~x2/) — ΔT 1.12
+1. [Wcwm 1445](/setts/s13/db3k1r1n24r1n4lo3db1k4r1n8r1k1~x4/) — ΔT 1.38
+1. [Stuart/Stewart Silver](/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/) — ΔT 1.44
+1. [Fermanagh (1990)](/setts/s9/n44do4n1k1n4y4k1db4do4~x2/) — ΔT 1.54
+1. [Stuart Silver Commemorative Tartan Tartan Number: 1281. Earliest known date: 1977 1977 Jubilee tartan NOT accepted. No official jubilee tartan was adopted for the occasion. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/) — ΔT 1.56
+1. [Diana, hunting Plaid](/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/) — ΔT 1.57
+1. [Craven County Commemorative Tartan Tartan Number: 10679. Earliest known date: 21 August 2012 2012 marks the 300th year of Craven County, North Carolina, USA. The 300th Anniversary District 2 Committee, under the leadership of Chairperson, Kelly Beasley, voted for a Craven County Tartan to represent the large number of Craven County residents with Scottish heritage. The colours are drawn from the Craven County Coat of Arms, the waterways, rivers and streams, sky, colonial history, governors, royalty, the military, education, and the agricultural background of the county, as well as forestry, tobacco, indigo, and its many other crops. Brian Dodds designed the tartan, submitting four ideas of which the District 2 committee selected Pattern #2. The tartan has been approved by the Craven County 300th Anniversary Committee and the Craven County Board of Commissioners, with the Board signing a resolution on 16 April, 2012. Ila McIlwean White-Lewis volunteered to pay to register the tartan and to have sufficient tartan woven for a banner to be displayed in the Craven County Courthouse. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/n46lo1do5lo1dg5lo1dp5lo1n16r1lo4~x2/) — ΔT 1.59
+1. [Bartlett, Chris (Personal)](/setts/s13/r4y40dt12y2dt12y30k2y4k2y4y2y3k3~x2/) — ΔT 1.63
+1. [Portree, Check](/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/) — ΔT 1.64
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db4lp2db2m4lp2db8lp2k2n43k2n43m2db8n2/"><circle cx="487.5" cy="128.6" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><a href="/setts/s12/n48r4n6lo2n2lr2n2r10b6n2b3lr2~x2/"><circle cx="518.9" cy="142.7" r="4" fill="#3465a4"><title>Gabrielle (Fashion)</title></circle></a><a href="/setts/s13/db3k1r1n24r1n4lo3db1k4r1n8r1k1~x4/"><circle cx="450.4" cy="117.6" r="4" fill="#3465a4"><title>Wcwm 1445</title></circle></a><a href="/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/"><circle cx="448.9" cy="97.6" r="4" fill="#3465a4"><title>Stuart/Stewart Silver</title></circle></a><a href="/setts/s9/n44do4n1k1n4y4k1db4do4~x2/"><circle cx="578.9" cy="129.0" r="4" fill="#3465a4"><title>Fermanagh (1990)</title></circle></a><a href="/setts/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/"><circle cx="457.9" cy="101.1" r="4" fill="#3465a4"><title>Stuart Silver Commemorative Tartan Tartan Number: 1281. Earliest known date: 1977 1977 Jubilee tartan NOT accepted. No official jubilee tartan was adopted for the occasion. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="400.2" cy="102.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s11/n46lo1do5lo1dg5lo1dp5lo1n16r1lo4~x2/"><circle cx="511.9" cy="89.0" r="4" fill="#3465a4"><title>Craven County Commemorative Tartan Tartan Number: 10679. Earliest known date: 21 August 2012 2012 marks the 300th year of Craven County, North Carolina, USA. The 300th Anniversary District 2 Committee, under the leadership of Chairperson, Kelly Beasley, voted for a Craven County Tartan to represent the large number of Craven County residents with Scottish heritage. The colours are drawn from the Craven County Coat of Arms, the waterways, rivers and streams, sky, colonial history, governors, royalty, the military, education, and the agricultural background of the county, as well as forestry, tobacco, indigo, and its many other crops. Brian Dodds designed the tartan, submitting four ideas of which the District 2 committee selected Pattern #2. The tartan has been approved by the Craven County 300th Anniversary Committee and the Craven County Board of Commissioners, with the Board signing a resolution on 16 April, 2012. Ila McIlwean White-Lewis volunteered to pay to register the tartan and to have sufficient tartan woven for a banner to be displayed in the Craven County Courthouse. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r4y40dt12y2dt12y30k2y4k2y4y2y3k3~x2/"><circle cx="487.5" cy="166.2" r="4" fill="#3465a4"><title>Bartlett, Chris (Personal)</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.5" cy="126.8" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><circle cx="489.7" cy="125.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/n48r4n6o2n2lr2n2r10b6n2b3lr2~x2/

@@ -1,0 +1,66 @@
+---
+title: "Caledonian Maple (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [RGGGRGR](/stripes/rgggrgr/) · **Stripes:** [O DY DG Y R DG R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">O DY DG Y R DG R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3782/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Caledonian Maple (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3782/))
+- undated — Caledonian Maple (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4939))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4939](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4939)
+- Scottish Tartans Authority (ITI): 3782
+
+## Thread count
+DR/44 G4 DR12 LT28 G28 T20 DY/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#8C0000;"><span style="color:#8C0000;filter:grayscale(1) invert(1) contrast(100);">#8C0000</span></code> `#8C0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.14 |
+| DY | <code style="background-color:#A47C00;"><span style="color:#A47C00;filter:grayscale(1) invert(1) contrast(100);">#A47C00</span></code> `#A47C00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.20 |
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| LT | <code style="background-color:#7C583C;"><span style="color:#7C583C;filter:grayscale(1) invert(1) contrast(100);">#7C583C</span></code> `#7C583C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| T | <code style="background-color:#583014;"><span style="color:#583014;filter:grayscale(1) invert(1) contrast(100);">#583014</span></code> `#583014` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DR/44 G4 DR12 LT28 G28 T20 DY/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Rowardennan](/setts/s6/k3r22dg5dg10do10dg2~x2/) — ΔT 1.31
+1. [United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dr12dy1dg12dy12ly2dy12dg12dy1dr12t2~x2/) — ΔT 1.48
+1. [Unidentified #40](/setts/s8/dy13ly3dy13dg23dy16dy13dy23r5~x2/) — ΔT 1.51
+1. [Leighton (Personal)](/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/) — ΔT 1.57
+1. [Jardine, of Castlemilk](/setts/s8/dr9o9n9r1db1o9db1r1~x4/) — ΔT 1.59
+1. [Leighton (Personal)](/setts/s8/dr20lo4dr20g35do20dy16dr28r8/) — ΔT 1.59
+1. [Pubcrawlers (Corporate)](/setts/s7/g3dy4g2dy22n5r16ly3~x2/) — ΔT 1.72
+1. [Maple Leaf (District)](/setts/s12/r15g3r3g19dy6y6o6g19r3g3r15y13~x2/) — ΔT 1.74
+1. [Belladrum Estate](/setts/s5/r4dg1y6y3r2~x8/) — ΔT 1.84
+1. [Clarks No.1](/setts/s10/dt5t2dt11y2dt2y6o17o9dt1o1~x2/) — ΔT 1.86
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k3r22dg5dg10do10dg2~x2/"><circle cx="297.1" cy="246.8" r="4" fill="#3465a4"><title>Rowardennan</title></circle></a><a href="/setts/s10/dr12dy1dg12dy12ly2dy12dg12dy1dr12t2~x2/"><circle cx="234.0" cy="226.1" r="4" fill="#3465a4"><title>United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dy13ly3dy13dg23dy16dy13dy23r5~x2/"><circle cx="228.7" cy="259.0" r="4" fill="#3465a4"><title>Unidentified #40</title></circle></a><a href="/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/"><circle cx="221.9" cy="240.3" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dr9o9n9r1db1o9db1r1~x4/"><circle cx="291.9" cy="233.5" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/setts/s8/dr20lo4dr20g35do20dy16dr28r8/"><circle cx="221.9" cy="242.6" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s7/g3dy4g2dy22n5r16ly3~x2/"><circle cx="317.3" cy="215.3" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/setts/s12/r15g3r3g19dy6y6o6g19r3g3r15y13~x2/"><circle cx="228.5" cy="238.1" r="4" fill="#3465a4"><title>Maple Leaf (District)</title></circle></a><a href="/setts/s5/r4dg1y6y3r2~x8/"><circle cx="274.0" cy="314.9" r="4" fill="#3465a4"><title>Belladrum Estate</title></circle></a><a href="/setts/s10/dt5t2dt11y2dt2y6o17o9dt1o1~x2/"><circle cx="259.9" cy="186.5" r="4" fill="#3465a4"><title>Clarks No.1</title></circle></a><circle cx="241.5" cy="250.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/r11dg1r3y7dg7dy5o3~x4/

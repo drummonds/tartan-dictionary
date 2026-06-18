@@ -1,0 +1,50 @@
+---
+title: "Chindecella Ruadh (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BBBRBRBR](/stripes/bbbrbrbr/) · **Stripes:** [N DB N R DB R DB R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">N DB N R DB R DB R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10253/
+
+## Thread count
+DR/20 DB8 DR8 DB8 DR46 N38 DB38 N/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> `#1C1C50` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DR/20 DB8 DR8 DB8 DR46 N38 DB38 N/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scottish Netball Association](/setts/s7/dp3dg14r2dp10dg2r14dp3~x2/) — ΔT 1.36
+1. [Chindecella Gorse (Kemete Heil)](/setts/s8/o9do4o4do4o24dy19do19dy4~x2/) — ΔT 1.38
+1. [Clare, County](/setts/s10/ly3dp2dg14r14dp2r14dp2dg14dp14r3~x2/) — ΔT 1.42
+1. [Scottish Netball (1986) (Corporate)](/setts/s7/dp3g14m2dp10g2m14dp3~x2/) — ΔT 1.48
+1. [MacArthur-Fox, dress](/setts/s6/r2db13r3db3r16t2~x4/) — ΔT 1.58
+1. [Ruben Delanghe (Personal)](/setts/s10/dg14k5db2r21dg18k4db18r9k2r12/) — ΔT 1.59
+1. [Lindsay (Chisholm Red)](/setts/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/) — ΔT 1.60
+1. [Lindsay](/setts/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/) — ΔT 1.62
+1. [Roscommon](/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/) — ΔT 1.63
+1. [McCall/MacCall](/setts/s11/dr8k5dr8dg27dr13dg3dr13o27dr8o3dr3~x2/) — ΔT 1.68
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dp3dg14r2dp10dg2r14dp3~x2/"><circle cx="243.6" cy="256.5" r="4" fill="#3465a4"><title>Scottish Netball Association</title></circle></a><a href="/setts/s8/o9do4o4do4o24dy19do19dy4~x2/"><circle cx="281.4" cy="273.8" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/setts/s10/ly3dp2dg14r14dp2r14dp2dg14dp14r3~x2/"><circle cx="232.1" cy="236.2" r="4" fill="#3465a4"><title>Clare, County</title></circle></a><a href="/setts/s7/dp3g14m2dp10g2m14dp3~x2/"><circle cx="239.8" cy="249.9" r="4" fill="#3465a4"><title>Scottish Netball (1986) (Corporate)</title></circle></a><a href="/setts/s6/r2db13r3db3r16t2~x4/"><circle cx="348.1" cy="244.8" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/setts/s10/dg14k5db2r21dg18k4db18r9k2r12/"><circle cx="242.8" cy="231.7" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/setts/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/"><circle cx="342.1" cy="251.1" r="4" fill="#3465a4"><title>Lindsay (Chisholm Red)</title></circle></a><a href="/setts/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/"><circle cx="336.5" cy="247.9" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/"><circle cx="232.4" cy="235.7" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/setts/s11/dr8k5dr8dg27dr13dg3dr13o27dr8o3dr3~x2/"><circle cx="265.7" cy="214.5" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><circle cx="290.6" cy="277.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/r10db4r4db4r23n19db19n4~x2/

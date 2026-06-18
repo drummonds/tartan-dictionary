@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Evans of Wales](/clan/evans/wales/)
+- [Evans of Wales](/families/evans-of-wales/)
 

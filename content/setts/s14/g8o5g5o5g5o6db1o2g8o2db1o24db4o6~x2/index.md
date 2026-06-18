@@ -1,0 +1,67 @@
+---
+title: "MacGillivray Htg (Clan)"
+date: 2023-03-18
+---
+**Bands:** [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/) · **Stripes:** [G O G O G O DB O G O DB O DB O](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G O G O G O DB O G O DB O DB O</span></span>
+
+
+This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3371/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1970 — MacGillivray Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3371/))
+- undated — MacGillivray Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5388))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5388)
+- Scottish Tartans Authority (ITI): 3371
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [MacAlister of Glenbarr](/setts/s14/g4o2g2o2g2o3db1o1g4o1db1o12db2o3~x2/)
+
+
+## Thread count
+G/16 T10 G10 T10 G10 T12 DB2 T4 G16 T4 DB2 T48 DB8 T/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| T | <code style="background-color:#98481C;"><span style="color:#98481C;filter:grayscale(1) invert(1) contrast(100);">#98481C</span></code> `#98481C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scottish Piping Society of London](/setts/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/) — ΔT 1.01
+1. [Howells](/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/) — ΔT 1.43
+1. [Seton Hunting](/setts/s18/dy3g1dy15r2dy1r2dy1g7w1g2w1g7dy1r2dy1r2dy15g1~x4/) — ΔT 1.65
+1. [Seton Htg (Clan)](/setts/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/) — ΔT 1.65
+1. [Land's End (Unnamed Camel)](/setts/s9/o24dr2o3o6o3dr2dg15o20dr4~x2/) — ΔT 1.66
+1. [Livingstone (Australia) NSW](/setts/s12/dg12o4k1ly1o2k1ly1o4dg16o20dg2o8~x2/) — ΔT 1.71
+1. [Donachie of Brockloch (Clan)](/setts/s10/r24dg2r2dg20r25dg2r2dg2r2dg20~x2/) — ΔT 1.74
+1. [Livingston](/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/) — ΔT 1.79
+1. [Frame - Ferniegair (Personal)](/setts/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/) — ΔT 1.80
+1. [MacDonald of Aird & Valley (Clan?)](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/) — ΔT 1.81
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/"><circle cx="444.3" cy="207.9" r="4" fill="#3465a4"><title>Scottish Piping Society of London</title></circle></a><a href="/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/"><circle cx="390.8" cy="197.5" r="4" fill="#3465a4"><title>Howells</title></circle></a><a href="/setts/s18/dy3g1dy15r2dy1r2dy1g7w1g2w1g7dy1r2dy1r2dy15g1~x4/"><circle cx="376.2" cy="148.0" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><a href="/setts/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="392.2" cy="175.8" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/setts/s9/o24dr2o3o6o3dr2dg15o20dr4~x2/"><circle cx="410.6" cy="212.5" r="4" fill="#3465a4"><title>Land's End (Unnamed Camel)</title></circle></a><a href="/setts/s12/dg12o4k1ly1o2k1ly1o4dg16o20dg2o8~x2/"><circle cx="409.4" cy="179.9" r="4" fill="#3465a4"><title>Livingstone (Australia) NSW</title></circle></a><a href="/setts/s10/r24dg2r2dg20r25dg2r2dg2r2dg20~x2/"><circle cx="450.3" cy="235.0" r="4" fill="#3465a4"><title>Donachie of Brockloch (Clan)</title></circle></a><a href="/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/"><circle cx="403.0" cy="187.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><circle cx="446.6" cy="192.8" r="4" fill="#3465a4"><title>Frame - Ferniegair (Personal)</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/"><circle cx="381.1" cy="182.8" r="4" fill="#3465a4"><title>MacDonald of Aird &amp; Valley (Clan?)</title></circle></a><circle cx="446.9" cy="183.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/g8o5g5o5g5o6db1o2g8o2db1o24db4o6~x2/

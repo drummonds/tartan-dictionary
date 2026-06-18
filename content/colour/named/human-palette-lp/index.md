@@ -5,13 +5,15 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#E4A6DB;border:1px solid #0003;flex:none"></span><div><strong>Lilac</strong> · code <code>LP</code> · Human Palette · ref <code>32-04-331</code><br>sRGB <code>#E4A6DB</code> · OKLab L 0.800 a +0.088 b -0.048 · grid <code>32-04-331</code></div></div>
 
+Lilac — a light purple.
+
 The nearest named colour is **Sky** (Human Palette), 0.082 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> | [Sky](/colour/named/human-palette-lb/) | LB | Human Palette | 0.082 |
 | <code style="background-color:#FF9C97;"><span style="color:#FF9C97;filter:grayscale(1) invert(1) contrast(100);">#FF9C97</span></code> | [Pink](/colour/named/human-palette-lr/) | LR | Human Palette | 0.097 |
-| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lbg/) | LBG | Human Palette | 0.182 |
+| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lt/) | LT | Human Palette | 0.182 |
 | <code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> | [Peach](/colour/named/human-palette-lo/) | LO | Human Palette | 0.191 |
 | <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | [White](/colour/named/base-six-w/) | W | Base Six | 0.203 |
 | <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | [White](/colour/named/human-palette-w/) | W | Human Palette | 0.203 |

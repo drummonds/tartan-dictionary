@@ -1,0 +1,60 @@
+---
+title: "Matheson Hunting (Crowe 1974) (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GBGBGBWGBGBGBGBGBWGBG](/stripes/gbgbgbwgbgbgbgbgbwgbg/) · **Stripes:** [G B G B G B W G B G B G B G B G B W G B G](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G B G B G B W G B G B G B G B G B W G B G</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1974 — Matheson Hunting (Crowe 1974) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856))
+- 1974 — Matheson Htg Dance (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6368/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2856](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856)
+- Scottish Tartans Authority (ITI): 6368
+
+## Thread count
+G/32 B16 G4 B4 G4 B96 W32 G16 B4 G4 B4 G16 B32 G4 B4 G4 B4 W32 G32 B8 G/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pina (Corporate)](/setts/s16/g2db1t6db6g4r1g18db1g1r1g1db1g4db10t6db1~x4/) — ΔT 1.42
+1. [Wiregrass (District)](/setts/s19/b2g3g1b4g2b2g2b2g7b2g4g1b22g8b3g4b2b1g2~x2/) — ΔT 1.53
+1. [Finnish](/setts/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2/) — ΔT 1.55
+1. [MacDonald, Lord of the Isles](/setts/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/) — ΔT 1.55
+1. [Tiger](/setts/s16/g2db1b6db10g4db1g1r1g1db1g18r1g4db6b6db1~x4/) — ΔT 1.56
+1. [MacDonald Lord of the Isles Portrait Tartan Tartan Number: 618. Earliest known date: pre 1893 From a painting in Armadale Castle, discovered by D. W. Stewart for his book, 'Old and Rare Scottish Tartans' published in 1893. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12~x2/) — ΔT 1.60
+1. [Matheson Htg (Clan)](/setts/s21/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g2~x4/) — ΔT 1.62
+1. [Matheson Hunting](/setts/s21/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g4~x2/) — ΔT 1.64
+1. [MacDonald Lord of the Isles](/setts/s13/dg24w1dg2w2db2w1db1w1db2w2db2w1db12~x2/) — ΔT 1.68
+1. [Kelso](/setts/s22/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4dg52y16lr3y3lr3y3lr16dg4lr3y3/) — ΔT 1.70
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/g2db1t6db6g4r1g18db1g1r1g1db1g4db10t6db1~x4/"><circle cx="262.7" cy="135.4" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/setts/s19/b2g3g1b4g2b2g2b2g7b2g4g1b22g8b3g4b2b1g2~x2/"><circle cx="300.3" cy="127.3" r="4" fill="#3465a4"><title>Wiregrass (District)</title></circle></a><a href="/setts/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2/"><circle cx="290.3" cy="91.3" r="4" fill="#3465a4"><title>Finnish</title></circle></a><a href="/setts/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/"><circle cx="328.4" cy="120.0" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles</title></circle></a><a href="/setts/s16/g2db1b6db10g4db1g1r1g1db1g18r1g4db6b6db1~x4/"><circle cx="265.6" cy="138.4" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/setts/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12~x2/"><circle cx="318.2" cy="132.2" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Portrait Tartan Tartan Number: 618. Earliest known date: pre 1893 From a painting in Armadale Castle, discovered by D. W. Stewart for his book, 'Old and Rare Scottish Tartans' published in 1893. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s21/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g2~x4/"><circle cx="325.7" cy="139.4" r="4" fill="#3465a4"><title>Matheson Htg (Clan)</title></circle></a><a href="/setts/s21/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g4~x2/"><circle cx="320.9" cy="141.7" r="4" fill="#3465a4"><title>Matheson Hunting</title></circle></a><a href="/setts/s13/dg24w1dg2w2db2w1db1w1db2w2db2w1db12~x2/"><circle cx="336.1" cy="124.7" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/setts/s22/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4dg52y16lr3y3lr3y3lr16dg4lr3y3/"><circle cx="295.9" cy="118.2" r="4" fill="#3465a4"><title>Kelso</title></circle></a><circle cx="288.8" cy="114.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s21/g8b4g1b1g1b24w8g4b1g1b1g4b8g1b1g1b1w8g8b2g2~x4/

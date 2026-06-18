@@ -1,0 +1,55 @@
+---
+title: "Urbino"
+date: 2023-03-18
+---
+**Bands:** [BGBGBKGKRKGKBGBGBG](/stripes/bgbgbkgkrkgkbgbgbg/) · **Stripes:** [DP DG DP DG DP K DG K O K DG K DP DG DP DG DP DG](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">DP DG DP DG DP K DG K O K DG K DP DG DP DG DP DG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4428
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4428](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4428)
+- Scottish Tartans Authority (ITI): 4362
+
+## Thread count
+G/12 P8 G8 P8 G8 P80 K80 G88 K4 LT12 K4 G88 K80 P80 G8 P8 G8 P/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DP | <code style="background-color:#4C1864;"><span style="color:#4C1864;filter:grayscale(1) invert(1) contrast(100);">#4C1864</span></code> `#4C1864` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.12 |
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LT | <code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> `#A0783C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.18 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cork, County](/setts/s16/dg28r12dg4k20lo2k3lo2k3dg7k3lo2k3lo2k20dg4r12~x2/) — ΔT 1.20
+1. [Urbino (Fashion)](/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/) — ΔT 1.20
+1. [Applestone](/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/) — ΔT 1.23
+1. [MacIntyre](/setts/s15/b1r2db2r4dg16r2db1r4dg1r2db16r4dg2r2b1~x2/) — ΔT 1.25
+1. [MacIntyre](/setts/s15/lb1r2db2r4dg16r2db1r4dg1r2db16r4dg2r2lb1~x2/) — ΔT 1.26
+1. [New Hampshire District Tartan Tartan Number: 1102. Earliest known date: 1994 New Hampshire State Representative Steven Avery, arranged for Governor Stephen Merrill to proclaim the Tartan as the State Tartan of New Hampshire in June 1994. In January 1995, Avery introduced the bill to the NH Legislature for permanent recognition, which was passed in May, 1995. The purple represents the finch and the lilac, green the forests, black the granite mountains, white for the snow, and red for the States heroes. New Hampshire Revised Statutes Annotated (RSA) 3:21. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/) — ΔT 1.35
+1. [Kettles, Ryan & Alan (Personal)](/setts/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/) — ΔT 1.36
+1. [Cochrane Hunting](/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/) — ΔT 1.37
+1. [O'Kelly Family (Personal)](/setts/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/) — ΔT 1.39
+1. [Scottish Heritage Preservation](/setts/s26/dp22k2dp2k2dp2k18g8lb2g8k16dp15dp1k2dp2k2dp1dp15k16g8lb2g8k18dp2k2dp2k2~x2/) — ΔT 1.40
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/dg28r12dg4k20lo2k3lo2k3dg7k3lo2k3lo2k20dg4r12~x2/"><circle cx="224.7" cy="153.2" r="4" fill="#3465a4"><title>Cork, County</title></circle></a><a href="/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/"><circle cx="239.6" cy="143.5" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/"><circle cx="195.0" cy="99.2" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/setts/s15/b1r2db2r4dg16r2db1r4dg1r2db16r4dg2r2b1~x2/"><circle cx="232.8" cy="138.2" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s15/lb1r2db2r4dg16r2db1r4dg1r2db16r4dg2r2lb1~x2/"><circle cx="208.8" cy="123.3" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/"><circle cx="187.2" cy="99.2" r="4" fill="#3465a4"><title>New Hampshire District Tartan Tartan Number: 1102. Earliest known date: 1994 New Hampshire State Representative Steven Avery, arranged for Governor Stephen Merrill to proclaim the Tartan as the State Tartan of New Hampshire in June 1994. In January 1995, Avery introduced the bill to the NH Legislature for permanent recognition, which was passed in May, 1995. The purple represents the finch and the lilac, green the forests, black the granite mountains, white for the snow, and red for the States heroes. New Hampshire Revised Statutes Annotated (RSA) 3:21. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><circle cx="227.1" cy="160.8" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="197.7" cy="104.6" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/setts/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/"><circle cx="224.1" cy="92.5" r="4" fill="#3465a4"><title>O'Kelly Family (Personal)</title></circle></a><a href="/setts/s26/dp22k2dp2k2dp2k18g8lb2g8k16dp15dp1k2dp2k2dp1dp15k16g8lb2g8k18dp2k2dp2k2~x2/"><circle cx="269.1" cy="121.2" r="4" fill="#3465a4"><title>Scottish Heritage Preservation</title></circle></a><circle cx="228.7" cy="122.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3k1dg22k20dp20dg2dp2dg2dp2~x4/

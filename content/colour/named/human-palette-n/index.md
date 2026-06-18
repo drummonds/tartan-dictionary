@@ -5,12 +5,14 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#636363;border:1px solid #0003;flex:none"></span><div><strong>Grey</strong> · code <code>N</code> · Human Palette · ref <code>20-00</code><br>sRGB <code>#636363</code> · OKLab L 0.500 a +0.000 b +0.000 · grid <code>20-00</code></div></div>
 
+Grey — the mid point of the neutral spine between black and white; a late basic colour term.
+
 The nearest named colour is **Yellow** (Human Palette), 0.124 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> | [Yellow](/colour/named/human-palette-y/) | Y | Human Palette | 0.124 |
-| <code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> | [Teal](/colour/named/human-palette-bg/) | BG | Human Palette | 0.126 |
+| <code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> | [Teal](/colour/named/human-palette-t/) | T | Human Palette | 0.126 |
 | <code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> | [Orange](/colour/named/human-palette-o/) | O | Human Palette | 0.135 |
 | <code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> | [Blue](/colour/named/human-palette-b/) | B | Human Palette | 0.158 |
 | <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | [Blue](/colour/named/base-six-b/) | B | Base Six | 0.160 |

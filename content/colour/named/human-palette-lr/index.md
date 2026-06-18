@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#FF9C97;border:1px solid #0003;flex:none"></span><div><strong>Pink</strong> · code <code>LR</code> · Human Palette · ref <code>32-05-023</code><br>sRGB <code>#FF9C97</code> · OKLab L 0.793 a +0.110 b +0.047 · grid <code>32-05-023</code></div></div>
 
+Pink — a light red, and one of the eleven basic colour terms in its own right.
+
 The nearest named colour is **Lilac** (Human Palette), 0.097 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |

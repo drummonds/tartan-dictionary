@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Corcoran of Sherbrooke](/clan/corcoran/sherbrooke/)
+- [Corcoran of Sherbrooke](/families/corcoran-of-sherbrooke/)
 

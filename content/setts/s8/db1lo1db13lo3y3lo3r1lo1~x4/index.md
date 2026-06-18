@@ -1,0 +1,66 @@
+---
+title: "Glen Moray"
+date: 2023-03-18
+---
+**Bands:** [BYBYGYRY](/stripes/bybygyry/) · **Stripes:** [DB LO DB LO Y LO R LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB LO DB LO Y LO R LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1385
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2004 — Glen Moray (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1385))
+- Apr 2004 — Glen Moray (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6249/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1385](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1385)
+- Scottish Tartans Authority (ITI): 6249
+
+## Thread count
+DB/4 DY4 DB52 LTa12 LT12 LTa12 R4 LTa/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| LT | <code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> `#8C7038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| LTa | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/4 DY4 DB52 LTa12 LT12 LTa12 R4 LTa/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Falkirk](/setts/s12/db8o27ly2r3ly2o27db22k2db4k2db4k4~x2/) — ΔT 1.06
+1. [Burt #2 (Name)](/setts/s9/db8w2k8g12r2db3r2db24r2~x2/) — ΔT 1.07
+1. [St. Leonards (Corporate)](/setts/s8/r16db2o6r3k4t2db40t6~x2/) — ΔT 1.10
+1. [International Pairs (Corporate)](/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/) — ΔT 1.14
+1. [Keogh (Name)](/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/) — ΔT 1.16
+1. [Kelvinside Academy (School)](/setts/s8/w4y15db8k4db28k2db4w2/) — ΔT 1.20
+1. [Unnamed C20th - USA](/setts/s7/db2ly1db18g7r7db1g1~x2/) — ΔT 1.20
+1. [Reese (Personal)](/setts/s6/r4g2r2k5dt22w2~x4/) — ΔT 1.23
+1. [Moorpark Primary School (Corporate)](/setts/s8/db3n10db3k3w10r4n28k2~x2/) — ΔT 1.24
+1. [Singh](/setts/s8/dp3r3dp34g18lo2g18lb2r3~x2/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8o27ly2r3ly2o27db22k2db4k2db4k4~x2/"><circle cx="292.2" cy="146.9" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/setts/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="288.0" cy="171.7" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/setts/s8/r16db2o6r3k4t2db40t6~x2/"><circle cx="319.0" cy="136.5" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><a href="/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/"><circle cx="324.4" cy="143.2" r="4" fill="#3465a4"><title>International Pairs (Corporate)</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="259.2" cy="154.6" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s8/w4y15db8k4db28k2db4w2/"><circle cx="352.2" cy="186.7" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="350.6" cy="173.1" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s6/r4g2r2k5dt22w2~x4/"><circle cx="322.5" cy="177.0" r="4" fill="#3465a4"><title>Reese (Personal)</title></circle></a><a href="/setts/s8/db3n10db3k3w10r4n28k2~x2/"><circle cx="304.7" cy="150.2" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/setts/s8/dp3r3dp34g18lo2g18lb2r3~x2/"><circle cx="288.6" cy="154.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><circle cx="306.8" cy="157.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/db1lo1db13lo3y3lo3r1lo1~x4/

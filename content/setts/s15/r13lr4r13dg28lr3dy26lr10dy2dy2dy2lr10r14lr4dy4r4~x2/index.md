@@ -1,0 +1,55 @@
+---
+title: "MacPherson #9"
+date: 2023-03-18
+---
+**Bands:** [RGYRYGGGYGYGRYR](/stripes/rgyrygggygygryr/) · **Stripes:** [R DY LR R LR DY DY DY LR DY LR DG R LR R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DY LR R LR DY DY DY LR DY LR DG R LR R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2710
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2710](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2710)
+- Scottish Tartans World Register: 1666
+
+## Thread count
+DR/26 N8 DR26 G56 N6 T52 N20 T4 K4 T4 N20 DR28 N8 T8 DR/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#960028;"><span style="color:#960028;filter:grayscale(1) invert(1) contrast(100);">#960028</span></code> `#960028` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#2A2303;"><span style="color:#2A2303;filter:grayscale(1) invert(1) contrast(100);">#2A2303</span></code> `#2A2303` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.21 |
+| N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.18 |
+| T | <code style="background-color:#503C14;"><span style="color:#503C14;filter:grayscale(1) invert(1) contrast(100);">#503C14</span></code> `#503C14` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacPherson 1](/setts/s15/r13lr4r13g28lr3o26lr10o2dr2o2lr10r14lr4o4r4~x2/) — ΔT 0.57
+1. [Stuart/Stewart Riding Cloak](/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/) — ΔT 1.03
+1. [Norwich No.056](/setts/s16/r5db1r5g13db8t5r5w1db3w1r5t5db8g13r5db1~x2/) — ΔT 1.09
+1. [Fitzsimmons Red (Name)](/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/) — ΔT 1.17
+1. [Bridge of Weir Leather Co. (Corp)](/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/) — ΔT 1.17
+1. [Scottish Wildcat](/setts/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/) — ΔT 1.17
+1. [Pope (Welsh Name)](/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/) — ΔT 1.18
+1. [Devon 2000](/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/) — ΔT 1.18
+1. [Callum, Brown (Fashion)](/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/) — ΔT 1.19
+1. [Clarks No. 1 (Fashion)](/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r13lr4r13g28lr3o26lr10o2dr2o2lr10r14lr4o4r4~x2/"><circle cx="166.6" cy="140.3" r="4" fill="#3465a4"><title>MacPherson 1</title></circle></a><a href="/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/"><circle cx="174.5" cy="131.5" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/setts/s16/r5db1r5g13db8t5r5w1db3w1r5t5db8g13r5db1~x2/"><circle cx="129.5" cy="152.4" r="4" fill="#3465a4"><title>Norwich No.056</title></circle></a><a href="/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/"><circle cx="156.6" cy="174.5" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/"><circle cx="136.2" cy="156.6" r="4" fill="#3465a4"><title>Bridge of Weir Leather Co. (Corp)</title></circle></a><a href="/setts/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/"><circle cx="179.2" cy="116.2" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/"><circle cx="203.4" cy="128.8" r="4" fill="#3465a4"><title>Pope (Welsh Name)</title></circle></a><a href="/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/"><circle cx="141.3" cy="123.0" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/"><circle cx="204.7" cy="145.6" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/"><circle cx="183.7" cy="144.0" r="4" fill="#3465a4"><title>Clarks No. 1 (Fashion)</title></circle></a><circle cx="162.9" cy="140.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/

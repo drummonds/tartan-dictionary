@@ -1,0 +1,52 @@
+---
+title: "Scottish Prison Service (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [RWBKGRKW](/stripes/rwbkgrkw/) · **Stripes:** [R W B K G R K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W B K G R K W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/6595/
+
+## Thread count
+LN/6 K2 R8 G40 K6 B60 LN8 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/6 K2 R8 G40 K6 B60 LN8 R/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Caskie](/setts/s7/ly3k1g12r7t25k1w3~x2/) — ΔT 1.11
+1. [Scottish Prison Service](/setts/s14/w4b30k3g20r4k1w3k1r4g20k3b30w4r2~x2/) — ΔT 1.18
+1. [Nova Scotia (Province)](/setts/s9/w2db20g2g2g2g4g8ly2r1~x2/) — ΔT 1.27
+1. [German MacLeod](/setts/s8/lb2k1g13k6b27k2r2ly2~x2/) — ΔT 1.35
+1. [Southwell (Australian) (Personal)](/setts/s8/g39r2w1r2db14w14g2g10~x2/) — ΔT 1.37
+1. [Chalk (Personal)](/setts/s11/dt2w5dt5y11w5dg12t1dg2t26dg2dt2~x2/) — ΔT 1.38
+1. [Presley of Lonmay](/setts/s7/k2lb25k2b8k2g28ly2~x2/) — ΔT 1.38
+1. [Dinwiddie Clan Tartan Tartan Number: 3212. Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/ly4o2k2o42k13g25o6k2r4k2~x2/) — ΔT 1.38
+1. [Heriot Watt University](/setts/s10/g4ly1t3db15g2r2g14db1t28db2~x2/) — ΔT 1.40
+1. [Ferguson of Atholl Clan](/setts/s7/b24k8g8r2g8k1w2~x2/) — ΔT 1.45
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly3k1g12r7t25k1w3~x2/"><circle cx="242.2" cy="119.1" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/setts/s14/w4b30k3g20r4k1w3k1r4g20k3b30w4r2~x2/"><circle cx="252.3" cy="99.7" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/setts/s9/w2db20g2g2g2g4g8ly2r1~x2/"><circle cx="231.0" cy="114.0" r="4" fill="#3465a4"><title>Nova Scotia (Province)</title></circle></a><a href="/setts/s8/lb2k1g13k6b27k2r2ly2~x2/"><circle cx="263.7" cy="112.4" r="4" fill="#3465a4"><title>German MacLeod</title></circle></a><a href="/setts/s8/g39r2w1r2db14w14g2g10~x2/"><circle cx="253.9" cy="101.5" r="4" fill="#3465a4"><title>Southwell (Australian) (Personal)</title></circle></a><a href="/setts/s11/dt2w5dt5y11w5dg12t1dg2t26dg2dt2~x2/"><circle cx="185.8" cy="117.9" r="4" fill="#3465a4"><title>Chalk (Personal)</title></circle></a><a href="/setts/s7/k2lb25k2b8k2g28ly2~x2/"><circle cx="218.1" cy="154.0" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><a href="/setts/s10/ly4o2k2o42k13g25o6k2r4k2~x2/"><circle cx="267.5" cy="115.2" r="4" fill="#3465a4"><title>Dinwiddie Clan Tartan Tartan Number: 3212. Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g4ly1t3db15g2r2g14db1t28db2~x2/"><circle cx="231.1" cy="102.4" r="4" fill="#3465a4"><title>Heriot Watt University</title></circle></a><a href="/setts/s7/b24k8g8r2g8k1w2~x2/"><circle cx="253.7" cy="157.0" r="4" fill="#3465a4"><title>Ferguson of Atholl Clan</title></circle></a><circle cx="252.7" cy="115.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/w3k1r4g20k3b30w4r2~x2/

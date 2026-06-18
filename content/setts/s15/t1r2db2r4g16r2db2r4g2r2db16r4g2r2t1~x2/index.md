@@ -1,0 +1,57 @@
+---
+title: "MacIntyre of Whitehouse (Clan?)"
+date: 2023-03-18
+---
+**Bands:** [BRBRGRBRGRBRGRB](/stripes/brbrgrbrgrbrgrb/) · **Stripes:** [T R DB R G R DB R G R DB R G R T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R DB R G R DB R G R DB R G R T</span></span>
+
+
+This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7805/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Glen Orchy](/setts/s15/t2r3db3r5g14r3db2r5g2r3db14r5g3r3t2~x2/)
+- [MacIntyre (of Gatehouse)](/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/)
+- [MacIntyre of Glenorchy Clan Tartan Tartan Number: 402. Earliest known date: 1850 Smiths' version is also known as MacIntyre of Whitehouse. Though different from the sett recorded by Lord Lyon it is the one most often available in modern times. Before moving to Badenoch to take protection for Clan Chattan, the MacIntyres were listed as followers of Stewart of Appin. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/)
+- [MacIntyre, and Glenorchy](/setts/s15/t1r2db2r4g16r2db1r4g1r2db16r4g2r2t1~x2/)
+
+
+## Thread count
+B/2 R4 DB4 R8 G32 R4 DB4 R8 G4 R4 DB32 R8 G4 R4 B/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#00841C;"><span style="color:#00841C;filter:grayscale(1) invert(1) contrast(100);">#00841C</span></code> `#00841C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.11 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacIntyre, and Glenorchy](/setts/s15/t1r2db2r4g16r2db1r4g1r2db16r4g2r2t1~x2/) — ΔT 0.57
+1. [Ettrick (Fashion)](/setts/s15/o4n12k12n4o18n1o1n1o2n1o2n1o4n1o4~x4/) — ΔT 0.76
+1. [MacIntyre](/setts/s15/lb1r2db2r4dg16r2db1r4dg1r2db16r4dg2r2lb1~x2/) — ΔT 0.92
+1. [MacIntyre (of Gatehouse)](/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/) — ΔT 1.04
+1. [Ladybird](/setts/s15/r20p1r1db2r1p1r4db4g2db4g2db4g19r1p2~x2/) — ΔT 1.14
+1. [Riddoch (Name)](/setts/s13/t8k1t1k1t1k8r1g14r1k8t8k1t1~x4/) — ΔT 1.14
+1. [Fraser of Lovat](/setts/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/) — ΔT 1.15
+1. [MacIntyre of Glenorchy Clan Tartan Tartan Number: 402. Earliest known date: 1850 Smiths' version is also known as MacIntyre of Whitehouse. Though different from the sett recorded by Lord Lyon it is the one most often available in modern times. Before moving to Badenoch to take protection for Clan Chattan, the MacIntyres were listed as followers of Stewart of Appin. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/) — ΔT 1.15
+1. [Unidentified (1996)](/setts/s12/g2db1r16db12g16w1g16db12r16db1g2db1~x2/) — ΔT 1.17
+1. [MacIsaac (Name?)](/setts/s13/y20k2y2k2y2k20y20lo4y20k20y20k1lo4~x2/) — ΔT 1.18
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/t1r2db2r4g16r2db1r4g1r2db16r4g2r2t1~x2/"><circle cx="232.3" cy="132.6" r="4" fill="#3465a4"><title>MacIntyre, and Glenorchy</title></circle></a><a href="/setts/s15/o4n12k12n4o18n1o1n1o2n1o2n1o4n1o4~x4/"><circle cx="197.3" cy="123.1" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/setts/s15/lb1r2db2r4dg16r2db1r4dg1r2db16r4dg2r2lb1~x2/"><circle cx="208.8" cy="123.3" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/"><circle cx="252.1" cy="137.2" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/setts/s15/r20p1r1db2r1p1r4db4g2db4g2db4g19r1p2~x2/"><circle cx="270.1" cy="114.3" r="4" fill="#3465a4"><title>Ladybird</title></circle></a><a href="/setts/s13/t8k1t1k1t1k8r1g14r1k8t8k1t1~x4/"><circle cx="196.1" cy="148.6" r="4" fill="#3465a4"><title>Riddoch (Name)</title></circle></a><a href="/setts/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="230.9" cy="159.3" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/setts/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/"><circle cx="185.7" cy="162.2" r="4" fill="#3465a4"><title>MacIntyre of Glenorchy Clan Tartan Tartan Number: 402. Earliest known date: 1850 Smiths' version is also known as MacIntyre of Whitehouse. Though different from the sett recorded by Lord Lyon it is the one most often available in modern times. Before moving to Badenoch to take protection for Clan Chattan, the MacIntyres were listed as followers of Stewart of Appin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g2db1r16db12g16w1g16db12r16db1g2db1~x2/"><circle cx="224.2" cy="162.6" r="4" fill="#3465a4"><title>Unidentified (1996)</title></circle></a><a href="/setts/s13/y20k2y2k2y2k20y20lo4y20k20y20k1lo4~x2/"><circle cx="202.7" cy="156.3" r="4" fill="#3465a4"><title>MacIsaac (Name?)</title></circle></a><circle cx="212.6" cy="129.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/t1r2db2r4g16r2db2r4g2r2db16r4g2r2t1~x2/

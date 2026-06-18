@@ -1,0 +1,57 @@
+---
+title: "Saorsa"
+date: 2023-03-18
+---
+**Bands:** [BBBBKGB](/stripes/bbbbkgb/) · **Stripes:** [DP DB DP DB K DG DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DB DP DB K DG DP</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10739
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10739](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10739)
+
+## Thread count
+DP/36 DB10 DP4 DB12 K6 DG48 DP/36
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#001A99;"><span style="color:#001A99;filter:grayscale(1) invert(1) contrast(100);">#001A99</span></code> `#001A99` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.10 |
+| DG | <code style="background-color:#003C14;"><span style="color:#003C14;filter:grayscale(1) invert(1) contrast(100);">#003C14</span></code> `#003C14` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.13 |
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DP/36 DB10 DP4 DB12 K6 DG48 DP/36 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Robert Gordon University](/setts/s6/k4r2k12db12k1lo2~x2/) — ΔT 1.15
+1. [Perthshire, New /Tourist Board](/setts/s6/db37r10dg22db11dg3r3~x2/) — ΔT 1.45
+1. [Marchmont (Personal)](/setts/s7/g1db12k12g1k12db12k1~x4/) — ΔT 1.46
+1. [Aisteach](/setts/s7/dp32dg16o14k4o6dp7k2~x2/) — ΔT 1.49
+1. [Christian Dewar (Personal)](/setts/s9/db16k2db2k2db2k6dg13ly2dg3~x2/) — ΔT 1.50
+1. [Scottish Monuments (Corporate)](/setts/s9/dt3o2dt2o3dt20n8k2n6k3~x2/) — ΔT 1.52
+1. [Gavin](/setts/s7/dr26w2dr3dt15dt26dr2dt3~x2/) — ΔT 1.52
+1. [Bouncing Blackie (Personal)](/setts/s7/dp5db8dt13g21db34dt55o3/) — ΔT 1.52
+1. [Caledonian Dragon (Corporate)](/setts/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/) — ΔT 1.53
+1. [Moray (Corporate)](/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/) — ΔT 1.53
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4r2k12db12k1lo2~x2/"><circle cx="338.6" cy="237.6" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/setts/s6/db37r10dg22db11dg3r3~x2/"><circle cx="387.7" cy="265.7" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/setts/s7/g1db12k12g1k12db12k1~x4/"><circle cx="366.8" cy="264.6" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/setts/s7/dp32dg16o14k4o6dp7k2~x2/"><circle cx="351.8" cy="235.3" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/setts/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="272.8" cy="232.1" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/setts/s9/dt3o2dt2o3dt20n8k2n6k3~x2/"><circle cx="328.7" cy="219.3" r="4" fill="#3465a4"><title>Scottish Monuments (Corporate)</title></circle></a><a href="/setts/s7/dr26w2dr3dt15dt26dr2dt3~x2/"><circle cx="412.0" cy="228.9" r="4" fill="#3465a4"><title>Gavin</title></circle></a><a href="/setts/s7/dp5db8dt13g21db34dt55o3/"><circle cx="344.5" cy="218.3" r="4" fill="#3465a4"><title>Bouncing Blackie (Personal)</title></circle></a><a href="/setts/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/"><circle cx="339.5" cy="214.6" r="4" fill="#3465a4"><title>Caledonian Dragon (Corporate)</title></circle></a><a href="/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="254.9" cy="217.0" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><circle cx="335.1" cy="248.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/dp18dg24k3db6dp2db5dp18~x2/

@@ -1,0 +1,56 @@
+---
+title: "Land's End (Unnamed Maroon) (Personal)"
+date: 2023-03-18
+---
+**Bands:** [RBKGKWKGKWBWBW](/stripes/rbkgkwkgkwbwbw/) · **Stripes:** [R DB K DG K W K DG K W T W T W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K DG K W K DG K W T W T W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5364
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5364](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5364)
+- Scottish Tartans World Register: 3067
+
+## Thread count
+LN/6 Ba4 LN14 Ba4 LN4 K14 G16 K2 LN4 K2 G16 K14 B14 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| Ba | <code style="background-color:#3C82AF;"><span style="color:#3C82AF;filter:grayscale(1) invert(1) contrast(100);">#3C82AF</span></code> `#3C82AF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKenzie Dress](/setts/s14/w3t2w7t2w2k7g8k1w2k1g8k7db7r2~x2/) — ΔT 0.22
+1. [Redgate in Connecticut (Ulster-Scots)](/setts/s14/lb6r3lb11do2lb3do2lb3k10w1k10dg9r2dg4r6~x2/) — ΔT 0.82
+1. [Coulter (Personal)](/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/) — ΔT 0.83
+1. [Clodagh, Cork](/setts/s13/w3db20ly4k9w3k3w3k3g14o9k3o4w3~x2/) — ΔT 0.88
+1. [Gordon Dress](/setts/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/) — ΔT 0.89
+1. [Gordon Dress Tartan Tartan Number: 294. Earliest known date: pre 2003 No source given See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db4k4db10k10g13ly3g13k10w4db4w16db2w3~x2/) — ΔT 0.90
+1. [Redgate (Name)](/setts/s14/lg6r3lg11dy2lg3dy2lg3k10lb1k10g9r2g4r6~x2/) — ΔT 0.91
+1. [Clodagh Cork Irish District Tartan Tartan Number: 1795. Earliest known date: 1970 In a letter from a Northern Irish bagpipe maker in 1979 it says, '...it has been established that it originated somewhere in the Bog of Allen in Southern Ireland.' However, there is a marked similarity with the King George VI tartan which is a variation of the Royal Stewart. There is also a similarity with the MacBeth tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w3db20ly4k9w3k3w3k3g14dy9k3dy4w3~x2/) — ΔT 0.91
+1. [Farquharson Dress](/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/) — ΔT 0.94
+1. [Gordon Dress (1965)](/setts/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/) — ΔT 0.95
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w3t2w7t2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="24.1" cy="149.7" r="4" fill="#3465a4"><title>MacKenzie Dress</title></circle></a><a href="/setts/s14/lb6r3lb11do2lb3do2lb3k10w1k10dg9r2dg4r6~x2/"><circle cx="61.4" cy="137.5" r="4" fill="#3465a4"><title>Redgate in Connecticut (Ulster-Scots)</title></circle></a><a href="/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/"><circle cx="27.7" cy="132.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/setts/s13/w3db20ly4k9w3k3w3k3g14o9k3o4w3~x2/"><circle cx="14.0" cy="140.8" r="4" fill="#3465a4"><title>Clodagh, Cork</title></circle></a><a href="/setts/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/"><circle cx="45.0" cy="173.9" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/setts/s13/db4k4db10k10g13ly3g13k10w4db4w16db2w3~x2/"><circle cx="42.6" cy="172.5" r="4" fill="#3465a4"><title>Gordon Dress Tartan Tartan Number: 294. Earliest known date: pre 2003 No source given See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/lg6r3lg11dy2lg3dy2lg3k10lb1k10g9r2g4r6~x2/"><circle cx="76.5" cy="146.9" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s13/w3db20ly4k9w3k3w3k3g14dy9k3dy4w3~x2/"><circle cx="26.3" cy="147.3" r="4" fill="#3465a4"><title>Clodagh Cork Irish District Tartan Tartan Number: 1795. Earliest known date: 1970 In a letter from a Northern Irish bagpipe maker in 1979 it says, '...it has been established that it originated somewhere in the Bog of Allen in Southern Ireland.' However, there is a marked similarity with the King George VI tartan which is a variation of the Royal Stewart. There is also a similarity with the MacBeth tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.3" cy="146.2" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/"><circle cx="40.1" cy="173.1" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><circle cx="26.1" cy="151.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/w3t2w7t2w2k7dg8k1w2k1dg8k7db7r2~x2/

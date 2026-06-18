@@ -1,0 +1,57 @@
+---
+title: "Sunderland"
+date: 2023-03-18
+---
+**Bands:** [BWBWRWR](/stripes/bwbwrwr/) · **Stripes:** [DB W DB W R W R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB W R W R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5953
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5953](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5953)
+- Scottish Tartans World Register: 3173
+
+## Thread count
+DB/48 LN16 DB4 LN16 DR32 LN8 DR/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#141E46;"><span style="color:#141E46;filter:grayscale(1) invert(1) contrast(100);">#141E46</span></code> `#141E46` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.16 |
+| DR | <code style="background-color:#960028;"><span style="color:#960028;filter:grayscale(1) invert(1) contrast(100);">#960028</span></code> `#960028` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/48 LN16 DB4 LN16 DR32 LN8 DR/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Laval (Tartan de..), dress](/setts/s8/db2w2db8dr8w10db2w1db1~x2/) — ΔT 1.00
+1. [Alma College](/setts/s9/g24k3g2k3g4k4m20k3m6~x2/) — ΔT 1.19
+1. [Laksaa (Manx)](/setts/s8/n22k2n2k2n2k16w16k3~x2/) — ΔT 1.21
+1. [Fraser, Arisaid](/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/) — ΔT 1.22
+1. [Hydro-Electric (Corporate)](/setts/s6/r3k1w5k4db11r1~x4/) — ΔT 1.23
+1. [Thompson/Thomson/MacTavish #2](/setts/s6/t2r12k2t6k6t1~x2/) — ΔT 1.23
+1. [Laksaa](/setts/s8/y21k2y2k2y2k15w17k3~x2/) — ΔT 1.25
+1. [Thompson Navy Trade Tartan Tartan Number: 1443. Earliest known date: Oregon Possibly designed by Councillor John Hannay himself. No other information is available. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/m3db15w13dy6db2dy2m2~x2/) — ΔT 1.26
+1. [Lindsay Dress #2](/setts/s9/w29db2w2db2w2db14m31db2m3~x2/) — ΔT 1.29
+1. [Bannock Bane M.407](/setts/s8/db4dy3db21dy2w14o22dy3o4~x2/) — ΔT 1.31
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db2w2db8dr8w10db2w1db1~x2/"><circle cx="186.8" cy="189.8" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><a href="/setts/s9/g24k3g2k3g4k4m20k3m6~x2/"><circle cx="249.2" cy="174.7" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/setts/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="215.9" cy="182.7" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="229.0" cy="147.6" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s6/r3k1w5k4db11r1~x4/"><circle cx="187.3" cy="184.9" r="4" fill="#3465a4"><title>Hydro-Electric (Corporate)</title></circle></a><a href="/setts/s6/t2r12k2t6k6t1~x2/"><circle cx="240.2" cy="206.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish #2</title></circle></a><a href="/setts/s8/y21k2y2k2y2k15w17k3~x2/"><circle cx="195.2" cy="178.3" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/setts/s7/m3db15w13dy6db2dy2m2~x2/"><circle cx="159.6" cy="189.2" r="4" fill="#3465a4"><title>Thompson Navy Trade Tartan Tartan Number: 1443. Earliest known date: Oregon Possibly designed by Councillor John Hannay himself. No other information is available. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w29db2w2db2w2db14m31db2m3~x2/"><circle cx="237.3" cy="137.7" r="4" fill="#3465a4"><title>Lindsay Dress #2</title></circle></a><a href="/setts/s8/db4dy3db21dy2w14o22dy3o4~x2/"><circle cx="159.5" cy="166.9" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><circle cx="212.4" cy="187.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/db12w4db1w4r8w2r1~x4/

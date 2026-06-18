@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Casely of Mannerston](/clan/casely/mannerston/)
+- [Casely of Mannerston](/families/casely-of-mannerston/)
 

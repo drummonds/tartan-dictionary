@@ -1,0 +1,49 @@
+---
+title: "Borders (Personal)"
+date: 2023-03-18
+---
+**Bands:** [RKWYBKWKYKRKYBKW](/stripes/rkwybkwkykrkybkw/) · **Stripes:** [R K W LR N K W K LR K R K LR N K W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W LR N K W K LR K R K LR N K W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8246/
+
+## Thread count
+LN/4 K30 N14 Na14 K2 R2 K2 Nb14 K2 LN14 K14 N14 Na14 LN2 K2 R/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| Nb | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hebridean Arisaid Red (Dance)](/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/) — ΔT 0.84
+1. [Declaration of Scottish Independence](/setts/s19/w16b38db2b6db2b4db4b2db6b2db12r16k8ly8r4ly3r2ly16r10/) — ΔT 0.85
+1. [Cribb (2016)](/setts/s16/lr2dg4n2dg12dp10m1dp10lr2m2lr2m2lr2m2lr12n1w2~x2/) — ΔT 0.86
+1. [Norwich No.014](/setts/s16/r22lt3db5ly2r2w2dg11db4w3db4dg11w2r2ly2db5lt3~x2/) — ΔT 0.94
+1. [Kennedy Dress, (Pendleton)](/setts/s17/dp2w9dt3k2dt2k2dt2k2dt3g10dp1g2dp1g2lo1g2k2~x2/) — ΔT 0.97
+1. [Quadra](/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/) — ΔT 1.00
+1. [Dalrymple of Castleton](/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/) — ΔT 1.02
+1. [Royal Scottish P.B. Assoc. (Corp.)](/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/) — ΔT 1.03
+1. [Collister Personal Tartan Tartan Number: 6757. Earliest known date: 2005 To commemorate the wedding of Laura Jenkins and Gary Collister in October 2005. Organised through The House of Tartan, Comrie, Perthshire and woven by D C Dalgliesh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/k26n2k2n2k2n10w10n6dt10lo5dt10n6w10n10k2n2k2n2~x2/) — ΔT 1.05
+1. [Crosser, Crozier](/setts/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/) — ΔT 1.05
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/"><circle cx="105.8" cy="80.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s19/w16b38db2b6db2b4db4b2db6b2db12r16k8ly8r4ly3r2ly16r10/"><circle cx="95.5" cy="70.0" r="4" fill="#3465a4"><title>Declaration of Scottish Independence</title></circle></a><a href="/setts/s16/lr2dg4n2dg12dp10m1dp10lr2m2lr2m2lr2m2lr12n1w2~x2/"><circle cx="94.2" cy="107.5" r="4" fill="#3465a4"><title>Cribb (2016)</title></circle></a><a href="/setts/s16/r22lt3db5ly2r2w2dg11db4w3db4dg11w2r2ly2db5lt3~x2/"><circle cx="83.1" cy="96.3" r="4" fill="#3465a4"><title>Norwich No.014</title></circle></a><a href="/setts/s17/dp2w9dt3k2dt2k2dt2k2dt3g10dp1g2dp1g2lo1g2k2~x2/"><circle cx="77.8" cy="116.0" r="4" fill="#3465a4"><title>Kennedy Dress, (Pendleton)</title></circle></a><a href="/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/"><circle cx="79.8" cy="102.8" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/"><circle cx="95.3" cy="107.6" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/"><circle cx="135.1" cy="93.6" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/setts/s18/k26n2k2n2k2n10w10n6dt10lo5dt10n6w10n10k2n2k2n2~x2/"><circle cx="113.4" cy="118.6" r="4" fill="#3465a4"><title>Collister Personal Tartan Tartan Number: 6757. Earliest known date: 2005 To commemorate the wedding of Laura Jenkins and Gary Collister in October 2005. Organised through The House of Tartan, Comrie, Perthshire and woven by D C Dalgliesh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="112.3" cy="127.8" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><circle cx="97.5" cy="99.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/w2k15n7lr7k1r1k1lr7k1w7k7n7lr7w1k1r1~x2/

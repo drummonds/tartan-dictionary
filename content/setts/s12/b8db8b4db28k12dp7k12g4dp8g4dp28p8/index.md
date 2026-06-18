@@ -1,0 +1,55 @@
+---
+title: "Kinloch Anderson Thistle"
+date: 2023-03-18
+---
+**Bands:** [BBBBKBKGBGBB](/stripes/bbbbkbkgbgbb/) · **Stripes:** [B DB B DB K DP K G DP G DP P](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">B DB B DB K DP K G DP G DP P</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10146
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10146](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10146)
+
+## Thread count
+B/8 DB8 B4 DB28 K12 P7 K12 G4 P8 G4 P28 Pa/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#007FFF;"><span style="color:#007FFF;filter:grayscale(1) invert(1) contrast(100);">#007FFF</span></code> `#007FFF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#00008B;"><span style="color:#00008B;filter:grayscale(1) invert(1) contrast(100);">#00008B</span></code> `#00008B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| G | <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> `#006400` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.01 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| P | <code style="background-color:#551A8B;"><span style="color:#551A8B;filter:grayscale(1) invert(1) contrast(100);">#551A8B</span></code> `#551A8B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.10 |
+| Pa | <code style="background-color:#8A2BE2;"><span style="color:#8A2BE2;filter:grayscale(1) invert(1) contrast(100);">#8A2BE2</span></code> `#8A2BE2` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Solberg-Bell Hunting](/setts/s13/k2o1lo2k1db4k1lo2db8db2db4db4w1k2~x4/) — ΔT 1.45
+1. [Scotland Forever Fashion Weavers Tartan Tartan Number: 6038. Earliest known date: pre 2003 For Alec Scott. The Lochcarron notes on this tartan say: Scotland Forever! is without doubt the best known war cry of the traditional Scottish regiments. It was most famously used by the Scots Greys on their timely and victorious charge at Waterloo in 1815. It spread throughout the ranks of the other Scottish regiments including the Royals, the 42nd and the Cameron Highlanders. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b6k3db19k6db4k3n12g4n12w2b5~x2/) — ΔT 1.46
+1. [World Corporate Golf Challenge (Corp](/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/) — ΔT 1.50
+1. [Royal Gourock Yacht Club, The](/setts/s11/db2dr5db8ly2dr3db9dr2db18db9db4w2~x2/) — ΔT 1.61
+1. [Heart of Scotland (Fashion)](/setts/s13/dp17dp3g3dp3dp4k18db17w4db17k18dp18dp3g3~x2/) — ΔT 1.68
+1. [Fulbright, Senator (Personal)](/setts/s17/db2db2t4db2t6lr4t5db2db4db6db4n2db2db12db2db3r1~x2/) — ΔT 1.69
+1. [Scotland Forever](/setts/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2/) — ΔT 1.75
+1. [Scottish Tourist Guides Association](/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/) — ΔT 1.78
+1. [Pride of Bannockburn Fashion Tartan Tartan Number: 8978. Earliest known date: 2008 Original name was Scotland the Brave (design by Dalgleish) but changed to Spirit of Bannockburn by Lochcarron. Tartan Ribbon subsequently added a white stripe and called it Pride of Bannockburn See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db20k16g3dp23m7g10m7dp23g3k16db23w2db2w2db3~x2/) — ΔT 1.79
+1. [McLion (Corporate)](/setts/s9/lo1r5db4db1g1db1g1db6w1~x4/) — ΔT 1.81
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2o1lo2k1db4k1lo2db8db2db4db4w1k2~x4/"><circle cx="131.2" cy="181.6" r="4" fill="#3465a4"><title>Solberg-Bell Hunting</title></circle></a><a href="/setts/s11/b6k3db19k6db4k3n12g4n12w2b5~x2/"><circle cx="124.3" cy="179.3" r="4" fill="#3465a4"><title>Scotland Forever Fashion Weavers Tartan Tartan Number: 6038. Earliest known date: pre 2003 For Alec Scott. The Lochcarron notes on this tartan say: Scotland Forever! is without doubt the best known war cry of the traditional Scottish regiments. It was most famously used by the Scots Greys on their timely and victorious charge at Waterloo in 1815. It spread throughout the ranks of the other Scottish regiments including the Royals, the 42nd and the Cameron Highlanders. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/"><circle cx="179.5" cy="162.3" r="4" fill="#3465a4"><title>World Corporate Golf Challenge (Corp</title></circle></a><a href="/setts/s11/db2dr5db8ly2dr3db9dr2db18db9db4w2~x2/"><circle cx="173.6" cy="178.6" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><a href="/setts/s13/dp17dp3g3dp3dp4k18db17w4db17k18dp18dp3g3~x2/"><circle cx="118.7" cy="191.6" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/setts/s17/db2db2t4db2t6lr4t5db2db4db6db4n2db2db12db2db3r1~x2/"><circle cx="183.4" cy="173.7" r="4" fill="#3465a4"><title>Fulbright, Senator (Personal)</title></circle></a><a href="/setts/s11/db6k3dt19k6dt4k3dp12g4dp12w2db5~x2/"><circle cx="142.2" cy="187.9" r="4" fill="#3465a4"><title>Scotland Forever</title></circle></a><a href="/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/"><circle cx="146.2" cy="136.5" r="4" fill="#3465a4"><title>Scottish Tourist Guides Association</title></circle></a><a href="/setts/s15/db20k16g3dp23m7g10m7dp23g3k16db23w2db2w2db3~x2/"><circle cx="114.9" cy="145.7" r="4" fill="#3465a4"><title>Pride of Bannockburn Fashion Tartan Tartan Number: 8978. Earliest known date: 2008 Original name was Scotland the Brave (design by Dalgleish) but changed to Spirit of Bannockburn by Lochcarron. Tartan Ribbon subsequently added a white stripe and called it Pride of Bannockburn See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lo1r5db4db1g1db1g1db6w1~x4/"><circle cx="137.6" cy="185.3" r="4" fill="#3465a4"><title>McLion (Corporate)</title></circle></a><circle cx="118.2" cy="191.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/

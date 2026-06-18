@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Bell of Ardbel](/clan/bell/ardbel/)
-- [Bell of the Borders](/clan/bell/the-borders/)
+- [Bell of Ardbel](/families/bell-of-ardbel/)
+- [Bell of the Borders](/families/bell-of-the-borders/)
 

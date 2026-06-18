@@ -1,0 +1,50 @@
+---
+title: "Mowbray (Moubray) Family Tartan Tartan Number: 565. Earliest known date: 1983 Designed C.1984 by Peter MacDonald for a Mr Mowbray in the USA. Sometimes woven with green in place of gray, and blue in place of azure. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BRRRR](/stripes/brrrr/) · **Stripes:** [T R O R O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">T R O R O</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=565
+
+## Thread count
+B/10 R30 N20 R4 N/32
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "B/10 R30 N20 R4 N/32 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mowbray, (Moubray)](/setts/s5/y16r2y10r15t5~x2/) — ΔT 0.26
+1. [Mowbray (Personal)](/setts/s5/n16r2n10r14t5~x2/) — ΔT 1.40
+1. [Trinity Bicycles](/setts/s5/dy4lg11dy14o30r4~x2/) — ΔT 1.79
+1. [Prince of Orange](/setts/s4/t6lo28o20t3~x2/) — ΔT 1.82
+1. [Amber Rose (Fashion)](/setts/s5/lo1o4lo4o6w1~x10/) — ΔT 1.84
+1. [Miyuki #4](/setts/s8/lo3dy8lo3dy20lo20r3lo8r3~x2/) — ΔT 2.03
+1. [Cameron, hunting](/setts/s6/o15r5o30db32o4ly3~x2/) — ΔT 2.04
+1. [Callum (Buchan) (Name)](/setts/s5/n7r1dt6r8lr1~x8/) — ΔT 2.16
+1. [Unidentified 17](/setts/s5/db16o2db16o19r4~x3/) — ΔT 2.16
+1. [Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/t6lo28dy20t3~x2/) — ΔT 2.20
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/y16r2y10r15t5~x2/"><circle cx="374.7" cy="298.4" r="4" fill="#3465a4"><title>Mowbray, (Moubray)</title></circle></a><a href="/setts/s5/n16r2n10r14t5~x2/"><circle cx="397.9" cy="317.9" r="4" fill="#3465a4"><title>Mowbray (Personal)</title></circle></a><a href="/setts/s5/dy4lg11dy14o30r4~x2/"><circle cx="317.6" cy="270.1" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><a href="/setts/s4/t6lo28o20t3~x2/"><circle cx="330.2" cy="259.5" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/setts/s5/lo1o4lo4o6w1~x10/"><circle cx="374.5" cy="285.4" r="4" fill="#3465a4"><title>Amber Rose (Fashion)</title></circle></a><a href="/setts/s8/lo3dy8lo3dy20lo20r3lo8r3~x2/"><circle cx="351.2" cy="255.9" r="4" fill="#3465a4"><title>Miyuki #4</title></circle></a><a href="/setts/s6/o15r5o30db32o4ly3~x2/"><circle cx="379.1" cy="245.0" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/setts/s5/n7r1dt6r8lr1~x8/"><circle cx="258.6" cy="262.9" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/setts/s5/db16o2db16o19r4~x3/"><circle cx="408.3" cy="307.1" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/setts/s4/t6lo28dy20t3~x2/"><circle cx="323.0" cy="261.9" r="4" fill="#3465a4"><title>Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="369.8" cy="294.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/o16r2o10r15t5~x2/

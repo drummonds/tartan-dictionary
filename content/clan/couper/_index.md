@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Couper of Gogar](/clan/couper/gogar/)
+- [Couper of Gogar](/families/couper-of-gogar/)
 

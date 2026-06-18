@@ -1,0 +1,48 @@
+---
+title: "Pino (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GGGGGGGGGGRWR](/stripes/ggggggggggrwr/) · **Stripes:** [DG G DG G G DG G DG G G R W R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG G DG G G DG G DG G G R W R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10429/
+
+## Thread count
+DR/4 LN4 DR4 G10 Gb14 Ga50 Gb14 Ga50 G10 Gb14 Ga50 Gb14 Ga/50
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| Ga | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| Gb | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gayre Bodyguard](/setts/s8/dg18r6dg75db6dg13dy35dg12db6/) — ΔT 2.18
+1. [O'Neill (Personal)](/setts/s13/dg24g2dg4g16dg1lb2dg1g16dg3ly1dg12o2dg5~x2/) — ΔT 2.46
+1. [Mack of Stoneywood Hunting (Pers.)](/setts/s11/dg18dg4t1dg5dg6dg3k1dy6k1dg25t1~x2/) — ΔT 2.59
+1. [Mack of Stoneywood Hunting (Personal)](/setts/s11/dg18dg4b1dg5dg6dg3k1dy6k1dg25b1~x2/) — ΔT 2.66
+1. [New South Wales](/setts/s14/g3lo1g3r1g14dg2g3dg1g3g1g2g1g2g2~x4/) — ΔT 2.69
+1. [Galloway District Tartan Tartan Number: 1469. Earliest known date: 1950 In contemporary correspondence Mr Hannay said that the Galloway 'everyday' tartan was 'in four shades of green with yellow and red stripe'. Cree Mills of Newton-Stewart, however, used only two shades in the manufacture on Mr Hannay's behalf. MacGregor Hastie's collection includes this sett with the pale yellow rendered in white and called Galloway Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/dg20dg2ly3dg2dg32dg32dg2r3dg2dg32dg12~x2/) — ΔT 2.77
+1. [O'Neill, Martin](/setts/s13/g24g2g4g16g1k2g1g16g3ly1g12y2g5~x2/) — ΔT 2.80
+1. [Conlon](/setts/s9/dg4db2dg17dg2r4dg2dg3dg11dg2~x2/) — ΔT 2.81
+1. [MacKinnon Htg (Clan)](/setts/s7/dy1g8dy8g1dy8g8dy1~x4/) — ΔT 2.84
+1. [Terry](/setts/s13/y33lo1y3r3g3lo1g21lo1g3r3g3lo1g21~x2/) — ΔT 2.88
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg18r6dg75db6dg13dy35dg12db6/"><circle cx="541.4" cy="270.0" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/setts/s13/dg24g2dg4g16dg1lb2dg1g16dg3ly1dg12o2dg5~x2/"><circle cx="444.3" cy="197.1" r="4" fill="#3465a4"><title>O'Neill (Personal)</title></circle></a><a href="/setts/s11/dg18dg4t1dg5dg6dg3k1dy6k1dg25t1~x2/"><circle cx="449.7" cy="209.3" r="4" fill="#3465a4"><title>Mack of Stoneywood Hunting (Pers.)</title></circle></a><a href="/setts/s11/dg18dg4b1dg5dg6dg3k1dy6k1dg25b1~x2/"><circle cx="461.6" cy="217.7" r="4" fill="#3465a4"><title>Mack of Stoneywood Hunting (Personal)</title></circle></a><a href="/setts/s14/g3lo1g3r1g14dg2g3dg1g3g1g2g1g2g2~x4/"><circle cx="554.4" cy="209.3" r="4" fill="#3465a4"><title>New South Wales</title></circle></a><a href="/setts/s11/dg20dg2ly3dg2dg32dg32dg2r3dg2dg32dg12~x2/"><circle cx="428.1" cy="240.9" r="4" fill="#3465a4"><title>Galloway District Tartan Tartan Number: 1469. Earliest known date: 1950 In contemporary correspondence Mr Hannay said that the Galloway 'everyday' tartan was 'in four shades of green with yellow and red stripe'. Cree Mills of Newton-Stewart, however, used only two shades in the manufacture on Mr Hannay's behalf. MacGregor Hastie's collection includes this sett with the pale yellow rendered in white and called Galloway Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24g2g4g16g1k2g1g16g3ly1g12y2g5~x2/"><circle cx="426.0" cy="189.1" r="4" fill="#3465a4"><title>O'Neill, Martin</title></circle></a><a href="/setts/s9/dg4db2dg17dg2r4dg2dg3dg11dg2~x2/"><circle cx="444.1" cy="288.6" r="4" fill="#3465a4"><title>Conlon</title></circle></a><a href="/setts/s7/dy1g8dy8g1dy8g8dy1~x4/"><circle cx="445.3" cy="334.6" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/setts/s13/y33lo1y3r3g3lo1g21lo1g3r3g3lo1g21~x2/"><circle cx="483.0" cy="186.6" r="4" fill="#3465a4"><title>Terry</title></circle></a><circle cx="509.4" cy="258.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/dg25g7dg25g7g5dg25g7dg25g7g5r2w2r2~x2/

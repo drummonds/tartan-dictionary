@@ -1,0 +1,51 @@
+---
+title: "Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [RGRRY](/stripes/rgrry/) · **Stripes:** [O DG O O LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O DG O O LY</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7563
+
+## Thread count
+N/120 G26 N18 DR16 O/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#701820;"><span style="color:#701820;filter:grayscale(1) invert(1) contrast(100);">#701820</span></code> `#701820` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.20 |
+| G | <code style="background-color:#245024;"><span style="color:#245024;filter:grayscale(1) invert(1) contrast(100);">#245024</span></code> `#245024` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| N | <code style="background-color:#8C8C8C;"><span style="color:#8C8C8C;filter:grayscale(1) invert(1) contrast(100);">#8C8C8C</span></code> `#8C8C8C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| O | <code style="background-color:#C8A438;"><span style="color:#C8A438;filter:grayscale(1) invert(1) contrast(100);">#C8A438</span></code> `#C8A438` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "N/120 G26 N18 DR16 O/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ballantyne (Personal)](/setts/s5/y60g13y9r8ly4~x2/) — ΔT 0.81
+1. [Lloyd of Wales](/setts/s5/o40r2o20g19db2/) — ΔT 1.15
+1. [St. Giles Cathedral (Corporate)](/setts/s6/db2n2lb1n18lb2r2~x4/) — ΔT 1.22
+1. [Johore (District)](/setts/s5/o57w5g20o5lo10~x2/) — ΔT 1.52
+1. [Jahore District Tartan Tartan Number: 1309. Earliest known date: c.1890 [50% actual count] Reputed to have been presented to the Sultan of Jahore by Queen Victoria during his visit to Balmoral around 1890. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/o57w5g20o5ly10/) — ΔT 1.58
+1. [Jahore](/setts/s5/y57w5g20y5ly10/) — ΔT 1.60
+1. [Ceredigion (Personal)](/setts/s5/ly5n1ly1n12r1~x8/) — ΔT 1.69
+1. [Perry, Arisaid](/setts/s5/y65r27w2y4ly5~x2/) — ΔT 1.75
+1. [St Giles, Check](/setts/s7/db3y1w1y25w1y1p3~x2/) — ΔT 1.78
+1. [Reid (1939)](/setts/s6/y40r8y4w2y4ly5~x2/) — ΔT 1.88
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/y60g13y9r8ly4~x2/"><circle cx="527.9" cy="226.0" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/setts/s5/o40r2o20g19db2/"><circle cx="512.8" cy="233.4" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/setts/s6/db2n2lb1n18lb2r2~x4/"><circle cx="522.1" cy="185.5" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/setts/s5/o57w5g20o5lo10~x2/"><circle cx="421.9" cy="228.9" r="4" fill="#3465a4"><title>Johore (District)</title></circle></a><a href="/setts/s5/o57w5g20o5ly10/"><circle cx="403.2" cy="218.7" r="4" fill="#3465a4"><title>Jahore District Tartan Tartan Number: 1309. Earliest known date: c.1890 [50% actual count] Reputed to have been presented to the Sultan of Jahore by Queen Victoria during his visit to Balmoral around 1890. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/y57w5g20y5ly10/"><circle cx="410.4" cy="223.3" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/setts/s5/ly5n1ly1n12r1~x8/"><circle cx="434.0" cy="219.1" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/setts/s5/y65r27w2y4ly5~x2/"><circle cx="508.7" cy="174.6" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><a href="/setts/s7/db3y1w1y25w1y1p3~x2/"><circle cx="575.0" cy="154.0" r="4" fill="#3465a4"><title>St Giles, Check</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="566.4" cy="187.8" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><circle cx="507.1" cy="212.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/o60dg13o9o8ly4~x2/

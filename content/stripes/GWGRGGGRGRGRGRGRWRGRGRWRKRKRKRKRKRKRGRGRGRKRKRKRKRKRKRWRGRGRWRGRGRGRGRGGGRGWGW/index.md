@@ -1,0 +1,27 @@
+---
+title: Pattern GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW
+date: 2023-03-18
+aliases:
+- /patterns/gwgrgggrgrgrgrgrwrgrgrwrkrkrkrkrkrkrgrgrgrkrkrkrkrkrkrwrgrgrwrgrgrgrgrgggrgwgw/
+---
+GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW
+
+It is a 78 band tartan.
+
+
+
+## Colour Sequence
+GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW
+
+
+## Tartans with this colour sequence
+
+
+
+### DG LB DG R DG Y DG R DG R DG R DG R DG R LB R Y R Y R LB R K R K R K R K R K R K R DG R DG R DG R K R K R K R K R K R K R LB R Y R Y R LB R DG R DG R DG R DG R DG Y DG R DG LB DG LB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG LB DG R DG Y DG R DG R DG R DG R DG R LB R Y R Y R LB R K R K R K R K R K R K R DG R DG R DG R K R K R K R K R K R K R LB R Y R Y R LB R DG R DG R DG R DG R DG Y DG R DG LB DG LB</span></span>
+
+| Tartans |
+|---------------|
+| [Kinnoull](/setts/s78/dg16lb3dg9r12dg8y7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8y7dg8r-hcea0dd8c966ccd06/)|
+|![Kinnoull example sett](/setts/s78/dg16lb3dg9r12dg8y7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8y7dg8r-hcea0dd8c966ccd06/sett.png)|
+

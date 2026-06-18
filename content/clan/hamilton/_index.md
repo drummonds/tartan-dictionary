@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Hamilton of Brandon](/clan/hamilton/brandon/)
-- [Hamilton of Clayton](/clan/hamilton/clayton/)
+- [Hamilton of Brandon](/families/hamilton-of-brandon/)
+- [Hamilton of Clayton](/families/hamilton-of-clayton/)
 

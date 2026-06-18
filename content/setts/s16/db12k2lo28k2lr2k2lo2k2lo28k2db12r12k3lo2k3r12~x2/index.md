@@ -1,0 +1,55 @@
+---
+title: "Oneness"
+date: 2023-03-18
+---
+**Bands:** [BKYKYKYKYKBRKYKR](/stripes/bkykykykykbrkykr/) · **Stripes:** [DB K LO K LR K LO K LO K DB R K LO K R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K LO K LR K LO K LO K DB R K LO K R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11102
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11102](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11102)
+
+## Thread count
+DB/24 K4 LT56 K4 N4 K4 Y4 K4 LT56 K4 DB24 LR24 K6 Y4 K6 LR/24
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LR | <code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> `#E87878` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| Y | <code style="background-color:#E0A126;"><span style="color:#E0A126;filter:grayscale(1) invert(1) contrast(100);">#E0A126</span></code> `#E0A126` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Oneness](/setts/s16/db12k3ly2k3r12db12k2lo28k2ly2k2o2k2lo28k2db12~x2/) — ΔT 0.75
+1. [Otago](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2db1g1db15k2r2k2lo6k2~x2/) — ΔT 0.92
+1. [Wilson's No.156](/setts/s17/r30w2t4k4ly2k2w6k2t11k15ly3g20r14w4r4k2r8~x2/) — ΔT 1.00
+1. [Palmer, General W.J.](/setts/s16/r4o2lb2o23lb2o2r4o2lb2o2lb12dt6ly2k4n2lb2~x2/) — ΔT 1.06
+1. [Royal Stewart, (Variant)](/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/) — ΔT 1.07
+1. [Drummond - 1739 Lord John (Artefact)](/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/) — ΔT 1.08
+1. [MacGlashan (Clan?)](/setts/s16/r24k2w2n6w2lo2r2k2r2lo2w2b6k2r3lo3w2~x2/) — ΔT 1.09
+1. [Royal Stuart/Stewart (Variant)](/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/) — ΔT 1.11
+1. [Harmon Dress (Personal)](/setts/s19/k2lr6ly2lr2ly2lr19db2g2db2lr2r4k2r11g2r2g2r11g2ly2~x2/) — ΔT 1.11
+1. [Aberdeen Forever (District)](/setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/) — ΔT 1.11
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db12k3ly2k3r12db12k2lo28k2ly2k2o2k2lo28k2db12~x2/"><circle cx="195.0" cy="98.3" r="4" fill="#3465a4"><title>Oneness</title></circle></a><a href="/setts/s18/lo16k2lo6k2r2k2db15g1db1w2db1g1db15k2r2k2lo6k2~x2/"><circle cx="178.0" cy="83.4" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/setts/s17/r30w2t4k4ly2k2w6k2t11k15ly3g20r14w4r4k2r8~x2/"><circle cx="155.3" cy="85.8" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/setts/s16/r4o2lb2o23lb2o2r4o2lb2o2lb12dt6ly2k4n2lb2~x2/"><circle cx="148.7" cy="70.9" r="4" fill="#3465a4"><title>Palmer, General W.J.</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/"><circle cx="154.3" cy="65.6" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="180.0" cy="106.8" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/setts/s16/r24k2w2n6w2lo2r2k2r2lo2w2b6k2r3lo3w2~x2/"><circle cx="206.1" cy="77.3" r="4" fill="#3465a4"><title>MacGlashan (Clan?)</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><circle cx="159.8" cy="66.6" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s19/k2lr6ly2lr2ly2lr19db2g2db2lr2r4k2r11g2r2g2r11g2ly2~x2/"><circle cx="132.3" cy="91.4" r="4" fill="#3465a4"><title>Harmon Dress (Personal)</title></circle></a><a href="/setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/"><circle cx="176.8" cy="82.1" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><circle cx="172.2" cy="85.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/db12k2lo28k2lr2k2lo2k2lo28k2db12r12k3lo2k3r12~x2/

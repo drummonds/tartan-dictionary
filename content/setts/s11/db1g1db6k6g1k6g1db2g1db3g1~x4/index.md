@@ -1,0 +1,68 @@
+---
+title: "Cargill"
+date: 2023-03-18
+---
+**Bands:** [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/) · **Stripes:** [DB G DB K G K G DB G DB G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G DB K G K G DB G DB G</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1880 — Cargill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138))
+- 1880 — Cargill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3132/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5138](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138)
+- Scottish Tartans Authority (ITI): 3132
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Clergy 2](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/)
+- [Clergy 3](/setts/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/)
+
+
+## Thread count
+DB/4 G4 DB24 K24 G4 K24 G4 DB8 G4 DB12 G/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Clergy (Smith)](/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x2/) — ΔT 0.85
+1. [Clergy Blue Tartan Tartan Number: 2195. Earliest known date: 1819 tba See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k2t2db10k10t2k10t2db3t2db5t2~x2/) — ΔT 0.97
+1. [42nd Regiment (Military)](/setts/s13/b16k3b3k3b3k16g15k3g15k16b15k3b3~x2/) — ΔT 1.08
+1. [Clergy 2](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/) — ΔT 1.09
+1. [Clergy (Smith)](/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x4/) — ΔT 1.15
+1. [Clergy "Two Spirit" (Personal)](/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/) — ΔT 1.17
+1. [Hamilton of Clayton (Personal)](/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/) — ΔT 1.18
+1. [Poulter SG 100 (Fashion)](/setts/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/) — ΔT 1.20
+1. [Forbes](/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/) — ΔT 1.21
+1. [Cargill Clan/Family Tartan Tartan Number: 3132. Earliest known date: 1880 Known more commonly as Clergy or Beachan na Clerich this tartan is also known as Cargill, as it appears in the Clans Originaux, 1880 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4/) — ΔT 1.23
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x2/"><circle cx="257.4" cy="242.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/setts/s11/k2t2db10k10t2k10t2db3t2db5t2~x2/"><circle cx="235.7" cy="252.7" r="4" fill="#3465a4"><title>Clergy Blue Tartan Tartan Number: 2195. Earliest known date: 1819 tba See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/b16k3b3k3b3k16g15k3g15k16b15k3b3~x2/"><circle cx="188.0" cy="241.6" r="4" fill="#3465a4"><title>42nd Regiment (Military)</title></circle></a><a href="/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="207.2" cy="227.7" r="4" fill="#3465a4"><title>Clergy 2</title></circle></a><a href="/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x4/"><circle cx="270.7" cy="251.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/"><circle cx="230.3" cy="222.5" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/"><circle cx="204.7" cy="235.2" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/setts/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="161.4" cy="213.8" r="4" fill="#3465a4"><title>Poulter SG 100 (Fashion)</title></circle></a><a href="/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="182.1" cy="223.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s20/db1g1db6k6g1k6g1db2g1db3g1db3g1db2g1k6g1k6db6g1~x4/"><circle cx="224.6" cy="215.8" r="4" fill="#3465a4"><title>Cargill Clan/Family Tartan Tartan Number: 3132. Earliest known date: 1880 Known more commonly as Clergy or Beachan na Clerich this tartan is also known as Cargill, as it appears in the Clans Originaux, 1880 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="230.2" cy="236.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/

@@ -1,0 +1,56 @@
+---
+title: "Drummond of Megginch - 1820 Plaid"
+date: 2023-03-18
+---
+**Bands:** [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/) · **Stripes:** [R DB R DB R LB R DB R DG R DG R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB R LB R DB R DG R DG R DB R</span></span>
+
+
+This was sourced from research.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://tartandictionary.org/posts/drummondsofmegginch/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Drummond of Megginch - 1849 Kilt](/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/)
+- [Drummond of Megginch - 1969 Carpet](/setts/s15/r12db3r4db4r36lb6r4db18r4dg2r4dg36r4db4r8/)
+- [Drummond of Megginch - Child's Kilt (c.1890)](/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/)
+
+
+## Thread count
+R/26 DB2 R6 DB6 R126 LB6 R6 DB38 R6 G6 R6 G130 R19 DB6 R/18
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000064;"><span style="color:#000064;filter:grayscale(1) invert(1) contrast(100);">#000064</span></code> `#000064` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Drummond of Megginch - 1849 Kilt](/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/) — ΔT 0.47
+1. [Bruce - 1819 (New)](/setts/s15/r15dp1r2dp2r78lt1r2dp21r3g2r3g89r2dp2r10/) — ΔT 0.73
+1. [MacGillivray - 1819 (Clan)](/setts/s13/r6t1dt1r57t2r2dt23r4g30r6t1r6dt2~x2/) — ΔT 0.87
+1. [Grant](/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6/) — ΔT 0.91
+1. [Gudbrandsdalen, Mannsdrakt](/setts/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/) — ΔT 0.93
+1. [MacGillivray](/setts/s13/r6t1db1r57t2r2db23r4g30r6t1r6db2~x2/) — ΔT 0.98
+1. [MacPherson of Cluny](/setts/s11/r5k2r2g42r5k36r70k2ly2r7g2/) — ΔT 0.98
+1. [Dalzell](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6/) — ΔT 1.03
+1. [Grant VS](/setts/s13/r4db2r2db2r56db16r4dg1r4dg36r3dg1r4/) — ΔT 1.05
+1. [Grant or Drummond Clan Tartan Tartan Number: 1384. Earliest known date: 1831 The usual design is sometimes called Drummond. It is recorded by Logan (1831), Smibert (1850), and Smith (1850). McIan's drawing of the Grant tartan is too roughly done to make out the pattern details. A certain difficulty arises in establishing a single Grant tartan to represent the clan, illustrated by the existance of ten Grant portraits at Cullen House in which each brother is wearing a different tartan, and where a coat or plaid is worn, these also differ. The chief of the Grants is Lord Strathspey. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/r6db2r2g24r2g2r2db8r2t2r32db2r2db1r6~x2/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/"><circle cx="357.0" cy="78.9" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt</title></circle></a><a href="/setts/s15/r15dp1r2dp2r78lt1r2dp21r3g2r3g89r2dp2r10/"><circle cx="386.9" cy="61.0" r="4" fill="#3465a4"><title>Bruce - 1819 (New)</title></circle></a><a href="/setts/s13/r6t1dt1r57t2r2dt23r4g30r6t1r6dt2~x2/"><circle cx="413.1" cy="79.3" r="4" fill="#3465a4"><title>MacGillivray - 1819 (Clan)</title></circle></a><a href="/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6/"><circle cx="377.8" cy="84.2" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/"><circle cx="361.0" cy="64.3" r="4" fill="#3465a4"><title>Gudbrandsdalen, Mannsdrakt</title></circle></a><a href="/setts/s13/r6t1db1r57t2r2db23r4g30r6t1r6db2~x2/"><circle cx="391.7" cy="70.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s11/r5k2r2g42r5k36r70k2ly2r7g2/"><circle cx="346.0" cy="94.1" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6/"><circle cx="381.9" cy="84.1" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/setts/s13/r4db2r2db2r56db16r4dg1r4dg36r3dg1r4/"><circle cx="424.1" cy="86.1" r="4" fill="#3465a4"><title>Grant VS</title></circle></a><a href="/setts/s15/r6db2r2g24r2g2r2db8r2t2r32db2r2db1r6~x2/"><circle cx="391.5" cy="92.9" r="4" fill="#3465a4"><title>Grant or Drummond Clan Tartan Tartan Number: 1384. Earliest known date: 1831 The usual design is sometimes called Drummond. It is recorded by Logan (1831), Smibert (1850), and Smith (1850). McIan's drawing of the Grant tartan is too roughly done to make out the pattern details. A certain difficulty arises in establishing a single Grant tartan to represent the clan, illustrated by the existance of ten Grant portraits at Cullen House in which each brother is wearing a different tartan, and where a coat or plaid is worn, these also differ. The chief of the Grants is Lord Strathspey. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="375.7" cy="67.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/

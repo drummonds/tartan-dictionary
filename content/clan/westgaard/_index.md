@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Westgaard of Kileughterco](/clan/westgaard/kileughterco/)
-- [Westgaard of Kileughtero](/clan/westgaard/kileughtero/)
+- [Westgaard of Kileughterco](/families/westgaard-of-kileughterco/)
+- [Westgaard of Kileughtero](/families/westgaard-of-kileughtero/)
 

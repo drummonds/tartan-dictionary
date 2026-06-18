@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Glynn of Glynnstewart](/clan/glynn/glynnstewart/)
-- [Glynn of Glynstewart](/clan/glynn/glynstewart/)
+- [Glynn of Glynnstewart](/families/glynn-of-glynnstewart/)
+- [Glynn of Glynstewart](/families/glynn-of-glynstewart/)
 

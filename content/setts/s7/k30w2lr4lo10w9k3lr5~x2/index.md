@@ -1,0 +1,57 @@
+---
+title: "Virginia Commonwealth University"
+date: 2023-03-18
+---
+**Bands:** [KWYYWKY](/stripes/kwyywky/) · **Stripes:** [K W LR LO W K LR](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K W LR LO W K LR</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11371
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11371](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11371)
+
+## Thread count
+K/60 W4 N8 O20 W18 K6 N/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/60 W4 N8 O20 W18 K6 N/10 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Merric, Dark Camel..](/setts/s7/r2w8k14o25w2k2w2~x2/) — ΔT 0.68
+1. [Phantom](/setts/s7/w3o10k38w11o6k2w3~x2/) — ΔT 0.81
+1. [Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r2w8k14dy25w2k2w2~x2/) — ΔT 0.90
+1. [Braemar or Blair Atholl](/setts/s8/do2w2k6do3k2o14k1o1~x4/) — ΔT 0.94
+1. [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4n16r2k31n2/) — ΔT 0.95
+1. [Loch Ness](/setts/s6/r10w2k10w10o35k5~x2/) — ΔT 0.96
+1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/) — ΔT 1.00
+1. [Meg Merrilees, New (1831)](/setts/s9/t5r5k58r5t5r5w25r5t4/) — ΔT 1.05
+1. [Clemens and August (Personal)](/setts/s8/ly35db3r4db3r8db30w3db4~x2/) — ΔT 1.11
+1. [St. Piran Dress](/setts/s8/r4w19dg2w8dg2w8k38w4~x2/) — ΔT 1.12
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2w8k14o25w2k2w2~x2/"><circle cx="221.7" cy="156.5" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.9" cy="140.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="234.3" cy="163.0" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/do2w2k6do3k2o14k1o1~x4/"><circle cx="256.7" cy="154.7" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s8/r12k2w8k4n16r2k31n2/"><circle cx="237.9" cy="150.2" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s6/r10w2k10w10o35k5~x2/"><circle cx="241.2" cy="161.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/"><circle cx="276.4" cy="136.2" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.5" cy="122.8" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.6" cy="145.5" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="258.0" cy="131.9" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><circle cx="248.3" cy="152.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/k30w2lr4lo10w9k3lr5~x2/

@@ -1,0 +1,58 @@
+---
+title: "Genet, Edmond Charles 'Citizen' (Personal)"
+date: 2023-03-18
+---
+**Bands:** [RKGKRKW](/stripes/rkgkrkw/) · **Stripes:** [R K DG K R K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K DG K R K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10218
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10218](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10218)
+
+## Thread count
+R/8 K18 G18 DB80 R4 DB4 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000028;"><span style="color:#000028;filter:grayscale(1) invert(1) contrast(100);">#000028</span></code> `#000028` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.15 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "R/8 K18 G18 DB80 R4 DB4 W/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [State Seal of Massachusetts Fash)](/setts/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/) — ΔT 1.05
+1. [Round Table of Britain and Ireland, RtbI.](/setts/s6/db47g14dr5o2r3g7~x2/) — ΔT 1.16
+1. [City of Rome Pipe Band (Corporate)](/setts/s7/r12lo6k88db45k6db6ly6/) — ΔT 1.17
+1. [Hope-Weir / Weir](/setts/s8/k8ly1k1db28k12g2k1t2~x2/) — ΔT 1.19
+1. [Chestico](/setts/s7/db20dy1db1dy1dg8k1w3~x2/) — ΔT 1.19
+1. [Mount Dora](/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/) — ΔT 1.26
+1. [Tartan Day SA](/setts/s8/w2k40dg22lo3dg2r3dg2w2~x2/) — ΔT 1.27
+1. [Mensa](/setts/s7/lb3k19db24r2db2ly2db2~x2/) — ΔT 1.29
+1. [Home, or Hume](/setts/s8/k28r1k2r1k8db24g2db3~x2/) — ΔT 1.33
+1. [Schöbitz (2016)](/setts/s8/r1dt23lo3b16lo3dt22r1w1~x2/) — ΔT 1.36
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/"><circle cx="354.1" cy="138.4" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/setts/s6/db47g14dr5o2r3g7~x2/"><circle cx="359.9" cy="155.2" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/setts/s7/r12lo6k88db45k6db6ly6/"><circle cx="336.7" cy="167.3" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/setts/s8/k8ly1k1db28k12g2k1t2~x2/"><circle cx="320.5" cy="125.7" r="4" fill="#3465a4"><title>Hope-Weir / Weir</title></circle></a><a href="/setts/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="353.2" cy="144.8" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/"><circle cx="313.1" cy="126.9" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/setts/s8/w2k40dg22lo3dg2r3dg2w2~x2/"><circle cx="302.6" cy="128.4" r="4" fill="#3465a4"><title>Tartan Day SA</title></circle></a><a href="/setts/s7/lb3k19db24r2db2ly2db2~x2/"><circle cx="277.8" cy="165.5" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.4" cy="152.7" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s8/r1dt23lo3b16lo3dt22r1w1~x2/"><circle cx="368.2" cy="143.7" r="4" fill="#3465a4"><title>Schöbitz (2016)</title></circle></a><circle cx="358.5" cy="146.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/r4k9dg9k40r2k2w2~x2/

@@ -1,0 +1,56 @@
+---
+title: "Souza Nery (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BRKRGKGRKRBW](/stripes/brkrgkgrkrbw/) · **Stripes:** [DB R K R G K G R K R DB W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R K R G K G R K R DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3849
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3849](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3849)
+- Scottish Tartans Authority (ITI): 2651
+- Scottish Tartans World Register: 2651
+
+## Thread count
+DB/74 R6 K34 R6 G44 YY8 G44 R6 K34 R6 DB74 LN/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Stephenson (Name)](/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/) — ΔT 0.65
+1. [Czech National (District)](/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/) — ΔT 0.70
+1. [Sacramento City Fire Department (P&D](/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/) — ΔT 0.79
+1. [MacKusick Family Tartan of North America](/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/) — ΔT 0.84
+1. [Loch Lomond Millenium](/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/) — ΔT 0.88
+1. [Shandon (Personal)](/setts/s14/k20g18k2w2k5ly2k2g18k20db18b4db4b4db18~x2/) — ΔT 0.88
+1. [MacComb Family Tartan Tartan Number: 2340. Earliest known date: pre 1997 STS notes: Designed for a Mr McComb to play himself in as club captain of a golf club. It is the MacThomas with the over check changed to the clubs colours. Design by Donald Fraser (Oct 2002) of Berwick upon Tweed. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db3r2db18k6g18ly2g3ly2g18k6db18r2~x2/) — ΔT 0.93
+1. [Suzugamine (Corporate)](/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/) — ΔT 0.94
+1. [MacBeth/Stewart Brydone 1862](/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/) — ΔT 0.94
+1. [Annandale (Personal)](/setts/s16/db3r2t2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/) — ΔT 0.96
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/"><circle cx="166.9" cy="147.8" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="199.3" cy="140.4" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="210.0" cy="127.1" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/"><circle cx="197.4" cy="129.6" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/"><circle cx="192.3" cy="165.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/setts/s14/k20g18k2w2k5ly2k2g18k20db18b4db4b4db18~x2/"><circle cx="135.8" cy="157.1" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/setts/s12/db3r2db18k6g18ly2g3ly2g18k6db18r2~x2/"><circle cx="170.7" cy="165.1" r="4" fill="#3465a4"><title>MacComb Family Tartan Tartan Number: 2340. Earliest known date: pre 1997 STS notes: Designed for a Mr McComb to play himself in as club captain of a golf club. It is the MacThomas with the over check changed to the clubs colours. Design by Donald Fraser (Oct 2002) of Berwick upon Tweed. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/"><circle cx="224.3" cy="156.0" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/"><circle cx="207.8" cy="120.3" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/setts/s16/db3r2t2db16k2g2k2g2k2db16g2k10g4r4g12w3~x2/"><circle cx="157.9" cy="145.4" r="4" fill="#3465a4"><title>Annandale (Personal)</title></circle></a><circle cx="192.1" cy="152.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/

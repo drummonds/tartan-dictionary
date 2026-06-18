@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#F7F7F7;border:1px solid #0003;flex:none"></span><div><strong>White</strong> · code <code>W</code> · Human Palette · ref <code>39-00</code><br>sRGB <code>#F7F7F7</code> · OKLab L 0.976 a +0.000 b +0.000 · grid <code>39-00</code></div></div>
 
+White — the lightest point of the neutral spine; with black, the oldest colour word.
+
 The nearest named colour is **White** (Base Six), 0.000 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
@@ -12,7 +14,7 @@ The nearest named colour is **White** (Base Six), 0.000 away in OKLab ΔE.
 | <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | [White](/colour/named/base-six-w/) | W | Base Six | 0.000 |
 | <code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> | [Sky](/colour/named/human-palette-lb/) | LB | Human Palette | 0.184 |
 | <code style="background-color:#E4A6DB;"><span style="color:#E4A6DB;filter:grayscale(1) invert(1) contrast(100);">#E4A6DB</span></code> | [Lilac](/colour/named/human-palette-lp/) | LP | Human Palette | 0.203 |
-| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lbg/) | LBG | Human Palette | 0.203 |
+| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lt/) | LT | Human Palette | 0.203 |
 | <code style="background-color:#FF9C97;"><span style="color:#FF9C97;filter:grayscale(1) invert(1) contrast(100);">#FF9C97</span></code> | [Pink](/colour/named/human-palette-lr/) | LR | Human Palette | 0.219 |
 | <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | [Yellow](/colour/named/base-six-y/) | Y | Base Six | 0.226 |
 

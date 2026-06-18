@@ -1,0 +1,67 @@
+---
+title: "Lenaghan (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BGGKYKB](/stripes/bggkykb/) · **Stripes:** [DB DG G K LY K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DG G K LY K DB</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2093
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2002 — Lenaghan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2093))
+- April 2002 — Lenaghan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5835/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2093](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2093)
+- Scottish Tartans Authority (ITI): 5835
+
+## Thread count
+DB/20 K2 Y4 K2 G10 DG10 DBa/20
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DBa | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/20 K2 Y4 K2 G10 DG10 DBa/20 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ayrshire (International Tartans)](/setts/s7/dp11db2t4db21k16dg19ly4~x2/) — ΔT 0.85
+1. [Ancient Atlantic (Fashion)](/setts/s6/lb3db17do16dt2dg17lo2~x2/) — ΔT 1.02
+1. [Blairmore House](/setts/s8/db17w2db2r2db2do12dg16lo3~x4/) — ΔT 1.14
+1. [Cowie](/setts/s6/r3dt24k7db11g11ly2~x2/) — ΔT 1.16
+1. [Scottish Odyssey (Fashion)](/setts/s7/db7b12k3b12dy12g25dt3~x2/) — ΔT 1.18
+1. [Blairmore House (Corporate)](/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/) — ΔT 1.19
+1. [Meeson Hunting](/setts/s6/k26n10dt19r6ly2db9~x2/) — ΔT 1.19
+1. [Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w3db17dy16db2dg17ly2~x2/) — ΔT 1.21
+1. [Westbrook (2013)](/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/) — ΔT 1.29
+1. [Damm, Alexander (Personal)](/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dp11db2t4db21k16dg19ly4~x2/"><circle cx="110.9" cy="201.9" r="4" fill="#3465a4"><title>Ayrshire (International Tartans)</title></circle></a><a href="/setts/s6/lb3db17do16dt2dg17lo2~x2/"><circle cx="143.0" cy="213.4" r="4" fill="#3465a4"><title>Ancient Atlantic (Fashion)</title></circle></a><a href="/setts/s8/db17w2db2r2db2do12dg16lo3~x4/"><circle cx="176.7" cy="189.5" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/setts/s6/r3dt24k7db11g11ly2~x2/"><circle cx="196.9" cy="207.6" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/setts/s7/db7b12k3b12dy12g25dt3~x2/"><circle cx="132.2" cy="215.3" r="4" fill="#3465a4"><title>Scottish Odyssey (Fashion)</title></circle></a><a href="/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/"><circle cx="193.4" cy="198.3" r="4" fill="#3465a4"><title>Blairmore House (Corporate)</title></circle></a><a href="/setts/s6/k26n10dt19r6ly2db9~x2/"><circle cx="180.9" cy="214.2" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/setts/s6/w3db17dy16db2dg17ly2~x2/"><circle cx="132.3" cy="206.2" r="4" fill="#3465a4"><title>Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/"><circle cx="175.7" cy="195.5" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/"><circle cx="197.1" cy="199.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><circle cx="131.3" cy="207.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/db10dg5g5k1ly2k1db10~x2/

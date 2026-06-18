@@ -1,0 +1,62 @@
+---
+title: "MacKillop (Clan)"
+date: 2023-03-18
+---
+**Bands:** [BRGRBBRBRG](/stripes/brgrbbrbrg/) · **Stripes:** [DB R G R DB B R DB R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R G R DB B R DB R G</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/512/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1952 — MacKillop (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/512/))
+- 01/01/2002 — MacKillop (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2538))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2538](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2538)
+- Scottish Tartans Authority (ITI): 512
+- Scottish Tartans World Register: 512
+
+## Thread count
+DB/16 R16 G96 R16 DB32 B8 R112 DB16 R16 G/24
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2474E8;"><span style="color:#2474E8;filter:grayscale(1) invert(1) contrast(100);">#2474E8</span></code> `#2474E8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Glenfinnan (Clan?)](/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/) — ΔT 0.55
+1. [MacKillop](/setts/s10/g3r2db2r13t1db4r2g7r2db2~x2/) — ΔT 0.56
+1. [Glenaladale](/setts/s10/db28r26w2db5w2r26g28r5w2r5~x2/) — ΔT 0.79
+1. [Leitrim](/setts/s10/lo3dr2y18y3r13y4dr3y4dr18y3~x2/) — ΔT 0.81
+1. [Unidentified Plaid #15](/setts/s10/r4t3r32db30r4dg32r3dg32r3dg3~x2/) — ΔT 0.83
+1. [Unidentified Specimen #2](/setts/s10/w1dg1r1dg14r1db6r11dg1r1w1~x4/) — ΔT 0.85
+1. [Wilson's No.213](/setts/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4/) — ΔT 0.86
+1. [Harkness](/setts/s10/db10r2w2r16g6r1g2r1g3r6~x2/) — ΔT 0.87
+1. [Lindsay #3](/setts/s9/dg12k1dg1k1dg1r5r10k1r2~x2/) — ΔT 0.87
+1. [Leach (1999)](/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/) — ΔT 0.89
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/"><circle cx="274.0" cy="167.7" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/setts/s10/g3r2db2r13t1db4r2g7r2db2~x2/"><circle cx="292.5" cy="172.3" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="265.0" cy="160.2" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/setts/s10/lo3dr2y18y3r13y4dr3y4dr18y3~x2/"><circle cx="248.0" cy="185.5" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/setts/s10/r4t3r32db30r4dg32r3dg32r3dg3~x2/"><circle cx="266.3" cy="183.7" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/setts/s10/w1dg1r1dg14r1db6r11dg1r1w1~x4/"><circle cx="260.2" cy="141.9" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/setts/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4/"><circle cx="286.8" cy="162.4" r="4" fill="#3465a4"><title>Wilson's No.213</title></circle></a><a href="/setts/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="306.9" cy="155.7" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/setts/s9/dg12k1dg1k1dg1r5r10k1r2~x2/"><circle cx="259.4" cy="167.1" r="4" fill="#3465a4"><title>Lindsay #3</title></circle></a><a href="/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/"><circle cx="256.4" cy="158.7" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><circle cx="278.8" cy="162.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/g3r2db2r14b1db4r2g12r2db2~x8/

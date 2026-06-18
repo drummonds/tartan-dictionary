@@ -1,0 +1,47 @@
+---
+title: "Pride of Scotland, Silver (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [BRBBBBRRRBRB](/stripes/brbbbbrrrbrb/) · **Stripes:** [N R N N N N R O R N O N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">N R N N N N R O R N O N</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/6476/
+
+## Thread count
+N/18 Nb4 N4 R4 Nb36 R4 N4 Na2 N2 N38 R66 Na/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Nb | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacPherson Of Cluny](/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/) — ΔT 1.43
+1. [MacPherson Of Cluny](/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/) — ΔT 1.43
+1. [Bell of Ardbel (Name)](/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/) — ΔT 1.44
+1. [Bell, John](/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/) — ΔT 1.57
+1. [Drummond of Megginch - 1997 Kilt](/setts/s15/o7dt2o3dg32o2dg2o2dt10o2lb2o31dt2o2dt1o6~x2/) — ΔT 1.59
+1. [Waverly, Check](/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/) — ΔT 1.64
+1. [O'Brian #1 (Fashion)](/setts/s16/r31db2r3db2r3g12r3db2r3db2r31dy4g19dy36g19dy4~x2/) — ΔT 1.68
+1. [Southdown Grey](/setts/s10/do3o2r1do2n6do6n4do6o22r3~x4/) — ΔT 1.73
+1. [Bell of Ardbel (Personal)](/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/) — ΔT 1.75
+1. [Unidentified Lindley #6](/setts/s14/r4o3dy2o38y30dy3y3dy3y3dy3y30o38dy2o3~x2/) — ΔT 1.78
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/"><circle cx="360.6" cy="142.3" r="4" fill="#3465a4"><title>Bell of Ardbel (Name)</title></circle></a><a href="/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/"><circle cx="364.3" cy="146.2" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><a href="/setts/s15/o7dt2o3dg32o2dg2o2dt10o2lb2o31dt2o2dt1o6~x2/"><circle cx="434.1" cy="138.3" r="4" fill="#3465a4"><title>Drummond of Megginch - 1997 Kilt</title></circle></a><a href="/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/"><circle cx="369.3" cy="152.1" r="4" fill="#3465a4"><title>Waverly, Check</title></circle></a><a href="/setts/s16/r31db2r3db2r3g12r3db2r3db2r31dy4g19dy36g19dy4~x2/"><circle cx="325.3" cy="166.1" r="4" fill="#3465a4"><title>O'Brian #1 (Fashion)</title></circle></a><a href="/setts/s10/do3o2r1do2n6do6n4do6o22r3~x4/"><circle cx="331.8" cy="176.9" r="4" fill="#3465a4"><title>Southdown Grey</title></circle></a><a href="/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/"><circle cx="339.1" cy="130.1" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/setts/s14/r4o3dy2o38y30dy3y3dy3y3dy3y30o38dy2o3~x2/"><circle cx="411.5" cy="169.2" r="4" fill="#3465a4"><title>Unidentified Lindley #6</title></circle></a><circle cx="367.8" cy="139.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/n9o2n2r2o18r2n2n1n1n19r33n2~x2/

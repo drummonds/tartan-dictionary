@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Zinnen of Scene](/clan/zinnen/scene/)
+- [Zinnen of Scene](/families/zinnen-of-scene/)
 

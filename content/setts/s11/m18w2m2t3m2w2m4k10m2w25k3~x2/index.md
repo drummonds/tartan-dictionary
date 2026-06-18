@@ -1,0 +1,48 @@
+---
+title: "MacKellar Dress, Cerise (Dance)"
+date: 2023-03-18
+---
+**Bands:** [KWRKRWRBRWR](/stripes/kwrkrwrbrwr/) · **Stripes:** [K W M K M W M T M W M](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="seq">K W M K M W M T M W M</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8180/
+
+## Thread count
+K/6 LN50 Pa4 K20 P8 LN4 P4 B6 P4 LN4 P/36
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#C04094;"><span style="color:#C04094;filter:grayscale(1) invert(1) contrast(100);">#C04094</span></code> `#C04094` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.16 |
+| Pa | <code style="background-color:#981C70;"><span style="color:#981C70;filter:grayscale(1) invert(1) contrast(100);">#981C70</span></code> `#981C70` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKellar Cerise Dress Tartan Tartan Number: 8180. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/m20w3m3t4m3w3m5k10p3w35k3~x2/) — ΔT 0.63
+1. [Bear Baars (Personal)](/setts/s11/r2db2w2r1w2db10w1k2r10w1r2~x4/) — ΔT 0.85
+1. [Walker, Dress (Personal)](/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/) — ΔT 1.03
+1. [Ross Purple Dress Tartan Tartan Number: 8711. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/) — ΔT 1.14
+1. [Stuart/Stewart of Appin Dress](/setts/s10/db8r3db34b3k9w31r5w3r3w8/) — ΔT 1.18
+1. [Stewart of Appin Dress Clan Tartan Tartan Number: 481. Earliest known date: pre 2003 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db8r3db34t3k9w31r5w3r3w8~x2/) — ΔT 1.18
+1. [Stewart of Appin, dress](/setts/s10/db8r3db34b3k9w31r5w3r3w8~x2/) — ΔT 1.19
+1. [Walker Dress Family Tartan Tartan Number: 2070. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1992. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/ly4dt2m7dt15m3dt3m3dt7w28m7w6m2/) — ΔT 1.22
+1. [MacLean of Duart Dress #5](/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/) — ΔT 1.25
+1. [Yarrow Dress, Purple (Dance)](/setts/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/m20w3m3t4m3w3m5k10p3w35k3~x2/"><circle cx="201.0" cy="104.4" r="4" fill="#3465a4"><title>MacKellar Cerise Dress Tartan Tartan Number: 8180. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r2db2w2r1w2db10w1k2r10w1r2~x4/"><circle cx="160.3" cy="119.6" r="4" fill="#3465a4"><title>Bear Baars (Personal)</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="148.1" cy="106.8" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><circle cx="169.8" cy="118.4" r="4" fill="#3465a4"><title>Ross Purple Dress Tartan Tartan Number: 8711. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db8r3db34b3k9w31r5w3r3w8/"><circle cx="169.5" cy="126.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin Dress</title></circle></a><a href="/setts/s10/db8r3db34t3k9w31r5w3r3w8~x2/"><circle cx="168.2" cy="126.1" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan Tartan Number: 481. Earliest known date: pre 2003 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="166.1" cy="125.3" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><a href="/setts/s12/ly4dt2m7dt15m3dt3m3dt7w28m7w6m2/"><circle cx="186.0" cy="127.4" r="4" fill="#3465a4"><title>Walker Dress Family Tartan Tartan Number: 2070. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1992. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.7" cy="75.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><a href="/setts/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/"><circle cx="219.4" cy="110.1" r="4" fill="#3465a4"><title>Yarrow Dress, Purple (Dance)</title></circle></a><circle cx="181.6" cy="104.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/m18w2m2t3m2w2m4k10m2w25k3~x2/

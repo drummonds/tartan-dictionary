@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [MacLoughlin of Ardmarnoch](/clan/macloughlin/ardmarnoch/)
+- [MacLoughlin of Ardmarnoch](/families/macloughlin-of-ardmarnoch/)
 

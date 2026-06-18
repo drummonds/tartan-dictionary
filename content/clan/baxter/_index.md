@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Baxter of Balgavies](/clan/baxter/balgavies/)
+- [Baxter of Balgavies](/families/baxter-of-balgavies/)
 

@@ -1,0 +1,45 @@
+---
+title: "Justus Black & Gold (Angus) (Persona"
+date: 2023-03-18
+---
+**Bands:** [KYKYKYKYK](/stripes/kykykykyk/) · **Stripes:** [K LO K LO K LO K LO K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO K LO K LO K LO K</span></span>
+
+
+This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2732/
+
+## Thread count
+K/8 DY4 K4 DY4 K4 DY36 K32 DY4 K/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacLachlan (Chief's Dress)](/setts/s8/k6ly2k21ly2k6ly24k2ly6~x2/) — ΔT 1.06
+1. [Justus Black & Gold (Angus) (Personal)](/setts/s16/k3lo1k8lo9k1lo1k1lo1k2lo1k1lo1k1lo9k8lo1~x4/) — ΔT 1.25
+1. [MacLachlan VS](/setts/s8/k6ly2k21ly2k6ly24k2ly6/) — ΔT 1.34
+1. [Douglas, Grey (Vestiarium Scoticum)](/setts/s8/k10o1k2o1k4o10k1o2~x4/) — ΔT 1.35
+1. [West Point Military Academy (Mil.)](/setts/s8/k10o1k2o1k4o10ly1o2~x4/) — ΔT 1.56
+1. [Watertown Library Assoc. (Corporate)](/setts/s8/k4y2k27y2k8y31k2y4~x2/) — ΔT 1.58
+1. [Justus Yellow & Black (Personal)](/setts/s14/ly20k19ly8k3ly3k3ly3k40ly5k10ly15k40ly3k3~x2/) — ΔT 1.59
+1. [Johnston Orange/Black (Corporate)](/setts/s8/lo1k1lo1k12lo12k1lo1w1~x4/) — ΔT 1.61
+1. [Bute Heather, Black](/setts/s10/k6y20k6y4k4y8y2k8y2k5~x2/) — ΔT 1.62
+1. [Coppa Romana (Switzerland)](/setts/s10/k17ly2k2ly2k9w11k2w11k20ly2~x2/) — ΔT 1.63
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k6ly2k21ly2k6ly24k2ly6~x2/"><circle cx="323.0" cy="196.2" r="4" fill="#3465a4"><title>MacLachlan (Chief's Dress)</title></circle></a><a href="/setts/s16/k3lo1k8lo9k1lo1k1lo1k2lo1k1lo1k1lo9k8lo1~x4/"><circle cx="319.7" cy="178.7" r="4" fill="#3465a4"><title>Justus Black &amp; Gold (Angus) (Personal)</title></circle></a><a href="/setts/s8/k6ly2k21ly2k6ly24k2ly6/"><circle cx="312.6" cy="199.4" r="4" fill="#3465a4"><title>MacLachlan VS</title></circle></a><a href="/setts/s8/k10o1k2o1k4o10k1o2~x4/"><circle cx="353.7" cy="221.6" r="4" fill="#3465a4"><title>Douglas, Grey (Vestiarium Scoticum)</title></circle></a><a href="/setts/s8/k10o1k2o1k4o10ly1o2~x4/"><circle cx="309.7" cy="202.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/setts/s8/k4y2k27y2k8y31k2y4~x2/"><circle cx="362.1" cy="193.3" r="4" fill="#3465a4"><title>Watertown Library Assoc. (Corporate)</title></circle></a><a href="/setts/s14/ly20k19ly8k3ly3k3ly3k40ly5k10ly15k40ly3k3~x2/"><circle cx="397.8" cy="173.3" r="4" fill="#3465a4"><title>Justus Yellow &amp; Black (Personal)</title></circle></a><a href="/setts/s8/lo1k1lo1k12lo12k1lo1w1~x4/"><circle cx="314.8" cy="158.7" r="4" fill="#3465a4"><title>Johnston Orange/Black (Corporate)</title></circle></a><a href="/setts/s10/k6y20k6y4k4y8y2k8y2k5~x2/"><circle cx="340.9" cy="228.5" r="4" fill="#3465a4"><title>Bute Heather, Black</title></circle></a><a href="/setts/s10/k17ly2k2ly2k9w11k2w11k20ly2~x2/"><circle cx="323.2" cy="189.7" r="4" fill="#3465a4"><title>Coppa Romana (Switzerland)</title></circle></a><circle cx="346.6" cy="207.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/

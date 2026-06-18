@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#00879F;border:1px solid #0003;flex:none"></span><div><strong>Teal</strong> · code <code>BG</code> · Human Palette · ref <code>22-06-208</code><br>sRGB <code>#00879F</code> · OKLab L 0.574 a -0.082 b -0.060 · grid <code>23-04-216</code></div></div>
 
+Teal — the blue-green between-hue, added where the wheel leaves a wide gap between blue and green. Not a Berlin & Kay basic.
+
 The nearest named colour is **Blue** (Human Palette), 0.115 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |

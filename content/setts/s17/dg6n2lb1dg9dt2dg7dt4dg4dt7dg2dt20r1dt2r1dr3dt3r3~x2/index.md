@@ -1,0 +1,64 @@
+---
+title: "Queensferry"
+date: 2023-03-18
+---
+**Bands:** [GBWGBGBGBGBRBRBBR](/stripes/gbwgbgbgbgbrbrbbr/) · **Stripes:** [DG N LB DG DT DG DT DG DT DG DT R DT R DR DT R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG N LB DG DT DG DT DG DT DG DT R DT R DR DT R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3430
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2000 — Queensferry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3430))
+- Sep. 2000 — Queensferry (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3138/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3430](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3430)
+- Scottish Tartans Authority (ITI): 3138
+- Scottish Tartans World Register: 2736
+
+## Thread count
+DG/12 N4 Na2 DG18 DN4 DG14 DN8 DG8 DN14 DG4 DN40 DR2 DN4 DR2 DRa6 DN6 DR/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DN | <code style="background-color:#14283C;"><span style="color:#14283C;filter:grayscale(1) invert(1) contrast(100);">#14283C</span></code> `#14283C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| DRa | <code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> `#4C0000` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.25 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Alasdair Dhana](/setts/s12/dg3dt20dg16r2dg2r3dg3r5dg16dt20ly1k2~x2/) — ΔT 1.23
+1. [Barony of Gartly (Personal)](/setts/s24/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27m4dg27dt8db3dt3~x2/) — ΔT 1.40
+1. [Phillips of Wales](/setts/s20/k20dg30k2dg4k2dg30k3db30k35r2k35db30k3dg30k2dg4k2dg30k20db2/) — ΔT 1.45
+1. [Phillips Welsh Name Tartan Tartan Number: 5751. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Filpin, Phelps, Philipson, Phillips, Philpin, Phipps is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k2k20dg30k2dg4k2dg30k3db30k35r2/) — ΔT 1.66
+1. [Protheroe of Wales](/setts/s22/dg10dt1lo1dt1dg2dt5db2dg2db2dg2dg5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/) — ΔT 1.70
+1. [Basel Tattoo (Official)](/setts/s9/db1k8db2dg16dr6dg16db2k8w1~x2/) — ΔT 1.85
+1. [Scottish Borderland](/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/) — ΔT 1.88
+1. [Ontario, Ensign of](/setts/s15/y4dg18do3dg3do3dg18k2r4k2do16dg3do3dg3do16dg3~x2/) — ΔT 1.88
+1. [Ontario, Ensign of (District)](/setts/s15/dg3do16dg3do3dg3do16k2r4k2dg18do3dg3do3dg16y3~x2/) — ΔT 1.91
+1. [Ryder Cup 2006](/setts/s10/k10lo1k3dt8dg8dg1dg8dt8k15lo1~x2/) — ΔT 1.95
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg3dt20dg16r2dg2r3dg3r5dg16dt20ly1k2~x2/"><circle cx="382.3" cy="219.0" r="4" fill="#3465a4"><title>Alasdair Dhana</title></circle></a><a href="/setts/s24/db9dg2db9dt3db3dt8dg27w1db3w1dg27dt8dg5dt13dg4dt13dg5dt8dg27m4dg27dt8db3dt3~x2/"><circle cx="428.2" cy="184.4" r="4" fill="#3465a4"><title>Barony of Gartly (Personal)</title></circle></a><a href="/setts/s20/k20dg30k2dg4k2dg30k3db30k35r2k35db30k3dg30k2dg4k2dg30k20db2/"><circle cx="357.6" cy="218.1" r="4" fill="#3465a4"><title>Phillips of Wales</title></circle></a><a href="/setts/s11/k2k20dg30k2dg4k2dg30k3db30k35r2/"><circle cx="360.4" cy="231.5" r="4" fill="#3465a4"><title>Phillips Welsh Name Tartan Tartan Number: 5751. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Filpin, Phelps, Philipson, Phillips, Philpin, Phipps is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s22/dg10dt1lo1dt1dg2dt5db2dg2db2dg2dg5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/"><circle cx="339.7" cy="223.8" r="4" fill="#3465a4"><title>Protheroe of Wales</title></circle></a><a href="/setts/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="400.7" cy="250.8" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/"><circle cx="437.1" cy="181.9" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/setts/s15/y4dg18do3dg3do3dg18k2r4k2do16dg3do3dg3do16dg3~x2/"><circle cx="380.4" cy="241.1" r="4" fill="#3465a4"><title>Ontario, Ensign of</title></circle></a><a href="/setts/s15/dg3do16dg3do3dg3do16k2r4k2dg18do3dg3do3dg16y3~x2/"><circle cx="387.1" cy="245.0" r="4" fill="#3465a4"><title>Ontario, Ensign of (District)</title></circle></a><a href="/setts/s10/k10lo1k3dt8dg8dg1dg8dt8k15lo1~x2/"><circle cx="332.5" cy="255.6" r="4" fill="#3465a4"><title>Ryder Cup 2006</title></circle></a><circle cx="385.7" cy="188.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s17/dg6n2lb1dg9dt2dg7dt4dg4dt7dg2dt20r1dt2r1dr3dt3r3~x2/

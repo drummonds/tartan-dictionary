@@ -1,0 +1,49 @@
+---
+title: "Arran - 1978 (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [BGBGBGRGRGRGRWRGRGRGRGBGB](/stripes/bgbgbgrgrgrgrwrgrgrgrgbgb/) · **Stripes:** [DP G DP G DP G R G R G R G R W R G R G R G R G DP G DP](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP G DP G DP G R G R G R G R W R G R G R G R G DP G DP</span></span>
+
+
+This was sourced from tartans-authority.  It is a [25 band tartan](/bands/bands25/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/381/
+
+## Thread count
+P/10 G4 P24 G16 R2 G4 R3 G3 R4 G2 R6 LN3 R6 G2 R4 G3 R3 G4 R2 G16 Pa4 Ga4 Pa4 Ga4 Pa/86
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| Ga | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Pa | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified Plaid 5](/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45o1db3o2db2o3db1o10w2db10t2o14t2~x2/) — ΔT 0.91
+1. [Isle of Arran (Lochcarron) (Fashion)](/setts/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3k2r3k1r2k2r2k2r1k7r10k2r4~x2/) — ΔT 1.11
+1. [Unidentified #5](/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/) — ΔT 1.18
+1. [Unidentified 22](/setts/s25/p96g10p8g8p10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34t36o6t18~x2/) — ΔT 1.24
+1. [Unidentified Plaid #11](/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45dy1db3dy2db2dy3db1dy10w2db10t2dy14t2~x2/) — ΔT 1.32
+1. [Arran, Isle of (Strathmore)](/setts/s25/dp86n4dp4n4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16n24k4n10~x2/) — ΔT 1.53
+1. [Arran District Tartan Tartan Number: 381. Earliest known date: 1982 The Arran District tartan is a modern sett introduced by MacNaughtons of Pitlochry in 1982. It has recently been produced with a colour modification by Lochcarron Mills in Galashiels. The unusual ever decreasing stripe effect is taken from a pattern book of old plaids found on the Isle of Arran. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/dp90o5dp5o5dp5k16r3k5r4k4r5k3r6w4r6k3r5k4r4k5r3k16o22k5/) — ΔT 1.59
+1. [Breeding](/setts/s18/w6k2r40k16dt6k2dt4k2n4k2t2k2n4dt7k2n6dt1r4~x2/) — ΔT 1.80
+1. [MacDougall of MacDougall](/setts/s24/t2dp10r3r4dg72r7dg4r10db24dp6r5r4r5dp7dg24r24dg24r3db3r74dp7r5r6t2~x2/) — ΔT 1.86
+1. [Unidentified Cant #13](/setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1t6g24w1r6db2r4db2r4db2r6m6db8m6r4db16m4~x2/) — ΔT 1.89
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45o1db3o2db2o3db1o10w2db10t2o14t2~x2/"><circle cx="310.2" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid 5</title></circle></a><a href="/setts/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3k2r3k1r2k2r2k2r1k7r10k2r4~x2/"><circle cx="283.0" cy="26.8" r="4" fill="#3465a4"><title>Isle of Arran (Lochcarron) (Fashion)</title></circle></a><a href="/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/"><circle cx="244.9" cy="28.7" r="4" fill="#3465a4"><title>Unidentified #5</title></circle></a><a href="/setts/s25/p96g10p8g8p10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34t36o6t18~x2/"><circle cx="273.6" cy="36.5" r="4" fill="#3465a4"><title>Unidentified 22</title></circle></a><a href="/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45dy1db3dy2db2dy3db1dy10w2db10t2dy14t2~x2/"><circle cx="292.1" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid #11</title></circle></a><a href="/setts/s25/dp86n4dp4n4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16n24k4n10~x2/"><circle cx="330.6" cy="55.0" r="4" fill="#3465a4"><title>Arran, Isle of (Strathmore)</title></circle></a><a href="/setts/s24/dp90o5dp5o5dp5k16r3k5r4k4r5k3r6w4r6k3r5k4r4k5r3k16o22k5/"><circle cx="277.6" cy="38.2" r="4" fill="#3465a4"><title>Arran District Tartan Tartan Number: 381. Earliest known date: 1982 The Arran District tartan is a modern sett introduced by MacNaughtons of Pitlochry in 1982. It has recently been produced with a colour modification by Lochcarron Mills in Galashiels. The unusual ever decreasing stripe effect is taken from a pattern book of old plaids found on the Isle of Arran. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/w6k2r40k16dt6k2dt4k2n4k2t2k2n4dt7k2n6dt1r4~x2/"><circle cx="231.1" cy="44.2" r="4" fill="#3465a4"><title>Breeding</title></circle></a><a href="/setts/s24/t2dp10r3r4dg72r7dg4r10db24dp6r5r4r5dp7dg24r24dg24r3db3r74dp7r5r6t2~x2/"><circle cx="250.1" cy="36.3" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><a href="/setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1t6g24w1r6db2r4db2r4db2r6m6db8m6r4db16m4~x2/"><circle cx="207.9" cy="25.8" r="4" fill="#3465a4"><title>Unidentified Cant #13</title></circle></a><circle cx="290.9" cy="20.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s25/dp86g4dp4g4dp4g16r2g4r3g3r4g2r6w3r6g2r4g3r3g4r2g16dp24g4dp10/

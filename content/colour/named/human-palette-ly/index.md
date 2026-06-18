@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#DCBC32;border:1px solid #0003;flex:none"></span><div><strong>Lemon</strong> · code <code>LY</code> · Human Palette · ref <code>32-06-095</code><br>sRGB <code>#DCBC32</code> · OKLab L 0.800 a -0.014 b +0.150 · grid <code>32-06-095</code></div></div>
 
+Lemon — a light yellow.
+
 The nearest named colour is **Yellow** (Base Six), 0.036 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
@@ -14,7 +16,7 @@ The nearest named colour is **Yellow** (Base Six), 0.036 away in OKLab ΔE.
 | <code style="background-color:#82D67A;"><span style="color:#82D67A;filter:grayscale(1) invert(1) contrast(100);">#82D67A</span></code> | [Lime](/colour/named/human-palette-lg/) | LG | Human Palette | 0.120 |
 | <code style="background-color:#FF9C97;"><span style="color:#FF9C97;filter:grayscale(1) invert(1) contrast(100);">#FF9C97</span></code> | [Pink](/colour/named/human-palette-lr/) | LR | Human Palette | 0.161 |
 | <code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> | [Sky](/colour/named/human-palette-lb/) | LB | Human Palette | 0.200 |
-| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lbg/) | LBG | Human Palette | 0.203 |
+| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lt/) | LT | Human Palette | 0.203 |
 
 Where it sits among the grid colours of its lightness level — the ringed dot, hue by angle, chroma by radius:
 

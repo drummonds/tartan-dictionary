@@ -1,0 +1,50 @@
+---
+title: "WVU Mountaineer (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [BYWBYW](/stripes/bywbyw/) · **Stripes:** [DT LY W DT LY W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT LY W DT LY W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10567/
+
+## Thread count
+DB/8 Y18 W8 DB18 Y36 W/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/8 Y18 W8 DB18 Y36 W/2 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [WVU Mountaineer Tartan](/setts/s6/db4ly9w4db9ly18w1~x2/) — ΔT 0.73
+1. [Burns (Fashion)](/setts/s6/w15do6w1do3o3w1~x4/) — ΔT 1.32
+1. [Fraser Yellow #2](/setts/s6/ly1db3ly1dg3ly8w1~x4/) — ΔT 1.74
+1. [Porter Drinkers', The](/setts/s6/k2ly6k2ly11k9r1~x2/) — ΔT 1.75
+1. [Wallace Green Dress Fashion Tartan Tartan Number: 2212. Earliest known date: pre 2004 A dancers tartan based on the Wallace See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w12g12w1g12w12lo1~x4/) — ΔT 1.76
+1. [Fraser, Yellow](/setts/s6/ly1db3ly1g3ly8w1~x4/) — ΔT 1.81
+1. [Lewis, Green (Dance)](/setts/s4/dg4w35g31w4~x2/) — ΔT 1.81
+1. [O'Neill Pipe Band 1999/ Oliver dress](/setts/s9/w2g1w2r6w10g6w2r1w2~x4/) — ΔT 1.81
+1. [Billy Apple® Yellow](/setts/s4/g1k8ly13r1~x6/) — ΔT 1.86
+1. [Jacobite #2](/setts/s6/ly70k30w3dg30k3ly10/) — ΔT 1.91
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db4ly9w4db9ly18w1~x2/"><circle cx="301.2" cy="179.6" r="4" fill="#3465a4"><title>WVU Mountaineer Tartan</title></circle></a><a href="/setts/s6/w15do6w1do3o3w1~x4/"><circle cx="323.5" cy="166.4" r="4" fill="#3465a4"><title>Burns (Fashion)</title></circle></a><a href="/setts/s6/ly1db3ly1dg3ly8w1~x4/"><circle cx="272.7" cy="191.9" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/setts/s6/k2ly6k2ly11k9r1~x2/"><circle cx="288.0" cy="202.1" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/setts/s6/w12g12w1g12w12lo1~x4/"><circle cx="273.7" cy="223.8" r="4" fill="#3465a4"><title>Wallace Green Dress Fashion Tartan Tartan Number: 2212. Earliest known date: pre 2004 A dancers tartan based on the Wallace See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/ly1db3ly1g3ly8w1~x4/"><circle cx="279.9" cy="194.0" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s4/dg4w35g31w4~x2/"><circle cx="282.2" cy="231.1" r="4" fill="#3465a4"><title>Lewis, Green (Dance)</title></circle></a><a href="/setts/s9/w2g1w2r6w10g6w2r1w2~x4/"><circle cx="287.7" cy="184.3" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1999/ Oliver dress</title></circle></a><a href="/setts/s4/g1k8ly13r1~x6/"><circle cx="283.7" cy="182.6" r="4" fill="#3465a4"><title>Billy Apple® Yellow</title></circle></a><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.5" cy="145.9" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><circle cx="316.5" cy="183.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/dt4ly9w4dt9ly18w1~x2/

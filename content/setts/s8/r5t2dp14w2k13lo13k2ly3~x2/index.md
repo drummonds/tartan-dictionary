@@ -1,0 +1,69 @@
+---
+title: "Culloden"
+date: 2023-03-18
+---
+**Bands:** [RBBWKYKY](/stripes/rbbwkyky/) · **Stripes:** [R T DP W K LO K LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R T DP W K LO K LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1746 — Culloden (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820))
+- 1893 — Culloden - 1893 (O&R) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1328/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [820](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820)
+- Scottish Tartans Authority (ITI): 1328
+- Scottish Tartans World Register: 1328
+
+## Thread count
+R/10 B4 P28 W4 K26 DY26 K4 Y/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "R/10 B4 P28 W4 K26 DY26 K4 Y/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Culloden, Gold](/setts/s8/r5t2dp14w2k13y13k2ly3~x2/) — ΔT 0.69
+1. [Walter (Personal)](/setts/s7/r24w3ly4dg18dp18y3t4~x2/) — ΔT 0.92
+1. [Walter](/setts/s7/r24w3ly4dg18p18dy3t4~x2/) — ΔT 0.93
+1. [Culloden (Old and Rare) District Tartan Tartan Number: 1328. Earliest known date: 1746 Worn by a member of Prince Charles' staff during the battle but it is not known with which family or district it was first connected. It was first illustrated in Old & Rare in 1893 by D W Stewart whose son D C Stewart was a founder member of the Scottish Tartans Society. Now firmly established as a district tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r5t2m14w2k13ly13k2ly3~x2/) — ΔT 0.94
+1. [Walter (Personal)](/setts/s12/r24w3ly4dg18dp18y3t4y3dp18dg18ly4w3~x2/) — ΔT 1.01
+1. [Maryland](/setts/s8/dt8t1db1t1m12ly6k12w2~x4/) — ΔT 1.08
+1. [Wilson's, No 83](/setts/s8/k14ly3g18r15w2r3w2p14~x2/) — ΔT 1.15
+1. [Wilson's, No 110](/setts/s9/ly3k2t3r14g19k3w3p10t3~x2/) — ΔT 1.16
+1. [Black Hills](/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/) — ΔT 1.17
+1. [Khosla, Sarah and Jatin (Personal)](/setts/s9/m4dt10m18ly3m3ly5r8dt9w4~x2/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5t2dp14w2k13y13k2ly3~x2/"><circle cx="35.4" cy="144.3" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/setts/s7/r24w3ly4dg18dp18y3t4~x2/"><circle cx="94.1" cy="149.7" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s7/r24w3ly4dg18p18dy3t4~x2/"><circle cx="95.4" cy="150.9" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/setts/s8/r5t2m14w2k13ly13k2ly3~x2/"><circle cx="31.5" cy="136.8" r="4" fill="#3465a4"><title>Culloden (Old and Rare) District Tartan Tartan Number: 1328. Earliest known date: 1746 Worn by a member of Prince Charles' staff during the battle but it is not known with which family or district it was first connected. It was first illustrated in Old &amp; Rare in 1893 by D W Stewart whose son D C Stewart was a founder member of the Scottish Tartans Society. Now firmly established as a district tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r24w3ly4dg18dp18y3t4y3dp18dg18ly4w3~x2/"><circle cx="67.3" cy="128.1" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.2" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s8/k14ly3g18r15w2r3w2p14~x2/"><circle cx="48.5" cy="154.0" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/setts/s9/ly3k2t3r14g19k3w3p10t3~x2/"><circle cx="66.6" cy="123.1" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/"><circle cx="59.5" cy="162.6" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/setts/s9/m4dt10m18ly3m3ly5r8dt9w4~x2/"><circle cx="62.2" cy="165.8" r="4" fill="#3465a4"><title>Khosla, Sarah and Jatin (Personal)</title></circle></a><circle cx="43.5" cy="144.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/r5t2dp14w2k13lo13k2ly3~x2/

@@ -1,0 +1,57 @@
+---
+title: "Ship Hector, The"
+date: 2023-03-18
+---
+**Bands:** [BKBGWGWGWGBKBK](/stripes/bkbgwgwgwgbkbk/) · **Stripes:** [DB K DB G W G W G W G DB K DB K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB G W G W G W G DB K DB K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3782
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3782](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3782)
+- Scottish Tartans Authority (ITI): 2597
+- Scottish Tartans World Register: 2597
+
+## Thread count
+DBa/20 YY10 DBa32 G6 W32 G10 W6 G10 W32 G6 DBa32 YY10 DBa20 K/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DBa | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Investors Group](/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/) — ΔT 1.22
+1. [Idaho (District)](/setts/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/) — ΔT 1.28
+1. [City of Pointe-Claire](/setts/s10/b4w1o1k2b4o2w1o1w1o1~x4/) — ΔT 1.29
+1. [Strakan](/setts/s9/db18o5db18ly14k3w3k3ly14o3~x2/) — ΔT 1.31
+1. [Sibbald Blue (2014)](/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/) — ΔT 1.32
+1. [Unidentified #55](/setts/s11/lo2db10r3lo2lb3lo2db3r3db3lb3lo2~x4/) — ΔT 1.33
+1. [U.S. Postal Service](/setts/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/) — ΔT 1.36
+1. [Poulter Hoylake](/setts/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/) — ΔT 1.36
+1. [Ship Hector, The (Commemorative)](/setts/s8/k3db10ly5db16g3w16g5w3~x2/) — ΔT 1.38
+1. [MacEwan Arisaid (Dance)](/setts/s12/lo3k2w18k18db18k3db3k3db18w18k2r3~x2/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="119.4" cy="200.3" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/"><circle cx="88.7" cy="170.0" r="4" fill="#3465a4"><title>Idaho (District)</title></circle></a><a href="/setts/s10/b4w1o1k2b4o2w1o1w1o1~x4/"><circle cx="130.8" cy="220.3" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/setts/s9/db18o5db18ly14k3w3k3ly14o3~x2/"><circle cx="130.6" cy="182.5" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/"><circle cx="123.4" cy="165.0" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/setts/s11/lo2db10r3lo2lb3lo2db3r3db3lb3lo2~x4/"><circle cx="137.8" cy="205.6" r="4" fill="#3465a4"><title>Unidentified #55</title></circle></a><a href="/setts/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/"><circle cx="125.6" cy="169.7" r="4" fill="#3465a4"><title>U.S. Postal Service</title></circle></a><a href="/setts/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><circle cx="97.6" cy="185.8" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/setts/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="110.0" cy="189.3" r="4" fill="#3465a4"><title>Ship Hector, The (Commemorative)</title></circle></a><a href="/setts/s12/lo3k2w18k18db18k3db3k3db18w18k2r3~x2/"><circle cx="113.1" cy="144.4" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><circle cx="106.2" cy="175.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2/

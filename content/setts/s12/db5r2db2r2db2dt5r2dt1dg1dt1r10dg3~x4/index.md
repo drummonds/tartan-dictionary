@@ -1,0 +1,49 @@
+---
+title: "Richards (Welsh Name)"
+date: 2023-03-18
+---
+**Bands:** [BRBRBBRBGBRG](/stripes/brbrbbrbgbrg/) · **Stripes:** [DB R DB R DB DT R DT DG DT R DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB R DB R DB DT R DT DG DT R DG</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/5761/
+
+## Thread count
+DBa/20 DR8 DBa8 DR8 DBa8 DB20 DR8 DB4 DG4 DB4 DR40 DGa/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DBa | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DGa | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DGb | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DR | <code style="background-color:#901C38;"><span style="color:#901C38;filter:grayscale(1) invert(1) contrast(100);">#901C38</span></code> `#901C38` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lochaber (Ingles Buchan)](/setts/s10/do6o4n22r4k22do22k2r5k2do6~x2/) — ΔT 1.46
+1. [Telfer, Jamie of the Fair Dodhead](/setts/s11/b1db5dp6dg2dp1dg12r1dg2dp1r5lo1~x4/) — ΔT 1.50
+1. [D'Souza (Personal)](/setts/s10/dp24k2dp2lo2dp2k20db16o2db2o3~x2/) — ΔT 1.58
+1. [McWilliams Dress (2014)](/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/) — ΔT 1.59
+1. [Jardine, of Castlemilk](/setts/s8/dr9o9n9r1db1o9db1r1~x4/) — ΔT 1.61
+1. [Berwick (Fashion)](/setts/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/) — ΔT 1.61
+1. [Grampian](/setts/s14/y24r2y3db14dt24r2dt3db3dt3r2dt24db14y3r2~x2/) — ΔT 1.63
+1. [Bute Heather, Autumn (Fashion)](/setts/s11/dp13ly2r38k13r8k8dp17dg2dp17k4dp11/) — ΔT 1.66
+1. [Hutchesons' Grammar School](/setts/s10/dt4r3dt30db30o4t8o4db30dt30r3~x2/) — ΔT 1.67
+1. [Bute Heather, Autumn](/setts/s11/db6ly1m18k6m4k4dp8dg1dp8k1db5~x2/) — ΔT 1.68
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/do6o4n22r4k22do22k2r5k2do6~x2/"><circle cx="236.1" cy="205.9" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/setts/s11/b1db5dp6dg2dp1dg12r1dg2dp1r5lo1~x4/"><circle cx="248.0" cy="174.6" r="4" fill="#3465a4"><title>Telfer, Jamie of the Fair Dodhead</title></circle></a><a href="/setts/s10/dp24k2dp2lo2dp2k20db16o2db2o3~x2/"><circle cx="261.9" cy="184.9" r="4" fill="#3465a4"><title>D'Souza (Personal)</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.7" cy="224.7" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/setts/s8/dr9o9n9r1db1o9db1r1~x4/"><circle cx="291.9" cy="233.5" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/setts/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="252.4" cy="185.3" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/setts/s14/y24r2y3db14dt24r2dt3db3dt3r2dt24db14y3r2~x2/"><circle cx="301.6" cy="199.3" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/setts/s11/dp13ly2r38k13r8k8dp17dg2dp17k4dp11/"><circle cx="307.2" cy="182.3" r="4" fill="#3465a4"><title>Bute Heather, Autumn (Fashion)</title></circle></a><a href="/setts/s10/dt4r3dt30db30o4t8o4db30dt30r3~x2/"><circle cx="289.9" cy="217.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/setts/s11/db6ly1m18k6m4k4dp8dg1dp8k1db5~x2/"><circle cx="244.1" cy="178.3" r="4" fill="#3465a4"><title>Bute Heather, Autumn</title></circle></a><circle cx="278.1" cy="207.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/db5r2db2r2db2dt5r2dt1dg1dt1r10dg3~x4/

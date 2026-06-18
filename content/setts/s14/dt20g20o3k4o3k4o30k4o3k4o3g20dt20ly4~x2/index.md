@@ -1,0 +1,51 @@
+---
+title: "Sikh Clan/Family Tartan Tartan Number: 2654. Earliest known date: 1999 Commissioned by a Mr A.J. Singh to celebrate the 50th anniversary of his family's arrival in Scotland. Can be worn by anyone of the Sikh faith. It was also to celebrate the 300th (??) anniversary of the founding of the Sikh religion that falls in the year Two Thousand. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BGRKRKRKRKRGBY](/stripes/bgrkrkrkrkrgby/) · **Stripes:** [DT G O K O K O K O K O G DT LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DT G O K O K O K O K O G DT LY</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2654
+
+## Thread count
+DN/40 G40 DO6 K8 DO6 K8 DO60 K8 DO6 K8 DO6 G40 DN40 Y/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DBa | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DN | <code style="background-color:#14283C;"><span style="color:#14283C;filter:grayscale(1) invert(1) contrast(100);">#14283C</span></code> `#14283C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| DO | <code style="background-color:#B84C00;"><span style="color:#B84C00;filter:grayscale(1) invert(1) contrast(100);">#B84C00</span></code> `#B84C00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fitzsimmons](/setts/s10/ly3y2k4o6k4y15k4dg18k2y3~x2/) — ΔT 0.88
+1. [Limerick](/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/) — ΔT 1.08
+1. [Unnamed C20th - Unregistered Error](/setts/s13/db13r2db2r6db25r2k27ly2dg25r6dg2r2dg13~x2/) — ΔT 1.13
+1. [Schneidersohne Centenary (Corporate)](/setts/s14/k3t5r5k3t5k3r5k3g20k3t10k3r5w3~x2/) — ΔT 1.14
+1. [New Zealand (2003)](/setts/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/) — ΔT 1.14
+1. [Macallan Distillery](/setts/s12/g8r1g2r3g12k12ly1t12r3t2r1t8~x2/) — ΔT 1.14
+1. [Bonnie Brae Corporate Tartan Tartan Number: 1450. Earliest known date: 1987 Y = Mustard. BR = brick. For Bonnie Brae School Millington See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/ly6g3ly3g3ly3g32db24r32ly3db3r6/) — ΔT 1.15
+1. [Allen - 2001 (Personal)](/setts/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12ly2r2ly2~x2/) — ΔT 1.17
+1. [Dorcas](/setts/s12/y4lr2y2lr3y20k6do4k2do2k2do16o3~x2/) — ΔT 1.20
+1. [Wcwm 9275-1258](/setts/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/) — ΔT 1.20
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly3y2k4o6k4y15k4dg18k2y3~x2/"><circle cx="163.5" cy="186.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s13/db13r2db2r6db25r2k27ly2dg25r6dg2r2dg13~x2/"><circle cx="175.5" cy="153.8" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/setts/s14/k3t5r5k3t5k3r5k3g20k3t10k3r5w3~x2/"><circle cx="83.8" cy="168.7" r="4" fill="#3465a4"><title>Schneidersohne Centenary (Corporate)</title></circle></a><a href="/setts/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/"><circle cx="162.3" cy="159.2" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/setts/s12/g8r1g2r3g12k12ly1t12r3t2r1t8~x2/"><circle cx="151.8" cy="161.8" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/setts/s11/ly6g3ly3g3ly3g32db24r32ly3db3r6/"><circle cx="152.0" cy="139.5" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan Tartan Number: 1450. Earliest known date: 1987 Y = Mustard. BR = brick. For Bonnie Brae School Millington See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12ly2r2ly2~x2/"><circle cx="141.0" cy="163.2" r="4" fill="#3465a4"><title>Allen - 2001 (Personal)</title></circle></a><a href="/setts/s12/y4lr2y2lr3y20k6do4k2do2k2do16o3~x2/"><circle cx="208.8" cy="153.8" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/setts/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="148.6" cy="150.4" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><circle cx="143.3" cy="159.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/dt20g20o3k4o3k4o30k4o3k4o3g20dt20ly4~x2/

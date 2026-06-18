@@ -1,0 +1,66 @@
+---
+title: "Irish Diaspora"
+date: 2023-03-18
+---
+**Bands:** [BKBKGKGKWKRKGK](/stripes/bkbkgkgkwkrkgk/) · **Stripes:** [B K B K G K G K W K O K G K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">B K B K G K G K W K O K G K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/04/2003 — Irish Diaspora (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853))
+- April 2003 — Irish Diaspora (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5827/))
+- undated — Irish Diaspora District Tartan Tartan Number: 5827. Earliest known date: 2003 An assymetric tartan designed by Erica Randall of The House of Edgar in Perth for all those of Irish descent at home in Ireland and around the world. The central stripes incorporate the colours of the Republic of Ireland flag. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5827))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1853](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853)
+- Scottish Tartans Authority (ITI): 5827
+
+## Thread count
+Ba/28 K6 Ba28 K20 G80 K2 Ga6 K2 LN6 K2 DO6 K2 G80 K/20
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Ba | <code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> `#1870A4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DO | <code style="background-color:#B84C00;"><span style="color:#B84C00;filter:grayscale(1) invert(1) contrast(100);">#B84C00</span></code> `#B84C00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| Ga | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kennedy Clan Tartan Tartan Number: 1123. Earliest known date: 1847 The Earls of Cassilis built Culzean Castle on the site of an ancient Kennedy stronghold. Dunure Castle near Culzean on the Ayrshire coast, was also owned by the Kennedys. The tartan was first recorded by MacIan in his book 'The Clans of the Scottish Highlands' (1847) which he co-authored with James Logan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/k2g2ly1g3m1g2m1g12db4k3db3k3db3k3db4g24r2~x2/) — ΔT 1.08
+1. [New York Caledonian Club Day](/setts/s11/g9lo1g2r3g28k16t1g8t1db8r1~x2/) — ΔT 1.10
+1. [McGran (Personal)](/setts/s14/r3g1w1r2dp2g10g3dp4g4dp2g32g3dp3lo2~x2/) — ΔT 1.18
+1. [King Edward VII (Royal)](/setts/s17/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/) — ΔT 1.19
+1. [State Seal of Vermont (Fashion)](/setts/s14/db4dg1g14dy8dg4lo3dg4dy8dg65dy5dg3b12dg1lo3~x2/) — ΔT 1.27
+1. [Neumann - German Pipe Smokers (Corp)](/setts/s13/k2r3ly1dy2ly1dt16ly1g32ly1k2ly1r1k1~x2/) — ΔT 1.33
+1. [Macmillan Cancer Support](/setts/s9/p4g24dg6lg4dg4lg4dg44lo1w4/) — ΔT 1.34
+1. [Unidentified #30](/setts/s20/dg82k2dg2k2dg2k8db28k1w6k1db28k1ly6k1dg32k2r5k2dg15w6~x2/) — ΔT 1.35
+1. [State Seal of Maryland (Fashion)](/setts/s12/k3lo3k2b40lb3b10g10lo3g21k1r3lb3~x2/) — ΔT 1.37
+1. [New York Caledonian Club Day](/setts/s11/g9o1g2r3g28k16lb1g8lb1db8r1~x2/) — ΔT 1.39
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/k2g2ly1g3m1g2m1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="333.2" cy="99.6" r="4" fill="#3465a4"><title>Kennedy Clan Tartan Tartan Number: 1123. Earliest known date: 1847 The Earls of Cassilis built Culzean Castle on the site of an ancient Kennedy stronghold. Dunure Castle near Culzean on the Ayrshire coast, was also owned by the Kennedys. The tartan was first recorded by MacIan in his book 'The Clans of the Scottish Highlands' (1847) which he co-authored with James Logan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g9lo1g2r3g28k16t1g8t1db8r1~x2/"><circle cx="348.0" cy="121.1" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/setts/s14/r3g1w1r2dp2g10g3dp4g4dp2g32g3dp3lo2~x2/"><circle cx="323.3" cy="78.2" r="4" fill="#3465a4"><title>McGran (Personal)</title></circle></a><a href="/setts/s17/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/"><circle cx="353.8" cy="105.9" r="4" fill="#3465a4"><title>King Edward VII (Royal)</title></circle></a><a href="/setts/s14/db4dg1g14dy8dg4lo3dg4dy8dg65dy5dg3b12dg1lo3~x2/"><circle cx="387.2" cy="75.9" r="4" fill="#3465a4"><title>State Seal of Vermont (Fashion)</title></circle></a><a href="/setts/s13/k2r3ly1dy2ly1dt16ly1g32ly1k2ly1r1k1~x2/"><circle cx="303.9" cy="69.6" r="4" fill="#3465a4"><title>Neumann - German Pipe Smokers (Corp)</title></circle></a><a href="/setts/s9/p4g24dg6lg4dg4lg4dg44lo1w4/"><circle cx="332.1" cy="91.2" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/setts/s20/dg82k2dg2k2dg2k8db28k1w6k1db28k1ly6k1dg32k2r5k2dg15w6~x2/"><circle cx="355.6" cy="46.4" r="4" fill="#3465a4"><title>Unidentified #30</title></circle></a><a href="/setts/s12/k3lo3k2b40lb3b10g10lo3g21k1r3lb3~x2/"><circle cx="298.4" cy="89.0" r="4" fill="#3465a4"><title>State Seal of Maryland (Fashion)</title></circle></a><a href="/setts/s11/g9o1g2r3g28k16lb1g8lb1db8r1~x2/"><circle cx="345.8" cy="114.6" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><circle cx="329.9" cy="90.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/b14k3b14k10g40k1g3k1w3k1o3k1g40k10~x2/

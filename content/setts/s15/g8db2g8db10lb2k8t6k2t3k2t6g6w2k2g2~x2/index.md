@@ -1,0 +1,64 @@
+---
+title: "Leel (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GBGBWKBKBKBGWKG](/stripes/gbgbwkbkbkbgwkg/) · **Stripes:** [G DB G DB LB K T K T K T G W K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB G DB LB K T K T K T G W K G</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2083
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2002 — Leel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2083))
+- pre 2004 — Leel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6205/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2083](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2083)
+- Scottish Tartans Authority (ITI): 6205
+- Scottish Tartans World Register: 2900
+
+## Thread count
+G/16 DB4 G16 DB20 LP4 K16 B12 K4 B6 K4 B12 G12 W4 K4 G/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> `#408060` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LP | <code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> `#A8ACE8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.23 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Smithers (Name)](/setts/s11/dp2b6n1b3lb1b4k6g5k1g5dp2~x4/) — ΔT 0.91
+1. [Dyer](/setts/s13/w2k1dg4g4dg4k1dg1k1db4t5db4k1w1~x4/) — ΔT 0.99
+1. [Smithers](/setts/s20/g5k1g5k6b4lb1b3n1b6dp2b6n1b3lb1b4k6g5k1g5dp2~x4/) — ΔT 1.02
+1. [O'Sullivan](/setts/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/) — ΔT 1.27
+1. [Huntly Gordon 2000](/setts/s10/dt3b12k11g11ly2g11k11b12dt3r2~x2/) — ΔT 1.30
+1. [DunBroch](/setts/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/) — ΔT 1.35
+1. [Hoban (Personal)](/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/) — ΔT 1.37
+1. [Festival Celtique de Québec](/setts/s14/g5k1g5k1db5w1db5g2w1lo2db1r3lo1r3~x4/) — ΔT 1.37
+1. [North of Scotland Tartan Army](/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/) — ΔT 1.37
+1. [Keith (District)](/setts/s13/b18r5b3r5b3k20g18ly4g18k20b20k6b6/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp2b6n1b3lb1b4k6g5k1g5dp2~x4/"><circle cx="96.2" cy="206.7" r="4" fill="#3465a4"><title>Smithers (Name)</title></circle></a><a href="/setts/s13/w2k1dg4g4dg4k1dg1k1db4t5db4k1w1~x4/"><circle cx="14.0" cy="190.1" r="4" fill="#3465a4"><title>Dyer</title></circle></a><a href="/setts/s20/g5k1g5k6b4lb1b3n1b6dp2b6n1b3lb1b4k6g5k1g5dp2~x4/"><circle cx="97.1" cy="184.7" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/setts/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/"><circle cx="20.4" cy="190.0" r="4" fill="#3465a4"><title>O'Sullivan</title></circle></a><a href="/setts/s10/dt3b12k11g11ly2g11k11b12dt3r2~x2/"><circle cx="74.1" cy="213.8" r="4" fill="#3465a4"><title>Huntly Gordon 2000</title></circle></a><a href="/setts/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/"><circle cx="55.5" cy="222.1" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><a href="/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/"><circle cx="46.9" cy="168.0" r="4" fill="#3465a4"><title>Hoban (Personal)</title></circle></a><a href="/setts/s14/g5k1g5k1db5w1db5g2w1lo2db1r3lo1r3~x4/"><circle cx="46.3" cy="171.0" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.8" cy="168.3" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/setts/s13/b18r5b3r5b3k20g18ly4g18k20b20k6b6/"><circle cx="110.5" cy="198.0" r="4" fill="#3465a4"><title>Keith (District)</title></circle></a><circle cx="61.3" cy="188.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/g8db2g8db10lb2k8t6k2t3k2t6g6w2k2g2~x2/

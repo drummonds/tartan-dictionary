@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Rice of Wales](/clan/rice/wales/)
+- [Rice of Wales](/families/rice-of-wales/)
 

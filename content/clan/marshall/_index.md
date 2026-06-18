@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Marshall of Keith](/clan/marshall/keith/)
+- [Marshall of Keith](/families/marshall-of-keith/)
 

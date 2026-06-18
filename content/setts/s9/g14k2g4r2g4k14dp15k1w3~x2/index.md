@@ -1,0 +1,55 @@
+---
+title: "MacRae Hunting #2"
+date: 2023-03-18
+---
+**Bands:** [GKGRGKBKW](/stripes/gkgrgkbkw/) · **Stripes:** [G K G R G K DP K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G K G R G K DP K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2745
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2745](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2745)
+- Scottish Tartans World Register: 807
+
+## Thread count
+G/28 K4 G8 DR4 G8 K28 P30 K2 LN/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#960028;"><span style="color:#960028;filter:grayscale(1) invert(1) contrast(100);">#960028</span></code> `#960028` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| G | <code style="background-color:#006428;"><span style="color:#006428;filter:grayscale(1) invert(1) contrast(100);">#006428</span></code> `#006428` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#5A008C;"><span style="color:#5A008C;filter:grayscale(1) invert(1) contrast(100);">#5A008C</span></code> `#5A008C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Sandberg of Greenock (Personal)](/setts/s8/ly3k12db1g5db12r1k2r1~x4/) — ΔT 0.60
+1. [Ferguson - 1830 of Atholl (Clan)](/setts/s7/db18k10g6r4g6k1w2~x2/) — ΔT 0.66
+1. [MacMillan Htg (1906) (Clan)](/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/) — ΔT 0.72
+1. [Ofally, County](/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/) — ΔT 0.73
+1. [Cameron of Erracht (Clan)](/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/) — ΔT 0.75
+1. [Genet, Citizen (Commem)](/setts/s7/r2k9g12db8r1db1w1~x4/) — ΔT 0.77
+1. [MacFadzean/MacPhedran](/setts/s7/g3db12w1k12g13r2g2~x4/) — ΔT 0.78
+1. [Curry (Personal)](/setts/s8/r3g2r6g20k15g3db18w2~x2/) — ΔT 0.79
+1. [Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g4r3g11k10w2db22w2k10g11r3~x2/) — ΔT 0.81
+1. [MacDonell of Glengarry #3](/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/) — ΔT 0.81
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly3k12db1g5db12r1k2r1~x4/"><circle cx="188.1" cy="169.7" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.5" cy="175.6" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/"><circle cx="162.9" cy="179.1" r="4" fill="#3465a4"><title>MacMillan Htg (1906) (Clan)</title></circle></a><a href="/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="171.7" cy="163.8" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.1" cy="156.3" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.8" cy="183.1" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.8" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s8/r3g2r6g20k15g3db18w2~x2/"><circle cx="163.5" cy="187.8" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/setts/s10/g4r3g11k10w2db22w2k10g11r3~x2/"><circle cx="139.1" cy="179.1" r="4" fill="#3465a4"><title>Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><circle cx="183.7" cy="165.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/g14k2g4r2g4k14dp15k1w3~x2/

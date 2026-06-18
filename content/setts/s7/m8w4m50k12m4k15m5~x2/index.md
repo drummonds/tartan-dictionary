@@ -1,0 +1,51 @@
+---
+title: "Instakilt, Pink (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [RKRKRWR](/stripes/rkrkrwr/) · **Stripes:** [M K M K M W M](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M K M K M W M</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7550/
+
+## Thread count
+LR/16 W8 LR100 K24 LR8 K30 P/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LR | <code style="background-color:#D84C70;"><span style="color:#D84C70;filter:grayscale(1) invert(1) contrast(100);">#D84C70</span></code> `#D84C70` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| P | <code style="background-color:#B468AC;"><span style="color:#B468AC;filter:grayscale(1) invert(1) contrast(100);">#B468AC</span></code> `#B468AC` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.21 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LR/16 W8 LR100 K24 LR8 K30 P/10 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Texas Lone Star (Fashion)](/setts/s7/r50db14w6db9lo3db4r4~x2/) — ΔT 0.83
+1. [Texas Lone Star](/setts/s7/r50db14w6db9ly3db4r4~x2/) — ΔT 0.96
+1. [Instakilt, Red (Fashion)](/setts/s7/r8w4r50k12r4k15g5~x2/) — ΔT 1.30
+1. [Brock University Alumni Association](/setts/s6/r52lo2db16lo2db3w5~x2/) — ΔT 1.36
+1. [Gavin (Personal)](/setts/s7/w26dr2w3dr15dr26dr2dr3~x2/) — ΔT 1.38
+1. [Turner (Personal)](/setts/s5/r48k12o7k5w3~x2/) — ΔT 1.44
+1. [Broberg (Scania) (Personal)](/setts/s4/r80lb40k5lo6/) — ΔT 1.48
+1. [Leslie Red (VS) (Clan)](/setts/s8/r2k3ly1k3r2db8r16k1~x4/) — ΔT 1.48
+1. [Unnamed C21st (Lady's Jacket) (Fash)](/setts/s7/m3dg8m3db8m20w2m2~x4/) — ΔT 1.49
+1. [Loch Lochy](/setts/s8/r6dg14r6db11r31lb2r4ly3~x2/) — ΔT 1.50
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r50db14w6db9lo3db4r4~x2/"><circle cx="372.9" cy="139.1" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/setts/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="350.6" cy="123.7" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/setts/s7/r8w4r50k12r4k15g5~x2/"><circle cx="366.8" cy="150.4" r="4" fill="#3465a4"><title>Instakilt, Red (Fashion)</title></circle></a><a href="/setts/s6/r52lo2db16lo2db3w5~x2/"><circle cx="421.0" cy="119.7" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/setts/s7/w26dr2w3dr15dr26dr2dr3~x2/"><circle cx="305.3" cy="151.8" r="4" fill="#3465a4"><title>Gavin (Personal)</title></circle></a><a href="/setts/s5/r48k12o7k5w3~x2/"><circle cx="395.5" cy="161.2" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/setts/s4/r80lb40k5lo6/"><circle cx="362.0" cy="182.8" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/setts/s8/r2k3ly1k3r2db8r16k1~x4/"><circle cx="333.6" cy="151.1" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><a href="/setts/s7/m3dg8m3db8m20w2m2~x4/"><circle cx="334.7" cy="185.3" r="4" fill="#3465a4"><title>Unnamed C21st (Lady's Jacket) (Fash)</title></circle></a><a href="/setts/s8/r6dg14r6db11r31lb2r4ly3~x2/"><circle cx="332.9" cy="143.4" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><circle cx="366.3" cy="153.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/m8w4m50k12m4k15m5~x2/

@@ -1,0 +1,52 @@
+---
+title: "MacLean of Duart Dress Clan Tartan Tartan Number: 573. Earliest known date: pre 2003 White and Yellow are in silk. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BRBGBRBRWRWK](/stripes/brbgbrbrwrwk/) · **Stripes:** [T M DB G DR R DR R W O W K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">T M DB G DR R DR R W O W K</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=573
+
+## Thread count
+B/24 P4 DB8 G4 DR6 R6 DR6 R38 LN60 N4 LN8 K/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#480800;"><span style="color:#480800;filter:grayscale(1) invert(1) contrast(100);">#480800</span></code> `#480800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.24 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| P | <code style="background-color:#B468AC;"><span style="color:#B468AC;filter:grayscale(1) invert(1) contrast(100);">#B468AC</span></code> `#B468AC` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.21 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dundee Dress](/setts/s14/r36r2k16r2w19ly4w2k2w2ly4w12t2db10g10~x2/) — ΔT 1.58
+1. [Dundee Dress District Tartan Tartan Number: 691. Earliest known date: 1986 Original index card confused. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r36m2k16m2w19ly4w2k2w2ly4w12t2db10g10~x2/) — ΔT 1.60
+1. [Contrecoeur Corporate Tartan Tartan Number: 2294. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/ly10dy1g2ly2w2r1k2ly2g2dy1ly10r7w3r13db5~x2/) — ΔT 1.79
+1. [Dundee (1819) (District)](/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/) — ΔT 1.79
+1. [Dundee](/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/) — ΔT 1.83
+1. [Oregon, State of](/setts/s11/ly3dp5g2dp2g2w1g4lr12r2t2k2~x4/) — ΔT 1.84
+1. [Campbell, New Louden](/setts/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/) — ΔT 1.91
+1. [MacLean of Duart, dress](/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/) — ΔT 1.92
+1. [Dundee](/setts/s14/r42r2k15r2g22ly4w2p2w2ly4t7w2p6w6~x2/) — ΔT 1.95
+1. [Dundee Pink Variation](/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/) — ΔT 1.99
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r36r2k16r2w19ly4w2k2w2ly4w12t2db10g10~x2/"><circle cx="60.5" cy="39.0" r="4" fill="#3465a4"><title>Dundee Dress</title></circle></a><a href="/setts/s14/r36m2k16m2w19ly4w2k2w2ly4w12t2db10g10~x2/"><circle cx="60.9" cy="39.3" r="4" fill="#3465a4"><title>Dundee Dress District Tartan Tartan Number: 691. Earliest known date: 1986 Original index card confused. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/ly10dy1g2ly2w2r1k2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="90.5" cy="62.5" r="4" fill="#3465a4"><title>Contrecoeur Corporate Tartan Tartan Number: 2294. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.2" cy="26.5" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.8" cy="27.4" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s11/ly3dp5g2dp2g2w1g4lr12r2t2k2~x4/"><circle cx="60.9" cy="93.1" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><a href="/setts/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/"><circle cx="135.6" cy="53.4" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.8" cy="66.6" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2p2w2ly4t7w2p6w6~x2/"><circle cx="103.9" cy="24.9" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/"><circle cx="119.5" cy="35.2" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><circle cx="102.2" cy="31.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/t12m2db4g2dr3r3dr3r19w30o2w4k2~x2/

@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s12/b25k2b2k2b2k21g23r5g23k20b19r5~b304080-g008000-k000000-rc00000~x2/"><img src="/setts/s12/b25k2b2k2b2k21g23r5g23k20b19r5~b304080-g008000-k000000-rc00000~x2/sett.png" alt="Murray of Atholl" width="240"><br>Murray of Atholl</a>
+<a class="tartan" href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><img src="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/sett.png" alt="Murray of Atholl" width="240"><br>Murray of Atholl</a>
 

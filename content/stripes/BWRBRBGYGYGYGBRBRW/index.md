@@ -1,0 +1,27 @@
+---
+title: Pattern BWRBRBGYGYGYGBRBRW
+date: 2023-03-18
+aliases:
+- /patterns/bwrbrbgygygygbrbrw/
+---
+BWRBRBGYGYGYGBRBRW
+
+It is a 18 band tartan.
+
+
+
+## Colour Sequence
+BWRBRBGYGYGYGBRBRW
+
+
+## Tartans with this colour sequence
+
+
+
+### B W M B R B G LY G LY G LY G B R B M W <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B W M B R B G LY G LY G LY G B R B M W</span></span>
+
+| Tartans |
+|---------------|
+| [Hobkirk](/setts/s18/b5w1m9b5r4b5g20ly1g1ly1g1ly1g20b5r4b5m9w1~x4/)|
+|![Hobkirk example sett](/setts/s18/b5w1m9b5r4b5g20ly1g1ly1g1ly1g20b5r4b5m9w1~x4/sett.png)|
+

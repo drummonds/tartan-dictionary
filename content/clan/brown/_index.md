@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Brown of Castledean](/clan/brown/castledean/)
-- [Brown of the Southeast](/clan/brown/the-southeast/)
+- [Brown of Castledean](/families/brown-of-castledean/)
+- [Brown of the Southeast](/families/brown-of-the-southeast/)
 

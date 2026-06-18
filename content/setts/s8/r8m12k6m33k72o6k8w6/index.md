@@ -1,0 +1,52 @@
+---
+title: "Sreijsener (Name)"
+date: 2023-03-18
+---
+**Bands:** [RRKRKRKW](/stripes/rrkrkrkw/) · **Stripes:** [R M K M K O K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R M K M K O K W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8272/
+
+## Thread count
+LN/6 K8 N6 K72 R33 K6 R12 Ra/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#980044;"><span style="color:#980044;filter:grayscale(1) invert(1) contrast(100);">#980044</span></code> `#980044` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+| Ra | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/6 K8 N6 K72 R33 K6 R12 Ra/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brotherhood of Dirk (Corporate)](/setts/s11/r9k3r9k2b4k4dp4k3dp2k32y6~x2/) — ΔT 0.90
+1. [Toronto Fire Services (Corporate)](/setts/s8/k4r2lb2r28db27r2k2lo2~x2/) — ΔT 1.13
+1. [Brotherhood of Dirk, The](/setts/s11/r9k3r9k2n4k4dp4k3dp2k32lg6~x2/) — ΔT 1.19
+1. [Ayllu Thuban (Corporate)](/setts/s5/dp46k6g9lo9r4/) — ΔT 1.21
+1. [Drambuie](/setts/s6/ly6k5lo4k48r36w6/) — ΔT 1.26
+1. [MacShimsi](/setts/s5/r11r5g5k40ly3~x2/) — ΔT 1.35
+1. [Westin Kierland](/setts/s8/o2k37r10db3r5lo4r3w2~x2/) — ΔT 1.36
+1. [Hudson (Personal)](/setts/s11/db4t2k2db12t4r6k6r28k2t2r3~x2/) — ΔT 1.40
+1. [Westin Kierland (Corporate)](/setts/s8/lb2r3ly4r5db3r10k38lo2~x2/) — ΔT 1.40
+1. [Ikelman No 4](/setts/s7/r10k15g2k2w1k1w1~x4/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r9k3r9k2b4k4dp4k3dp2k32y6~x2/"><circle cx="314.8" cy="133.5" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/setts/s8/k4r2lb2r28db27r2k2lo2~x2/"><circle cx="294.4" cy="144.3" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/setts/s11/r9k3r9k2n4k4dp4k3dp2k32lg6~x2/"><circle cx="319.9" cy="139.4" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/setts/s5/dp46k6g9lo9r4/"><circle cx="346.8" cy="182.2" r="4" fill="#3465a4"><title>Ayllu Thuban (Corporate)</title></circle></a><a href="/setts/s6/ly6k5lo4k48r36w6/"><circle cx="266.4" cy="166.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/setts/s5/r11r5g5k40ly3~x2/"><circle cx="349.7" cy="179.6" r="4" fill="#3465a4"><title>MacShimsi</title></circle></a><a href="/setts/s8/o2k37r10db3r5lo4r3w2~x2/"><circle cx="300.4" cy="102.1" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/setts/s11/db4t2k2db12t4r6k6r28k2t2r3~x2/"><circle cx="289.6" cy="144.0" r="4" fill="#3465a4"><title>Hudson (Personal)</title></circle></a><a href="/setts/s8/lb2r3ly4r5db3r10k38lo2~x2/"><circle cx="313.4" cy="108.6" r="4" fill="#3465a4"><title>Westin Kierland (Corporate)</title></circle></a><a href="/setts/s7/r10k15g2k2w1k1w1~x4/"><circle cx="318.2" cy="158.9" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><circle cx="319.6" cy="153.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/r8m12k6m33k72o6k8w6/

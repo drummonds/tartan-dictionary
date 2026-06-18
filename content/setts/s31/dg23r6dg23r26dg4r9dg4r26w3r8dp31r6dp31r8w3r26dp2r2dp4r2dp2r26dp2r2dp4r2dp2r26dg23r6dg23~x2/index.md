@@ -1,0 +1,54 @@
+---
+title: "Ross #3"
+date: 2023-03-18
+---
+**Bands:** [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/) · **Stripes:** [DG R DG R DP R DP R DP R DP R DP R DP R W R DP R DP R W R DG R DG R DG R DG](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG R DP R DP R DP R DP R DP R DP R W R DP R DP R W R DG R DG R DG R DG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [31 band tartan](/bands/bands31/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3554
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3554](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3554)
+- Scottish Tartans World Register: 863
+
+## Thread count
+G/46 R12 G46 R52 G8 R18 G8 R52 LN6 R16 P62 R12 P62 R16 LN6 R52 P4 R4 P8 R4 P4 R52 P4 R4 P8 R4 P4 R52 G46 R12 G/46
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#5A008C;"><span style="color:#5A008C;filter:grayscale(1) invert(1) contrast(100);">#5A008C</span></code> `#5A008C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ross 7](/setts/s31/g23r6g23r26g4r9g4r26w3r8p31r6p31r8w3r26p2r2p4r2p2r26p2r2p4r2p2r26g23r6g23~x2/) — ΔT 0.71
+1. [MacLeod Red](/setts/s21/db4r1db1r2db11r2db1r1ly1r1db1r16db8r4g4r16g11r8db4r2ly2~x2/) — ΔT 0.96
+1. [Murray of Tullibardine](/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6dg6r22dg23r14db8r7k3~x2/) — ΔT 1.04
+1. [MacLeod of Tullibardine](/setts/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/) — ΔT 1.09
+1. [Summerville Presbyterian Church (Cor](/setts/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/) — ΔT 1.13
+1. [Lumsden, of Clova](/setts/s31/db9r2db9r9g1r1g2r1g1r9g1r1g2r1g1r9w1r4db11r2db11r4w1r9g2r4g2r9g9r2g9~x2/) — ΔT 1.16
+1. [Hebrides #2](/setts/s20/db25db2r25g10r4db25r2g2r25g2r2g2r25g2r2db25r4g10r25db2~x2/) — ΔT 1.16
+1. [Huntly (District)](/setts/s33/dg32r7dg32r33dg4r12dg4r33w3r12ly3dp33r7dp33ly3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/) — ΔT 1.18
+1. [Murray of Tullibardine 2](/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3~x2/) — ΔT 1.21
+1. [Marchioness of Huntly's](/setts/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s31/g23r6g23r26g4r9g4r26w3r8p31r6p31r8w3r26p2r2p4r2p2r26p2r2p4r2p2r26g23r6g23~x2/"><circle cx="276.7" cy="112.8" r="4" fill="#3465a4"><title>Ross 7</title></circle></a><a href="/setts/s21/db4r1db1r2db11r2db1r1ly1r1db1r16db8r4g4r16g11r8db4r2ly2~x2/"><circle cx="300.9" cy="120.7" r="4" fill="#3465a4"><title>MacLeod Red</title></circle></a><a href="/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6dg6r22dg23r14db8r7k3~x2/"><circle cx="259.1" cy="132.5" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/setts/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/"><circle cx="268.3" cy="142.1" r="4" fill="#3465a4"><title>MacLeod of Tullibardine</title></circle></a><a href="/setts/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/"><circle cx="222.0" cy="113.5" r="4" fill="#3465a4"><title>Summerville Presbyterian Church (Cor</title></circle></a><a href="/setts/s31/db9r2db9r9g1r1g2r1g1r9g1r1g2r1g1r9w1r4db11r2db11r4w1r9g2r4g2r9g9r2g9~x2/"><circle cx="246.8" cy="135.1" r="4" fill="#3465a4"><title>Lumsden, of Clova</title></circle></a><a href="/setts/s20/db25db2r25g10r4db25r2g2r25g2r2g2r25g2r2db25r4g10r25db2~x2/"><circle cx="293.4" cy="138.3" r="4" fill="#3465a4"><title>Hebrides #2</title></circle></a><a href="/setts/s33/dg32r7dg32r33dg4r12dg4r33w3r12ly3dp33r7dp33ly3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33dg32r6dg23/"><circle cx="274.5" cy="91.2" r="4" fill="#3465a4"><title>Huntly (District)</title></circle></a><a href="/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3~x2/"><circle cx="254.7" cy="133.5" r="4" fill="#3465a4"><title>Murray of Tullibardine 2</title></circle></a><a href="/setts/s33/g32r7g32r33g4r12g4r33lb3r12ly3dp33r7dp33ly3r12lb3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r7g32~x2/"><circle cx="271.7" cy="92.2" r="4" fill="#3465a4"><title>Marchioness of Huntly's</title></circle></a><circle cx="265.9" cy="106.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s31/dg23r6dg23r26dg4r9dg4r26w3r8dp31r6dp31r8w3r26dp2r2dp4r2dp2r26dp2r2dp4r2dp2r26dg23r6dg23~x2/

@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Laing of Archiestown](/clan/laing/archiestown/)
-- [Laing of Archiestown Clan/Family](/clan/laing/archiestown-clan-family/)
+- [Laing of Archiestown](/families/laing-of-archiestown/)
+- [Laing of Archiestown Clan/Family](/families/laing-of-archiestown-clan-family/)
 

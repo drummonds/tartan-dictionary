@@ -1,0 +1,55 @@
+---
+title: "Skye, Isle of"
+date: 2023-03-18
+---
+**Bands:** [BKBKYKBBKBYBKBBKYKBK](/stripes/bkbkykbbkbybkbbkykbk/) · **Stripes:** [B K N K LO K N B K B LO B K B N K LO K N K](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">B K N K LO K N B K B LO B K B N K LO K N K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3815
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3815](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3815)
+- Scottish Tartans Authority (ITI): 385
+- Scottish Tartans World Register: 385
+
+## Thread count
+B/90 K20 N4 K4 DY4 K4 N20 B8 K2 B10 DY2 B10 K2 B8 N20 K4 DY4 K4 N4 K/20
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2474E8;"><span style="color:#2474E8;filter:grayscale(1) invert(1) contrast(100);">#2474E8</span></code> `#2474E8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tyneside Blue Corporate Tartan Tartan Number: 2351. Earliest known date: July 1996 Designed for Pipe Band uniforms. Based on the Earl of St Andrews tartan with an additional red in the over check linking with the McGregor tartan which the band had worn since its foundation in 1958. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b62db22w3db2w2db3r1db3w2db2w3db22~x2/) — ΔT 1.29
+1. [St. Andrews (District)](/setts/s14/db48w3db4w3db3b16g2b5g3b4g4b3g5ly2~x2/) — ΔT 1.55
+1. [Scottish Bluebell (Corporate)](/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8/) — ΔT 1.70
+1. [Estonian National Tartan Estonian District Tartan Tartan Number: 6777. Earliest known date: 2005 September The Estonian National Tartan designed by Kirsty Anderson of the MacNaughton Group, Perth. Organised by Shaw Marketing of Edinburgh (0131 557 5663) and to be launched during Estonian Week at the end of October. Colours taken from the Estonian national Flag. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/b32ly1r3ly1b32k5b3k2w1k2b3k53b3k2w1k2b3k5~x2/) — ΔT 1.77
+1. [Marist School, The Corporate Tartan Tartan Number: 2376. Earliest known date: 1996 Designed for the 50th anniversary of this Catholic school in Sunninghill, Berkshire and to celebrate the appointment of the new Head Mistress, Mrs Krysia Butwilowska. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db29db2db1db1db1db1t8lo1t8db1db1db1db1db2~x4/) — ΔT 1.81
+1. [De Clercq, Christian (Belgium)](/setts/s13/lb3db1lb1r1lb1db10r1lb9b35lo2b2lo1lb2~x2/) — ΔT 1.81
+1. [St. Andrews](/setts/s26/db48w3db4w3db3b16g2b5g3b4g4b3g5ly2g5b3g4b4g3b5g2b16db3w3db4w3~x2/) — ΔT 1.84
+1. [Matheson Hunting (Blue)](/setts/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/) — ΔT 1.85
+1. [Unknown](/setts/s11/o3lb1o1lb1o2lb3o14dt2o2dt32r2~x2/) — ΔT 1.86
+1. [Whitworth (Name)](/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/) — ΔT 1.87
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/b62db22w3db2w2db3r1db3w2db2w3db22~x2/"><circle cx="374.9" cy="92.1" r="4" fill="#3465a4"><title>Tyneside Blue Corporate Tartan Tartan Number: 2351. Earliest known date: July 1996 Designed for Pipe Band uniforms. Based on the Earl of St Andrews tartan with an additional red in the over check linking with the McGregor tartan which the band had worn since its foundation in 1958. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/db48w3db4w3db3b16g2b5g3b4g4b3g5ly2~x2/"><circle cx="304.5" cy="93.5" r="4" fill="#3465a4"><title>St. Andrews (District)</title></circle></a><a href="/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8/"><circle cx="391.8" cy="109.3" r="4" fill="#3465a4"><title>Scottish Bluebell (Corporate)</title></circle></a><a href="/setts/s18/b32ly1r3ly1b32k5b3k2w1k2b3k53b3k2w1k2b3k5~x2/"><circle cx="355.4" cy="55.5" r="4" fill="#3465a4"><title>Estonian National Tartan Estonian District Tartan Tartan Number: 6777. Earliest known date: 2005 September The Estonian National Tartan designed by Kirsty Anderson of the MacNaughton Group, Perth. Organised by Shaw Marketing of Edinburgh (0131 557 5663) and to be launched during Estonian Week at the end of October. Colours taken from the Estonian national Flag. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/db29db2db1db1db1db1t8lo1t8db1db1db1db1db2~x4/"><circle cx="397.9" cy="108.5" r="4" fill="#3465a4"><title>Marist School, The Corporate Tartan Tartan Number: 2376. Earliest known date: 1996 Designed for the 50th anniversary of this Catholic school in Sunninghill, Berkshire and to celebrate the appointment of the new Head Mistress, Mrs Krysia Butwilowska. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/lb3db1lb1r1lb1db10r1lb9b35lo2b2lo1lb2~x2/"><circle cx="346.4" cy="77.4" r="4" fill="#3465a4"><title>De Clercq, Christian (Belgium)</title></circle></a><a href="/setts/s26/db48w3db4w3db3b16g2b5g3b4g4b3g5ly2g5b3g4b4g3b5g2b16db3w3db4w3~x2/"><circle cx="220.2" cy="68.6" r="4" fill="#3465a4"><title>St. Andrews</title></circle></a><a href="/setts/s21/y8db4y1db1y1db24k8y4db1y1db1y4db8y1db1y1db1k8y8db2y2~x4/"><circle cx="312.2" cy="124.3" r="4" fill="#3465a4"><title>Matheson Hunting (Blue)</title></circle></a><a href="/setts/s11/o3lb1o1lb1o2lb3o14dt2o2dt32r2~x2/"><circle cx="375.2" cy="107.8" r="4" fill="#3465a4"><title>Unknown</title></circle></a><a href="/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="313.4" cy="97.2" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><circle cx="334.0" cy="68.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s20/b45k10n2k2lo2k2n10b4k1b5lo1b5k1b4n10k2lo2k2n2k10~x2/

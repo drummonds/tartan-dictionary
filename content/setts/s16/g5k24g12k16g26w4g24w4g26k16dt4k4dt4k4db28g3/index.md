@@ -1,0 +1,48 @@
+---
+title: "O'Conner Irish Family Tartan Tartan Number: 2217. Earliest known date: 1985 Designed by Jerry O'Connor of Keltic Klassics, Hillsdale, New Jersey who names it \"Royal na Connaught\" .Woven by House of Edgar who said they would call it O'Connor. Ref made to Lawrence & Gerald O'Connor - possibly customers of Macnaughtons of Pitlochry (part of same group as House of Edgar) See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/) · **Stripes:** [G DB K DT K DT K G W G W G K G K G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB K DT K DT K G W G W G K G K G</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2217
+
+## Thread count
+G/3 DB28 K4 DBa4 K4 DBa4 K16 G26 LN4 G24 LN4 G26 K16 G12 K24 G/5
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DBa | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Letham Hunting (Name)](/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/) — ΔT 0.88
+1. [MacAlpine (1906)](/setts/s14/db4g1db1g6k1g6db1g1db4w1k4g1k4ly1~x4/) — ΔT 0.91
+1. [Lloyd of Dolobran (Personal)](/setts/s22/db5k1db5k5g4r1g4k1g4w1g4k10g4w1g4k1g4r1g4k5db5k1~x4/) — ΔT 0.93
+1. [Wilson's No.030](/setts/s20/t4k3t2db6k15ly2g16db4t2g2k16g2t2db4g16ly2k15db6t2k3~x2/) — ΔT 1.06
+1. [Ogilvie of Inverarity (Wilson) / Ochterlonie](/setts/s16/db20ly3k7g11k2g3k2g3r4g3k2g3k2g11k7ly3~x2/) — ΔT 1.06
+1. [Wilson's No.033](/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/) — ΔT 1.08
+1. [O'Connor (Name)](/setts/s16/g5k12g6k8g13w2g12w2g13k8b2k2b2k2b14g3~x2/) — ΔT 1.08
+1. [Norwich No.038](/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/) — ΔT 1.09
+1. [Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x2/) — ΔT 1.09
+1. [Wilson's No.033 #2](/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/"><circle cx="205.0" cy="163.8" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/setts/s14/db4g1db1g6k1g6db1g1db4w1k4g1k4ly1~x4/"><circle cx="159.5" cy="198.6" r="4" fill="#3465a4"><title>MacAlpine (1906)</title></circle></a><a href="/setts/s22/db5k1db5k5g4r1g4k1g4w1g4k10g4w1g4k1g4r1g4k5db5k1~x4/"><circle cx="166.7" cy="171.7" r="4" fill="#3465a4"><title>Lloyd of Dolobran (Personal)</title></circle></a><a href="/setts/s20/t4k3t2db6k15ly2g16db4t2g2k16g2t2db4g16ly2k15db6t2k3~x2/"><circle cx="171.4" cy="160.3" r="4" fill="#3465a4"><title>Wilson's No.030</title></circle></a><a href="/setts/s16/db20ly3k7g11k2g3k2g3r4g3k2g3k2g11k7ly3~x2/"><circle cx="166.3" cy="157.0" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="187.0" cy="152.6" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s16/g5k12g6k8g13w2g12w2g13k8b2k2b2k2b14g3~x2/"><circle cx="209.1" cy="206.5" r="4" fill="#3465a4"><title>O'Connor (Name)</title></circle></a><a href="/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/"><circle cx="146.2" cy="166.7" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x2/"><circle cx="214.5" cy="165.1" r="4" fill="#3465a4"><title>Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.2" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><circle cx="202.8" cy="179.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/g5k24g12k16g26w4g24w4g26k16dt4k4dt4k4db28g3/

@@ -1,0 +1,51 @@
+---
+title: "Common Ground Dress (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [WRWBY](/stripes/wrwby/) · **Stripes:** [W R W DB LO](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W R W DB LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10579/
+
+## Thread count
+DY/6 DB54 LN32 DR54 LN/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DY/6 DB54 LN32 DR54 LN/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Common Ground (Dress)](/setts/s5/ly3db27w16r27w3~x2/) — ΔT 0.61
+1. [Little's (Corporate)](/setts/s6/db1o8w1db4r8w1~x6/) — ΔT 1.12
+1. [Thompson Navy Trade Tartan Tartan Number: 1443. Earliest known date: Oregon Possibly designed by Councillor John Hannay himself. No other information is available. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/m3db15w13dy6db2dy2m2~x2/) — ΔT 1.15
+1. [Thompson/Thomson/MacTavish](/setts/s6/t2r12db2t6k6t1~x4/) — ΔT 1.19
+1. [Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r2o20k5w10k10r2~x2/) — ΔT 1.21
+1. [Furman University](/setts/s5/p2w14k15p14w2~x2/) — ΔT 1.23
+1. [Ballater Victoria Week](/setts/s5/dp8ly6k2y1w1~x8/) — ΔT 1.24
+1. [Highland Spring Dress (2004) (Corp)](/setts/s5/w4db30g10r25w2~x2/) — ΔT 1.26
+1. [Hydro-Electric (Corporate)](/setts/s6/r3k1w5k4db11r1~x4/) — ΔT 1.28
+1. [Thompson Grey Dress](/setts/s6/r1o6k1w3k3r1~x8/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly3db27w16r27w3~x2/"><circle cx="149.6" cy="201.9" r="4" fill="#3465a4"><title>Common Ground (Dress)</title></circle></a><a href="/setts/s6/db1o8w1db4r8w1~x6/"><circle cx="184.0" cy="208.6" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/setts/s7/m3db15w13dy6db2dy2m2~x2/"><circle cx="159.6" cy="189.2" r="4" fill="#3465a4"><title>Thompson Navy Trade Tartan Tartan Number: 1443. Earliest known date: Oregon Possibly designed by Councillor John Hannay himself. No other information is available. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/t2r12db2t6k6t1~x4/"><circle cx="216.8" cy="192.2" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish</title></circle></a><a href="/setts/s6/r2o20k5w10k10r2~x2/"><circle cx="174.7" cy="192.4" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/p2w14k15p14w2~x2/"><circle cx="151.9" cy="227.0" r="4" fill="#3465a4"><title>Furman University</title></circle></a><a href="/setts/s5/dp8ly6k2y1w1~x8/"><circle cx="172.9" cy="183.9" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/setts/s5/w4db30g10r25w2~x2/"><circle cx="227.9" cy="194.3" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/setts/s6/r3k1w5k4db11r1~x4/"><circle cx="187.3" cy="184.9" r="4" fill="#3465a4"><title>Hydro-Electric (Corporate)</title></circle></a><a href="/setts/s6/r1o6k1w3k3r1~x8/"><circle cx="144.9" cy="214.3" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><circle cx="165.3" cy="208.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/lo3db27w16r27w3~x2/

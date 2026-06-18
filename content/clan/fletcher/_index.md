@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Fletcher of Dunans](/clan/fletcher/dunans/)
+- [Fletcher of Dunans](/families/fletcher-of-dunans/)
 

@@ -1,0 +1,64 @@
+---
+title: "Brinkie's Brae (Personal)"
+date: 2023-03-18
+---
+**Bands:** [KWKRBRKGWBRRGRKWK](/stripes/kwkrbrkgwbrrgrkwk/) · **Stripes:** [K W K R DB O K G W DB R O G R K W K](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K R DB O K G W DB R O G R K W K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Brinkie's Brae (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354))
+- pre 2002 — Brinkie's Brae (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2572/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [354](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354)
+- Scottish Tartans Authority (ITI): 2572
+- Scottish Tartans World Register: 2572
+
+## Thread count
+K/6 W8 K6 R36 DB2 N36 K2 G36 W2 DB36 R2 N36 G2 R36 K6 W8 K/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brinkie's Brae](/setts/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/) — ΔT 0.30
+1. [City of Edinburgh (2001) (District)](/setts/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/) — ΔT 0.56
+1. [Dalrymple of Castleton](/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/) — ΔT 0.79
+1. [Hebridean Arisaid Red (Dance)](/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/) — ΔT 0.81
+1. [Wilson's No.227](/setts/s16/r26t7dp8ly3r3w3g20dp10w2dp10g20w3r3ly3dp8t7~x2/) — ΔT 0.81
+1. [Wexford County Crest (Fashion)](/setts/s15/w6y6w6y12lr8y14lo24k4lr4k4dp44w12y20k4lr5/) — ΔT 0.88
+1. [Caledonian Society of Prince Edward Island](/setts/s17/db14k4db4k15g20k2y4r2k1w4r14db4r2db2r4db2r2~x2/) — ΔT 1.00
+1. [Caledonian Society of P.E.I. (Corp)](/setts/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/) — ΔT 1.00
+1. [Jacobite Dress](/setts/s17/r16dy4w6r6w20dy15dg4dy15w1dy3w1dy5r6dg4w3db3w3~x2/) — ΔT 1.01
+1. [Jacobite, dress](/setts/s17/r16dr4w6r6w20dr15g4o15w1dr3w1o5r6g4w3db3w3~x2/) — ΔT 1.01
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/"><circle cx="96.3" cy="85.5" r="4" fill="#3465a4"><title>Brinkie's Brae</title></circle></a><a href="/setts/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/"><circle cx="110.4" cy="93.0" r="4" fill="#3465a4"><title>City of Edinburgh (2001) (District)</title></circle></a><a href="/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/"><circle cx="95.3" cy="107.6" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/"><circle cx="105.8" cy="80.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s16/r26t7dp8ly3r3w3g20dp10w2dp10g20w3r3ly3dp8t7~x2/"><circle cx="89.7" cy="110.4" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/setts/s15/w6y6w6y12lr8y14lo24k4lr4k4dp44w12y20k4lr5/"><circle cx="86.9" cy="111.5" r="4" fill="#3465a4"><title>Wexford County Crest (Fashion)</title></circle></a><a href="/setts/s17/db14k4db4k15g20k2y4r2k1w4r14db4r2db2r4db2r2~x2/"><circle cx="104.8" cy="91.4" r="4" fill="#3465a4"><title>Caledonian Society of Prince Edward Island</title></circle></a><a href="/setts/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/"><circle cx="104.8" cy="91.4" r="4" fill="#3465a4"><title>Caledonian Society of P.E.I. (Corp)</title></circle></a><a href="/setts/s17/r16dy4w6r6w20dy15dg4dy15w1dy3w1dy5r6dg4w3db3w3~x2/"><circle cx="88.4" cy="79.9" r="4" fill="#3465a4"><title>Jacobite Dress</title></circle></a><a href="/setts/s17/r16dr4w6r6w20dr15g4o15w1dr3w1o5r6g4w3db3w3~x2/"><circle cx="93.5" cy="80.0" r="4" fill="#3465a4"><title>Jacobite, dress</title></circle></a><circle cx="100.7" cy="85.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s17/k3w4k3r18db1o18k1g18w1db18r1o18g1r18k3w4k3~x2/

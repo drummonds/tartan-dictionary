@@ -1,0 +1,54 @@
+---
+title: "City of New Bern 300"
+date: 2023-03-18
+---
+**Bands:** [KYKRKWBWKRKYKRKYKR](/stripes/kykrkwbwkrkykrkykr/) · **Stripes:** [K LY K O K W DB W K O K LY K O K LY K O](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K LY K O K W DB W K O K LY K O K LY K O</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10034
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10034](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10034)
+
+## Thread count
+DR/24 K4 Y4 K4 DR4 K4 Y4 K4 DR24 K2 W4 DB6 W4 K2 DR24 K4 Y4 K/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#26338F;"><span style="color:#26338F;filter:grayscale(1) invert(1) contrast(100);">#26338F</span></code> `#26338F` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.04 |
+| DR | <code style="background-color:#760F06;"><span style="color:#760F06;filter:grayscale(1) invert(1) contrast(100);">#760F06</span></code> `#760F06` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFFF00;"><span style="color:#FFFF00;filter:grayscale(1) invert(1) contrast(100);">#FFFF00</span></code> `#FFFF00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [City of New Bern 300 (District)](/setts/s18/r12k2ly2k2r2k2ly2k2r12k1k2k3k2k1r12k2ly2k2~x2/) — ΔT 0.98
+1. [MacDonald of Lochmaddy](/setts/s17/r13w1lt2r2dg14r2w1lt2r2db4r2lt2w1r16dg1r2dg3~x2/) — ΔT 1.01
+1. [MacPherson](/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1/) — ΔT 1.14
+1. [Order of the Holy Sepulchre (Corp)](/setts/s20/ly1w1r7k8r1k8w1lo2w1k7r1k7w1r7w1k7r1k7r7w1~x4/) — ΔT 1.19
+1. [Ainslie](/setts/s15/r6k2r2k4r2k2r6g18r2ly1r2k1r10w1r2~x4/) — ΔT 1.22
+1. [First Special Service Force](/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/) — ΔT 1.24
+1. [Grant, Kilt](/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/) — ΔT 1.25
+1. [Hepburn](/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/) — ΔT 1.27
+1. [MacPherson](/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/) — ΔT 1.33
+1. [Unidentified Scarlett #8](/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/) — ΔT 1.35
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r12k2ly2k2r2k2ly2k2r12k1k2k3k2k1r12k2ly2k2~x2/"><circle cx="292.5" cy="118.0" r="4" fill="#3465a4"><title>City of New Bern 300 (District)</title></circle></a><a href="/setts/s17/r13w1lt2r2dg14r2w1lt2r2db4r2lt2w1r16dg1r2dg3~x2/"><circle cx="280.0" cy="87.6" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1/"><circle cx="243.5" cy="109.4" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s20/ly1w1r7k8r1k8w1lo2w1k7r1k7w1r7w1k7r1k7r7w1~x4/"><circle cx="243.4" cy="142.4" r="4" fill="#3465a4"><title>Order of the Holy Sepulchre (Corp)</title></circle></a><a href="/setts/s15/r6k2r2k4r2k2r6g18r2ly1r2k1r10w1r2~x4/"><circle cx="269.9" cy="97.8" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="267.9" cy="126.9" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="276.4" cy="123.2" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/"><circle cx="243.6" cy="118.2" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/"><circle cx="248.5" cy="113.6" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/"><circle cx="291.6" cy="89.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><circle cx="269.5" cy="107.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s18/o12k2ly2k2o2k2ly2k2o12k1w2db3w2k1o12k2ly2k2~x2/

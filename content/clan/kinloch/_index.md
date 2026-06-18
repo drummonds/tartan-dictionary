@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Kinloch of Loch Awe](/clan/kinloch/loch-awe/)
+- [Kinloch of Loch Awe](/families/kinloch-of-loch-awe/)
 

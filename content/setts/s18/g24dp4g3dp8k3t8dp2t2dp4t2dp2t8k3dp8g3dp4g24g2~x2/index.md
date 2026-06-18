@@ -1,0 +1,55 @@
+---
+title: "Jones Hunting"
+date: 2023-03-18
+---
+**Bands:** [GBGBKBBBBBBBKBGBGG](/stripes/gbgbkbbbbbbbkbgbgg/) · **Stripes:** [G DP G DP K T DP T DP T DP T K DP G DP G G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DP G DP K T DP T DP T DP T K DP G DP G G</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5241
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5241](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5241)
+- Scottish Tartans Authority (ITI): 3237
+
+## Thread count
+G/48 P8 G6 P16 K6 B16 P4 B4 P8 B4 P4 B16 K6 P16 G6 P8 G48 Ga/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| Ga | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Falkirk District Tartan Tartan Number: 2347. Earliest known date: 1989 The original Falkirk "Tartan" , now in the National Museum of Scotland, has a place in history as one of the earliest examples of Scottish cloth in existence. It is a direct link back to the Roman occupation of the area around 250 A.D.and was found stuffed into a pot filled with over 2000 silver coins. This early Celtic tweed used undyed yarn to give a herringbone pattern in brown hues and is considered to be a "poor man's plaid". The Falkirk District Tartan is alive with vibrant colour to reflect that part of Scotland as it is seen today. It was the winning entry by Jim McGeorge (aided by Tony Murray of Stirling) in a public competition run by Falkirk Town Centre Management to create a new image for an area that was rising from the ashes of its former industrial glory. Brown - represents the dominant colour of the original cloth; blue - links Falkirk district with sea via the River Forth and the canals. It is also the colour of the Falkirk "Bairns." Red - is the colour of the blast furnace flames from the Falkirk foundries and yellow - signifies wealth and prosperity. Black - the black lines intersect on blue to show Falkirk at the crossroads of all roads through the region. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/r3ly2dy27b22k2b4k2b4k4b4k2b4k2b22dy27ly2~x2/) — ΔT 0.68
+1. [Glenorchy - National Archives](/setts/s15/g3db2r1db17r2g8r4t1db8r2g17r2r1db3t1~x2/) — ΔT 0.88
+1. [Boyle, Cameron (Personal)](/setts/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/) — ΔT 1.01
+1. [MacInroy Hunting](/setts/s15/db2g24r2g2db11k3db11k12g3r12g2r2g24db2k2~x2/) — ΔT 1.01
+1. [Letham Hunting (Name)](/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/) — ΔT 1.02
+1. [Rankin](/setts/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/) — ΔT 1.03
+1. [Cochrane (1984)](/setts/s15/dg16r2dg2r1dg3r1dg2r2dg12k12r1db16r2db8ly2~x2/) — ΔT 1.05
+1. [Stewart of Appin Hunting](/setts/s18/g8r3g3r5g26dy7t3db28r3db6r3db28t3dy7g26r5g3r3~x2/) — ΔT 1.06
+1. [Scottish Borders Tourist Board](/setts/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/) — ΔT 1.06
+1. [Semple](/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/) — ΔT 1.07
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r3ly2dy27b22k2b4k2b4k4b4k2b4k2b22dy27ly2~x2/"><circle cx="268.5" cy="136.7" r="4" fill="#3465a4"><title>Falkirk District Tartan Tartan Number: 2347. Earliest known date: 1989 The original Falkirk &quot;Tartan&quot; , now in the National Museum of Scotland, has a place in history as one of the earliest examples of Scottish cloth in existence. It is a direct link back to the Roman occupation of the area around 250 A.D.and was found stuffed into a pot filled with over 2000 silver coins. This early Celtic tweed used undyed yarn to give a herringbone pattern in brown hues and is considered to be a &quot;poor man's plaid&quot;. The Falkirk District Tartan is alive with vibrant colour to reflect that part of Scotland as it is seen today. It was the winning entry by Jim McGeorge (aided by Tony Murray of Stirling) in a public competition run by Falkirk Town Centre Management to create a new image for an area that was rising from the ashes of its former industrial glory. Brown - represents the dominant colour of the original cloth; blue - links Falkirk district with sea via the River Forth and the canals. It is also the colour of the Falkirk &quot;Bairns.&quot; Red - is the colour of the blast furnace flames from the Falkirk foundries and yellow - signifies wealth and prosperity. Black - the black lines intersect on blue to show Falkirk at the crossroads of all roads through the region. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/g3db2r1db17r2g8r4t1db8r2g17r2r1db3t1~x2/"><circle cx="249.5" cy="131.8" r="4" fill="#3465a4"><title>Glenorchy - National Archives</title></circle></a><a href="/setts/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="271.3" cy="160.6" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/setts/s15/db2g24r2g2db11k3db11k12g3r12g2r2g24db2k2~x2/"><circle cx="253.3" cy="159.9" r="4" fill="#3465a4"><title>MacInroy Hunting</title></circle></a><a href="/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/"><circle cx="205.0" cy="163.8" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/setts/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/"><circle cx="251.0" cy="131.1" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s15/dg16r2dg2r1dg3r1dg2r2dg12k12r1db16r2db8ly2~x2/"><circle cx="233.1" cy="144.7" r="4" fill="#3465a4"><title>Cochrane (1984)</title></circle></a><a href="/setts/s18/g8r3g3r5g26dy7t3db28r3db6r3db28t3dy7g26r5g3r3~x2/"><circle cx="202.5" cy="155.2" r="4" fill="#3465a4"><title>Stewart of Appin Hunting</title></circle></a><a href="/setts/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/"><circle cx="233.6" cy="159.3" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board</title></circle></a><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.4" cy="140.9" r="4" fill="#3465a4"><title>Semple</title></circle></a><circle cx="238.9" cy="137.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s18/g24dp4g3dp8k3t8dp2t2dp4t2dp2t8k3dp8g3dp4g24g2~x2/

@@ -1,0 +1,50 @@
+---
+title: "Highland Spirit (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [BKBKW](/stripes/bkbkw/) · **Stripes:** [DP K DP K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP K DP K W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/5739/
+
+## Thread count
+LN/4 DB42 P30 DB10 P/30
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000C3C;"><span style="color:#000C3C;filter:grayscale(1) invert(1) contrast(100);">#000C3C</span></code> `#000C3C` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.21 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/4 DB42 P30 DB10 P/30 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Highland Spirit](/setts/s8/k21dp15k5dp15k5dp15k21w2~x2/) — ΔT 1.09
+1. [Mother's Pride](/setts/s4/db10lo1db10r10~x4/) — ΔT 1.43
+1. [Robbins](/setts/s6/db1r3db1r3db6g1~x8/) — ΔT 1.49
+1. [Moorlands (Corporate)](/setts/s5/dp27k10dp27k35ly6/) — ΔT 1.52
+1. [Baru](/setts/s5/dp23dg8dp23dg35w5~x2/) — ΔT 1.58
+1. [Hamilton](/setts/s5/db6r1db6r9lr1~x2/) — ΔT 1.60
+1. [Embrace, The](/setts/s8/db10r24db4r3db24w2r6db6~x2/) — ΔT 1.70
+1. [Laurel Cadre, The](/setts/s5/dp12r8k64dp75r8/) — ΔT 1.72
+1. [Gifford (Personal)](/setts/s7/k15r8ly2db25k5db13k5~x2/) — ΔT 1.87
+1. [Hamilton Red Clan Tartan Tartan Number: 477. Earliest known date: 1842 First recorded in the Vestiarium Scoticum which was supposedly based on an ancient manuscript now known to have been forged. The original illustration shows the four main stripes in a very dark shade of blue. There is no evidence of a Hamilton tartan prior to the publication of this spectacular work. The authors, the Sobieski Stuart brothers, enjoyed a popular following amongst the Scottish gentry of the period and it is probable that the design can be attributed to Charles Edward Stuart (Allan Hay) who prepared the illustrations for the book. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/db6r1db6r9w1~x4/) — ΔT 1.88
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k21dp15k5dp15k5dp15k21w2~x2/"><circle cx="339.6" cy="261.3" r="4" fill="#3465a4"><title>Highland Spirit</title></circle></a><a href="/setts/s4/db10lo1db10r10~x4/"><circle cx="393.4" cy="296.9" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><a href="/setts/s6/db1r3db1r3db6g1~x8/"><circle cx="332.3" cy="272.9" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/setts/s5/dp27k10dp27k35ly6/"><circle cx="286.2" cy="286.3" r="4" fill="#3465a4"><title>Moorlands (Corporate)</title></circle></a><a href="/setts/s5/dp23dg8dp23dg35w5~x2/"><circle cx="293.3" cy="277.9" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/setts/s5/db6r1db6r9lr1~x2/"><circle cx="313.1" cy="250.1" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/setts/s8/db10r24db4r3db24w2r6db6~x2/"><circle cx="352.9" cy="212.1" r="4" fill="#3465a4"><title>Embrace, The</title></circle></a><a href="/setts/s5/dp12r8k64dp75r8/"><circle cx="367.4" cy="259.0" r="4" fill="#3465a4"><title>Laurel Cadre, The</title></circle></a><a href="/setts/s7/k15r8ly2db25k5db13k5~x2/"><circle cx="299.7" cy="225.1" r="4" fill="#3465a4"><title>Gifford (Personal)</title></circle></a><a href="/setts/s5/db6r1db6r9w1~x4/"><circle cx="321.0" cy="244.2" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan Tartan Number: 477. Earliest known date: 1842 First recorded in the Vestiarium Scoticum which was supposedly based on an ancient manuscript now known to have been forged. The original illustration shows the four main stripes in a very dark shade of blue. There is no evidence of a Hamilton tartan prior to the publication of this spectacular work. The authors, the Sobieski Stuart brothers, enjoyed a popular following amongst the Scottish gentry of the period and it is probable that the design can be attributed to Charles Edward Stuart (Allan Hay) who prepared the illustrations for the book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="336.6" cy="267.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/dp15k5dp15k21w2~x2/

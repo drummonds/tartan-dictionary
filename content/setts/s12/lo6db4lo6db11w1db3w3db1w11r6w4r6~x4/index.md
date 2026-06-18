@@ -1,0 +1,61 @@
+---
+title: "Lysaght Dress"
+date: 2023-03-18
+---
+**Bands:** [RWRWBWBWBYBY](/stripes/rwrwbwbwbyby/) · **Stripes:** [R W R W DB W DB W DB LO DB LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R W R W DB W DB W DB LO DB LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2005 — Lysaght Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260))
+- 2005 March — Lysaght Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6593/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2260](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260)
+- Scottish Tartans Authority (ITI): 6593
+
+## Thread count
+DR/24 LN16 DR24 LN44 DB4 LN12 DB12 LN4 DB44 DY24 DB16 DY/24
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacDonald Pattern of Plaids](/setts/s12/db16r4db6r10db30r4k30w34r9w6r4w16/) — ΔT 0.92
+1. [Borthwick Dress Artifact Tartan Tartan Number: 820. Earliest known date: pre 2003 No details available. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g7k1m7k1w7k10w7k2w4~x2/) — ΔT 1.27
+1. [Borthwick Dress (Clan)](/setts/s9/g7k1r8k2w7k10w7k2w4~x4/) — ΔT 1.28
+1. [Lochaber (Scrapbook)](/setts/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/) — ΔT 1.30
+1. [Tommy](/setts/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/) — ΔT 1.33
+1. [Robertson dress Hunting](/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/) — ΔT 1.35
+1. [Robertson Dress (Dalgleish) #2](/setts/s8/db24r4g24r4w20r10g3w4~x2/) — ΔT 1.35
+1. [MacDuff Dress #4](/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/) — ΔT 1.35
+1. [Wombles 2 (Corporate)](/setts/s9/w4db8w1db1r6db3lo6db1w4~x4/) — ΔT 1.36
+1. [Wombles 4 (Corporate)](/setts/s9/w4db8w1db1lo6db3r6db1w4~x4/) — ΔT 1.36
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><circle cx="112.0" cy="162.4" r="4" fill="#3465a4"><title>MacDonald Pattern of Plaids</title></circle></a><a href="/setts/s9/g7k1m7k1w7k10w7k2w4~x2/"><circle cx="127.5" cy="186.9" r="4" fill="#3465a4"><title>Borthwick Dress Artifact Tartan Tartan Number: 820. Earliest known date: pre 2003 No details available. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g7k1r8k2w7k10w7k2w4~x4/"><circle cx="111.2" cy="187.6" r="4" fill="#3465a4"><title>Borthwick Dress (Clan)</title></circle></a><a href="/setts/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/"><circle cx="107.5" cy="165.1" r="4" fill="#3465a4"><title>Lochaber (Scrapbook)</title></circle></a><a href="/setts/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="138.1" cy="136.8" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/"><circle cx="107.8" cy="136.6" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><a href="/setts/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="106.2" cy="188.8" r="4" fill="#3465a4"><title>Robertson Dress (Dalgleish) #2</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.4" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s9/w4db8w1db1r6db3lo6db1w4~x4/"><circle cx="43.1" cy="167.2" r="4" fill="#3465a4"><title>Wombles 2 (Corporate)</title></circle></a><a href="/setts/s9/w4db8w1db1lo6db3r6db1w4~x4/"><circle cx="43.1" cy="167.2" r="4" fill="#3465a4"><title>Wombles 4 (Corporate)</title></circle></a><circle cx="102.1" cy="170.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/lo6db4lo6db11w1db3w3db1w11r6w4r6~x4/

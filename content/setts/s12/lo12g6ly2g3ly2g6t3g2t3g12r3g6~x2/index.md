@@ -1,0 +1,48 @@
+---
+title: "O'Brien Irish Family Tartan Tartan Number: 2225. Earliest known date: 1994 O'Brien is an Irish family tartan See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [GRGBGBGYGYGY](/stripes/grgbgbgygygy/) · **Stripes:** [G R G T G T G LY G LY G LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G R G T G T G LY G LY G LO</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2225
+
+## Thread count
+G/12 R6 G24 B6 G4 B6 G12 Y4 G6 Y4 G12 O/24
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [O'Brien](/setts/s12/r13g6ly2g3ly2g6t3g2t3g12r3g6~x2/) — ΔT 0.47
+1. [O'Brien](/setts/s12/lo13g6ly2g3ly2g6lb3g2lb3g12r3g6~x2/) — ΔT 1.38
+1. [Hall](/setts/s11/g4r2db4r2g8r2db4r2g8r2ly1~x3/) — ΔT 1.46
+1. [Balmoral Hotel Edinburgh](/setts/s13/y5dp1y1dp1y1dg3y3dg1y3dg3ly3ly1ly1~x4/) — ΔT 1.48
+1. [Invertere (Daks #2)](/setts/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2/) — ΔT 1.56
+1. [Bean Hunting](/setts/s7/db6r15g41r15db20g41t6/) — ΔT 1.56
+1. [Newfoundland](/setts/s7/r4g3o8w3o4g18ly3~x2/) — ΔT 1.57
+1. [Newfoundland District Tartan Tartan Number: 1543. Earliest known date: 1972 The colours of the Newfoundland tartan are related to the 'Ode to Newfoundland', the second anthem of the province. Gold for the sun, green for the pine clad hill, white for the snow, brown for the minerals under the earth and red to denote her British origins. In 1972, the Minute of Provincial Affairs of the Province petitioned the Lord Lyon to record the tartan in the Writs section of the Lyon Court Books. This was done on the 3rd of September, 1973. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4g3dy8w3dy4g18ly3~x2/) — ΔT 1.66
+1. [Wilson's, No 169](/setts/s9/g5r9g10ly2g2w2g10r9g5~x2/) — ΔT 1.67
+1. [Dublin Irish County Tartan Tartan Number: 2250. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/lg3o3lg3o16lg3o3lg3dp5lg18r2lg8r3~x2/) — ΔT 1.68
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r13g6ly2g3ly2g6t3g2t3g12r3g6~x2/"><circle cx="252.4" cy="198.3" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/setts/s12/lo13g6ly2g3ly2g6lb3g2lb3g12r3g6~x2/"><circle cx="281.1" cy="209.7" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/setts/s11/g4r2db4r2g8r2db4r2g8r2ly1~x3/"><circle cx="242.4" cy="215.4" r="4" fill="#3465a4"><title>Hall</title></circle></a><a href="/setts/s13/y5dp1y1dp1y1dg3y3dg1y3dg3ly3ly1ly1~x4/"><circle cx="164.9" cy="210.3" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><a href="/setts/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2/"><circle cx="310.2" cy="180.8" r="4" fill="#3465a4"><title>Invertere (Daks #2)</title></circle></a><a href="/setts/s7/db6r15g41r15db20g41t6/"><circle cx="284.4" cy="246.6" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/setts/s7/r4g3o8w3o4g18ly3~x2/"><circle cx="225.2" cy="214.5" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/setts/s7/r4g3dy8w3dy4g18ly3~x2/"><circle cx="220.2" cy="213.6" r="4" fill="#3465a4"><title>Newfoundland District Tartan Tartan Number: 1543. Earliest known date: 1972 The colours of the Newfoundland tartan are related to the 'Ode to Newfoundland', the second anthem of the province. Gold for the sun, green for the pine clad hill, white for the snow, brown for the minerals under the earth and red to denote her British origins. In 1972, the Minute of Provincial Affairs of the Province petitioned the Lord Lyon to record the tartan in the Writs section of the Lyon Court Books. This was done on the 3rd of September, 1973. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g5r9g10ly2g2w2g10r9g5~x2/"><circle cx="275.9" cy="247.3" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/setts/s12/lg3o3lg3o16lg3o3lg3dp5lg18r2lg8r3~x2/"><circle cx="300.4" cy="189.3" r="4" fill="#3465a4"><title>Dublin Irish County Tartan Tartan Number: 2250. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="258.9" cy="210.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/lo12g6ly2g3ly2g6t3g2t3g12r3g6~x2/

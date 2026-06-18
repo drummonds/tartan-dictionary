@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [MacDonnald of ye Ylis](/clan/macdonnald/ye-ylis/)
+- [MacDonnald of ye Ylis](/families/macdonnald-of-ye-ylis/)
 

@@ -1,0 +1,63 @@
+---
+title: "Ayrshire Tourist Board"
+date: 2023-03-18
+---
+**Bands:** [BRBRBBGBY](/stripes/brbrbbgby/) · **Stripes:** [DB M B M DB B G DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB M B M DB B G DB LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=153
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Ayrshire Tourist Board (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=153))
+- pre 2002 — Ayrshire Tourist Board (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2202/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [153](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=153)
+- Scottish Tartans Authority (ITI): 2202
+- Scottish Tartans World Register: 2202
+
+## Thread count
+DB/20 LP6 B8 LP6 DB14 B6 G14 DB34 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2474E8;"><span style="color:#2474E8;filter:grayscale(1) invert(1) contrast(100);">#2474E8</span></code> `#2474E8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LP | <code style="background-color:#9C68A4;"><span style="color:#9C68A4;filter:grayscale(1) invert(1) contrast(100);">#9C68A4</span></code> `#9C68A4` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.21 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Jethart (District)](/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/) — ΔT 0.63
+1. [Jethart](/setts/s9/k22db16r3db16k3db16g3db3b5~x2/) — ΔT 1.03
+1. [Baptist Union of Scotland](/setts/s6/lb4db23g16k4db23lo4/) — ΔT 1.13
+1. [Isle of Harris](/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/) — ΔT 1.24
+1. [Woodcock (2014)](/setts/s7/db30dp9g6dp9r4db17w5~x2/) — ΔT 1.31
+1. [Grainger (Name)](/setts/s7/db36r4db6g18db15k18w4~x2/) — ΔT 1.32
+1. [Goodwin, Robert Richard (Personal)](/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/) — ΔT 1.40
+1. [Fitzgerald, Blue](/setts/s9/r3db21r3db3k13db13t3db3w2~x2/) — ΔT 1.41
+1. [Stone of Destiny](/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/) — ΔT 1.43
+1. [Massachusetts (Unofficial)](/setts/s6/lb1db5lo3k5db12r1~x4/) — ΔT 1.43
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="284.3" cy="187.0" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/setts/s9/k22db16r3db16k3db16g3db3b5~x2/"><circle cx="297.0" cy="221.7" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/setts/s6/lb4db23g16k4db23lo4/"><circle cx="274.6" cy="235.0" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.8" cy="172.0" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/setts/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="282.2" cy="213.4" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="263.9" cy="213.7" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/"><circle cx="263.1" cy="168.0" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.4" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.1" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s6/lb1db5lo3k5db12r1~x4/"><circle cx="324.4" cy="198.8" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><circle cx="274.7" cy="203.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/db10m3b4m3db7b3g7db17ly2~x2/

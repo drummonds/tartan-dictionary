@@ -1,0 +1,52 @@
+---
+title: "Ferguson's Promise (Commemorative)"
+date: 2023-03-18
+---
+**Bands:** [RKRRRKW](/stripes/rkrrrkw/) · **Stripes:** [R K R R R K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K R R R K W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10305/
+
+## Thread count
+DR/76 K24 LR30 R8 LR30 K4 LN/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LR | <code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> `#E87878` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| R | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DR/76 K24 LR30 R8 LR30 K4 LN/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Afternoon Tea / Apple Tea](/setts/s6/ly15r98do72m25do8w15/) — ΔT 0.87
+1. [Ferguson's Promise](/setts/s7/m38k12r15r4r15k2w4~x2/) — ΔT 0.89
+1. [Rose VS](/setts/s9/k4r32db9r6db2r3db2r12lb3/) — ΔT 1.08
+1. [Thermos Un-named (aretefact)](/setts/s6/k6r20w2r9w3lb2~x2/) — ΔT 1.16
+1. [Ulster Ancestry](/setts/s9/do47r8k22r7w3r24do9r10ly3~x2/) — ΔT 1.17
+1. [MIT1951](/setts/s10/r24r5lr7dt2lr4dt14r11dt3r3w4~x2/) — ΔT 1.20
+1. [Shaw](/setts/s8/lb5k1r30dp15r8dg30r8dp2/) — ΔT 1.28
+1. [MacQueen of Dalmagarry (Clan?)](/setts/s8/g3r4k1r26y14r4dp16w2~x2/) — ΔT 1.29
+1. [MacDuff](/setts/s7/r96db16dg34dg48r18k6r9/) — ΔT 1.36
+1. [Hewitt](/setts/s7/r30db12k6dg12ly2dg3w2~x2/) — ΔT 1.37
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly15r98do72m25do8w15/"><circle cx="221.4" cy="162.3" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/setts/s7/m38k12r15r4r15k2w4~x2/"><circle cx="242.7" cy="141.0" r="4" fill="#3465a4"><title>Ferguson's Promise</title></circle></a><a href="/setts/s9/k4r32db9r6db2r3db2r12lb3/"><circle cx="238.8" cy="113.4" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/setts/s6/k6r20w2r9w3lb2~x2/"><circle cx="227.0" cy="162.2" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/setts/s9/do47r8k22r7w3r24do9r10ly3~x2/"><circle cx="228.4" cy="142.3" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/setts/s10/r24r5lr7dt2lr4dt14r11dt3r3w4~x2/"><circle cx="232.4" cy="143.0" r="4" fill="#3465a4"><title>MIT1951</title></circle></a><a href="/setts/s8/lb5k1r30dp15r8dg30r8dp2/"><circle cx="275.7" cy="129.9" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s8/g3r4k1r26y14r4dp16w2~x2/"><circle cx="272.3" cy="112.7" r="4" fill="#3465a4"><title>MacQueen of Dalmagarry (Clan?)</title></circle></a><a href="/setts/s7/r96db16dg34dg48r18k6r9/"><circle cx="294.3" cy="155.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s7/r30db12k6dg12ly2dg3w2~x2/"><circle cx="208.0" cy="131.1" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><circle cx="235.5" cy="139.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/r38k12r15r4r15k2w4~x2/

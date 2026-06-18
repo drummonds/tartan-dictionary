@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#A65C11;border:1px solid #0003;flex:none"></span><div><strong>Orange</strong> · code <code>O</code> · Human Palette · ref <code>22-05-058</code><br>sRGB <code>#A65C11</code> · OKLab L 0.550 a +0.066 b +0.106 · grid <code>22-05-058</code></div></div>
 
+Orange — a late basic colour term; in tartan it shows mostly as the lighter face of brown.
+
 The nearest named colour is **Yellow** (Human Palette), 0.067 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
@@ -13,7 +15,7 @@ The nearest named colour is **Yellow** (Human Palette), 0.067 away in OKLab ΔE.
 | <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | [Red](/colour/named/base-six-r/) | R | Base Six | 0.126 |
 | <code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> | [Grey](/colour/named/human-palette-n/) | N | Human Palette | 0.135 |
 | <code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> | [Red](/colour/named/human-palette-r/) | R | Human Palette | 0.137 |
-| <code style="background-color:#CA047B;"><span style="color:#CA047B;filter:grayscale(1) invert(1) contrast(100);">#CA047B</span></code> | [Magenta](/colour/named/human-palette-pr/) | PR | Human Palette | 0.205 |
+| <code style="background-color:#CA047B;"><span style="color:#CA047B;filter:grayscale(1) invert(1) contrast(100);">#CA047B</span></code> | [Magenta](/colour/named/human-palette-m/) | M | Human Palette | 0.205 |
 | <code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> | [Green](/colour/named/human-palette-g/) | G | Human Palette | 0.207 |
 
 Where it sits among the grid colours of its lightness level — the ringed dot, hue by angle, chroma by radius:

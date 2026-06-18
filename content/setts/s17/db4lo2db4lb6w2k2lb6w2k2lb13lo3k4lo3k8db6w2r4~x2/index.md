@@ -1,0 +1,49 @@
+---
+title: "Clauwaert (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BYBWWKWWKWYKYKBWR](/stripes/bybwwkwwkwykykbwr/) · **Stripes:** [DB LO DB LB W K LB W K LB LO K LO K DB W R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LO DB LB W K LB W K LB LO K LO K DB W R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/4030/
+
+## Thread count
+DB/8 LT4 DB8 N12 LN4 K4 N12 LN4 K4 N26 LT6 K8 LT6 K16 DB12 LN4 R/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacPherson Dress](/setts/s15/w13db3w13dg10ly2k7db5k2db2k2db5r8w2k2r2~x2/) — ΔT 0.64
+1. [MacPherson, dress](/setts/s15/w13db3w13g10ly2k7db5k2db2k2db5r8w2k2r2~x2/) — ΔT 0.82
+1. [St. Margaret's School Edinburgh](/setts/s17/k16g3g8k3m12k3m12k3g8k3lb12g8lb12g8g3k16w3~x2/) — ΔT 0.85
+1. [MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/w8db3w10dy8ly2k4db3k2db3k2r3w1k2r2~x2/) — ΔT 0.93
+1. [MacInnes Ancient Htg (Clan?)](/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/) — ΔT 0.95
+1. [Clanedin](/setts/s17/r3k8w2k3w2k2w6db3w6k2w2o3w2o4ly2o10w3~x2/) — ΔT 0.96
+1. [Unidentified #18](/setts/s20/t3k3dy1k1dy1k1dy1k1dy3t2k1ly1k1dy1k2db2w7k1w2dy1~x2/) — ΔT 1.01
+1. [Clanedin Commemorative Tartan Tartan Number: 1619. Earliest known date: 1970 Commonwealth Games 1970 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4ly2dy10w3~x2/) — ΔT 1.03
+1. [Coulter (Personal)](/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/) — ΔT 1.08
+1. [MacInnes Ancient Hunting](/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/) — ΔT 1.09
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w13db3w13dg10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="51.8" cy="131.7" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s15/w13db3w13g10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="45.2" cy="130.4" r="4" fill="#3465a4"><title>MacPherson, dress</title></circle></a><a href="/setts/s17/k16g3g8k3m12k3m12k3g8k3lb12g8lb12g8g3k16w3~x2/"><circle cx="32.2" cy="163.5" r="4" fill="#3465a4"><title>St. Margaret's School Edinburgh</title></circle></a><a href="/setts/s14/w8db3w10dy8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.7" cy="123.4" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.4" cy="122.0" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s17/r3k8w2k3w2k2w6db3w6k2w2o3w2o4ly2o10w3~x2/"><circle cx="38.6" cy="147.3" r="4" fill="#3465a4"><title>Clanedin</title></circle></a><a href="/setts/s20/t3k3dy1k1dy1k1dy1k1dy3t2k1ly1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="37.4" cy="124.6" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/setts/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4ly2dy10w3~x2/"><circle cx="44.7" cy="150.0" r="4" fill="#3465a4"><title>Clanedin Commemorative Tartan Tartan Number: 1619. Earliest known date: 1970 Commonwealth Games 1970 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/"><circle cx="27.7" cy="132.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="66.0" cy="120.8" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><circle cx="38.3" cy="140.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s17/db4lo2db4lb6w2k2lb6w2k2lb13lo3k4lo3k8db6w2r4~x2/

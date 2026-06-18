@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#FF9C34;border:1px solid #0003;flex:none"></span><div><strong>Peach</strong> · code <code>LO</code> · Human Palette · ref <code>32-07-057</code><br>sRGB <code>#FF9C34</code> · OKLab L 0.779 a +0.076 b +0.142 · grid <code>31-06-066</code></div></div>
 
+Peach — a light orange.
+
 The nearest named colour is **Yellow** (Base Six), 0.092 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |

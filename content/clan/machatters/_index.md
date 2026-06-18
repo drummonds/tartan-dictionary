@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [MacHatters of the Old Pueblo](/clan/machatters/the-old-pueblo/)
+- [MacHatters of the Old Pueblo](/families/machatters-of-the-old-pueblo/)
 

@@ -1,0 +1,51 @@
+---
+title: "Highland Brewing Company"
+date: 2023-03-18
+---
+**Bands:** [KBRKRKYK](/stripes/kbrkrkyk/) · **Stripes:** [K T R K R K LY K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">K T R K R K LY K</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10939/
+
+## Thread count
+K/84 B4 DR6 K10 DR32 K16 Y4 K/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DR | <code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> `#A00000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/84 B4 DR6 K10 DR32 K16 Y4 K/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Harley Davidson](/setts/s10/k49o8k4n6o4n6k4o8k49o2/) — ΔT 0.87
+1. [Harley Davidson (Corporate)](/setts/s6/o4n6k4o8k49o2/) — ΔT 0.89
+1. [Valdres, Kvam & Vang #3](/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/) — ΔT 1.10
+1. [Laird Abdullah (Personal)](/setts/s8/k10n2k2n8k40r4k5r2~x2/) — ΔT 1.10
+1. [Bunnahabhain](/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/) — ΔT 1.29
+1. [King Robert the Bruce Memorial, The](/setts/s10/r8k79n4k4w4k6n22k6r16k6/) — ΔT 1.30
+1. [Springbank](/setts/s11/k14n2k2n5k25w1n9m3k3w1k14~x2/) — ΔT 1.31
+1. [Royal Army PTC Assoc. (Military)](/setts/s8/k59r3k6r3k8r15k2ly3~x2/) — ΔT 1.31
+1. [Springbank](/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/) — ΔT 1.33
+1. [Ironside (Personal)](/setts/s10/k40dp2k6b2k2b2k10dp4w2dp5~x2/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k49o8k4n6o4n6k4o8k49o2/"><circle cx="508.4" cy="154.9" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/setts/s6/o4n6k4o8k49o2/"><circle cx="489.8" cy="164.7" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><a href="/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="415.4" cy="142.2" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/setts/s8/k10n2k2n8k40r4k5r2~x2/"><circle cx="538.7" cy="174.2" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="430.6" cy="144.7" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s10/r8k79n4k4w4k6n22k6r16k6/"><circle cx="411.7" cy="137.2" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial, The</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9m3k3w1k14~x2/"><circle cx="476.1" cy="166.2" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="540.2" cy="149.5" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/"><circle cx="467.5" cy="161.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s10/k40dp2k6b2k2b2k10dp4w2dp5~x2/"><circle cx="525.5" cy="151.6" r="4" fill="#3465a4"><title>Ironside (Personal)</title></circle></a><circle cx="481.7" cy="161.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/k42t2r3k5r16k8ly2k3~x2/

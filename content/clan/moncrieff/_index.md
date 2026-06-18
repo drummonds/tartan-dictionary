@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Moncrieff of Atholl](/clan/moncrieff/atholl/)
+- [Moncrieff of Atholl](/families/moncrieff-of-atholl/)
 

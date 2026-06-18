@@ -6,9 +6,9 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/g3b14g2k14g14k3~b000052-g11450d-k000000~x2/"><img src="/setts/s6/g3b14g2k14g14k3~b000052-g11450d-k000000~x2/sett.png" alt="MacKay" width="240"><br>MacKay</a>
+<a class="tartan" href="/setts/s6/dg3db14dg2k14dg14k3~x2/"><img src="/setts/s6/dg3db14dg2k14dg14k3~x2/sett.png" alt="MacKay" width="240"><br>MacKay</a>
 
 ## Families
 
-- [MacKay of Strathnaver](/clan/mackay/strathnaver/)
+- [MacKay of Strathnaver](/families/mackay-of-strathnaver/)
 

@@ -1,0 +1,57 @@
+---
+title: "International Police Association (IPA 2010)"
+date: 2023-03-18
+---
+**Bands:** [BRBWBWY](/stripes/brbwbwy/) · **Stripes:** [DB R DB LT DB LT LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB LT DB LT LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10174
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10174](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10174)
+
+## Thread count
+Ba/14 R6 Ba52 B4 Ba4 B51 Y/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#00B2EE;"><span style="color:#00B2EE;filter:grayscale(1) invert(1) contrast(100);">#00B2EE</span></code> `#00B2EE` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.30 |
+| Ba | <code style="background-color:#0000CD;"><span style="color:#0000CD;filter:grayscale(1) invert(1) contrast(100);">#0000CD</span></code> `#0000CD` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| R | <code style="background-color:#CD0000;"><span style="color:#CD0000;filter:grayscale(1) invert(1) contrast(100);">#CD0000</span></code> `#CD0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.00 |
+| Y | <code style="background-color:#FFE600;"><span style="color:#FFE600;filter:grayscale(1) invert(1) contrast(100);">#FFE600</span></code> `#FFE600` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "Ba/14 R6 Ba52 B4 Ba4 B51 Y/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Douglas Variation](/setts/s6/w4db25b25db2b5w2~x2/) — ΔT 1.39
+1. [Hannah (Personal)](/setts/s6/ly2k9w3k9b35w2~x2/) — ΔT 1.50
+1. [Lytley alias Parsons Hunting (Personal)](/setts/s5/db10r1ly1db3ly2~x5/) — ΔT 1.55
+1. [Callaway (Name)](/setts/s9/r4b12db36w4db4b16w3db6b3~x2/) — ΔT 1.71
+1. [Bermuda Blue (1962) (District)](/setts/s13/b12r4db4b42r6b6db11b6g19b8r4b6db6/) — ΔT 1.85
+1. [Thorburn #1 (Name)](/setts/s9/db12lb2db2t6db4lb3db4lb18r1~x4/) — ΔT 1.86
+1. [Kinding](/setts/s7/k10db30g3db3g3db3r6~x2/) — ΔT 1.86
+1. [Bermuda Blue](/setts/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/) — ΔT 1.88
+1. [Federal Bureau of Investigation](/setts/s7/db6lb2db2lb3db16b26r2~x2/) — ΔT 1.92
+1. [Brazell (Personal)](/setts/s5/db7ly1db7b11r2~x6/) — ΔT 1.93
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w4db25b25db2b5w2~x2/"><circle cx="274.6" cy="200.8" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/setts/s6/ly2k9w3k9b35w2~x2/"><circle cx="321.4" cy="162.9" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/setts/s5/db10r1ly1db3ly2~x5/"><circle cx="283.7" cy="196.9" r="4" fill="#3465a4"><title>Lytley alias Parsons Hunting (Personal)</title></circle></a><a href="/setts/s9/r4b12db36w4db4b16w3db6b3~x2/"><circle cx="304.0" cy="180.7" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/setts/s13/b12r4db4b42r6b6db11b6g19b8r4b6db6/"><circle cx="296.7" cy="169.6" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/setts/s9/db12lb2db2t6db4lb3db4lb18r1~x4/"><circle cx="250.1" cy="157.2" r="4" fill="#3465a4"><title>Thorburn #1 (Name)</title></circle></a><a href="/setts/s7/k10db30g3db3g3db3r6~x2/"><circle cx="327.0" cy="190.6" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/setts/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/"><circle cx="297.3" cy="169.9" r="4" fill="#3465a4"><title>Bermuda Blue</title></circle></a><a href="/setts/s7/db6lb2db2lb3db16b26r2~x2/"><circle cx="288.5" cy="190.7" r="4" fill="#3465a4"><title>Federal Bureau of Investigation</title></circle></a><a href="/setts/s5/db7ly1db7b11r2~x6/"><circle cx="241.8" cy="229.5" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><circle cx="272.0" cy="179.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/db14r6db52lt4db4lt51ly8/

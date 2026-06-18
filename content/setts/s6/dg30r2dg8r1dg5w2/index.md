@@ -1,0 +1,64 @@
+---
+title: "Dewi Sant"
+date: 2023-03-18
+---
+**Bands:** [GRGRGW](/stripes/grgrgw/) · **Stripes:** [DG R DG R DG W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DG R DG W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5904
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5904)
+- Scottish Tartans World Register: 3108
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [St. David's Welsh District Tartan Tartan Number: 5746. Earliest known date: 2002 Representing the colours of Wales, this national tartan is recognised in Wales as The Brithwe Dewi Sant, or The Saint Davids Tartan, exclusively woven in Wales by The Cambrian Woollen Mill, in Llanwrtyd Wells, Powys. Launched at Cardiff Castle in honour of the Welsh Patron Saint, and worn by Welsh folk around the world for special occasions including St Davids Day, March 1st. A differing warp and weft create a vertical stripe in these Welsh Tartans. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dg60r2dg8r1dg5w2/)
+
+
+## Thread count
+DG/30 DR2 DG8 DR1 DG5 LN/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003C14;"><span style="color:#003C14;filter:grayscale(1) invert(1) contrast(100);">#003C14</span></code> `#003C14` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.13 |
+| DR | <code style="background-color:#960000;"><span style="color:#960000;filter:grayscale(1) invert(1) contrast(100);">#960000</span></code> `#960000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DG/30 DR2 DG8 DR1 DG5 LN/2 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brithwe Dewi Sant (Welsh)](/setts/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/) — ΔT 1.36
+1. [St. David's Welsh District Tartan Tartan Number: 5746. Earliest known date: 2002 Representing the colours of Wales, this national tartan is recognised in Wales as The Brithwe Dewi Sant, or The Saint Davids Tartan, exclusively woven in Wales by The Cambrian Woollen Mill, in Llanwrtyd Wells, Powys. Launched at Cardiff Castle in honour of the Welsh Patron Saint, and worn by Welsh folk around the world for special occasions including St Davids Day, March 1st. A differing warp and weft create a vertical stripe in these Welsh Tartans. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dg60r2dg8r1dg5w2/) — ΔT 1.37
+1. [MacNab, Ancient](/setts/s5/dg62r7k4r4dg62~x2/) — ΔT 1.85
+1. [Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/do10ly1do30y3~x4/) — ΔT 1.87
+1. [Walters (Personal)](/setts/s6/g2dp2g20g2g2dp1~x4/) — ΔT 1.96
+1. [Welsh National](/setts/s8/r8g3r4g44w4g44r4g3~x2/) — ΔT 2.03
+1. [Wallington (Corporate?)](/setts/s4/k60t3k9g7/) — ΔT 2.04
+1. [Chafyn House (School)](/setts/s7/k72r3k11t9k11r3k37/) — ΔT 2.09
+1. [Mar Tribe](/setts/s5/ly2k3g45k3r2/) — ΔT 2.14
+1. [Pasteur](/setts/s4/dy10ly1dy30y3~x4/) — ΔT 2.18
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg30r2dg8r1dg5w2dg5r1dg8r2dg30/"><circle cx="626.0" cy="182.1" r="4" fill="#3465a4"><title>Brithwe Dewi Sant (Welsh)</title></circle></a><a href="/setts/s6/dg60r2dg8r1dg5w2/"><circle cx="626.0" cy="171.8" r="4" fill="#3465a4"><title>St. David's Welsh District Tartan Tartan Number: 5746. Earliest known date: 2002 Representing the colours of Wales, this national tartan is recognised in Wales as The Brithwe Dewi Sant, or The Saint Davids Tartan, exclusively woven in Wales by The Cambrian Woollen Mill, in Llanwrtyd Wells, Powys. Launched at Cardiff Castle in honour of the Welsh Patron Saint, and worn by Welsh folk around the world for special occasions including St Davids Day, March 1st. A differing warp and weft create a vertical stripe in these Welsh Tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dg62r7k4r4dg62~x2/"><circle cx="626.0" cy="264.8" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/setts/s4/do10ly1do30y3~x4/"><circle cx="626.0" cy="232.4" r="4" fill="#3465a4"><title>Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g2dp2g20g2g2dp1~x4/"><circle cx="626.0" cy="226.6" r="4" fill="#3465a4"><title>Walters (Personal)</title></circle></a><a href="/setts/s8/r8g3r4g44w4g44r4g3~x2/"><circle cx="576.5" cy="207.8" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/setts/s4/k60t3k9g7/"><circle cx="626.0" cy="231.8" r="4" fill="#3465a4"><title>Wallington (Corporate?)</title></circle></a><a href="/setts/s7/k72r3k11t9k11r3k37/"><circle cx="626.0" cy="214.3" r="4" fill="#3465a4"><title>Chafyn House (School)</title></circle></a><a href="/setts/s5/ly2k3g45k3r2/"><circle cx="589.7" cy="185.2" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><a href="/setts/s4/dy10ly1dy30y3~x4/"><circle cx="626.0" cy="239.5" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><circle cx="626.0" cy="202.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/dg30r2dg8r1dg5w2/

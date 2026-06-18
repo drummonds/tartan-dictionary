@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#2A418A;border:1px solid #0003;flex:none"></span><div><strong>Blue</strong> · code <code>B</code> · Base Six · ref <code>16-05-23</code><br>sRGB <code>#2A418A</code> · OKLab L 0.400 a -0.006 b -0.125 · grid <code>16-05-267</code></div></div>
 
+Blue — the cool base role and navy's parent, tartan's commonest deep ground after green.
+
 The nearest named colour is **Navy** (Human Palette), 0.103 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
@@ -12,7 +14,7 @@ The nearest named colour is **Navy** (Human Palette), 0.103 away in OKLab ΔE.
 | <code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> | [Navy](/colour/named/human-palette-db/) | DB | Human Palette | 0.103 |
 | <code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> | [Blue](/colour/named/human-palette-b/) | B | Human Palette | 0.153 |
 | <code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> | [Aubergine](/colour/named/human-palette-dp/) | DP | Human Palette | 0.157 |
-| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dbg/) | DBG | Human Palette | 0.157 |
+| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dt/) | DT | Human Palette | 0.157 |
 | <code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> | [Grey](/colour/named/human-palette-n/) | N | Human Palette | 0.160 |
 | <code style="background-color:#412714;"><span style="color:#412714;filter:grayscale(1) invert(1) contrast(100);">#412714</span></code> | [Brown](/colour/named/human-palette-do/) | DO | Human Palette | 0.196 |
 

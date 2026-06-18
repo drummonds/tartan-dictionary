@@ -1,0 +1,51 @@
+---
+title: "British Energy Corporate Tartan Tartan Number: 2324. Earliest known date: 1996 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [WKBYBY](/stripes/wkbyby/) · **Stripes:** [LB K DP LY DP LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB K DP LY DP LY</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2324
+
+## Thread count
+LP/80 K28 P44 Y2 P2 Y/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LP | <code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> `#A8ACE8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.23 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LP/80 K28 P44 Y2 P2 Y/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Longniddry Dress District Tartan Tartan Number: 88. Earliest known date: pre 2003 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dp42db2w2db2dp5t12w32dp4~x2/) — ΔT 1.31
+1. [Longniddry Dress (Dance)](/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/) — ΔT 1.35
+1. [Longniddry, dress](/setts/s8/p42db2w2db2p5b12w32p4~x2/) — ΔT 1.48
+1. [Bannockbane Navy](/setts/s8/db3m2db30m1w18o30m2o3~x2/) — ΔT 1.48
+1. [Philippine Heritage (Corporate)](/setts/s5/db30w4ly1w4r30~x4/) — ΔT 1.60
+1. [Gothenburg/Goteborg](/setts/s7/db26w28db14ly3k1ly2k1~x2/) — ΔT 1.61
+1. [Iberia Dress, Blue (Fashion)](/setts/s7/db60w2r10dg6w4r15ly10~x2/) — ΔT 1.61
+1. [Longniddry Lavender (Dance)](/setts/s8/db42o2lb2o2db5p12lb32db4~x2/) — ΔT 1.61
+1. [British Energy](/setts/s6/b40k14p22ly1p1ly3~x2/) — ΔT 1.62
+1. [Philippine Heritage](/setts/s5/db30w4lo1w4r30~x4/) — ΔT 1.67
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dp42db2w2db2dp5t12w32dp4~x2/"><circle cx="292.9" cy="122.6" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan Tartan Number: 88. Earliest known date: pre 2003 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/"><circle cx="293.3" cy="121.9" r="4" fill="#3465a4"><title>Longniddry Dress (Dance)</title></circle></a><a href="/setts/s8/p42db2w2db2p5b12w32p4~x2/"><circle cx="298.0" cy="122.0" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/setts/s8/db3m2db30m1w18o30m2o3~x2/"><circle cx="229.0" cy="119.8" r="4" fill="#3465a4"><title>Bannockbane Navy</title></circle></a><a href="/setts/s5/db30w4ly1w4r30~x4/"><circle cx="292.9" cy="145.8" r="4" fill="#3465a4"><title>Philippine Heritage (Corporate)</title></circle></a><a href="/setts/s7/db26w28db14ly3k1ly2k1~x2/"><circle cx="309.3" cy="132.6" r="4" fill="#3465a4"><title>Gothenburg/Goteborg</title></circle></a><a href="/setts/s7/db60w2r10dg6w4r15ly10~x2/"><circle cx="324.5" cy="111.0" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/setts/s8/db42o2lb2o2db5p12lb32db4~x2/"><circle cx="305.6" cy="136.8" r="4" fill="#3465a4"><title>Longniddry Lavender (Dance)</title></circle></a><a href="/setts/s6/b40k14p22ly1p1ly3~x2/"><circle cx="310.4" cy="141.5" r="4" fill="#3465a4"><title>British Energy</title></circle></a><a href="/setts/s5/db30w4lo1w4r30~x4/"><circle cx="301.8" cy="150.6" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><circle cx="299.9" cy="122.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/lb40k14dp22ly1dp1ly3~x2/

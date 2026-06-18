@@ -1,0 +1,52 @@
+---
+title: "McCann of Castlecraig (Personal)"
+date: 2023-03-18
+---
+**Bands:** [KGBKRGY](/stripes/kgbkrgy/) · **Stripes:** [K Y N K O Y LR](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K Y N K O Y LR</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8279/
+
+## Thread count
+DB/128 G24 N12 DB30 DY2 G10 Na/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#00002C;"><span style="color:#00002C;filter:grayscale(1) invert(1) contrast(100);">#00002C</span></code> `#00002C` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.16 |
+| DY | <code style="background-color:#B47800;"><span style="color:#B47800;filter:grayscale(1) invert(1) contrast(100);">#B47800</span></code> `#B47800` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.18 |
+| G | <code style="background-color:#545C24;"><span style="color:#545C24;filter:grayscale(1) invert(1) contrast(100);">#545C24</span></code> `#545C24` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.09 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/128 G24 N12 DB30 DY2 G10 Na/2 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gibson, Robert (Personal)](/setts/s7/k5db15k5b1k35m1k2~x4/) — ΔT 1.12
+1. [Scotch Whisky, Heritage](/setts/s8/db73g16db10r8db10k4db10w2/) — ΔT 1.13
+1. [London Scottish Rugby Club](/setts/s6/r5k40w1k13g8k4~x2/) — ΔT 1.18
+1. [Marine Harvest (Scotland)](/setts/s8/db10t2k2db1k6t1k45lo2~x2/) — ΔT 1.20
+1. [Brooks Brothers Signature (Corporate](/setts/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/) — ΔT 1.37
+1. [Scotch Whisky Heritage Centre](/setts/s8/db73g16db10r8db10k4db10w2~x2/) — ΔT 1.37
+1. [Center (Name)](/setts/s8/k50b2k13w1k13b5g15r2~x2/) — ΔT 1.43
+1. [Forand (Personal)](/setts/s5/k100r1o10db10ly2~x2/) — ΔT 1.48
+1. [Marine Harvest Scotland (Corporate)](/setts/s8/b10lb2k2b1k6lb1k45lo2~x2/) — ΔT 1.63
+1. [United States](/setts/s9/db7k5lr6k5r7k2db2k70lr2/) — ΔT 1.63
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k5db15k5b1k35m1k2~x4/"><circle cx="525.0" cy="167.7" r="4" fill="#3465a4"><title>Gibson, Robert (Personal)</title></circle></a><a href="/setts/s8/db73g16db10r8db10k4db10w2/"><circle cx="504.0" cy="132.4" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/setts/s6/r5k40w1k13g8k4~x2/"><circle cx="476.8" cy="150.0" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/setts/s8/db10t2k2db1k6t1k45lo2~x2/"><circle cx="551.4" cy="125.9" r="4" fill="#3465a4"><title>Marine Harvest (Scotland)</title></circle></a><a href="/setts/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/"><circle cx="509.8" cy="120.2" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/setts/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="541.4" cy="142.7" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/setts/s8/k50b2k13w1k13b5g15r2~x2/"><circle cx="515.2" cy="133.3" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/setts/s5/k100r1o10db10ly2~x2/"><circle cx="598.8" cy="139.6" r="4" fill="#3465a4"><title>Forand (Personal)</title></circle></a><a href="/setts/s8/b10lb2k2b1k6lb1k45lo2~x2/"><circle cx="539.8" cy="118.4" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><a href="/setts/s9/db7k5lr6k5r7k2db2k70lr2/"><circle cx="535.1" cy="120.9" r="4" fill="#3465a4"><title>United States</title></circle></a><circle cx="535.7" cy="132.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/k64y12n6k15o1y5lr1~x2/

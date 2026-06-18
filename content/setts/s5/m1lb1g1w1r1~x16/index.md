@@ -1,0 +1,58 @@
+---
+title: "Daughter of Mull"
+date: 2023-03-18
+---
+**Bands:** [RWGWR](/stripes/rwgwr/) · **Stripes:** [M LB G W R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">M LB G W R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11537
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11537](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11537)
+
+## Thread count
+P/16 LB16 G16 W16 R/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| P | <code style="background-color:#B458AC;"><span style="color:#B458AC;filter:grayscale(1) invert(1) contrast(100);">#B458AC</span></code> `#B458AC` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.20 |
+| R | <code style="background-color:#C80028;"><span style="color:#C80028;filter:grayscale(1) invert(1) contrast(100);">#C80028</span></code> `#C80028` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.02 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "P/16 LB16 G16 W16 R/16 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Algarve](/setts/s4/db1w1r1dg1~x20/) — ΔT 1.83
+1. [Highland Princess, The](/setts/s5/b15g15o11r17m15~x2/) — ΔT 2.13
+1. [Highland Princess, The](/setts/s5/b15g15lo11r17m15~x2/) — ΔT 2.50
+1. [Antonelli (Oklahoma), John (Personal)](/setts/s6/db1g1db1r1lt1k1~x25/) — ΔT 2.83
+1. [Glen Moriston Estate Check](/setts/s3/dt1lb1w1~x8/) — ΔT 2.94
+1. [Aquascutum](/setts/s3/db1w1r1~x22/) — ΔT 2.99
+1. [Mothers Pride](/setts/s3/ly1db1r1~x40/) — ΔT 3.00
+1. [Lochwood Estate Check](/setts/s7/g4ly4b4ly4g4ly3r4~x2/) — ΔT 3.01
+1. [Welly (Personal)](/setts/s18/n1m1n1g1n1w1m1g1w1m1g1m1m1n1n1m1g1w1~x10/) — ΔT 3.02
+1. [Lochwood (Estate Check)](/setts/s7/g1ly1r1ly1g1ly1r1~x8/) — ΔT 3.06
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db1w1r1dg1~x20/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Algarve</title></circle></a><a href="/setts/s5/b15g15o11r17m15~x2/"><circle cx="14.0" cy="343.2" r="4" fill="#3465a4"><title>Highland Princess, The</title></circle></a><a href="/setts/s5/b15g15lo11r17m15~x2/"><circle cx="14.0" cy="357.9" r="4" fill="#3465a4"><title>Highland Princess, The</title></circle></a><a href="/setts/s6/db1g1db1r1lt1k1~x25/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Antonelli (Oklahoma), John (Personal)</title></circle></a><a href="/setts/s3/dt1lb1w1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/setts/s3/db1w1r1~x22/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/setts/s3/ly1db1r1~x40/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Mothers Pride</title></circle></a><a href="/setts/s7/g4ly4b4ly4g4ly3r4~x2/"><circle cx="23.7" cy="366.0" r="4" fill="#3465a4"><title>Lochwood Estate Check</title></circle></a><a href="/setts/s18/n1m1n1g1n1w1m1g1w1m1g1m1m1n1n1m1g1w1~x10/"><circle cx="14.0" cy="322.6" r="4" fill="#3465a4"><title>Welly (Personal)</title></circle></a><a href="/setts/s7/g1ly1r1ly1g1ly1r1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Lochwood (Estate Check)</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/m1lb1g1w1r1~x16/

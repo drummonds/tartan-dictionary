@@ -1,0 +1,47 @@
+---
+title: "Stuart-Houghton Hunting (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BRBWBRBGRWRWRGBG](/stripes/brbwbrbgrwrwrgbg/) · **Stripes:** [DB O DB W DB O DB DG O W O W O DG DB DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DB O DB W DB O DB DG O W O W O DG DB DG</span></span>
+
+
+This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/11086/
+
+## Thread count
+DB/22 N8 DB8 W4 DB8 N8 DB22 G52 N8 W6 N8 W4 N28 G20 DB32 G/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Atholl (District)](/setts/s13/b25k4b4k4b4k26g25r6g25k26b25k2r6~x2/) — ΔT 0.82
+1. [Atholl](/setts/s13/b25k4b4k4b4k26g25r9g25k26b25k2r9~x2/) — ΔT 0.87
+1. [Lyon (Clan)](/setts/s15/b32k4b4k4b4k20g23w2b5w2g23k20b22k4b4/) — ΔT 0.93
+1. [Riddoch (Name)](/setts/s13/t8k1t1k1t1k8r1g14r1k8t8k1t1~x4/) — ΔT 1.02
+1. [Arbuthnott (Clan)](/setts/s17/t15k2t2k2t2k14g12w2g4t4g4w2g12k14t15k2t2~x2/) — ΔT 1.06
+1. [Boston Pipe Band, Greater](/setts/s13/dg8r1dg2r2dg12w1k12r1t12r2t2r1t8~x4/) — ΔT 1.11
+1. [Mackenzie](/setts/s15/b12k2b2k2b2k12dg12k1w2k1dg12k12b12k1r2~x2/) — ΔT 1.11
+1. [Fowler](/setts/s13/k4o4k1o4k1o8k1o4k8db2k1db14r2~x2/) — ΔT 1.11
+1. [Stuart-Houghton Hunting (Personal)](/setts/s16/db11y4db4w2db4y4db11dg26y4w3y4w2y14dg10db16dg6~x2/) — ΔT 1.16
+1. [Murray, Tony (Personal)](/setts/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b25k4b4k4b4k26g25r6g25k26b25k2r6~x2/"><circle cx="174.4" cy="185.1" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/setts/s13/b25k4b4k4b4k26g25r9g25k26b25k2r9~x2/"><circle cx="160.7" cy="186.6" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/setts/s15/b32k4b4k4b4k20g23w2b5w2g23k20b22k4b4/"><circle cx="215.1" cy="162.1" r="4" fill="#3465a4"><title>Lyon (Clan)</title></circle></a><a href="/setts/s13/t8k1t1k1t1k8r1g14r1k8t8k1t1~x4/"><circle cx="196.1" cy="148.6" r="4" fill="#3465a4"><title>Riddoch (Name)</title></circle></a><a href="/setts/s17/t15k2t2k2t2k14g12w2g4t4g4w2g12k14t15k2t2~x2/"><circle cx="154.3" cy="178.1" r="4" fill="#3465a4"><title>Arbuthnott (Clan)</title></circle></a><a href="/setts/s13/dg8r1dg2r2dg12w1k12r1t12r2t2r1t8~x4/"><circle cx="155.7" cy="149.8" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><a href="/setts/s15/b12k2b2k2b2k12dg12k1w2k1dg12k12b12k1r2~x2/"><circle cx="168.6" cy="156.2" r="4" fill="#3465a4"><title>Mackenzie</title></circle></a><a href="/setts/s13/k4o4k1o4k1o8k1o4k8db2k1db14r2~x2/"><circle cx="202.8" cy="163.6" r="4" fill="#3465a4"><title>Fowler</title></circle></a><a href="/setts/s16/db11y4db4w2db4y4db11dg26y4w3y4w2y14dg10db16dg6~x2/"><circle cx="152.3" cy="154.4" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/setts/s17/b15k2b2ly2b2k10g10k1g2r2g2k1g10k10b10k1r2~x2/"><circle cx="162.0" cy="134.9" r="4" fill="#3465a4"><title>Murray, Tony (Personal)</title></circle></a><circle cx="181.3" cy="163.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/db11o4db4w2db4o4db11dg26o4w3o4w2o14dg10db16dg6~x2/

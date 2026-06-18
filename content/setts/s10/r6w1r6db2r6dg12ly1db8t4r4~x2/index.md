@@ -1,0 +1,56 @@
+---
+title: "Unidentified No 57"
+date: 2023-03-18
+---
+**Bands:** [RBBYGRBRWR](/stripes/rbbygrbrwr/) · **Stripes:** [R T DB LY DG R DB R W R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T DB LY DG R DB R W R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4328
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4328](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4328)
+- Scottish Tartans World Register: 1317
+
+## Thread count
+R/8 B8 Ba16 Y2 G24 R12 Ba4 R12 LN2 R/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#3C82AF;"><span style="color:#3C82AF;filter:grayscale(1) invert(1) contrast(100);">#3C82AF</span></code> `#3C82AF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| Ba | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unnamed No 57](/setts/s10/r6w1r6db2r6g12ly1db8t4r4~x2/) — ΔT 0.50
+1. [Wilson's, No 2](/setts/s8/dp2r11t9dp11ly2g13r21w2~x2/) — ΔT 0.74
+1. [De Maynard (Personal)](/setts/s8/dp2o9g8o4ly1o4db10w2~x4/) — ΔT 1.01
+1. [Caledonia](/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/) — ΔT 1.05
+1. [Indiana "Cardinal"](/setts/s8/db8ly1dg12r10o2r6o2r4~x4/) — ΔT 1.11
+1. [East Kilbride](/setts/s7/y3r10g7db10r15k1w2~x2/) — ΔT 1.17
+1. [MacLeod Society of Scotland Clan Tartan Tartan Number: 2375. Earliest known date: 1991 Designed by Rosemary Flemming and Derek MacLeod to celebrate the centenary of the Clan MacLeod Society of Scotland. Trudi Mann of Wick, a TECA scholar, also played a part in the design which was accepted by the Chief as the Society sett. Thread count from Trudi Mann March 2004. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g3r22k5dt22ly2dt22k5r22g3g3~x2/) — ΔT 1.18
+1. [McMurchie Family, John and Jessie (Personal)](/setts/s11/lb1r13db6n7g2n7g2n7db6r13ly1~x2/) — ΔT 1.20
+1. [Wilson's No.002](/setts/s14/r21g13ly2dp11t9r11dp2r11t9dp11ly2g13r21w1~x2/) — ΔT 1.21
+1. [Unidentified Plaid #4](/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42dg44r12dg12/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r6db2r6g12ly1db8t4r4~x2/"><circle cx="177.5" cy="162.2" r="4" fill="#3465a4"><title>Unnamed No 57</title></circle></a><a href="/setts/s8/dp2r11t9dp11ly2g13r21w2~x2/"><circle cx="170.9" cy="159.5" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/setts/s8/dp2o9g8o4ly1o4db10w2~x4/"><circle cx="141.4" cy="162.2" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="166.0" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s8/db8ly1dg12r10o2r6o2r4~x4/"><circle cx="212.4" cy="181.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/setts/s7/y3r10g7db10r15k1w2~x2/"><circle cx="239.1" cy="159.6" r="4" fill="#3465a4"><title>East Kilbride</title></circle></a><a href="/setts/s10/g3r22k5dt22ly2dt22k5r22g3g3~x2/"><circle cx="191.3" cy="150.1" r="4" fill="#3465a4"><title>MacLeod Society of Scotland Clan Tartan Tartan Number: 2375. Earliest known date: 1991 Designed by Rosemary Flemming and Derek MacLeod to celebrate the centenary of the Clan MacLeod Society of Scotland. Trudi Mann of Wick, a TECA scholar, also played a part in the design which was accepted by the Chief as the Society sett. Thread count from Trudi Mann March 2004. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lb1r13db6n7g2n7g2n7db6r13ly1~x2/"><circle cx="186.5" cy="148.9" r="4" fill="#3465a4"><title>McMurchie Family, John and Jessie (Personal)</title></circle></a><a href="/setts/s14/r21g13ly2dp11t9r11dp2r11t9dp11ly2g13r21w1~x2/"><circle cx="201.6" cy="124.4" r="4" fill="#3465a4"><title>Wilson's No.002</title></circle></a><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42dg44r12dg12/"><circle cx="172.8" cy="166.7" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><circle cx="173.7" cy="157.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/r6w1r6db2r6dg12ly1db8t4r4~x2/

@@ -5,11 +5,13 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#AA2DBD;border:1px solid #0003;flex:none"></span><div><strong>Purple</strong> · code <code>P</code> · Human Palette · ref <code>22-09-322</code><br>sRGB <code>#AA2DBD</code> · OKLab L 0.550 a +0.178 b -0.139 · grid <code>22-09-322</code></div></div>
 
+Purple — a late basic term the loom rarely weaves, so it is named by a representative shade rather than by dye mass.
+
 The nearest named colour is **Magenta** (Human Palette), 0.123 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
-| <code style="background-color:#CA047B;"><span style="color:#CA047B;filter:grayscale(1) invert(1) contrast(100);">#CA047B</span></code> | [Magenta](/colour/named/human-palette-pr/) | PR | Human Palette | 0.123 |
+| <code style="background-color:#CA047B;"><span style="color:#CA047B;filter:grayscale(1) invert(1) contrast(100);">#CA047B</span></code> | [Magenta](/colour/named/human-palette-m/) | M | Human Palette | 0.123 |
 | <code style="background-color:#466CC8;"><span style="color:#466CC8;filter:grayscale(1) invert(1) contrast(100);">#466CC8</span></code> | [Blue](/colour/named/human-palette-b/) | B | Human Palette | 0.191 |
 | <code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> | [Grey](/colour/named/human-palette-n/) | N | Human Palette | 0.231 |
 | <code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> | [Red](/colour/named/human-palette-r/) | R | Human Palette | 0.237 |

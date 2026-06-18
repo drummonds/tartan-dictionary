@@ -1,0 +1,55 @@
+---
+title: "Borthwick Dress (Clan)"
+date: 2023-03-18
+---
+**Bands:** [GKRKWKWKW](/stripes/gkrkwkwkw/) · **Stripes:** [G K R K W K W K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G K R K W K W K W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/820/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Borthwick Dress](/setts/s9/g12k2r12k3w7k16w7k3w6~x2/)
+- [Borthwick, dress](/setts/s9/g7k1r7k1w7k10w7k2w4~x2/)
+
+
+## Thread count
+G/28 K4 DR32 K8 W28 K40 W28 K8 W/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#901C38;"><span style="color:#901C38;filter:grayscale(1) invert(1) contrast(100);">#901C38</span></code> `#901C38` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Borthwick Dress Artifact Tartan Tartan Number: 820. Earliest known date: pre 2003 No details available. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g7k1m7k1w7k10w7k2w4~x2/) — ΔT 0.31
+1. [Borthwick, dress](/setts/s9/g7k1r7k1w7k10w7k2w4~x2/) — ΔT 0.62
+1. [Borthwick Dress](/setts/s9/g12k2r12k3w7k16w7k3w6~x2/) — ΔT 0.73
+1. [Because You Care](/setts/s7/dg16dp4dg8dp13k3w26dp10~x2/) — ΔT 0.93
+1. [Unidentified](/setts/s7/w8k2y12k11w1r6y4~x2/) — ΔT 1.01
+1. [Bannockbane Grey #1](/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/) — ΔT 1.08
+1. [Fraser Dress](/setts/s6/r6k14r6dg14w27k4/) — ΔT 1.17
+1. [Bannockbane, Dark Tan](/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/) — ΔT 1.21
+1. [Fraser, dress](/setts/s6/r6k14r6g14w27k4/) — ΔT 1.23
+1. [Bannockbane Light Tan](/setts/s8/k4ly2k13ly1w8lo13ly2lo4~x2/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g7k1m7k1w7k10w7k2w4~x2/"><circle cx="127.5" cy="186.9" r="4" fill="#3465a4"><title>Borthwick Dress Artifact Tartan Tartan Number: 820. Earliest known date: pre 2003 No details available. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g7k1r7k1w7k10w7k2w4~x2/"><circle cx="121.5" cy="187.1" r="4" fill="#3465a4"><title>Borthwick, dress</title></circle></a><a href="/setts/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="99.5" cy="194.8" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/setts/s7/dg16dp4dg8dp13k3w26dp10~x2/"><circle cx="120.0" cy="198.6" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/setts/s7/w8k2y12k11w1r6y4~x2/"><circle cx="143.6" cy="193.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/"><circle cx="152.3" cy="167.0" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/setts/s6/r6k14r6dg14w27k4/"><circle cx="120.5" cy="207.8" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/"><circle cx="164.1" cy="170.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/setts/s6/r6k14r6g14w27k4/"><circle cx="113.2" cy="207.5" r="4" fill="#3465a4"><title>Fraser, dress</title></circle></a><a href="/setts/s8/k4ly2k13ly1w8lo13ly2lo4~x2/"><circle cx="157.4" cy="168.2" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><circle cx="111.2" cy="187.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/g7k1r8k2w7k10w7k2w4~x4/

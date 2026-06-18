@@ -1,0 +1,67 @@
+---
+title: "Bombeiros Voluntarios De Galicia (Co"
+date: 2023-03-18
+---
+**Bands:** [RBRRKWW](/stripes/rbrrkww/) · **Stripes:** [R N R O K W LB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R N R O K W LB</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7847/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Feb 2008 — Bombeiros Voluntarios De Galicia (Co (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7847/))
+- undated — Bombeiros Voluntarios De Galicia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5799))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5799](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5799)
+- Scottish Tartans Authority (ITI): 7847
+
+## Thread count
+LP/4 LN4 K50 Na24 R50 N4 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LP | <code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> `#A8ACE8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.23 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LP/4 LN4 K50 Na24 R50 N4 R/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hewitt](/setts/s7/r30db12k6dg12ly2dg3w2~x2/) — ΔT 0.71
+1. [Hewitt (Name)](/setts/s7/r30db12k3g12ly2g3w2~x2/) — ΔT 0.92
+1. [MacLeod Society of Scotland](/setts/s6/g3g3r22k5db22ly2~x2/) — ΔT 0.93
+1. [Wishart Dress (Clan)](/setts/s7/k7db4r31db3ly2db27lb4~x2/) — ΔT 0.99
+1. [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2w3~x2/) — ΔT 1.03
+1. [Barbour](/setts/s7/r3k20w2dy11o21ly2o2~x2/) — ΔT 1.06
+1. [Gordon of Abergeldie (Portrait)](/setts/s6/r63w4k4dp18ly4dg50~x2/) — ΔT 1.07
+1. [Barbour - Classic](/setts/s7/o4ly2o21dy11w2k20r3~x2/) — ΔT 1.09
+1. [Crieff Primary School](/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/) — ΔT 1.10
+1. [Asman Family](/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r30db12k6dg12ly2dg3w2~x2/"><circle cx="208.0" cy="131.1" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/setts/s7/r30db12k3g12ly2g3w2~x2/"><circle cx="231.2" cy="129.5" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/setts/s6/g3g3r22k5db22ly2~x2/"><circle cx="188.3" cy="157.6" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/setts/s7/k7db4r31db3ly2db27lb4~x2/"><circle cx="200.2" cy="126.6" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/setts/s8/ly3db3k2db18k26r21g2w3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s7/r3k20w2dy11o21ly2o2~x2/"><circle cx="167.3" cy="156.0" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/setts/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="242.7" cy="140.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/setts/s7/o4ly2o21dy11w2k20r3~x2/"><circle cx="172.7" cy="160.5" r="4" fill="#3465a4"><title>Barbour - Classic</title></circle></a><a href="/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="179.5" cy="128.5" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.6" cy="126.2" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><circle cx="186.6" cy="135.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/r3n2r25o12k25w2lb2~x2/

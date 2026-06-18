@@ -1,0 +1,56 @@
+---
+title: "Black Isle Corporate Tartan Tartan Number: 6183. Earliest known date: 15/07/2003 Designed for Black Isle Pewter Limited by Robert Howarth Guibal of Black Isle Pewter. Threadcount taken from a Marton Mills swatch book. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [KRKRKR](/stripes/krkrkr/) · **Stripes:** [K O K O K O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K O K O</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6183
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Black Isle](/setts/s6/k53o22k10o10k2o4~x2/)
+
+
+## Thread count
+K/96 N44 K20 N20 K4 N/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| N | <code style="background-color:#8E8E8E;"><span style="color:#8E8E8E;filter:grayscale(1) invert(1) contrast(100);">#8E8E8E</span></code> `#8E8E8E` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.25 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/96 N44 K20 N20 K4 N/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Douglas VS](/setts/s8/k16y1k1y1k8y16k1y2~x2/) — ΔT 1.08
+1. [Black Isle](/setts/s6/k53o22k10o10k2o4~x2/) — ΔT 1.21
+1. [Moffat](/setts/s7/k39y3k3y3k14y28r3~x2/) — ΔT 1.36
+1. [DDB Canada (Fashion)](/setts/s7/k1ly2k18o11k7o2k1~x2/) — ΔT 1.50
+1. [Menzies](/setts/s8/k32w4k2w4k4w2k1w6~x2/) — ΔT 1.55
+1. [West Point](/setts/s8/k13y1k1y1k4y10ly1y1~x6/) — ΔT 1.60
+1. [Perry Ancient (Personal)](/setts/s5/k75y26y3k4ly6~x2/) — ΔT 1.61
+1. [MacPhee MacFee or MacIver](/setts/s5/k22w3k3w11k1~x2/) — ΔT 1.65
+1. [Kinloch Anderson Black and White](/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/) — ΔT 1.66
+1. [Glen Coe Trade Tartan Tartan Number: 1243. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k37w9k3dg9w3~x2/) — ΔT 1.67
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k16y1k1y1k8y16k1y2~x2/"><circle cx="380.4" cy="197.2" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/setts/s6/k53o22k10o10k2o4~x2/"><circle cx="450.6" cy="198.7" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/setts/s7/k39y3k3y3k14y28r3~x2/"><circle cx="357.4" cy="196.2" r="4" fill="#3465a4"><title>Moffat</title></circle></a><a href="/setts/s7/k1ly2k18o11k7o2k1~x2/"><circle cx="395.6" cy="187.8" r="4" fill="#3465a4"><title>DDB Canada (Fashion)</title></circle></a><a href="/setts/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="479.6" cy="150.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s8/k13y1k1y1k4y10ly1y1~x6/"><circle cx="337.8" cy="180.8" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/setts/s5/k75y26y3k4ly6~x2/"><circle cx="463.0" cy="182.7" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s5/k22w3k3w11k1~x2/"><circle cx="413.2" cy="197.3" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="384.3" cy="175.2" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><a href="/setts/s5/k37w9k3dg9w3~x2/"><circle cx="373.4" cy="207.5" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan Tartan Number: 1243. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="412.3" cy="200.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/k24o11k5o5k1o2~x4/

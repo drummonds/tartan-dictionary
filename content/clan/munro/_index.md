@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s17/r24y1b1r3g16r3b1y1r3b6r3y1b1r16g2ba2g2~b000052-ba59110d-g11450d-raa0000-yaaaa00~x2/"><img src="/setts/s17/r24y1b1r3g16r3b1y1r3b6r3y1b1r16g2ba2g2~b000052-ba59110d-g11450d-raa0000-yaaaa00~x2/sett.png" alt="Munro" width="240"><br>Munro</a>
+<a class="tartan" href="/setts/s17/r24ly1db1r3dg16r3db1ly1r3db6r3ly1db1r16dg2dr2dg2~x2/"><img src="/setts/s17/r24ly1db1r3dg16r3db1ly1r3db6r3ly1db1r16dg2dr2dg2~x2/sett.png" alt="Munro" width="240"><br>Munro</a>
 

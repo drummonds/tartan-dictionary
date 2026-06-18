@@ -1,0 +1,65 @@
+---
+title: "Evergreen"
+date: 2023-03-18
+---
+**Bands:** [BGBYWYBW](/stripes/bgbywybw/) · **Stripes:** [DO Y DO LO W LO DO W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DO Y DO LO W LO DO W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1140
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1978 — Evergreen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1140))
+- pre 1978 — Evergreen (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4830/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1140](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1140)
+- Scottish Tartans Authority (ITI): 4830
+
+## Thread count
+LN/8 N120 LT40 LN4 LT40 N4 Na40 N/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A88C58;"><span style="color:#A88C58;filter:grayscale(1) invert(1) contrast(100);">#A88C58</span></code> `#A88C58` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.20 |
+| N | <code style="background-color:#3C3C3C;"><span style="color:#3C3C3C;filter:grayscale(1) invert(1) contrast(100);">#3C3C3C</span></code> `#3C3C3C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| Na | <code style="background-color:#848870;"><span style="color:#848870;filter:grayscale(1) invert(1) contrast(100);">#848870</span></code> `#848870` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.22 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/8 N120 LT40 LN4 LT40 N4 Na40 N/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Titanium](/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/) — ΔT 1.05
+1. [Connaught (Lochcarron)](/setts/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/) — ΔT 1.15
+1. [George (Personal)](/setts/s9/r6db2r1db8r3db16g28w2g4~x2/) — ΔT 1.18
+1. [Bannockbane Variant](/setts/s8/n3m2n30m1w18o14m2o3~x2/) — ΔT 1.23
+1. [Georgia, State of (District)](/setts/s8/y36k2y2k2y3k12t10r20~x2/) — ΔT 1.24
+1. [Ailsa, Grey (Fashion)](/setts/s9/o9w9o9n25o1w1o1w1g3~x2/) — ΔT 1.26
+1. [Willsher Wedding (Personal)](/setts/s9/do8o4w2o4do1o12dg9do24r4~x2/) — ΔT 1.31
+1. [State Seal of Rhode Island (Fash.)](/setts/s11/lo2k1o28lo6o2k10lo2o6lo14k1o2~x2/) — ΔT 1.33
+1. [Unidentified (Pahls)](/setts/s10/lo4g4db2g29w1db12g2lo16g4db2~x2/) — ΔT 1.33
+1. [Unidentified (School)](/setts/s9/y35k3db2k5db3k1db20k3w3~x2/) — ΔT 1.34
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/"><circle cx="326.8" cy="158.3" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/setts/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/"><circle cx="349.9" cy="108.8" r="4" fill="#3465a4"><title>Connaught (Lochcarron)</title></circle></a><a href="/setts/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="306.9" cy="149.7" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/setts/s8/n3m2n30m1w18o14m2o3~x2/"><circle cx="291.9" cy="136.1" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/setts/s8/y36k2y2k2y3k12t10r20~x2/"><circle cx="290.5" cy="166.8" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/setts/s9/o9w9o9n25o1w1o1w1g3~x2/"><circle cx="298.1" cy="148.6" r="4" fill="#3465a4"><title>Ailsa, Grey (Fashion)</title></circle></a><a href="/setts/s9/do8o4w2o4do1o12dg9do24r4~x2/"><circle cx="286.0" cy="156.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s11/lo2k1o28lo6o2k10lo2o6lo14k1o2~x2/"><circle cx="352.7" cy="140.4" r="4" fill="#3465a4"><title>State Seal of Rhode Island (Fash.)</title></circle></a><a href="/setts/s10/lo4g4db2g29w1db12g2lo16g4db2~x2/"><circle cx="341.7" cy="150.8" r="4" fill="#3465a4"><title>Unidentified (Pahls)</title></circle></a><a href="/setts/s9/y35k3db2k5db3k1db20k3w3~x2/"><circle cx="332.1" cy="130.7" r="4" fill="#3465a4"><title>Unidentified (School)</title></circle></a><circle cx="337.9" cy="147.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/w2do30lo10w1lo10do1y10do1~x4/

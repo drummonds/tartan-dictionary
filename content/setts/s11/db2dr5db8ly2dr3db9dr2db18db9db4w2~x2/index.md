@@ -1,0 +1,55 @@
+---
+title: "Royal Gourock Yacht Club, The"
+date: 2023-03-18
+---
+**Bands:** [BBBYBBBBBBW](/stripes/bbbybbbbbbw/) · **Stripes:** [DB DR DB LY DR DB DR DB DB DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DR DB LY DR DB DR DB DB DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11087
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11087](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11087)
+
+## Thread count
+DBa/4 DR10 DBa16 Y4 DR6 DB18 DR4 DBa36 DB18 DBb8 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000048;"><span style="color:#000048;filter:grayscale(1) invert(1) contrast(100);">#000048</span></code> `#000048` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
+| DBa | <code style="background-color:#000080;"><span style="color:#000080;filter:grayscale(1) invert(1) contrast(100);">#000080</span></code> `#000080` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DBb | <code style="background-color:#00008C;"><span style="color:#00008C;filter:grayscale(1) invert(1) contrast(100);">#00008C</span></code> `#00008C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DR | <code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> `#4C0000` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.25 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFFF00;"><span style="color:#FFFF00;filter:grayscale(1) invert(1) contrast(100);">#FFFF00</span></code> `#FFFF00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Royal Gourock Yacht Club, The](/setts/s11/db5r2db8ly2r3k9r2db18k9db4w2~x2/) — ΔT 1.08
+1. [Robert Burns Legacy](/setts/s9/db10g42db8t8db8k24db8db71r10/) — ΔT 1.49
+1. [Highland Destiny (Fashion)](/setts/s13/dp4k3dp20k10db19m2db2m2db25g3db4k6w4~x2/) — ΔT 1.53
+1. [Thistle of Scotland](/setts/s9/lb3k28g2k2g2k3k16db24m3~x2/) — ΔT 1.59
+1. [Impulse](/setts/s11/r2db10k9db13k7db3k2db3k2db3r2~x2/) — ΔT 1.60
+1. [Kinloch Anderson Thistle](/setts/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/) — ΔT 1.61
+1. [World Corporate Golf Challenge (Corp](/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/) — ΔT 1.63
+1. [Dempster (Name)](/setts/s13/b12db3b12db16k3db6k3db16r3db3lo3k16db4~x2/) — ΔT 1.63
+1. [Scottish Tourist Guides Association](/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/) — ΔT 1.64
+1. [Solberg-Bell Hunting](/setts/s13/k2o1lo2k1db4k1lo2db8db2db4db4w1k2~x4/) — ΔT 1.64
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db5r2db8ly2r3k9r2db18k9db4w2~x2/"><circle cx="199.4" cy="169.9" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><a href="/setts/s9/db10g42db8t8db8k24db8db71r10/"><circle cx="193.4" cy="176.2" r="4" fill="#3465a4"><title>Robert Burns Legacy</title></circle></a><a href="/setts/s13/dp4k3dp20k10db19m2db2m2db25g3db4k6w4~x2/"><circle cx="231.6" cy="143.6" r="4" fill="#3465a4"><title>Highland Destiny (Fashion)</title></circle></a><a href="/setts/s9/lb3k28g2k2g2k3k16db24m3~x2/"><circle cx="204.7" cy="159.2" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/setts/s11/r2db10k9db13k7db3k2db3k2db3r2~x2/"><circle cx="120.9" cy="208.3" r="4" fill="#3465a4"><title>Impulse</title></circle></a><a href="/setts/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/"><circle cx="118.2" cy="191.3" r="4" fill="#3465a4"><title>Kinloch Anderson Thistle</title></circle></a><a href="/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/"><circle cx="179.5" cy="162.3" r="4" fill="#3465a4"><title>World Corporate Golf Challenge (Corp</title></circle></a><a href="/setts/s13/b12db3b12db16k3db6k3db16r3db3lo3k16db4~x2/"><circle cx="175.1" cy="206.3" r="4" fill="#3465a4"><title>Dempster (Name)</title></circle></a><a href="/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/"><circle cx="146.2" cy="136.5" r="4" fill="#3465a4"><title>Scottish Tourist Guides Association</title></circle></a><a href="/setts/s13/k2o1lo2k1db4k1lo2db8db2db4db4w1k2~x4/"><circle cx="131.2" cy="181.6" r="4" fill="#3465a4"><title>Solberg-Bell Hunting</title></circle></a><circle cx="173.6" cy="178.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/db2dr5db8ly2dr3db9dr2db18db9db4w2~x2/

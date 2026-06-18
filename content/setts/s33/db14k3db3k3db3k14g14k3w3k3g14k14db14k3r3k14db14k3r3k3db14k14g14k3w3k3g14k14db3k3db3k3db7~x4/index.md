@@ -1,0 +1,62 @@
+---
+title: "MacKenzie"
+date: 2023-03-18
+---
+**Bands:** [BKBKBKGKWKGKBKRKBKRKBKGKWKGKBKBKB](/stripes/bkbkbkgkwkgkbkrkbkrkbkgkwkgkbkbkb/) · **Stripes:** [DB K DB K DB K G K W K G K DB K R K DB K R K DB K G K W K G K DB K DB K DB](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G K W K G K DB K R K DB K R K DB K G K W K G K DB K DB K DB</span></span>
+
+
+This was sourced from logan-1831.  It is a [33 band tartan](/bands/bands33/).
+
+Original link /posts/logans-scottish-gael/
+
+## Provenance
+
+James Logan recorded the **MacKenzie** sett in 1831, on page 405 of the *Table of Clan Tartans* in *The Scottish Gaël* — the earliest systematic published collection of clan setts. Logan gives the stripe widths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
+
+> 3½ blue · 1½ black · 1½ blue · 1½ black · 1½ blue · 7 black · 7 green · 1½ black · 1½ white · 1½ black · 7 green · 7 black · 7 blue · 1½ black · 1½ red · 1½ black · 7 blue · 7 black · 1½ red · 1½ black · 7 blue · 7 black · 7 green · 1½ black · 1½ white · 1½ black · 7 green · 7 black · 1½ blue · 1½ black · 1½ blue · 1½ black · 7 blue
+
+In threads (at 8 to the eighth-inch) that is `B/28 K12 B12 K12 B12 K56 G56 K12 W12 K12 G56 K56 B56 K12 R12 K12 B56 K56 R12 K12 B56 K56 G56 K12 W12 K12 G56 K56 B12 K12 B12 K12 B/56`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
+
+## Related setts
+
+Later records of the **MacKenzie** name adjusted Logan's counts: [Mackenzie](/setts/s15/b12k2b2k2b2k12g12k1w2k1g12k12b12k1r2~b1474b4-g285800-k101010-rc80000-we0e0e0~x2/); [MacKenzie (MacGregor-Hastie)](/setts/s15/w10k3w3k3w3k5w5g9k1w2k1g9k10w13r2~g006818-k101010-rc80000-we0e0e0~x2/); [MacKenzie (Vestiarium Scoticum)](/setts/s24/b18k2b2k2b2k6g18w2g18k6b18k1b4k1b18k6g18r2g18k6b2k2b2k2~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/); [MacKenzie Dress](/setts/s14/w3b2w7b2w2k7g8k1w2k1g8k7ba7r2~b5c8ca8-ba2c2c80-g006818-k101010-rc80000-we0e0e0~x2/). Compare their thread counts with Logan's above.
+
+## Thread count
+DB/28 K12 DB12 K12 DB12 K56 G56 K12 LN12 K12 G56 K56 DB56 K12 R12 K12 DB56 K56 R12 K12 DB56 K56 G56 K12 LN12 K12 G56 K56 DB12 K12 DB12 K12 DB/56
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Allen Personal Tartan Tartan Number: 2482. Earliest known date: 1997 Designed for Christopher Allen Holler of Winter Park Florida and for use by anyone of the name Allen or any of its variations. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s40/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11ly2db11k4g12r2g2r2g12k4db11ly2db11k4db2k9db2k9db2k4db11r2db11k4g12r2~x2/) — ΔT 0.68
+1. [MacEwen (Clans Originaux)](/setts/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/) — ΔT 0.95
+1. [Campbell](/setts/s29/db4k1db1k1db1k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db4~x8/) — ΔT 1.12
+1. [Campbell of Argyll Clan Tartan Tartan Number: 1961. Earliest known date: 1810-15 This sett appears in the Cockburn Collection, (1815). Logan (1831). Vestiarium Scoticum (1842). Smibert (1850). Smith (1850). Grant (1886). The Setts No: 19 (1950). W & A K Johnston (1906). Like many of the earliest clan setts, the Campbell of Argyll, owes its origin to the post rebellion output of Wilson's of Bannockburn, whose monopoly on military supply dictated design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/) — ΔT 1.16
+1. [Lamont](/setts/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/) — ΔT 1.18
+1. [Allen (1998)](/setts/s21/g2r2g12k4n11ly2n11k4n2k9n2k9n2k4n11r2n11k4g12r2g2~x2/) — ΔT 1.24
+1. [Murray](/setts/s25/db2k1db6k6g6r2g6k6db1k1db1k1db6k1db1k1db1k6g6r2g6k6db6k1db1~x8/) — ΔT 1.25
+1. [Lochinvar Marine Harvest (Corporate)](/setts/s24/g2k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2~x2/) — ΔT 1.33
+1. [Scotland's National](/setts/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3k2dt12k10g12k2g4k2g12k10dt2r2dt2w2~x2/) — ΔT 1.37
+1. [Stuart/Stewart Hunting #3](/setts/s26/db8dg2db8k2db2k2db2k4dg11r2dg11k4dg2k9dg2k9dg2k4dg11ly2dg11k4db2k2db2k4~x2/) — ΔT 1.39
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s40/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11ly2db11k4g12r2g2r2g12k4db11ly2db11k4db2k9db2k9db2k4db11r2db11k4g12r2~x2/"><circle cx="153.3" cy="165.2" r="4" fill="#3465a4"><title>Allen Personal Tartan Tartan Number: 2482. Earliest known date: 1997 Designed for Christopher Allen Holler of Winter Park Florida and for use by anyone of the name Allen or any of its variations. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="182.7" cy="168.4" r="4" fill="#3465a4"><title>MacEwen (Clans Originaux)</title></circle></a><a href="/setts/s29/db4k1db1k1db1k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db4~x8/"><circle cx="166.3" cy="150.2" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s28/k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="167.8" cy="150.9" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan Tartan Number: 1961. Earliest known date: 1810-15 This sett appears in the Cockburn Collection, (1815). Logan (1831). Vestiarium Scoticum (1842). Smibert (1850). Smith (1850). Grant (1886). The Setts No: 19 (1950). W &amp; A K Johnston (1906). Like many of the earliest clan setts, the Campbell of Argyll, owes its origin to the post rebellion output of Wilson's of Bannockburn, whose monopoly on military supply dictated design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/"><circle cx="135.1" cy="219.0" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s21/g2r2g12k4n11ly2n11k4n2k9n2k9n2k4n11r2n11k4g12r2g2~x2/"><circle cx="170.6" cy="193.4" r="4" fill="#3465a4"><title>Allen (1998)</title></circle></a><a href="/setts/s25/db2k1db6k6g6r2g6k6db1k1db1k1db6k1db1k1db1k6g6r2g6k6db6k1db1~x8/"><circle cx="165.2" cy="201.0" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s24/g2k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2~x2/"><circle cx="154.2" cy="222.7" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest (Corporate)</title></circle></a><a href="/setts/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3k2dt12k10g12k2g4k2g12k10dt2r2dt2w2~x2/"><circle cx="108.1" cy="164.2" r="4" fill="#3465a4"><title>Scotland's National</title></circle></a><a href="/setts/s26/db8dg2db8k2db2k2db2k4dg11r2dg11k4dg2k9dg2k9dg2k4dg11ly2dg11k4db2k2db2k4~x2/"><circle cx="193.7" cy="200.1" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #3</title></circle></a><circle cx="145.8" cy="179.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s33/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/

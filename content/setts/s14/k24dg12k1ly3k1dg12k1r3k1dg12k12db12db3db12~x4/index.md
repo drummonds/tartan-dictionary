@@ -1,0 +1,56 @@
+---
+title: "Gow Hunting #2"
+date: 2023-03-18
+---
+**Bands:** [BBBKGKRKGKYKGK](/stripes/bbbkgkrkgkykgk/) · **Stripes:** [DB DB DB K DG K R K DG K LY K DG K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DB DB DB K DG K R K DG K LY K DG K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1475
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1475](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1475)
+- Scottish Tartans World Register: 1893
+
+## Thread count
+B/48 DB12 B48 K48 G48 K4 R12 K4 G48 K4 Y12 K4 G48 K/96
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| DB | <code style="background-color:#080848;"><span style="color:#080848;filter:grayscale(1) invert(1) contrast(100);">#080848</span></code> `#080848` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.20 |
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Paget Family Tartan Tartan Number: 2072. Earliest known date: 1992 Designed as a 'Family' tartan and woven by Peter MacDonald in Crieff. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r3g4g2g10k18g2db18g3db18g2k18g16w1r3~x2/) — ΔT 0.71
+1. [Adams (Name)](/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/) — ΔT 0.72
+1. [Adams](/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/) — ΔT 0.88
+1. [Whitson](/setts/s16/lb4k1y19lo1k19n13r2n4r2n4r2n13k19lo1y19k1~x4/) — ΔT 0.89
+1. [Campbell Red](/setts/s13/r3k1dg21k19db19k3db3k3db19k19dg21k1w3~x2/) — ΔT 0.96
+1. [Paget (Personal)](/setts/s14/r3g4y2g10k18g2dp18g3dp18g2k18g18w1r3~x2/) — ΔT 1.01
+1. [Milne of Corstorphine #2 (Personal)](/setts/s14/dt22g1dt2g1dt4k16lo1g16r2g16lo1k16dt16g1~x2/) — ΔT 1.17
+1. [Fleming of Castle Carrick (Personal)](/setts/s14/y17k3y3k3y3k16n18k1r3k1n18k16y9dp2~x2/) — ΔT 1.18
+1. [Campbell Brown](/setts/s13/ly9k1dy31dg30db36dg3db3dg3db36dg30dy31k1w9~x2/) — ΔT 1.20
+1. [Clack (Personal)](/setts/s13/db4g17dg1db2k6g2dg12g2k6db2dg1db18w2~x2/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r3g4g2g10k18g2db18g3db18g2k18g16w1r3~x2/"><circle cx="167.0" cy="143.0" r="4" fill="#3465a4"><title>Paget Family Tartan Tartan Number: 2072. Earliest known date: 1992 Designed as a 'Family' tartan and woven by Peter MacDonald in Crieff. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/"><circle cx="208.1" cy="141.5" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/"><circle cx="193.3" cy="148.6" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/setts/s16/lb4k1y19lo1k19n13r2n4r2n4r2n13k19lo1y19k1~x4/"><circle cx="187.1" cy="132.6" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s13/r3k1dg21k19db19k3db3k3db19k19dg21k1w3~x2/"><circle cx="216.5" cy="164.5" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/setts/s14/r3g4y2g10k18g2dp18g3dp18g2k18g18w1r3~x2/"><circle cx="172.6" cy="137.2" r="4" fill="#3465a4"><title>Paget (Personal)</title></circle></a><a href="/setts/s14/dt22g1dt2g1dt4k16lo1g16r2g16lo1k16dt16g1~x2/"><circle cx="253.6" cy="159.2" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><a href="/setts/s14/y17k3y3k3y3k16n18k1r3k1n18k16y9dp2~x2/"><circle cx="216.0" cy="158.2" r="4" fill="#3465a4"><title>Fleming of Castle Carrick (Personal)</title></circle></a><a href="/setts/s13/ly9k1dy31dg30db36dg3db3dg3db36dg30dy31k1w9~x2/"><circle cx="210.5" cy="127.1" r="4" fill="#3465a4"><title>Campbell Brown</title></circle></a><a href="/setts/s13/db4g17dg1db2k6g2dg12g2k6db2dg1db18w2~x2/"><circle cx="161.1" cy="141.0" r="4" fill="#3465a4"><title>Clack (Personal)</title></circle></a><circle cx="207.6" cy="138.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/k24dg12k1ly3k1dg12k1r3k1dg12k12db12db3db12~x4/

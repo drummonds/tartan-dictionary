@@ -5,13 +5,15 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#CC0000;border:1px solid #0003;flex:none"></span><div><strong>Red</strong> · code <code>R</code> · Base Six · ref <code>21-09-05</code><br>sRGB <code>#CC0000</code> · OKLab L 0.531 a +0.190 b +0.106 · grid <code>21-09-032</code></div></div>
 
+Red — the warm base role, the first hue a language names after black and white, and the warp red at the heart of most tartans.
+
 The nearest named colour is **Red** (Human Palette), 0.026 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#D60020;"><span style="color:#D60020;filter:grayscale(1) invert(1) contrast(100);">#D60020</span></code> | [Red](/colour/named/human-palette-r/) | R | Human Palette | 0.026 |
 | <code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> | [Orange](/colour/named/human-palette-o/) | O | Human Palette | 0.126 |
-| <code style="background-color:#CA047B;"><span style="color:#CA047B;filter:grayscale(1) invert(1) contrast(100);">#CA047B</span></code> | [Magenta](/colour/named/human-palette-pr/) | PR | Human Palette | 0.137 |
+| <code style="background-color:#CA047B;"><span style="color:#CA047B;filter:grayscale(1) invert(1) contrast(100);">#CA047B</span></code> | [Magenta](/colour/named/human-palette-m/) | M | Human Palette | 0.137 |
 | <code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> | [Yellow](/colour/named/human-palette-y/) | Y | Human Palette | 0.192 |
 | <code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> | [Grey](/colour/named/human-palette-n/) | N | Human Palette | 0.220 |
 | <code style="background-color:#AA2DBD;"><span style="color:#AA2DBD;filter:grayscale(1) invert(1) contrast(100);">#AA2DBD</span></code> | [Purple](/colour/named/human-palette-p/) | P | Human Palette | 0.246 |

@@ -1,0 +1,17 @@
+{{/* Holding / "coming soon" page for nav entries whose real section isn't built yet.
+     Selected with `layout: holding` in front matter. The tartan panel + card styling
+     lives in dictionary.css (.holding). Any markdown body is shown under "Coming soon";
+     otherwise a default line is used. */}}
+{{ define "main" }}
+<section class="holding">
+  <div class="holding-card">
+    <h1 class="holding-title">{{ .Title }}</h1>
+    <p class="holding-soon">Coming soon</p>
+    {{ with .Content }}
+    <div class="holding-sub">{{ . }}</div>
+    {{ else }}
+    <p class="holding-sub">This part of the Tartan Dictionary is still being woven.</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

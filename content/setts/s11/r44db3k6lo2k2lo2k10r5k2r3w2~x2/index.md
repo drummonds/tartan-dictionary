@@ -1,0 +1,63 @@
+---
+title: "Heritage Plaid"
+date: 2023-03-18
+---
+**Bands:** [RBKYKYKRKRW](/stripes/rbkykykrkrw/) · **Stripes:** [R DB K LO K LO K R K R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K LO K LO K R K R W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1696
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1970 — Heritage Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1696))
+- 1978 — Heritage Plaid (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2336/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1696)
+- Scottish Tartans Authority (ITI): 2336
+- Scottish Tartans World Register: 2336
+
+## Thread count
+LN/4 R6 K4 R10 K20 LT4 K4 LT4 K12 DB6 R/88
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hilton Champion Corporate Golf Tartan Tartan Number: 2336. Earliest known date: c.1970 Originally called Hilton Champion, this tartan was designed by Kinloch Anderson for the officials and winning jacket for the Hilton-sponsored Heritage Classic golf tournament. The name was changed to Heritage Plaid in September 2000 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r44t3k6k2k2k2k10r5k2r3w2~x2/) — ΔT 0.37
+1. [Oliver, dress](/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/) — ΔT 0.71
+1. [Stewart/Stuart of Rothesay (Sobieski)](/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/) — ΔT 0.76
+1. [Hilton Plaid](/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/) — ΔT 0.85
+1. [Stewart of Rothesay](/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/) — ΔT 1.05
+1. [Galway](/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/) — ΔT 1.12
+1. [1745 Trading (Corporate)](/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/) — ΔT 1.13
+1. [Mair (Personal)](/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/) — ΔT 1.15
+1. [Inverness](/setts/s14/r36db3w1db6g1k1g1r9g1k1g1db6w1db3~x4/) — ΔT 1.18
+1. [Melrose (District)](/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r44t3k6k2k2k2k10r5k2r3w2~x2/"><circle cx="399.5" cy="78.6" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf Tartan Tartan Number: 2336. Earliest known date: c.1970 Originally called Hilton Champion, this tartan was designed by Kinloch Anderson for the officials and winning jacket for the Hilton-sponsored Heritage Classic golf tournament. The name was changed to Heritage Plaid in September 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/"><circle cx="432.4" cy="98.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="380.0" cy="87.8" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/"><circle cx="389.8" cy="75.6" r="4" fill="#3465a4"><title>Hilton Plaid</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="369.3" cy="84.3" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/"><circle cx="411.5" cy="114.2" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="341.7" cy="94.9" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.6" cy="102.4" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s14/r36db3w1db6g1k1g1r9g1k1g1db6w1db3~x4/"><circle cx="427.3" cy="51.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/"><circle cx="474.2" cy="51.4" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><circle cx="408.2" cy="81.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/

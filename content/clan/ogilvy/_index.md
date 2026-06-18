@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Ogilvy of Airlie](/clan/ogilvy/airlie/)
+- [Ogilvy of Airlie](/families/ogilvy-of-airlie/)
 

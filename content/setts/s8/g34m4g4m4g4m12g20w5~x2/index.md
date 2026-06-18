@@ -1,0 +1,57 @@
+---
+title: "Leeds, University of (Dance)"
+date: 2023-03-18
+---
+**Bands:** [GRGRGRGW](/stripes/grgrgrgw/) · **Stripes:** [G M G M G M G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G M G M G M G W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/980/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Leeds University Corporate Tartan Tartan Number: 980. Earliest known date: pre 2003 Leeds University Scottish Country Dance Club. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g9m2g2m2g2m8g11w2~x4/)
+
+
+## Thread count
+G/68 R8 G8 R8 G8 R24 G40 LN/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> `#A00048` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/68 R8 G8 R8 G8 R24 G40 LN/10 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Connell (Dalgliesh) (Personal)](/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/) — ΔT 1.12
+1. [Crow (Name)](/setts/s8/g2db2g6db4g3db4g18ly2~x4/) — ΔT 1.13
+1. [Logan #4](/setts/s7/g9r4g1r4g15r4g1~x4/) — ΔT 1.16
+1. [Green Watch](/setts/s7/dg10o1dg1o1lr2dg1o1~x4/) — ΔT 1.20
+1. [Northcroft (Personal)](/setts/s7/g24r4g3k14g5r2g10~x2/) — ΔT 1.22
+1. [Connell (Personal?)](/setts/s6/r2g2r1g12r3k1~x4/) — ΔT 1.25
+1. [Leeds, University of (Dance) #1](/setts/s14/g34m4g4m4g4m12g20w5g20m12g4m4g4m4~x2/) — ΔT 1.29
+1. [Welsh National District Tartan Tartan Number: 1523. Earliest known date: 1968 The Welsh Tartan owes its origin to a Society formed in Cardiff in 1967. Its aims were cultural and political - to strengthen Celtic ties and give visible signs of being an individual nation in culture, language and dress. The colours are those of the Welsh flag. It is said that the design was based on the Lord of the Isles tartan because the present Lord is also Prince of Wales. However comparison reveals similarity only to MacDonald, MacDonald of the Isles, or perhaps Applecross district. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/m2g1m1g10w1~x4/) — ΔT 1.35
+1. [Leeds University Corporate Tartan Tartan Number: 980. Earliest known date: pre 2003 Leeds University Scottish Country Dance Club. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g9m2g2m2g2m8g11w2~x4/) — ΔT 1.36
+1. [Arkansas](/setts/s7/g3w1g12r6g3k3g2~x4/) — ΔT 1.43
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="475.4" cy="206.7" r="4" fill="#3465a4"><title>Connell (Dalgliesh) (Personal)</title></circle></a><a href="/setts/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="439.7" cy="235.3" r="4" fill="#3465a4"><title>Crow (Name)</title></circle></a><a href="/setts/s7/g9r4g1r4g15r4g1~x4/"><circle cx="428.9" cy="217.5" r="4" fill="#3465a4"><title>Logan #4</title></circle></a><a href="/setts/s7/dg10o1dg1o1lr2dg1o1~x4/"><circle cx="459.6" cy="214.8" r="4" fill="#3465a4"><title>Green Watch</title></circle></a><a href="/setts/s7/g24r4g3k14g5r2g10~x2/"><circle cx="418.1" cy="239.7" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><a href="/setts/s6/r2g2r1g12r3k1~x4/"><circle cx="446.1" cy="218.1" r="4" fill="#3465a4"><title>Connell (Personal?)</title></circle></a><a href="/setts/s14/g34m4g4m4g4m12g20w5g20m12g4m4g4m4~x2/"><circle cx="397.6" cy="204.9" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/setts/s5/m2g1m1g10w1~x4/"><circle cx="479.8" cy="228.7" r="4" fill="#3465a4"><title>Welsh National District Tartan Tartan Number: 1523. Earliest known date: 1968 The Welsh Tartan owes its origin to a Society formed in Cardiff in 1967. Its aims were cultural and political - to strengthen Celtic ties and give visible signs of being an individual nation in culture, language and dress. The colours are those of the Welsh flag. It is said that the design was based on the Lord of the Isles tartan because the present Lord is also Prince of Wales. However comparison reveals similarity only to MacDonald, MacDonald of the Isles, or perhaps Applecross district. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g9m2g2m2g2m8g11w2~x4/"><circle cx="350.5" cy="250.2" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan Tartan Number: 980. Earliest known date: pre 2003 Leeds University Scottish Country Dance Club. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g3w1g12r6g3k3g2~x4/"><circle cx="367.4" cy="208.8" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><circle cx="430.7" cy="226.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/g34m4g4m4g4m12g20w5~x2/

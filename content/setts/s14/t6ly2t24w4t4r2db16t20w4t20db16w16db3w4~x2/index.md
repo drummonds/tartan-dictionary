@@ -1,0 +1,48 @@
+---
+title: "MacHinery Dress (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [BYBWBRBBWBBWBW](/stripes/bybwbrbbwbbwbw/) · **Stripes:** [T LY T W T R DB T W T DB W DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T LY T W T R DB T W T DB W DB W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3389/
+
+## Thread count
+B/12 Y4 B48 LN8 B8 DR4 DB32 B40 LN8 B40 DB32 LN32 DB6 LN/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacHinery Dress](/setts/s14/t6k2t24w4t4r2db16t20w4t20db16w16db3w4~x2/) — ΔT 0.14
+1. [Balamory](/setts/s14/b9lb4dt2lb2dt2lb4dt10b1lb16b9w2b9lb2b9~x2/) — ΔT 0.94
+1. [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/) — ΔT 1.19
+1. [Avalon - Carroll House](/setts/s14/w3k1b15k6b5k3b8k2b5ly3w2ly4k1w3~x2/) — ΔT 1.21
+1. [Keela](/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/) — ΔT 1.26
+1. [Stand International](/setts/s11/lb6r1lb1lo1lb1g1dt9lb6w1dt6lb3~x4/) — ΔT 1.29
+1. [Carlisle (Family)](/setts/s12/b32lo15k3lo6r3lo6b33lo6r3lo6k3lo15~x4/) — ΔT 1.34
+1. [Breifne](/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/) — ΔT 1.35
+1. [Illinois State (District)](/setts/s13/db6r3t24db12lr6t6r2t6lr6t12db2r2db6~x2/) — ΔT 1.36
+1. [Beck (Personal)](/setts/s15/k4w2t15r6t25w2k4w2t15w4k2w4k2w4k2~x2/) — ΔT 1.41
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/t6k2t24w4t4r2db16t20w4t20db16w16db3w4~x2/"><circle cx="214.1" cy="146.6" r="4" fill="#3465a4"><title>MacHinery Dress</title></circle></a><a href="/setts/s14/b9lb4dt2lb2dt2lb4dt10b1lb16b9w2b9lb2b9~x2/"><circle cx="184.8" cy="132.9" r="4" fill="#3465a4"><title>Balamory</title></circle></a><a href="/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/"><circle cx="193.6" cy="125.7" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s14/w3k1b15k6b5k3b8k2b5ly3w2ly4k1w3~x2/"><circle cx="233.2" cy="148.5" r="4" fill="#3465a4"><title>Avalon - Carroll House</title></circle></a><a href="/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/"><circle cx="219.1" cy="160.1" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/setts/s11/lb6r1lb1lo1lb1g1dt9lb6w1dt6lb3~x4/"><circle cx="186.3" cy="143.5" r="4" fill="#3465a4"><title>Stand International</title></circle></a><a href="/setts/s12/b32lo15k3lo6r3lo6b33lo6r3lo6k3lo15~x4/"><circle cx="259.3" cy="154.7" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><a href="/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/"><circle cx="220.2" cy="167.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/setts/s13/db6r3t24db12lr6t6r2t6lr6t12db2r2db6~x2/"><circle cx="260.0" cy="176.4" r="4" fill="#3465a4"><title>Illinois State (District)</title></circle></a><a href="/setts/s15/k4w2t15r6t25w2k4w2t15w4k2w4k2w4k2~x2/"><circle cx="287.2" cy="137.0" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><circle cx="216.0" cy="146.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/t6ly2t24w4t4r2db16t20w4t20db16w16db3w4~x2/

@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Bird of Paradise](/clan/bird/paradise/)
+- [Bird of Paradise](/families/bird-of-paradise/)
 

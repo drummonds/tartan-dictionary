@@ -1,0 +1,49 @@
+---
+title: "Hirter Karo (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [RYBGBWBGBYRYBGBW](/stripes/rybgbwbgbyrybgbw/) · **Stripes:** [R LY DB DY B W B DY B LY R LY B DY B W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY DB DY B W B DY B LY R LY B DY B W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3907/
+
+## Thread count
+R/6 Y6 DB36 T30 B32 W6 B32 T30 B36 Y6 R6 Y6 B36 T30 B32 W/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2474E8;"><span style="color:#2474E8;filter:grayscale(1) invert(1) contrast(100);">#2474E8</span></code> `#2474E8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hirter Karo](/setts/s20/ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3b16dy15db18ly3r3~x2/) — ΔT 0.67
+1. [de Baseggio (Golden Bones)](/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/) — ΔT 1.07
+1. [De Baseggio (Personal)](/setts/s16/b4dt6g1w1r1dt6b4dt2lo1dt1lo1dt1lo1dt2lo3dt3~x4/) — ΔT 1.28
+1. [EAIE 2015](/setts/s10/b4g1b2g2lr6g2k3r1b8w1~x2/) — ΔT 1.35
+1. [MacLellan/McLellan (Personal)](/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/) — ΔT 1.41
+1. [Healy (Suspect)](/setts/s20/db2lb2b7r4ly8db4b10lb2db2b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/) — ΔT 1.44
+1. [Healy (Name)](/setts/s11/b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/) — ΔT 1.48
+1. [Hyndman (Name)](/setts/s14/b4r2b3r4b8g4ly2g2k2b6r4b2r2w2~x4/) — ΔT 1.50
+1. [Walker, Michael (Personal)](/setts/s22/t14db6ly2db6t14db14w2o3w2t14db14t14db14t14w2o3w2db14t14db6ly2db6~x2/) — ΔT 1.58
+1. [MacLellan, McLellan hunting](/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/) — ΔT 1.59
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3b16dy15db18ly3r3~x2/"><circle cx="119.7" cy="166.3" r="4" fill="#3465a4"><title>Hirter Karo</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.9" cy="161.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><a href="/setts/s16/b4dt6g1w1r1dt6b4dt2lo1dt1lo1dt1lo1dt2lo3dt3~x4/"><circle cx="208.9" cy="178.3" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><a href="/setts/s10/b4g1b2g2lr6g2k3r1b8w1~x2/"><circle cx="140.7" cy="161.5" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/"><circle cx="129.6" cy="161.3" r="4" fill="#3465a4"><title>MacLellan/McLellan (Personal)</title></circle></a><a href="/setts/s20/db2lb2b7r4ly8db4b10lb2db2b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/"><circle cx="126.5" cy="178.3" r="4" fill="#3465a4"><title>Healy (Suspect)</title></circle></a><a href="/setts/s11/b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/"><circle cx="162.5" cy="205.3" r="4" fill="#3465a4"><title>Healy (Name)</title></circle></a><a href="/setts/s14/b4r2b3r4b8g4ly2g2k2b6r4b2r2w2~x4/"><circle cx="122.1" cy="199.3" r="4" fill="#3465a4"><title>Hyndman (Name)</title></circle></a><a href="/setts/s22/t14db6ly2db6t14db14w2o3w2t14db14t14db14t14w2o3w2db14t14db6ly2db6~x2/"><circle cx="197.1" cy="180.1" r="4" fill="#3465a4"><title>Walker, Michael (Personal)</title></circle></a><a href="/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><circle cx="150.7" cy="171.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/r3ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3~x2/

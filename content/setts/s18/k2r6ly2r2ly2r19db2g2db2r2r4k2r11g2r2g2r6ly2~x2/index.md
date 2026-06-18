@@ -1,0 +1,56 @@
+---
+title: "Harmon (Personal)"
+date: 2023-03-18
+---
+**Bands:** [KRYRYRBGBRRKRGRGRY](/stripes/kryryrbgbrrkrgrgry/) · **Stripes:** [K R LY R LY R DB G DB R R K R G R G R LY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R LY R LY R DB G DB R R K R G R G R LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5757
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5757](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5757)
+- Scottish Tartans Authority (ITI): 7792
+
+## Thread count
+K/4 R12 Y4 R4 Y4 R38 DB4 G4 DB4 R4 DR8 K4 DR22 G4 DR4 G4 DR12 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#10101A;"><span style="color:#10101A;filter:grayscale(1) invert(1) contrast(100);">#10101A</span></code> `#10101A` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.18 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Harmon (Name)](/setts/s18/k2r6lo2r2lo2r19dt2g2dt2r2r4k2r11g2r2g2r6lo2~x2/) — ΔT 0.81
+1. [MacDougall (Kinloch Anderson)](/setts/s15/r7r5r5r31k9r4r3r5r3r4dg30r4r3r5r5~x2/) — ΔT 1.02
+1. [MacDougall 3](/setts/s15/r7r5r5r31k9r4r3r5r3r4g30r4r3r5r5~x2/) — ΔT 1.22
+1. [Pitcairn Trust Company](/setts/s13/g3db3g3db3g3m22ly2db2r22t5r8ly2t2~x2/) — ΔT 1.25
+1. [Sweetheart (Fashion)](/setts/s12/r6k7r45r14k10r4k3r6k20r23lb5r6/) — ΔT 1.43
+1. [Rathmore](/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/) — ΔT 1.50
+1. [Trost](/setts/s23/g4r2r2r24w2r3w3r3g10r10b2r4b2r10g10r3w3r2w2r24r2r2g4~x2/) — ΔT 1.51
+1. [Strathtay (District?)](/setts/s13/lr6y2lr2y5r20o2r2o25r2o2r4ly10r2~x2/) — ΔT 1.51
+1. [House of Edgar Shotts & Dykehead](/setts/s22/db10w2db3ly2db2w2db2n14r22db2r6db2r6db2r22n14db2w2db2ly2db3w2~x2/) — ΔT 1.53
+1. [Anderson, Red (Fashion)](/setts/s20/r4y5r2y7r3r4r3k4lo2k2lo2k4w4k4r18r1k2r1r4r3~x2/) — ΔT 1.55
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/k2r6lo2r2lo2r19dt2g2dt2r2r4k2r11g2r2g2r6lo2~x2/"><circle cx="218.5" cy="121.4" r="4" fill="#3465a4"><title>Harmon (Name)</title></circle></a><a href="/setts/s15/r7r5r5r31k9r4r3r5r3r4dg30r4r3r5r5~x2/"><circle cx="232.1" cy="133.9" r="4" fill="#3465a4"><title>MacDougall (Kinloch Anderson)</title></circle></a><a href="/setts/s15/r7r5r5r31k9r4r3r5r3r4g30r4r3r5r5~x2/"><circle cx="209.4" cy="125.9" r="4" fill="#3465a4"><title>MacDougall 3</title></circle></a><a href="/setts/s13/g3db3g3db3g3m22ly2db2r22t5r8ly2t2~x2/"><circle cx="186.5" cy="116.7" r="4" fill="#3465a4"><title>Pitcairn Trust Company</title></circle></a><a href="/setts/s12/r6k7r45r14k10r4k3r6k20r23lb5r6/"><circle cx="183.3" cy="119.7" r="4" fill="#3465a4"><title>Sweetheart (Fashion)</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="231.1" cy="122.4" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s23/g4r2r2r24w2r3w3r3g10r10b2r4b2r10g10r3w3r2w2r24r2r2g4~x2/"><circle cx="239.7" cy="101.3" r="4" fill="#3465a4"><title>Trost</title></circle></a><a href="/setts/s13/lr6y2lr2y5r20o2r2o25r2o2r4ly10r2~x2/"><circle cx="186.4" cy="111.4" r="4" fill="#3465a4"><title>Strathtay (District?)</title></circle></a><a href="/setts/s22/db10w2db3ly2db2w2db2n14r22db2r6db2r6db2r22n14db2w2db2ly2db3w2~x2/"><circle cx="189.4" cy="88.2" r="4" fill="#3465a4"><title>House of Edgar Shotts &amp; Dykehead</title></circle></a><a href="/setts/s20/r4y5r2y7r3r4r3k4lo2k2lo2k4w4k4r18r1k2r1r4r3~x2/"><circle cx="164.3" cy="80.9" r="4" fill="#3465a4"><title>Anderson, Red (Fashion)</title></circle></a><circle cx="195.8" cy="108.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s18/k2r6ly2r2ly2r19db2g2db2r2r4k2r11g2r2g2r6ly2~x2/

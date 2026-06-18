@@ -1,0 +1,66 @@
+---
+title: "Parkin"
+date: 2023-03-18
+---
+**Bands:** [BBWBWYBW](/stripes/bbwbwybw/) · **Stripes:** [DP DT LB DP LB LY DT W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DT LB DP LB LY DT W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/2003 — Parkin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295))
+- Nov. 2003 — Parkin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6003/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3295](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295)
+- Scottish Tartans Authority (ITI): 6003
+
+## Thread count
+LN/6 DN18 Y2 LP6 P18 LP2 DN80 P/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DN | <code style="background-color:#14283C;"><span style="color:#14283C;filter:grayscale(1) invert(1) contrast(100);">#14283C</span></code> `#14283C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LP | <code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> `#A8ACE8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.23 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/6 DN18 Y2 LP6 P18 LP2 DN80 P/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Indiana #2](/setts/s8/db50ly4db3ly4db8k2db12w5~x2/) — ΔT 1.05
+1. [Nunavut Territory (District)](/setts/s7/db60w1ly4k4w1lp8w2~x2/) — ΔT 1.08
+1. [World Youth Congress (Corporate)](/setts/s10/r2db8ly1db16w1g12db27w1db1w1~x2/) — ΔT 1.12
+1. [Parr](/setts/s10/db62r1db2r1db4k14g4w2g6k4~x2/) — ΔT 1.14
+1. [Park](/setts/s10/db62r1db2r1db4k14g4k2g6k4~x2/) — ΔT 1.15
+1. [X Marks the Scot](/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/) — ΔT 1.26
+1. [Mohammed, Abu Hassan (Personal)](/setts/s9/db60w1db6g10r1g7k2lo2w2~x2/) — ΔT 1.27
+1. [Calum's Cabin](/setts/s9/db32ly4db12db2db4db2o16db67ly6/) — ΔT 1.27
+1. [Washington County Sheriff’s Office (Oregon)](/setts/s8/t6k6t6db3w1k39ly3k3~x2/) — ΔT 1.28
+1. [Unidentified #64](/setts/s10/db57ly2db10dg4db4dg9r12db4r4lr2~x2/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db50ly4db3ly4db8k2db12w5~x2/"><circle cx="412.7" cy="123.9" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/setts/s7/db60w1ly4k4w1lp8w2~x2/"><circle cx="497.9" cy="86.2" r="4" fill="#3465a4"><title>Nunavut Territory (District)</title></circle></a><a href="/setts/s10/r2db8ly1db16w1g12db27w1db1w1~x2/"><circle cx="466.8" cy="133.9" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/setts/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="451.6" cy="78.2" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="458.2" cy="82.2" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/"><circle cx="414.8" cy="91.8" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/setts/s9/db60w1db6g10r1g7k2lo2w2~x2/"><circle cx="488.5" cy="77.5" r="4" fill="#3465a4"><title>Mohammed, Abu Hassan (Personal)</title></circle></a><a href="/setts/s9/db32ly4db12db2db4db2o16db67ly6/"><circle cx="467.9" cy="140.7" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/setts/s8/t6k6t6db3w1k39ly3k3~x2/"><circle cx="447.5" cy="105.7" r="4" fill="#3465a4"><title>Washington County Sheriff’s Office (Oregon)</title></circle></a><a href="/setts/s10/db57ly2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="459.7" cy="118.3" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><circle cx="474.5" cy="109.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/w3dt9ly1lb3dp9lb1dt40dp2~x2/

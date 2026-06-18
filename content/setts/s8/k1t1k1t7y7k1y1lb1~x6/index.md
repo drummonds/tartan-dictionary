@@ -1,0 +1,58 @@
+---
+title: "Auld Lang Syne (Philip King Tailoring)"
+date: 2023-03-18
+---
+**Bands:** [KBKBGKGW](/stripes/kbkbgkgw/) · **Stripes:** [K T K T Y K Y LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K T K T Y K Y LB</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5313
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5313](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5313)
+- Scottish Tartans Authority (ITI): 3580
+
+## Thread count
+K/6 B6 K6 B42 LT42 K6 LT6 LB/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| LT | <code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> `#8C7038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/6 B6 K6 B42 LT42 K6 LT6 LB/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Beck-McSorley](/setts/s8/m1dg1m1dg7o7m1o1r1~x6/) — ΔT 0.43
+1. [Cercle de Fermieres de St-Elie . . .](/setts/s7/r2ly1b8r1g7ly1r2~x6/) — ΔT 1.03
+1. [Kyle Tartan Tartan Number: 1288. Earliest known date: pre 1984 Seen in Service Station at Gretna Green in 1984 by Angela Nisbett MSTS . Berars no relation to the other two Kyles (3615 & 3616). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/o19k2w4k2n5k2n5~x2/) — ΔT 1.10
+1. [Hebridean 1](/setts/s9/db2r3g11r3db2t2db11r2g2~x2/) — ΔT 1.11
+1. [Speyside Blue (Fashion)](/setts/s8/n32k3n3k3b5k8o21k4~x2/) — ΔT 1.15
+1. [Kyle](/setts/s7/y19k2w2k2n5k2n5~x4/) — ΔT 1.17
+1. [Auld Lang Syne](/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/) — ΔT 1.18
+1. [Speyside Grey (Fashion)](/setts/s8/n32k3n3k3o5k8o21k4~x2/) — ΔT 1.19
+1. [Lamont](/setts/s8/p11o2p2o2p2o11g14w2~x2/) — ΔT 1.20
+1. [Ben Lomond (Fashion)](/setts/s8/k2t2k2t15g15k2g2w2~x4/) — ΔT 1.27
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/m1dg1m1dg7o7m1o1r1~x6/"><circle cx="235.8" cy="203.5" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/setts/s7/r2ly1b8r1g7ly1r2~x6/"><circle cx="185.5" cy="203.4" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/setts/s7/o19k2w4k2n5k2n5~x2/"><circle cx="255.9" cy="188.4" r="4" fill="#3465a4"><title>Kyle Tartan Tartan Number: 1288. Earliest known date: pre 1984 Seen in Service Station at Gretna Green in 1984 by Angela Nisbett MSTS . Berars no relation to the other two Kyles (3615 &amp; 3616). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db2r3g11r3db2t2db11r2g2~x2/"><circle cx="212.4" cy="228.8" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/setts/s8/n32k3n3k3b5k8o21k4~x2/"><circle cx="267.2" cy="197.7" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/setts/s7/y19k2w2k2n5k2n5~x4/"><circle cx="293.1" cy="192.7" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/"><circle cx="243.9" cy="216.0" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/setts/s8/n32k3n3k3o5k8o21k4~x2/"><circle cx="270.4" cy="197.1" r="4" fill="#3465a4"><title>Speyside Grey (Fashion)</title></circle></a><a href="/setts/s8/p11o2p2o2p2o11g14w2~x2/"><circle cx="187.3" cy="211.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s8/k2t2k2t15g15k2g2w2~x4/"><circle cx="233.2" cy="203.8" r="4" fill="#3465a4"><title>Ben Lomond (Fashion)</title></circle></a><circle cx="234.6" cy="202.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/k1t1k1t7y7k1y1lb1~x6/

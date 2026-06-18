@@ -1,0 +1,55 @@
+---
+title: "Arnold (California)"
+date: 2023-03-18
+---
+**Bands:** [BKYKBKBKBKBKBKBRBKBKBKBKW](/stripes/bkykbkbkbkbkbkbrbkbkbkbkw/) · **Stripes:** [DB K LO K DB K DB K DB K DB K DB K DB R DB K DP K DP K DB K W](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K LO K DB K DB K DB K DB K DB K DB R DB K DP K DP K DB K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10751
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10751](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10751)
+
+## Thread count
+DB/8 K2 Y4 K2 DB6 K2 DB4 K4 DB4 K8 DB4 K4 DB4 K2 DB6 R2 DB8 K38 DBa2 K4 DBa6 K8 DB8 K2 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#00008C;"><span style="color:#00008C;filter:grayscale(1) invert(1) contrast(100);">#00008C</span></code> `#00008C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DBa | <code style="background-color:#4B3971;"><span style="color:#4B3971;filter:grayscale(1) invert(1) contrast(100);">#4B3971</span></code> `#4B3971` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#E0A126;"><span style="color:#E0A126;filter:grayscale(1) invert(1) contrast(100);">#E0A126</span></code> `#E0A126` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacPerl Dress (Personal)](/setts/s28/k1db5k18k8w1k18db5ly3k1w3k1ly3db5k18k8w1k18db5k1w1k1db3w1ly3w1db3k1w1~x2/) — ΔT 1.42
+1. [Weir](/setts/s32/dg18k1b3k1dg3k8db18k1ly1k5ly1k1db18k8dg2k1b2k1dg2k8db18k1ly1k5ly1k1db18k8dg3k1b3k1~x2/) — ΔT 1.63
+1. [Hanson (2016)](/setts/s13/lb2k2dt3k34dt3k2b9k3w2k3b9k3p2~x2/) — ΔT 1.67
+1. [Northfield Academy Corporate Tartan Tartan Number: 11490. Earliest known date: 2016, March Northfield is built on Freedom Lands gifted by Robert the Bruce to the Burgh of Aberdeen around 1313 and this Academy design is based on the complex 1782 Aberdeen tartan. The dark blue squares number 56 threads for the year 1956 when the Academy was opened; the maroon is from the original 1956 school badge; the predominantly dark blue and light blue colours represent the colours of the school tie in 2016; the four light blue lines around the white represent the four capacities of Scottish education's Curriculum for Excellence in the 21st century. Finally, the grey remembers the 19th century Cairncry Granite Quarry on part of which, Northfield Academy was built. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/lr2db1t2db2k1t12db2k1k10db28t1db3t2db3w1~x2/) — ΔT 1.81
+1. [Astrobiology](/setts/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/) — ΔT 1.85
+1. [Britten-Norman](/setts/s26/dt28w1dt2w1dt3w1dt2w2dt2w2dt25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2/) — ΔT 1.93
+1. [Cockburn](/setts/s17/db15k1g1k1g1k1db5k1w1k1db5k1ly1k1g5k1r1~x2/) — ΔT 2.04
+1. [Fermanagh, County](/setts/s17/dg3k2dg2k2lo2k2lo2k13db4dg3db3dg3db3dg3db4k20dy3~x2/) — ΔT 2.06
+1. [Weir (Clan)](/setts/s17/dg18k1b3k1dg3k8db18k1ly1k5ly1k1db18k8dg2k1b2~x2/) — ΔT 2.09
+1. [Hughes (USA) (Personal)](/setts/s18/k12db3b4db3k3k36db3b2k3b2db3k36k3db3b4db3k12b4~x2/) — ΔT 2.14
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/k1db5k18k8w1k18db5ly3k1w3k1ly3db5k18k8w1k18db5k1w1k1db3w1ly3w1db3k1w1~x2/"><circle cx="267.9" cy="93.7" r="4" fill="#3465a4"><title>MacPerl Dress (Personal)</title></circle></a><a href="/setts/s32/dg18k1b3k1dg3k8db18k1ly1k5ly1k1db18k8dg2k1b2k1dg2k8db18k1ly1k5ly1k1db18k8dg3k1b3k1~x2/"><circle cx="212.1" cy="93.8" r="4" fill="#3465a4"><title>Weir</title></circle></a><a href="/setts/s13/lb2k2dt3k34dt3k2b9k3w2k3b9k3p2~x2/"><circle cx="305.3" cy="98.8" r="4" fill="#3465a4"><title>Hanson (2016)</title></circle></a><a href="/setts/s15/lr2db1t2db2k1t12db2k1k10db28t1db3t2db3w1~x2/"><circle cx="309.0" cy="80.7" r="4" fill="#3465a4"><title>Northfield Academy Corporate Tartan Tartan Number: 11490. Earliest known date: 2016, March Northfield is built on Freedom Lands gifted by Robert the Bruce to the Burgh of Aberdeen around 1313 and this Academy design is based on the complex 1782 Aberdeen tartan. The dark blue squares number 56 threads for the year 1956 when the Academy was opened; the maroon is from the original 1956 school badge; the predominantly dark blue and light blue colours represent the colours of the school tie in 2016; the four light blue lines around the white represent the four capacities of Scottish education's Curriculum for Excellence in the 21st century. Finally, the grey remembers the 19th century Cairncry Granite Quarry on part of which, Northfield Academy was built. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/"><circle cx="280.7" cy="88.6" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/setts/s26/dt28w1dt2w1dt3w1dt2w2dt2w2dt25k10w1k2lb2k20r1k2lr3k2r1k20lb2k1w1k10~x2/"><circle cx="268.6" cy="58.6" r="4" fill="#3465a4"><title>Britten-Norman</title></circle></a><a href="/setts/s17/db15k1g1k1g1k1db5k1w1k1db5k1ly1k1g5k1r1~x2/"><circle cx="279.3" cy="90.1" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s17/dg3k2dg2k2lo2k2lo2k13db4dg3db3dg3db3dg3db4k20dy3~x2/"><circle cx="249.8" cy="151.2" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/setts/s17/dg18k1b3k1dg3k8db18k1ly1k5ly1k1db18k8dg2k1b2~x2/"><circle cx="197.6" cy="119.6" r="4" fill="#3465a4"><title>Weir (Clan)</title></circle></a><a href="/setts/s18/k12db3b4db3k3k36db3b2k3b2db3k36k3db3b4db3k12b4~x2/"><circle cx="316.0" cy="131.1" r="4" fill="#3465a4"><title>Hughes (USA) (Personal)</title></circle></a><circle cx="252.9" cy="83.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s25/db4k1lo2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/

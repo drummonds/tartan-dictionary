@@ -1,0 +1,47 @@
+---
+title: "Freger (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [WYWBKWKYKBKYWYKBKYKBWY](/stripes/wywbkwkykbkywykbkykbwy/) · **Stripes:** [W LY W DP K W K LY K DP K LY W LY K DP K LY K DP W LY](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W LY W DP K W K LY K DP K LY W LY K DP K LY K DP W LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7531/
+
+## Thread count
+LN/4 Y4 LN30 P20 K46 LN4 K4 Y4 K46 P20 K30 Y4 LN4 Y4 K30 P20 K46 Y4 K46 P20 LN30 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Freger](/setts/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/) — ΔT 1.27
+1. [Longniddry](/setts/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/) — ΔT 1.27
+1. [Holy Sepulchre Corporate Tartan Tartan Number: 2161. Earliest known date: pre 2003 Information from Mr Scot Wilson, McCalls of Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/ly2w2r13k17r2k17w2ly4w2k17r2k17w2r13w2k17r2k17r13w2~x2/) — ΔT 1.32
+1. [MacLachlan, Gold Dress (Fashion)](/setts/s13/lo16k2lo2k2lo2db16db16r3db16db16lo16k2lo2~x2/) — ΔT 1.55
+1. [Abergavenny](/setts/s17/lb36k41lb4lb6k8o24lb12lb4o4k6lb4lb4k48o4lb8k22lb18/) — ΔT 1.56
+1. [Woodberry Forest School](/setts/s18/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5~x2/) — ΔT 1.57
+1. [Angus, Red (Fashion)](/setts/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2lb6k3lb6k3lb6k3lb6k3lb6~x2/) — ΔT 1.61
+1. [Order of the Holy Sepulchre (Corp)](/setts/s20/ly1w1r7k8r1k8w1lo2w1k7r1k7w1r7w1k7r1k7r7w1~x4/) — ΔT 1.61
+1. [Murray of Tullibardine 5](/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/) — ΔT 1.62
+1. [Chapman (Personal)](/setts/s18/k36dg2k2dg2k18m18k3w3k3m18k18dg2k2dg2k18m18k3r3~x2/) — ΔT 1.63
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/"><circle cx="297.1" cy="137.6" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/setts/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/"><circle cx="254.1" cy="158.0" r="4" fill="#3465a4"><title>Longniddry</title></circle></a><a href="/setts/s20/ly2w2r13k17r2k17w2ly4w2k17r2k17w2r13w2k17r2k17r13w2~x2/"><circle cx="291.2" cy="155.7" r="4" fill="#3465a4"><title>Holy Sepulchre Corporate Tartan Tartan Number: 2161. Earliest known date: pre 2003 Information from Mr Scot Wilson, McCalls of Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/lo16k2lo2k2lo2db16db16r3db16db16lo16k2lo2~x2/"><circle cx="284.1" cy="184.9" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress (Fashion)</title></circle></a><a href="/setts/s17/lb36k41lb4lb6k8o24lb12lb4o4k6lb4lb4k48o4lb8k22lb18/"><circle cx="216.7" cy="128.8" r="4" fill="#3465a4"><title>Abergavenny</title></circle></a><a href="/setts/s18/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5~x2/"><circle cx="319.5" cy="124.5" r="4" fill="#3465a4"><title>Woodberry Forest School</title></circle></a><a href="/setts/s24/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2lb6k3lb6k3lb6k3lb6k3lb6~x2/"><circle cx="318.7" cy="115.1" r="4" fill="#3465a4"><title>Angus, Red (Fashion)</title></circle></a><a href="/setts/s20/ly1w1r7k8r1k8w1lo2w1k7r1k7w1r7w1k7r1k7r7w1~x4/"><circle cx="243.4" cy="142.4" r="4" fill="#3465a4"><title>Order of the Holy Sepulchre (Corp)</title></circle></a><a href="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><circle cx="229.7" cy="117.8" r="4" fill="#3465a4"><title>Murray of Tullibardine 5</title></circle></a><a href="/setts/s18/k36dg2k2dg2k18m18k3w3k3m18k18dg2k2dg2k18m18k3r3~x2/"><circle cx="322.7" cy="116.1" r="4" fill="#3465a4"><title>Chapman (Personal)</title></circle></a><circle cx="255.6" cy="137.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s22/ly2w15dp10k23ly2k23dp10k15ly2w2ly2k15dp10k23ly2k2w2k23dp10w15ly2w2~x2/

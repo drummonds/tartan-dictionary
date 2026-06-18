@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#8B6E00;border:1px solid #0003;flex:none"></span><div><strong>Yellow</strong> · code <code>Y</code> · Human Palette · ref <code>22-05-093</code><br>sRGB <code>#8B6E00</code> · OKLab L 0.551 a -0.001 b +0.113 · grid <code>22-05-093</code></div></div>
 
+Yellow — intrinsically light, so even its mid rung reads as gold; the cultural sixth of the base palette.
+
 The nearest named colour is **Orange** (Human Palette), 0.067 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
@@ -14,7 +16,7 @@ The nearest named colour is **Orange** (Human Palette), 0.067 away in OKLab ΔE.
 | <code style="background-color:#008B2A;"><span style="color:#008B2A;filter:grayscale(1) invert(1) contrast(100);">#008B2A</span></code> | [Green](/colour/named/human-palette-g/) | G | Human Palette | 0.141 |
 | <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | [Green](/colour/named/base-six-g/) | G | Base Six | 0.171 |
 | <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | [Red](/colour/named/base-six-r/) | R | Base Six | 0.192 |
-| <code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> | [Teal](/colour/named/human-palette-bg/) | BG | Human Palette | 0.192 |
+| <code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> | [Teal](/colour/named/human-palette-t/) | T | Human Palette | 0.192 |
 
 Where it sits among the grid colours of its lightness level — the ringed dot, hue by angle, chroma by radius:
 

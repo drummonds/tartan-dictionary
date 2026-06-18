@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [MacBean of Tomatin](/clan/macbean/tomatin/)
+- [MacBean of Tomatin](/families/macbean-of-tomatin/)
 

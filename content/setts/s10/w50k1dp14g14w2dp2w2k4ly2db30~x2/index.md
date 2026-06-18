@@ -1,0 +1,63 @@
+---
+title: "MacBeth Dress (Dance)"
+date: 2023-03-18
+---
+**Bands:** [BYKWBWGBKW](/stripes/bykwbwgbkw/) · **Stripes:** [DB LY K W DP W G DP K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LY K W DP W G DP K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2299
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — MacBeth Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2299))
+- pre 2005 — MacBeth Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6561/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2299](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2299)
+- Scottish Tartans Authority (ITI): 6561
+
+## Thread count
+DB/60 Y4 K8 LN4 P4 LN4 G28 P28 K2 LN/100
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [S.O.B.H.D. (Corporate)](/setts/s8/r3w30db10k3dp15g2dp3g1~x2/) — ΔT 1.21
+1. [Pride of Scotland Dress (Dance)](/setts/s11/g9m2m2k3m18m1db2g2db19w33db2~x2/) — ΔT 1.22
+1. [Russian Arctic Convoy](/setts/s14/lb1k1db3k3db3k3db28w1r8w1db2o6w16r1~x2/) — ΔT 1.26
+1. [Antarctic](/setts/s12/t2w76o4w4o11lo11ly7k11w4t11db32w2/) — ΔT 1.26
+1. [Rosslyn Chapel](/setts/s11/g12db1dp4db30lo3w2lo3w2lo3w10r4~x2/) — ΔT 1.29
+1. [Rosslyn Chapel](/setts/s11/g12db1p4db30lo3w2lo3w2lo3w10r4~x2/) — ΔT 1.33
+1. [State Seal of Hawaii (Fashion)](/setts/s10/lb49dt25g16dt4lb3r8lo4lb18lo1dt9~x2/) — ΔT 1.36
+1. [Antarctic](/setts/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/) — ΔT 1.40
+1. [Un-named (USA Bedheads)](/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/) — ΔT 1.40
+1. [Baudoux et amis picards](/setts/s11/ly4db7ly4db26dg3k1dg3w9r2w4r2~x2/) — ΔT 1.41
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3w30db10k3dp15g2dp3g1~x2/"><circle cx="204.7" cy="74.4" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><a href="/setts/s11/g9m2m2k3m18m1db2g2db19w33db2~x2/"><circle cx="163.6" cy="59.3" r="4" fill="#3465a4"><title>Pride of Scotland Dress (Dance)</title></circle></a><a href="/setts/s14/lb1k1db3k3db3k3db28w1r8w1db2o6w16r1~x2/"><circle cx="211.6" cy="48.9" r="4" fill="#3465a4"><title>Russian Arctic Convoy</title></circle></a><a href="/setts/s12/t2w76o4w4o11lo11ly7k11w4t11db32w2/"><circle cx="211.2" cy="21.6" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s11/g12db1dp4db30lo3w2lo3w2lo3w10r4~x2/"><circle cx="191.5" cy="72.4" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/setts/s11/g12db1p4db30lo3w2lo3w2lo3w10r4~x2/"><circle cx="196.0" cy="73.5" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/setts/s10/lb49dt25g16dt4lb3r8lo4lb18lo1dt9~x2/"><circle cx="248.1" cy="75.4" r="4" fill="#3465a4"><title>State Seal of Hawaii (Fashion)</title></circle></a><a href="/setts/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/"><circle cx="206.4" cy="18.7" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/"><circle cx="164.0" cy="55.4" r="4" fill="#3465a4"><title>Un-named (USA Bedheads)</title></circle></a><a href="/setts/s11/ly4db7ly4db26dg3k1dg3w9r2w4r2~x2/"><circle cx="220.2" cy="75.4" r="4" fill="#3465a4"><title>Baudoux et amis picards</title></circle></a><circle cx="222.3" cy="43.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/w50k1dp14g14w2dp2w2k4ly2db30~x2/

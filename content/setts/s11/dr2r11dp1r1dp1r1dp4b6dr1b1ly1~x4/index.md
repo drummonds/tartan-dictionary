@@ -1,0 +1,54 @@
+---
+title: "NHK Asaichi"
+date: 2023-03-18
+---
+**Bands:** [BRBRBRBBBBY](/stripes/brbrbrbbbby/) · **Stripes:** [DR R DP R DP R DP B DR B LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DR R DP R DP R DP B DR B LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11135
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11135](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11135)
+
+## Thread count
+DR/8 R44 DP4 R4 DP4 R4 DP16 B24 DR4 B4 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#3850C8;"><span style="color:#3850C8;filter:grayscale(1) invert(1) contrast(100);">#3850C8</span></code> `#3850C8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| DR | <code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> `#4C0000` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.25 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| Y | <code style="background-color:#FFCC00;"><span style="color:#FFCC00;filter:grayscale(1) invert(1) contrast(100);">#FFCC00</span></code> `#FFCC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Rose VS](/setts/s9/k4r32db9r6db2r3db2r12lb3/) — ΔT 1.07
+1. [Royal & Ancient/Golfing Stewart](/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/) — ΔT 1.14
+1. [Scotland's People](/setts/s12/r7ly3r27k14m5k3m5k3m8g3m4g4~x2/) — ΔT 1.26
+1. [Red Chapeau](/setts/s9/r9k1g1k1dp6k1dp6ly1k2~x6/) — ΔT 1.31
+1. [NHK Asaichi](/setts/s11/dy2r11db1r1db1r1db4db6dy1db1ly1~x4/) — ΔT 1.31
+1. [MIT1951](/setts/s10/r24r5lr7dt2lr4dt14r11dt3r3w4~x2/) — ΔT 1.31
+1. [Hearts Football Club (Corporate)](/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/) — ΔT 1.38
+1. [MacKeever](/setts/s11/ly4k1r12db3r3db16r3db3r12k1w4~x2/) — ΔT 1.41
+1. [Golfers](/setts/s10/lo4r2k9r25k3r2k3r4db15w3~x2/) — ΔT 1.42
+1. [Cameron of Locheil (Bonner collection)](/setts/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/) — ΔT 1.45
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k4r32db9r6db2r3db2r12lb3/"><circle cx="238.8" cy="113.4" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="223.0" cy="128.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/setts/s12/r7ly3r27k14m5k3m5k3m8g3m4g4~x2/"><circle cx="171.9" cy="138.9" r="4" fill="#3465a4"><title>Scotland's People</title></circle></a><a href="/setts/s9/r9k1g1k1dp6k1dp6ly1k2~x6/"><circle cx="226.5" cy="164.2" r="4" fill="#3465a4"><title>Red Chapeau</title></circle></a><a href="/setts/s11/dy2r11db1r1db1r1db4db6dy1db1ly1~x4/"><circle cx="231.1" cy="138.7" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/setts/s10/r24r5lr7dt2lr4dt14r11dt3r3w4~x2/"><circle cx="232.4" cy="143.0" r="4" fill="#3465a4"><title>MIT1951</title></circle></a><a href="/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="212.5" cy="125.4" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/setts/s11/ly4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="243.2" cy="126.6" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/setts/s10/lo4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="218.4" cy="128.3" r="4" fill="#3465a4"><title>Golfers</title></circle></a><a href="/setts/s13/k3r4db2r20db20r2dg2r6dg10r6w2r3k2~x2/"><circle cx="245.7" cy="136.6" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><circle cx="208.4" cy="117.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/dr2r11dp1r1dp1r1dp4b6dr1b1ly1~x4/

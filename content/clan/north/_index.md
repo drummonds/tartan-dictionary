@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [North of Scotland Tartan Army](/clan/north/scotland-tartan-army/)
+- [North of Scotland Tartan Army](/families/north-of-scotland-tartan-army/)
 

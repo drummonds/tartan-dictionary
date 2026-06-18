@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [MacRaes of America](/clan/macraes/america/)
+- [MacRaes of America](/families/macraes-of-america/)
 

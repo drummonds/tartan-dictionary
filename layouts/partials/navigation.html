@@ -1,14 +1,24 @@
 <nav class="navigation">
-  <div class="nav-left">
+  {{/* Brand: the wordmark/logo is the home link. A plain text title is the fallback
+       when no menu is configured. Stays in the top row beside the hamburger on mobile. */}}
+  <div class="nav-item nav-title nav-brand">
     {{ if not (gt (len .Site.Menus) 0) }}
     <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    {{ else }}
+    <a href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Title }} — home">
+      <img class="nav-logo" src="{{ "img/logo.svg" | absURL }}" alt="{{ .Site.Title }}">
+    </a>
     {{ end }}
-    <div class="nav-item nav-title">
-      <a href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Title }} — home">
-        <img class="nav-logo" src="{{ "img/logo.svg" | absURL }}" alt="{{ .Site.Title }}">
-      </a>
-    </div>
-    {{/* The wordmark/logo above is the home link, so the search box leads the menu. */}}
+  </div>
+
+  {{/* Shown only on narrow screens (CSS); toggles .nav-open on the <nav> via nav.js. */}}
+  <button class="nav-toggle" type="button" aria-label="Toggle menu"
+          aria-expanded="false" aria-controls="nav-collapse">
+    <span class="nav-toggle-bars" aria-hidden="true"></span>
+  </button>
+
+  {{/* Everything that collapses behind the hamburger on mobile. */}}
+  <div class="nav-collapse" id="nav-collapse">
     <div class="nav-item nav-search" id="site-search">
       <input type="search" placeholder="Tartan, clan or family…" aria-label="Search tartans, clans, families and septs"
              autocomplete="off" spellcheck="false">
@@ -26,40 +36,40 @@
         </ul>
       </span>
       {{ else }}
-      <a href="{{ .URL }}"> {{ .Name }}</a>
+      <a href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
       {{ end }}
     </div>
-  </div>
-  <div class="nav-item nav-right fontawesome">
-    {{ range .Site.Menus.info }}
-    {{ if .HasChildren }}
-    <span class="nav-dropdown nav-dropdown--right">
-      <span class="nav-dropdown-label" tabindex="0">{{ .Name }} <span class="nav-dropdown-caret">▾</span></span>
-      <ul class="nav-dropdown-menu">
-        {{ range .Children }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </span>
-    {{ else }}
-    <a href="{{ .URL }}">{{ .Name }}</a>
-    {{ end }}
-    {{ end }}
-    {{ if .Site.Params.social.twitter }}
-    <a href="{{ .Site.Params.social.twitter }}" target="_blank">
-      <i title="Twitter" class="fab fa-twitter"></i>
-    </a>
-    {{ end }}
-    {{ if .Site.Params.social.github }}
-    <a href="{{ .Site.Params.social.github }}" target="_blank">
-      <i title="GitHub" class="fab fa-github"></i>
-    </a>
-    {{ end }}
-    {{ if .Site.Params.social.rss }}
-    <a href="{{ "index.xml" | absLangURL }}" target="_blank">
-      <i title="RSS" class="fas fa-rss"></i>
-    </a>
-    {{ end }}
+    <div class="nav-item nav-right fontawesome">
+      {{ range .Site.Menus.info }}
+      {{ if .HasChildren }}
+      <span class="nav-dropdown nav-dropdown--right">
+        <span class="nav-dropdown-label" tabindex="0">{{ .Name }} <span class="nav-dropdown-caret">▾</span></span>
+        <ul class="nav-dropdown-menu">
+          {{ range .Children }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </span>
+      {{ else }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+      {{ end }}
+      {{ if .Site.Params.social.twitter }}
+      <a href="{{ .Site.Params.social.twitter }}" target="_blank">
+        <i title="Twitter" class="fab fa-twitter"></i>
+      </a>
+      {{ end }}
+      {{ if .Site.Params.social.github }}
+      <a href="{{ .Site.Params.social.github }}" target="_blank">
+        <i title="GitHub" class="fab fa-github"></i>
+      </a>
+      {{ end }}
+      {{ if .Site.Params.social.rss }}
+      <a href="{{ "index.xml" | absLangURL }}" target="_blank">
+        <i title="RSS" class="fas fa-rss"></i>
+      </a>
+      {{ end }}
+    </div>
   </div>
 </nav>

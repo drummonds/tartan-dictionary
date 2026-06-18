@@ -1,0 +1,59 @@
+---
+title: "Highland Blue"
+date: 2023-03-18
+---
+**Bands:** [BGBYBYBBBWBBBYBYBG](/stripes/bgbybybbbwbbbybybg/) · **Stripes:** [DP G DB LY T LY DB N DB W DB N DB LY T LY DB G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DP G DB LY T LY DB N DB W DB N DB LY T LY DB G</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1706
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1706](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1706)
+- Scottish Tartans Authority (ITI): 5188
+
+## Thread count
+G/26 DB10 Y6 B12 Y6 DB10 N12 DB56 W4 DB56 N12 DB10 Y6 B12 Y6 DB10 G26 P/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+| Wa | <code style="background-color:#FCFCEC;"><span style="color:#FCFCEC;filter:grayscale(1) invert(1) contrast(100);">#FCFCEC</span></code> `#FCFCEC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kennewell (Personal)](/setts/s17/db25t15g6lo3r2db10t5o5k2t15db25lo5g2t25db15k6o3/) — ΔT 0.83
+1. [Knox #2](/setts/s20/t3w1db9ly1db9ly1db6ly1dg1r1dg4r1dg1ly1db6ly1db9ly1db9w1~x4/) — ΔT 0.97
+1. [Waipu](/setts/s22/g8db16k5ly2dp1ly2k5db7r2db7g16db7r2db7k5ly2dp1ly2k5db16g8w1~x2/) — ΔT 1.04
+1. [Service of Drymen Corporate Tartan Tartan Number: 1380. Earliest known date: pre 2003 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/ly2db14k2o5g3k1g3k1g3w1g3w1g3o5k2db14r2~x2/) — ΔT 1.06
+1. [Kennewell (Personal)](/setts/s17/db25b15dt6o3r2db10b5lr5k2b15db25o5dt2b25db15k6lr3/) — ΔT 1.10
+1. [Twenty First Century](/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/) — ΔT 1.11
+1. [Service of Drymen (Personal)](/setts/s17/lo2db14k2o5g3k1g3k1g3lb1g3lb1g3o5k2db14r2~x2/) — ΔT 1.17
+1. [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/) — ΔT 1.19
+1. [Highland, Blue (Corporate)](/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/) — ΔT 1.24
+1. [Leith](/setts/s13/t5k2t17db3t3db22t3g22t3db3t27k2r4~x2/) — ΔT 1.27
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/db25t15g6lo3r2db10t5o5k2t15db25lo5g2t25db15k6o3/"><circle cx="169.6" cy="120.0" r="4" fill="#3465a4"><title>Kennewell (Personal)</title></circle></a><a href="/setts/s20/t3w1db9ly1db9ly1db6ly1dg1r1dg4r1dg1ly1db6ly1db9ly1db9w1~x4/"><circle cx="198.3" cy="114.3" r="4" fill="#3465a4"><title>Knox #2</title></circle></a><a href="/setts/s22/g8db16k5ly2dp1ly2k5db7r2db7g16db7r2db7k5ly2dp1ly2k5db16g8w1~x2/"><circle cx="175.4" cy="102.9" r="4" fill="#3465a4"><title>Waipu</title></circle></a><a href="/setts/s17/ly2db14k2o5g3k1g3k1g3w1g3w1g3o5k2db14r2~x2/"><circle cx="158.9" cy="97.5" r="4" fill="#3465a4"><title>Service of Drymen Corporate Tartan Tartan Number: 1380. Earliest known date: pre 2003 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/db25b15dt6o3r2db10b5lr5k2b15db25o5dt2b25db15k6lr3/"><circle cx="183.9" cy="126.6" r="4" fill="#3465a4"><title>Kennewell (Personal)</title></circle></a><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.5" cy="96.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s17/lo2db14k2o5g3k1g3k1g3lb1g3lb1g3o5k2db14r2~x2/"><circle cx="154.7" cy="97.6" r="4" fill="#3465a4"><title>Service of Drymen (Personal)</title></circle></a><a href="/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/"><circle cx="247.6" cy="134.5" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/"><circle cx="205.6" cy="122.3" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s13/t5k2t17db3t3db22t3g22t3db3t27k2r4~x2/"><circle cx="213.7" cy="128.0" r="4" fill="#3465a4"><title>Leith</title></circle></a><circle cx="210.8" cy="104.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s18/g13db5ly3t6ly3db5n6db28w2db28n6db5ly3t6ly3db5g13dp4~x2/

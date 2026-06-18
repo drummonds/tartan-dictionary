@@ -5,12 +5,14 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#D60020;border:1px solid #0003;flex:none"></span><div><strong>Red</strong> · code <code>R</code> · Human Palette · ref <code>22-09-025</code><br>sRGB <code>#D60020</code> · OKLab L 0.552 a +0.202 b +0.096 · grid <code>22-09-025</code></div></div>
 
+Red — the first hue any language names after black and white, and tartan's commonest warm warp.
+
 The nearest named colour is **Red** (Base Six), 0.026 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | [Red](/colour/named/base-six-r/) | R | Base Six | 0.026 |
-| <code style="background-color:#CA047B;"><span style="color:#CA047B;filter:grayscale(1) invert(1) contrast(100);">#CA047B</span></code> | [Magenta](/colour/named/human-palette-pr/) | PR | Human Palette | 0.123 |
+| <code style="background-color:#CA047B;"><span style="color:#CA047B;filter:grayscale(1) invert(1) contrast(100);">#CA047B</span></code> | [Magenta](/colour/named/human-palette-m/) | M | Human Palette | 0.123 |
 | <code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> | [Orange](/colour/named/human-palette-o/) | O | Human Palette | 0.137 |
 | <code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> | [Yellow](/colour/named/human-palette-y/) | Y | Human Palette | 0.204 |
 | <code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> | [Grey](/colour/named/human-palette-n/) | N | Human Palette | 0.230 |

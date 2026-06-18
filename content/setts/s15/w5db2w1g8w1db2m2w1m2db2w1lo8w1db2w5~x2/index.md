@@ -1,0 +1,55 @@
+---
+title: "Wombles Corporate Tartan Tartan Number: 1783. Earliest known date: pre 2003 Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. Wombles are television puppet characters. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/) · **Stripes:** [W DB W G W DB M W M DB W LO W DB W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W G W DB M W M DB W LO W DB W</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1783
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Wombles 5 (Corporate)](/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/)
+
+
+## Thread count
+LN/10 DB4 LN2 G16 LN2 DB4 R4 LN2 R4 DB4 LN2 O16 LN2 DB4 LN/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| R | <code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> `#A00048` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wombles 5 (Corporate)](/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/) — ΔT 0.40
+1. [Wombles](/setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/) — ΔT 0.41
+1. [Alaskan Scottish](/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/) — ΔT 0.68
+1. [Stirling & Bannockburn Dress](/setts/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/) — ΔT 0.83
+1. [Robertson, dress hunting](/setts/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/) — ΔT 0.92
+1. [Robertson dress Hunting](/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/) — ΔT 1.03
+1. [Unidentified (Fashion)](/setts/s12/w5t2w2t3w17k6n2k2n2k2n14r3~x2/) — ΔT 1.03
+1. [Hayama Shirt Honten, The](/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/) — ΔT 1.05
+1. [Stuart-Houghton Dress (Personal)](/setts/s16/w11y4w4db2w4y4w11r26y4w3y4w2db14dg10w16dg6~x2/) — ΔT 1.06
+1. [Hayama Shirt Honten, The](/setts/s12/k4g4k2g14k6w3k6w2w4w2w15r3~x2/) — ΔT 1.07
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/"><circle cx="80.7" cy="129.2" r="4" fill="#3465a4"><title>Wombles 5 (Corporate)</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><circle cx="92.7" cy="135.2" r="4" fill="#3465a4"><title>Wombles</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.9" cy="130.7" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/"><circle cx="80.6" cy="110.6" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><a href="/setts/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/"><circle cx="118.5" cy="147.5" r="4" fill="#3465a4"><title>Robertson, dress hunting</title></circle></a><a href="/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/"><circle cx="107.8" cy="136.6" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><a href="/setts/s12/w5t2w2t3w17k6n2k2n2k2n14r3~x2/"><circle cx="139.8" cy="132.4" r="4" fill="#3465a4"><title>Unidentified (Fashion)</title></circle></a><a href="/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/"><circle cx="83.5" cy="151.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s16/w11y4w4db2w4y4w11r26y4w3y4w2db14dg10w16dg6~x2/"><circle cx="124.6" cy="111.0" r="4" fill="#3465a4"><title>Stuart-Houghton Dress (Personal)</title></circle></a><a href="/setts/s12/k4g4k2g14k6w3k6w2w4w2w15r3~x2/"><circle cx="80.9" cy="147.6" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><circle cx="91.1" cy="135.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x2/

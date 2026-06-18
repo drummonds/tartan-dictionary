@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Bartlett of El Paso](/clan/bartlett/el-paso/)
+- [Bartlett of El Paso](/families/bartlett-of-el-paso/)
 

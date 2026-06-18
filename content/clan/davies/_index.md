@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Davies of Wales](/clan/davies/wales/)
+- [Davies of Wales](/families/davies-of-wales/)
 

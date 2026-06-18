@@ -1,0 +1,53 @@
+---
+title: "Aberlour Bicentenary"
+date: 2023-03-18
+---
+**Bands:** [GBGBGBGBGYGBGBG](/stripes/gbgbgbgbgygbgbg/) · **Stripes:** [Y DP Y DT Y DT Y DP Y LO Y DP Y DP Y](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y DP Y DT Y DT Y DP Y LO Y DP Y DP Y</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10563
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10563](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10563)
+
+## Thread count
+G/16 P6 G6 DB46 G5 DB8 G5 P10 G6 DY8 G48 P6 G6 P6 G/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#25375F;"><span style="color:#25375F;filter:grayscale(1) invert(1) contrast(100);">#25375F</span></code> `#25375F` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DY | <code style="background-color:#C88C00;"><span style="color:#C88C00;filter:grayscale(1) invert(1) contrast(100);">#C88C00</span></code> `#C88C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.15 |
+| G | <code style="background-color:#5C6428;"><span style="color:#5C6428;filter:grayscale(1) invert(1) contrast(100);">#5C6428</span></code> `#5C6428` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| P | <code style="background-color:#580B5B;"><span style="color:#580B5B;filter:grayscale(1) invert(1) contrast(100);">#580B5B</span></code> `#580B5B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Aberlour Bicentenary (Commemorative)](/setts/s15/y16dp6y6db46y5db8y5dp10y6lo8y48dp6y6dp6y16/) — ΔT 0.94
+1. [Glen Affric (Artefact)](/setts/s13/g2n1dr14g2n5g2n7g2n7g2n10g2k2~x4/) — ΔT 0.98
+1. [Cornwall](/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/) — ΔT 1.24
+1. [Walker Hunting (Name)](/setts/s12/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2~x2/) — ΔT 1.32
+1. [Glenfarclas Distillery](/setts/s15/o8db3o3g20o3g3o3db6o3b3o20db3o3db2o6~x2/) — ΔT 1.40
+1. [CBS (Corporate)](/setts/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12/) — ΔT 1.44
+1. [Howells](/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/) — ΔT 1.45
+1. [Fraser, hunting](/setts/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/) — ΔT 1.46
+1. [New South Wales Waratah](/setts/s10/y12db2r2db2dt26dg2y3dg3y24r4~x2/) — ΔT 1.49
+1. [Westmeath Irish County Tartan Tartan Number: 2278. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g11r6db6dy2g3dy2db6r6g36ly2dy3ly2db5r5~x2/) — ΔT 1.52
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/y16dp6y6db46y5db8y5dp10y6lo8y48dp6y6dp6y16/"><circle cx="328.2" cy="184.9" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><a href="/setts/s13/g2n1dr14g2n5g2n7g2n7g2n10g2k2~x4/"><circle cx="342.2" cy="205.8" r="4" fill="#3465a4"><title>Glen Affric (Artefact)</title></circle></a><a href="/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/"><circle cx="362.3" cy="200.6" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/setts/s12/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2~x2/"><circle cx="377.2" cy="211.5" r="4" fill="#3465a4"><title>Walker Hunting (Name)</title></circle></a><a href="/setts/s15/o8db3o3g20o3g3o3db6o3b3o20db3o3db2o6~x2/"><circle cx="333.9" cy="186.8" r="4" fill="#3465a4"><title>Glenfarclas Distillery</title></circle></a><a href="/setts/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12/"><circle cx="312.8" cy="184.2" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><a href="/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/"><circle cx="390.8" cy="197.5" r="4" fill="#3465a4"><title>Howells</title></circle></a><a href="/setts/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/"><circle cx="294.6" cy="176.2" r="4" fill="#3465a4"><title>Fraser, hunting</title></circle></a><a href="/setts/s10/y12db2r2db2dt26dg2y3dg3y24r4~x2/"><circle cx="323.7" cy="184.2" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/setts/s14/g11r6db6dy2g3dy2db6r6g36ly2dy3ly2db5r5~x2/"><circle cx="341.2" cy="146.4" r="4" fill="#3465a4"><title>Westmeath Irish County Tartan Tartan Number: 2278. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="351.1" cy="197.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/y16dp6y6dt46y5dt8y5dp10y6lo8y48dp6y6dp6y16/

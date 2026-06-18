@@ -1,0 +1,66 @@
+---
+title: "Bannockbane Orange Stripes"
+date: 2023-03-18
+---
+**Bands:** [BYBYWYYY](/stripes/bybywyyy/) · **Stripes:** [DO LO DO LO W LO LO LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DO LO DO LO W LO LO LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=204
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — Bannockbane Orange Stripes (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=204))
+- undated — Bannockbane Trade Tartan Tartan Number: 1743. Earliest known date: pre 2003 The original Bannockbane which was later produced in various colourways See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1743))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [204](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=204)
+- Scottish Tartans Authority (ITI): 1743
+- Scottish Tartans World Register: 1743
+
+## Thread count
+DR/4 O4 DR30 O2 LN20 LT30 O4 LT/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> `#441800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DR/4 O4 DR30 O2 LN20 LT30 O4 LT/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bannockbane](/setts/s8/dr2lo2dr15lo1w10o15lo2o2~x2/) — ΔT 0.51
+1. [Bannock Bane M.405](/setts/s8/do4r3do21r2w14o22r3o4~x2/) — ΔT 0.76
+1. [Bannockbane](/setts/s8/dr2r2dr15r1w10o15r2o2~x2/) — ΔT 0.82
+1. [Karibu](/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/) — ΔT 0.84
+1. [Bannockbane Brown #1](/setts/s8/do2r2do15r1w10dy15r2dy2~x2/) — ΔT 0.91
+1. [Logan Light](/setts/s7/dp9r4dp1r4g15r4dp1~x2/) — ΔT 0.95
+1. [Logan, Light](/setts/s7/p9r4p1r4g15r4p1~x2/) — ΔT 0.96
+1. [MacKintosh, Arisaid](/setts/s7/r5w36p14r9g28r8p2~x2/) — ΔT 0.98
+1. [MacKintosh (Artefact)](/setts/s7/r5w36dp14r9g28r8dp2~x2/) — ΔT 1.00
+1. [Cranston Dress](/setts/s8/r15db2r1db2r3db7g13g3~x2/) — ΔT 1.03
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr2lo2dr15lo1w10o15lo2o2~x2/"><circle cx="186.4" cy="149.6" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/setts/s8/do4r3do21r2w14o22r3o4~x2/"><circle cx="185.7" cy="171.3" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/setts/s8/dr2r2dr15r1w10o15r2o2~x2/"><circle cx="191.6" cy="153.5" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/"><circle cx="204.1" cy="140.2" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s8/do2r2do15r1w10dy15r2dy2~x2/"><circle cx="194.2" cy="157.1" r="4" fill="#3465a4"><title>Bannockbane Brown #1</title></circle></a><a href="/setts/s7/dp9r4dp1r4g15r4dp1~x2/"><circle cx="210.8" cy="173.0" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/setts/s7/p9r4p1r4g15r4p1~x2/"><circle cx="219.0" cy="173.6" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/setts/s7/r5w36p14r9g28r8p2~x2/"><circle cx="170.3" cy="154.9" r="4" fill="#3465a4"><title>MacKintosh, Arisaid</title></circle></a><a href="/setts/s7/r5w36dp14r9g28r8dp2~x2/"><circle cx="167.1" cy="156.6" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/setts/s8/r15db2r1db2r3db7g13g3~x2/"><circle cx="229.6" cy="169.3" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><circle cx="185.9" cy="151.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/do2lo2do15lo1w10lo15lo2lo2~x2/

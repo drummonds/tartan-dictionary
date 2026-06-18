@@ -1,0 +1,66 @@
+---
+title: "Porcupine"
+date: 2023-03-18
+---
+**Bands:** [RRRYRGYGRBW](/stripes/rrryrgygrbw/) · **Stripes:** [O R O LO O DY LY G O T W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O R O LO O DY LY G O T W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3355
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1956 — Porcupine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3355))
+- pre 1969 — Porcupine (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1303/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3355](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3355)
+- Scottish Tartans Authority (ITI): 1303
+- Scottish Tartans World Register: 1303
+
+## Thread count
+N/4 R4 N12 LT4 N4 T32 Y28 G4 N4 B4 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| G | <code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> `#408060` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Porcupine Fancy Tartan Tartan Number: 1303. Earliest known date: 1969 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/o1r1o3lo1o1do8ly7g1o1t1w1~x2/) — ΔT 0.95
+1. [Porcupine](/setts/s11/w1t1y1g1ly7dr8y1o1y3r1y1~x2/) — ΔT 1.15
+1. [Unidentified, Silk scarf](/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/) — ΔT 1.28
+1. [Oregon, State of](/setts/s11/ly3dp5g2dp2g2w1g4lr12r2t2k2~x4/) — ΔT 1.50
+1. [Unidentified Silk scarf](/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/) — ΔT 1.59
+1. [Glendale](/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/) — ΔT 1.62
+1. [Arizona](/setts/s12/lo3g2w2r2lo12k2g12r2g2t2g2ly2~x4/) — ΔT 1.64
+1. [Wilson's, No 132](/setts/s8/k3r18w2g21g2p7t5w2~x2/) — ΔT 1.75
+1. [Wilson's No.132](/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/) — ΔT 1.79
+1. [Isle of Man (District)](/setts/s13/r2t22lo4w3g7ly2g4w2g9m6ly2m4w2~x2/) — ΔT 1.80
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o1r1o3lo1o1do8ly7g1o1t1w1~x2/"><circle cx="60.0" cy="91.0" r="4" fill="#3465a4"><title>Porcupine Fancy Tartan Tartan Number: 1303. Earliest known date: 1969 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w1t1y1g1ly7dr8y1o1y3r1y1~x2/"><circle cx="57.6" cy="89.3" r="4" fill="#3465a4"><title>Porcupine</title></circle></a><a href="/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/"><circle cx="101.6" cy="127.9" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/setts/s11/ly3dp5g2dp2g2w1g4lr12r2t2k2~x4/"><circle cx="60.9" cy="93.1" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><a href="/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/"><circle cx="93.2" cy="123.1" r="4" fill="#3465a4"><title>Unidentified Silk scarf</title></circle></a><a href="/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/"><circle cx="71.5" cy="131.6" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/setts/s12/lo3g2w2r2lo12k2g12r2g2t2g2ly2~x4/"><circle cx="135.0" cy="141.1" r="4" fill="#3465a4"><title>Arizona</title></circle></a><a href="/setts/s8/k3r18w2g21g2p7t5w2~x2/"><circle cx="110.4" cy="123.1" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="123.0" cy="112.9" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/setts/s13/r2t22lo4w3g7ly2g4w2g9m6ly2m4w2~x2/"><circle cx="108.2" cy="114.3" r="4" fill="#3465a4"><title>Isle of Man (District)</title></circle></a><circle cx="80.7" cy="101.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/o1r1o3lo1o1dy8ly7g1o1t1w1~x4/

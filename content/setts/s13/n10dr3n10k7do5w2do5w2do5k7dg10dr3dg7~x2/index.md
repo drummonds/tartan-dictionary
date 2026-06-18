@@ -1,0 +1,55 @@
+---
+title: "Redgate (Connecticut)"
+date: 2023-03-18
+---
+**Bands:** [BBBKBWBWBKGBG](/stripes/bbbkbwbwbkgbg/) · **Stripes:** [N DR N K DO W DO W DO K DG DR DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="seq">N DR N K DO W DO W DO K DG DR DG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10775
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10775](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10775)
+
+## Thread count
+N/20 DR6 N20 K14 T10 LR4 T10 LR4 T10 K14 Na20 DR6 Na/14
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#5D0F04;"><span style="color:#5D0F04;filter:grayscale(1) invert(1) contrast(100);">#5D0F04</span></code> `#5D0F04` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| K | <code style="background-color:#120A01;"><span style="color:#120A01;filter:grayscale(1) invert(1) contrast(100);">#120A01</span></code> `#120A01` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.15 |
+| LR | <code style="background-color:#DDD5AF;"><span style="color:#DDD5AF;filter:grayscale(1) invert(1) contrast(100);">#DDD5AF</span></code> `#DDD5AF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.12 |
+| N | <code style="background-color:#3F4B60;"><span style="color:#3F4B60;filter:grayscale(1) invert(1) contrast(100);">#3F4B60</span></code> `#3F4B60` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.09 |
+| Na | <code style="background-color:#334E3D;"><span style="color:#334E3D;filter:grayscale(1) invert(1) contrast(100);">#334E3D</span></code> `#334E3D` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.11 |
+| T | <code style="background-color:#4B2E24;"><span style="color:#4B2E24;filter:grayscale(1) invert(1) contrast(100);">#4B2E24</span></code> `#4B2E24` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Crosby (Personal)](/setts/s13/lb1dg6dg2p2dg2dr6dg1dr6dg2p2dg2dg6lo1~x6/) — ΔT 1.37
+1. [Carinthian National](/setts/s11/ly3dt16do15dg18do3r3do3dg18do15dt16w3~x2/) — ΔT 1.46
+1. [Longford, County](/setts/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/) — ΔT 1.50
+1. [Price-Powell (Personal)](/setts/s12/db14p5db4p5db14k14dg14k4lo4k8dg14k14~x2/) — ΔT 1.65
+1. [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/) — ΔT 1.70
+1. [Forbes of Druinnor (Artefact)](/setts/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/) — ΔT 1.70
+1. [New York City American District Tartan Tartan Number: 3812. Earliest known date: 2002 Created to celebrate Tartan Day 6th April 2002 in New York City on the occasion of the greatest parade of Pipes and Drums ever seen. Colourings are for the streets and buildings of New York: green is Central Park; blue the rivers (Hudson, Harlem & East) that surround Manhattan; the two black stripes are to honour the memory of the twin towers of the World Trade centre destroyed in "911" (The American way of signifying September 11th). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db3k1db3n3g4r1g4n3db3k1db3db2~x8/) — ΔT 1.75
+1. [Haughfoot](/setts/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/) — ΔT 1.81
+1. [Blackdown Hills (Corporate)](/setts/s7/k4dt4dy1dt4r4db4lr1~x8/) — ΔT 1.81
+1. [Kinloch Anderson Granite (Corporate)](/setts/s12/o8dt8o4dt28dt12n6dt12r4n8r4n29lb6/) — ΔT 1.84
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb1dg6dg2p2dg2dr6dg1dr6dg2p2dg2dg6lo1~x6/"><circle cx="123.8" cy="205.6" r="4" fill="#3465a4"><title>Crosby (Personal)</title></circle></a><a href="/setts/s11/ly3dt16do15dg18do3r3do3dg18do15dt16w3~x2/"><circle cx="149.5" cy="225.7" r="4" fill="#3465a4"><title>Carinthian National</title></circle></a><a href="/setts/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/"><circle cx="154.6" cy="246.7" r="4" fill="#3465a4"><title>Longford, County</title></circle></a><a href="/setts/s12/db14p5db4p5db14k14dg14k4lo4k8dg14k14~x2/"><circle cx="135.5" cy="275.0" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/"><circle cx="167.0" cy="260.1" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/setts/s16/db6y2db2y2db2do6dg8do1w2do1dg8dy2do4db8y2db2~x2/"><circle cx="138.4" cy="186.2" r="4" fill="#3465a4"><title>Forbes of Druinnor (Artefact)</title></circle></a><a href="/setts/s12/db3k1db3n3g4r1g4n3db3k1db3db2~x8/"><circle cx="115.3" cy="266.4" r="4" fill="#3465a4"><title>New York City American District Tartan Tartan Number: 3812. Earliest known date: 2002 Created to celebrate Tartan Day 6th April 2002 in New York City on the occasion of the greatest parade of Pipes and Drums ever seen. Colourings are for the streets and buildings of New York: green is Central Park; blue the rivers (Hudson, Harlem &amp; East) that surround Manhattan; the two black stripes are to honour the memory of the twin towers of the World Trade centre destroyed in &quot;911&quot; (The American way of signifying September 11th). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/"><circle cx="178.3" cy="246.9" r="4" fill="#3465a4"><title>Haughfoot</title></circle></a><a href="/setts/s7/k4dt4dy1dt4r4db4lr1~x8/"><circle cx="118.3" cy="282.6" r="4" fill="#3465a4"><title>Blackdown Hills (Corporate)</title></circle></a><a href="/setts/s12/o8dt8o4dt28dt12n6dt12r4n8r4n29lb6/"><circle cx="135.4" cy="187.1" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><circle cx="69.3" cy="238.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/n10dr3n10k7do5w2do5w2do5k7dg10dr3dg7~x2/

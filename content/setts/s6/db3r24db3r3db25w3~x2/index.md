@@ -1,0 +1,66 @@
+---
+title: "Matthews (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BRBRBW](/stripes/brbrbw/) · **Stripes:** [DB R DB R DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB R DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/09/2006 — Matthews (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914))
+- 2006 September — Matthews (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7003/))
+- undated — Matthews Clan Tartan Tartan Number: 7003. Earliest known date: 2006 September A variant of the Donnachaidh (Robertson) tartan and reflects the Matthews family membership of that clan. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7003))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4914](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914)
+- Scottish Tartans Authority (ITI): 7003
+- Scottish Tartans World Register: 3147
+
+## Thread count
+DB/6 R48 DB6 R6 DB50 LN/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/6 R48 DB6 R6 DB50 LN/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Butler](/setts/s6/db48r18db6r13ly4r14~x2/) — ΔT 0.76
+1. [Bon Accord](/setts/s7/r6w3r17dt3r3dt25r3~x2/) — ΔT 0.94
+1. [British European](/setts/s6/r12db2r12db17w2r2~x2/) — ΔT 0.99
+1. [British European (Corporate)](/setts/s6/r12db2r12db17w2r2~x4/) — ΔT 0.99
+1. [Masai Shuka 25 (Artefact)](/setts/s5/db15w2r20db2r4~x2/) — ΔT 1.04
+1. [Hamilton Red Clan Tartan Tartan Number: 477. Earliest known date: 1842 First recorded in the Vestiarium Scoticum which was supposedly based on an ancient manuscript now known to have been forged. The original illustration shows the four main stripes in a very dark shade of blue. There is no evidence of a Hamilton tartan prior to the publication of this spectacular work. The authors, the Sobieski Stuart brothers, enjoyed a popular following amongst the Scottish gentry of the period and it is probable that the design can be attributed to Charles Edward Stuart (Allan Hay) who prepared the illustrations for the book. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/db6r1db6r9w1~x4/) — ΔT 1.15
+1. [MacGregor of Glengyle](/setts/s6/db1r1db7r7db1r1~x4/) — ΔT 1.17
+1. [Hamilton (Clan)](/setts/s5/db8r2db8r15w2~x4/) — ΔT 1.18
+1. [MacQueen variant](/setts/s6/db2r7db2r7db22ly2~x2/) — ΔT 1.20
+1. [Galloway Red](/setts/s6/g3r2db22r22db2w3~x2/) — ΔT 1.26
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db48r18db6r13ly4r14~x2/"><circle cx="349.1" cy="213.3" r="4" fill="#3465a4"><title>Butler</title></circle></a><a href="/setts/s7/r6w3r17dt3r3dt25r3~x2/"><circle cx="310.5" cy="205.4" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/setts/s6/r12db2r12db17w2r2~x2/"><circle cx="348.1" cy="235.2" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/setts/s6/r12db2r12db17w2r2~x4/"><circle cx="348.1" cy="235.2" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/setts/s5/db15w2r20db2r4~x2/"><circle cx="359.2" cy="219.2" r="4" fill="#3465a4"><title>Masai Shuka 25 (Artefact)</title></circle></a><a href="/setts/s5/db6r1db6r9w1~x4/"><circle cx="321.0" cy="244.2" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan Tartan Number: 477. Earliest known date: 1842 First recorded in the Vestiarium Scoticum which was supposedly based on an ancient manuscript now known to have been forged. The original illustration shows the four main stripes in a very dark shade of blue. There is no evidence of a Hamilton tartan prior to the publication of this spectacular work. The authors, the Sobieski Stuart brothers, enjoyed a popular following amongst the Scottish gentry of the period and it is probable that the design can be attributed to Charles Edward Stuart (Allan Hay) who prepared the illustrations for the book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db1r1db7r7db1r1~x4/"><circle cx="364.5" cy="245.0" r="4" fill="#3465a4"><title>MacGregor of Glengyle</title></circle></a><a href="/setts/s5/db8r2db8r15w2~x4/"><circle cx="295.6" cy="245.3" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/setts/s6/db2r7db2r7db22ly2~x2/"><circle cx="394.7" cy="207.0" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="277.5" cy="178.8" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><circle cx="332.2" cy="211.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/db3r24db3r3db25w3~x2/

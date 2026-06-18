@@ -1,0 +1,68 @@
+---
+title: "Ballantrae (Macnaughtons)"
+date: 2023-03-18
+---
+**Bands:** [GRGKYBR](/stripes/grgkybr/) · **Stripes:** [DY R DY K LY DT R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">DY R DY K LY DT R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=178
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Ballantrae (Macnaughtons) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=178))
+- pre 2002 — Ballantrae - H of E (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5852/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [178](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=178)
+- Scottish Tartans Authority (ITI): 5852
+
+## Thread count
+R/8 K44 Y6 Ka32 T68 R6 T/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| K | <code style="background-color:#1C1C1C;"><span style="color:#1C1C1C;filter:grayscale(1) invert(1) contrast(100);">#1C1C1C</span></code> `#1C1C1C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| Ka | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "R/8 K44 Y6 Ka32 T68 R6 T/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified #66](/setts/s6/ly1dy10k8r8dy1ly1~x4/) — ΔT 0.95
+1. [Andover (Fashion)](/setts/s6/r1n12k6ly1do10r1~x4/) — ΔT 0.98
+1. [Vass (Personal)](/setts/s8/db6w1y6dy12r2dy12y6w1~x4/) — ΔT 1.07
+1. [Wcwm 9275-1410](/setts/s7/g3dy32g4lb3g18dp18lo3~x2/) — ΔT 1.07
+1. [Vass (Personal)](/setts/s5/db6w1dy6dy12r2~x4/) — ΔT 1.10
+1. [Andover](/setts/s6/r1n12k6k1do10r1~x4/) — ΔT 1.11
+1. [Indiana "Cardinal" (District)](/setts/s8/db8lo1g12r10y2r6y2r4~x4/) — ΔT 1.12
+1. [Loch Long One Design](/setts/s6/lo4k28r2do22t8do3~x2/) — ΔT 1.12
+1. [Mica, Green (Fashion)](/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/) — ΔT 1.13
+1. [Lisbon](/setts/s6/r2do22g22do3db12y2~x2/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly1dy10k8r8dy1ly1~x4/"><circle cx="219.5" cy="214.3" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/setts/s6/r1n12k6ly1do10r1~x4/"><circle cx="241.7" cy="207.8" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/setts/s8/db6w1y6dy12r2dy12y6w1~x4/"><circle cx="293.3" cy="211.4" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/setts/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="235.8" cy="199.2" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/setts/s5/db6w1dy6dy12r2~x4/"><circle cx="252.8" cy="234.5" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/setts/s6/r1n12k6k1do10r1~x4/"><circle cx="255.4" cy="216.5" r="4" fill="#3465a4"><title>Andover</title></circle></a><a href="/setts/s8/db8lo1g12r10y2r6y2r4~x4/"><circle cx="236.8" cy="205.3" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot; (District)</title></circle></a><a href="/setts/s6/lo4k28r2do22t8do3~x2/"><circle cx="265.4" cy="201.4" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/"><circle cx="274.6" cy="194.8" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/setts/s6/r2do22g22do3db12y2~x2/"><circle cx="240.9" cy="217.8" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><circle cx="264.4" cy="204.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/dy6r3dy34k16ly3dt22r4~x2/

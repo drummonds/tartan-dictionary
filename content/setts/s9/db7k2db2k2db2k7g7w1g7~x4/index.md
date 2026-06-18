@@ -1,0 +1,69 @@
+---
+title: "Abercrombie"
+date: 2023-03-18
+---
+**Bands:** [BKBKBKGWG](/stripes/bkbkbkgwg/) · **Stripes:** [DB K DB K DB K G W G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K DB K DB K G W G</span></span>
+
+
+This was sourced from logan-1831.  It is a [9 band tartan](/bands/bands9/).
+
+Original link /posts/logans-scottish-gael/
+
+## Provenance
+
+James Logan recorded the **Abercrombie** sett in 1831, on page 402 of the *Table of Clan Tartans* in *The Scottish Gaël* — the earliest systematic published collection of clan setts. Logan gives the stripe widths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
+
+> 3½ green · ½ white · 3½ green · 3½ black · 1 blue · 1 black · 1 blue · 1 black · 3½ blue
+
+In threads (at 8 to the eighth-inch) that is `G/28 W4 G28 K28 B8 K8 B8 K8 B/28`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
+
+## Related setts
+
+Later records of the **Abercrombie** name adjusted Logan's counts: [Abercrombie](/setts/s9/g14w1g7k7b2k2b2k2b7~b2c2c80-g006818-k101010-we0e0e0~x4/); [Abercrombie (McKinlay)](/setts/s9/k12r1g14w1g14k14r1b8k2~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/); [Abercrombie (Wilsons No 2/64)](/setts/s7/k6g6y1g6k6b6k1~b5a008c-g005020-k101010-ye8c000~x4/); [Abercrombie](/setts/s9/g14w1g7k7b2k2b2k2b7~b00004c-g004c00-k000000-wd0d0d0~x2/). Compare their thread counts with Logan's above.
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Abercrombie](/setts/s9/g14w1g7k7db2k2db2k2db7~x4/)
+- [Abercrombie](/setts/s9/g14w1g7k7db2k2db2k2db7~x2/)
+
+
+## Thread count
+DB/28 K8 DB8 K8 DB8 K28 G28 LN4 G/28
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Melville Family Tartan Tartan Number: 1050. Earliest known date: 1847 There is a sample in the Moy Hall collection.(1848). This sett, also known as Oliphant and Melville, appears in one of Wilson's notebooks in 1847. It is mentioned in a letter dated June 1824 but without any means of identification. It is also to be found in the Scott Adie (London) collection and in the MacPherson Museum in Newtonmore. Wilson records the second pivot (between the white lines) as blue. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/) — ΔT 0.60
+1. [Granger/Grainger (Personal)](/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/) — ΔT 0.72
+1. [MacCallum](/setts/s7/g21k6t3g11k17db17k3~x2/) — ΔT 0.75
+1. [Blaylock Annandale (Name)](/setts/s7/g24db6t3k6db12k15g4~x2/) — ΔT 0.77
+1. [Scottish Airports Corporate Tartan Tartan Number: 2510. Earliest known date: November 1988 An archetypal Kinloch Anderson blue design. Scottish Tartan Society notes say that Percy Pilcher (an early aviation pioneer 1866 -1899) had connections to the Gunn tartan (his mother was a Robinson). The design is based on that sett using the colours of the British Airports Authority with the purple line added to represent the Scottish thistle. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db18k17db3g18db4g18db3k17db18p4~x2/) — ΔT 0.88
+1. [Blaylock Annandale](/setts/s7/g24b6lb3k6b12k15g4~x2/) — ΔT 0.88
+1. [Alexander Hunting (Name)](/setts/s9/db12r2db4r4k15db4g4db2g12~x2/) — ΔT 0.89
+1. [Argyll Campbell](/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/) — ΔT 0.91
+1. [Hamilton of Clayton (Personal)](/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/) — ΔT 0.93
+1. [Newlands of Lauriston](/setts/s10/b9k9b9r2k20g13r2g4r2g4~x2/) — ΔT 0.94
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><circle cx="155.7" cy="232.9" r="4" fill="#3465a4"><title>Melville Family Tartan Tartan Number: 1050. Earliest known date: 1847 There is a sample in the Moy Hall collection.(1848). This sett, also known as Oliphant and Melville, appears in one of Wilson's notebooks in 1847. It is mentioned in a letter dated June 1824 but without any means of identification. It is also to be found in the Scott Adie (London) collection and in the MacPherson Museum in Newtonmore. Wilson records the second pivot (between the white lines) as blue. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.2" cy="224.6" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/setts/s7/g21k6t3g11k17db17k3~x2/"><circle cx="205.7" cy="262.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s7/g24db6t3k6db12k15g4~x2/"><circle cx="212.6" cy="248.1" r="4" fill="#3465a4"><title>Blaylock Annandale (Name)</title></circle></a><a href="/setts/s10/db18k17db3g18db4g18db3k17db18p4~x2/"><circle cx="183.3" cy="257.3" r="4" fill="#3465a4"><title>Scottish Airports Corporate Tartan Tartan Number: 2510. Earliest known date: November 1988 An archetypal Kinloch Anderson blue design. Scottish Tartan Society notes say that Percy Pilcher (an early aviation pioneer 1866 -1899) had connections to the Gunn tartan (his mother was a Robinson). The design is based on that sett using the colours of the British Airports Authority with the purple line added to represent the Scottish thistle. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g24b6lb3k6b12k15g4~x2/"><circle cx="189.4" cy="235.8" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/setts/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="184.7" cy="229.6" r="4" fill="#3465a4"><title>Alexander Hunting (Name)</title></circle></a><a href="/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/"><circle cx="202.7" cy="234.3" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/"><circle cx="204.7" cy="235.2" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/setts/s10/b9k9b9r2k20g13r2g4r2g4~x2/"><circle cx="187.6" cy="204.9" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><circle cx="179.0" cy="242.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/db7k2db2k2db2k7g7w1g7~x4/

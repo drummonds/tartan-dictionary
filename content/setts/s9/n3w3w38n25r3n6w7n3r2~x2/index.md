@@ -1,0 +1,47 @@
+---
+title: "Greater St. Louis Firefighters (Cor)"
+date: 2023-03-18
+---
+**Bands:** [BWWBRBWBR](/stripes/bwwbrbwbr/) · **Stripes:** [N W W N R N W N R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">N W W N R N W N R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10336/
+
+## Thread count
+N/6 LRa6 LR76 N50 R6 N12 LRa14 N6 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| LR | <code style="background-color:#D8D8B0;"><span style="color:#D8D8B0;filter:grayscale(1) invert(1) contrast(100);">#D8D8B0</span></code> `#D8D8B0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.12 |
+| LRa | <code style="background-color:#D8D8B0;"><span style="color:#D8D8B0;filter:grayscale(1) invert(1) contrast(100);">#D8D8B0</span></code> `#D8D8B0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.12 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ben Cleuch (Fashion)](/setts/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/) — ΔT 1.12
+1. [Ben Cleuch](/setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/) — ΔT 1.14
+1. [Tilburg Hunting (District)](/setts/s7/b6k3b37ly41w3ly6w3~x2/) — ΔT 1.23
+1. [Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g3r12g12lo5r1w25g2r1~x2/) — ΔT 1.26
+1. [Dogwood](/setts/s8/g3r12g12o5r1w25g2r1~x2/) — ΔT 1.28
+1. [Falkirk (District)](/setts/s9/k4lb4k2lb4k2lb22o27ly2r3~x2/) — ΔT 1.30
+1. [Scott, dress](/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/) — ΔT 1.34
+1. [Liama, The](/setts/s10/do2lb20r2lb2do3lb3y3r8y26lb2~x2/) — ΔT 1.35
+1. [Jones (2016)](/setts/s7/dy1w2lb16dy8o16dy2w1~x2/) — ΔT 1.37
+1. [Grant - 1714 (Piper) (Portrait)](/setts/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4/) — ΔT 1.37
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/"><circle cx="292.8" cy="102.7" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="271.7" cy="99.3" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.4" cy="161.4" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s8/g3r12g12lo5r1w25g2r1~x2/"><circle cx="223.5" cy="124.8" r="4" fill="#3465a4"><title>Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="223.3" cy="125.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s9/k4lb4k2lb4k2lb22o27ly2r3~x2/"><circle cx="226.6" cy="127.7" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/"><circle cx="235.8" cy="101.2" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/setts/s10/do2lb20r2lb2do3lb3y3r8y26lb2~x2/"><circle cx="248.8" cy="138.5" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/setts/s7/dy1w2lb16dy8o16dy2w1~x2/"><circle cx="219.2" cy="163.0" r="4" fill="#3465a4"><title>Jones (2016)</title></circle></a><a href="/setts/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4/"><circle cx="215.3" cy="128.6" r="4" fill="#3465a4"><title>Grant - 1714 (Piper) (Portrait)</title></circle></a><circle cx="267.7" cy="129.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/n3w3w38n25r3n6w7n3r2~x2/

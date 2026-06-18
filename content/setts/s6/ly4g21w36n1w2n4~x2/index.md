@@ -1,0 +1,65 @@
+---
+title: "Skye, Green (Dance)"
+date: 2023-03-18
+---
+**Bands:** [BWBWGY](/stripes/bwbwgy/) · **Stripes:** [N W N W G LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">N W N W G LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7601/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Skye, Green (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7601/))
+- undated — Skye Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5625))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5625)
+- Scottish Tartans Authority (ITI): 7601
+
+## Thread count
+LY/8 G42 W72 N2 W4 N/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LY | <code style="background-color:#FCE888;"><span style="color:#FCE888;filter:grayscale(1) invert(1) contrast(100);">#FCE888</span></code> `#FCE888` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.11 |
+| N | <code style="background-color:#506878;"><span style="color:#506878;filter:grayscale(1) invert(1) contrast(100);">#506878</span></code> `#506878` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| W | <code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> `#F0E0C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LY/8 G42 W72 N2 W4 N/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Westfalia Dress (Corporate)](/setts/s6/w44dg18w6dg11dt1o4~x2/) — ΔT 0.97
+1. [MacGregor, Green](/setts/s6/w47g20w6g8k1r3~x2/) — ΔT 1.05
+1. [MacGregor - 1975 (Dance, Green)](/setts/s6/w52g22w6g8k1r3~x2/) — ΔT 1.34
+1. [MacGregor Dress Green (Dance)](/setts/s6/w52dg22w6dg8k1r3~x2/) — ΔT 1.43
+1. [Westfalia (Corporate)](/setts/s6/dg44w18dg6w11dt1o4~x2/) — ΔT 1.43
+1. [Longniddry Green Error (Dance)](/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/) — ΔT 1.53
+1. [Pollock](/setts/s7/g3lo16w4k6g28lo1g3~x4/) — ΔT 1.59
+1. [Cunningham Dress Green (Dance) Fashion Tartan Tartan Number: 6532. Earliest known date: 01/01/1988 A dancers' tartan now woven by D C Dalgliesh of Selkirk /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly2g1k1g20w20g1w2~x4/) — ΔT 1.59
+1. [Oliver Dress Pink](/setts/s5/k5w2ly36t47r3~x2/) — ΔT 1.60
+1. [Cunningham Dress Green (Dance)](/setts/s7/w5g2w34g34k2g2ly4~x2/) — ΔT 1.63
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w44dg18w6dg11dt1o4~x2/"><circle cx="359.9" cy="115.9" r="4" fill="#3465a4"><title>Westfalia Dress (Corporate)</title></circle></a><a href="/setts/s6/w47g20w6g8k1r3~x2/"><circle cx="397.1" cy="116.5" r="4" fill="#3465a4"><title>MacGregor, Green</title></circle></a><a href="/setts/s6/w52g22w6g8k1r3~x2/"><circle cx="389.3" cy="102.6" r="4" fill="#3465a4"><title>MacGregor - 1975 (Dance, Green)</title></circle></a><a href="/setts/s6/w52dg22w6dg8k1r3~x2/"><circle cx="385.5" cy="101.0" r="4" fill="#3465a4"><title>MacGregor Dress Green (Dance)</title></circle></a><a href="/setts/s6/dg44w18dg6w11dt1o4~x2/"><circle cx="363.1" cy="127.7" r="4" fill="#3465a4"><title>Westfalia (Corporate)</title></circle></a><a href="/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/"><circle cx="304.2" cy="103.9" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/setts/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="337.8" cy="145.2" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s7/ly2g1k1g20w20g1w2~x4/"><circle cx="311.9" cy="141.9" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan Tartan Number: 6532. Earliest known date: 01/01/1988 A dancers' tartan now woven by D C Dalgliesh of Selkirk /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.4" cy="144.1" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/setts/s7/w5g2w34g34k2g2ly4~x2/"><circle cx="282.8" cy="140.9" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><circle cx="337.4" cy="121.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/ly4g21w36n1w2n4~x2/

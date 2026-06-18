@@ -1,0 +1,54 @@
+---
+title: "Hickory"
+date: 2023-03-18
+---
+**Bands:** [BGBGBWBWBG](/stripes/bgbgbwbwbg/) · **Stripes:** [DB Y DO Y DO W DO W DO Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DB Y DO Y DO W DO W DO Y</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11260
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11260](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11260)
+
+## Thread count
+DB/8 N60 T4 N4 T28 W4 T4 W2 T12 G/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#141E46;"><span style="color:#141E46;filter:grayscale(1) invert(1) contrast(100);">#141E46</span></code> `#141E46` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.16 |
+| G | <code style="background-color:#767E52;"><span style="color:#767E52;filter:grayscale(1) invert(1) contrast(100);">#767E52</span></code> `#767E52` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| N | <code style="background-color:#786557;"><span style="color:#786557;filter:grayscale(1) invert(1) contrast(100);">#786557</span></code> `#786557` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| T | <code style="background-color:#4C3428;"><span style="color:#4C3428;filter:grayscale(1) invert(1) contrast(100);">#4C3428</span></code> `#4C3428` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| W | <code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> `#F0E0C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bell of Ardbel (Personal)](/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/) — ΔT 1.00
+1. [Afghanistan Memorial](/setts/s13/dt8dy3y1dy1y39dy3o3y2dt11dy8y2dy3w2~x2/) — ΔT 1.11
+1. [Sarna](/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/) — ΔT 1.16
+1. [Chisholm hunting](/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/) — ΔT 1.17
+1. [Toyokawa Check](/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/) — ΔT 1.22
+1. [Redpath, Robert A (Personal)](/setts/s8/r26n4r1p2dg1n4dg14w2~x2/) — ΔT 1.25
+1. [Chisholm Hunting Clan Tartan Tartan Number: 1458. Earliest known date: 1906 This is a classic example of the process that began during the late Victorian period when the new analine dyes of the 1860s were considered to be too bright. Subtler forms of the tartan were produced, often replacing the red ground with green or brown. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/) — ΔT 1.26
+1. [Roast Den, The](/setts/s9/y62do12lg1y4dg2y4lg1do12dg12~x2/) — ΔT 1.26
+1. [Bell, John](/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/) — ΔT 1.27
+1. [Hebridean Thistle (Fashion)](/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/) — ΔT 1.27
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/"><circle cx="339.1" cy="130.1" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/setts/s13/dt8dy3y1dy1y39dy3o3y2dt11dy8y2dy3w2~x2/"><circle cx="381.3" cy="107.5" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/"><circle cx="380.2" cy="121.8" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="383.0" cy="151.9" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/"><circle cx="384.8" cy="157.8" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/setts/s8/r26n4r1p2dg1n4dg14w2~x2/"><circle cx="347.4" cy="139.9" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/setts/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="390.3" cy="159.3" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan Tartan Number: 1458. Earliest known date: 1906 This is a classic example of the process that began during the late Victorian period when the new analine dyes of the 1860s were considered to be too bright. Subtler forms of the tartan were produced, often replacing the red ground with green or brown. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/y62do12lg1y4dg2y4lg1do12dg12~x2/"><circle cx="415.1" cy="108.5" r="4" fill="#3465a4"><title>Roast Den, The</title></circle></a><a href="/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/"><circle cx="364.3" cy="146.2" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><a href="/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/"><circle cx="407.0" cy="154.3" r="4" fill="#3465a4"><title>Hebridean Thistle (Fashion)</title></circle></a><circle cx="365.6" cy="133.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/db4y30do2y2do14w2do2w1do6y3~x2/

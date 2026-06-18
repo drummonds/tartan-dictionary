@@ -1,0 +1,51 @@
+---
+title: "Invertere Corporate Tartan Tartan Number: 1882. Earliest known date: 1988 Overstripes are yellow in warp See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [YGGBGGGY](/stripes/yggbgggy/) · **Stripes:** [LY DG DY DB DY DG DY LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DG DY DB DY DG DY LY</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1882
+
+## Thread count
+Y/5 DG14 T4 DB4 T27 DG3 T4 Y/5
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "Y/5 DG14 T4 DB4 T27 DG3 T4 Y/5 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacCall/McCall](/setts/s8/r3k2r3g12r3w1r1g1~x4/) — ΔT 0.72
+1. [MacKillen](/setts/s9/k4lo15dg5k3dg7k3dg30r20dg3~x2/) — ΔT 0.78
+1. [Invertere](/setts/s8/ly5dg14o4db4o27dg3o4ly5~x2/) — ΔT 0.88
+1. [Oakwood](/setts/s8/dg13ly2dg2ly2dg4r10g2r2~x4/) — ΔT 0.90
+1. [Unidentified Plaid 6](/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/) — ΔT 1.02
+1. [Invertere (Daks #2) (Fashion)](/setts/s8/ly5g14dy4db4dy27g3dy4ly5~x2/) — ΔT 1.02
+1. [Newfoundland (District)](/setts/s7/r6dg4do14w4do7dg30lo4~x2/) — ΔT 1.06
+1. [Newfoundland](/setts/s7/r6g4do14w4do7g30lo4~x2/) — ΔT 1.15
+1. [Manitoba Red](/setts/s8/ly2r6dg1r2dg12t1dg1t2~x2/) — ΔT 1.17
+1. [Dublin](/setts/s12/g3dr3g3dr16g3dr3g3m5g18r2g8r3~x2/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3k2r3g12r3w1r1g1~x4/"><circle cx="307.9" cy="182.8" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><a href="/setts/s9/k4lo15dg5k3dg7k3dg30r20dg3~x2/"><circle cx="269.3" cy="196.4" r="4" fill="#3465a4"><title>MacKillen</title></circle></a><a href="/setts/s8/ly5dg14o4db4o27dg3o4ly5~x2/"><circle cx="271.3" cy="189.0" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/setts/s8/dg13ly2dg2ly2dg4r10g2r2~x4/"><circle cx="279.0" cy="217.0" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/"><circle cx="261.5" cy="183.0" r="4" fill="#3465a4"><title>Unidentified Plaid 6</title></circle></a><a href="/setts/s8/ly5g14dy4db4dy27g3dy4ly5~x2/"><circle cx="278.7" cy="194.5" r="4" fill="#3465a4"><title>Invertere (Daks #2) (Fashion)</title></circle></a><a href="/setts/s7/r6dg4do14w4do7dg30lo4~x2/"><circle cx="237.5" cy="199.6" r="4" fill="#3465a4"><title>Newfoundland (District)</title></circle></a><a href="/setts/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="233.1" cy="197.0" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/setts/s8/ly2r6dg1r2dg12t1dg1t2~x2/"><circle cx="274.3" cy="164.0" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><a href="/setts/s12/g3dr3g3dr16g3dr3g3m5g18r2g8r3~x2/"><circle cx="292.2" cy="192.7" r="4" fill="#3465a4"><title>Dublin</title></circle></a><circle cx="289.6" cy="201.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/ly5dg14dy4db4dy27dg3dy4ly5/

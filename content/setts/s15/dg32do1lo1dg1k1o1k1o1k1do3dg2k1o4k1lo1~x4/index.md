@@ -1,0 +1,56 @@
+---
+title: "Anderson Green"
+date: 2023-03-18
+---
+**Bands:** [GBYGKRKRKBGKRKY](/stripes/gbygkrkrkbgkrky/) · **Stripes:** [DG DO LO DG K O K O K DO DG K O K LO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG DO LO DG K O K O K DO DG K O K LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4887
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4887](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4887)
+- Scottish Tartans Authority (ITI): 3452
+
+## Thread count
+DG/128 T4 O4 DG4 K4 LT4 K4 LT4 K4 T12 DG8 K4 LT16 K4 O/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LT | <code style="background-color:#A07C58;"><span style="color:#A07C58;filter:grayscale(1) invert(1) contrast(100);">#A07C58</span></code> `#A07C58` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| O | <code style="background-color:#DC943C;"><span style="color:#DC943C;filter:grayscale(1) invert(1) contrast(100);">#DC943C</span></code> `#DC943C` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| T | <code style="background-color:#4C3428;"><span style="color:#4C3428;filter:grayscale(1) invert(1) contrast(100);">#4C3428</span></code> `#4C3428` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Heart of Alba](/setts/s14/dg48k5db4t2dg1r2o4dg20k3db4t2dg1o4r2~x2/) — ΔT 1.44
+1. [Orvis Sports Company](/setts/s18/dg4r4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60r4/) — ΔT 1.55
+1. [Moran Family Ubique](/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/) — ΔT 1.56
+1. [Ettrick Forest](/setts/s24/db2g2r1g4r1db6r2g1ly1g1r1g1r1g1t1g1r2db6g26r1g1r1g1db1~x2/) — ΔT 1.65
+1. [Forster (Personal)](/setts/s14/lr1dy1lr1dy1lr1dy4dg1ly1dg1dy2dg1r1dg20r1~x4/) — ΔT 1.65
+1. [Berry Tribute](/setts/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/) — ΔT 1.73
+1. [Murphy and his Gang (Phoenix Arizona) (Personal)](/setts/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/) — ΔT 1.75
+1. [Kennedy #2](/setts/s15/ly8dg77db18k7db9k6db18dg64r4dg5r4dg9ly4dg5r6/) — ΔT 1.76
+1. [Guildford Town Centre (British Columbia)](/setts/s16/n38k5y5k5n5w2n12k10dy5k5dy10k9n76k9y2k5~x2/) — ΔT 1.77
+1. [Granvert](/setts/s9/dg115k15r8k4b8k4ly8k4g8~x2/) — ΔT 1.78
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dg48k5db4t2dg1r2o4dg20k3db4t2dg1o4r2~x2/"><circle cx="467.3" cy="81.2" r="4" fill="#3465a4"><title>Heart of Alba</title></circle></a><a href="/setts/s18/dg4r4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60r4/"><circle cx="539.2" cy="107.8" r="4" fill="#3465a4"><title>Orvis Sports Company</title></circle></a><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.6" cy="104.1" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/setts/s24/db2g2r1g4r1db6r2g1ly1g1r1g1r1g1t1g1r2db6g26r1g1r1g1db1~x2/"><circle cx="390.0" cy="76.7" r="4" fill="#3465a4"><title>Ettrick Forest</title></circle></a><a href="/setts/s14/lr1dy1lr1dy1lr1dy4dg1ly1dg1dy2dg1r1dg20r1~x4/"><circle cx="381.7" cy="87.8" r="4" fill="#3465a4"><title>Forster (Personal)</title></circle></a><a href="/setts/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/"><circle cx="467.0" cy="101.3" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/setts/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/"><circle cx="485.5" cy="120.8" r="4" fill="#3465a4"><title>Murphy and his Gang (Phoenix Arizona) (Personal)</title></circle></a><a href="/setts/s15/ly8dg77db18k7db9k6db18dg64r4dg5r4dg9ly4dg5r6/"><circle cx="402.2" cy="129.9" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><a href="/setts/s16/n38k5y5k5n5w2n12k10dy5k5dy10k9n76k9y2k5~x2/"><circle cx="437.8" cy="93.7" r="4" fill="#3465a4"><title>Guildford Town Centre (British Columbia)</title></circle></a><a href="/setts/s9/dg115k15r8k4b8k4ly8k4g8~x2/"><circle cx="421.4" cy="101.4" r="4" fill="#3465a4"><title>Granvert</title></circle></a><circle cx="483.1" cy="91.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/

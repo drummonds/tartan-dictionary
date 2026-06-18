@@ -1,0 +1,55 @@
+---
+title: "Wcwm 1893-11"
+date: 2023-03-18
+---
+**Bands:** [BYWRWRBBW](/stripes/bywrwrbbw/) · **Stripes:** [DT LR W O W O DT P W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT LR W O W O DT P W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4547
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4547](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4547)
+- Scottish Tartans Authority (ITI): 4284
+
+## Thread count
+K/4 LR28 LY4 LT12 LY4 LT28 K16 P52 LY/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#202020;"><span style="color:#202020;filter:grayscale(1) invert(1) contrast(100);">#202020</span></code> `#202020` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.20 |
+| LR | <code style="background-color:#FC9494;"><span style="color:#FC9494;filter:grayscale(1) invert(1) contrast(100);">#FC9494</span></code> `#FC9494` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.18 |
+| LT | <code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> `#A0783C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.18 |
+| LY | <code style="background-color:#F0F0B0;"><span style="color:#F0F0B0;filter:grayscale(1) invert(1) contrast(100);">#F0F0B0</span></code> `#F0F0B0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.09 |
+| P | <code style="background-color:#6400E0;"><span style="color:#6400E0;filter:grayscale(1) invert(1) contrast(100);">#6400E0</span></code> `#6400E0` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gigha, Lilac (Dance)](/setts/s8/m4g3m18dp18w18r1w2r4~x2/) — ΔT 0.88
+1. [Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/) — ΔT 0.89
+1. [Scottish Highlander, dress](/setts/s8/lp26w2lp3db15y26m2y3db4~x2/) — ΔT 1.11
+1. [Thousand Islands Int. Council (Corp)](/setts/s8/r22w2db11ly4db11r6db2w10~x2/) — ΔT 1.12
+1. [Culloden Dress Ancient](/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/) — ΔT 1.20
+1. [Sean F Forrester (Personal)](/setts/s9/ly3do4ly1do15p24lr15w1lr4w3~x4/) — ΔT 1.26
+1. [Stewart of Appin Dress Clan Tartan Tartan Number: 481. Earliest known date: pre 2003 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db8r3db34t3k9w31r5w3r3w8~x2/) — ΔT 1.32
+1. [Culloden, dress Ancient](/setts/s8/r6db2p21w3dg19w26dg3w5~x2/) — ΔT 1.33
+1. [Culloden Dress](/setts/s8/r6t3dp24ly2k23w23k2w6~x2/) — ΔT 1.37
+1. [MacKellar Dress, Cerise (Dance)](/setts/s11/m18w2m2t3m2w2m4k10m2w25k3~x2/) — ΔT 1.40
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/m4g3m18dp18w18r1w2r4~x2/"><circle cx="155.9" cy="130.9" r="4" fill="#3465a4"><title>Gigha, Lilac (Dance)</title></circle></a><a href="/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/"><circle cx="152.4" cy="122.8" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lp26w2lp3db15y26m2y3db4~x2/"><circle cx="178.6" cy="146.6" r="4" fill="#3465a4"><title>Scottish Highlander, dress</title></circle></a><a href="/setts/s8/r22w2db11ly4db11r6db2w10~x2/"><circle cx="133.9" cy="159.1" r="4" fill="#3465a4"><title>Thousand Islands Int. Council (Corp)</title></circle></a><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.7" cy="141.6" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s9/ly3do4ly1do15p24lr15w1lr4w3~x4/"><circle cx="183.1" cy="119.7" r="4" fill="#3465a4"><title>Sean F Forrester (Personal)</title></circle></a><a href="/setts/s10/db8r3db34t3k9w31r5w3r3w8~x2/"><circle cx="168.2" cy="126.1" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan Tartan Number: 481. Earliest known date: pre 2003 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r6db2p21w3dg19w26dg3w5~x2/"><circle cx="155.7" cy="140.1" r="4" fill="#3465a4"><title>Culloden, dress Ancient</title></circle></a><a href="/setts/s8/r6t3dp24ly2k23w23k2w6~x2/"><circle cx="97.6" cy="122.3" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/setts/s11/m18w2m2t3m2w2m4k10m2w25k3~x2/"><circle cx="181.6" cy="104.9" r="4" fill="#3465a4"><title>MacKellar Dress, Cerise (Dance)</title></circle></a><circle cx="138.2" cy="135.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/dt1lr7w1o3w1o7dt4p13w1~x4/

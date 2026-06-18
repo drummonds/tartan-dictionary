@@ -1,0 +1,55 @@
+---
+title: "Yellow Pencil"
+date: 2023-03-18
+---
+**Bands:** [GYGYGYGY](/stripes/gygygygy/) · **Stripes:** [DY LY DY LY DY LY DY LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DY LY DY LY DY LY DY LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10761
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10761](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10761)
+
+## Thread count
+T/96 Y18 T12 Y18 T24 Y8 T4 Y/32
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| T | <code style="background-color:#5B3A15;"><span style="color:#5B3A15;filter:grayscale(1) invert(1) contrast(100);">#5B3A15</span></code> `#5B3A15` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| Y | <code style="background-color:#F5B92F;"><span style="color:#F5B92F;filter:grayscale(1) invert(1) contrast(100);">#F5B92F</span></code> `#F5B92F` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "T/96 Y18 T12 Y18 T24 Y8 T4 Y/32 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Loughheed (Personal)](/setts/s8/dr3lo3dr4dr2lo18dr1lo2dr2~x4/) — ΔT 1.09
+1. [Monoch Airline](/setts/s6/lo4k6lo1k1lo16k2~x2/) — ΔT 1.19
+1. [Yellow Pencil (Corporate)](/setts/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/) — ΔT 1.28
+1. [Schranz-Gritte](/setts/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/) — ΔT 1.50
+1. [Menzies Brown & White](/setts/s8/dy31w5dy2w5dy4w3dy2w7~x2/) — ΔT 1.56
+1. [Donachie](/setts/s10/r24g2r2g40r25g2r2g2r2g20~x2/) — ΔT 1.69
+1. [Livingstone](/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/) — ΔT 1.72
+1. [Fitzgerald/Baluchistan](/setts/s9/r5g20r5g3r4g5r36g1w4~x2/) — ΔT 1.76
+1. [Livingstone](/setts/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/) — ΔT 1.81
+1. [Crawford](/setts/s7/r6w2r30g12r3g12r3~x2/) — ΔT 1.85
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr3lo3dr4dr2lo18dr1lo2dr2~x4/"><circle cx="447.4" cy="162.7" r="4" fill="#3465a4"><title>Loughheed (Personal)</title></circle></a><a href="/setts/s6/lo4k6lo1k1lo16k2~x2/"><circle cx="447.2" cy="190.8" r="4" fill="#3465a4"><title>Monoch Airline</title></circle></a><a href="/setts/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/"><circle cx="477.0" cy="189.2" r="4" fill="#3465a4"><title>Yellow Pencil (Corporate)</title></circle></a><a href="/setts/s10/lo3k2lo4k5lo24k5lo4k2lo3k2~x2/"><circle cx="447.5" cy="171.8" r="4" fill="#3465a4"><title>Schranz-Gritte</title></circle></a><a href="/setts/s8/dy31w5dy2w5dy4w3dy2w7~x2/"><circle cx="425.9" cy="171.0" r="4" fill="#3465a4"><title>Menzies Brown &amp; White</title></circle></a><a href="/setts/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="424.9" cy="183.8" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="415.5" cy="194.9" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36g1w4~x2/"><circle cx="434.6" cy="138.2" r="4" fill="#3465a4"><title>Fitzgerald/Baluchistan</title></circle></a><a href="/setts/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/"><circle cx="409.5" cy="187.9" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/setts/s7/r6w2r30g12r3g12r3~x2/"><circle cx="411.3" cy="198.3" r="4" fill="#3465a4"><title>Crawford</title></circle></a><circle cx="438.8" cy="170.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/dy48ly9dy6ly9dy12ly4dy2ly16~x2/

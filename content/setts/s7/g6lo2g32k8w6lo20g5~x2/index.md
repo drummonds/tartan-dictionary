@@ -1,0 +1,58 @@
+---
+title: "Pollock (Name)"
+date: 2023-03-18
+---
+**Bands:** [GYGKWYG](/stripes/gygkwyg/) · **Stripes:** [G LO G K W LO G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LO G K W LO G</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/867/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Pollock](/setts/s7/g3lo16w4k6g28lo1g3~x4/)
+
+
+## Thread count
+G/12 O4 G64 K16 W12 O40 G/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> `#408060` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| O | <code style="background-color:#EC8048;"><span style="color:#EC8048;filter:grayscale(1) invert(1) contrast(100);">#EC8048</span></code> `#EC8048` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/12 O4 G64 K16 W12 O40 G/10 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pollock](/setts/s7/g3lo16w4k6g28lo1g3~x4/) — ΔT 0.98
+1. [Tilburg Hunting (District)](/setts/s7/b6k3b37ly41w3ly6w3~x2/) — ΔT 1.13
+1. [Tiree Grey](/setts/s6/lb3k3lb3k3o15r1~x4/) — ΔT 1.16
+1. [Unidentified (ex Tony Murray)](/setts/s7/lb2k2lb2lo36k15lb10r2~x2/) — ΔT 1.25
+1. [Thomson Camel (Jedburgh Mill)](/setts/s6/r4k2lb10k10y28k3~x2/) — ΔT 1.28
+1. [O'Neill Pipe Band 1970 (Corporate)](/setts/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/) — ΔT 1.30
+1. [Merrick, Camel](/setts/s7/lb1k1lb1o18k8lb5r1~x4/) — ΔT 1.32
+1. [Braemar or Blair Atholl Trade Tartan Tartan Number: 1741. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dy1w2k5dy3k1lo5k1lo11k1lo1~x4/) — ΔT 1.33
+1. [Invertere](/setts/s8/ly5dg14o4db4o27dg3o4ly5~x2/) — ΔT 1.34
+1. [Burns Battalion (Fashion)](/setts/s10/dy22b2dy3ly4dy3b2dy12b4w19dy3~x2/) — ΔT 1.34
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="337.8" cy="145.2" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.4" cy="161.4" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s6/lb3k3lb3k3o15r1~x4/"><circle cx="291.7" cy="171.0" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/setts/s7/lb2k2lb2lo36k15lb10r2~x2/"><circle cx="292.6" cy="137.9" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/setts/s6/r4k2lb10k10y28k3~x2/"><circle cx="261.4" cy="177.0" r="4" fill="#3465a4"><title>Thomson Camel (Jedburgh Mill)</title></circle></a><a href="/setts/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="304.6" cy="191.6" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/setts/s7/lb1k1lb1o18k8lb5r1~x4/"><circle cx="295.7" cy="142.9" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/setts/s10/dy1w2k5dy3k1lo5k1lo11k1lo1~x4/"><circle cx="276.9" cy="162.3" r="4" fill="#3465a4"><title>Braemar or Blair Atholl Trade Tartan Tartan Number: 1741. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/ly5dg14o4db4o27dg3o4ly5~x2/"><circle cx="271.3" cy="189.0" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/setts/s10/dy22b2dy3ly4dy3b2dy12b4w19dy3~x2/"><circle cx="282.5" cy="154.5" r="4" fill="#3465a4"><title>Burns Battalion (Fashion)</title></circle></a><circle cx="294.2" cy="174.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/g6lo2g32k8w6lo20g5~x2/

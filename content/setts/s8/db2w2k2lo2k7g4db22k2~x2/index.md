@@ -1,0 +1,67 @@
+---
+title: "Glasgow, University of"
+date: 2023-03-18
+---
+**Bands:** [BWKYKGBK](/stripes/bwkykgbk/) · **Stripes:** [DB W K LO K G DB K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W K LO K G DB K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1360
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Glasgow, University of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1360))
+- Nov. 1999 — Glasgow, University of (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2680/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1360](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1360)
+- Scottish Tartans Authority (ITI): 2680
+- Scottish Tartans World Register: 2680
+
+## Thread count
+DB/4 LN4 K4 DY4 K14 G8 DB44 K/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/4 LN4 K4 DY4 K14 G8 DB44 K/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Burt #2 (Name)](/setts/s9/db8w2k8g12r2db3r2db24r2~x2/) — ΔT 0.77
+1. [St. Andrews University (Corporate)](/setts/s10/db6ly3k2ly5db30g2k4g2db6db4~x2/) — ΔT 0.80
+1. [Isle of Harris](/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/) — ΔT 0.95
+1. [Reese (Personal)](/setts/s6/r4g2r2k5dt22w2~x4/) — ΔT 1.04
+1. [Glasgow, University of](/setts/s8/db2w2k2y2k7g4db22k2~x2/) — ΔT 1.04
+1. [Chestico](/setts/s7/db20dy1db1dy1dg8k1w3~x2/) — ΔT 1.12
+1. [Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db2w2k2lo2k7g4db22k2db22g4k7lo2k2w2~x2/) — ΔT 1.14
+1. [MacBeth (Fashion)](/setts/s8/db42k6lo2k3lo2g10r7k2~x2/) — ΔT 1.17
+1. [City of Rome Pipe Band (Corporate)](/setts/s7/r12lo6k88db45k6db6ly6/) — ΔT 1.17
+1. [Royal Scottish Corporation](/setts/s9/ly2db3r3db28db3db3db12r3w2~x2/) — ΔT 1.20
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="288.0" cy="171.7" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/setts/s10/db6ly3k2ly5db30g2k4g2db6db4~x2/"><circle cx="301.0" cy="139.8" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.8" cy="172.0" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/setts/s6/r4g2r2k5dt22w2~x4/"><circle cx="322.5" cy="177.0" r="4" fill="#3465a4"><title>Reese (Personal)</title></circle></a><a href="/setts/s8/db2w2k2y2k7g4db22k2~x2/"><circle cx="276.2" cy="154.6" r="4" fill="#3465a4"><title>Glasgow, University of</title></circle></a><a href="/setts/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="353.2" cy="144.8" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/setts/s14/db2w2k2lo2k7g4db22k2db22g4k7lo2k2w2~x2/"><circle cx="288.0" cy="144.8" r="4" fill="#3465a4"><title>Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db42k6lo2k3lo2g10r7k2~x2/"><circle cx="343.2" cy="139.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/setts/s7/r12lo6k88db45k6db6ly6/"><circle cx="336.7" cy="167.3" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/setts/s9/ly2db3r3db28db3db3db12r3w2~x2/"><circle cx="341.7" cy="156.1" r="4" fill="#3465a4"><title>Royal Scottish Corporation</title></circle></a><circle cx="303.1" cy="166.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/db2w2k2lo2k7g4db22k2~x2/

@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Curnow of Kernow](/clan/curnow/kernow/)
+- [Curnow of Kernow](/families/curnow-of-kernow/)
 

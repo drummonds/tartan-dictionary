@@ -1,0 +1,26 @@
+---
+title: "Families & clans — I"
+date: 2023-03-18
+background: /bg/clans.png
+---
+13 clans and families beginning with I. [Back to the A–Z](/families/).
+
+## In
+
+- [Inches](/clan/inches/) — clan
+- [Inches of Perth](/families/inches-of-perth/)
+- [Inman](/setts/s7/r2dg24k2dg12lo6k1r2~x2/)
+- [Innes](/clan/innes/) — clan
+- [Innes of Cowie](/families/innes-of-cowie/)
+- [Innes of Learney](/families/innes-of-learney/)
+- [Innes of Learney Htg](/families/innes-of-learney-htg/)
+
+## Ir
+
+- [Irvine](/clan/irvine/) — clan
+- [Irvine of Drum](/families/irvine-of-drum/)
+- [Irving](/clan/irving/) — clan
+- [Irving of Bonshaw](/families/irving-of-bonshaw/)
+- [Irving of Bonshaw Tower](/families/irving-of-bonshaw-tower/)
+- [Irving of Glentulchan](/families/irving-of-glentulchan/)
+

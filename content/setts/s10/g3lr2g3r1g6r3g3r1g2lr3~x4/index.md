@@ -1,0 +1,53 @@
+---
+title: "Dundee, Green (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [GYGRGRGRGY](/stripes/gygrgrgrgy/) · **Stripes:** [G LR G R G R G R G LR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">G LR G R G R G R G LR</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2065/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Dundee Green](/setts/s10/g3lr2g3r1g6r3g3r1g3lr2~x4/)
+
+
+## Thread count
+G/12 N8 G12 DR4 G24 DR12 G12 DR4 G8 N/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dundee Green](/setts/s10/g3lr2g3r1g6r3g3r1g3lr2~x4/) — ΔT 0.52
+1. [Dundee, Green](/setts/s10/g3w2g3r1g6r3g3r1g2w3~x2/) — ΔT 1.11
+1. [Unnamed 7](/setts/s9/g2r3g4ly1g1w1g4r3g2~x2/) — ΔT 1.42
+1. [Wilson's, No 169](/setts/s9/g5r9g10ly2g2w2g10r9g5~x2/) — ΔT 1.43
+1. [Leeds University Corporate Tartan Tartan Number: 980. Earliest known date: pre 2003 Leeds University Scottish Country Dance Club. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g9m2g2m2g2m8g11w2~x4/) — ΔT 1.49
+1. [Bean Hunting](/setts/s7/db6r15g41r15db20g41t6/) — ΔT 1.61
+1. [Unidentified #33](/setts/s9/dg2r3dg4ly1dg1w1dg4r3dg2~x2/) — ΔT 1.66
+1. [Twisted Kilt Society](/setts/s10/dg7lr3dg1lr2dg1lr3dg6lr1lo1lr2~x8/) — ΔT 1.67
+1. [Unidentified 24](/setts/s7/ly1r3g7r3g7r3ly1~x4/) — ΔT 1.70
+1. [Meath County Crest (Fashion)](/setts/s6/lo21g28db24g72w16g20/) — ΔT 1.70
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g3lr2g3r1g6r3g3r1g3lr2~x4/"><circle cx="336.0" cy="273.7" r="4" fill="#3465a4"><title>Dundee Green</title></circle></a><a href="/setts/s10/g3w2g3r1g6r3g3r1g2w3~x2/"><circle cx="280.5" cy="252.6" r="4" fill="#3465a4"><title>Dundee, Green</title></circle></a><a href="/setts/s9/g2r3g4ly1g1w1g4r3g2~x2/"><circle cx="267.2" cy="262.9" r="4" fill="#3465a4"><title>Unnamed 7</title></circle></a><a href="/setts/s9/g5r9g10ly2g2w2g10r9g5~x2/"><circle cx="275.9" cy="247.3" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/setts/s8/g9m2g2m2g2m8g11w2~x4/"><circle cx="350.5" cy="250.2" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan Tartan Number: 980. Earliest known date: pre 2003 Leeds University Scottish Country Dance Club. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db6r15g41r15db20g41t6/"><circle cx="284.4" cy="246.6" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/setts/s9/dg2r3dg4ly1dg1w1dg4r3dg2~x2/"><circle cx="260.2" cy="257.2" r="4" fill="#3465a4"><title>Unidentified #33</title></circle></a><a href="/setts/s10/dg7lr3dg1lr2dg1lr3dg6lr1lo1lr2~x8/"><circle cx="296.7" cy="225.5" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><a href="/setts/s7/ly1r3g7r3g7r3ly1~x4/"><circle cx="308.4" cy="250.4" r="4" fill="#3465a4"><title>Unidentified 24</title></circle></a><a href="/setts/s6/lo21g28db24g72w16g20/"><circle cx="307.7" cy="269.8" r="4" fill="#3465a4"><title>Meath County Crest (Fashion)</title></circle></a><circle cx="304.2" cy="268.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/g3lr2g3r1g6r3g3r1g2lr3~x4/

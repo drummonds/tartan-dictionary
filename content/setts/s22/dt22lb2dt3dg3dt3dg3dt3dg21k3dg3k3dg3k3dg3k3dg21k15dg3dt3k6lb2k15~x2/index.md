@@ -1,0 +1,47 @@
+---
+title: "Wilson-Blyth Name Tartan Tartan Number: 11127. Earliest known date: 23/08/2014 The Wilson-Blyth tartan takes the set of the Clan Wilson tartan and uses the colours of the Clan Blyth (Tweedside District) tartan. It was designed for the marriage of Prof. Nancy J Devlin (nee Wilson) to Mr David R Blyth, in Rushden, Hertfordshire on 23rd August 2014, wherein both will take the new name Wilson-Blyth. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BWBGBGBGKGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgkgbkwk/) · **Stripes:** [DT LB DT DG DT DG DT DG K DG K DG K DG K DG K DG DT K LB K](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">DT LB DT DG DT DG DT DG K DG K DG K DG K DG K DG DT K LB K</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [22 band tartan](/bands/bands22/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11127
+
+## Thread count
+DB/44 LR4 DB6 DG6 DB6 DG6 DB6 DG42 K6 DG6 K6 DG6 K6 DG6 K6 DG42 K30 DG6 DB6 K12 LR4 K/30
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LR | <code style="background-color:#E8CCB8;"><span style="color:#E8CCB8;filter:grayscale(1) invert(1) contrast(100);">#E8CCB8</span></code> `#E8CCB8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.12 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wilson-Blyth](/setts/s22/db22lb2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6lb2k15~x2/) — ΔT 0.64
+1. [Wilson-Blyth](/setts/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/) — ΔT 0.88
+1. [Riddoch](/setts/s14/db8k1db1k1db1k8r1dg14r1k8db8db1k1db1~x4/) — ΔT 1.39
+1. [Blackwater (Personal)](/setts/s20/k4g2k7n2k4g17n2g17k4n2k7g2k4n4g2n16g2n16g2n4~x2/) — ΔT 1.54
+1. [Herron of Ulster (Personal)](/setts/s16/dg1k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1~x4/) — ΔT 1.59
+1. [Grampian](/setts/s14/y24r2y3db14dt24r2dt3db3dt3r2dt24db14y3r2~x2/) — ΔT 1.59
+1. [Rogers (Personal)](/setts/s15/db8k1db2k1db2k6dg8k1t2k1dg8k6db8k1db2~x4/) — ΔT 1.65
+1. [Loudoun's Highlanders - 1747 #2 (Mil](/setts/s13/db24k2db2k2db2k20dg20ly3dg20k20db24k2r4~x2/) — ΔT 1.69
+1. [Cowal Highland Games Corporate Tartan Tartan Number: 2536. Earliest known date: 1994 The Cowal Highland Gathering takes place on the last weekend of August each year in Dunoon, Argyllshire, on the Firth of Clyde and is the largest, most spectacular Highland Games in the world with thousands of dancers, pipers, drummers and athletes attending from all over the world. In 1994, the centenary year of the Gathering, this soft muted tartan in blues and greens was designed. Only available from Bells of Dunoon - michael.boyce@telco4u.net (Sept. 2004) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/dt9dt8y1dt1y1dt1y8dg2y8dt1y1dt1y1dt8dt9n1~x4/) — ΔT 1.71
+1. [Metropolitan Atlanta Police](/setts/s13/r2k2k21k8dg16k3dg16k8k3k3k21k2r2~x2/) — ΔT 1.76
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db22lb2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6lb2k15~x2/"><circle cx="308.6" cy="207.1" r="4" fill="#3465a4"><title>Wilson-Blyth</title></circle></a><a href="/setts/s20/db22w2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg21k15dg3db3k6w2k15~x2/"><circle cx="272.5" cy="192.3" r="4" fill="#3465a4"><title>Wilson-Blyth</title></circle></a><a href="/setts/s14/db8k1db1k1db1k8r1dg14r1k8db8db1k1db1~x4/"><circle cx="291.5" cy="198.1" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/setts/s20/k4g2k7n2k4g17n2g17k4n2k7g2k4n4g2n16g2n16g2n4~x2/"><circle cx="283.9" cy="231.2" r="4" fill="#3465a4"><title>Blackwater (Personal)</title></circle></a><a href="/setts/s16/dg1k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1~x4/"><circle cx="314.6" cy="206.3" r="4" fill="#3465a4"><title>Herron of Ulster (Personal)</title></circle></a><a href="/setts/s14/y24r2y3db14dt24r2dt3db3dt3r2dt24db14y3r2~x2/"><circle cx="301.6" cy="199.3" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1t2k1dg8k6db8k1db2~x4/"><circle cx="285.9" cy="256.2" r="4" fill="#3465a4"><title>Rogers (Personal)</title></circle></a><a href="/setts/s13/db24k2db2k2db2k20dg20ly3dg20k20db24k2r4~x2/"><circle cx="257.9" cy="213.5" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #2 (Mil</title></circle></a><a href="/setts/s16/dt9dt8y1dt1y1dt1y8dg2y8dt1y1dt1y1dt8dt9n1~x4/"><circle cx="253.0" cy="216.3" r="4" fill="#3465a4"><title>Cowal Highland Games Corporate Tartan Tartan Number: 2536. Earliest known date: 1994 The Cowal Highland Gathering takes place on the last weekend of August each year in Dunoon, Argyllshire, on the Firth of Clyde and is the largest, most spectacular Highland Games in the world with thousands of dancers, pipers, drummers and athletes attending from all over the world. In 1994, the centenary year of the Gathering, this soft muted tartan in blues and greens was designed. Only available from Bells of Dunoon - michael.boyce@telco4u.net (Sept. 2004) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r2k2k21k8dg16k3dg16k8k3k3k21k2r2~x2/"><circle cx="340.1" cy="251.0" r="4" fill="#3465a4"><title>Metropolitan Atlanta Police</title></circle></a><circle cx="295.4" cy="199.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s22/dt22lb2dt3dg3dt3dg3dt3dg21k3dg3k3dg3k3dg3k3dg21k15dg3dt3k6lb2k15~x2/

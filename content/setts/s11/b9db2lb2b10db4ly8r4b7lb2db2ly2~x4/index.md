@@ -1,0 +1,48 @@
+---
+title: "Healy (Name)"
+date: 2023-03-18
+---
+**Bands:** [BBWBBYRBWBY](/stripes/bbwbbyrbwby/) · **Stripes:** [B DB LB B DB LY R B LB DB LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">B DB LB B DB LY R B LB DB LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/6236/
+
+## Thread count
+B/36 DB8 LB8 B40 DB16 Y32 R16 B28 LB8 DB8 Y/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> `#1870A4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kremlin Zoria](/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/) — ΔT 1.08
+1. [Unidentified #47](/setts/s10/db10t5lo2t2lb2t5o4t2o4lb2~x4/) — ΔT 1.28
+1. [Healy (Suspect)](/setts/s20/db2lb2b7r4ly8db4b10lb2db2b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/) — ΔT 1.28
+1. [Hyndman (Name)](/setts/s14/b4r2b3r4b8g4ly2g2k2b6r4b2r2w2~x4/) — ΔT 1.36
+1. [City of Pointe-Claire](/setts/s10/b4w1o1k2b4o2w1o1w1o1~x4/) — ΔT 1.41
+1. [U.S. Postal Service](/setts/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/) — ΔT 1.42
+1. [EAIE 2015](/setts/s10/b4g1b2g2lr6g2k3r1b8w1~x2/) — ΔT 1.47
+1. [Hirter Karo (Corporate)](/setts/s16/r3ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3~x2/) — ΔT 1.48
+1. [Thompson (Pendleton)](/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/) — ΔT 1.50
+1. [Glackin-McColgan (Personal)](/setts/s9/b16k11b24dg10ly3dg17b15k5r6~x2/) — ΔT 1.50
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/"><circle cx="128.3" cy="198.8" r="4" fill="#3465a4"><title>Kremlin Zoria</title></circle></a><a href="/setts/s10/db10t5lo2t2lb2t5o4t2o4lb2~x4/"><circle cx="96.6" cy="205.5" r="4" fill="#3465a4"><title>Unidentified #47</title></circle></a><a href="/setts/s20/db2lb2b7r4ly8db4b10lb2db2b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/"><circle cx="126.5" cy="178.3" r="4" fill="#3465a4"><title>Healy (Suspect)</title></circle></a><a href="/setts/s14/b4r2b3r4b8g4ly2g2k2b6r4b2r2w2~x4/"><circle cx="122.1" cy="199.3" r="4" fill="#3465a4"><title>Hyndman (Name)</title></circle></a><a href="/setts/s10/b4w1o1k2b4o2w1o1w1o1~x4/"><circle cx="130.8" cy="220.3" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/setts/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6/"><circle cx="125.6" cy="169.7" r="4" fill="#3465a4"><title>U.S. Postal Service</title></circle></a><a href="/setts/s10/b4g1b2g2lr6g2k3r1b8w1~x2/"><circle cx="140.7" cy="161.5" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/setts/s16/r3ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3~x2/"><circle cx="150.7" cy="171.1" r="4" fill="#3465a4"><title>Hirter Karo (Corporate)</title></circle></a><a href="/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/"><circle cx="170.8" cy="178.3" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/setts/s9/b16k11b24dg10ly3dg17b15k5r6~x2/"><circle cx="197.4" cy="223.6" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><circle cx="162.5" cy="205.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/

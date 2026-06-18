@@ -1,0 +1,57 @@
+---
+title: "Arran, Isle of (Lochcarron)"
+date: 2023-03-18
+---
+**Bands:** [BGBGBGBGBKRKRKRKRWRKRKRKRKBKBKBKRKRKRKRWRKRKRKRK](/stripes/bgbgbgbgbkrkrkrkrwrkrkrkrkbkbkbkrkrkrkrwrkrkrkrk/) · **Stripes:** [DP G DP G DP G DP G DP K R K R K R K R W R K R K R K R K N K N K N K R K R K R K R W R K R K R K R K](/stripes/stripes48/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DP G DP G DP G DP G DP K R K R K R K R W R K R K R K R K N K N K N K R K R K R K R W R K R K R K R K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [48 band tartan](/bands/bands48/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1865
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1865](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1865)
+- Scottish Tartans Authority (ITI): 4088
+
+## Thread count
+DP/4 G4 DP4 G4 DP80 G4 DP4 G4 DP4 K14 R2 K4 R4 K4 R4 K2 R6 W4 R6 K2 R4 K4 R4 K4 R2 K14 N20 K4 N8 K4 N20 K14 R2 K4 R4 K4 R4 K2 R6 W4 R6 K2 R4 K4 R4 K4 R2 K/14
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| R | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unnamed C18th - Hynde Cotton Plaid](/setts/s45/w2db1r3m7dg7r2db1r2dg7r41db40w2r4m4r1m1r1m4r4dg15r4m4r1m1r1m4r4w2k40r3dg36r5m5r1m5r5db38r40dg16w2r8m8r3m2r1~x2/) — ΔT 1.05
+1. [Canadian Confederation (Commemorat)](/setts/s38/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16/) — ΔT 1.54
+1. [Unidentified #52](/setts/s48/b18k6b36k34r1k6r4k4r6k2r7w3r7k2r6k4r4k6r1k34p10g8p8g10p96g10p8g8p10k34r1k6r4k4r6k2r7w3r7k2r6k4r4k6r1k34b36k6~x2/) — ΔT 1.66
+1. [Highland Mist Corporate Tartan Tartan Number: 4585. Earliest known date: 2002 Designed by Claire Donaldson of House of Edgar for Harrisons of Hamilton for their sole use in their retail outlet and kilt hire operation. Very difficult to match colours. The black shown here should be a very dark blue verging on black. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s45/dp2r1dp2g1dp3lo2dp1k28dt2dp2r1dp2g1dp2k1g2lo1g2dp1g3dt30r1dt2r1k2g2lo1g2dp1g3dt2dp2r1dp2g1dp3lo2dp1k2g2lo1g2dp1g3dt2~x2/) — ΔT 1.72
+1. [Unidentified Cant #13](/setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1t6g24w1r6db2r4db2r4db2r6m6db8m6r4db16m4~x2/) — ΔT 1.78
+1. [Leith (Hay)](/setts/s44/k14r4ly4k8r70dp8r3ly3r8dp64r3k63w3g64r8ly3r3g8r70k8ly4r4k14r4ly4k8r70g8r3ly3r8g64w3k63r3dp64r8ly3r3dp8r70k8ly4r4/) — ΔT 1.83
+1. [Hay & Leith #2](/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7r3ly2k7r60dt7r2ly2r7dt50r2k50w2g50r7ly2r2g7r60ly2r3/) — ΔT 1.85
+1. [Highland Mist](/setts/s45/dp2r1dp2g1dp3lo2dp1dt28dt2dp2r1dp2g1dp2dt1g2lo1g2dp1g3dt30r1dt2r1dt2g2lo1g2dp1g3dt2dp2r1dp2g1dp3lo2dp1dt2g2lo1g2dp1g3dt2~x2/) — ΔT 1.88
+1. [Isle of Arran (Lochcarron) (Fashion)](/setts/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3k2r3k1r2k2r2k2r1k7r10k2r4~x2/) — ΔT 1.89
+1. [Unidentified #5](/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/) — ΔT 1.90
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s45/w2db1r3m7dg7r2db1r2dg7r41db40w2r4m4r1m1r1m4r4dg15r4m4r1m1r1m4r4w2k40r3dg36r5m5r1m5r5db38r40dg16w2r8m8r3m2r1~x2/"><circle cx="192.8" cy="14.0" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Plaid</title></circle></a><a href="/setts/s38/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16/"><circle cx="198.9" cy="40.3" r="4" fill="#3465a4"><title>Canadian Confederation (Commemorat)</title></circle></a><a href="/setts/s48/b18k6b36k34r1k6r4k4r6k2r7w3r7k2r6k4r4k6r1k34p10g8p8g10p96g10p8g8p10k34r1k6r4k4r6k2r7w3r7k2r6k4r4k6r1k34b36k6~x2/"><circle cx="175.5" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #52</title></circle></a><a href="/setts/s45/dp2r1dp2g1dp3lo2dp1k28dt2dp2r1dp2g1dp2k1g2lo1g2dp1g3dt30r1dt2r1k2g2lo1g2dp1g3dt2dp2r1dp2g1dp3lo2dp1k2g2lo1g2dp1g3dt2~x2/"><circle cx="179.7" cy="14.0" r="4" fill="#3465a4"><title>Highland Mist Corporate Tartan Tartan Number: 4585. Earliest known date: 2002 Designed by Claire Donaldson of House of Edgar for Harrisons of Hamilton for their sole use in their retail outlet and kilt hire operation. Very difficult to match colours. The black shown here should be a very dark blue verging on black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1t6g24w1r6db2r4db2r4db2r6m6db8m6r4db16m4~x2/"><circle cx="207.9" cy="25.8" r="4" fill="#3465a4"><title>Unidentified Cant #13</title></circle></a><a href="/setts/s44/k14r4ly4k8r70dp8r3ly3r8dp64r3k63w3g64r8ly3r3g8r70k8ly4r4k14r4ly4k8r70g8r3ly3r8g64w3k63r3dp64r8ly3r3dp8r70k8ly4r4/"><circle cx="191.5" cy="21.5" r="4" fill="#3465a4"><title>Leith (Hay)</title></circle></a><a href="/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7r3ly2k7r60dt7r2ly2r7dt50r2k50w2g50r7ly2r2g7r60ly2r3/"><circle cx="219.7" cy="15.8" r="4" fill="#3465a4"><title>Hay &amp; Leith #2</title></circle></a><a href="/setts/s45/dp2r1dp2g1dp3lo2dp1dt28dt2dp2r1dp2g1dp2dt1g2lo1g2dp1g3dt30r1dt2r1dt2g2lo1g2dp1g3dt2dp2r1dp2g1dp3lo2dp1dt2g2lo1g2dp1g3dt2~x2/"><circle cx="203.2" cy="22.4" r="4" fill="#3465a4"><title>Highland Mist</title></circle></a><a href="/setts/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3k2r3k1r2k2r2k2r1k7r10k2r4~x2/"><circle cx="283.0" cy="26.8" r="4" fill="#3465a4"><title>Isle of Arran (Lochcarron) (Fashion)</title></circle></a><a href="/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/"><circle cx="244.9" cy="28.7" r="4" fill="#3465a4"><title>Unidentified #5</title></circle></a><circle cx="192.9" cy="14.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s48/k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4k2n10k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7dp2g2dp2g2dp40g2dp2g2dp2~x2/

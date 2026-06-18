@@ -1,0 +1,47 @@
+---
+title: "Scruffy Wallace"
+date: 2023-03-18
+---
+**Bands:** [WKGYKYKYKY](/stripes/wkgykykyky/) · **Stripes:** [W K G LG K LG K LG K LG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W K G LG K LG K LG K LG</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10407/
+
+## Thread count
+B/6 K60 B6 K6 B6 K6 B16 G24 K3 W/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#48A4C0;"><span style="color:#48A4C0;filter:grayscale(1) invert(1) contrast(100);">#48A4C0</span></code> `#48A4C0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.29 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scruffy Wallace](/setts/s10/t6k74t6k6t6k6t20lg30k3w6/) — ΔT 0.71
+1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/) — ΔT 0.88
+1. [Henry, David G (Personal)](/setts/s10/lo2w1db4w1db1lo1dg12lo1dg2lo1~x4/) — ΔT 0.94
+1. [McKirgan/Mackirgan](/setts/s11/g2db2w1r2w1db3g1db12g18w1r2~x2/) — ΔT 1.00
+1. [Gordon, dress 1](/setts/s9/ly4k4g12k37w4k4w16k2w4~x2/) — ΔT 1.03
+1. [Hudson Hunting (Personal)](/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/) — ΔT 1.05
+1. [Ewbank](/setts/s9/r3b14ly2k2b14k36ly2k2ly2~x2/) — ΔT 1.12
+1. [Skye (Fashion)](/setts/s10/n50k12o2k2w2k2o12n7k7w2~x2/) — ΔT 1.18
+1. [Bruichladdich (Corporate)](/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/) — ΔT 1.18
+1. [Walker, Gauvin (Personal)](/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/t6k74t6k6t6k6t20lg30k3w6/"><circle cx="306.0" cy="119.6" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/"><circle cx="276.4" cy="136.2" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/setts/s10/lo2w1db4w1db1lo1dg12lo1dg2lo1~x4/"><circle cx="275.1" cy="147.9" r="4" fill="#3465a4"><title>Henry, David G (Personal)</title></circle></a><a href="/setts/s11/g2db2w1r2w1db3g1db12g18w1r2~x2/"><circle cx="269.9" cy="132.6" r="4" fill="#3465a4"><title>McKirgan/Mackirgan</title></circle></a><a href="/setts/s9/ly4k4g12k37w4k4w16k2w4~x2/"><circle cx="271.0" cy="137.9" r="4" fill="#3465a4"><title>Gordon, dress 1</title></circle></a><a href="/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/"><circle cx="261.1" cy="154.8" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/setts/s9/r3b14ly2k2b14k36ly2k2ly2~x2/"><circle cx="308.9" cy="143.3" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/setts/s10/n50k12o2k2w2k2o12n7k7w2~x2/"><circle cx="344.8" cy="117.4" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/"><circle cx="320.4" cy="124.1" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/"><circle cx="260.9" cy="97.3" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><circle cx="286.7" cy="133.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/lg6k60lg6k6lg6k6lg16g24k3w6/

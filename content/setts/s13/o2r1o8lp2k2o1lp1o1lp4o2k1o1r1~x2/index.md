@@ -1,0 +1,47 @@
+---
+title: "Balmoral Royal Tartan Tartan Number: 1302. Earliest known date: 1860 The Balmoral tartan is not produced as an article of commerce. D.W.Stewart wrote in his book, 'Old and Rare Scottish Tartans' (1893), \"Her Majesty the Queen has not only granted permission for its publication here, but has also graciously afforded information concerning its inception in the early years of the reign, when the sett was designed by the Prince Consort.\" The grey threads are flecked to give an impression of granite. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [RRKRWRWRKWRRR](/stripes/rrkrwrwrkwrrr/) · **Stripes:** [R O K O LP O LP O K LP O R O](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O K O LP O LP O K LP O R O</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1302
+
+## Thread count
+N/4 R2 N16 LP4 K4 N2 LP2 N2 LP8 N4 K2 N2 R/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LP | <code style="background-color:#C49CD8;"><span style="color:#C49CD8;filter:grayscale(1) invert(1) contrast(100);">#C49CD8</span></code> `#C49CD8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.25 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Balmoral (Lavender) (Royal)](/setts/s13/o2r1o8m2k2o1m1o1m4o2k1o1r1~x4/) — ΔT 0.91
+1. [Balmoral](/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/) — ΔT 1.04
+1. [Balmoral (Royal)](/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/) — ΔT 1.30
+1. [Miyuki, House Check Grey, 1003A](/setts/s18/n12lb14r3y6lb10n28lb10y6r3lb8y10lb8r3y6lb40n6lb6n6/) — ΔT 1.31
+1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/) — ΔT 1.33
+1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/) — ΔT 1.33
+1. [Scotch House (Corporate)](/setts/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/) — ΔT 1.44
+1. [Qatar Airways](/setts/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/) — ΔT 1.46
+1. [Miyuki #3](/setts/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6/) — ΔT 1.49
+1. [Balmoral (Green) (Royal)](/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/) — ΔT 1.49
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/o2r1o8m2k2o1m1o1m4o2k1o1r1~x4/"><circle cx="312.6" cy="192.0" r="4" fill="#3465a4"><title>Balmoral (Lavender) (Royal)</title></circle></a><a href="/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/"><circle cx="261.1" cy="165.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="250.4" cy="159.9" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/setts/s18/n12lb14r3y6lb10n28lb10y6r3lb8y10lb8r3y6lb40n6lb6n6/"><circle cx="275.8" cy="146.5" r="4" fill="#3465a4"><title>Miyuki, House Check Grey, 1003A</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/"><circle cx="242.7" cy="137.5" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><a href="/setts/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/"><circle cx="307.8" cy="176.9" r="4" fill="#3465a4"><title>Qatar Airways</title></circle></a><a href="/setts/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6/"><circle cx="291.4" cy="154.1" r="4" fill="#3465a4"><title>Miyuki #3</title></circle></a><a href="/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="248.0" cy="163.3" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><circle cx="288.6" cy="177.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/o2r1o8lp2k2o1lp1o1lp4o2k1o1r1~x2/

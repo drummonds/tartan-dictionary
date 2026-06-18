@@ -1,0 +1,56 @@
+---
+title: "Drummond of Megginch - Child's Kilt (c.1890)"
+date: 2023-03-18
+---
+**Bands:** [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/) · **Stripes:** [R DB R DB R LB R DB R DG R DG R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB R LB R DB R DG R DG R DB R</span></span>
+
+
+This was sourced from research.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://tartandictionary.org/posts/drummondsofmegginch/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Drummond of Megginch - 1820 Plaid](/setts/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/)
+- [Drummond of Megginch - 1849 Kilt](/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/)
+- [Drummond of Megginch - 1969 Carpet](/setts/s15/r12db3r4db4r36lb6r4db18r4dg2r4dg36r4db4r8/)
+
+
+## Thread count
+R/12 DB2 R4 DB4 R28 LB4 R4 DB8 R4 G4 R4 G24 R6 DB4 R/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000064;"><span style="color:#000064;filter:grayscale(1) invert(1) contrast(100);">#000064</span></code> `#000064` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacLeod and MacNicol](/setts/s12/r8dg1r8dg16r4k2t1k4r8dg1r8k1~x2/) — ΔT 0.78
+1. [Unidentified (Scolpaig)](/setts/s18/k10t1k1r10t1k1t1r10g6r2g6r10t1k1t1r10k1t1~x4/) — ΔT 0.84
+1. [Unidentified No 3 #2](/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/) — ΔT 0.85
+1. [Grant](/setts/s15/r16k6r6dg46r6dg5r6k12r6t6r48k6r6k6r16/) — ΔT 0.89
+1. [Cameron of Locheil](/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/) — ΔT 0.89
+1. [Leslie Red (VS)](/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/) — ΔT 0.94
+1. [Grant D](/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/) — ΔT 1.01
+1. [Dobrain (Personal)](/setts/s10/r24o2r4n2k6o2r14k3o4n8~x2/) — ΔT 1.01
+1. [Cameron of Locheil](/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/) — ΔT 1.02
+1. [MacKinnon #12](/setts/s14/w2r4dg2db2r6dg4r2db5dg2r20dg7w2r4w2~x2/) — ΔT 1.02
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r8dg1r8dg16r4k2t1k4r8dg1r8k1~x2/"><circle cx="333.8" cy="152.0" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/setts/s18/k10t1k1r10t1k1t1r10g6r2g6r10t1k1t1r10k1t1~x4/"><circle cx="295.8" cy="143.3" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/"><circle cx="296.5" cy="128.1" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/setts/s15/r16k6r6dg46r6dg5r6k12r6t6r48k6r6k6r16/"><circle cx="302.2" cy="144.1" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="337.9" cy="133.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/"><circle cx="315.6" cy="131.6" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/"><circle cx="320.2" cy="126.7" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s10/r24o2r4n2k6o2r14k3o4n8~x2/"><circle cx="334.0" cy="155.3" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="344.5" cy="140.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s14/w2r4dg2db2r6dg4r2db5dg2r20dg7w2r4w2~x2/"><circle cx="292.7" cy="141.5" r="4" fill="#3465a4"><title>MacKinnon #12</title></circle></a><circle cx="327.1" cy="141.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/

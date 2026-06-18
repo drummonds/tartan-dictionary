@@ -1,0 +1,70 @@
+---
+title: "MacAlister"
+date: 2023-03-18
+---
+**Bands:** [BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR](/stripes/brwrggrggrwrbrwrbrgrbrbrgrbrwrgrbrwrbrggr/) · **Stripes:** [DB R W R DG G R G DG R W R DB R W R T R DG R T R T R DG R T R W R DG R T R W R T R DG G R](/stripes/stripes41/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R W R DG G R G DG R W R DB R W R T R DG R T R T R DG R T R W R DG R T R W R T R DG G R</span></span>
+
+
+This was sourced from logan-1831.  It is a [41 band tartan](/bands/bands41/).
+
+Original link /posts/logans-scottish-gael/
+
+## Provenance
+
+James Logan recorded the **MacAlister** sett in 1831, on page 404 of the *Table of Clan Tartans* in *The Scottish Gaël* — the earliest systematic published collection of clan setts. Logan gives the stripe widths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
+
+> 4 red · ½ light green · 3 dark green · 1 red · 1 azure · 1 red · ½ white · 1 red · 1 azure · 1 red · 3 dark green · ½ red · ¼ white · 6 red · ¼ azure · ½ red · 11 dark green · ½ red · ½ azure · 16 red · ½ azure · ½ red · 11 dark green · ½ red · ½ azure · 5½ red · ½ white · ½ red · 4 blue · ½ red · ½ white · 2½ red · 3 dark green · ½ light green · 2 red · ½ light green · 3 dark green · ¾ red · ½ white · ½ red · 2½ blue
+
+In threads (at 8 to the eighth-inch) that is `R/32 LG4 DG24 R8 A8 R8 W4 R8 A8 R8 DG24 R4 W2 R48 A2 R4 DG88 R4 A4 R128 A4 R4 DG88 R4 A4 R44 W4 R4 B32 R4 W4 R20 DG24 LG4 R16 LG4 DG24 R6 W4 R4 B/20`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
+
+## Related setts
+
+Later records of the **MacAlister** name adjusted Logan's counts: [MacAlister (Logan 1831)](/setts/s41/r32g2ga12r4b4r4w2r4b4r4ga12r2w2r24b2r2ga44r2b2r64b2r2ga44r2b2r22w2r2ba16r2w2r10ga12g2r8g2ga12r3w2r2ba10~b3c82af-ba2c4084-g309c18-ga002814-rdc0000-we0e0e0~x2/); [MacAlister (Cockburn Collection 1810-20)](/setts/s23/r32g8r4g8r8b8r12ba1r1g18r1ba1r32ba1r1g18r1ba1r12g6r1ba1r4~b2c4084-ba3c82af-g005020-rdc0000~x2/); [MacAlister (Smith 1850)](/setts/s44/r8g1ga2r2b1r1w1r1b1r2ga3r1w1r6b1r1ga12r1b1r16b1r1ga12r1b1r6w1r1ba4r1w1r2ga3g1r2g1ga3r3w1r1ba2r1w1r8~b5c8ca8-ba2c2c80-g289c18-ga006818-rc80000-we0e0e0~x2/); [MacAlister (Gourlay Steele Collection)](/setts/s30/r12g3y1r2y1g3r3b3r6ba1r1g8r1ba1r12ba1r1g8r1ba1r6g2r1ba1r2ba1r1g3y1r4~b2c4084-ba3c82af-g005020-rdc0000-ye8c000~x4/). Compare their thread counts with Logan's above.
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [MacAlister (Logan 1831)](/setts/s41/r32g2dg12r4t4r4w2r4t4r4dg12r2w2r24t2r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/)
+
+
+## Thread count
+DB/20 R4 LN4 R6 DG24 G4 R16 G4 DG24 R20 LN4 R4 DB32 R4 LN4 R44 B4 R4 DG88 R4 B4 R128 B4 R4 DG88 R4 B2 R48 LN2 R4 DG24 R8 B8 R8 LN4 R8 B8 R8 DG24 G4 R/32
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacAlister (Logan 1831)](/setts/s41/r32g2dg12r4t4r4w2r4t4r4dg12r2w2r24t2r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/) — ΔT 0.91
+1. [MacFarhadian Canadian Personal Tartan Tartan Number: 6375. Earliest known date: 2003 During the design process, a version missing the white pivot was woven. A new piece was woven to replace the first but, in old Scots style, the original was put to good use. This tartan, therefore, has two versions extant. Designed to be woven with a 6 inch repeat and 2 thread stripes. Andre said, "I have designed a tartan around some of the major elements found in the tartans of her ancestors: Leitch; Munro; Wilson; Stuart.". See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s34/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2r3g5w1k3ly1dp1r3g16r3dp1ly1r3dp7r3ly1dp1~x2/) — ΔT 1.21
+1. [Hebrides, Inner #02](/setts/s46/r47db3r1db3r11dg4g4r5db2r1g4r1db2r5g4r4db8r1k2db4r1db4k2r23k2db4r1db4k2r1db8r4g4r5db2r1g4r1db2r5g4dg4r11db3r1db3~x2/) — ΔT 1.24
+1. [Hay & Leith #2](/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7r3ly2k7r60dt7r2ly2r7dt50r2k50w2g50r7ly2r2g7r60ly2r3/) — ΔT 1.25
+1. [Whitworth](/setts/s38/r5ly1r8w1db20w1t20w1g20ly1r5ly1r5ly1g20ly2r52w1ly5w1ly5w1r52ly2g20ly1r5ly1r5ly1g20w1t20w1db20w1r8ly1~x2/) — ΔT 1.29
+1. [Stuart/Stewart of Ardshiel](/setts/s34/t4k2r2r12dg66r4k2t2r6k34r6t2k2r65k3r2r6dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2/) — ΔT 1.30
+1. [Unidentified Plaid #8](/setts/s22/ly5dg49r12dg4r2dg12r2dg4r12dg24k29b15r24dg12r4dg2r12dg2r4dg12r99w5~x2/) — ΔT 1.41
+1. [MacDougall of MacDougall](/setts/s24/t2dp10r3r4dg72r7dg4r10db24dp6r5r4r5dp7dg24r24dg24r3db3r74dp7r5r6t2~x2/) — ΔT 1.57
+1. [MacDougall - 1970 (H of E)](/setts/s27/r5g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/) — ΔT 1.61
+1. [MacFarlane](/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/) — ΔT 1.62
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s41/r32g2dg12r4t4r4w2r4t4r4dg12r2w2r24t2r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/"><circle cx="276.3" cy="14.0" r="4" fill="#3465a4"><title>MacAlister (Logan 1831)</title></circle></a><a href="/setts/s34/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2r3g5w1k3ly1dp1r3g16r3dp1ly1r3dp7r3ly1dp1~x2/"><circle cx="333.0" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian Canadian Personal Tartan Tartan Number: 6375. Earliest known date: 2003 During the design process, a version missing the white pivot was woven. A new piece was woven to replace the first but, in old Scots style, the original was put to good use. This tartan, therefore, has two versions extant. Designed to be woven with a 6 inch repeat and 2 thread stripes. Andre said, &quot;I have designed a tartan around some of the major elements found in the tartans of her ancestors: Leitch; Munro; Wilson; Stuart.&quot;. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s46/r47db3r1db3r11dg4g4r5db2r1g4r1db2r5g4r4db8r1k2db4r1db4k2r23k2db4r1db4k2r1db8r4g4r5db2r1g4r1db2r5g4dg4r11db3r1db3~x2/"><circle cx="331.9" cy="14.0" r="4" fill="#3465a4"><title>Hebrides, Inner #02</title></circle></a><a href="/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7r3ly2k7r60dt7r2ly2r7dt50r2k50w2g50r7ly2r2g7r60ly2r3/"><circle cx="219.7" cy="15.8" r="4" fill="#3465a4"><title>Hay &amp; Leith #2</title></circle></a><a href="/setts/s38/r5ly1r8w1db20w1t20w1g20ly1r5ly1r5ly1g20ly2r52w1ly5w1ly5w1r52ly2g20ly1r5ly1r5ly1g20w1t20w1db20w1r8ly1~x2/"><circle cx="229.7" cy="14.0" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/setts/s34/t4k2r2r12dg66r4k2t2r6k34r6t2k2r65k3r2r6dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2/"><circle cx="271.0" cy="28.0" r="4" fill="#3465a4"><title>Stuart/Stewart of Ardshiel</title></circle></a><a href="/setts/s22/ly5dg49r12dg4r2dg12r2dg4r12dg24k29b15r24dg12r4dg2r12dg2r4dg12r99w5~x2/"><circle cx="300.0" cy="21.4" r="4" fill="#3465a4"><title>Unidentified Plaid #8</title></circle></a><a href="/setts/s24/t2dp10r3r4dg72r7dg4r10db24dp6r5r4r5dp7dg24r24dg24r3db3r74dp7r5r6t2~x2/"><circle cx="250.1" cy="36.3" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><a href="/setts/s27/r5g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/"><circle cx="308.3" cy="62.3" r="4" fill="#3465a4"><title>MacDougall - 1970 (H of E)</title></circle></a><a href="/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/"><circle cx="286.8" cy="24.4" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><circle cx="298.4" cy="14.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s41/r16g2dg12r4t4r4w2r4t4r4dg12r2w1r24t1r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/

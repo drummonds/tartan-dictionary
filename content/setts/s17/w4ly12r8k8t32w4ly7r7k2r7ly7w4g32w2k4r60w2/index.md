@@ -1,0 +1,57 @@
+---
+title: "Chattan Chief Clan Tartan Tartan Number: 1851. Earliest known date: 1816 Also known as Finzean's fancy. The record of the Lord Lyon states, 'Note - this tartan is specifically for the Chief of Clan Chattan and his immediate family.' Logan descibed this sett (without the chiefs extra white line) thus: 'The Chief also wears a particular tartan of a very showy pattern.' It is illustrated by Smith in 1850. Chief of the Clan Mackintosh Sir Aeneas Mackintosh of that Ilk, acknowledged this sett as the Clan tartan in 1816. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [WRKWGWYRKRYWBKRYW](/stripes/wrkwgwyrkrywbkryw/) · **Stripes:** [W R K W G W LY R K R LY W T K R LY W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K W G W LY R K R LY W T K R LY W</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [17 band tartan](/bands/bands17/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1851
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Chattan, Chief](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/)
+- [Chattan, Chief of Clan](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2~x2/)
+
+
+## Thread count
+LN/2 R60 K4 LN2 G32 LN4 Y7 R7 K2 R7 Y7 LN4 B32 K8 R8 Y12 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Chattan, Chief of Clan](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2~x2/) — ΔT 0.17
+1. [Chattan](/setts/s17/w4ly10r8k7y28w3ly6r5k2r5ly6w3g30w2k3r50w2~x2/) — ΔT 0.47
+1. [Chattan, Chief](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/) — ΔT 0.51
+1. [MacGlashan #3](/setts/s16/r20k3w2lo25w2ly5r4k2r4ly5w3t4k5r6w1t1~x2/) — ΔT 0.69
+1. [MacGlashan Clan Tartan Tartan Number: 656. Earliest known date: 1982 Author an historian, Dr Philip Smith, lives in the USA and provides up to date information of new designs of tartan produced in the Americas. MacGlashan is associated with Clan MacKintosh or Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/r25do3w2lo25w3ly5r4do2r4ly5w3db4do5r6w1db1~x2/) — ΔT 0.90
+1. [Puccini (Fashion)](/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/) — ΔT 0.99
+1. [Westwood](/setts/s18/r6t4dg16lo2k1w6k1lo30r15lo30k1w6k1lo2dg16t4r6w1~x2/) — ΔT 1.00
+1. [Mehrtens (Personal)](/setts/s16/w4dt4r18o4r1o36k1o4k6r2k6r6k2r6ly4r2~x2/) — ΔT 1.03
+1. [MacGill](/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/) — ΔT 1.04
+1. [Unidentified 9](/setts/s14/r35ly7w1dg3w1ly7dg19w2g17r12g5r5r5g2~x2/) — ΔT 1.08
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2~x2/"><circle cx="186.9" cy="40.6" r="4" fill="#3465a4"><title>Chattan, Chief of Clan</title></circle></a><a href="/setts/s17/w4ly10r8k7y28w3ly6r5k2r5ly6w3g30w2k3r50w2~x2/"><circle cx="170.7" cy="47.0" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/"><circle cx="172.3" cy="40.4" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/setts/s16/r20k3w2lo25w2ly5r4k2r4ly5w3t4k5r6w1t1~x2/"><circle cx="175.8" cy="58.8" r="4" fill="#3465a4"><title>MacGlashan #3</title></circle></a><a href="/setts/s16/r25do3w2lo25w3ly5r4do2r4ly5w3db4do5r6w1db1~x2/"><circle cx="200.3" cy="58.0" r="4" fill="#3465a4"><title>MacGlashan Clan Tartan Tartan Number: 656. Earliest known date: 1982 Author an historian, Dr Philip Smith, lives in the USA and provides up to date information of new designs of tartan produced in the Americas. MacGlashan is associated with Clan MacKintosh or Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/"><circle cx="173.7" cy="41.6" r="4" fill="#3465a4"><title>Puccini (Fashion)</title></circle></a><a href="/setts/s18/r6t4dg16lo2k1w6k1lo30r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="213.1" cy="62.6" r="4" fill="#3465a4"><title>Westwood</title></circle></a><a href="/setts/s16/w4dt4r18o4r1o36k1o4k6r2k6r6k2r6ly4r2~x2/"><circle cx="235.2" cy="45.3" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="220.1" cy="49.5" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s14/r35ly7w1dg3w1ly7dg19w2g17r12g5r5r5g2~x2/"><circle cx="214.3" cy="64.2" r="4" fill="#3465a4"><title>Unidentified 9</title></circle></a><circle cx="191.9" cy="43.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2/

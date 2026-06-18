@@ -1,0 +1,49 @@
+---
+title: "Unidentified (Tony Murray Collection"
+date: 2023-03-18
+---
+**Bands:** [RGYGKWYWWWW](/stripes/rgygkwywwww/) · **Stripes:** [R DG LY DG K LB LY LB W LB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG LY DG K LB LY LB W LB W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8841/
+
+## Thread count
+DR/8 G80 Y4 G4 K8 LB4 Y4 LB88 LN4 LB4 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wcwm 972-1](/setts/s13/lb7k1do1o2g18lb2k1lo2k1lb6k1do1lb1~x4/) — ΔT 1.11
+1. [Alexander-Johnstone (Personal)](/setts/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/) — ΔT 1.29
+1. [Mighty Men (Corporate)](/setts/s14/g20lr1lb2lr1lb2db4r1db1r1db1r1db1r2w2~x4/) — ΔT 1.35
+1. [McAleavy (2014)](/setts/s11/y56lr6w6ly2w2ly2w16lr10w2y6r3~x2/) — ΔT 1.36
+1. [Nor'Westers](/setts/s9/k1g30dy2ly4dy2w12r2b6k1~x2/) — ΔT 1.38
+1. [Downie Dress](/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/) — ΔT 1.41
+1. [Thomas McGurran](/setts/s15/db4w8lo3db1dg1w1dg32lo2w1dg1n8r1dg2n2w2~x2/) — ΔT 1.41
+1. [Nor Westers](/setts/s9/k1g23k1ly3k1w8r1t5k1~x2/) — ΔT 1.43
+1. [Fredericton #2](/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/) — ΔT 1.47
+1. [Stewart Victoria (Royal)](/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/) — ΔT 1.49
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb7k1do1o2g18lb2k1lo2k1lb6k1do1lb1~x4/"><circle cx="197.4" cy="81.0" r="4" fill="#3465a4"><title>Wcwm 972-1</title></circle></a><a href="/setts/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/"><circle cx="249.2" cy="79.6" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/setts/s14/g20lr1lb2lr1lb2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="253.0" cy="66.0" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/setts/s11/y56lr6w6ly2w2ly2w16lr10w2y6r3~x2/"><circle cx="293.6" cy="60.3" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/setts/s9/k1g30dy2ly4dy2w12r2b6k1~x2/"><circle cx="233.7" cy="62.9" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="167.1" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s15/db4w8lo3db1dg1w1dg32lo2w1dg1n8r1dg2n2w2~x2/"><circle cx="266.8" cy="39.8" r="4" fill="#3465a4"><title>Thomas McGurran</title></circle></a><a href="/setts/s9/k1g23k1ly3k1w8r1t5k1~x2/"><circle cx="242.3" cy="83.6" r="4" fill="#3465a4"><title>Nor Westers</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.2" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.6" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><circle cx="244.6" cy="68.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/r2dg20ly1dg1k2lb1ly1lb22w1lb1w1~x4/

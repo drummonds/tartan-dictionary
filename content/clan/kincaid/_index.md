@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Kincaid of Kincaid](/clan/kincaid/kincaid/)
+- [Kincaid of Kincaid](/families/kincaid-of-kincaid/)
 

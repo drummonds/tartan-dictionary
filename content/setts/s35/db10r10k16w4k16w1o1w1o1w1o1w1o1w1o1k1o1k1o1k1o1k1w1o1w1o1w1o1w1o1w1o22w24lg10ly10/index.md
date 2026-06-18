@@ -1,0 +1,57 @@
+---
+title: "All breeds Dairy Goats (Version 2)"
+date: 2023-03-18
+---
+**Bands:** [BRKWKWRWRWRWRWRKRKRKRKWRWRWRWRWRWYY](/stripes/brkwkwrwrwrwrwrkrkrkrkwrwrwrwrwrwyy/) · **Stripes:** [DB R K W K W O W O W O W O W O K O K O K O K W O W O W O W O W O W LG LY](/stripes/stripes35/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R K W K W O W O W O W O W O K O K O K O K W O W O W O W O W O W LG LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [35 band tartan](/bands/bands35/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5943
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5943](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5943)
+- Scottish Tartans World Register: 3163
+
+## Thread count
+B/10 R10 K16 LN4 K16 LN1 DO1 LN1 DO1 LN1 DO1 LN1 DO1 LN1 DO1 K1 DO1 K1 DO1 K1 DO1 K1 LN1 DO1 LN1 DO1 LN1 DO1 LN1 DO1 LN1 DO22 LN24 G10 Y/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| DO | <code style="background-color:#BE7832;"><span style="color:#BE7832;filter:grayscale(1) invert(1) contrast(100);">#BE7832</span></code> `#BE7832` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+| G | <code style="background-color:#00C814;"><span style="color:#00C814;filter:grayscale(1) invert(1) contrast(100);">#00C814</span></code> `#00C814` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.22 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [All Breeds Dairy Goats](/setts/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10/) — ΔT 0.89
+1. [All Breeds Dairy Goats (Corporate)](/setts/s36/db10r10k36w1lo1w1lo1w1lo1w1lo1w1lo1k1lo1k1lo1k1lo1k1lo1k1lo1w1lo1w1lo1w1lo1w1lo1w1lo26w26g10ly10~x2/) — ΔT 0.94
+1. [All Breeds Dairy Goats #2 (Corp)](/setts/s53/db10r10k16w4k16lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1k1lo1k1lo1k1lo1k1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo22w24g10ly10~x2/) — ΔT 1.01
+1. [Whiskey & Bourbon](/setts/s32/ly8k2w3k4y3k2lb6k2y3k4lb3t44k4y4k4dy5y5dy5y6dy5y5dy5k4dy5ly5dy5ly6dy5ly5dy5k4w6/) — ΔT 1.21
+1. [Whiskey & Bourbon (Corporate)](/setts/s32/ly8k2w3k4lo3k2t6k2lo3k4t3db44k4lo4k4dy5lo5dy5lo6dy5lo5dy5k4dy5ly5dy5ly6dy5ly5dy5k4w6/) — ΔT 1.38
+1. [Rosalyn](/setts/s22/b8k1r2k1b8k8r8k1ly2k1r8k8lo25k1ly8k1g2k1ly8k1g25k8~x2/) — ΔT 1.52
+1. [Anderson 2](/setts/s24/r4g6r1g2r3g2r1g6r3db2r1k2ly1k1ly1k2w2k2t18r1k1r1t3r2~x2/) — ΔT 1.55
+1. [Whisky](/setts/s20/ly10k2w3k6o4k2lb8k2o4k6lb3lr49lo4k42o42ly6o6ly6o6ly8/) — ΔT 1.60
+1. [Hunter (Wilsons1819)](/setts/s34/w2r8w2k15w2lb5w2dg20y2dg4y2dg20y3ly3r2w2r2ly3y3dg20w2r32w2dg20w2lb5w2y4k15w2lb5w2r8w2/) — ΔT 1.60
+1. [Ross, Wedding dress](/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4o3w1o3t4db4w1r36db3t2w1t2db3~x2/) — ΔT 1.64
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10/"><circle cx="100.7" cy="14.0" r="4" fill="#3465a4"><title>All Breeds Dairy Goats</title></circle></a><a href="/setts/s36/db10r10k36w1lo1w1lo1w1lo1w1lo1w1lo1k1lo1k1lo1k1lo1k1lo1k1lo1w1lo1w1lo1w1lo1w1lo1w1lo26w26g10ly10~x2/"><circle cx="104.0" cy="14.0" r="4" fill="#3465a4"><title>All Breeds Dairy Goats (Corporate)</title></circle></a><a href="/setts/s53/db10r10k16w4k16lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1k1lo1k1lo1k1lo1k1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo1w1lo22w24g10ly10~x2/"><circle cx="76.8" cy="14.0" r="4" fill="#3465a4"><title>All Breeds Dairy Goats #2 (Corp)</title></circle></a><a href="/setts/s32/ly8k2w3k4y3k2lb6k2y3k4lb3t44k4y4k4dy5y5dy5y6dy5y5dy5k4dy5ly5dy5ly6dy5ly5dy5k4w6/"><circle cx="50.0" cy="16.5" r="4" fill="#3465a4"><title>Whiskey &amp; Bourbon</title></circle></a><a href="/setts/s32/ly8k2w3k4lo3k2t6k2lo3k4t3db44k4lo4k4dy5lo5dy5lo6dy5lo5dy5k4dy5ly5dy5ly6dy5ly5dy5k4w6/"><circle cx="58.5" cy="20.5" r="4" fill="#3465a4"><title>Whiskey &amp; Bourbon (Corporate)</title></circle></a><a href="/setts/s22/b8k1r2k1b8k8r8k1ly2k1r8k8lo25k1ly8k1g2k1ly8k1g25k8~x2/"><circle cx="58.8" cy="33.8" r="4" fill="#3465a4"><title>Rosalyn</title></circle></a><a href="/setts/s24/r4g6r1g2r3g2r1g6r3db2r1k2ly1k1ly1k2w2k2t18r1k1r1t3r2~x2/"><circle cx="98.8" cy="41.3" r="4" fill="#3465a4"><title>Anderson 2</title></circle></a><a href="/setts/s20/ly10k2w3k6o4k2lb8k2o4k6lb3lr49lo4k42o42ly6o6ly6o6ly8/"><circle cx="113.7" cy="36.2" r="4" fill="#3465a4"><title>Whisky</title></circle></a><a href="/setts/s34/w2r8w2k15w2lb5w2dg20y2dg4y2dg20y3ly3r2w2r2ly3y3dg20w2r32w2dg20w2lb5w2y4k15w2lb5w2r8w2/"><circle cx="101.4" cy="32.1" r="4" fill="#3465a4"><title>Hunter (Wilsons1819)</title></circle></a><a href="/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4o3w1o3t4db4w1r36db3t2w1t2db3~x2/"><circle cx="157.5" cy="14.0" r="4" fill="#3465a4"><title>Ross, Wedding dress</title></circle></a><circle cx="70.1" cy="14.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s35/db10r10k16w4k16w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o22w24lg10ly10/

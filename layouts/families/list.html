@@ -1,6 +1,8 @@
-{{/* Families-tier branch pages (/families/ and /families/<letter>/) carry their whole body in
-     generated content — the A–Z summary and the per-letter lists — so render .Content like a single
-     page instead of the date-grouped archive in _default/list.html, matching the clan tier. */}}
+{{/* The /families/ A–Z index carries its whole body in generated content — a `.family-summary`
+     card grid of letter links — so render .Content like a single page instead of the date-grouped
+     archive in _default/list.html (which would ignore the body and list child pages by date). Mirrors
+     clan/list.html; the per-letter pages under /families/<letter>/ are leaf bundles rendered by
+     _default/single.html. */}}
 {{ define "main" }}
 <article class="post">
   <header class="post-header">

@@ -1,0 +1,63 @@
+---
+title: "Canberra, City of"
+date: 2023-03-18
+---
+**Bands:** [BBKYKBKWKB](/stripes/bbkykbkwkb/) · **Stripes:** [N T K LY K T K W K T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">N T K LY K T K W K T</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=551
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Canberra, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=551))
+- 1997 — Canberra, City of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4449/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [551](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=551)
+- Scottish Tartans Authority (ITI): 4449
+
+## Thread count
+B/152 Ba44 K2 Y6 K2 Ba6 K2 Wa4 K2 Ba/20
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2C4C68;"><span style="color:#2C4C68;filter:grayscale(1) invert(1) contrast(100);">#2C4C68</span></code> `#2C4C68` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.07 |
+| Ba | <code style="background-color:#4074A4;"><span style="color:#4074A4;filter:grayscale(1) invert(1) contrast(100);">#4074A4</span></code> `#4074A4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Wa | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Spirit of West Lothian](/setts/s11/dt48dp2dt5dp2dt7g2w3g5k4w1g26~x2/) — ΔT 1.50
+1. [State Seal of Tennessee (Fashion)](/setts/s10/db70lb6db5db16g10b27g4b4g1r4~x2/) — ΔT 1.55
+1. [Chateau](/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/) — ΔT 1.59
+1. [Kervegant (Personal)](/setts/s10/n60db12t1db2w1db12n5k1n2r2~x2/) — ΔT 1.63
+1. [MacLean of Kingairloch (Personal)](/setts/s10/b81k6ly1k2w2k2g12dy28w1dy4~x2/) — ΔT 1.67
+1. [MacLean of Kingairloch (Personal)](/setts/s10/b81k6ly1k2w2k2g12y28w1y4~x2/) — ΔT 1.68
+1. [Connaught Ancestry](/setts/s11/db4do21db8k4db4lo4db9do9db38k1w3~x2/) — ΔT 1.74
+1. [Blue Toon (Fashion)](/setts/s11/t49dt11w2dt2lr2dt2t10lg4dt2lg2ly3~x2/) — ΔT 1.75
+1. [Parr](/setts/s10/b106r3b4r6b8k28g8lb4g12k8/) — ΔT 1.76
+1. [Craven County Commemorative Tartan Tartan Number: 10679. Earliest known date: 21 August 2012 2012 marks the 300th year of Craven County, North Carolina, USA. The 300th Anniversary District 2 Committee, under the leadership of Chairperson, Kelly Beasley, voted for a Craven County Tartan to represent the large number of Craven County residents with Scottish heritage. The colours are drawn from the Craven County Coat of Arms, the waterways, rivers and streams, sky, colonial history, governors, royalty, the military, education, and the agricultural background of the county, as well as forestry, tobacco, indigo, and its many other crops. Brian Dodds designed the tartan, submitting four ideas of which the District 2 committee selected Pattern #2. The tartan has been approved by the Craven County 300th Anniversary Committee and the Craven County Board of Commissioners, with the Board signing a resolution on 16 April, 2012. Ila McIlwean White-Lewis volunteered to pay to register the tartan and to have sufficient tartan woven for a banner to be displayed in the Craven County Courthouse. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/n46lo1do5lo1dg5lo1dp5lo1n16r1lo4~x2/) — ΔT 1.76
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dt48dp2dt5dp2dt7g2w3g5k4w1g26~x2/"><circle cx="409.6" cy="110.8" r="4" fill="#3465a4"><title>Spirit of West Lothian</title></circle></a><a href="/setts/s10/db70lb6db5db16g10b27g4b4g1r4~x2/"><circle cx="426.0" cy="111.5" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/"><circle cx="451.3" cy="123.7" r="4" fill="#3465a4"><title>Chateau</title></circle></a><a href="/setts/s10/n60db12t1db2w1db12n5k1n2r2~x2/"><circle cx="520.0" cy="93.5" r="4" fill="#3465a4"><title>Kervegant (Personal)</title></circle></a><a href="/setts/s10/b81k6ly1k2w2k2g12dy28w1dy4~x2/"><circle cx="385.3" cy="72.1" r="4" fill="#3465a4"><title>MacLean of Kingairloch (Personal)</title></circle></a><a href="/setts/s10/b81k6ly1k2w2k2g12y28w1y4~x2/"><circle cx="387.0" cy="71.5" r="4" fill="#3465a4"><title>MacLean of Kingairloch (Personal)</title></circle></a><a href="/setts/s11/db4do21db8k4db4lo4db9do9db38k1w3~x2/"><circle cx="401.1" cy="137.7" r="4" fill="#3465a4"><title>Connaught Ancestry</title></circle></a><a href="/setts/s11/t49dt11w2dt2lr2dt2t10lg4dt2lg2ly3~x2/"><circle cx="425.2" cy="102.9" r="4" fill="#3465a4"><title>Blue Toon (Fashion)</title></circle></a><a href="/setts/s10/b106r3b4r6b8k28g8lb4g12k8/"><circle cx="403.3" cy="98.5" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s11/n46lo1do5lo1dg5lo1dp5lo1n16r1lo4~x2/"><circle cx="511.9" cy="89.0" r="4" fill="#3465a4"><title>Craven County Commemorative Tartan Tartan Number: 10679. Earliest known date: 21 August 2012 2012 marks the 300th year of Craven County, North Carolina, USA. The 300th Anniversary District 2 Committee, under the leadership of Chairperson, Kelly Beasley, voted for a Craven County Tartan to represent the large number of Craven County residents with Scottish heritage. The colours are drawn from the Craven County Coat of Arms, the waterways, rivers and streams, sky, colonial history, governors, royalty, the military, education, and the agricultural background of the county, as well as forestry, tobacco, indigo, and its many other crops. Brian Dodds designed the tartan, submitting four ideas of which the District 2 committee selected Pattern #2. The tartan has been approved by the Craven County 300th Anniversary Committee and the Craven County Board of Commissioners, with the Board signing a resolution on 16 April, 2012. Ila McIlwean White-Lewis volunteered to pay to register the tartan and to have sufficient tartan woven for a banner to be displayed in the Craven County Courthouse. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="483.8" cy="101.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/n76t22k1ly3k1t3k1w2k1t10~x2/

@@ -1,0 +1,29 @@
+---
+title: Pattern BBBWBWBK
+date: 2023-03-18
+aliases:
+- /patterns/bbbwbwbk/
+---
+BBBWBWBK
+
+It is a 8 band tartan.
+
+![Woven sample](/setts/s8/b70db5b3w5b3w5b3k5~x2/tartan.png)
+
+
+
+## Colour Sequence
+BBBWBWBK
+
+
+## Tartans with this colour sequence
+
+
+
+### B DB B W B W B K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="seq">B DB B W B W B K</span></span>
+
+| Tartans |
+|---------------|
+| [Wyckoff, Ann Grainger Phillips Commemorative Tartan Tartan Number: 10610. Earliest known date: 2 May 2012 Created to commemorate the 85th birthday of the designer's mother, with a field of blue to match her eyes and with one line for each of her four children in the colour of his or her birth stone (sapphire, pearl, diamond, garnet). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b70db5b3w5b3w5b3k5~x2/)|
+|![Wyckoff, Ann Grainger Phillips Commemorative Tartan Tartan Number: 10610. Earliest known date: 2 May 2012 Created to commemorate the 85th birthday of the designer's mother, with a field of blue to match her eyes and with one line for each of her four children in the colour of his or her birth stone (sapphire, pearl, diamond, garnet). See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b70db5b3w5b3w5b3k5~x2/sett.png)|
+

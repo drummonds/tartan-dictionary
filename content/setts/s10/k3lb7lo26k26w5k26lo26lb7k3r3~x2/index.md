@@ -1,0 +1,56 @@
+---
+title: "Cornish National"
+date: 2023-03-18
+---
+**Bands:** [KWYKWKYWKR](/stripes/kwykwkywkr/) · **Stripes:** [K LB LO K W K LO LB K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LB LO K W K LO LB K R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=766
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [766](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=766)
+- Scottish Tartans Authority (ITI): 1567
+- Scottish Tartans World Register: 1567
+
+## Thread count
+K/6 LB14 DY52 K52 W10 K52 DY52 LB14 K6 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tyrone County Crest (Fashion)](/setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/) — ΔT 1.00
+1. [Unnamed No 5](/setts/s8/k10ly2g11r11w1r1w1k9~x2/) — ΔT 1.07
+1. [Confessore (Personal)](/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/) — ΔT 1.08
+1. [Cornish National (District)](/setts/s6/w5k26lo26t7k3r3~x2/) — ΔT 1.14
+1. [Cornish, National](/setts/s6/w5k26ly26t7k3r3~x2/) — ΔT 1.24
+1. [Niagara Celtic Heritage Festival](/setts/s13/r3w2g8r8k16w2k3w2k16k8w8k2w3~x2/) — ΔT 1.29
+1. [MacLamroc](/setts/s10/ly4k1g16k16r1w3k16r16k1ly4~x2/) — ΔT 1.30
+1. [Garvock (2015)](/setts/s8/g28t3g3k10r2k10r20ly4~x2/) — ΔT 1.30
+1. [Fountain of the Strong](/setts/s11/o6k3dg3k6r2k2r2k6dg3o14r2~x2/) — ΔT 1.30
+1. [Braemar, Camel](/setts/s10/o1w2k5o3k1o4k1o10k1o1~x4/) — ΔT 1.30
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/"><circle cx="181.4" cy="138.8" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><a href="/setts/s8/k10ly2g11r11w1r1w1k9~x2/"><circle cx="156.0" cy="165.7" r="4" fill="#3465a4"><title>Unnamed No 5</title></circle></a><a href="/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/"><circle cx="169.0" cy="147.8" r="4" fill="#3465a4"><title>Confessore (Personal)</title></circle></a><a href="/setts/s6/w5k26lo26t7k3r3~x2/"><circle cx="162.4" cy="174.3" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><a href="/setts/s6/w5k26ly26t7k3r3~x2/"><circle cx="156.1" cy="169.4" r="4" fill="#3465a4"><title>Cornish, National</title></circle></a><a href="/setts/s13/r3w2g8r8k16w2k3w2k16k8w8k2w3~x2/"><circle cx="120.4" cy="153.8" r="4" fill="#3465a4"><title>Niagara Celtic Heritage Festival</title></circle></a><a href="/setts/s10/ly4k1g16k16r1w3k16r16k1ly4~x2/"><circle cx="173.0" cy="135.3" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/setts/s8/g28t3g3k10r2k10r20ly4~x2/"><circle cx="164.2" cy="148.9" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/setts/s11/o6k3dg3k6r2k2r2k6dg3o14r2~x2/"><circle cx="146.7" cy="170.8" r="4" fill="#3465a4"><title>Fountain of the Strong</title></circle></a><a href="/setts/s10/o1w2k5o3k1o4k1o10k1o1~x4/"><circle cx="235.8" cy="159.4" r="4" fill="#3465a4"><title>Braemar, Camel</title></circle></a><circle cx="165.5" cy="160.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/

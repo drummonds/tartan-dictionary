@@ -1,0 +1,58 @@
+---
+title: "Climb, The"
+date: 2023-03-18
+---
+**Bands:** [WGYBRKGY](/stripes/wgybrkgy/) · **Stripes:** [W DG LG T R K DG LG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W DG LG T R K DG LG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10807
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10807](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10807)
+
+## Thread count
+LG/4 K18 DR32 R4 B60 LG6 K12 W/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5F749C;"><span style="color:#5F749C;filter:grayscale(1) invert(1) contrast(100);">#5F749C</span></code> `#5F749C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| K | <code style="background-color:#23321B;"><span style="color:#23321B;filter:grayscale(1) invert(1) contrast(100);">#23321B</span></code> `#23321B` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.16 |
+| LG | <code style="background-color:#B7D38B;"><span style="color:#B7D38B;filter:grayscale(1) invert(1) contrast(100);">#B7D38B</span></code> `#B7D38B` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.11 |
+| R | <code style="background-color:#CA2625;"><span style="color:#CA2625;filter:grayscale(1) invert(1) contrast(100);">#CA2625</span></code> `#CA2625` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.02 |
+| W | <code style="background-color:#F9F5EF;"><span style="color:#F9F5EF;filter:grayscale(1) invert(1) contrast(100);">#F9F5EF</span></code> `#F9F5EF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LG/4 K18 DR32 R4 B60 LG6 K12 W/2 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Froben, Christian (Personal)](/setts/s8/k2w2k8ly8db24g13k3r1~x2/) — ΔT 0.74
+1. [Vienna Highlander (Fashion)](/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/) — ΔT 0.80
+1. [Crookdake Cheng](/setts/s10/r3db36w10k8g13ly6g3ly3g3ly1~x2/) — ΔT 0.91
+1. [Letter Dress (2014)](/setts/s9/o29k23lo1g9lo2r4k14w2k4~x2/) — ΔT 0.95
+1. [Crookdake Cheng Family Tartan Tartan Number: 2207. Earliest known date: 1994 Designed by Phil Smith 1994 for the then Treasurer/Accountant of the Scottish Tartans Society at the request of Keith Lumsden. The yellow represents rice stalks. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r3db36lb10k8g13lo6g3lo3g3lo1~x2/) — ΔT 1.00
+1. [Bell Rock Lighthouse 200th Anniversary, The](/setts/s10/w6n8db4n2db31k16r1k2r4r3~x2/) — ΔT 1.03
+1. [Colours of Hope](/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/) — ΔT 1.07
+1. [Labrador (District)](/setts/s11/lb11k2lb2k2lo2k11dg30r2dg3k1w5~x2/) — ΔT 1.08
+1. [Crookdake-Cheng (Personal)](/setts/s10/r2db24lb6k6g6ly4g2ly2g2ly1~x2/) — ΔT 1.08
+1. [Sandelin #2 (Personal)](/setts/s8/w10db2w1db35dg10lo3dg10r4~x2/) — ΔT 1.09
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k2w2k8ly8db24g13k3r1~x2/"><circle cx="167.4" cy="118.3" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s10/r3db36w10k8g13ly6g3ly3g3ly1~x2/"><circle cx="179.0" cy="75.3" r="4" fill="#3465a4"><title>Crookdake Cheng</title></circle></a><a href="/setts/s9/o29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="233.1" cy="107.0" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/setts/s10/r3db36lb10k8g13lo6g3lo3g3lo1~x2/"><circle cx="187.4" cy="80.7" r="4" fill="#3465a4"><title>Crookdake Cheng Family Tartan Tartan Number: 2207. Earliest known date: 1994 Designed by Phil Smith 1994 for the then Treasurer/Accountant of the Scottish Tartans Society at the request of Keith Lumsden. The yellow represents rice stalks. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w6n8db4n2db31k16r1k2r4r3~x2/"><circle cx="217.8" cy="88.2" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/"><circle cx="198.7" cy="77.0" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/setts/s11/lb11k2lb2k2lo2k11dg30r2dg3k1w5~x2/"><circle cx="223.6" cy="78.1" r="4" fill="#3465a4"><title>Labrador (District)</title></circle></a><a href="/setts/s10/r2db24lb6k6g6ly4g2ly2g2ly1~x2/"><circle cx="173.8" cy="88.8" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/setts/s8/w10db2w1db35dg10lo3dg10r4~x2/"><circle cx="271.9" cy="113.9" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><circle cx="206.6" cy="100.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/lg2dg9k16r2t30lg3dg6w1~x2/

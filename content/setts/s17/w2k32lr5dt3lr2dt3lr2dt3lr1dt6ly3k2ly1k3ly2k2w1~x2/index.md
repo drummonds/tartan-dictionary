@@ -1,0 +1,54 @@
+---
+title: "Cornish Pascoe, The"
+date: 2023-03-18
+---
+**Bands:** [WKYBYBYBYBYKYKYKW](/stripes/wkybybybybykykykw/) · **Stripes:** [W K LR DT LR DT LR DT LR DT LY K LY K LY K W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K LR DT LR DT LR DT LR DT LY K LY K LY K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10189
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10189](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10189)
+
+## Thread count
+W/4 K64 N10 Ka6 N4 Ka6 N4 Ka6 N2 Ka12 Y6 K4 Y2 OW6 Y4 K4 W/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Ka | <code style="background-color:#292929;"><span style="color:#292929;filter:grayscale(1) invert(1) contrast(100);">#292929</span></code> `#292929` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.18 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFCC11;"><span style="color:#FFCC11;filter:grayscale(1) invert(1) contrast(100);">#FFCC11</span></code> `#FFCC11` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cornish Pascoe (Name)](/setts/s17/w2k32o5n3o2n3o2n3o1n6ly3k2ly1w3ly2k2w1~x2/) — ΔT 0.48
+1. [Australian Federal Police](/setts/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/) — ΔT 1.17
+1. [MacBeth, MacLulich](/setts/s12/db36ly4k6ly1k1w1k1g8r6k1r3w1~x2/) — ΔT 1.22
+1. [Unidentified, specimen](/setts/s14/db72r11k12ly2r2w3r2k2r10g18r10k3r3w2~x2/) — ΔT 1.22
+1. [Hudson, Bay Company](/setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/) — ΔT 1.27
+1. [Seller (Personal)](/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4r3db2r6g7db3ly2db3ly2db6k3~x2/) — ΔT 1.35
+1. [MacBeth](/setts/s12/db36ly4k6lb1k1lb1k1dg8r6k1r3lb1/) — ΔT 1.35
+1. [Bog Myrtle Corner](/setts/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/) — ΔT 1.40
+1. [MacBeth](/setts/s12/db40ly4k3w2k3w2k3g10r6k2r4w2~x2/) — ΔT 1.41
+1. [El Dorado Hills P & D (Corporate)](/setts/s14/k5r1w2r1k26r3lo1n10w1r3w1n10w1r3~x2/) — ΔT 1.41
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/w2k32o5n3o2n3o2n3o1n6ly3k2ly1w3ly2k2w1~x2/"><circle cx="249.3" cy="36.1" r="4" fill="#3465a4"><title>Cornish Pascoe (Name)</title></circle></a><a href="/setts/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/"><circle cx="268.5" cy="62.4" r="4" fill="#3465a4"><title>Australian Federal Police</title></circle></a><a href="/setts/s12/db36ly4k6ly1k1w1k1g8r6k1r3w1~x2/"><circle cx="279.4" cy="49.3" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/setts/s14/db72r11k12ly2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="266.9" cy="43.9" r="4" fill="#3465a4"><title>Unidentified, specimen</title></circle></a><a href="/setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/"><circle cx="286.6" cy="53.3" r="4" fill="#3465a4"><title>Hudson, Bay Company</title></circle></a><a href="/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4r3db2r6g7db3ly2db3ly2db6k3~x2/"><circle cx="235.0" cy="45.2" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/setts/s12/db36ly4k6lb1k1lb1k1dg8r6k1r3lb1/"><circle cx="272.4" cy="53.0" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/"><circle cx="204.1" cy="62.4" r="4" fill="#3465a4"><title>Bog Myrtle Corner</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="229.7" cy="71.5" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1n10w1r3w1n10w1r3~x2/"><circle cx="255.0" cy="81.2" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><circle cx="246.6" cy="37.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6ly3k2ly1k3ly2k2w1~x2/

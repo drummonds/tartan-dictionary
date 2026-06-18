@@ -1,0 +1,55 @@
+---
+title: "Studio Wolf Polysun"
+date: 2023-03-18
+---
+**Bands:** [KRYRGWRRRWRR](/stripes/kryrgwrrrwrr/) · **Stripes:** [K R LY R G W R R R W R R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R LY R G W R R R W R R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10944
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10944](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10944)
+
+## Thread count
+K/4 R4 Y4 Ra8 G4 W4 R4 Ra8 R12 W12 R12 Ra/72
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> `#006400` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.01 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Ra | <code style="background-color:#FA4B00;"><span style="color:#FA4B00;filter:grayscale(1) invert(1) contrast(100);">#FA4B00</span></code> `#FA4B00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFE600;"><span style="color:#FFE600;filter:grayscale(1) invert(1) contrast(100);">#FFE600</span></code> `#FFE600` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [VeMMA](/setts/s10/r24lr2lr7lr3k2n4k2lr1r4lr1~x2/) — ΔT 1.39
+1. [Drummond of Perth Dress #3](/setts/s9/r67ly3n6lb3w25r10n6lb7w3~x2/) — ΔT 1.51
+1. [Rathmore (Fashion)](/setts/s12/r40lb2r6n2r2n2lo2n9w5r2w4lo1~x2/) — ΔT 1.71
+1. [Harding (Florida) (Personal)](/setts/s10/r50ly7m6g4k4g4m6ly7r50dt13~x2/) — ΔT 1.78
+1. [Rathmore Family Tartan Tartan Number: 1518. Earliest known date: 1987 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r26t2r6o2r2o2lo2o9w5r2w4lo2~x2/) — ΔT 1.80
+1. [VeMMA Corporate Tartan Tartan Number: 10730. Earliest known date: 5 November 2012 Created for VeMMA International. VeMMA is a nutritional supplement company marketing fruit juice drinks that have been enhanced with vitamins and anti-oxidants (the name VeMMA is an acronym for Vitamins, essential Minerals, Mangosteen and Aloe vera). VeMMA offers an affiliate marketing program to those who wish to recommend its products. Colours: the orange represents enhanced health through supplementation; silver represents liquid and silver also purifies, soothes, inspires, and reflects back positive energy. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r24lr2lr7lr3k2k4k2lr1r4lr1~x2/) — ΔT 1.83
+1. [Rathmore](/setts/s12/r26b2r6y2r2y2o2y9w5r2w4o2~x2/) — ΔT 1.84
+1. [Drummond Ancient](/setts/s9/r19ly1k2t1dg7r2k1t1w1~x4/) — ΔT 1.85
+1. [Studio Wolf Polysun](/setts/s12/lo18r3w3r3lo2r1w1g1lo2ly1r1k1~x4/) — ΔT 1.85
+1. [Scottish Banner, The](/setts/s11/b1k2ly5k2r31b3ly1w1db2k1ly1~x2/) — ΔT 1.93
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r24lr2lr7lr3k2n4k2lr1r4lr1~x2/"><circle cx="340.8" cy="89.1" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/setts/s9/r67ly3n6lb3w25r10n6lb7w3~x2/"><circle cx="357.3" cy="87.7" r="4" fill="#3465a4"><title>Drummond of Perth Dress #3</title></circle></a><a href="/setts/s12/r40lb2r6n2r2n2lo2n9w5r2w4lo1~x2/"><circle cx="408.1" cy="43.8" r="4" fill="#3465a4"><title>Rathmore (Fashion)</title></circle></a><a href="/setts/s10/r50ly7m6g4k4g4m6ly7r50dt13~x2/"><circle cx="368.3" cy="114.9" r="4" fill="#3465a4"><title>Harding (Florida) (Personal)</title></circle></a><a href="/setts/s12/r26t2r6o2r2o2lo2o9w5r2w4lo2~x2/"><circle cx="287.8" cy="102.1" r="4" fill="#3465a4"><title>Rathmore Family Tartan Tartan Number: 1518. Earliest known date: 1987 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r24lr2lr7lr3k2k4k2lr1r4lr1~x2/"><circle cx="308.1" cy="73.9" r="4" fill="#3465a4"><title>VeMMA Corporate Tartan Tartan Number: 10730. Earliest known date: 5 November 2012 Created for VeMMA International. VeMMA is a nutritional supplement company marketing fruit juice drinks that have been enhanced with vitamins and anti-oxidants (the name VeMMA is an acronym for Vitamins, essential Minerals, Mangosteen and Aloe vera). VeMMA offers an affiliate marketing program to those who wish to recommend its products. Colours: the orange represents enhanced health through supplementation; silver represents liquid and silver also purifies, soothes, inspires, and reflects back positive energy. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r26b2r6y2r2y2o2y9w5r2w4o2~x2/"><circle cx="289.6" cy="103.7" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s9/r19ly1k2t1dg7r2k1t1w1~x4/"><circle cx="340.0" cy="82.4" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/setts/s12/lo18r3w3r3lo2r1w1g1lo2ly1r1k1~x4/"><circle cx="324.8" cy="62.4" r="4" fill="#3465a4"><title>Studio Wolf Polysun</title></circle></a><a href="/setts/s11/b1k2ly5k2r31b3ly1w1db2k1ly1~x2/"><circle cx="359.2" cy="25.0" r="4" fill="#3465a4"><title>Scottish Banner, The</title></circle></a><circle cx="348.3" cy="64.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/r18r3w3r3r2r1w1g1r2ly1r1k1~x4/

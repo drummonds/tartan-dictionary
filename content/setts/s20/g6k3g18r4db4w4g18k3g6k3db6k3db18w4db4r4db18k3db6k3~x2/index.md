@@ -1,0 +1,65 @@
+---
+title: "Shaw of Carolina (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GKGRBWGKGKBKBWBRBKBK](/stripes/gkgrbwgkgkbkbwbrbkbk/) · **Stripes:** [G K G R DB W G K G K DB K DB W DB R DB K DB K](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G R DB W G K G K DB K DB W DB R DB K DB K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3777
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2005 — Shaw of Carolina (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3777))
+- undated — Shaw of Carolina Clan Tartan Tartan Number: 6803. Earliest known date: 2005 Based on a cloth fragment and a description of a tartan blanket worn by Mary Irvine for her husband, John Shaw c.1800. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6803))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3777](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3777)
+- Scottish Tartans Authority (ITI): 6803
+
+## Thread count
+G/12 K6 G36 R8 DBa8 W8 G36 K6 G12 K6 DBa12 K6 DBa36 W8 DBa8 R8 DBa36 K6 DBa12 K/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DBa | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| O | <code style="background-color:#E86000;"><span style="color:#E86000;filter:grayscale(1) invert(1) contrast(100);">#E86000</span></code> `#E86000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.14 |
+| Oa | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fyvie](/setts/s20/ly5dg2ly2dg15k9db2k2db2k2db9dg5db9k2db2k2db2k9dg15k2w4~x2/) — ΔT 0.69
+1. [Polaris Military](/setts/s17/b6k1b1k1b1k7g6lo1k1db1k1lo1g6k7b7k1b1~x4/) — ΔT 0.77
+1. [Blanton (Dress)](/setts/s15/b12k2b2k2b2k10g5r3w2r3g5k10b11k2b2~x2/) — ΔT 0.77
+1. [Lamquet (2015)](/setts/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/) — ΔT 0.83
+1. [Allen, Christopher Holler](/setts/s21/g2r2g12k4db11ly2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/) — ΔT 0.85
+1. [Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/) — ΔT 0.87
+1. [Wilson's No.030](/setts/s20/t4k3t2db6k15ly2g16db4t2g2k16g2t2db4g16ly2k15db6t2k3~x2/) — ΔT 0.88
+1. [MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/) — ΔT 0.88
+1. [Campbell of Argyll (no guards)](/setts/s24/b1k1b8k8g8ly2g8k8b1k1b1k1b8k1b1k1b1k8g8w2g8k8b8k1~x2/) — ΔT 0.89
+1. [MacLeods Highlanders](/setts/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/) — ΔT 0.93
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/ly5dg2ly2dg15k9db2k2db2k2db9dg5db9k2db2k2db2k9dg15k2w4~x2/"><circle cx="131.0" cy="161.4" r="4" fill="#3465a4"><title>Fyvie</title></circle></a><a href="/setts/s17/b6k1b1k1b1k7g6lo1k1db1k1lo1g6k7b7k1b1~x4/"><circle cx="155.4" cy="169.6" r="4" fill="#3465a4"><title>Polaris Military</title></circle></a><a href="/setts/s15/b12k2b2k2b2k10g5r3w2r3g5k10b11k2b2~x2/"><circle cx="135.2" cy="180.4" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/setts/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/"><circle cx="144.1" cy="137.0" r="4" fill="#3465a4"><title>Lamquet (2015)</title></circle></a><a href="/setts/s21/g2r2g12k4db11ly2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="123.8" cy="170.8" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="134.6" cy="189.6" r="4" fill="#3465a4"><title>Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/t4k3t2db6k15ly2g16db4t2g2k16g2t2db4g16ly2k15db6t2k3~x2/"><circle cx="171.4" cy="160.3" r="4" fill="#3465a4"><title>Wilson's No.030</title></circle></a><a href="/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="131.5" cy="190.5" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s24/b1k1b8k8g8ly2g8k8b1k1b1k1b8k1b1k1b1k8g8w2g8k8b8k1~x2/"><circle cx="135.1" cy="155.1" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/setts/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/"><circle cx="109.3" cy="177.0" r="4" fill="#3465a4"><title>MacLeods Highlanders</title></circle></a><circle cx="142.8" cy="167.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s20/g6k3g18r4db4w4g18k3g6k3db6k3db18w4db4r4db18k3db6k3~x2/

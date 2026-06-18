@@ -1,0 +1,53 @@
+---
+title: "Moir (Loch Insh) (Personal)"
+date: 2023-03-18
+---
+**Bands:** [RYRYRYRYRKYKYKW](/stripes/ryryryryrkykykw/) · **Stripes:** [R LG R LG R LG R LG R K LG K LG K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LG R LG R LG R LG R K LG K LG K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10326
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10326](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10326)
+
+## Thread count
+R/62 LG6 R4 LG4 R6 LG4 R4 LG6 R30 K30 LG4 B30 LG6 B6 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LG | <code style="background-color:#86C67C;"><span style="color:#86C67C;filter:grayscale(1) invert(1) contrast(100);">#86C67C</span></code> `#86C67C` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.15 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacPherson](/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1/) — ΔT 0.94
+1. [Sabrettes (Corporate)](/setts/s16/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/) — ΔT 0.96
+1. [Hepburn](/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/) — ΔT 1.01
+1. [Orr Senior, Gerald William](/setts/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/) — ΔT 1.08
+1. [Hepburn (Clan)](/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/) — ΔT 1.11
+1. [First Special Service Force](/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44b9r6/) — ΔT 1.16
+1. [Motherwell F.C. Fir Park Dress (Spor](/setts/s10/r3ly6k2ly2k2ly2k3r20lb1r3~x4/) — ΔT 1.19
+1. [MacDonald of Lochmaddy](/setts/s17/r13w1lt2r2dg14r2w1lt2r2db4r2lt2w1r16dg1r2dg3~x2/) — ΔT 1.19
+1. [Stewart of Appin 5](/setts/s15/r3g1r2g1r18k4ly1k2w1db4g6r3k1r2w1~x2/) — ΔT 1.27
+1. [Sabrettes](/setts/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/) — ΔT 1.27
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1/"><circle cx="243.5" cy="109.4" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s16/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/"><circle cx="205.8" cy="96.2" r="4" fill="#3465a4"><title>Sabrettes (Corporate)</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/"><circle cx="243.6" cy="118.2" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/setts/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><circle cx="219.2" cy="90.1" r="4" fill="#3465a4"><title>Orr Senior, Gerald William</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/"><circle cx="245.3" cy="115.9" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44b9r6/"><circle cx="251.6" cy="113.0" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s10/r3ly6k2ly2k2ly2k3r20lb1r3~x4/"><circle cx="286.4" cy="96.2" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/setts/s17/r13w1lt2r2dg14r2w1lt2r2db4r2lt2w1r16dg1r2dg3~x2/"><circle cx="280.0" cy="87.6" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/setts/s15/r3g1r2g1r18k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="269.0" cy="69.2" r="4" fill="#3465a4"><title>Stewart of Appin 5</title></circle></a><a href="/setts/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/"><circle cx="182.6" cy="112.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><circle cx="237.2" cy="79.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/r31lg3r2lg2r3lg2r2lg3r15k15lg2k15lg3k3w2~x2/

@@ -1,0 +1,57 @@
+---
+title: "Salt Spring Island"
+date: 2023-03-18
+---
+**Bands:** [RGBW](/stripes/rgbw/) · **Stripes:** [R DG DB W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11409
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11409](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11409)
+
+## Thread count
+R/4 G24 DB24 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000048;"><span style="color:#000048;filter:grayscale(1) invert(1) contrast(100);">#000048</span></code> `#000048` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "R/4 G24 DB24 W/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Douglas](/setts/s5/k2lb2dg8db8lb1/) — ΔT 1.08
+1. [Loganair](/setts/s4/r5o32k31w5~x2/) — ΔT 1.08
+1. [Wilson's No.079](/setts/s4/k7w1g7t1~x2/) — ΔT 1.09
+1. [Mayer, Chris (Personal)](/setts/s4/b1y6k6r1~x10/) — ΔT 1.09
+1. [Thompson, Dress (Clan)](/setts/s4/lb3k16o16r3~x4/) — ΔT 1.11
+1. [Loganair, Uniform Skirt](/setts/s4/r5y32k31w5~x2/) — ΔT 1.13
+1. [MacArthur of Milton, hunting](/setts/s6/g14db2g2k8p9k2~x2/) — ΔT 1.16
+1. [Murray](/setts/s6/db2k2db12k8g11r2~x2/) — ΔT 1.17
+1. [Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/r5o32k31w5/) — ΔT 1.19
+1. [Melville](/setts/s6/k4w2g13k13t12k2~x2/) — ΔT 1.20
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2lb2dg8db8lb1/"><circle cx="167.9" cy="233.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s4/r5o32k31w5~x2/"><circle cx="210.3" cy="241.1" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/setts/s4/k7w1g7t1~x2/"><circle cx="221.9" cy="251.3" r="4" fill="#3465a4"><title>Wilson's No.079</title></circle></a><a href="/setts/s4/b1y6k6r1~x10/"><circle cx="191.6" cy="244.0" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/setts/s4/lb3k16o16r3~x4/"><circle cx="192.7" cy="253.1" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/setts/s4/r5y32k31w5~x2/"><circle cx="197.2" cy="237.7" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/setts/s6/g14db2g2k8p9k2~x2/"><circle cx="177.7" cy="224.7" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.2" cy="240.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s4/r5o32k31w5/"><circle cx="209.3" cy="239.6" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k4w2g13k13t12k2~x2/"><circle cx="166.5" cy="238.1" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="199.7" cy="254.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s4/r1dg6db6w1~x4/

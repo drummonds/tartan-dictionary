@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Teall of Teallach](/clan/teall/teallach/)
+- [Teall of Teallach](/families/teall-of-teallach/)
 

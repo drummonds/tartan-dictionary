@@ -1,0 +1,60 @@
+---
+title: "Baillie Dress"
+date: 2023-03-18
+---
+**Bands:** [GWGYGYGY](/stripes/gwgygygy/) · **Stripes:** [DY W DY LO DY LO DY LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DY W DY LO DY LO DY LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=164
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [164](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=164)
+- Scottish Tartans Authority (ITI): 6379
+
+## Thread count
+LT/48 Ta6 LT6 Ta6 LT6 Ta40 LN44 Ta/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> `#441800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| T | <code style="background-color:#603800;"><span style="color:#603800;filter:grayscale(1) invert(1) contrast(100);">#603800</span></code> `#603800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.16 |
+| Ta | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LT/48 Ta6 LT6 Ta6 LT6 Ta40 LN44 Ta/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Snaefell (District)](/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/) — ΔT 0.87
+1. [Lindsay, dress Red](/setts/s9/g26r3g3r3g3r11w27r3w5~x2/) — ΔT 0.96
+1. [Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/) — ΔT 1.05
+1. [Lindsay Dress Red](/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/) — ΔT 1.06
+1. [Gleneagles USA (Dalgleish)](/setts/s6/g4lb31g7r14g11r3~x2/) — ΔT 1.11
+1. [Kildonan Brown (Fashion)](/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/) — ΔT 1.14
+1. [Bannock Bane M.406](/setts/s8/dg4dy3dg21dy2w14o22dy3o4~x2/) — ΔT 1.24
+1. [Grey Watch, Dress](/setts/s8/y9do1y1do1y1do7w7do2~x4/) — ΔT 1.25
+1. [Bannock Bane M.405](/setts/s8/do4r3do21r2w14o22r3o4~x2/) — ΔT 1.33
+1. [Turnberry, Manx Snaefell](/setts/s8/o22dr2o2dr2o2dr15w17dr3~x2/) — ΔT 1.37
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="248.0" cy="189.8" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/setts/s9/g26r3g3r3g3r11w27r3w5~x2/"><circle cx="210.4" cy="174.4" r="4" fill="#3465a4"><title>Lindsay, dress Red</title></circle></a><a href="/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/"><circle cx="222.9" cy="175.2" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/"><circle cx="204.7" cy="169.8" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/setts/s6/g4lb31g7r14g11r3~x2/"><circle cx="240.5" cy="210.4" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="236.1" cy="179.8" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/setts/s8/dg4dy3dg21dy2w14o22dy3o4~x2/"><circle cx="181.2" cy="178.7" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><a href="/setts/s8/y9do1y1do1y1do7w7do2~x4/"><circle cx="216.3" cy="201.8" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/setts/s8/do4r3do21r2w14o22r3o4~x2/"><circle cx="185.7" cy="171.3" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/setts/s8/o22dr2o2dr2o2dr15w17dr3~x2/"><circle cx="225.9" cy="175.8" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><circle cx="212.1" cy="201.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/

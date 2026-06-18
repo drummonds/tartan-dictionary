@@ -1,0 +1,62 @@
+---
+title: "Colquhoun"
+date: 2023-03-18
+---
+**Bands:** [BKBKWGRGWKBKB](/stripes/bkbkwgrgwkbkb/) · **Stripes:** [DB K DB K W G R G W K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K W G R G W K DB K DB</span></span>
+
+
+This was sourced from logan-1831.  It is a [13 band tartan](/bands/bands13/).
+
+Original link /posts/logans-scottish-gael/
+
+## Provenance
+
+James Logan recorded the **Colquhoun** sett in 1831, on page 402 of the *Table of Clan Tartans* in *The Scottish Gaël* — the earliest systematic published collection of clan setts. Logan gives the stripe widths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
+
+> ½ blue · 1 black · 6 blue · 9 black · 1½ white · 7 green · 1 red · 7 green · ½ white · 9 black · 6 blue · 1 black · 1 blue
+
+In threads (at 8 to the eighth-inch) that is `B/4 K8 B48 K72 W12 G56 R8 G56 W4 K72 B48 K8 B/8`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
+
+## Related setts
+
+Later records of the **Colquhoun** name adjusted Logan's counts: [Colquhoun](/setts/s7/b4k2b16w1k8g24r4~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/); [Colquhoun #2](/setts/s7/r2g8w1k8b8k1b1~b1474b4-g006818-k101010-rc80000-wfcfcfc~x6/); [Colquhoun #3](/setts/s7/b6k3b21k23w3g24r3~b5a008c-g005020-k101010-rdc0000-we0e0e0~x2/); [Colquhoun Dress](/setts/s22/k15y2g14r2g14y2k15y3b3y19b2r2b2y18b3y3k15b10k2b2k2b10~b1c0070-g006818-k101010-r880000-yb8b8b8~x2/). Compare their thread counts with Logan's above.
+
+## Thread count
+DB/4 K8 DB48 K72 LN12 G56 R8 G56 LN4 K72 DB48 K8 DB/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Loch Carron](/setts/s13/g5db25k19g23k2w2k5w2k2g23k19db30r5~x2/) — ΔT 0.58
+1. [Eildon (1996)](/setts/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/) — ΔT 0.59
+1. [Dyce #2](/setts/s15/db16k2db2k2db2k12dg12ly2k2ly2dg12k16db16k1w3~x2/) — ΔT 0.60
+1. [Craigclowan School](/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/) — ΔT 0.69
+1. [Paterson (Dalgleish Version)](/setts/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2/) — ΔT 0.73
+1. [Newman](/setts/s11/db10k10db10r2k20w1g10r2g4r2g4~x2/) — ΔT 0.75
+1. [Robertson Htg - 1816 (Clan)](/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/) — ΔT 0.76
+1. [Campbell of Loudoun Clan Tartan Tartan Number: 3. Earliest known date: 1886 The rarest of the Campbell tartans, Loudoun is nevertheless, acknowledged by the MacCailein Mor, Chief of the Clan Campbell. It is similar to the Campbell of Argyll except for a different arrangement of black 'tramlines' on the blue stripe. The tartan may have its origin in the formation of 'Loudouns Highlanders' raised at the time of the '45 and disbanded in 1748 though a similar claim is made for another sett. The weavers, Wilson's of Bannockburn, produced many variations of the Black Watch, for the Highland regiments, by adding coloured stripes to the basic pattern. The sett was not published until 1886 when James Grant included it in 'The Tartans of the Clans of Scotland' published by W and A.K. Johnston, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/ly2k1g12k12db12k1db2k1db12k12g12k1w2~x2/) — ΔT 0.76
+1. [Robertson Hunting](/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/) — ΔT 0.79
+1. [MacKenzie Clan Tartan Tartan Number: 267. Earliest known date: 1778 The MacKenzie is the regimental tartan of the Seaforth Highlanders, who were raised by MacKenzie, Earl of Seaforth, in 1778. The clan held lands in Ross-shire and around Muir of Ord, but in the 12th century, they were removed to Wester Ross, (Kintail). The chiefly line of Kintail died out (as prophecisied by the Brahan Seer) and the MacKenzies of Cromarty were recognised as Chiefs of the Clan. Wilson's 1819 pattern book records various widths and weights of cloth suitable for the different ranks in the regiment. The 'hard' tartan of the period was known to cut the legs of the private soldiers. There is a certified sample in the Highland Society of London collection signed by Mrs MacKenzie of Seaforth (1816). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/) — ΔT 0.80
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g5db25k19g23k2w2k5w2k2g23k19db30r5~x2/"><circle cx="176.6" cy="162.5" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/setts/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/"><circle cx="184.4" cy="143.4" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12dg12ly2k2ly2dg12k16db16k1w3~x2/"><circle cx="187.1" cy="150.9" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="205.9" cy="132.6" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/setts/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2/"><circle cx="173.0" cy="175.0" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/setts/s11/db10k10db10r2k20w1g10r2g4r2g4~x2/"><circle cx="218.6" cy="167.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.3" cy="127.6" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s13/ly2k1g12k12db12k1db2k1db12k12g12k1w2~x2/"><circle cx="168.7" cy="169.0" r="4" fill="#3465a4"><title>Campbell of Loudoun Clan Tartan Tartan Number: 3. Earliest known date: 1886 The rarest of the Campbell tartans, Loudoun is nevertheless, acknowledged by the MacCailein Mor, Chief of the Clan Campbell. It is similar to the Campbell of Argyll except for a different arrangement of black 'tramlines' on the blue stripe. The tartan may have its origin in the formation of 'Loudouns Highlanders' raised at the time of the '45 and disbanded in 1748 though a similar claim is made for another sett. The weavers, Wilson's of Bannockburn, produced many variations of the Black Watch, for the Highland regiments, by adding coloured stripes to the basic pattern. The sett was not published until 1886 when James Grant included it in 'The Tartans of the Clans of Scotland' published by W and A.K. Johnston, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="217.0" cy="127.6" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/"><circle cx="167.6" cy="162.3" r="4" fill="#3465a4"><title>MacKenzie Clan Tartan Tartan Number: 267. Earliest known date: 1778 The MacKenzie is the regimental tartan of the Seaforth Highlanders, who were raised by MacKenzie, Earl of Seaforth, in 1778. The clan held lands in Ross-shire and around Muir of Ord, but in the 12th century, they were removed to Wester Ross, (Kintail). The chiefly line of Kintail died out (as prophecisied by the Brahan Seer) and the MacKenzies of Cromarty were recognised as Chiefs of the Clan. Wilson's 1819 pattern book records various widths and weights of cloth suitable for the different ranks in the regiment. The 'hard' tartan of the period was known to cut the legs of the private soldiers. There is a certified sample in the Highland Society of London collection signed by Mrs MacKenzie of Seaforth (1816). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="203.5" cy="153.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/

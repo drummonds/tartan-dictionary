@@ -1,0 +1,48 @@
+---
+title: "Jones Htg (Name)"
+date: 2023-03-18
+---
+**Bands:** [BBBBKBGBGG](/stripes/bbbbkbgbgg/) · **Stripes:** [DP T DP T K DP G DP G G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DP T DP T K DP G DP G G</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3237/
+
+## Thread count
+G/4 Ga48 P8 Ga6 P16 K6 B16 P4 B4 P/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| Ga | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tennessee](/setts/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/) — ΔT 0.64
+1. [Scottish Chamber Orchestra, The](/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/) — ΔT 0.76
+1. [Dunbartonshire](/setts/s9/g11k2g1m4db1m4db13lt2db1~x4/) — ΔT 0.78
+1. [Stewart of Appin Hunting Clan Tartan Tartan Number: 430. Earliest known date: 1930-50 There is extensive correspondence about the use of the terms 'ancient' and 'hunting' in relation to this sett in the Stewart files at the Scottish Tartan Society. The use of brown makes this sett proportionately similar to the count recorded by James Scarlett as early nineteenth century. He says that the brown was probably black originally. (No. 417, The Highland Textile, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g11r4g4r7g41dy11t4db41r4db8/) — ΔT 0.79
+1. [Maitland Chief](/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/) — ΔT 0.80
+1. [Heckenberg Htg (Personal)](/setts/s7/db3g13t1r3t1db10ly1~x2/) — ΔT 0.87
+1. [Law Society of Scotland](/setts/s10/t5r3t30k6w4k6g24r4g6r3/) — ΔT 0.89
+1. [Downie (Name)](/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/) — ΔT 0.89
+1. [Stewart of Appin Htg (Clan)](/setts/s10/g8r3g3r5g26dy7t3db28r3db6~x2/) — ΔT 0.90
+1. [Sverker](/setts/s10/lt2dt8n16dy3dt20dy3dt3dy3n4w2~x2/) — ΔT 0.91
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/"><circle cx="262.3" cy="170.6" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.4" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/setts/s9/g11k2g1m4db1m4db13lt2db1~x4/"><circle cx="195.6" cy="161.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s10/g11r4g4r7g41dy11t4db41r4db8/"><circle cx="238.6" cy="178.3" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan Tartan Number: 430. Earliest known date: 1930-50 There is extensive correspondence about the use of the terms 'ancient' and 'hunting' in relation to this sett in the Stewart files at the Scottish Tartan Society. The use of brown makes this sett proportionately similar to the count recorded by James Scarlett as early nineteenth century. He says that the brown was probably black originally. (No. 417, The Highland Textile, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/"><circle cx="241.8" cy="173.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/setts/s7/db3g13t1r3t1db10ly1~x2/"><circle cx="236.5" cy="178.7" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/setts/s10/t5r3t30k6w4k6g24r4g6r3/"><circle cx="183.5" cy="164.6" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.9" cy="160.0" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/setts/s10/g8r3g3r5g26dy7t3db28r3db6~x2/"><circle cx="221.8" cy="182.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg (Clan)</title></circle></a><a href="/setts/s10/lt2dt8n16dy3dt20dy3dt3dy3n4w2~x2/"><circle cx="255.6" cy="183.7" r="4" fill="#3465a4"><title>Sverker</title></circle></a><circle cx="238.5" cy="159.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/dp4t2dp2t8k3dp8g3dp4g24g2~x2/

@@ -1,0 +1,55 @@
+---
+title: "MacRae"
+date: 2023-03-18
+---
+**Bands:** [GKGKGRGKBWBKGRGKG](/stripes/gkgkgrgkbwbkgrgkg/) · **Stripes:** [DG K DG K DG R DG K DB W DB K DG R DG K DG](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K DG K DG R DG K DB W DB K DG R DG K DG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2738
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2738](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2738)
+- Scottish Tartans World Register: 773
+
+## Thread count
+G/24 K6 G24 K6 G24 R4 G6 K2 B6 LN2 B6 K2 G6 R4 G24 K6 G/48
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Owen of Wales](/setts/s18/g18db2g2db3g3r1g2dt1g3dt1g2r1g3db3g2db2g18dt2~x2/) — ΔT 1.40
+1. [Wexford Irish County Tartan Tartan Number: 2251. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/) — ΔT 1.58
+1. [Hilton Check](/setts/s13/dg25k1lr2k1dg4k1r2k1dg4k1ly2k1dg25~x4/) — ΔT 1.68
+1. [Asher Personal Tartan Tartan Number: 3840. Earliest known date: 2002 Designed by Robert Asher of London to recognise his family's Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/dg40k2db3r4db3k2dg40w3dg40k2db3r4db3k2~x2/) — ΔT 1.73
+1. [Owen Welsh Name Tartan Tartan Number: 5750. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Bowen, Ifan, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g3dt1g2r1g3db3g2db2g18dt2~x2/) — ΔT 1.78
+1. [Glencross (Kirkbampton) (Personal)](/setts/s13/w3dg35db3dg2db3dg10r3dg2r3dg2r3dg10lo2~x2/) — ΔT 1.85
+1. [Wexford, County](/setts/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/) — ΔT 1.86
+1. [McCall, F.W. (Personal)](/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/) — ΔT 1.96
+1. [Ross Hunting #2](/setts/s25/dg4g2dg3g3dg4k5dg3k5dg28r2dg4r2dg4r2dg28k5dg3k5dg4g2dg2g2dg3g4dg3~x2/) — ΔT 1.98
+1. [St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dt16g4dt3g3lo2g24r2g24lo2g3dt3g4~x2/) — ΔT 1.99
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g18db2g2db3g3r1g2dt1g3dt1g2r1g3db3g2db2g18dt2~x2/"><circle cx="533.8" cy="167.2" r="4" fill="#3465a4"><title>Owen of Wales</title></circle></a><a href="/setts/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/"><circle cx="495.6" cy="124.3" r="4" fill="#3465a4"><title>Wexford Irish County Tartan Tartan Number: 2251. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/dg25k1lr2k1dg4k1r2k1dg4k1ly2k1dg25~x4/"><circle cx="583.4" cy="136.2" r="4" fill="#3465a4"><title>Hilton Check</title></circle></a><a href="/setts/s14/dg40k2db3r4db3k2dg40w3dg40k2db3r4db3k2~x2/"><circle cx="523.7" cy="138.6" r="4" fill="#3465a4"><title>Asher Personal Tartan Tartan Number: 3840. Earliest known date: 2002 Designed by Robert Asher of London to recognise his family's Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g3dt1g2r1g3db3g2db2g18dt2~x2/"><circle cx="537.0" cy="193.5" r="4" fill="#3465a4"><title>Owen Welsh Name Tartan Tartan Number: 5750. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Bowen, Ifan, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w3dg35db3dg2db3dg10r3dg2r3dg2r3dg10lo2~x2/"><circle cx="477.7" cy="138.6" r="4" fill="#3465a4"><title>Glencross (Kirkbampton) (Personal)</title></circle></a><a href="/setts/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/"><circle cx="482.0" cy="124.5" r="4" fill="#3465a4"><title>Wexford, County</title></circle></a><a href="/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/"><circle cx="476.4" cy="217.8" r="4" fill="#3465a4"><title>McCall, F.W. (Personal)</title></circle></a><a href="/setts/s25/dg4g2dg3g3dg4k5dg3k5dg28r2dg4r2dg4r2dg28k5dg3k5dg4g2dg2g2dg3g4dg3~x2/"><circle cx="445.0" cy="149.8" r="4" fill="#3465a4"><title>Ross Hunting #2</title></circle></a><a href="/setts/s12/dt16g4dt3g3lo2g24r2g24lo2g3dt3g4~x2/"><circle cx="448.3" cy="201.2" r="4" fill="#3465a4"><title>St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="519.2" cy="158.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s17/dg24k3dg12r2dg3k1db3w1db3k1dg3r2dg12k3dg12k3dg12~x2/

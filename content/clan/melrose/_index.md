@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Melrose of Alabama](/clan/melrose/alabama/)
+- [Melrose of Alabama](/families/melrose-of-alabama/)
 

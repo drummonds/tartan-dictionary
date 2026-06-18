@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Rattray of Lude](/clan/rattray/lude/)
+- [Rattray of Lude](/families/rattray-of-lude/)
 

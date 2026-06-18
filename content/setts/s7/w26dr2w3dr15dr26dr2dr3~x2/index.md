@@ -1,0 +1,51 @@
+---
+title: "Gavin (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BBBBWBW](/stripes/bbbbwbw/) · **Stripes:** [DR DR DR DR W DR W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DR DR DR DR W DR W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/4960/
+
+## Thread count
+DRa/6 DR4 DRa52 DRa30 W6 DRb4 W/52
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> `#4C0000` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.25 |
+| DRa | <code style="background-color:#680028;"><span style="color:#680028;filter:grayscale(1) invert(1) contrast(100);">#680028</span></code> `#680028` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DRb | <code style="background-color:#680028;"><span style="color:#680028;filter:grayscale(1) invert(1) contrast(100);">#680028</span></code> `#680028` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DRa/6 DR4 DRa52 DRa30 W6 DRb4 W/52 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacFie Dress](/setts/s9/lo1r12g2r2w16r2g2r12w1~x4/) — ΔT 1.23
+1. [MacPherson Dress Burgundy (Dance)](/setts/s7/w4k2w25r21w3r8ly3~x2/) — ΔT 1.29
+1. [Buchanan #5](/setts/s6/k2w28r13w2r13w2~x2/) — ΔT 1.35
+1. [Instakilt, Pink (Fashion)](/setts/s7/m8w4m50k12m4k15m5~x2/) — ΔT 1.38
+1. [Texas Lone Star](/setts/s7/r50db14w6db9ly3db4r4~x2/) — ΔT 1.39
+1. [Nisbet Dress Rose (Dance)](/setts/s6/m3w1m20k8w8g2~x4/) — ΔT 1.41
+1. [Nesbit, Rose](/setts/s6/r6lb3r37k16lb16g4~x2/) — ΔT 1.44
+1. [Cunningham Dress Burgundy (Dance)](/setts/s7/w5r2w34r34k2r2ly4~x2/) — ΔT 1.48
+1. [Broberg (Scania) (Personal)](/setts/s4/r80lb40k5lo6/) — ΔT 1.55
+1. [Arduaine, Red (Dance)](/setts/s7/w5k2w30r24w3r8dt3~x2/) — ΔT 1.59
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lo1r12g2r2w16r2g2r12w1~x4/"><circle cx="309.8" cy="134.2" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><a href="/setts/s7/w4k2w25r21w3r8ly3~x2/"><circle cx="265.4" cy="152.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="323.4" cy="170.9" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s7/m8w4m50k12m4k15m5~x2/"><circle cx="366.3" cy="153.9" r="4" fill="#3465a4"><title>Instakilt, Pink (Fashion)</title></circle></a><a href="/setts/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="350.6" cy="123.7" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/setts/s6/m3w1m20k8w8g2~x4/"><circle cx="301.6" cy="152.2" r="4" fill="#3465a4"><title>Nisbet Dress Rose (Dance)</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="267.2" cy="172.2" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2ly4~x2/"><circle cx="281.4" cy="121.0" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/setts/s4/r80lb40k5lo6/"><circle cx="362.0" cy="182.8" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/setts/s7/w5k2w30r24w3r8dt3~x2/"><circle cx="297.3" cy="141.1" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><circle cx="305.3" cy="151.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/w26dr2w3dr15dr26dr2dr3~x2/

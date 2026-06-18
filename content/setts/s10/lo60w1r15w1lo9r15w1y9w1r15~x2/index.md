@@ -1,0 +1,47 @@
+---
+title: "Smith Hunting (Name)"
+date: 2023-03-18
+---
+**Bands:** [RWGWRYWRWY](/stripes/rwgwrywrwy/) · **Stripes:** [R W Y W R LO W R W LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R W Y W R LO W R W LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8590/
+
+## Thread count
+LT/120 W2 R30 W2 LT18 R30 W2 G18 W2 R/30
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#5C6428;"><span style="color:#5C6428;filter:grayscale(1) invert(1) contrast(100);">#5C6428</span></code> `#5C6428` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| R | <code style="background-color:#B03000;"><span style="color:#B03000;filter:grayscale(1) invert(1) contrast(100);">#B03000</span></code> `#B03000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.06 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Connacht](/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8/) — ΔT 1.22
+1. [MacByrd (Personal)](/setts/s8/o50k1r12lb1y12r14lb1r2~x4/) — ΔT 1.28
+1. [MacBrair Hunting](/setts/s8/lo57k1r12lb1g12r14lb1r2~x2/) — ΔT 1.31
+1. [MacByrd (Personal)](/setts/s8/y50k1r12lb1y12r14lb1r2~x4/) — ΔT 1.35
+1. [Seton, hunting](/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/) — ΔT 1.48
+1. [MacPherson Of Cluny](/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/) — ΔT 1.65
+1. [MacPherson Of Cluny](/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/) — ΔT 1.65
+1. [Montreal Granate](/setts/s9/lo78r10r1g2r6lo2r3lo2r43~x2/) — ΔT 1.65
+1. [Montreal Granate (Fashion)](/setts/s9/r78lo10lo1g2lo6r2lo3r2lo43~x2/) — ΔT 1.86
+1. [Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/) — ΔT 1.90
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8/"><circle cx="409.7" cy="111.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/setts/s8/o50k1r12lb1y12r14lb1r2~x4/"><circle cx="426.3" cy="114.2" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s8/lo57k1r12lb1g12r14lb1r2~x2/"><circle cx="443.0" cy="104.9" r="4" fill="#3465a4"><title>MacBrair Hunting</title></circle></a><a href="/setts/s8/y50k1r12lb1y12r14lb1r2~x4/"><circle cx="451.3" cy="134.0" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><circle cx="464.8" cy="157.6" r="4" fill="#3465a4"><title>Seton, hunting</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s9/lo78r10r1g2r6lo2r3lo2r43~x2/"><circle cx="508.5" cy="130.5" r="4" fill="#3465a4"><title>Montreal Granate</title></circle></a><a href="/setts/s9/r78lo10lo1g2lo6r2lo3r2lo43~x2/"><circle cx="511.8" cy="130.0" r="4" fill="#3465a4"><title>Montreal Granate (Fashion)</title></circle></a><a href="/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="473.5" cy="165.8" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="462.5" cy="127.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/lo60w1r15w1lo9r15w1y9w1r15~x2/

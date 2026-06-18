@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Cawte of Middlebanknock](/clan/cawte/middlebanknock/)
+- [Cawte of Middlebanknock](/families/cawte-of-middlebanknock/)
 

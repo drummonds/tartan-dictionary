@@ -1,0 +1,62 @@
+---
+title: "Indigo Blue"
+date: 2023-03-18
+---
+**Bands:** [BBKBKBBKBKBKBKBBKBKB](/stripes/bbkbkbbkbkbkbkbbkbkb/) · **Stripes:** [DB T K T K T DB K DB K DB K DB K DB T K T K T](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB T K T K T DB K DB K DB K DB K DB T K T K T</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1823
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Indigo Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1823))
+- undated — Indigo Blue Works Corporate Tartan Tartan Number: 2352. Earliest known date: January 1997 Indigo Blue Works is a UK blue (indigo) denim material weaver and this tartan was designed to promote their products in the Japaneses market. (STS data). The tartan was launched at a filmed ceremony in Pitlochry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2352))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1823](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1823)
+- Scottish Tartans Authority (ITI): 2352
+- Scottish Tartans World Register: 2352
+
+## Thread count
+B/10 K2 B2 K2 B10 DBa36 K2 DB8 K2 DBa18 K2 DB8 K2 DBa36 B10 K2 B2 K2 B10 DBa/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DBa | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Schiehallion](/setts/s20/w2db1b1db31b17db2g3db2g2db4b14db4g2db2g3db2b17db31b1db1~x2/) — ΔT 1.40
+1. [Indigo Blue (Corporate)](/setts/s11/db9k1db4k1db18t5k1t1k1t5db4~x2/) — ΔT 1.40
+1. [Rhys of Wales](/setts/s18/db46db17db5db7db7lo15db3lo3db6lo3db3lo15db7db7db5db17db46w4/) — ΔT 1.43
+1. [Bristow Helicopters](/setts/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/) — ΔT 1.60
+1. [Hawick Common Riding (Commemorative)](/setts/s13/dt4db23dt8db1dt3db2dt2db2dt2db3dt1db4ly4~x2/) — ΔT 1.61
+1. [Dawson-Nunes (Personal)](/setts/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/) — ΔT 1.65
+1. [Scotland's Own](/setts/s22/db2dp2db4k10db2k2db2dp4k15db30y1db4y1db30k15dp4db2k2db2k10db4dp2~x2/) — ΔT 1.65
+1. [Midnight Sunrise](/setts/s16/lo3db1dp1b8dp1db6b3db4k8b1db4dp1db2k4db16dp2~x2/) — ΔT 1.66
+1. [Kinross](/setts/s14/dg20db2g6db2dg4db27lo2db8lo2db27dg4db2g6db2~x2/) — ΔT 1.68
+1. [Italian (Fashion)](/setts/s30/db24k2db24k1lb1k1k12r2k2r2k12k1lb1k1db24r2lb2g2db24k1lb1k1k12r2k2r2k12k1lb1k1~x2/) — ΔT 1.70
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/w2db1b1db31b17db2g3db2g2db4b14db4g2db2g3db2b17db31b1db1~x2/"><circle cx="384.5" cy="108.1" r="4" fill="#3465a4"><title>Schiehallion</title></circle></a><a href="/setts/s11/db9k1db4k1db18t5k1t1k1t5db4~x2/"><circle cx="406.6" cy="185.9" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><a href="/setts/s18/db46db17db5db7db7lo15db3lo3db6lo3db3lo15db7db7db5db17db46w4/"><circle cx="305.8" cy="150.8" r="4" fill="#3465a4"><title>Rhys of Wales</title></circle></a><a href="/setts/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="407.1" cy="139.8" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/setts/s13/dt4db23dt8db1dt3db2dt2db2dt2db3dt1db4ly4~x2/"><circle cx="420.4" cy="169.5" r="4" fill="#3465a4"><title>Hawick Common Riding (Commemorative)</title></circle></a><a href="/setts/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/"><circle cx="345.3" cy="183.9" r="4" fill="#3465a4"><title>Dawson-Nunes (Personal)</title></circle></a><a href="/setts/s22/db2dp2db4k10db2k2db2dp4k15db30y1db4y1db30k15dp4db2k2db2k10db4dp2~x2/"><circle cx="423.4" cy="142.0" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s16/lo3db1dp1b8dp1db6b3db4k8b1db4dp1db2k4db16dp2~x2/"><circle cx="285.3" cy="160.2" r="4" fill="#3465a4"><title>Midnight Sunrise</title></circle></a><a href="/setts/s14/dg20db2g6db2dg4db27lo2db8lo2db27dg4db2g6db2~x2/"><circle cx="358.2" cy="167.1" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/setts/s30/db24k2db24k1lb1k1k12r2k2r2k12k1lb1k1db24r2lb2g2db24k1lb1k1k12r2k2r2k12k1lb1k1~x2/"><circle cx="354.7" cy="93.2" r="4" fill="#3465a4"><title>Italian (Fashion)</title></circle></a><circle cx="356.0" cy="150.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s20/t5k1t1k1t5db18k1db4k1db9k1db4k1db18t5k1t1k1t5db4~x2/

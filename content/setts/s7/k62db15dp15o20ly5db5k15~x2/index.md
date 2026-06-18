@@ -1,0 +1,58 @@
+---
+title: "Black Raven"
+date: 2023-03-18
+---
+**Bands:** [KBBRYBK](/stripes/kbbrybk/) · **Stripes:** [K DB DP O LY DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB DP O LY DB K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10166
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10166)
+
+## Thread count
+K/124 DB30 DBa30 LT40 LY10 DB10 K/30
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#070552;"><span style="color:#070552;filter:grayscale(1) invert(1) contrast(100);">#070552</span></code> `#070552` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| DBa | <code style="background-color:#46306E;"><span style="color:#46306E;filter:grayscale(1) invert(1) contrast(100);">#46306E</span></code> `#46306E` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LT | <code style="background-color:#AD6D14;"><span style="color:#AD6D14;filter:grayscale(1) invert(1) contrast(100);">#AD6D14</span></code> `#AD6D14` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.16 |
+| LY | <code style="background-color:#FBC684;"><span style="color:#FBC684;filter:grayscale(1) invert(1) contrast(100);">#FBC684</span></code> `#FBC684` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/124 DB30 DBa30 LT40 LY10 DB10 K/30 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Black Raven (Fashion)](/setts/s7/k62db15b15dy20ly5db5k15~x2/) — ΔT 0.69
+1. [City of Rome Pipe Band (Corporate)](/setts/s7/r12lo6k88db45k6db6ly6/) — ΔT 1.03
+1. [Joe Strummer Commemorative](/setts/s7/k3dy3y6k12y1dy2dy2~x4/) — ΔT 1.03
+1. [Croy, Jake (Personal)](/setts/s8/n10k7lt2lb2k27b7lt2b7~x2/) — ΔT 1.04
+1. [Model T Ford (Corporate)](/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/) — ΔT 1.21
+1. [New York State Troopers](/setts/s7/n6dp4n2w2n25k26ly4~x2/) — ΔT 1.21
+1. [Apache](/setts/s12/k15db7o3k13o3db7k23o3db7ly2dp4ly2~x2/) — ΔT 1.26
+1. [MacShimsi Personal Tartan Tartan Number: 7318. Earliest known date: 2007 Designed for the MacShimsi Clan in Dundee See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/m11dr5dg5k40ly3~x2/) — ΔT 1.28
+1. [Reese (Personal)](/setts/s6/r4g2r2k5dt22w2~x4/) — ΔT 1.29
+1. [Drambuie Hunting](/setts/s6/lo6dy36k48r4k5lo6/) — ΔT 1.30
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k62db15b15dy20ly5db5k15~x2/"><circle cx="304.7" cy="196.1" r="4" fill="#3465a4"><title>Black Raven (Fashion)</title></circle></a><a href="/setts/s7/r12lo6k88db45k6db6ly6/"><circle cx="336.7" cy="167.3" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/setts/s7/k3dy3y6k12y1dy2dy2~x4/"><circle cx="284.8" cy="206.1" r="4" fill="#3465a4"><title>Joe Strummer Commemorative</title></circle></a><a href="/setts/s8/n10k7lt2lb2k27b7lt2b7~x2/"><circle cx="266.9" cy="169.2" r="4" fill="#3465a4"><title>Croy, Jake (Personal)</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.7" cy="140.4" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s7/n6dp4n2w2n25k26ly4~x2/"><circle cx="258.2" cy="167.0" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/setts/s12/k15db7o3k13o3db7k23o3db7ly2dp4ly2~x2/"><circle cx="280.3" cy="173.2" r="4" fill="#3465a4"><title>Apache</title></circle></a><a href="/setts/s5/m11dr5dg5k40ly3~x2/"><circle cx="366.4" cy="191.5" r="4" fill="#3465a4"><title>MacShimsi Personal Tartan Tartan Number: 7318. Earliest known date: 2007 Designed for the MacShimsi Clan in Dundee See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r4g2r2k5dt22w2~x4/"><circle cx="322.5" cy="177.0" r="4" fill="#3465a4"><title>Reese (Personal)</title></circle></a><a href="/setts/s6/lo6dy36k48r4k5lo6/"><circle cx="300.8" cy="189.9" r="4" fill="#3465a4"><title>Drambuie Hunting</title></circle></a><circle cx="289.9" cy="185.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/k62db15dp15o20ly5db5k15~x2/

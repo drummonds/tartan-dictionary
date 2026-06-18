@@ -1,0 +1,52 @@
+---
+title: "Costa, David (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BBBBBWBWBWBW](/stripes/bbbbbwbwbwbw/) · **Stripes:** [DB DT DB DT DB W DB W DB W DB W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DT DB DT DB W DB W DB W DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11478
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11478](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11478)
+
+## Thread count
+DB/40 K6 DB8 K6 DB24 W2 DB4 W4 DB4 W2 DB24 W/48
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| K | <code style="background-color:#1C1C1C;"><span style="color:#1C1C1C;filter:grayscale(1) invert(1) contrast(100);">#1C1C1C</span></code> `#1C1C1C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [University of North Carolina at Greensboro, The](/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/) — ΔT 1.35
+1. [Scottish Qualifications Authority](/setts/s12/db36lo5db8lb3db8lb10db3lb10db8lb3db8lo5~x2/) — ΔT 1.51
+1. [Antigonish](/setts/s8/t4db1t4db24w6db4w1db2~x4/) — ΔT 1.54
+1. [Unidentified #26](/setts/s10/db5w12db4w4db4w3db37w3db3r4~x2/) — ΔT 1.58
+1. [Gonzaga University’s True Blue and White](/setts/s7/w6db2w3db2g2db20r1~x2/) — ΔT 1.59
+1. [California Riverside, University of (Corporate)](/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/) — ΔT 1.62
+1. [Majewski-White (Personal)](/setts/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/) — ΔT 1.64
+1. [Traynor](/setts/s10/lb2db18lb3db4lb3db4lb30db3lb2ly2~x2/) — ΔT 1.66
+1. [Bruichladdich (Corporate)](/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/) — ΔT 1.68
+1. [Buckleigh Dress (Fashion)](/setts/s10/k3r1k1w20k10r2k2w2k2r2~x4/) — ΔT 1.69
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/"><circle cx="425.8" cy="130.0" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/setts/s12/db36lo5db8lb3db8lb10db3lb10db8lb3db8lo5~x2/"><circle cx="365.1" cy="174.7" r="4" fill="#3465a4"><title>Scottish Qualifications Authority</title></circle></a><a href="/setts/s8/t4db1t4db24w6db4w1db2~x4/"><circle cx="417.0" cy="151.1" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/setts/s10/db5w12db4w4db4w3db37w3db3r4~x2/"><circle cx="395.2" cy="157.9" r="4" fill="#3465a4"><title>Unidentified #26</title></circle></a><a href="/setts/s7/w6db2w3db2g2db20r1~x2/"><circle cx="377.2" cy="139.0" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/"><circle cx="352.9" cy="148.5" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/setts/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/"><circle cx="403.7" cy="142.2" r="4" fill="#3465a4"><title>Majewski-White (Personal)</title></circle></a><a href="/setts/s10/lb2db18lb3db4lb3db4lb30db3lb2ly2~x2/"><circle cx="346.4" cy="149.9" r="4" fill="#3465a4"><title>Traynor</title></circle></a><a href="/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/"><circle cx="320.4" cy="124.1" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/setts/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="285.5" cy="119.1" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><circle cx="344.0" cy="130.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/

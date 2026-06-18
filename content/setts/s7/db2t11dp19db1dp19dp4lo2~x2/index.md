@@ -1,0 +1,52 @@
+---
+title: "Brigid Mhairi (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BBBBBBY](/stripes/bbbbbby/) · **Stripes:** [DB T DP DB DP DP LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB T DP DB DP DP LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10401/
+
+## Thread count
+DB/4 B22 DP38 DB2 DP38 P8 O/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/4 B22 DP38 DB2 DP38 P8 O/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Stradling (Name)](/setts/s6/db40w7db60k10r25ly4/) — ΔT 1.22
+1. [McIntosh, Stuart (Personal)](/setts/s6/dp20t8g8db8dp33r3~x2/) — ΔT 1.32
+1. [Heritage of Wales (Fashion)](/setts/s7/r10db4r6db30k10db5w2~x2/) — ΔT 1.50
+1. [European Judo Union](/setts/s6/r28r1db18ly2g1db18~x2/) — ΔT 1.57
+1. [Cheadle (Personal)](/setts/s6/dp10ly3dp8db42g5o5~x2/) — ΔT 1.63
+1. [Widows Sons Scotland (MRA)](/setts/s6/o9k16dg10k22dp67ly4/) — ΔT 1.67
+1. [Doten (2013)](/setts/s5/r14lr6db38k3g2~x2/) — ΔT 1.71
+1. [Warren Wilson College (Corporate)](/setts/s8/g20lr6db20ly3db48r6db4r6~x2/) — ΔT 1.75
+1. [MacGregor, Modern](/setts/s6/db18r9db2r3k1o1~x4/) — ΔT 1.78
+1. [Eidart](/setts/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/) — ΔT 1.78
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db40w7db60k10r25ly4/"><circle cx="385.9" cy="193.8" r="4" fill="#3465a4"><title>Stradling (Name)</title></circle></a><a href="/setts/s6/dp20t8g8db8dp33r3~x2/"><circle cx="387.4" cy="215.7" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.2" cy="187.3" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s6/r28r1db18ly2g1db18~x2/"><circle cx="365.2" cy="160.4" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><a href="/setts/s6/dp10ly3dp8db42g5o5~x2/"><circle cx="356.7" cy="185.9" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/setts/s6/o9k16dg10k22dp67ly4/"><circle cx="309.6" cy="168.7" r="4" fill="#3465a4"><title>Widows Sons Scotland (MRA)</title></circle></a><a href="/setts/s5/r14lr6db38k3g2~x2/"><circle cx="348.4" cy="163.3" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/setts/s8/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="351.1" cy="165.3" r="4" fill="#3465a4"><title>Warren Wilson College (Corporate)</title></circle></a><a href="/setts/s6/db18r9db2r3k1o1~x4/"><circle cx="390.7" cy="175.6" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><a href="/setts/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="400.3" cy="189.0" r="4" fill="#3465a4"><title>Eidart</title></circle></a><circle cx="398.1" cy="177.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/db2t11dp19db1dp19dp4lo2~x2/

@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Johnstons of Elgin Bicentennial](/clan/johnstons/elgin-bicentennial/)
-- [Johnstons of Elgin Bicentennial (Com](/clan/johnstons/elgin-bicentennial-com/)
+- [Johnstons of Elgin Bicentennial](/families/johnstons-of-elgin-bicentennial/)
+- [Johnstons of Elgin Bicentennial (Com](/families/johnstons-of-elgin-bicentennial-com/)
 

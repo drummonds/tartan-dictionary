@@ -1,0 +1,63 @@
+---
+title: "Forfar Farmington"
+date: 2023-03-18
+---
+**Bands:** [GBKBGKYGRGWG](/stripes/gbkbgkygrgwg/) · **Stripes:** [DG DB K DB DG K LY DG R DG W DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DG DB K DB DG K LY DG R DG W DG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1230
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Forfar Farmington (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1230))
+- 2005 — Forfar Farmington (Commemorative?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6502/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1230](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1230)
+- Scottish Tartans Authority (ITI): 6502
+
+## Thread count
+DG/6 DB6 K6 DB6 DG38 K20 Y6 DG30 R6 DG30 LN6 DG/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Royal Army of Oman](/setts/s12/dg6w3dg15r3dg15ly3k10dg21r3k3r3dg3~x2/) — ΔT 1.04
+1. [MacStumer Hunting](/setts/s9/k3dg14k8dg8r3dg4lo3dg24w3~x2/) — ΔT 1.32
+1. [Battle of the Somme Centenary](/setts/s9/lr3o3r5dg10g3dg10k4dg24r3~x2/) — ΔT 1.41
+1. [Pendleton dress](/setts/s11/db6k40dg34ly5dg34k6dg34r5dg34k40db6/) — ΔT 1.44
+1. [Pendleton hunting](/setts/s11/db2k16dg14lo3dg14k3dg14r3dg14k16db2/) — ΔT 1.51
+1. [Bhoyrub Clan/Family Tartan Tartan Number: 6953. Earliest known date: 2006 The tartan first appeared at the wedding of Iggy Bhoyrub in Aug 2006. Based on the colours of the two nations flags, Scotland and Mauritius. Robert Farquhar was first governor of Mauritius. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dt20g3ly3dt3r7g6dt3k12dt3k3dt24w3~x2/) — ΔT 1.59
+1. [Vorwerk, The](/setts/s9/g40db8g8lp8db5lp13k9g40r4/) — ΔT 1.69
+1. [Otago Peninsula](/setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/) — ΔT 1.76
+1. [Edinburgh Bus Tours](/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/) — ΔT 1.84
+1. [Pike (Personal)](/setts/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/) — ΔT 1.85
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg6w3dg15r3dg15ly3k10dg21r3k3r3dg3~x2/"><circle cx="336.6" cy="197.4" r="4" fill="#3465a4"><title>Royal Army of Oman</title></circle></a><a href="/setts/s9/k3dg14k8dg8r3dg4lo3dg24w3~x2/"><circle cx="377.8" cy="208.1" r="4" fill="#3465a4"><title>MacStumer Hunting</title></circle></a><a href="/setts/s9/lr3o3r5dg10g3dg10k4dg24r3~x2/"><circle cx="365.6" cy="202.7" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/setts/s11/db6k40dg34ly5dg34k6dg34r5dg34k40db6/"><circle cx="265.6" cy="210.6" r="4" fill="#3465a4"><title>Pendleton dress</title></circle></a><a href="/setts/s11/db2k16dg14lo3dg14k3dg14r3dg14k16db2/"><circle cx="257.8" cy="212.1" r="4" fill="#3465a4"><title>Pendleton hunting</title></circle></a><a href="/setts/s12/dt20g3ly3dt3r7g6dt3k12dt3k3dt24w3~x2/"><circle cx="260.9" cy="164.7" r="4" fill="#3465a4"><title>Bhoyrub Clan/Family Tartan Tartan Number: 6953. Earliest known date: 2006 The tartan first appeared at the wedding of Iggy Bhoyrub in Aug 2006. Based on the colours of the two nations flags, Scotland and Mauritius. Robert Farquhar was first governor of Mauritius. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g40db8g8lp8db5lp13k9g40r4/"><circle cx="309.8" cy="169.4" r="4" fill="#3465a4"><title>Vorwerk, The</title></circle></a><a href="/setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/"><circle cx="281.4" cy="180.6" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><a href="/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/"><circle cx="254.9" cy="178.8" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="339.0" cy="226.5" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><circle cx="311.4" cy="194.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/dg5w3dg15r3dg15ly3k10dg19db3k3db3dg3~x2/

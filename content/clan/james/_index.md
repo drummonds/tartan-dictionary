@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [James of Glencarr](/clan/james/glencarr/)
-- [James of Wales](/clan/james/wales/)
+- [James of Glencarr](/families/james-of-glencarr/)
+- [James of Wales](/families/james-of-wales/)
 

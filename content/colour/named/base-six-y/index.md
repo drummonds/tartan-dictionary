@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#F2BF00;border:1px solid #0003;flex:none"></span><div><strong>Yellow</strong> · code <code>Y</code> · Base Six · ref <code>33-07-11</code><br>sRGB <code>#F2BF00</code> · OKLab L 0.827 a +0.002 b +0.169 · grid <code>33-07-090</code></div></div>
 
+Yellow — the cultural sixth role: a thin accent line in many setts, intrinsically light so it reads as gold.
+
 The nearest named colour is **Lemon** (Human Palette), 0.036 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |

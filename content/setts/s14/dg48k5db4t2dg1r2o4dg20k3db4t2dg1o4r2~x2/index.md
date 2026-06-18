@@ -1,0 +1,55 @@
+---
+title: "Heart of Alba"
+date: 2023-03-18
+---
+**Bands:** [GKBBGRRGKBBGRR](/stripes/gkbbgrrgkbbgrr/) · **Stripes:** [DG K DB T DG R O DG K DB T DG O R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K DB T DG R O DG K DB T DG O R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11507
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11507](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11507)
+
+## Thread count
+DG/96 K10 DB8 B4 DG2 R4 N8 DG40 K6 DB8 B4 DG2 N8 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Anderson Green](/setts/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/) — ΔT 1.44
+1. [Cockburn](/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2~x2/) — ΔT 1.53
+1. [Cockburn](/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2/) — ΔT 1.53
+1. [Quraysh](/setts/s18/dt8k50y2k2o2k24dt8k2y2n1y2n8y2n8y2n1y2k2~x2/) — ΔT 1.55
+1. [Berry Tribute](/setts/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/) — ΔT 1.56
+1. [Granvert](/setts/s9/dg115k15r8k4b8k4ly8k4g8~x2/) — ΔT 1.56
+1. [Springbok](/setts/s12/dg3g2dg40dy2dg4dy8w1g4dg2o4ly4w2~x2/) — ΔT 1.60
+1. [State Seal of Vermont (Fashion)](/setts/s14/db4dg1g14dy8dg4lo3dg4dy8dg65dy5dg3b12dg1lo3~x2/) — ΔT 1.60
+1. [Guildford Town Centre (British Columbia)](/setts/s16/n38k5y5k5n5w2n12k10dy5k5dy10k9n76k9y2k5~x2/) — ΔT 1.61
+1. [Moran Family Ubique](/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/) — ΔT 1.65
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/"><circle cx="483.1" cy="91.3" r="4" fill="#3465a4"><title>Anderson Green</title></circle></a><a href="/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2~x2/"><circle cx="370.4" cy="72.7" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2/"><circle cx="370.4" cy="72.7" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s18/dt8k50y2k2o2k24dt8k2y2n1y2n8y2n8y2n1y2k2~x2/"><circle cx="437.7" cy="80.1" r="4" fill="#3465a4"><title>Quraysh</title></circle></a><a href="/setts/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/"><circle cx="467.0" cy="101.3" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/setts/s9/dg115k15r8k4b8k4ly8k4g8~x2/"><circle cx="421.4" cy="101.4" r="4" fill="#3465a4"><title>Granvert</title></circle></a><a href="/setts/s12/dg3g2dg40dy2dg4dy8w1g4dg2o4ly4w2~x2/"><circle cx="398.0" cy="75.4" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/setts/s14/db4dg1g14dy8dg4lo3dg4dy8dg65dy5dg3b12dg1lo3~x2/"><circle cx="387.2" cy="75.9" r="4" fill="#3465a4"><title>State Seal of Vermont (Fashion)</title></circle></a><a href="/setts/s16/n38k5y5k5n5w2n12k10dy5k5dy10k9n76k9y2k5~x2/"><circle cx="437.8" cy="93.7" r="4" fill="#3465a4"><title>Guildford Town Centre (British Columbia)</title></circle></a><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.6" cy="104.1" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><circle cx="467.3" cy="81.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/dg48k5db4t2dg1r2o4dg20k3db4t2dg1o4r2~x2/

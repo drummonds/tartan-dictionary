@@ -1,0 +1,58 @@
+---
+title: "Fitzgerald Dress"
+date: 2023-03-18
+---
+**Bands:** [WKRBRRRRRBRBYGRBRRRRRBRKW](/stripes/wkrbrrrrrbrbygrbrrrrrbrkw/) · **Stripes:** [W K R DB R R R R R DB R DB LY G R DB R R R R R DB R K W](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K R DB R R R R R DB R DB LY G R DB R R R R R DB R K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1195
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1195](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1195)
+- Scottish Tartans Authority (ITI): 1818
+- Scottish Tartans World Register: 1818
+
+## Thread count
+LN/8 K4 R12 DB12 R12 DR12 R76 DR12 R12 DB12 R12 DB116 LG12 G116 R12 DB12 R12 DR12 R76 DR12 R12 DB12 R12 K4 LN/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000088;"><span style="color:#000088;filter:grayscale(1) invert(1) contrast(100);">#000088</span></code> `#000088` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#9C0030;"><span style="color:#9C0030;filter:grayscale(1) invert(1) contrast(100);">#9C0030</span></code> `#9C0030` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| G | <code style="background-color:#007800;"><span style="color:#007800;filter:grayscale(1) invert(1) contrast(100);">#007800</span></code> `#007800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LG | <code style="background-color:#9C9C00;"><span style="color:#9C9C00;filter:grayscale(1) invert(1) contrast(100);">#9C9C00</span></code> `#9C9C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C40000;"><span style="color:#C40000;filter:grayscale(1) invert(1) contrast(100);">#C40000</span></code> `#C40000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Holyrood (Chair)](/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1r6t10db2w1t2dg2ly1w1dg10db10w1~x2/) — ΔT 1.09
+1. [Macan, of Lurgyvallan](/setts/s24/r16g1r1g1r1g4k1w1k1ly1k1t6db4t6k1ly1k1w1k1g4r12g1r1k1~x2/) — ΔT 1.21
+1. [Unnamed C18th - Hynde Cotton Jacket](/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/) — ΔT 1.21
+1. [Sellers/Sillars](/setts/s22/dy63k4lb9ly2db4ly2db4dy11r8lb2r4w5r4lb2r8dy11db4ly2db4ly2lb9k4~x2/) — ΔT 1.23
+1. [Hay or Leith](/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/) — ΔT 1.23
+1. [Macan of Lurgyvallan](/setts/s24/r16g1r1g1r1g4k1lb1k1ly1k1t6db4t6k1ly1k1lb1k1g4r12g1r1k1~x4/) — ΔT 1.31
+1. [Stewart](/setts/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/) — ΔT 1.32
+1. [Hay & Leith - 1800 (Clan)](/setts/s23/k10r3ly3k6r48dg6r2ly2r6dg40w2k38r2dp40r6ly2r2dp6r48k6ly2r3k10/) — ΔT 1.36
+1. [Hay, or Leith](/setts/s23/k3r1ly1k2r16g2r1ly1r2g15w1k15r1db15r2ly1r1p2r16k2ly1r1k3~x2/) — ΔT 1.38
+1. [Ross Wedding Dress](/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1r6t10db2w1t2dg2ly1w1dg10db10w1~x2/"><circle cx="178.2" cy="28.2" r="4" fill="#3465a4"><title>Holyrood (Chair)</title></circle></a><a href="/setts/s24/r16g1r1g1r1g4k1w1k1ly1k1t6db4t6k1ly1k1w1k1g4r12g1r1k1~x2/"><circle cx="169.9" cy="36.6" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan</title></circle></a><a href="/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><circle cx="142.1" cy="58.0" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Jacket</title></circle></a><a href="/setts/s22/dy63k4lb9ly2db4ly2db4dy11r8lb2r4w5r4lb2r8dy11db4ly2db4ly2lb9k4~x2/"><circle cx="249.5" cy="14.0" r="4" fill="#3465a4"><title>Sellers/Sillars</title></circle></a><a href="/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/"><circle cx="172.3" cy="50.4" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/setts/s24/r16g1r1g1r1g4k1lb1k1ly1k1t6db4t6k1ly1k1lb1k1g4r12g1r1k1~x4/"><circle cx="186.5" cy="43.4" r="4" fill="#3465a4"><title>Macan of Lurgyvallan</title></circle></a><a href="/setts/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><circle cx="187.8" cy="41.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/setts/s23/k10r3ly3k6r48dg6r2ly2r6dg40w2k38r2dp40r6ly2r2dp6r48k6ly2r3k10/"><circle cx="205.6" cy="50.8" r="4" fill="#3465a4"><title>Hay &amp; Leith - 1800 (Clan)</title></circle></a><a href="/setts/s23/k3r1ly1k2r16g2r1ly1r2g15w1k15r1db15r2ly1r1p2r16k2ly1r1k3~x2/"><circle cx="136.2" cy="41.5" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/"><circle cx="164.9" cy="14.0" r="4" fill="#3465a4"><title>Ross Wedding Dress</title></circle></a><circle cx="185.7" cy="19.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/

@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Phillips of Wales](/clan/phillips/wales/)
+- [Phillips of Wales](/families/phillips-of-wales/)
 

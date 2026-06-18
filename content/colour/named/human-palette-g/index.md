@@ -5,13 +5,15 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#008B2A;border:1px solid #0003;flex:none"></span><div><strong>Green</strong> · code <code>G</code> · Human Palette · ref <code>22-07-147</code><br>sRGB <code>#008B2A</code> · OKLab L 0.554 a -0.141 b +0.095 · grid <code>22-07-147</code></div></div>
 
+Green — with navy and red, one of the three grounds tartan is mostly woven from.
+
 The nearest named colour is **Green** (Base Six), 0.130 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | [Green](/colour/named/base-six-g/) | G | Base Six | 0.130 |
 | <code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> | [Yellow](/colour/named/human-palette-y/) | Y | Human Palette | 0.141 |
-| <code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> | [Teal](/colour/named/human-palette-bg/) | BG | Human Palette | 0.167 |
+| <code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> | [Teal](/colour/named/human-palette-t/) | T | Human Palette | 0.167 |
 | <code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> | [Grey](/colour/named/human-palette-n/) | N | Human Palette | 0.178 |
 | <code style="background-color:#A65C11;"><span style="color:#A65C11;filter:grayscale(1) invert(1) contrast(100);">#A65C11</span></code> | [Orange](/colour/named/human-palette-o/) | O | Human Palette | 0.207 |
 | <code style="background-color:#82D67A;"><span style="color:#82D67A;filter:grayscale(1) invert(1) contrast(100);">#82D67A</span></code> | [Lime](/colour/named/human-palette-lg/) | LG | Human Palette | 0.248 |

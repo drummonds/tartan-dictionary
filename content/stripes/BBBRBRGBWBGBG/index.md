@@ -1,0 +1,42 @@
+---
+title: Pattern BBBRBRGBWBGBG
+date: 2023-03-18
+aliases:
+- /patterns/bbbrbrgbwbgbg/
+---
+BBBRBRGBWBGBG
+
+It is a 13 band tartan.
+
+
+
+## Colour Sequence
+BBBRBRGBWBGBG
+
+
+## Tartans with this colour sequence
+
+Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
+
+
+### DB B DB R DB R DG DB W DB DG DB DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DB B DB R DB R DG DB W DB DG DB DG</span></span>
+
+| Tartans |
+|---------------|
+| [Massachusetts-The Bay State](/setts/s13/dg6db3dg3db11w2db4dg2r4db5r2db24b2db4~x2/)|
+|![Massachusetts-The Bay State example sett](/setts/s13/dg6db3dg3db11w2db4dg2r4db5r2db24b2db4~x2/sett.png)|
+
+### DB B DB R DB R G DB LB DB G DB G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB B DB R DB R G DB LB DB G DB G</span></span>
+
+| Tartans |
+|---------------|
+| [Massachusetts - The Bay State](/setts/s13/g12db6g6db22lb4db8g4r8db10r3db48b4db8/)|
+|![Massachusetts - The Bay State example sett](/setts/s13/g12db6g6db22lb4db8g4r8db10r3db48b4db8/sett.png)|
+
+### DB T DB R DB R G DB LB DB G DB G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB T DB R DB R G DB LB DB G DB G</span></span>
+
+| Tartans |
+|---------------|
+| [Massachusetts - The Bay State (Dist)](/setts/s13/g12db6g6db22lb4db8g4r8db10r3db48t4db8/)|
+|![Massachusetts - The Bay State (Dist) example sett](/setts/s13/g12db6g6db22lb4db8g4r8db10r3db48t4db8/sett.png)|
+

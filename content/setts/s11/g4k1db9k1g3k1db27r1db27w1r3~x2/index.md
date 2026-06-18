@@ -1,0 +1,55 @@
+---
+title: "HMS Neptune"
+date: 2023-03-18
+---
+**Bands:** [GKBKGKBRBWR](/stripes/gkbkgkbrbwr/) · **Stripes:** [G K DB K G K DB R DB W R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K DB K G K DB R DB W R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11238
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11238](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11238)
+
+## Thread count
+G/8 K2 B18 K2 G6 K2 DB54 R2 DB54 W2 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| DB | <code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> `#1C1C50` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [HMS Neptune (Military)](/setts/s11/g4k1dt9k1g3k1db27r1db27w1r3~x2/) — ΔT 0.45
+1. [Quigley of Knockcroghery (Pers)](/setts/s12/db25w2k2db15lo2db1lo2db15k2w2g16r1~x2/) — ΔT 1.01
+1. [Quigley of Knockcroghery (Modern)](/setts/s12/db25w2k2db15lo2db1lo2db15k2w2dg16r1~x2/) — ΔT 1.01
+1. [Scottish American](/setts/s11/db50dp3k3db11dp8db2r6db2db8db2w4~x2/) — ΔT 1.26
+1. [Unidentified #64](/setts/s10/db57ly2db10dg4db4dg9r12db4r4lr2~x2/) — ΔT 1.28
+1. [St. Andrew Quebec City](/setts/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40ly2~x2/) — ΔT 1.28
+1. [State Seal of Wisconsin (Fashion)](/setts/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/) — ΔT 1.32
+1. [Wupper Pipes & Drums (Corporate)](/setts/s14/ly2db2ly1db2ly1db3k6db18g1db18k4w1k4r2~x2/) — ΔT 1.34
+1. [Nocken (Personal)](/setts/s9/lb3k6lb2k6db2k2db32k2n1~x2/) — ΔT 1.34
+1. [Lady Diana, Plaid](/setts/s12/db46r3db7dr2ly2dr2w2dr11o6db2o3w2~x2/) — ΔT 1.37
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g4k1dt9k1g3k1db27r1db27w1r3~x2/"><circle cx="431.4" cy="115.9" r="4" fill="#3465a4"><title>HMS Neptune (Military)</title></circle></a><a href="/setts/s12/db25w2k2db15lo2db1lo2db15k2w2g16r1~x2/"><circle cx="375.9" cy="117.1" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/setts/s12/db25w2k2db15lo2db1lo2db15k2w2dg16r1~x2/"><circle cx="370.5" cy="117.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/setts/s11/db50dp3k3db11dp8db2r6db2db8db2w4~x2/"><circle cx="431.0" cy="114.5" r="4" fill="#3465a4"><title>Scottish American</title></circle></a><a href="/setts/s10/db57ly2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="459.7" cy="118.3" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/setts/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40ly2~x2/"><circle cx="387.3" cy="74.4" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/setts/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/"><circle cx="414.6" cy="122.9" r="4" fill="#3465a4"><title>State Seal of Wisconsin (Fashion)</title></circle></a><a href="/setts/s14/ly2db2ly1db2ly1db3k6db18g1db18k4w1k4r2~x2/"><circle cx="361.2" cy="113.6" r="4" fill="#3465a4"><title>Wupper Pipes &amp; Drums (Corporate)</title></circle></a><a href="/setts/s9/lb3k6lb2k6db2k2db32k2n1~x2/"><circle cx="407.2" cy="120.3" r="4" fill="#3465a4"><title>Nocken (Personal)</title></circle></a><a href="/setts/s12/db46r3db7dr2ly2dr2w2dr11o6db2o3w2~x2/"><circle cx="376.6" cy="88.3" r="4" fill="#3465a4"><title>Lady Diana, Plaid</title></circle></a><circle cx="422.6" cy="110.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/g4k1db9k1g3k1db27r1db27w1r3~x2/

@@ -1,0 +1,53 @@
+---
+title: "Snoozzzeee"
+date: 2023-03-18
+---
+**Bands:** [RBRBWRWBWRWBRBRW](/stripes/rbrbwrwbwrwbrbrw/) · **Stripes:** [R DB R DB LB R LB DB LB R LB DB R DB R LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB R DB LB R LB DB LB R LB DB R DB R LB</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3828
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3828](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3828)
+- Scottish Tartans Authority (ITI): 6102
+
+## Thread count
+LR/6 R3 DB36 R4 DB12 LR24 R72 LR8 DB4 LR8 R72 LR24 DB12 R4 DB36 R/3
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| LR | <code style="background-color:#E8CCB8;"><span style="color:#E8CCB8;filter:grayscale(1) invert(1) contrast(100);">#E8CCB8</span></code> `#E8CCB8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.12 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Snoozzzeee (Corporate)](/setts/s9/lb6r3db36r4db12lb24r72lb8db4/) — ΔT 1.19
+1. [Murray of Tullibardine (plaid)](/setts/s21/db4r1db1r4db12r4db1r1dg4r1db1r26db26r4dg4r26dg21r13db6r5dg1~x2/) — ΔT 1.31
+1. [Chrysanthemum (Japanese Four Seasons)](/setts/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/) — ΔT 1.32
+1. [Danish](/setts/s13/w8k1r24k2r4k2r1k2r4k2db20k1w5~x2/) — ΔT 1.32
+1. [Missouri](/setts/s15/w4db16w2db1w2db8k1r4k2r4k2r24k1w8r2~x2/) — ΔT 1.34
+1. [31, Tartan (The.. )](/setts/s9/db2r21db1w4db7w2db2w2r2~x2/) — ΔT 1.36
+1. [Winthrop University](/setts/s15/ly2w2ly6r2ly2r2ly1r20db1r2db2r2db6w2r2~x2/) — ΔT 1.41
+1. [Menzies VS](/setts/s12/lr4r1lr2r3lr24dr5r3dr1r1dr1r20lr2~x2/) — ΔT 1.47
+1. [Ross #5](/setts/s18/dg18r2dg18r18dg2r4dg2r18db18r2db18r18db1r1db2r1db1r18~x2/) — ΔT 1.48
+1. [Polish](/setts/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/) — ΔT 1.50
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb6r3db36r4db12lb24r72lb8db4/"><circle cx="307.9" cy="129.2" r="4" fill="#3465a4"><title>Snoozzzeee (Corporate)</title></circle></a><a href="/setts/s21/db4r1db1r4db12r4db1r1dg4r1db1r26db26r4dg4r26dg21r13db6r5dg1~x2/"><circle cx="344.5" cy="113.0" r="4" fill="#3465a4"><title>Murray of Tullibardine (plaid)</title></circle></a><a href="/setts/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/"><circle cx="320.3" cy="105.2" r="4" fill="#3465a4"><title>Chrysanthemum (Japanese Four Seasons)</title></circle></a><a href="/setts/s13/w8k1r24k2r4k2r1k2r4k2db20k1w5~x2/"><circle cx="246.3" cy="90.1" r="4" fill="#3465a4"><title>Danish</title></circle></a><a href="/setts/s15/w4db16w2db1w2db8k1r4k2r4k2r24k1w8r2~x2/"><circle cx="233.8" cy="86.5" r="4" fill="#3465a4"><title>Missouri</title></circle></a><a href="/setts/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="348.0" cy="130.6" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/setts/s15/ly2w2ly6r2ly2r2ly1r20db1r2db2r2db6w2r2~x2/"><circle cx="304.5" cy="88.9" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/setts/s12/lr4r1lr2r3lr24dr5r3dr1r1dr1r20lr2~x2/"><circle cx="357.0" cy="119.9" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/setts/s18/dg18r2dg18r18dg2r4dg2r18db18r2db18r18db1r1db2r1db1r18~x2/"><circle cx="312.2" cy="147.8" r="4" fill="#3465a4"><title>Ross #5</title></circle></a><a href="/setts/s14/r4w2r24w8db2w1db2w4db2w1db2w8db16w4~x2/"><circle cx="225.6" cy="103.2" r="4" fill="#3465a4"><title>Polish</title></circle></a><circle cx="301.1" cy="109.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/lb6r3db36r4db12lb24r72lb8db4lb8r72lb24db12r4db36r3/

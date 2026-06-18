@@ -1,0 +1,52 @@
+---
+title: "Tartan Lassie (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [WBYBGY](/stripes/wbybgy/) · **Stripes:** [W B LR B G LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W B LR B G LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7883/
+
+## Thread count
+LN/6 B46 LR88 B52 G8 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#444890;"><span style="color:#444890;filter:grayscale(1) invert(1) contrast(100);">#444890</span></code> `#444890` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.04 |
+| G | <code style="background-color:#248814;"><span style="color:#248814;filter:grayscale(1) invert(1) contrast(100);">#248814</span></code> `#248814` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.12 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LR | <code style="background-color:#ECA0A0;"><span style="color:#ECA0A0;filter:grayscale(1) invert(1) contrast(100);">#ECA0A0</span></code> `#ECA0A0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/6 B46 LR88 B52 G8 Y/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [St. Andrew's Links Dress (Corporate)](/setts/s7/lr30lp4lr3dp2r2dp24w2~x2/) — ΔT 1.22
+1. [Prehospital EMS (Corporate)](/setts/s5/k1w7lo7b16ly1~x4/) — ΔT 1.25
+1. [Cornish, National Day](/setts/s5/k5w2ly36b47r3~x2/) — ΔT 1.41
+1. [Manx Laxey](/setts/s6/b4g16ly2p7b28w4~x2/) — ΔT 1.41
+1. [Cramer (Personal)](/setts/s6/m24k4lb10db3m3w2~x2/) — ΔT 1.45
+1. [Mount Vernon Primary School (Corp)](/setts/s5/lb25db11r5w1k1~x4/) — ΔT 1.47
+1. [Herriot (New Zealand) (Name)](/setts/s6/w15ly2dt5lr3t40dt10/) — ΔT 1.53
+1. [Shiel, Magenta (Dance)](/setts/s7/w8b5t10dp24w30b2dg2~x2/) — ΔT 1.55
+1. [Kinloch of Loch Awe (Personal)](/setts/s5/w18o29t2dp3k1~x2/) — ΔT 1.57
+1. [Prehospital EMS Tartan (USA)](/setts/s5/k1w7r7db16ly1~x4/) — ΔT 1.63
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lr30lp4lr3dp2r2dp24w2~x2/"><circle cx="284.1" cy="130.1" r="4" fill="#3465a4"><title>St. Andrew's Links Dress (Corporate)</title></circle></a><a href="/setts/s5/k1w7lo7b16ly1~x4/"><circle cx="237.7" cy="163.3" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/setts/s5/k5w2ly36b47r3~x2/"><circle cx="288.7" cy="134.4" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/setts/s6/b4g16ly2p7b28w4~x2/"><circle cx="272.4" cy="175.6" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/setts/s6/m24k4lb10db3m3w2~x2/"><circle cx="308.4" cy="159.0" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/setts/s5/lb25db11r5w1k1~x4/"><circle cx="315.5" cy="136.0" r="4" fill="#3465a4"><title>Mount Vernon Primary School (Corp)</title></circle></a><a href="/setts/s6/w15ly2dt5lr3t40dt10/"><circle cx="295.2" cy="152.9" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/setts/s7/w8b5t10dp24w30b2dg2~x2/"><circle cx="208.8" cy="140.5" r="4" fill="#3465a4"><title>Shiel, Magenta (Dance)</title></circle></a><a href="/setts/s5/w18o29t2dp3k1~x2/"><circle cx="324.7" cy="131.6" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/setts/s5/k1w7r7db16ly1~x4/"><circle cx="223.5" cy="155.5" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><circle cx="290.9" cy="148.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/w3b23lr44b26g4ly2~x2/

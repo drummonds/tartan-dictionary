@@ -1,0 +1,54 @@
+---
+title: "Pitlochry"
+date: 2023-03-18
+---
+**Bands:** [BGBGBGBGYGBGBGY](/stripes/bgbgbgbgygbgbgy/) · **Stripes:** [P G P G P G DB G LR G DB G P G LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">P G P G P G DB G LR G DB G P G LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10172
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10172](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10172)
+
+## Thread count
+P/46 G4 P4 G4 P4 G24 DB32 G2 B6 G2 DB32 G24 P32 G2 Y/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#75A1D0;"><span style="color:#75A1D0;filter:grayscale(1) invert(1) contrast(100);">#75A1D0</span></code> `#75A1D0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.28 |
+| DB | <code style="background-color:#00008B;"><span style="color:#00008B;filter:grayscale(1) invert(1) contrast(100);">#00008B</span></code> `#00008B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| G | <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> `#006400` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.01 |
+| P | <code style="background-color:#7D26CD;"><span style="color:#7D26CD;filter:grayscale(1) invert(1) contrast(100);">#7D26CD</span></code> `#7D26CD` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| Y | <code style="background-color:#CDAD00;"><span style="color:#CDAD00;filter:grayscale(1) invert(1) contrast(100);">#CDAD00</span></code> `#CDAD00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Help for Heroes (Corporate)](/setts/s16/r6t25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lb6db3~x2/) — ΔT 0.83
+1. [Daniel (Welsh Name)](/setts/s12/k5db26k2db4k2db26k3lr36k3dt30k3t2/) — ΔT 1.25
+1. [McCruden, Raymond (Personal)](/setts/s15/db15k4db4k4db4k16t16k2g3k2t16k16db18k1w2~x2/) — ΔT 1.29
+1. [Scottish Tourist Guides Association](/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/) — ΔT 1.33
+1. [Australia 2000](/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/) — ΔT 1.34
+1. [O'Reilly Irish Fashion Tartan Tartan Number: 6747. Earliest known date: pre 2005 Scotch Corner (a company in Gateshead, England) have produced various Irish surname tartans over the years. However, it may be considered that this is how many of Scotland's clan tartans came into being so perhaps in a hundred years or so, today's inventions will be regarded as tomorrow's genuine Irish clan/family tartans. Woven by Marton Mills, Yorkshire. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/dp4db2g2dp2g12dp2k2dp1k10db25w2~x2/) — ΔT 1.35
+1. [Coast & Glen (Fishbox) Ltd](/setts/s18/db8w3db8lo2w3t2db19db19t1lg2db4db4t5lg2lo2db4w3db4~x2/) — ΔT 1.37
+1. [Icelandic](/setts/s13/r8w4db24db2db4db2db1db2db4db2db1db20w6~x2/) — ΔT 1.41
+1. [US Air Force Reserve Pipe Band](/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/) — ΔT 1.43
+1. [Rangers F. C. Dress Corporate Tartan Tartan Number: 2171. Earliest known date: 1994 Chris Aitken designed the new 'dress' version of the Rangers F.C. tartan in 1994 to complement the existing corporate tartan which was slightly modified at the same time. The Rangers football club first introduced their clubs tartan in 1989. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/db30k9db5w4db2r2db2w4db5k9db30k9db3w2db6r2db6w2db3k9~x2/) — ΔT 1.44
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r6t25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lb6db3~x2/"><circle cx="190.9" cy="111.9" r="4" fill="#3465a4"><title>Help for Heroes (Corporate)</title></circle></a><a href="/setts/s12/k5db26k2db4k2db26k3lr36k3dt30k3t2/"><circle cx="196.8" cy="132.0" r="4" fill="#3465a4"><title>Daniel (Welsh Name)</title></circle></a><a href="/setts/s15/db15k4db4k4db4k16t16k2g3k2t16k16db18k1w2~x2/"><circle cx="177.9" cy="142.7" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/"><circle cx="146.2" cy="136.5" r="4" fill="#3465a4"><title>Scottish Tourist Guides Association</title></circle></a><a href="/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/"><circle cx="237.3" cy="105.6" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/setts/s11/dp4db2g2dp2g12dp2k2dp1k10db25w2~x2/"><circle cx="243.3" cy="120.4" r="4" fill="#3465a4"><title>O'Reilly Irish Fashion Tartan Tartan Number: 6747. Earliest known date: pre 2005 Scotch Corner (a company in Gateshead, England) have produced various Irish surname tartans over the years. However, it may be considered that this is how many of Scotland's clan tartans came into being so perhaps in a hundred years or so, today's inventions will be regarded as tomorrow's genuine Irish clan/family tartans. Woven by Marton Mills, Yorkshire. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/db8w3db8lo2w3t2db19db19t1lg2db4db4t5lg2lo2db4w3db4~x2/"><circle cx="182.2" cy="98.2" r="4" fill="#3465a4"><title>Coast &amp; Glen (Fishbox) Ltd</title></circle></a><a href="/setts/s13/r8w4db24db2db4db2db1db2db4db2db1db20w6~x2/"><circle cx="248.2" cy="119.3" r="4" fill="#3465a4"><title>Icelandic</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.1" cy="138.5" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s20/db30k9db5w4db2r2db2w4db5k9db30k9db3w2db6r2db6w2db3k9~x2/"><circle cx="211.0" cy="121.4" r="4" fill="#3465a4"><title>Rangers F. C. Dress Corporate Tartan Tartan Number: 2171. Earliest known date: 1994 Chris Aitken designed the new 'dress' version of the Rangers F.C. tartan in 1994 to complement the existing corporate tartan which was slightly modified at the same time. The Rangers football club first introduced their clubs tartan in 1989. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="208.0" cy="120.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/p23g2p2g2p2g12db16g1lr3g1db16g12p16g1ly3~x2/

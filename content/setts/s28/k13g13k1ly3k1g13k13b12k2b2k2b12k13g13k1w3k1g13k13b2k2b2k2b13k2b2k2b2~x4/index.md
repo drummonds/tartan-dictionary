@@ -1,0 +1,48 @@
+---
+title: "Campbell of Argyll (Clan)"
+date: 2023-03-18
+---
+**Bands:** [BKBKBKBKBKGKWKGKBKBKBKGKYKGK](/stripes/bkbkbkbkbkgkwkgkbkbkbkgkykgk/) · **Stripes:** [B K B K B K B K B K G K W K G K B K B K B K G K LY K G K](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">B K B K B K B K B K G K W K G K B K B K B K G K LY K G K</span></span>
+
+
+This was sourced from tartans-authority.  It is a [28 band tartan](/bands/bands28/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1961/
+
+## Thread count
+B/8 K8 B8 K8 B52 K8 B8 K8 B8 K52 G52 K4 W12 K4 G52 K52 B48 K8 B8 K8 B48 K52 G52 K4 Y12 K4 G52 K/52
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Y | <code style="background-color:#DCBC00;"><span style="color:#DCBC00;filter:grayscale(1) invert(1) contrast(100);">#DCBC00</span></code> `#DCBC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gordon 6](/setts/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15ly1g1ly4g1ly1g15k15db3k3db3k3~x2/) — ΔT 0.62
+1. [Campbell of Argyll](/setts/s28/k16g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/) — ΔT 0.72
+1. [Duchess of Albany](/setts/s27/ly2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14r2~x2/) — ΔT 0.76
+1. [Campbell of Argyll](/setts/s29/db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/) — ΔT 0.80
+1. [Dorris](/setts/s21/g24k3g3k3g3k18k2t2k2t2k13w3k13t2k2t2k2k18g19k4g4~x2/) — ΔT 1.01
+1. [MacKenzie, Bailey](/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/) — ΔT 1.04
+1. [Ochiltree](/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/) — ΔT 1.15
+1. [Farquharson](/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/) — ΔT 1.24
+1. [Campbell of Argyll #2](/setts/s28/b1k1b8k8g8k1ly2k1g8k8b1k1b1k1b8k1b1k1b1k8g8k1w2k1g8k8b8k1~x2/) — ΔT 1.30
+1. [Stewart](/setts/s30/db14k12db3dg22dg4k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg4dg22db3k12db14k4~x2/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15ly1g1ly4g1ly1g15k15db3k3db3k3~x2/"><circle cx="137.9" cy="103.6" r="4" fill="#3465a4"><title>Gordon 6</title></circle></a><a href="/setts/s28/k16g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="180.2" cy="103.8" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/setts/s27/ly2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14r2~x2/"><circle cx="171.1" cy="103.8" r="4" fill="#3465a4"><title>Duchess of Albany</title></circle></a><a href="/setts/s29/db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/"><circle cx="128.2" cy="130.7" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/setts/s21/g24k3g3k3g3k18k2t2k2t2k13w3k13t2k2t2k2k18g19k4g4~x2/"><circle cx="152.6" cy="127.5" r="4" fill="#3465a4"><title>Dorris</title></circle></a><a href="/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="191.6" cy="110.4" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/"><circle cx="140.6" cy="124.8" r="4" fill="#3465a4"><title>Ochiltree</title></circle></a><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="205.0" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s28/b1k1b8k8g8k1ly2k1g8k8b1k1b1k1b8k1b1k1b1k8g8k1w2k1g8k8b8k1~x2/"><circle cx="148.6" cy="141.9" r="4" fill="#3465a4"><title>Campbell of Argyll #2</title></circle></a><a href="/setts/s30/db14k12db3dg22dg4k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg4dg22db3k12db14k4~x2/"><circle cx="125.6" cy="106.0" r="4" fill="#3465a4"><title>Stewart</title></circle></a><circle cx="142.9" cy="117.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s28/k13g13k1ly3k1g13k13b12k2b2k2b12k13g13k1w3k1g13k13b2k2b2k2b13k2b2k2b2~x4/

@@ -5,13 +5,15 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#412714;border:1px solid #0003;flex:none"></span><div><strong>Brown</strong> · code <code>DO</code> · Human Palette · ref <code>12-02-055</code><br>sRGB <code>#412714</code> · OKLab L 0.301 a +0.028 b +0.041 · grid <code>12-02-055</code></div></div>
 
+Brown — the sixth Berlin & Kay basic, which sits as the dark rung of orange.
+
 The nearest named colour is **Olive** (Human Palette), 0.023 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> | [Olive](/colour/named/human-palette-dy/) | DY | Human Palette | 0.023 |
 | <code style="background-color:#55120C;"><span style="color:#55120C;filter:grayscale(1) invert(1) contrast(100);">#55120C</span></code> | [Maroon](/colour/named/human-palette-dr/) | DR | Human Palette | 0.059 |
-| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dbg/) | DBG | Human Palette | 0.093 |
+| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dt/) | DT | Human Palette | 0.093 |
 | <code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> | [Bottle](/colour/named/human-palette-dg/) | DG | Human Palette | 0.094 |
 | <code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> | [Aubergine](/colour/named/human-palette-dp/) | DP | Human Palette | 0.135 |
 | <code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> | [Navy](/colour/named/human-palette-db/) | DB | Human Palette | 0.194 |

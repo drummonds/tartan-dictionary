@@ -1,0 +1,48 @@
+---
+title: "Glenorchy - National Archives"
+date: 2023-03-18
+---
+**Bands:** [BBRRGRBBRGRBRBG](/stripes/bbrrgrbbrgrbrbg/) · **Stripes:** [T DB R R G R DB T R G R DB R DB G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T DB R R G R DB T R G R DB R DB G</span></span>
+
+
+This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8713/
+
+## Thread count
+B/2 DB6 LR2 R4 G34 R4 DB16 B2 R8 G16 R4 DB34 LR2 DB4 G/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LR | <code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> `#E87878` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Rankin](/setts/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/) — ΔT 0.59
+1. [Falkirk District Tartan Tartan Number: 2347. Earliest known date: 1989 The original Falkirk "Tartan" , now in the National Museum of Scotland, has a place in history as one of the earliest examples of Scottish cloth in existence. It is a direct link back to the Roman occupation of the area around 250 A.D.and was found stuffed into a pot filled with over 2000 silver coins. This early Celtic tweed used undyed yarn to give a herringbone pattern in brown hues and is considered to be a "poor man's plaid". The Falkirk District Tartan is alive with vibrant colour to reflect that part of Scotland as it is seen today. It was the winning entry by Jim McGeorge (aided by Tony Murray of Stirling) in a public competition run by Falkirk Town Centre Management to create a new image for an area that was rising from the ashes of its former industrial glory. Brown - represents the dominant colour of the original cloth; blue - links Falkirk district with sea via the River Forth and the canals. It is also the colour of the Falkirk "Bairns." Red - is the colour of the blast furnace flames from the Falkirk foundries and yellow - signifies wealth and prosperity. Black - the black lines intersect on blue to show Falkirk at the crossroads of all roads through the region. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/r3ly2dy27b22k2b4k2b4k4b4k2b4k2b22dy27ly2~x2/) — ΔT 0.63
+1. [Glen Orchy #2 or MacIntyre](/setts/s14/g2k2r3g18r3db6t1r4g6r2db18r3g2k2~x2/) — ΔT 0.64
+1. [Glen Orchy](/setts/s15/g3r2r1db18r2g8r4t1db8r2g18r2r1db3t1~x2/) — ΔT 0.75
+1. [Cochrane (1984)](/setts/s15/dg16r2dg2r1dg3r1dg2r2dg12k12r1db16r2db8ly2~x2/) — ΔT 0.80
+1. [Jones Hunting](/setts/s18/g24dp4g3dp8k3t8dp2t2dp4t2dp2t8k3dp8g3dp4g24g2~x2/) — ΔT 0.88
+1. [Ontario (Official)](/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/) — ΔT 0.95
+1. [Unidentified (Teddy Bear)](/setts/s15/dg30ly2dg5ly2dg4k15db29r2db29k15dg5ly2dg4ly2dg17~x2/) — ΔT 1.03
+1. [MacDonald of Clanranald #5](/setts/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/) — ΔT 1.03
+1. [Kilkenny Irish County Tartan Tartan Number: 2280. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/dg25o2db25ly5dg3dp3dg3ly5db25o2dg27dp5dg2~x2/) — ΔT 1.05
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/"><circle cx="251.0" cy="131.1" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s16/r3ly2dy27b22k2b4k2b4k4b4k2b4k2b22dy27ly2~x2/"><circle cx="268.5" cy="136.7" r="4" fill="#3465a4"><title>Falkirk District Tartan Tartan Number: 2347. Earliest known date: 1989 The original Falkirk &quot;Tartan&quot; , now in the National Museum of Scotland, has a place in history as one of the earliest examples of Scottish cloth in existence. It is a direct link back to the Roman occupation of the area around 250 A.D.and was found stuffed into a pot filled with over 2000 silver coins. This early Celtic tweed used undyed yarn to give a herringbone pattern in brown hues and is considered to be a &quot;poor man's plaid&quot;. The Falkirk District Tartan is alive with vibrant colour to reflect that part of Scotland as it is seen today. It was the winning entry by Jim McGeorge (aided by Tony Murray of Stirling) in a public competition run by Falkirk Town Centre Management to create a new image for an area that was rising from the ashes of its former industrial glory. Brown - represents the dominant colour of the original cloth; blue - links Falkirk district with sea via the River Forth and the canals. It is also the colour of the Falkirk &quot;Bairns.&quot; Red - is the colour of the blast furnace flames from the Falkirk foundries and yellow - signifies wealth and prosperity. Black - the black lines intersect on blue to show Falkirk at the crossroads of all roads through the region. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/g2k2r3g18r3db6t1r4g6r2db18r3g2k2~x2/"><circle cx="225.7" cy="130.8" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/setts/s15/g3r2r1db18r2g8r4t1db8r2g18r2r1db3t1~x2/"><circle cx="241.8" cy="126.5" r="4" fill="#3465a4"><title>Glen Orchy</title></circle></a><a href="/setts/s15/dg16r2dg2r1dg3r1dg2r2dg12k12r1db16r2db8ly2~x2/"><circle cx="233.1" cy="144.7" r="4" fill="#3465a4"><title>Cochrane (1984)</title></circle></a><a href="/setts/s18/g24dp4g3dp8k3t8dp2t2dp4t2dp2t8k3dp8g3dp4g24g2~x2/"><circle cx="238.9" cy="137.9" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><a href="/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><circle cx="237.2" cy="122.6" r="4" fill="#3465a4"><title>Ontario (Official)</title></circle></a><a href="/setts/s15/dg30ly2dg5ly2dg4k15db29r2db29k15dg5ly2dg4ly2dg17~x2/"><circle cx="230.5" cy="157.5" r="4" fill="#3465a4"><title>Unidentified (Teddy Bear)</title></circle></a><a href="/setts/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/"><circle cx="203.5" cy="131.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/setts/s13/dg25o2db25ly5dg3dp3dg3ly5db25o2dg27dp5dg2~x2/"><circle cx="263.7" cy="161.4" r="4" fill="#3465a4"><title>Kilkenny Irish County Tartan Tartan Number: 2280. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="249.5" cy="131.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/g3db2r1db17r2g8r4t1db8r2g17r2r1db3t1~x2/

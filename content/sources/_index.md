@@ -1,8 +1,7 @@
 ---
 title: Sources
-date: 2026-06-11
+date: 2023-03-18
 ---
-
 
 Every tartan in the dictionary is traceable to a **source**: a dataset of setts, colours or photographs, each with its own licence and provenance. The dictionary is *derived* data — these sources are the primary record.
 
@@ -12,7 +11,7 @@ When the same cloth is recorded by more than one source, the records **collapse*
 
 | Source | Holds | Records | Status |
 |---|---|---|---|
-| [Editorial curation](/sources/curation/) | editorial curation overlay | 1645 | active |
+| [Editorial curation](/sources/curation/) | editorial curation overlay | 1676 | active |
 | [House of Tartan](/sources/house-of-tartan/) | tartan setts | 2152 | active |
 | [Logan, The Scottish Gaël (1831)](/sources/logan-1831/) | tartan setts | 55 | active |
 | [Scottish Register of Tartans](/sources/register-of-tartans/) | tartan setts | 7427 | active |
@@ -24,4 +23,3 @@ When the same cloth is recorded by more than one source, the records **collapse*
 | [Scottish Register of Tartans (site mirror)](/sources/registry/) | cloth photographs | 9505 | pending |
 | [Lochcarron shade card](/sources/lochcarron-colours/) | colour / shade definitions | 1 | scaffold |
 | [Wikipedia](/sources/wikipedia/) | descriptive text | 1 | scaffold |
-

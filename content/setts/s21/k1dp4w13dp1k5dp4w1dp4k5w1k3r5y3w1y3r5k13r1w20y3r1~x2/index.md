@@ -1,0 +1,56 @@
+---
+title: "Aberdeen (Johnston and Smith)"
+date: 2023-03-18
+---
+**Bands:** [KBWBKBWBKWKRGWGRKRWGR](/stripes/kbwbkbwbkwkrgwgrkrwgr/) · **Stripes:** [K DP W DP K DP W DP K W K R Y W Y R K R W Y R](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DP W DP K DP W DP K W K R Y W Y R K R W Y R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=14
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [14](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=14)
+- Scottish Tartans World Register: 2948
+
+## Thread count
+K/2 DP8 LN26 DP2 K10 P8 LN2 P8 K10 LN2 K6 R10 N6 LN2 N6 R10 K26 R2 LN40 N6 R/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DP | <code style="background-color:#500050;"><span style="color:#500050;filter:grayscale(1) invert(1) contrast(100);">#500050</span></code> `#500050` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> `#808080` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.23 |
+| P | <code style="background-color:#5A008C;"><span style="color:#5A008C;filter:grayscale(1) invert(1) contrast(100);">#5A008C</span></code> `#5A008C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Aberdeen Dress (Dance)](/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/) — ΔT 0.19
+1. [MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3k4w20dy1g1w2db10r20g2k3~x2/) — ΔT 0.74
+1. [Royal Stewart, (Variant)](/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/) — ΔT 0.87
+1. [Royal Stuart/Stewart (Variant)](/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/) — ΔT 0.88
+1. [Anderson](/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lb3k3lb18r1k2r1lb6r3~x2/) — ΔT 0.90
+1. [Declaration of Scottish Independence](/setts/s19/w16b38db2b6db2b4db4b2db6b2db12r16k8ly8r4ly3r2ly16r10/) — ΔT 0.92
+1. [Hebridean Arisaid Red (Dance)](/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/) — ΔT 0.95
+1. [Anderson P](/setts/s21/r3dg6k1r2k1dg6db5r1k3ly1k1ly1k3lb3k3lb18k1r2k1lb6r3~x2/) — ΔT 0.98
+1. [Cooper Dress (Dalgleish #2) (Dance)](/setts/s18/db2r4dy2w28db3w2db3k10r3db2r3g9db1k1db21r4db2dy2~x2/) — ΔT 1.04
+1. [MacBeth Dress (Clan)](/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/) — ΔT 1.06
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/"><circle cx="121.1" cy="53.1" r="4" fill="#3465a4"><title>Aberdeen Dress (Dance)</title></circle></a><a href="/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3k4w20dy1g1w2db10r20g2k3~x2/"><circle cx="115.2" cy="53.7" r="4" fill="#3465a4"><title>MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/"><circle cx="154.3" cy="65.6" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><circle cx="159.8" cy="66.6" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lb3k3lb18r1k2r1lb6r3~x2/"><circle cx="110.0" cy="62.7" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s19/w16b38db2b6db2b4db4b2db6b2db12r16k8ly8r4ly3r2ly16r10/"><circle cx="95.5" cy="70.0" r="4" fill="#3465a4"><title>Declaration of Scottish Independence</title></circle></a><a href="/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/"><circle cx="105.8" cy="80.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s21/r3dg6k1r2k1dg6db5r1k3ly1k1ly1k3lb3k3lb18k1r2k1lb6r3~x2/"><circle cx="115.5" cy="56.9" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/setts/s18/db2r4dy2w28db3w2db3k10r3db2r3g9db1k1db21r4db2dy2~x2/"><circle cx="131.0" cy="37.3" r="4" fill="#3465a4"><title>Cooper Dress (Dalgleish #2) (Dance)</title></circle></a><a href="/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="128.0" cy="73.0" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><circle cx="120.8" cy="53.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s21/k1dp4w13dp1k5dp4w1dp4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/

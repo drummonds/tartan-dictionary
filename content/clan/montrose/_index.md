@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Montrose of Alabama](/clan/montrose/alabama/)
+- [Montrose of Alabama](/families/montrose-of-alabama/)
 

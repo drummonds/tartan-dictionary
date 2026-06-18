@@ -1,0 +1,62 @@
+---
+title: "Campbell"
+date: 2023-03-18
+---
+**Bands:** [BKBKBKGKWKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkwkgkbkbkbkgkykgkbkbkb/) · **Stripes:** [DB K DB K DB K G K W K G K DB K DB K DB K G K LY K G K DB K DB K DB](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G K W K G K DB K DB K DB K G K LY K G K DB K DB K DB</span></span>
+
+
+This was sourced from logan-1831.  It is a [29 band tartan](/bands/bands29/).
+
+Original link /posts/logans-scottish-gael/
+
+## Provenance
+
+James Logan recorded the **Campbell** sett in 1831, on page 402 of the *Table of Clan Tartans* in *The Scottish Gaël* — the earliest systematic published collection of clan setts. Logan gives the stripe widths in eighths of an inch, measured across the cloth and reflected about each end (a half-sett):
+
+> 4 blue · 1 black · 1 blue · 1 black · 1 blue · 8 black · 8 green · 1 black · 2 white · 1 black · 8 green · 8 black · 8 blue · 1 black · 1 blue · 1 black · 8 blue · 8 black · 8 green · 1 black · 2 yellow · 1 black · 8 green · 8 black · 1 blue · 1 black · 1 blue · 1 black · 4 blue
+
+In threads (at 8 to the eighth-inch) that is `B/32 K8 B8 K8 B8 K64 G64 K8 W16 K8 G64 K64 B64 K8 B8 K8 B64 K64 G64 K8 Y16 K8 G64 K64 B8 K8 B8 K8 B/32`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+
+See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
+
+## Related setts
+
+Later records of the **Campbell** name adjusted Logan's counts: [Campbell](/setts/s13/b14k3b3k3b3k16g16k3g16k16b16k3b3~b345064-g5c6428-k101010~x2/); [Campbell #2](/setts/s26/b11k3b11k11g15k2w3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2y3k2g15k11~b2c4084-g005020-k101010-we0e0e0-ye8c000~x2/); [Campbell Brown](/setts/s13/w9k1g31ga30b36ga3b3ga3b36ga30g31k1y9~b2c4084-g503c14-ga005020-k101010-we0e0e0-ye8c000~x2/); [Campbell 'Camel'](/setts/s10/b1y2k5b3k1r4k1r10k1r1~b381c0c-k000000-rb07430-yb0b0b0~x4/). Compare their thread counts with Logan's above.
+
+## Thread count
+DB/32 K8 DB8 K8 DB8 K64 G64 K8 LN16 K8 G64 K64 DB64 K8 DB8 K8 DB64 K64 G64 K8 Y16 K8 G64 K64 DB8 K8 DB8 K8 DB/32
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Campbell of Argyll Clan Tartan Tartan Number: 1961. Earliest known date: 1810-15 This sett appears in the Cockburn Collection, (1815). Logan (1831). Vestiarium Scoticum (1842). Smibert (1850). Smith (1850). Grant (1886). The Setts No: 19 (1950). W & A K Johnston (1906). Like many of the earliest clan setts, the Campbell of Argyll, owes its origin to the post rebellion output of Wilson's of Bannockburn, whose monopoly on military supply dictated design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/) — ΔT 0.08
+1. [MacEwen (Clans Originaux)](/setts/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/) — ΔT 0.62
+1. [Gemmell Clan/Family Tartan Tartan Number: 4125. Earliest known date: 2001 Designed for Thomas Gemmell of Gemmell Tartans, Dumfries. Based on the 42nd sett with the proportions of the Military Medal (MM) overlaid on the single tram-line blue square. The MM was won in World War II by Thomas Gemmell's father Charles Nelson Gemmell (1919-1987) who fought in North Africa, Sicily and mainland Italy. He was a sergeant in the Argyle & Sutherland Highlanders, 8th Battalion. Sample in STA Collection. Can be worn by anyone of the name on applicatioin to Thomas Gemmell. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s26/t8k1t1k1t1k5g6k1g6k5db3t1r1t1r1t1db3k5g6k1g6k5t1k1t1k1~x4/) — ΔT 0.70
+1. [Campbell of Argyll #2](/setts/s28/b1k1b8k8g8k1ly2k1g8k8b1k1b1k1b8k1b1k1b1k8g8k1w2k1g8k8b8k1~x2/) — ΔT 0.81
+1. [Wilson's No.030](/setts/s20/t4k3t2db6k15ly2g16db4t2g2k16g2t2db4g16ly2k15db6t2k3~x2/) — ΔT 0.89
+1. [Killen (Name)](/setts/s26/g8k1w2k1dt8k8g1k1g1k1g8k1g1k1g1k8dt8k1r2dt1r2k1dt8g8k1g5~x2/) — ΔT 0.96
+1. [Campbell of Argyll (no guards)](/setts/s24/b1k1b8k8g8ly2g8k8b1k1b1k1b8k1b1k1b1k8g8w2g8k8b8k1~x2/) — ΔT 0.99
+1. [Stephenson Hunting #2](/setts/s30/g2k1b9k9b9g9k1w1k2w1k1g9k9b9k1r2k1b9k9g9k1w1k2w1k1g9b9k9b9k1~x4/) — ΔT 1.00
+1. [Fyvie](/setts/s20/ly5dg2ly2dg15k9db2k2db2k2db9dg5db9k2db2k2db2k9dg15k2w4~x2/) — ΔT 1.07
+1. [Gordon of Esselmont](/setts/s32/db2k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2~x2/) — ΔT 1.09
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="167.8" cy="150.9" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan Tartan Number: 1961. Earliest known date: 1810-15 This sett appears in the Cockburn Collection, (1815). Logan (1831). Vestiarium Scoticum (1842). Smibert (1850). Smith (1850). Grant (1886). The Setts No: 19 (1950). W &amp; A K Johnston (1906). Like many of the earliest clan setts, the Campbell of Argyll, owes its origin to the post rebellion output of Wilson's of Bannockburn, whose monopoly on military supply dictated design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="182.7" cy="168.4" r="4" fill="#3465a4"><title>MacEwen (Clans Originaux)</title></circle></a><a href="/setts/s26/t8k1t1k1t1k5g6k1g6k5db3t1r1t1r1t1db3k5g6k1g6k5t1k1t1k1~x4/"><circle cx="130.5" cy="154.4" r="4" fill="#3465a4"><title>Gemmell Clan/Family Tartan Tartan Number: 4125. Earliest known date: 2001 Designed for Thomas Gemmell of Gemmell Tartans, Dumfries. Based on the 42nd sett with the proportions of the Military Medal (MM) overlaid on the single tram-line blue square. The MM was won in World War II by Thomas Gemmell's father Charles Nelson Gemmell (1919-1987) who fought in North Africa, Sicily and mainland Italy. He was a sergeant in the Argyle &amp; Sutherland Highlanders, 8th Battalion. Sample in STA Collection. Can be worn by anyone of the name on applicatioin to Thomas Gemmell. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s28/b1k1b8k8g8k1ly2k1g8k8b1k1b1k1b8k1b1k1b1k8g8k1w2k1g8k8b8k1~x2/"><circle cx="148.6" cy="141.9" r="4" fill="#3465a4"><title>Campbell of Argyll #2</title></circle></a><a href="/setts/s20/t4k3t2db6k15ly2g16db4t2g2k16g2t2db4g16ly2k15db6t2k3~x2/"><circle cx="171.4" cy="160.3" r="4" fill="#3465a4"><title>Wilson's No.030</title></circle></a><a href="/setts/s26/g8k1w2k1dt8k8g1k1g1k1g8k1g1k1g1k8dt8k1r2dt1r2k1dt8g8k1g5~x2/"><circle cx="176.7" cy="161.5" r="4" fill="#3465a4"><title>Killen (Name)</title></circle></a><a href="/setts/s24/b1k1b8k8g8ly2g8k8b1k1b1k1b8k1b1k1b1k8g8w2g8k8b8k1~x2/"><circle cx="135.1" cy="155.1" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/setts/s30/g2k1b9k9b9g9k1w1k2w1k1g9k9b9k1r2k1b9k9g9k1w1k2w1k1g9b9k9b9k1~x4/"><circle cx="135.3" cy="141.0" r="4" fill="#3465a4"><title>Stephenson Hunting #2</title></circle></a><a href="/setts/s20/ly5dg2ly2dg15k9db2k2db2k2db9dg5db9k2db2k2db2k9dg15k2w4~x2/"><circle cx="131.0" cy="161.4" r="4" fill="#3465a4"><title>Fyvie</title></circle></a><a href="/setts/s32/db2k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2~x2/"><circle cx="145.4" cy="154.4" r="4" fill="#3465a4"><title>Gordon of Esselmont</title></circle></a><circle cx="166.3" cy="150.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s29/db4k1db1k1db1k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db4~x8/

@@ -1,0 +1,64 @@
+---
+title: "Menzies Mauve and White"
+date: 2023-03-18
+---
+**Bands:** [BWKWKWKW](/stripes/bwkwkwkw/) · **Stripes:** [DP W K W K W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W K W K W K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2930
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Menzies Mauve and White (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2930))
+- undated — Menzies Mauve Dress Clan Tartan Tartan Number: 648. Earliest known date: c.1870 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=648))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2930](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2930)
+- Scottish Tartans World Register: 648
+
+## Thread count
+LN/19 K3 LN5 K3 LN11 K4 LN10 P/120
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#5A008C;"><span style="color:#5A008C;filter:grayscale(1) invert(1) contrast(100);">#5A008C</span></code> `#5A008C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/19 K3 LN5 K3 LN11 K4 LN10 P/120 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Menzies, Mauve and White](/setts/s8/p120w10k4w11k3w5k3w19/) — ΔT 1.09
+1. [Baker Family Tartan Tartan Number: 613. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db28dr3w1dr3db4w2dp1w5~x4/) — ΔT 1.78
+1. [Angotta](/setts/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/) — ΔT 1.91
+1. [Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db28ly3w1ly3db4w2r1w5~x4/) — ΔT 1.95
+1. [Tennessee Pioneer Blanket](/setts/s8/p72w12p2ly2p2r12p1w9~x2/) — ΔT 1.95
+1. [George, Stuart (Personal)](/setts/s9/db62w2db4w5db6ly2r8ly3w4~x2/) — ΔT 1.99
+1. [Antigonish](/setts/s8/t4db1t4db24w6db4w1db2~x4/) — ΔT 2.03
+1. [Baker](/setts/s8/db28o3w1o3db4w2dp1w5~x4/) — ΔT 2.05
+1. [Auchtermuchty Tartan Army](/setts/s6/db80r8w1r8ly20db15~x2/) — ΔT 2.09
+1. [Balmer (Personal)](/setts/s6/ly2r5ly2r5db49w2~x2/) — ΔT 2.09
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/p120w10k4w11k3w5k3w19/"><circle cx="480.4" cy="92.0" r="4" fill="#3465a4"><title>Menzies, Mauve and White</title></circle></a><a href="/setts/s8/db28dr3w1dr3db4w2dp1w5~x4/"><circle cx="428.5" cy="122.5" r="4" fill="#3465a4"><title>Baker Family Tartan Tartan Number: 613. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/"><circle cx="548.2" cy="89.3" r="4" fill="#3465a4"><title>Angotta</title></circle></a><a href="/setts/s8/db28ly3w1ly3db4w2r1w5~x4/"><circle cx="413.2" cy="112.8" r="4" fill="#3465a4"><title>Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/p72w12p2ly2p2r12p1w9~x2/"><circle cx="476.9" cy="81.7" r="4" fill="#3465a4"><title>Tennessee Pioneer Blanket</title></circle></a><a href="/setts/s9/db62w2db4w5db6ly2r8ly3w4~x2/"><circle cx="482.9" cy="101.2" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s8/t4db1t4db24w6db4w1db2~x4/"><circle cx="417.0" cy="151.1" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="415.0" cy="115.9" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s6/db80r8w1r8ly20db15~x2/"><circle cx="476.8" cy="125.7" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><a href="/setts/s6/ly2r5ly2r5db49w2~x2/"><circle cx="509.0" cy="140.8" r="4" fill="#3465a4"><title>Balmer (Personal)</title></circle></a><circle cx="476.1" cy="99.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/dp120w10k4w11k3w5k3w19/

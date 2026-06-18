@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Sullivan of Braemar](/clan/sullivan/braemar/)
+- [Sullivan of Braemar](/families/sullivan-of-braemar/)
 

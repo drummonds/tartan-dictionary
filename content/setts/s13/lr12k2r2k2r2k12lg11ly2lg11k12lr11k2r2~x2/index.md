@@ -1,0 +1,48 @@
+---
+title: "92nd Regiment Drummers' Plaid (Mil.)"
+date: 2023-03-18
+---
+**Bands:** [RKYKYYYKRKRKY](/stripes/rkykyyykrkrky/) · **Stripes:** [R K LR K LG LY LG K R K R K LR](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R K LR K LG LY LG K R K R K LR</span></span>
+
+
+This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/359/
+
+## Thread count
+N/24 K4 R4 K4 R4 K24 Na22 Y4 Na22 K24 N22 K4 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#A4BCC4;"><span style="color:#A4BCC4;filter:grayscale(1) invert(1) contrast(100);">#A4BCC4</span></code> `#A4BCC4` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.19 |
+| Na | <code style="background-color:#ACBC98;"><span style="color:#ACBC98;filter:grayscale(1) invert(1) contrast(100);">#ACBC98</span></code> `#ACBC98` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.14 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hayama Shirt Honten, The](/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/) — ΔT 0.73
+1. [Fitzpatrick](/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/) — ΔT 0.75
+1. [Idaho (District)](/setts/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/) — ΔT 0.80
+1. [Fitzpatrick](/setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/) — ΔT 0.87
+1. [Hayama Shirt Honten, The](/setts/s12/k4g4k2g14k6w3k6w2w4w2w15r3~x2/) — ΔT 0.88
+1. [Kervegant, Suzanne (Personal)](/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/) — ΔT 0.97
+1. [Poulter SG 103 (Fashion)](/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/) — ΔT 0.99
+1. [Valley of the Green #2](/setts/s13/w9r2w2r6w14r2k14g14r6g2r2g8ly3~x2/) — ΔT 1.00
+1. [Carnegie Dress #2 (Fashion)](/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/) — ΔT 1.02
+1. [Carnegie Dress](/setts/s13/w8r2w2r6w13r2k13dg13r6dg2r2dg4ly3~x2/) — ΔT 1.04
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/"><circle cx="83.5" cy="151.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/"><circle cx="70.1" cy="171.1" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s13/db12r2db2r2db2g10w12dy3w12g10db11r2db2~x2/"><circle cx="88.7" cy="170.0" r="4" fill="#3465a4"><title>Idaho (District)</title></circle></a><a href="/setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/"><circle cx="63.6" cy="170.6" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s12/k4g4k2g14k6w3k6w2w4w2w15r3~x2/"><circle cx="80.9" cy="147.6" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="108.2" cy="168.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/"><circle cx="122.5" cy="178.9" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s13/w9r2w2r6w14r2k14g14r6g2r2g8ly3~x2/"><circle cx="63.6" cy="154.2" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><a href="/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/"><circle cx="87.8" cy="137.9" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13dg13r6dg2r2dg4ly3~x2/"><circle cx="61.8" cy="153.1" r="4" fill="#3465a4"><title>Carnegie Dress</title></circle></a><circle cx="91.7" cy="163.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/lr12k2r2k2r2k12lg11ly2lg11k12lr11k2r2~x2/

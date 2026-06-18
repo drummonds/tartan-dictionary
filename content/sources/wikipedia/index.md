@@ -1,11 +1,9 @@
 ---
-title: Wikipedia
-date: 2026-06-11
+title: "Wikipedia"
+date: 2023-03-18
 ---
 
-
 Claim-level captures from Wikipedia articles — each record pins an article revision and the specific claims (with quotes) drawn from it.
-
 
 ## Provenance
 
@@ -20,4 +18,3 @@ Claim-level captures from Wikipedia articles — each record pins an article rev
 | **Licence** | CC BY-SA 4.0 |
 
 Attribution per article; share-alike applies to derived text.
-

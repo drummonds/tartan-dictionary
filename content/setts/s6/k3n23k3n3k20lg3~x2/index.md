@@ -1,0 +1,50 @@
+---
+title: "Pride of the Forth"
+date: 2023-03-18
+---
+**Bands:** [KBKBKY](/stripes/kbkbky/) · **Stripes:** [K N K N K LG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="seq">K N K N K LG</span></span>
+
+
+This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/11060/
+
+## Thread count
+B/6 K40 N6 K6 N46 K/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#48A4C0;"><span style="color:#48A4C0;filter:grayscale(1) invert(1) contrast(100);">#48A4C0</span></code> `#48A4C0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.29 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "B/6 K40 N6 K6 N46 K/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pride of the Forth](/setts/s6/k3n23k3n3k20t3~x2/) — ΔT 0.27
+1. [Scottish National Party (Corporate)](/setts/s6/k3n31k3n3k27ly3~x2/) — ΔT 0.68
+1. [Tartan Army Children's Charity (Corp](/setts/s7/n34k7n12k39n3k4lg3~x2/) — ΔT 0.91
+1. [TACC (Corporate)](/setts/s7/n34k7n12k40n3k4t3~x2/) — ΔT 0.99
+1. [Mackay (Blue)](/setts/s6/n1k3n1k3n8r1~x8/) — ΔT 1.06
+1. [Robertson of Struan 1816](/setts/s7/r3db1r1db11g10r2db2~x4/) — ΔT 1.09
+1. [Brown, Barnaby (Personal)](/setts/s9/g2r1g8db2g1db2g1db10r2~x4/) — ΔT 1.12
+1. [Cadence](/setts/s7/db51dg5r15dg37db17r6dg5~x2/) — ΔT 1.15
+1. [Slanj, Grey (Corporate)](/setts/s6/k3n25k3n3k21n3~x2/) — ΔT 1.20
+1. [Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db26r6g16db8g3r2~x2/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k3n23k3n3k20t3~x2/"><circle cx="333.4" cy="249.9" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/setts/s6/k3n31k3n3k27ly3~x2/"><circle cx="342.0" cy="222.7" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/setts/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="363.1" cy="223.1" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4t3~x2/"><circle cx="370.0" cy="223.6" r="4" fill="#3465a4"><title>TACC (Corporate)</title></circle></a><a href="/setts/s6/n1k3n1k3n8r1~x8/"><circle cx="362.3" cy="246.8" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/setts/s7/r3db1r1db11g10r2db2~x4/"><circle cx="295.6" cy="219.3" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/setts/s9/g2r1g8db2g1db2g1db10r2~x4/"><circle cx="319.5" cy="219.4" r="4" fill="#3465a4"><title>Brown, Barnaby (Personal)</title></circle></a><a href="/setts/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="311.1" cy="239.6" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/setts/s6/k3n25k3n3k21n3~x2/"><circle cx="401.2" cy="264.3" r="4" fill="#3465a4"><title>Slanj, Grey (Corporate)</title></circle></a><a href="/setts/s6/db26r6g16db8g3r2~x2/"><circle cx="353.1" cy="236.8" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="325.4" cy="245.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/k3n23k3n3k20lg3~x2/

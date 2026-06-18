@@ -1,0 +1,53 @@
+---
+title: "Hampden-Sydney College"
+date: 2023-03-18
+---
+**Bands:** [RWRKRYRKY](/stripes/rwrkryrky/) · **Stripes:** [R W R K R LR R K LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R W R K R LR R K LR</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10868
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10868](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10868)
+
+## Thread count
+DR/80 W2 DR5 K10 DR6 N4 DR10 K2 N/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#960028;"><span style="color:#960028;filter:grayscale(1) invert(1) contrast(100);">#960028</span></code> `#960028` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Salt Lake County](/setts/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/) — ΔT 1.22
+1. [Lock in Northumberland (Name)](/setts/s8/r90lr1k2lb10k5r2lr2lb2~x2/) — ΔT 1.24
+1. [Inverness - 1829 (District)](/setts/s8/r36db3w1db6g1k1g1r9~x4/) — ΔT 1.25
+1. [Inverness](/setts/s8/r36db3w1db6g1k1g1r9~x2/) — ΔT 1.27
+1. [Gudbrandsdalen, Rondastakken #2](/setts/s8/r65w1r6k8g8r6k3r11~x2/) — ΔT 1.27
+1. [Inverness Earl of](/setts/s8/r42db4ly1db6dg1db1dg1r12~x2/) — ΔT 1.31
+1. [Junor (Personal)](/setts/s9/r72db6ly2db11t2db2t2r9k2~x2/) — ΔT 1.33
+1. [Inverness, Earl of](/setts/s8/r42db4ly1db6g1db1g1r12~x2/) — ΔT 1.33
+1. [Prince of Denmark (Corporate)](/setts/s9/r52dg2r2dg2r3w3db2w2db2~x4/) — ΔT 1.33
+1. [Salt Lake County (District)](/setts/s7/k4r40k1r3k1w3k4~x2/) — ΔT 1.36
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="626.0" cy="112.3" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/setts/s8/r90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="581.5" cy="66.2" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/setts/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="557.7" cy="92.1" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/setts/s8/r36db3w1db6g1k1g1r9~x2/"><circle cx="563.7" cy="96.8" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/setts/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="617.6" cy="101.6" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/setts/s8/r42db4ly1db6dg1db1dg1r12~x2/"><circle cx="608.3" cy="103.3" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/setts/s9/r72db6ly2db11t2db2t2r9k2~x2/"><circle cx="528.8" cy="70.8" r="4" fill="#3465a4"><title>Junor (Personal)</title></circle></a><a href="/setts/s8/r42db4ly1db6g1db1g1r12~x2/"><circle cx="623.7" cy="116.2" r="4" fill="#3465a4"><title>Inverness, Earl of</title></circle></a><a href="/setts/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="609.4" cy="95.2" r="4" fill="#3465a4"><title>Prince of Denmark (Corporate)</title></circle></a><a href="/setts/s7/k4r40k1r3k1w3k4~x2/"><circle cx="595.4" cy="132.5" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><circle cx="603.8" cy="97.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/r80w2r5k10r6lr4r10k2lr6/

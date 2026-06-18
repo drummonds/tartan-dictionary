@@ -1,0 +1,59 @@
+---
+title: "Charlotte Fire Department"
+date: 2023-03-18
+---
+**Bands:** [KRGYBW](/stripes/krgybw/) · **Stripes:** [K R DG LY T W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R DG LY T W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10881
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10881](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10881)
+
+## Thread count
+K/156 R20 G14 Y6 B4 W/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#3C82AF;"><span style="color:#3C82AF;filter:grayscale(1) invert(1) contrast(100);">#3C82AF</span></code> `#3C82AF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFD700;"><span style="color:#FFD700;filter:grayscale(1) invert(1) contrast(100);">#FFD700</span></code> `#FFD700` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.06 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/156 R20 G14 Y6 B4 W/10 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Charlotte Fire Department](/setts/s6/k75r10g7ly3db2w5~x2/) — ΔT 0.17
+1. [CREATeGlasgow](/setts/s6/k49r1lp4db5dg5ly5~x2/) — ΔT 0.82
+1. [Washington County Sheriff's Office](/setts/s8/lb6k6lb6b3w1k39lo3k3~x2/) — ΔT 1.28
+1. [Washington County Sheriff’s Office (Oregon)](/setts/s8/t6k6t6db3w1k39ly3k3~x2/) — ΔT 1.30
+1. [Fily, Sylvain Roger](/setts/s5/r2g2k20w1db1~x6/) — ΔT 1.48
+1. [Pavelka Ltd](/setts/s8/dy3k48dy5w3dy3g2g5lb3~x2/) — ΔT 1.53
+1. [Williams Dress (Personal)](/setts/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/) — ΔT 1.61
+1. [Hawes (2014)](/setts/s10/ly2k2t3w2do3g4k50g5do3w2~x2/) — ΔT 1.67
+1. [Hawks (2014)](/setts/s10/ly2k2db3w2do3g4k50g5do3w2~x2/) — ΔT 1.68
+1. [Williams Dress (Carolinas) (Personal)](/setts/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/) — ΔT 1.69
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k75r10g7ly3db2w5~x2/"><circle cx="455.7" cy="97.2" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/setts/s6/k49r1lp4db5dg5ly5~x2/"><circle cx="434.0" cy="90.5" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/setts/s8/lb6k6lb6b3w1k39lo3k3~x2/"><circle cx="438.5" cy="99.3" r="4" fill="#3465a4"><title>Washington County Sheriff's Office</title></circle></a><a href="/setts/s8/t6k6t6db3w1k39ly3k3~x2/"><circle cx="447.5" cy="105.7" r="4" fill="#3465a4"><title>Washington County Sheriff’s Office (Oregon)</title></circle></a><a href="/setts/s5/r2g2k20w1db1~x6/"><circle cx="476.7" cy="150.1" r="4" fill="#3465a4"><title>Fily, Sylvain Roger</title></circle></a><a href="/setts/s8/dy3k48dy5w3dy3g2g5lb3~x2/"><circle cx="387.8" cy="98.1" r="4" fill="#3465a4"><title>Pavelka Ltd</title></circle></a><a href="/setts/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="445.9" cy="69.2" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/setts/s10/ly2k2t3w2do3g4k50g5do3w2~x2/"><circle cx="397.8" cy="77.1" r="4" fill="#3465a4"><title>Hawes (2014)</title></circle></a><a href="/setts/s10/ly2k2db3w2do3g4k50g5do3w2~x2/"><circle cx="406.4" cy="81.8" r="4" fill="#3465a4"><title>Hawks (2014)</title></circle></a><a href="/setts/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/"><circle cx="436.2" cy="63.7" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><circle cx="461.3" cy="93.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/k78r10dg7ly3t2w5~x2/

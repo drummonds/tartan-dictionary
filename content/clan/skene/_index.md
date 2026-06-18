@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Skene of Cromar](/clan/skene/cromar/)
+- [Skene of Cromar](/families/skene-of-cromar/)
 

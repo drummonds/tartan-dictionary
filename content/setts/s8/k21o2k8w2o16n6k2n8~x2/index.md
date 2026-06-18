@@ -1,0 +1,65 @@
+---
+title: "Ardmore (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [BKBRWKRK](/stripes/bkbrwkrk/) · **Stripes:** [N K N O W K O K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="seq">N K N O W K O K</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3041/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1978 — Ardmore (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3041/))
+- undated — Ardmore (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5237))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5237](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5237)
+- Scottish Tartans Authority (ITI): 3041
+
+## Thread count
+K/42 LT4 K16 LN4 LT32 N12 K4 N/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A07C58;"><span style="color:#A07C58;filter:grayscale(1) invert(1) contrast(100);">#A07C58</span></code> `#A07C58` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/42 LT4 K16 LN4 LT32 N12 K4 N/16 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [New Glasgow (Canada)](/setts/s8/dg28r4db25w5r22dg27r4db2~x2/) — ΔT 0.73
+1. [Strummer, Joe (Commemorative)](/setts/s7/k3dy3lo6k12lo1o2dy2~x4/) — ΔT 0.81
+1. [Cavan County Crest (Fashion)](/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/) — ΔT 0.99
+1. [Bro-Leon](/setts/s9/db4k22lo2k2g7lo2k2lo17k4~x2/) — ΔT 1.00
+1. [MacKean (Personal)](/setts/s7/r8k18r6k18b27k2w3~x2/) — ΔT 1.04
+1. [Fibonacci7](/setts/s7/db13dg8r5db3dg2r1ly1~x4/) — ΔT 1.04
+1. [Guthrie (Name)](/setts/s9/k1g12k12r1k1r1k12b12r1~x4/) — ΔT 1.05
+1. [MacTavish / Thom(p)son, hunting](/setts/s6/t3o26g4t13k13t2~x2/) — ΔT 1.07
+1. [Thompson Black (Fashion)](/setts/s6/g3k15r8g2o8k2~x4/) — ΔT 1.07
+1. [MacTavish / Thom(p)son, hunting](/setts/s6/t4o28g6t12k12t3~x2/) — ΔT 1.07
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg28r4db25w5r22dg27r4db2~x2/"><circle cx="228.5" cy="185.6" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/setts/s7/k3dy3lo6k12lo1o2dy2~x4/"><circle cx="264.7" cy="193.6" r="4" fill="#3465a4"><title>Strummer, Joe (Commemorative)</title></circle></a><a href="/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="197.9" cy="182.6" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/setts/s9/db4k22lo2k2g7lo2k2lo17k4~x2/"><circle cx="249.1" cy="168.7" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/setts/s7/r8k18r6k18b27k2w3~x2/"><circle cx="230.3" cy="194.6" r="4" fill="#3465a4"><title>MacKean (Personal)</title></circle></a><a href="/setts/s7/db13dg8r5db3dg2r1ly1~x4/"><circle cx="283.8" cy="207.2" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.8" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s6/t3o26g4t13k13t2~x2/"><circle cx="215.2" cy="195.5" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, hunting</title></circle></a><a href="/setts/s6/g3k15r8g2o8k2~x4/"><circle cx="201.2" cy="223.1" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/setts/s6/t4o28g6t12k12t3~x2/"><circle cx="202.5" cy="212.8" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, hunting</title></circle></a><circle cx="239.6" cy="197.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/k21o2k8w2o16n6k2n8~x2/

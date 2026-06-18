@@ -1,0 +1,55 @@
+---
+title: "Kile (No red line) (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BWBWBWKYKWBWBW](/stripes/bwbwbwkykwbwbw/) · **Stripes:** [DB W DB W DB W K LY K W DB W DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB W DB W K LY K W DB W DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1966
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1966](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1966)
+- Scottish Tartans Authority (ITI): 1320
+- Scottish Tartans World Register: 1320
+
+## Thread count
+DB/40 W6 DB6 W6 DB6 W6 K10 Y20 K10 W6 DB6 W6 DB6 W/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacDonald, Flora (Dance)](/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/) — ΔT 0.86
+1. [Mearns Castle High School](/setts/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/) — ΔT 0.94
+1. [Black and White Colourway](/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/) — ΔT 1.12
+1. [Trillard (Personal)](/setts/s12/b4r3k3r6k8b10w8k12w8b24k2b2~x2/) — ΔT 1.14
+1. [Lunch with an Old Bag (Fundraising Committee)](/setts/s11/m3k15m2k2m6lr16k3lr2k3lr9w2~x2/) — ΔT 1.15
+1. [Breifne](/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/) — ΔT 1.17
+1. [Investors Group](/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/) — ΔT 1.20
+1. [Unidentified #56](/setts/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/) — ΔT 1.20
+1. [Poulter SG 103 (Fashion)](/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/) — ΔT 1.25
+1. [Black and White](/setts/s15/k19y6k3y15w3y12w9y3w20y3w20k19r4k5w3~x2/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="150.8" cy="152.7" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/setts/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/"><circle cx="158.6" cy="147.7" r="4" fill="#3465a4"><title>Mearns Castle High School</title></circle></a><a href="/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><circle cx="121.6" cy="165.1" r="4" fill="#3465a4"><title>Black and White Colourway</title></circle></a><a href="/setts/s12/b4r3k3r6k8b10w8k12w8b24k2b2~x2/"><circle cx="176.6" cy="159.3" r="4" fill="#3465a4"><title>Trillard (Personal)</title></circle></a><a href="/setts/s11/m3k15m2k2m6lr16k3lr2k3lr9w2~x2/"><circle cx="181.1" cy="159.9" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/"><circle cx="220.2" cy="167.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="119.4" cy="200.3" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/"><circle cx="103.8" cy="146.5" r="4" fill="#3465a4"><title>Unidentified #56</title></circle></a><a href="/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/"><circle cx="122.5" cy="178.9" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s15/k19y6k3y15w3y12w9y3w20y3w20k19r4k5w3~x2/"><circle cx="116.4" cy="167.6" r="4" fill="#3465a4"><title>Black and White</title></circle></a><circle cx="158.3" cy="155.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/

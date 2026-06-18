@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Clark of Ulva](/clan/clark/ulva/)
+- [Clark of Ulva](/families/clark-of-ulva/)
 

@@ -1,0 +1,52 @@
+---
+title: "Grahame Laurie Band (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [KYBYKBW](/stripes/kybykbw/) · **Stripes:** [K LY DP LY K DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LY DP LY K DB W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8530/
+
+## Thread count
+K/8 Y2 P6 Y2 K36 DB84 LN/7
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/8 Y2 P6 Y2 K36 DB84 LN/7 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacLaurin of Broich (Clan)](/setts/s7/db36k8g3r3g6k1lo2~x2/) — ΔT 0.76
+1. [Nocken (Personal)](/setts/s9/lb3k6lb2k6db2k2db32k2n1~x2/) — ΔT 0.95
+1. [NHS Grampian](/setts/s7/k4w1t2w1k16db36t4~x2/) — ΔT 1.01
+1. [Finnie (Personal)](/setts/s8/db4w4db37k20w1dp5w1k4~x2/) — ΔT 1.03
+1. [Union Memorial Tartan](/setts/s10/t12t4r4t4ly2db56r18lb1db4db3~x2/) — ΔT 1.04
+1. [Binder Wedding (Personal)](/setts/s8/g1db1k1db30k30w2db5ly1~x2/) — ΔT 1.05
+1. [Binder Wedding (Personal)](/setts/s8/g1b1k1b30k30w2b5lo1~x2/) — ΔT 1.11
+1. [Hill (Name)](/setts/s9/w3db2ly1db2ly1db31k28r2k2~x2/) — ΔT 1.12
+1. [Racing Stewart](/setts/s10/db54lb3k5lb1k2lb1k2g8r8lb2~x2/) — ΔT 1.17
+1. [Raith Rovers F.C.](/setts/s8/db6w2g2w3db24r1db35r2~x2/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db36k8g3r3g6k1lo2~x2/"><circle cx="399.9" cy="132.6" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/setts/s9/lb3k6lb2k6db2k2db32k2n1~x2/"><circle cx="407.2" cy="120.3" r="4" fill="#3465a4"><title>Nocken (Personal)</title></circle></a><a href="/setts/s7/k4w1t2w1k16db36t4~x2/"><circle cx="395.5" cy="147.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/setts/s8/db4w4db37k20w1dp5w1k4~x2/"><circle cx="365.4" cy="135.7" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s10/t12t4r4t4ly2db56r18lb1db4db3~x2/"><circle cx="383.2" cy="83.9" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/setts/s8/g1db1k1db30k30w2db5ly1~x2/"><circle cx="358.5" cy="127.3" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/setts/s8/g1b1k1b30k30w2b5lo1~x2/"><circle cx="340.4" cy="117.2" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/setts/s9/w3db2ly1db2ly1db31k28r2k2~x2/"><circle cx="337.9" cy="113.6" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/setts/s10/db54lb3k5lb1k2lb1k2g8r8lb2~x2/"><circle cx="416.1" cy="77.7" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/setts/s8/db6w2g2w3db24r1db35r2~x2/"><circle cx="315.0" cy="122.0" r="4" fill="#3465a4"><title>Raith Rovers F.C.</title></circle></a><circle cx="387.2" cy="118.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/k8ly2dp6ly2k36db84w7/

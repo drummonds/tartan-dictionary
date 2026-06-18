@@ -1,0 +1,49 @@
+---
+title: "Kreutz, Arthur (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GBYRRGBYRRR](/stripes/gbyrrgbyrrr/) · **Stripes:** [G DB LY M R G DB LY M R R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB LY M R G DB LY M R R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10977/
+
+## Thread count
+G/2 DB2 Y6 Ra16 R16 G2 DB2 Y6 Ra16 DR16 R/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> `#A00000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| R | <code style="background-color:#CC4438;"><span style="color:#CC4438;filter:grayscale(1) invert(1) contrast(100);">#CC4438</span></code> `#CC4438` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.06 |
+| Ra | <code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> `#A00048` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Powys (District)](/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/) — ΔT 1.66
+1. [Khosla, Sarah and Justin (Personal)](/setts/s9/dp4n10m18ly3m3ly5r8n9w4~x2/) — ΔT 1.76
+1. [Strathtay (District?)](/setts/s13/lr6y2lr2y5r20o2r2o25r2o2r4ly10r2~x2/) — ΔT 1.82
+1. [Strathgaela (Corporate)](/setts/s12/dp3dg3db3dg11o8m8db4dg3m3r3m15r3~x2/) — ΔT 1.90
+1. [McMurchie Family, John and Jessie (Personal)](/setts/s11/lb1r13db6n7g2n7g2n7db6r13ly1~x2/) — ΔT 1.93
+1. [Harmon (Name)](/setts/s18/k2r6lo2r2lo2r19dt2g2dt2r2r4k2r11g2r2g2r6lo2~x2/) — ΔT 1.93
+1. [Pitcairn Trust Company](/setts/s13/g3db3g3db3g3m22ly2db2r22t5r8ly2t2~x2/) — ΔT 1.98
+1. [Hallowfield Wood](/setts/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/) — ΔT 2.01
+1. [Sweetheart (Fashion)](/setts/s12/r6k7r45r14k10r4k3r6k20r23lb5r6/) — ΔT 2.06
+1. [Kreutz, Arthur (Personal)](/setts/s12/r8r8r8lo3t1dg1r8r8r9lo3t1dg1~x2/) — ΔT 2.07
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/"><circle cx="235.2" cy="171.1" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/setts/s9/dp4n10m18ly3m3ly5r8n9w4~x2/"><circle cx="102.2" cy="184.8" r="4" fill="#3465a4"><title>Khosla, Sarah and Justin (Personal)</title></circle></a><a href="/setts/s13/lr6y2lr2y5r20o2r2o25r2o2r4ly10r2~x2/"><circle cx="186.4" cy="111.4" r="4" fill="#3465a4"><title>Strathtay (District?)</title></circle></a><a href="/setts/s12/dp3dg3db3dg11o8m8db4dg3m3r3m15r3~x2/"><circle cx="146.6" cy="195.7" r="4" fill="#3465a4"><title>Strathgaela (Corporate)</title></circle></a><a href="/setts/s11/lb1r13db6n7g2n7g2n7db6r13ly1~x2/"><circle cx="186.5" cy="148.9" r="4" fill="#3465a4"><title>McMurchie Family, John and Jessie (Personal)</title></circle></a><a href="/setts/s18/k2r6lo2r2lo2r19dt2g2dt2r2r4k2r11g2r2g2r6lo2~x2/"><circle cx="218.5" cy="121.4" r="4" fill="#3465a4"><title>Harmon (Name)</title></circle></a><a href="/setts/s13/g3db3g3db3g3m22ly2db2r22t5r8ly2t2~x2/"><circle cx="186.5" cy="116.7" r="4" fill="#3465a4"><title>Pitcairn Trust Company</title></circle></a><a href="/setts/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/"><circle cx="111.0" cy="185.1" r="4" fill="#3465a4"><title>Hallowfield Wood</title></circle></a><a href="/setts/s12/r6k7r45r14k10r4k3r6k20r23lb5r6/"><circle cx="183.3" cy="119.7" r="4" fill="#3465a4"><title>Sweetheart (Fashion)</title></circle></a><a href="/setts/s12/r8r8r8lo3t1dg1r8r8r9lo3t1dg1~x2/"><circle cx="194.8" cy="194.7" r="4" fill="#3465a4"><title>Kreutz, Arthur (Personal)</title></circle></a><circle cx="152.2" cy="170.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/r8r8m8ly3db1g1r8m8ly3db1g1~x2/

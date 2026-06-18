@@ -1,0 +1,58 @@
+---
+title: "South Australia"
+date: 2023-03-18
+---
+**Bands:** [BRBKGKBKGBGKBKGKBR](/stripes/brbkgkbkgbgkbkgkbr/) · **Stripes:** [B R DB K G K B K G B G K B K G K DB R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">B R DB K G K B K G B G K B K G K DB R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3841
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3841](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3841)
+- Scottish Tartans Authority (ITI): 2534
+- Scottish Tartans World Register: 2534
+
+## Thread count
+B/26 R4 DBa36 K4 G14 K4 B14 K4 G38 B26 G38 K4 B14 K4 G14 K4 DBa36 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DBa | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Frangord](/setts/s17/dg14db2r2db2dg22t2db16t2db20dg5r2dg5db20t2db16t2dg8~x2/) — ΔT 1.00
+1. [Powys Welsh District Tartan Tartan Number: 5747. Earliest known date: 2002 Tartan the Welsh County of Powys in Mid Wales. Differing in warp and weft, the threads and colours create an unusual striped effect, designed and woven at the Cambrian Woollen Mill which has been in existence since c.1830. Woven for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dg24b7dg7b7dg7db22b7db4ly4db4b40r14/) — ΔT 1.16
+1. [Killen (Name)](/setts/s26/g8k1w2k1dt8k8g1k1g1k1g8k1g1k1g1k8dt8k1r2dt1r2k1dt8g8k1g5~x2/) — ΔT 1.26
+1. [Cumbernauld](/setts/s15/dt17k3dt3k3dt3k17g17k2w2k2g17k17dt17k2r3~x2/) — ΔT 1.27
+1. [Brown Ellis (Personal)](/setts/s12/k2b11k1b2k1b11k2db14k2g14k1r2~x2/) — ΔT 1.27
+1. [LS Curling](/setts/s18/ly2db4db2g25db4g2db4k10db4g2db4g11db2k2db24db4db2ly2~x2/) — ΔT 1.28
+1. [Mantle Tartan Tartan Number: 6945. Earliest known date: 2006 A combination of Sinclair Hunting and MacQueen tartans relating to the clan associations of the the two families, Swan and Sinclair. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r3g2r3g18k14w2db16g3db16w2k14g18r3g2~x2/) — ΔT 1.29
+1. [Unidentified (Teddy Bear)](/setts/s15/dg30ly2dg5ly2dg4k15db29r2db29k15dg5ly2dg4ly2dg17~x2/) — ΔT 1.29
+1. [Wacker](/setts/s20/db6k3db3dt13g13k1g13dt13w1db3k3db3w1dt13g13k1g13dt13db3k3~x2/) — ΔT 1.29
+1. [78th Regiment (Highlanders) (Mil.)](/setts/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/) — ΔT 1.31
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dg14db2r2db2dg22t2db16t2db20dg5r2dg5db20t2db16t2dg8~x2/"><circle cx="214.7" cy="177.7" r="4" fill="#3465a4"><title>Frangord</title></circle></a><a href="/setts/s12/dg24b7dg7b7dg7db22b7db4ly4db4b40r14/"><circle cx="201.5" cy="179.8" r="4" fill="#3465a4"><title>Powys Welsh District Tartan Tartan Number: 5747. Earliest known date: 2002 Tartan the Welsh County of Powys in Mid Wales. Differing in warp and weft, the threads and colours create an unusual striped effect, designed and woven at the Cambrian Woollen Mill which has been in existence since c.1830. Woven for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s26/g8k1w2k1dt8k8g1k1g1k1g8k1g1k1g1k8dt8k1r2dt1r2k1dt8g8k1g5~x2/"><circle cx="176.7" cy="161.5" r="4" fill="#3465a4"><title>Killen (Name)</title></circle></a><a href="/setts/s15/dt17k3dt3k3dt3k17g17k2w2k2g17k17dt17k2r3~x2/"><circle cx="195.0" cy="192.3" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><a href="/setts/s12/k2b11k1b2k1b11k2db14k2g14k1r2~x2/"><circle cx="201.0" cy="161.7" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/setts/s18/ly2db4db2g25db4g2db4k10db4g2db4g11db2k2db24db4db2ly2~x2/"><circle cx="209.2" cy="145.2" r="4" fill="#3465a4"><title>LS Curling</title></circle></a><a href="/setts/s14/r3g2r3g18k14w2db16g3db16w2k14g18r3g2~x2/"><circle cx="163.7" cy="179.6" r="4" fill="#3465a4"><title>Mantle Tartan Tartan Number: 6945. Earliest known date: 2006 A combination of Sinclair Hunting and MacQueen tartans relating to the clan associations of the the two families, Swan and Sinclair. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/dg30ly2dg5ly2dg4k15db29r2db29k15dg5ly2dg4ly2dg17~x2/"><circle cx="230.5" cy="157.5" r="4" fill="#3465a4"><title>Unidentified (Teddy Bear)</title></circle></a><a href="/setts/s20/db6k3db3dt13g13k1g13dt13w1db3k3db3w1dt13g13k1g13dt13db3k3~x2/"><circle cx="224.4" cy="184.0" r="4" fill="#3465a4"><title>Wacker</title></circle></a><a href="/setts/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><circle cx="182.5" cy="176.6" r="4" fill="#3465a4"><title>78th Regiment (Highlanders) (Mil.)</title></circle></a><circle cx="170.5" cy="176.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s18/b13r2db18k2g7k2b7k2g19b13g19k2b7k2g7k2db18r2~x2/

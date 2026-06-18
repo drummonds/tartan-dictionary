@@ -1,0 +1,49 @@
+---
+title: "Cumnock Hunting (District)"
+date: 2023-03-18
+---
+**Bands:** [BWBBKBKYKR](/stripes/bwbbkbkykr/) · **Stripes:** [DP W DP DB K DB K LO K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP W DP DB K DB K LO K R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8422/
+
+## Thread count
+P/46 LN2 P4 DB32 K6 DB4 K60 LG2 K4 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LG | <code style="background-color:#FCB464;"><span style="color:#FCB464;filter:grayscale(1) invert(1) contrast(100);">#FCB464</span></code> `#FCB464` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.07 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [University of Dundee](/setts/s10/db5o4r6lo1r9db35db5lo1db12w1~x2/) — ΔT 0.80
+1. [Sidey Dress Tartan (Name)](/setts/s10/db4w1k2db25k12b1k2r16k2lo1~x2/) — ΔT 0.98
+1. [Pride of Scotland](/setts/s11/g9m2m2g3m18g2k2g1k19db33w2~x2/) — ΔT 1.24
+1. [Alba](/setts/s8/dp24dt2g3m2g3k11dt29w2~x2/) — ΔT 1.39
+1. [Héritage Séquane](/setts/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/) — ΔT 1.41
+1. [Holyrood Corporate Tartan Tartan Number: 98. Earliest known date: 1980 Holyrood is the Scottish equivalent of Buckingham Palace, the Queens official residence in Scotland. She is guarded by 'The Royal Company of Archers', a non military force provided by the chiefs of the clans. A sample of the Holyrood tartan was presented to the Scottish Tartans Society by Lochcarron Weavers in 1980. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db54db14ly3db3w3db3g9dr7db2dr9w2~x2/) — ΔT 1.41
+1. [Heather (NSPCC) (Corporate)](/setts/s9/g4dp48dp10lb3dp16lb3o30lb3db2~x2/) — ΔT 1.42
+1. [Scottish Pride (Fashion)](/setts/s11/g6dp2dp2g2dp15g3k2g1k15db43w2~x2/) — ΔT 1.45
+1. [Scragg, Moran (Personal)](/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/) — ΔT 1.46
+1. [Scotland 1782 (Fashion)](/setts/s13/g3dp2k4dp2k2dp10dp2dp2dp2g3k4db30t3~x2/) — ΔT 1.46
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db5o4r6lo1r9db35db5lo1db12w1~x2/"><circle cx="282.6" cy="100.6" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="259.4" cy="106.0" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/setts/s11/g9m2m2g3m18g2k2g1k19db33w2~x2/"><circle cx="212.7" cy="95.7" r="4" fill="#3465a4"><title>Pride of Scotland</title></circle></a><a href="/setts/s8/dp24dt2g3m2g3k11dt29w2~x2/"><circle cx="237.1" cy="153.8" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/setts/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/"><circle cx="230.2" cy="113.1" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/setts/s11/db54db14ly3db3w3db3g9dr7db2dr9w2~x2/"><circle cx="296.5" cy="100.6" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan Tartan Number: 98. Earliest known date: 1980 Holyrood is the Scottish equivalent of Buckingham Palace, the Queens official residence in Scotland. She is guarded by 'The Royal Company of Archers', a non military force provided by the chiefs of the clans. A sample of the Holyrood tartan was presented to the Scottish Tartans Society by Lochcarron Weavers in 1980. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g4dp48dp10lb3dp16lb3o30lb3db2~x2/"><circle cx="232.7" cy="107.9" r="4" fill="#3465a4"><title>Heather (NSPCC) (Corporate)</title></circle></a><a href="/setts/s11/g6dp2dp2g2dp15g3k2g1k15db43w2~x2/"><circle cx="314.0" cy="95.6" r="4" fill="#3465a4"><title>Scottish Pride (Fashion)</title></circle></a><a href="/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/"><circle cx="247.3" cy="98.9" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/setts/s13/g3dp2k4dp2k2dp10dp2dp2dp2g3k4db30t3~x2/"><circle cx="234.7" cy="110.4" r="4" fill="#3465a4"><title>Scotland 1782 (Fashion)</title></circle></a><circle cx="276.4" cy="108.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/dp23w1dp2db16k3db2k30lo1k2r3~x2/

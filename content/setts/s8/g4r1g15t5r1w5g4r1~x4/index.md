@@ -1,0 +1,51 @@
+---
+title: "McGirr (Letterkenny) David, (Pers.)"
+date: 2023-03-18
+---
+**Bands:** [GRGBRWGR](/stripes/grgbrwgr/) · **Stripes:** [G R G T R W G R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G T R W G R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10271/
+
+## Thread count
+G/16 R4 G60 B20 R4 LN20 G16 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#68889C;"><span style="color:#68889C;filter:grayscale(1) invert(1) contrast(100);">#68889C</span></code> `#68889C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/16 R4 G60 B20 R4 LN20 G16 R/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Duke of York Hunting](/setts/s8/g99db20w8db30ly8db10ly8g46/) — ΔT 0.94
+1. [MacKintosh, hunting](/setts/s7/db1r3g11r2db5g11ly1~x2/) — ΔT 1.03
+1. [Leach Hunting](/setts/s7/k3lb1g15g6k2dr3lb2~x2/) — ΔT 1.13
+1. [Sir Billi (Corporate)](/setts/s6/r8g12w5k11g42k3~x2/) — ΔT 1.17
+1. [Welsh Assembly (Fashion)](/setts/s8/g5o9g4w5g30r2g4r2~x2/) — ΔT 1.24
+1. [Arkansas](/setts/s7/g3w1g12r6g3k3g2~x4/) — ΔT 1.24
+1. [Monroig, Eric (Personal)](/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/) — ΔT 1.25
+1. [Island Weavers (Corporate)](/setts/s10/g33db2g33r2db12r12g4r2g4w3~x2/) — ΔT 1.29
+1. [MacKintosh Hunting](/setts/s7/ly2g12db6r3g12r4db1~x2/) — ΔT 1.32
+1. [Scottish Scouts](/setts/s7/r3g22db16g14r2g6ly1~x2/) — ΔT 1.35
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g99db20w8db30ly8db10ly8g46/"><circle cx="357.2" cy="188.5" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/setts/s7/db1r3g11r2db5g11ly1~x2/"><circle cx="365.5" cy="217.6" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/setts/s7/k3lb1g15g6k2dr3lb2~x2/"><circle cx="352.2" cy="180.0" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="374.0" cy="192.2" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s8/g5o9g4w5g30r2g4r2~x2/"><circle cx="434.4" cy="182.2" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/setts/s7/g3w1g12r6g3k3g2~x4/"><circle cx="367.4" cy="208.8" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/"><circle cx="324.7" cy="144.1" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><a href="/setts/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="414.8" cy="167.9" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/setts/s7/ly2g12db6r3g12r4db1~x2/"><circle cx="322.9" cy="217.1" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s7/r3g22db16g14r2g6ly1~x2/"><circle cx="408.8" cy="202.4" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><circle cx="353.7" cy="180.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/g4r1g15t5r1w5g4r1~x4/

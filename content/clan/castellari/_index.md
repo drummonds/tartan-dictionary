@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Castellari of Lochaber Lairds (Pers](/clan/castellari/lochaber-lairds-pers/)
+- [Castellari of Lochaber Lairds (Pers](/families/castellari-of-lochaber-lairds-pers/)
 

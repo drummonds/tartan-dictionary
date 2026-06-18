@@ -1,0 +1,56 @@
+---
+title: "Royal Conservatoire of Scotland"
+date: 2023-03-18
+---
+**Bands:** [BBGBBGBB](/stripes/bbgbbgbb/) · **Stripes:** [DP T DY T DP DY DP T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">DP T DY T DP DY DP T</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11650
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11650](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11650)
+
+## Thread count
+B/11 DP13 T11 DP7 B11 T3 B90 DP/11
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#3C82AF;"><span style="color:#3C82AF;filter:grayscale(1) invert(1) contrast(100);">#3C82AF</span></code> `#3C82AF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "B/11 DP13 T11 DP7 B11 T3 B90 DP/11 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wilson](/setts/s6/db48g14r3g2r3g2~x2/) — ΔT 1.23
+1. [Pride of the Clyde](/setts/s8/db8w4dt6db2dt6o10dt63w3/) — ΔT 1.30
+1. [RAAF #5](/setts/s9/t66w2t10w2t10w2t12r3db24~x2/) — ΔT 1.32
+1. [Wilson](/setts/s6/db64g20r4g3r4g3/) — ΔT 1.38
+1. [Salvation Army, Hunting](/setts/s7/db40g8k1ly2k1g8db5~x4/) — ΔT 1.45
+1. [Dominion (Fashion)](/setts/s7/lg6r1lg17db3lg3db8lg1~x2/) — ΔT 1.55
+1. [Munster Ancestry](/setts/s8/do4t48do21t14lo3t6do1ly3~x2/) — ΔT 1.56
+1. [Danzas](/setts/s7/ly4b3ly1b17db40b2db3~x2/) — ΔT 1.60
+1. [United French Freemasons (Corporate](/setts/s6/db144r9t44db4t4db4/) — ΔT 1.60
+1. [Norsemen, The](/setts/s6/n65k2n4k2n10r24~x2/) — ΔT 1.63
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db48g14r3g2r3g2~x2/"><circle cx="490.5" cy="188.5" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s8/db8w4dt6db2dt6o10dt63w3/"><circle cx="510.8" cy="146.5" r="4" fill="#3465a4"><title>Pride of the Clyde</title></circle></a><a href="/setts/s9/t66w2t10w2t10w2t12r3db24~x2/"><circle cx="501.4" cy="131.5" r="4" fill="#3465a4"><title>RAAF #5</title></circle></a><a href="/setts/s6/db64g20r4g3r4g3/"><circle cx="475.0" cy="193.4" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s7/db40g8k1ly2k1g8db5~x4/"><circle cx="487.5" cy="143.4" r="4" fill="#3465a4"><title>Salvation Army, Hunting</title></circle></a><a href="/setts/s7/lg6r1lg17db3lg3db8lg1~x2/"><circle cx="454.1" cy="208.0" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/setts/s8/do4t48do21t14lo3t6do1ly3~x2/"><circle cx="504.6" cy="156.9" r="4" fill="#3465a4"><title>Munster Ancestry</title></circle></a><a href="/setts/s7/ly4b3ly1b17db40b2db3~x2/"><circle cx="470.1" cy="167.0" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/setts/s6/db144r9t44db4t4db4/"><circle cx="558.2" cy="176.8" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/setts/s6/n65k2n4k2n10r24~x2/"><circle cx="552.8" cy="177.3" r="4" fill="#3465a4"><title>Norsemen, The</title></circle></a><circle cx="514.8" cy="164.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/dp11t90dy3t11dp7dy11dp13t11/

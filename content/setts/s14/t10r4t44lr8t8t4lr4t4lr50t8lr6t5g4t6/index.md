@@ -1,0 +1,50 @@
+---
+title: "RAF Kinloss (Military)"
+date: 2023-03-18
+---
+**Bands:** [BGBYBYBYBBYBRB](/stripes/bgbybybybbybrb/) · **Stripes:** [T G T LR T LR T LR T T LR T R T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T G T LR T LR T LR T T LR T R T</span></span>
+
+
+This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10120/
+
+## Thread count
+B/6 G4 Ba5 N6 Ba8 Na50 Ba4 Na4 Ba4 Bb8 Na8 Ba44 R4 Ba/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| Ba | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| Bb | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| G | <code style="background-color:#007418;"><span style="color:#007418;filter:grayscale(1) invert(1) contrast(100);">#007418</span></code> `#007418` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.06 |
+| N | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| Na | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/lo3n20n4y3n3y3n3y3n4n13ly2n2ly2n3dg2n3y3~x2/) — ΔT 1.73
+1. [MatchPoint Dress](/setts/s15/t6lo2y24t4y8t6y6t8y3t10n14t4r3t34w4/) — ΔT 1.82
+1. [Sandbaggers (Corporate)](/setts/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/) — ΔT 2.26
+1. [RAF Kinloss](/setts/s24/dt5db6dt8n50dt4n4dt4k8n8dt44m4dt10m4dt44n8k8dt4n4dt4n50dt8dg6dt5ly4/) — ΔT 2.64
+1. [Banatherton Union](/setts/s10/lg10lr8ly1lb5w5lg28lr2ly1lb8w5~x2/) — ΔT 2.70
+1. [Royal Columbian](/setts/s9/b13t13r1t13g13ly1g13b13w1~x4/) — ΔT 2.71
+1. [Roach (2015)](/setts/s13/t18w1t1w1t4r4dt1g12lo1g1lo1g1lo1~x4/) — ΔT 2.80
+1. [Long Way Down, The (Corporate)](/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/) — ΔT 2.81
+1. [Rikaco Morning Dew #2](/setts/s8/lr3lb3lr1y25lr15lr5lb4ly2~x2/) — ΔT 2.83
+1. [Highland Road (Fashion)](/setts/s9/k3lr15t3lr4t3lr4t10y30w3~x2/) — ΔT 2.86
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/lo3n20n4y3n3y3n3y3n4n13ly2n2ly2n3dg2n3y3~x2/"><circle cx="361.8" cy="194.9" r="4" fill="#3465a4"><title>Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/t6lo2y24t4y8t6y6t8y3t10n14t4r3t34w4/"><circle cx="392.0" cy="190.8" r="4" fill="#3465a4"><title>MatchPoint Dress</title></circle></a><a href="/setts/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/"><circle cx="310.6" cy="209.2" r="4" fill="#3465a4"><title>Sandbaggers (Corporate)</title></circle></a><a href="/setts/s24/dt5db6dt8n50dt4n4dt4k8n8dt44m4dt10m4dt44n8k8dt4n4dt4n50dt8dg6dt5ly4/"><circle cx="368.9" cy="167.7" r="4" fill="#3465a4"><title>RAF Kinloss</title></circle></a><a href="/setts/s10/lg10lr8ly1lb5w5lg28lr2ly1lb8w5~x2/"><circle cx="375.6" cy="170.6" r="4" fill="#3465a4"><title>Banatherton Union</title></circle></a><a href="/setts/s9/b13t13r1t13g13ly1g13b13w1~x4/"><circle cx="252.4" cy="250.7" r="4" fill="#3465a4"><title>Royal Columbian</title></circle></a><a href="/setts/s13/t18w1t1w1t4r4dt1g12lo1g1lo1g1lo1~x4/"><circle cx="323.0" cy="124.5" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><a href="/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/"><circle cx="480.9" cy="154.4" r="4" fill="#3465a4"><title>Long Way Down, The (Corporate)</title></circle></a><a href="/setts/s8/lr3lb3lr1y25lr15lr5lb4ly2~x2/"><circle cx="375.0" cy="191.3" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/setts/s9/k3lr15t3lr4t3lr4t10y30w3~x2/"><circle cx="268.5" cy="201.6" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><circle cx="327.2" cy="161.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/t10r4t44lr8t8t4lr4t4lr50t8lr6t5g4t6/

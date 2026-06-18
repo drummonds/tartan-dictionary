@@ -1,0 +1,49 @@
+---
+title: "Westwood (Fashion?)"
+date: 2023-03-18
+---
+**Bands:** [RYKWKYGBRW](/stripes/rykwkygbrw/) · **Stripes:** [R LO K W K LO DG T R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LO K W K LO DG T R W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3895/
+
+## Thread count
+LN/2 R12 B8 DG32 LT4 K2 LN12 K2 LT60 R/30
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [O'Keefe (Name)](/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/) — ΔT 0.94
+1. [Elystan Glodrydd (Name)](/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/) — ΔT 0.97
+1. [Bicknell, The Hamish (Personal)](/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/) — ΔT 1.00
+1. [Norwegian Migration Period](/setts/s8/o30ly4dt9lb2dt1o6dt8r8~x4/) — ΔT 1.05
+1. [Rosevear](/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/) — ΔT 1.05
+1. [Stewart of Galloway Clan Tartan Tartan Number: 851. Earliest known date: c.1820 Count taken from the specimen at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/) — ΔT 1.05
+1. [Unnamed C20th - National Archives](/setts/s11/t8k1r22ly1r6k3dg10w1k3t20w1~x2/) — ΔT 1.06
+1. [MacLean of Duart #2](/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/) — ΔT 1.11
+1. [Etienne, Paschal Tache Sir...](/setts/s8/w3o1r29o16g23db3g3ly2~x2/) — ΔT 1.11
+1. [Rosevear](/setts/s9/m50ly4w16db2w4db2w15g27r4~x2/) — ΔT 1.12
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="192.1" cy="86.9" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/"><circle cx="172.9" cy="91.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/"><circle cx="208.4" cy="81.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s8/o30ly4dt9lb2dt1o6dt8r8~x4/"><circle cx="228.9" cy="105.8" r="4" fill="#3465a4"><title>Norwegian Migration Period</title></circle></a><a href="/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/"><circle cx="195.3" cy="84.6" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/"><circle cx="225.9" cy="83.7" r="4" fill="#3465a4"><title>Stewart of Galloway Clan Tartan Tartan Number: 851. Earliest known date: c.1820 Count taken from the specimen at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t8k1r22ly1r6k3dg10w1k3t20w1~x2/"><circle cx="192.0" cy="95.2" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s8/w3o1r29o16g23db3g3ly2~x2/"><circle cx="230.1" cy="115.3" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/setts/s9/m50ly4w16db2w4db2w15g27r4~x2/"><circle cx="192.7" cy="85.3" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><circle cx="209.1" cy="86.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/

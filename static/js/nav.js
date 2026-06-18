@@ -1,11 +1,15 @@
-// Nav dropdowns (Clan, Tartans, Info). On desktop, CSS opens them on hover/focus.
-// Touch devices don't hover, so a tap on the label toggles an .open class instead.
-// Tapping outside, pressing Escape, or opening another dropdown closes the rest.
+// Navigation behaviour:
+//  - Hamburger: on mobile a tap on .nav-toggle opens/closes the whole nav (.nav-open).
+//  - Dropdowns (Clan, Tartans, Info): on desktop CSS opens them on hover/focus; touch
+//    devices don't hover, so a tap on the label toggles an .open class instead. Tapping
+//    outside, pressing Escape, or opening another dropdown closes the rest.
 (function () {
   'use strict';
 
-  var dropdowns = Array.prototype.slice.call(document.querySelectorAll('.nav-dropdown'));
-  if (!dropdowns.length) return;
+  var nav = document.querySelector('.navigation');
+  if (!nav) return;
+
+  var dropdowns = Array.prototype.slice.call(nav.querySelectorAll('.nav-dropdown'));
 
   function setOpen(d, open) {
     d.classList.toggle('open', open);
@@ -37,10 +41,28 @@
     });
   });
 
+  // Hamburger: toggle the whole nav open/closed on mobile.
+  var toggle = nav.querySelector('.nav-toggle');
+  if (toggle) {
+    toggle.addEventListener('click', function () {
+      var open = nav.classList.toggle('nav-open');
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      if (!open) closeAll(null);
+    });
+  }
+
+  function collapseNav() {
+    if (nav.classList.contains('nav-open')) {
+      nav.classList.remove('nav-open');
+      if (toggle) toggle.setAttribute('aria-expanded', 'false');
+    }
+  }
+
   document.addEventListener('click', function (e) {
     if (!e.target.closest('.nav-dropdown')) closeAll(null);
+    if (!e.target.closest('.navigation')) collapseNav();
   });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') closeAll(null);
+    if (e.key === 'Escape') { closeAll(null); collapseNav(); }
   });
 })();

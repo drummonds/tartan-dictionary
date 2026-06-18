@@ -1,0 +1,54 @@
+---
+title: "Christian Dewar (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BKBKBKGYG](/stripes/bkbkbkgyg/) · **Stripes:** [DB K DB K DB K DG LY DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">DB K DB K DB K DG LY DG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=645
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [645](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=645)
+- Scottish Tartans Authority (ITI): 4514
+
+## Thread count
+DB/32 DR4 DB4 DR4 DB4 DR12 K26 LT4 K/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#00248C;"><span style="color:#00248C;filter:grayscale(1) invert(1) contrast(100);">#00248C</span></code> `#00248C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.09 |
+| DR | <code style="background-color:#3C0000;"><span style="color:#3C0000;filter:grayscale(1) invert(1) contrast(100);">#3C0000</span></code> `#3C0000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.24 |
+| K | <code style="background-color:#142814;"><span style="color:#142814;filter:grayscale(1) invert(1) contrast(100);">#142814</span></code> `#142814` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.20 |
+| LT | <code style="background-color:#A08C28;"><span style="color:#A08C28;filter:grayscale(1) invert(1) contrast(100);">#A08C28</span></code> `#A08C28` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.19 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacAndreis (Personal)](/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/) — ΔT 0.58
+1. [Caledonian Hotel (Corporate)](/setts/s8/n9db1n1db1n1db7dg7r2~x4/) — ΔT 0.84
+1. [Caledonian Hotel (Corporate)](/setts/s8/n9db1n1db1n1db7k7r2~x4/) — ΔT 0.94
+1. [Balmoral Hotel](/setts/s8/dt17o2dt2o2dt2k17db13k4~x2/) — ΔT 0.94
+1. [Dewar, Christian (Personal)](/setts/s9/db16r2db2r2db2r6dg13lo2dg3~x2/) — ΔT 1.00
+1. [Louise of Lorne](/setts/s11/db1k1db9k6dg1k1dg1k1dg6r1k1~x2/) — ΔT 1.05
+1. [Gammell Family Tartan Tartan Number: 597. Earliest known date: 1965 Designed (probably by David Thomas and Arthur Mackie of Strathmore Woollen Co) for the Hill family of Angus as a personal tartan. Tommy Gemmell (6.3.05) said "The tartan was designed using the largest Government sett by Mrs Hill's mother - a Mrs Gammell - who was a handweaver." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db32do3db3do3db3do10g24r3~x2/) — ΔT 1.10
+1. [Hume or Home](/setts/s9/db3dg3db20r2k2r2k20dg3k3~x2/) — ΔT 1.11
+1. [Lamont](/setts/s8/db10k1db1k1db2k8dg10w1~x4/) — ΔT 1.13
+1. [Brethwe Powys](/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/) — ΔT 1.14
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/"><circle cx="257.0" cy="220.9" r="4" fill="#3465a4"><title>MacAndreis (Personal)</title></circle></a><a href="/setts/s8/n9db1n1db1n1db7dg7r2~x4/"><circle cx="256.1" cy="235.1" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/setts/s8/n9db1n1db1n1db7k7r2~x4/"><circle cx="239.7" cy="224.6" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/setts/s8/dt17o2dt2o2dt2k17db13k4~x2/"><circle cx="259.9" cy="248.0" r="4" fill="#3465a4"><title>Balmoral Hotel</title></circle></a><a href="/setts/s9/db16r2db2r2db2r6dg13lo2dg3~x2/"><circle cx="282.2" cy="230.6" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/setts/s11/db1k1db9k6dg1k1dg1k1dg6r1k1~x2/"><circle cx="244.5" cy="208.8" r="4" fill="#3465a4"><title>Louise of Lorne</title></circle></a><a href="/setts/s8/db32do3db3do3db3do10g24r3~x2/"><circle cx="315.5" cy="216.8" r="4" fill="#3465a4"><title>Gammell Family Tartan Tartan Number: 597. Earliest known date: 1965 Designed (probably by David Thomas and Arthur Mackie of Strathmore Woollen Co) for the Hill family of Angus as a personal tartan. Tommy Gemmell (6.3.05) said &quot;The tartan was designed using the largest Government sett by Mrs Hill's mother - a Mrs Gammell - who was a handweaver.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db3dg3db20r2k2r2k20dg3k3~x2/"><circle cx="288.7" cy="199.9" r="4" fill="#3465a4"><title>Hume or Home</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8dg10w1~x4/"><circle cx="243.9" cy="219.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/"><circle cx="249.1" cy="208.4" r="4" fill="#3465a4"><title>Brethwe Powys</title></circle></a><circle cx="272.8" cy="232.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/db16k2db2k2db2k6dg13ly2dg3~x2/

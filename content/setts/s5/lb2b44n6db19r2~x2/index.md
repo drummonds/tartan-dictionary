@@ -1,0 +1,52 @@
+---
+title: "World Fed. of Bldg Contractors (Corp"
+date: 2023-03-18
+---
+**Bands:** [RBBBW](/stripes/rbbbw/) · **Stripes:** [R DB N B LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB N B LB</span></span>
+
+
+This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2699/
+
+## Thread count
+N/4 B88 Ba12 DB38 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#6478B0;"><span style="color:#6478B0;filter:grayscale(1) invert(1) contrast(100);">#6478B0</span></code> `#6478B0` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| Ba | <code style="background-color:#346488;"><span style="color:#346488;filter:grayscale(1) invert(1) contrast(100);">#346488</span></code> `#346488` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DB | <code style="background-color:#000064;"><span style="color:#000064;filter:grayscale(1) invert(1) contrast(100);">#000064</span></code> `#000064` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.14 |
+| R | <code style="background-color:#C82800;"><span style="color:#C82800;filter:grayscale(1) invert(1) contrast(100);">#C82800</span></code> `#C82800` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "N/4 B88 Ba12 DB38 R/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKerral Family Tartan Tartan Number: 1757. Earliest known date: 1975 A sample was presented to the Scottish Tartans Society by John Drummond Bowman. This version of the tartan has the unusual feature of exchanging red for yellow in the weft. It is larger than the sett recorded in the Lyon Court Books in 1982. The name, MacKerral or MacKerrell, is recorded in Ayrshire in the 12th century. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/w4t34db60ly3~x2/) — ΔT 1.14
+1. [Thomas, Jean Marc (Personal)](/setts/s5/t72r16k5ly2dt16~x2/) — ΔT 1.23
+1. [Gilt Edge (Corporate)](/setts/s5/db3db2t31db34w2~x2/) — ΔT 1.30
+1. [Lauder Primary School (Corporate)](/setts/s6/r2t21r2db6ly1r1~x4/) — ΔT 1.33
+1. [Gorman Family (Canada) (Personal)](/setts/s6/g6n16db49n14db2w6~x2/) — ΔT 1.37
+1. [Lloyd of Astargus](/setts/s6/lo2o20w2k13db61r2~x2/) — ΔT 1.45
+1. [Connecticut State Police PB (Cor.)](/setts/s6/n42db2n2db17lo8db4~x2/) — ΔT 1.46
+1. [Peacock (Samantha)](/setts/s4/t20dp3db7ly1~x4/) — ΔT 1.48
+1. [McKerrell of Hillhouse](/setts/s4/w4t28db49ly3~x2/) — ΔT 1.52
+1. [Cleland](/setts/s5/k2db36g12w3r2~x2/) — ΔT 1.52
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/w4t34db60ly3~x2/"><circle cx="380.9" cy="207.4" r="4" fill="#3465a4"><title>MacKerral Family Tartan Tartan Number: 1757. Earliest known date: 1975 A sample was presented to the Scottish Tartans Society by John Drummond Bowman. This version of the tartan has the unusual feature of exchanging red for yellow in the weft. It is larger than the sett recorded in the Lyon Court Books in 1982. The name, MacKerral or MacKerrell, is recorded in Ayrshire in the 12th century. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/t72r16k5ly2dt16~x2/"><circle cx="411.7" cy="146.1" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/setts/s5/db3db2t31db34w2~x2/"><circle cx="345.8" cy="201.9" r="4" fill="#3465a4"><title>Gilt Edge (Corporate)</title></circle></a><a href="/setts/s6/r2t21r2db6ly1r1~x4/"><circle cx="414.6" cy="165.2" r="4" fill="#3465a4"><title>Lauder Primary School (Corporate)</title></circle></a><a href="/setts/s6/g6n16db49n14db2w6~x2/"><circle cx="306.0" cy="159.3" r="4" fill="#3465a4"><title>Gorman Family (Canada) (Personal)</title></circle></a><a href="/setts/s6/lo2o20w2k13db61r2~x2/"><circle cx="371.6" cy="125.5" r="4" fill="#3465a4"><title>Lloyd of Astargus</title></circle></a><a href="/setts/s6/n42db2n2db17lo8db4~x2/"><circle cx="381.5" cy="179.4" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/setts/s4/t20dp3db7ly1~x4/"><circle cx="421.9" cy="212.8" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><a href="/setts/s4/w4t28db49ly3~x2/"><circle cx="346.0" cy="211.0" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><a href="/setts/s5/k2db36g12w3r2~x2/"><circle cx="388.1" cy="168.8" r="4" fill="#3465a4"><title>Cleland</title></circle></a><circle cx="371.0" cy="170.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/lb2b44n6db19r2~x2/

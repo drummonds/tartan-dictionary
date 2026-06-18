@@ -1,0 +1,71 @@
+---
+title: "Gleneckley"
+date: 2023-03-18
+---
+**Bands:** [BWKR](/stripes/bwkr/) · **Stripes:** [DB W K R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W K R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11038
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2014 — Gleneckley (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11038))
+- 2014 — Gleneckly (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11038/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11038](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11038)
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Hamby Sport (Personal)](/setts/s4/r25k13w8db5~x2/)
+
+
+## Thread count
+DB/6 LN50 K50 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/6 LN50 K50 R/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacRae of Conchra](/setts/s4/ly1dt8w8r1~x4/) — ΔT 0.57
+1. [Macleod, Winnifred Mary, Dress](/setts/s5/k23ly3k23w36r4~x2/) — ΔT 1.03
+1. [Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/r5o32k31w5/) — ΔT 1.12
+1. [Oban Grey District Tartan Tartan Number: 1237. Earliest known date: pre 2003 Not an official district but a name chosen by the weavers. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k4w3k4o9r1~x4/) — ΔT 1.13
+1. [Oban Grey](/setts/s5/k4w3k4y9r1~x4/) — ΔT 1.18
+1. [Loganair](/setts/s4/r5o32k31w5~x2/) — ΔT 1.18
+1. [Burberry Hunting](/setts/s5/k3w3k3y10r1~x6/) — ΔT 1.27
+1. [Oban Grey (Fashion)](/setts/s5/k4lb4k4o15r2~x4/) — ΔT 1.29
+1. [Merrilees](/setts/s6/w23t6w6r5k35r10~x2/) — ΔT 1.30
+1. [Burberry (Genuine)](/setts/s5/k3w3k3ly10r1~x6/) — ΔT 1.30
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/ly1dt8w8r1~x4/"><circle cx="208.3" cy="212.7" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s5/k23ly3k23w36r4~x2/"><circle cx="248.0" cy="199.2" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><a href="/setts/s4/r5o32k31w5/"><circle cx="209.3" cy="239.6" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k4w3k4o9r1~x4/"><circle cx="185.8" cy="222.6" r="4" fill="#3465a4"><title>Oban Grey District Tartan Tartan Number: 1237. Earliest known date: pre 2003 Not an official district but a name chosen by the weavers. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k4w3k4y9r1~x4/"><circle cx="187.6" cy="223.8" r="4" fill="#3465a4"><title>Oban Grey</title></circle></a><a href="/setts/s4/r5o32k31w5~x2/"><circle cx="210.3" cy="241.1" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/setts/s5/k3w3k3y10r1~x6/"><circle cx="232.2" cy="210.7" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/setts/s5/k4lb4k4o15r2~x4/"><circle cx="242.7" cy="218.0" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/setts/s6/w23t6w6r5k35r10~x2/"><circle cx="157.4" cy="193.6" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/setts/s5/k3w3k3ly10r1~x6/"><circle cx="223.8" cy="195.0" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><circle cx="212.1" cy="211.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s4/db3w25k25r3~x2/

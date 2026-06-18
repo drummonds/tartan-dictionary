@@ -1,0 +1,61 @@
+---
+title: "Submariners"
+date: 2023-03-18
+---
+**Bands:** [RBYBWBWBWRBBBW](/stripes/rbybwbwbwrbbbw/) · **Stripes:** [R DB LY DB W DB W DB W R DB DB DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB LY DB W DB W DB W R DB DB DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10589
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 23/03/2012 — Submariners (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10589))
+- undated — Submariners Corporate Tartan Tartan Number: 10589. Earliest known date: 23/03/2012 Commissioned by Steven Johnson of Lisburn, NI. The colours are taken from the Royal Navy ensigns with the gold and red of the dolphin symbol worn by submariners. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10589))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10589](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10589)
+
+## Thread count
+R/4 DB2 Y8 DB48 W4 DB2 W4 DB16 W16 R16 DB2 B24 DB2 W/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#0000CD;"><span style="color:#0000CD;filter:grayscale(1) invert(1) contrast(100);">#0000CD</span></code> `#0000CD` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DB | <code style="background-color:#000080;"><span style="color:#000080;filter:grayscale(1) invert(1) contrast(100);">#000080</span></code> `#000080` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFE600;"><span style="color:#FFE600;filter:grayscale(1) invert(1) contrast(100);">#FFE600</span></code> `#FFE600` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ar Lenn Vor](/setts/s11/b15ly30w30k20w20k15w10ly4b94w4r10/) — ΔT 1.15
+1. [Mead of Poetry, The](/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/) — ΔT 1.15
+1. [Illinois, St Andrews Society](/setts/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/) — ΔT 1.26
+1. [Payeur, François (Personal)](/setts/s12/w6r2w24db12db3db2db2db2db12ly1db1ly3~x2/) — ΔT 1.31
+1. [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/) — ΔT 1.37
+1. [Submariners (Unofficial)](/setts/s14/w4dt1db12dt1r8w8dt8w2dt1w2dt24ly4dt1r2~x2/) — ΔT 1.39
+1. [Rikaco Morning Dew 1 (Fashion)](/setts/s10/db4w2db1t24db10w1db2w5db3r2~x2/) — ΔT 1.40
+1. [Highlands Country Club](/setts/s12/db15lb11lb2lb1lb1g4lb1lb1lb2lb11db15g5~x4/) — ΔT 1.47
+1. [Baudoux et amis picards](/setts/s11/ly4db7ly4db26dg3k1dg3w9r2w4r2~x2/) — ΔT 1.48
+1. [MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db23w2db3t4db3w2db5k11p2w23k3~x2/) — ΔT 1.49
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b15ly30w30k20w20k15w10ly4b94w4r10/"><circle cx="176.4" cy="94.8" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/"><circle cx="205.9" cy="76.1" r="4" fill="#3465a4"><title>Mead of Poetry, The</title></circle></a><a href="/setts/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/"><circle cx="255.5" cy="121.1" r="4" fill="#3465a4"><title>Illinois, St Andrews Society</title></circle></a><a href="/setts/s12/w6r2w24db12db3db2db2db2db12ly1db1ly3~x2/"><circle cx="183.8" cy="82.2" r="4" fill="#3465a4"><title>Payeur, François (Personal)</title></circle></a><a href="/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/"><circle cx="193.6" cy="125.7" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s14/w4dt1db12dt1r8w8dt8w2dt1w2dt24ly4dt1r2~x2/"><circle cx="206.9" cy="87.3" r="4" fill="#3465a4"><title>Submariners (Unofficial)</title></circle></a><a href="/setts/s10/db4w2db1t24db10w1db2w5db3r2~x2/"><circle cx="233.9" cy="107.6" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/setts/s12/db15lb11lb2lb1lb1g4lb1lb1lb2lb11db15g5~x4/"><circle cx="209.0" cy="145.6" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/setts/s11/ly4db7ly4db26dg3k1dg3w9r2w4r2~x2/"><circle cx="220.2" cy="75.4" r="4" fill="#3465a4"><title>Baudoux et amis picards</title></circle></a><a href="/setts/s11/db23w2db3t4db3w2db5k11p2w23k3~x2/"><circle cx="173.3" cy="126.9" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="196.3" cy="85.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/w4db1db12db1r8w8db8w2db1w2db24ly4db1r2~x2/

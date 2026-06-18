@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#023535;border:1px solid #0003;flex:none"></span><div><strong>Petrol</strong> · code <code>DBG</code> · Human Palette · ref <code>12-02-194</code><br>sRGB <code>#023535</code> · OKLab L 0.298 a -0.048 b -0.013 · grid <code>12-02-194</code></div></div>
 
+Petrol — a dark blue-green.
+
 The nearest named colour is **Bottle** (Human Palette), 0.052 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |

@@ -1,0 +1,48 @@
+---
+title: "Florence (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [BRRBRRWRWBRBR](/stripes/brrbrrwrwbrbr/) · **Stripes:** [DP O O DP O O W O W DP O DP O](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DP O O DP O O W O W DP O DP O</span></span>
+
+
+This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/4871/
+
+## Thread count
+B/128 P32 B4 P4 LN4 B4 LN4 LT4 B4 P4 N4 B16 P/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#9884BC;"><span style="color:#9884BC;filter:grayscale(1) invert(1) contrast(100);">#9884BC</span></code> `#9884BC` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.26 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A07C58;"><span style="color:#A07C58;filter:grayscale(1) invert(1) contrast(100);">#A07C58</span></code> `#A07C58` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| P | <code style="background-color:#6C0070;"><span style="color:#6C0070;filter:grayscale(1) invert(1) contrast(100);">#6C0070</span></code> `#6C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.16 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Orkney Heather](/setts/s14/dp4m2dp2dp4m2dp8m2n2o43n2o43dp2dp8o2/) — ΔT 1.74
+1. [Dallas (Clan)](/setts/s11/b79o2b10o6w2o6b10w2g10g6w2~x2/) — ΔT 1.86
+1. [Highland Dusk (Fashion)](/setts/s13/n43db2n2db1n1r11n2db2n1n1n20w4n7~x2/) — ΔT 2.04
+1. [Vetoclock](/setts/s10/n110lp3lr14w1dp10w1lr6lp3dp4n2~x2/) — ΔT 2.06
+1. [Blue Toon](/setts/s10/n56db9w2db2r2n9lb4db2lb2ly3~x2/) — ΔT 2.08
+1. [Crieff High (Corporate)](/setts/s16/r5k1n2k1r3k1n35lb1n2r3n3r2n3lo1n1r5~x2/) — ΔT 2.12
+1. [Historic Caledonian Railway Enthusiasts', The](/setts/s11/n6k1lo6k1n28w1k2w1n16w1r5~x2/) — ΔT 2.26
+1. [Unidentified #64](/setts/s10/db57ly2db10dg4db4dg9r12db4r4lr2~x2/) — ΔT 2.26
+1. [Craven County Commemorative Tartan Tartan Number: 10679. Earliest known date: 21 August 2012 2012 marks the 300th year of Craven County, North Carolina, USA. The 300th Anniversary District 2 Committee, under the leadership of Chairperson, Kelly Beasley, voted for a Craven County Tartan to represent the large number of Craven County residents with Scottish heritage. The colours are drawn from the Craven County Coat of Arms, the waterways, rivers and streams, sky, colonial history, governors, royalty, the military, education, and the agricultural background of the county, as well as forestry, tobacco, indigo, and its many other crops. Brian Dodds designed the tartan, submitting four ideas of which the District 2 committee selected Pattern #2. The tartan has been approved by the Craven County 300th Anniversary Committee and the Craven County Board of Commissioners, with the Board signing a resolution on 16 April, 2012. Ila McIlwean White-Lewis volunteered to pay to register the tartan and to have sufficient tartan woven for a banner to be displayed in the Craven County Courthouse. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/n46lo1do5lo1dg5lo1dp5lo1n16r1lo4~x2/) — ΔT 2.27
+1. [St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db3o1w1o25w1o1dp3~x2/) — ΔT 2.29
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dp4m2dp2dp4m2dp8m2n2o43n2o43dp2dp8o2/"><circle cx="456.4" cy="103.9" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><a href="/setts/s11/b79o2b10o6w2o6b10w2g10g6w2~x2/"><circle cx="548.1" cy="110.9" r="4" fill="#3465a4"><title>Dallas (Clan)</title></circle></a><a href="/setts/s13/n43db2n2db1n1r11n2db2n1n1n20w4n7~x2/"><circle cx="584.6" cy="104.2" r="4" fill="#3465a4"><title>Highland Dusk (Fashion)</title></circle></a><a href="/setts/s10/n110lp3lr14w1dp10w1lr6lp3dp4n2~x2/"><circle cx="550.5" cy="84.9" r="4" fill="#3465a4"><title>Vetoclock</title></circle></a><a href="/setts/s10/n56db9w2db2r2n9lb4db2lb2ly3~x2/"><circle cx="455.7" cy="84.6" r="4" fill="#3465a4"><title>Blue Toon</title></circle></a><a href="/setts/s16/r5k1n2k1r3k1n35lb1n2r3n3r2n3lo1n1r5~x2/"><circle cx="460.8" cy="64.1" r="4" fill="#3465a4"><title>Crieff High (Corporate)</title></circle></a><a href="/setts/s11/n6k1lo6k1n28w1k2w1n16w1r5~x2/"><circle cx="476.5" cy="117.6" r="4" fill="#3465a4"><title>Historic Caledonian Railway Enthusiasts', The</title></circle></a><a href="/setts/s10/db57ly2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="459.7" cy="118.3" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/setts/s11/n46lo1do5lo1dg5lo1dp5lo1n16r1lo4~x2/"><circle cx="511.9" cy="89.0" r="4" fill="#3465a4"><title>Craven County Commemorative Tartan Tartan Number: 10679. Earliest known date: 21 August 2012 2012 marks the 300th year of Craven County, North Carolina, USA. The 300th Anniversary District 2 Committee, under the leadership of Chairperson, Kelly Beasley, voted for a Craven County Tartan to represent the large number of Craven County residents with Scottish heritage. The colours are drawn from the Craven County Coat of Arms, the waterways, rivers and streams, sky, colonial history, governors, royalty, the military, education, and the agricultural background of the county, as well as forestry, tobacco, indigo, and its many other crops. Brian Dodds designed the tartan, submitting four ideas of which the District 2 committee selected Pattern #2. The tartan has been approved by the Craven County 300th Anniversary Committee and the Craven County Board of Commissioners, with the Board signing a resolution on 16 April, 2012. Ila McIlwean White-Lewis volunteered to pay to register the tartan and to have sufficient tartan woven for a banner to be displayed in the Craven County Courthouse. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x2/"><circle cx="558.0" cy="144.3" r="4" fill="#3465a4"><title>St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="525.1" cy="79.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/o32dp8o1dp1w1o1w1o1o1dp1o1o4dp1~x4/

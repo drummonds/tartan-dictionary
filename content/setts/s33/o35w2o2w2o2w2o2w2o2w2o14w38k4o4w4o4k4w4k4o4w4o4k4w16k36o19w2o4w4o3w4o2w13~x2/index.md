@@ -1,0 +1,46 @@
+---
+title: "Miss Peffer's Plaid Artifact Tartan Tartan Number: 1313. Earliest known date: pre 2003 First grey is N270. Shortened for display. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRW](/stripes/rwrwrwrwrwrwkrwrkwkrwrkwkrwrwrwrw/) · **Stripes:** [O W O W O W O W O W O W K O W O K W K O W O K W K O W O W O W O W](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O W O W O W O W O W O W K O W O K W K O W O K W K O W O W O W O W</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [33 band tartan](/bands/bands33/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1313
+
+## Thread count
+LN/26 N4 LN8 N6 LN8 N8 LN4 N38 K72 LN32 K8 N8 LN8 N8 K8 LN8 K8 N8 LN8 N8 K8 LN76 N28 LN4 N4 LN4 N4 LN4 N4 LN4 N4 LN4 N/70
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Miss Peffer's, Plaid](/setts/s33/y35w2y2w2y2w2y2w2y2w2y14w38k4y4w4y4k4w4k4y4w4y4k4w16k36y19w2y4w4y3w4y2w13~x2/) — ΔT 0.58
+1. [Not Specified #4](/setts/s64/o35w2o2w2o2w2o2w2o2w2o14w38k4o4w4o4k4w4k4o4w4o4k4w16k36o19w2o4w4o3w4o2w13o2w4o3w4o4w2o19k36w16k4o4w4o4k4w4k4o4w4o4k4w38o14w2o2w2o2w2o2w2o2w2~x2/) — ΔT 1.35
+1. [Wcwm 1131](/setts/s31/lb10do1lb1do1lb1do1lb1do1lb1do1lb1o1lb1o1lb1o1lb1o1lb1o1lb1do1o1do1o1do1o1do1o1do1o10~x4/) — ΔT 1.58
+1. [Abergaveny (Fashion)](/setts/s21/k36lb8lb33k4lb6lb8lb24k12lb4lb4lb6lb4k4lb48lb4k4k4lb6lb16k6k12/) — ΔT 1.80
+1. [Finnish](/setts/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2/) — ΔT 1.84
+1. [Scott Dress](/setts/s20/dg4r2k1w30r10dg14r4dg5w2dg5r4dg5w2dg5r4dg14r10w30k1r2~x2/) — ΔT 1.84
+1. [Florida](/setts/s18/w8db1db20db2db1db2db4db2db1db2db4w2r4w1r2w20db1r4~x2/) — ΔT 1.87
+1. [Scott (MacRae)](/setts/s20/k4db2w1k16w1db3w16db2w6r2w6db2w16db3w1k16w1db2k4r2~x2/) — ΔT 1.87
+1. [Hanna (Bible) (Personal)](/setts/s24/db4w2db4w2db4w2db4w2db4w2db4w25k16w25db4w2db4w2db4w2db4w2db4w2~x2/) — ΔT 1.88
+1. [Chartered Institute of Bankers](/setts/s20/k34y5k5y8k5y56lb5y5lb36ly5lb36y5lb5y56k5y8k5y5k34ly5/) — ΔT 1.91
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s33/y35w2y2w2y2w2y2w2y2w2y14w38k4y4w4y4k4w4k4y4w4y4k4w16k36y19w2y4w4y3w4y2w13~x2/"><circle cx="218.1" cy="71.3" r="4" fill="#3465a4"><title>Miss Peffer's, Plaid</title></circle></a><a href="/setts/s64/o35w2o2w2o2w2o2w2o2w2o14w38k4o4w4o4k4w4k4o4w4o4k4w16k36o19w2o4w4o3w4o2w13o2w4o3w4o4w2o19k36w16k4o4w4o4k4w4k4o4w4o4k4w38o14w2o2w2o2w2o2w2o2w2~x2/"><circle cx="213.1" cy="44.1" r="4" fill="#3465a4"><title>Not Specified #4</title></circle></a><a href="/setts/s31/lb10do1lb1do1lb1do1lb1do1lb1do1lb1o1lb1o1lb1o1lb1o1lb1o1lb1do1o1do1o1do1o1do1o1do1o10~x4/"><circle cx="240.1" cy="103.6" r="4" fill="#3465a4"><title>Wcwm 1131</title></circle></a><a href="/setts/s21/k36lb8lb33k4lb6lb8lb24k12lb4lb4lb6lb4k4lb48lb4k4k4lb6lb16k6k12/"><circle cx="214.8" cy="109.6" r="4" fill="#3465a4"><title>Abergaveny (Fashion)</title></circle></a><a href="/setts/s19/w8dt1db24dt2db1dt2db4dt2db1dt2db4dt1w4db2w1db2w20dt1db5~x2/"><circle cx="290.3" cy="91.3" r="4" fill="#3465a4"><title>Finnish</title></circle></a><a href="/setts/s20/dg4r2k1w30r10dg14r4dg5w2dg5r4dg5w2dg5r4dg14r10w30k1r2~x2/"><circle cx="216.3" cy="67.2" r="4" fill="#3465a4"><title>Scott Dress</title></circle></a><a href="/setts/s18/w8db1db20db2db1db2db4db2db1db2db4w2r4w1r2w20db1r4~x2/"><circle cx="203.8" cy="83.3" r="4" fill="#3465a4"><title>Florida</title></circle></a><a href="/setts/s20/k4db2w1k16w1db3w16db2w6r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="210.4" cy="100.9" r="4" fill="#3465a4"><title>Scott (MacRae)</title></circle></a><a href="/setts/s24/db4w2db4w2db4w2db4w2db4w2db4w25k16w25db4w2db4w2db4w2db4w2db4w2~x2/"><circle cx="262.5" cy="103.0" r="4" fill="#3465a4"><title>Hanna (Bible) (Personal)</title></circle></a><a href="/setts/s20/k34y5k5y8k5y56lb5y5lb36ly5lb36y5lb5y56k5y8k5y5k34ly5/"><circle cx="205.6" cy="121.9" r="4" fill="#3465a4"><title>Chartered Institute of Bankers</title></circle></a><circle cx="228.5" cy="74.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s33/o35w2o2w2o2w2o2w2o2w2o14w38k4o4w4o4k4w4k4o4w4o4k4w16k36o19w2o4w4o3w4o2w13~x2/

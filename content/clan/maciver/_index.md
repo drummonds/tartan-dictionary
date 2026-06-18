@@ -4,7 +4,7 @@ date: 2023-03-18
 ---
 ## Families
 
-- [MacIver of Strathendry Hunting](/clan/maciver/strathendry-hunting/)
-- [MacIver of Strome](/clan/maciver/strome/)
-- [Maciver of Strathendry Castle Dress](/clan/maciver/strathendry-castle-dress/)
+- [MacIver of Strathendry](/families/maciver-of-strathendry/)
+- [MacIver of Strome](/families/maciver-of-strome/)
+- [Maciver of Strathendry Castle](/families/maciver-of-strathendry-castle/)
 

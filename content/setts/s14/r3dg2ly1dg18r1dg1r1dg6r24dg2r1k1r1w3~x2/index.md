@@ -1,0 +1,55 @@
+---
+title: "Hay - 1842 (Clan)"
+date: 2023-03-18
+---
+**Bands:** [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/) · **Stripes:** [R DG LY DG R DG R DG R DG R K R W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG LY DG R DG R DG R DG R K R W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1555/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Hay](/setts/s14/r6dg4ly2dg17r2dg2r2dg8r26dg6r4k2r4w6~x2/)
+
+
+## Thread count
+LN/6 R2 K2 R2 G4 R48 G12 R2 G2 R2 G36 Y2 G4 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.06 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lochiel, (Cameron)](/setts/s17/r36ly2db2r3g40r3db2ly2r3db12r3ly2db2r36g3dr3g4~x2/) — ΔT 0.83
+1. [All Ireland Red](/setts/s15/r6y2db2r30g2r2g4r2g2r1g20r1y2db2r4~x2/) — ΔT 0.92
+1. [Hay](/setts/s14/r9g6ly4g54r4g4r4g18r72g6r4k2r4w9/) — ΔT 0.94
+1. [Dalziel](/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/) — ΔT 0.98
+1. [Stirling, Weavers Guild](/setts/s17/r46ly2db2r5g46r5db2ly2r5db10r5ly2db2r49g5w5g5~x2/) — ΔT 1.01
+1. [Crieff](/setts/s13/r4r10g7r70g7r4p21r4g85r4g7r10r4/) — ΔT 1.08
+1. [Hayes (Fashion)](/setts/s14/lr2r2dg1r2dg3r17dg4r1dg1r1dg12ly1dg1r2~x4/) — ΔT 1.11
+1. [Hay](/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/) — ΔT 1.12
+1. [Dalziel (Logan) Family Tartan Tartan Number: 969. Earliest known date: 1831 Dalziel or Dalzell tartan is similar to the Munro. The basic form of the design was used for a 'George IV' tartan produced in honour of the King's visit in 1822. The Barony of Dalzell in Lanarkshire is the origin of the name. In Old Scots it means 'I dare' and this is also the motto on the family coat of arms. A cadet branch of the family built the House of the Binns in West Lothian which is now owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2m3g6~x2/) — ΔT 1.12
+1. [Leask](/setts/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/r36ly2db2r3g40r3db2ly2r3db12r3ly2db2r36g3dr3g4~x2/"><circle cx="325.0" cy="84.4" r="4" fill="#3465a4"><title>Lochiel, (Cameron)</title></circle></a><a href="/setts/s15/r6y2db2r30g2r2g4r2g2r1g20r1y2db2r4~x2/"><circle cx="370.8" cy="78.1" r="4" fill="#3465a4"><title>All Ireland Red</title></circle></a><a href="/setts/s14/r9g6ly4g54r4g4r4g18r72g6r4k2r4w9/"><circle cx="339.9" cy="69.4" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/"><circle cx="358.0" cy="73.4" r="4" fill="#3465a4"><title>Dalziel</title></circle></a><a href="/setts/s17/r46ly2db2r5g46r5db2ly2r5db10r5ly2db2r49g5w5g5~x2/"><circle cx="361.1" cy="75.3" r="4" fill="#3465a4"><title>Stirling, Weavers Guild</title></circle></a><a href="/setts/s13/r4r10g7r70g7r4p21r4g85r4g7r10r4/"><circle cx="328.4" cy="114.5" r="4" fill="#3465a4"><title>Crieff</title></circle></a><a href="/setts/s14/lr2r2dg1r2dg3r17dg4r1dg1r1dg12ly1dg1r2~x4/"><circle cx="347.5" cy="124.5" r="4" fill="#3465a4"><title>Hayes (Fashion)</title></circle></a><a href="/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/"><circle cx="356.2" cy="57.5" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2m3g6~x2/"><circle cx="359.3" cy="72.8" r="4" fill="#3465a4"><title>Dalziel (Logan) Family Tartan Tartan Number: 969. Earliest known date: 1831 Dalziel or Dalzell tartan is similar to the Munro. The basic form of the design was used for a 'George IV' tartan produced in honour of the King's visit in 1822. The Barony of Dalzell in Lanarkshire is the origin of the name. In Old Scots it means 'I dare' and this is also the motto on the family coat of arms. A cadet branch of the family built the House of the Binns in West Lothian which is now owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/"><circle cx="300.4" cy="100.3" r="4" fill="#3465a4"><title>Leask</title></circle></a><circle cx="335.4" cy="84.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3~x2/

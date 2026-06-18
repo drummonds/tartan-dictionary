@@ -1,0 +1,54 @@
+---
+title: "Damson"
+date: 2023-03-18
+---
+**Bands:** [BGBGBYBGYBYY](/stripes/bgbgbybgybyy/) · **Stripes:** [DB G DB Y DB LR DB G LR DB LR LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DB G DB Y DB LR DB G LR DB LR LR</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=887
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [887](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=887)
+- Scottish Tartans Authority (ITI): 4658
+
+## Thread count
+DB/96 B8 DB12 LT4 DB4 N4 DB4 B20 N12 DB4 N6 N/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#048888;"><span style="color:#048888;filter:grayscale(1) invert(1) contrast(100);">#048888</span></code> `#048888` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| LT | <code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> `#8C7038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Oxford University Dress (Corporate)](/setts/s10/ly4db44g5w2g2db2g2r2db3ly3~x2/) — ΔT 1.16
+1. [Baker Family Tartan Tartan Number: 613. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db28dr3w1dr3db4w2dp1w5~x4/) — ΔT 1.26
+1. [X Marks the Scot](/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/) — ΔT 1.27
+1. [Christopher Newport University](/setts/s9/db5k1lb2k1w6k1lb2db25lb2~x2/) — ΔT 1.28
+1. [Kang (Personal)](/setts/s11/db44k3db3k3db3k14ly4k3w2k2w2~x2/) — ΔT 1.28
+1. [Inverness Hunting](/setts/s14/db61r6w2r8lo2db3lo2db15lo2db3lo2r8w2r6~x2/) — ΔT 1.37
+1. [King Pootatau Te Wherowhero](/setts/s14/db23k1db1w1db1r1db4lo2db1lo2db1lo2db1lo2~x2/) — ΔT 1.41
+1. [Skye](/setts/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/) — ΔT 1.43
+1. [Blue Brough from Orkney](/setts/s13/db4k4db2n2k4r14k4n4db23ly6db54n8k4/) — ΔT 1.45
+1. [Hoosier (Fashion)](/setts/s8/b15db65ly7b4ly3db30b15w3~x2/) — ΔT 1.46
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4db44g5w2g2db2g2r2db3ly3~x2/"><circle cx="429.3" cy="98.6" r="4" fill="#3465a4"><title>Oxford University Dress (Corporate)</title></circle></a><a href="/setts/s8/db28dr3w1dr3db4w2dp1w5~x4/"><circle cx="428.5" cy="122.5" r="4" fill="#3465a4"><title>Baker Family Tartan Tartan Number: 613. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/"><circle cx="414.8" cy="91.8" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/setts/s9/db5k1lb2k1w6k1lb2db25lb2~x2/"><circle cx="382.2" cy="116.1" r="4" fill="#3465a4"><title>Christopher Newport University</title></circle></a><a href="/setts/s11/db44k3db3k3db3k14ly4k3w2k2w2~x2/"><circle cx="362.5" cy="110.5" r="4" fill="#3465a4"><title>Kang (Personal)</title></circle></a><a href="/setts/s14/db61r6w2r8lo2db3lo2db15lo2db3lo2r8w2r6~x2/"><circle cx="444.9" cy="91.4" r="4" fill="#3465a4"><title>Inverness Hunting</title></circle></a><a href="/setts/s14/db23k1db1w1db1r1db4lo2db1lo2db1lo2db1lo2~x2/"><circle cx="455.1" cy="84.1" r="4" fill="#3465a4"><title>King Pootatau Te Wherowhero</title></circle></a><a href="/setts/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/"><circle cx="430.0" cy="96.2" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/setts/s13/db4k4db2n2k4r14k4n4db23ly6db54n8k4/"><circle cx="348.6" cy="97.4" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/setts/s8/b15db65ly7b4ly3db30b15w3~x2/"><circle cx="406.3" cy="161.9" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><circle cx="423.0" cy="109.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/db48g4db6y2db2lr2db2g10lr6db2lr3lr2~x2/

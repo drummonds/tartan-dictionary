@@ -1,0 +1,48 @@
+---
+title: "Annan (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [GBBGRGRGRG](/stripes/gbbgrgrgrg/) · **Stripes:** [Y N DO Y O Y O Y O Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y N DO Y O Y O Y O Y</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1742/
+
+## Thread count
+LT/6 N20 DR12 LT4 Na4 LT4 DO4 LT4 Na4 LT/32
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DO | <code style="background-color:#B84C00;"><span style="color:#B84C00;filter:grayscale(1) invert(1) contrast(100);">#B84C00</span></code> `#B84C00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| DR | <code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> `#441800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| LT | <code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> `#8C7038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Jardine of Castlemilk Family Tartan Tartan Number: 1432. Earliest known date: c.1978 The chiefly house is Jardine of Applegirth, a baronetcy created in 1672. The Jardines of Castlemilk in Dumfriesshire settled there in the early fourteenth century. The tartan is approved by Col Jardine. The darker brown is recorded as "J.Br", and the lighter as "Olive Br" in the Lyon Books. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/o9o9y9o1t1o9t1o1~x4/) — ΔT 1.35
+1. [Jardine, of Castlemilk](/setts/s8/dr9o9n9r1db1o9db1r1~x4/) — ΔT 1.56
+1. [Pubcrawlers (Corporate)](/setts/s7/g3dy4g2dy22n5r16ly3~x2/) — ΔT 1.58
+1. [Hanna of Leith (yellow line)](/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/) — ΔT 1.75
+1. [Harmony 5](/setts/s12/g9r3g4o3g3o4g3dp11o30r3o4g3~x2/) — ΔT 1.76
+1. [Sandbaggers (Corporate)](/setts/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/) — ΔT 1.79
+1. [John Muir Way](/setts/s8/dy35dg19r3y8r3dg8r3t3~x2/) — ΔT 1.80
+1. [Rikaco Eve (Fashion)](/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/) — ΔT 1.81
+1. [Earle's Flame (Fashion)](/setts/s8/do10y24r3y3r24dg3y6do6~x2/) — ΔT 1.82
+1. [Tasmanian](/setts/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/) — ΔT 1.84
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o9o9y9o1t1o9t1o1~x4/"><circle cx="315.9" cy="240.8" r="4" fill="#3465a4"><title>Jardine of Castlemilk Family Tartan Tartan Number: 1432. Earliest known date: c.1978 The chiefly house is Jardine of Applegirth, a baronetcy created in 1672. The Jardines of Castlemilk in Dumfriesshire settled there in the early fourteenth century. The tartan is approved by Col Jardine. The darker brown is recorded as &quot;J.Br&quot;, and the lighter as &quot;Olive Br&quot; in the Lyon Books. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dr9o9n9r1db1o9db1r1~x4/"><circle cx="291.9" cy="233.5" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/setts/s7/g3dy4g2dy22n5r16ly3~x2/"><circle cx="317.3" cy="215.3" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/"><circle cx="397.1" cy="215.7" r="4" fill="#3465a4"><title>Hanna of Leith (yellow line)</title></circle></a><a href="/setts/s12/g9r3g4o3g3o4g3dp11o30r3o4g3~x2/"><circle cx="271.7" cy="174.6" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><a href="/setts/s13/lr6n3o7n2o5n8o5n15o18r2o2ly2b3~x2/"><circle cx="310.6" cy="209.2" r="4" fill="#3465a4"><title>Sandbaggers (Corporate)</title></circle></a><a href="/setts/s8/dy35dg19r3y8r3dg8r3t3~x2/"><circle cx="302.1" cy="205.8" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/"><circle cx="356.4" cy="164.6" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/setts/s8/do10y24r3y3r24dg3y6do6~x2/"><circle cx="341.8" cy="261.3" r="4" fill="#3465a4"><title>Earle's Flame (Fashion)</title></circle></a><a href="/setts/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/"><circle cx="293.4" cy="176.0" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><circle cx="348.5" cy="222.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/y16o2y2o2y2o2y2do6n10y3~x2/

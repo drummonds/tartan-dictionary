@@ -5,11 +5,13 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#466CC8;border:1px solid #0003;flex:none"></span><div><strong>Blue</strong> · code <code>B</code> · Human Palette · ref <code>22-06-265</code><br>sRGB <code>#466CC8</code> · OKLab L 0.551 a -0.013 b -0.149 · grid <code>22-06-265</code></div></div>
 
+Blue — the fifth basic colour term, and tartan's commonest ground after green.
+
 The nearest named colour is **Teal** (Human Palette), 0.115 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
-| <code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> | [Teal](/colour/named/human-palette-bg/) | BG | Human Palette | 0.115 |
+| <code style="background-color:#00879F;"><span style="color:#00879F;filter:grayscale(1) invert(1) contrast(100);">#00879F</span></code> | [Teal](/colour/named/human-palette-t/) | T | Human Palette | 0.115 |
 | <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | [Blue](/colour/named/base-six-b/) | B | Base Six | 0.153 |
 | <code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> | [Grey](/colour/named/human-palette-n/) | N | Human Palette | 0.158 |
 | <code style="background-color:#AA2DBD;"><span style="color:#AA2DBD;filter:grayscale(1) invert(1) contrast(100);">#AA2DBD</span></code> | [Purple](/colour/named/human-palette-p/) | P | Human Palette | 0.191 |

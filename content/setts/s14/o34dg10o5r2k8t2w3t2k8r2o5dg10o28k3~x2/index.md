@@ -1,0 +1,62 @@
+---
+title: "Lambert (Front Royal) Hunting"
+date: 2023-03-18
+---
+**Bands:** [KRGRRKBWBKRRGR](/stripes/krgrrkbwbkrrgr/) · **Stripes:** [K O DG O R K T W T K R O DG O](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O DG O R K T W T K R O DG O</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 29/07/2012 — Lambert (Front Royal) Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663))
+- undated — Lambert (Front Royal) Hunting Name Tartan Tartan Number: 10663. Earliest known date: 29/07/2012 Designed by Charles Lambert,using the Scotweb Tartan Designer, for his family, to celebrate their Scottish and Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Dress tartan(STR #10661) and the Lambert (Front Royal) Dark Night tartan (STR #10669) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10663))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663)
+
+## Thread count
+Ka/6 LT56 K20 LT10 R4 Ka16 B4 LN6 B4 Ka16 R4 LT10 K20 LT/68
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5F749C;"><span style="color:#5F749C;filter:grayscale(1) invert(1) contrast(100);">#5F749C</span></code> `#5F749C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| K | <code style="background-color:#23321B;"><span style="color:#23321B;filter:grayscale(1) invert(1) contrast(100);">#23321B</span></code> `#23321B` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.16 |
+| Ka | <code style="background-color:#1C1714;"><span style="color:#1C1714;filter:grayscale(1) invert(1) contrast(100);">#1C1714</span></code> `#1C1714` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.21 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A58065;"><span style="color:#A58065;filter:grayscale(1) invert(1) contrast(100);">#A58065</span></code> `#A58065` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| R | <code style="background-color:#B62531;"><span style="color:#B62531;filter:grayscale(1) invert(1) contrast(100);">#B62531</span></code> `#B62531` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.05 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lambert Hunting (Personal)](/setts/s14/lo34g10lo5r2k8b2w3b2k8r2lo5g10lo28k3~x2/) — ΔT 0.79
+1. [Recycled Lamb, The](/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/) — ΔT 1.06
+1. [Recycled Lamb, The](/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/) — ΔT 1.17
+1. [Bro-Naoned](/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/) — ΔT 1.24
+1. [New Jersey](/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/) — ΔT 1.27
+1. [Freiburg](/setts/s14/db5w5y36ly3y3r3y3ly3y9dg8w3db3w3dg3~x2/) — ΔT 1.34
+1. [Cavalier, Red](/setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/) — ΔT 1.36
+1. [McAlifyfe (Personal)](/setts/s11/k3y3ly2y30k2y3m12y6m6k3y3~x2/) — ΔT 1.38
+1. [Cavalier, Brown](/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/) — ΔT 1.38
+1. [Guszcza, The (Personal)](/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/) — ΔT 1.39
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/lo34g10lo5r2k8b2w3b2k8r2lo5g10lo28k3~x2/"><circle cx="291.4" cy="103.3" r="4" fill="#3465a4"><title>Lambert Hunting (Personal)</title></circle></a><a href="/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/"><circle cx="251.7" cy="113.1" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/"><circle cx="248.5" cy="120.7" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/"><circle cx="319.4" cy="120.6" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/"><circle cx="350.8" cy="96.3" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/setts/s14/db5w5y36ly3y3r3y3ly3y9dg8w3db3w3dg3~x2/"><circle cx="272.9" cy="102.5" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="371.2" cy="103.9" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/setts/s11/k3y3ly2y30k2y3m12y6m6k3y3~x2/"><circle cx="353.0" cy="136.7" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/"><circle cx="373.3" cy="108.4" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/"><circle cx="301.2" cy="145.9" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><circle cx="300.2" cy="104.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/

@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#4B0B4F;border:1px solid #0003;flex:none"></span><div><strong>Aubergine</strong> · code <code>DP</code> · Human Palette · ref <code>12-05-325</code><br>sRGB <code>#4B0B4F</code> · OKLab L 0.301 a +0.103 b -0.071 · grid <code>12-05-325</code></div></div>
 
+Aubergine — a dark purple.
+
 The nearest named colour is **Maroon** (Human Palette), 0.121 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
@@ -14,7 +16,7 @@ The nearest named colour is **Maroon** (Human Palette), 0.121 away in OKLab ΔE.
 | <code style="background-color:#082077;"><span style="color:#082077;filter:grayscale(1) invert(1) contrast(100);">#082077</span></code> | [Navy](/colour/named/human-palette-db/) | DB | Human Palette | 0.140 |
 | <code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> | [Olive](/colour/named/human-palette-dy/) | DY | Human Palette | 0.154 |
 | <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | [Blue](/colour/named/base-six-b/) | B | Base Six | 0.157 |
-| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dbg/) | DBG | Human Palette | 0.162 |
+| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dt/) | DT | Human Palette | 0.162 |
 
 Where it sits among the grid colours of its lightness level — the ringed dot, hue by angle, chroma by radius:
 

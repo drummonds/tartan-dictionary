@@ -1,0 +1,49 @@
+---
+title: "O'Keefe (Name)"
+date: 2023-03-18
+---
+**Bands:** [KGRGYKWKYKRK](/stripes/kgrgykwkykrk/) · **Stripes:** [K Y R Y LO K W K LY K R K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K Y R Y LO K W K LY K R K</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1176/
+
+## Thread count
+K/2 LTa4 R4 LTa44 LT24 K4 LN6 K4 Y4 K6 R4 K/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| LTa | <code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> `#8C7038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bicknell, The Hamish (Personal)](/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/) — ΔT 0.69
+1. [Moray of Abercairny](/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/) — ΔT 0.83
+1. [Baxter (Clan)](/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/) — ΔT 0.86
+1. [Maclean of Duart (Wilsons) (Clan)](/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/) — ΔT 0.91
+1. [Leaf Peeper](/setts/s9/k2w1dg25dy11r12w1lo12k1w2~x2/) — ΔT 0.92
+1. [Westwood (Fashion?)](/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/) — ΔT 0.94
+1. [Berwick District Tartan Tartan Number: 2011. Earliest known date: 1981 Marygate Weavers of Berwick upon Tweed organised a competition to design a tartan to commemorate the historic past of the town. Alison Wilkinson from Wooler, Northumberland, a pupil in the third form at Berwick High School, won the prize of £50. The tartan is also produced in a symetrical form. (STS archives) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r8lo5g2lo4g2lo5o38k5g2k4g2k5r8t4~x2/) — ΔT 0.94
+1. [Elystan Glodrydd (Name)](/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/) — ΔT 0.96
+1. [Unnamed No 1 Tartan Tartan Number: 1340. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r8t7k8ly2k1w2k1g19k1r8t3r8~x2/) — ΔT 0.96
+1. [MacLean of Duart #4](/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/) — ΔT 0.98
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/"><circle cx="208.4" cy="81.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><circle cx="209.0" cy="102.7" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="165.4" cy="94.3" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.8" cy="101.3" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s9/k2w1dg25dy11r12w1lo12k1w2~x2/"><circle cx="170.3" cy="101.5" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="209.1" cy="86.6" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s14/r8lo5g2lo4g2lo5o38k5g2k4g2k5r8t4~x2/"><circle cx="200.4" cy="80.4" r="4" fill="#3465a4"><title>Berwick District Tartan Tartan Number: 2011. Earliest known date: 1981 Marygate Weavers of Berwick upon Tweed organised a competition to design a tartan to commemorate the historic past of the town. Alison Wilkinson from Wooler, Northumberland, a pupil in the third form at Berwick High School, won the prize of £50. The tartan is also produced in a symetrical form. (STS archives) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/"><circle cx="172.9" cy="91.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s12/r8t7k8ly2k1w2k1g19k1r8t3r8~x2/"><circle cx="148.7" cy="109.9" r="4" fill="#3465a4"><title>Unnamed No 1 Tartan Tartan Number: 1340. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><circle cx="192.1" cy="86.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/

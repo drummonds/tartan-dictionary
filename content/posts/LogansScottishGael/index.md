@@ -44,10 +44,7 @@ versus full square, half-width versus full-width pivots — cannot hide a real m
 
 ## What survived 195 years
 
-All 55 setts are now in the dictionary as Logan's own pages — the oldest record of each. Set
-against the modern corpus they fall into four groups:
-
-- **7 setts match a modern sett exactly** — among them Buchanan, where the Register's own "Buchanan (Logan)"
+- **7 setts match exactly** — among them Buchanan, where the Register's own "Buchanan (Logan)"
   record agrees with our transcription thread for thread, and Urquhart, whose Register entry
   "Urquhart (Logan)" says it was "recorded in the scales given by James Logan in his book".
 - **10 more are close** (the same colour sequence, widths within a few percent) — including Hay,
@@ -60,9 +57,6 @@ against the modern corpus they fall into four groups:
 - **7 have no structural trace at all** — Cameron, Lamont, MacGillivray, MacPherson, MacQuarrie,
   Menzies, and the Duke of Sussex plate below. These are arguably the most valuable: 1831
   recordings that the modern corpus has lost or never absorbed.
-
-Each Logan sett page names the modern tartans that adjusted his counts, so the divergence is
-visible sett by sett — the table at the foot of this post links to all of them.
 
 ## The Duke of Sussex plate
 
@@ -87,74 +81,73 @@ R/28.5  G2.5  W3/4  G4  Y3/4  G3/4  Y3/4  R/7
 
 — in threads (×8): `R/228 G20 W6 G32 Y6 G6 Y6 R/56`. A red ground in the grand manner, green
 blocks, and a fine yellow-green-yellow group beside the narrower red pivot. The dictionary does
-hold [a different, much simpler "Duke of Sussex" sett](/setts/s7/r18g1k5g1k1g1r9~g289c18-k000000-rc80000~x2/) —
-but the plate's own tartan had no counterpart in the modern record until now: it is
-[Logan's Duke of Sussex page](/setts/s8/r114g10w3g16y3g3y3r28~g006818-rc80000-we0e0e0-ye8c000~x2/).
+hold [a "Duke of Sussex" sett](/setts/s7/r36g2k10g2k2g2r18-g289c18-k000000-rc80000/), but it is a
+different, much simpler pattern — the plate's tartan has no counterpart in the modern record.
 
 ## The tartans
 
-Every sett from the book is now its own page in the dictionary, and because Logan's is the
-**oldest** record of each cloth, his page owns it. Each row links to that sett page, which carries
-Logan's original stripe table in eighths of an inch and — where later weavers adjusted his
-counts — links out to those modern versions.
+Every sett from the book, with Logan's measurements converted to threads, and a link into the
+dictionary where a counterpart exists. "Corpus cites Logan" means the dictionary's record for
+that name names Logan as a source but disagrees with the book — usually a later smoothing of his
+counts.
 
-| Tartan | Logan's page | Logan's sett (threads, ×8 the eighth-inch) |
-|---|---|---|
-| Abercrombie | [sett page](/setts/s9/b7k2b2k2b2k7g7w1g7~b2c2c80-g006818-k101010-we0e0e0~x4/) | `G/28 W4 G28 K28 B8 K8 B8 K8 B/28` |
-| Buchanan | [sett page](/setts/s13/w2r16k1b2k1y4k1y4k1b2k1g16b1~b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000~x4/) | `A/4 G64 K4 A8 K4 Y16 K4 Y16 K4 A8 K4 R64 W/8` |
-| Cameron | [sett page](/setts/s21/y2b8r3b16r1k16g16r3g1r1g8r1g1r3g16k16r1b16r3b8y1~b2c2c80-g006818-k101010-rc80000-ye8c000~x4/) | `Y/4 B32 R12 B64 R4 K64 G64 R12 G4 R4 G32 R4 G4 R12 G64 K64 R4 B64 R12 B32 Y/8` |
-| Campbell | [sett page](/setts/s29/b4k1b1k1b1k8g8k1w2k1g8k8b8k1b1k1b8k8g8k1y2k1g8k8b1k1b1k1b4~b2c2c80-g006818-k101010-we0e0e0-ye8c000~x8/) | `B/32 K8 B8 K8 B8 K64 G64 K8 W16 K8 G64 K64 B64 K8 B8 K8 B64 K64 G64 K8 Y16 K8 G64 K64 B8 K8 B8 K8 B/32` |
-| Campbell of Breadalbane | [sett page](/setts/s13/b4k2b2k2b2k14y1g22y1k14b12k2b2~b2c2c80-g006818-k101010-ye8c000~x4/) | `B/16 K8 B8 K8 B8 K56 Y4 G88 Y4 K56 B48 K8 B/8` |
-| Chisholm | [sett page](/setts/s16/r5g16r5b4w2b4w2b4r22b4w2b4r5g16r5b2~b2c2c80-g006818-rc80000-we0e0e0~x4/) | `R/20 G64 R20 B16 W8 B16 W8 B16 R88 B16 W8 B16 R20 G64 R20 B/8` |
-| Colquhoun | [sett page](/setts/s13/b2k2b12k18w1g14r2g14w3k18b12k2b1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x4/) | `B/4 K8 B48 K72 W12 G56 R8 G56 W4 K72 B48 K8 B/8` |
-| Cumming | [sett page](/setts/s17/b8k4b8k20y1g20r8w1r8w1r8g20y1k20b8k4b4~b5c8ca8-g006818-k101010-rc80000-we0e0e0-yd87c00~x2/) | `A/8 K8 A16 K40 O2 G40 R16 W2 R16 W2 R16 G40 O2 K40 A16 K8 A/16` |
-| Dalzell | [sett page](/setts/s17/r24w1b2r8g52r8b2w1r8b12r8w1b2r52g4ra6g6~b2c2c80-g006818-rc80000-ra900030-we0e0e0~x2/) | `R/48 W2 B4 R16 G104 R16 B4 W2 R16 B24 R16 W2 B4 R104 G8 C12 G/12` |
-| Douglas | [sett page](/setts/s9/w2b16g16ba4k4ba4g16b16w1~b2c2c80-ba5c8ca8-g006818-k101010-we0e0e0~x2/) | `W/2 B32 G32 A8 K8 A8 G32 B32 W/4` |
-| Drummond | [sett page](/setts/s17/w1b4ba6r16g32y1ba6w1r68w1ba6y1g32r16ba6b4w1~b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000~x2/) | `W/2 A8 B12 R32 G64 Y2 B12 W2 R136 W2 B12 Y2 G64 R32 B12 A8 W/2` |
-| Farquharson | [sett page](/setts/s16/r4k2b16k16g16y4g16k16b1k1b1k1b1k1b8r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/) | `R/4 B16 K2 B2 K2 B2 K2 B2 K32 G32 Y8 G32 K32 B32 K4 R/8` |
-| Ferguson | [sett page](/setts/s11/g2b12r1k12g12k2g12k12r1b12g1~b2c2c80-g006818-k101010-rc80000~x4/) | `G/4 B48 R4 K48 G48 K8 G48 K48 R4 B48 G/8` |
-| Forbes | [sett page](/setts/s13/b1k1b6k6g6k1w1k1g6k6b6k1b1~b2c2c80-g006818-k101010-we0e0e0~x8/) | `B/8 K8 B48 K48 G48 K8 W8 K8 G48 K48 B48 K8 B/8` |
-| Fraser | [sett page](/setts/s23/b10r1b1r1g10r13g2r13g10b10r1b1r1b10g10r13g2r13g10r1b1r1b5~b2c2c80-g006818-rc80000~x4/) | `B/20 R4 B4 R4 G40 R52 G8 R52 G40 B40 R4 B4 R4 B40 G40 R52 G8 R52 G40 R4 B4 R4 B/40` |
-| Gordon | [sett page](/setts/s28/b2k2b11k12g12y2g12k12b2k2b2k2b12k2b2k2b2k12g12y2k12g12y2g12k12b11k2b1~b2c2c80-g006818-k101010-ye8c000~x4/) | `B/4 K8 B44 K48 G48 Y8 G48 K48 Y8 G48 K48 B8 K8 B8 K8 B48 K8 B8 K8 B8 K48 G48 Y8 G48 K48 B44 K8 B/8` |
-| Graham | [sett page](/setts/s11/k2b12k12g1ba2g16ba2g1k12b12k1~b2c2c80-ba5c8ca8-g006818-k101010~x4/) | `K/4 B48 K48 G4 A8 G64 A8 G4 K48 B48 K/8` |
-| Grant | [sett page](/setts/s29/r10b1r1b1r72ba1r1b20r4g1r4g84r1b2r10b1r1g84r4g1r4b20r2ba1r72b2r2b1r4~b2c2c80-ba5c8ca8-g006818-rc80000~x2/) | `R/8 B2 R4 B4 R144 A2 R4 B40 R8 G2 R8 G168 R2 B2 R20 B4 R2 G168 R8 G2 R8 B40 R2 A2 R144 B2 R2 B2 R/20` |
-| Gunn | [sett page](/setts/s11/g4b28g1k28g28r4g28k28g2b28g1~b2c2c80-g006818-k101010-rc80000~x2/) | `G/2 B56 G4 K56 G56 R8 G56 K56 G2 B56 G/8` |
-| Hay | [sett page](/setts/s23/k12r4y4k8r66g8r1y1r8g60w3k60r3b60r8y3r3b8r66k8y4r4k6~b780078-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/) | `K/12 R8 Y8 K16 R132 P16 R6 Y6 R16 P120 R6 K120 W6 G120 R16 Y2 R2 G16 R132 K16 Y8 R8 K/24` |
-| Lamont | [sett page](/setts/s25/b9k3b3k3b3k12g12w3g12k12b12k3b3k3b12k12g12w3g12k12b3k3b3k3b5~b2c2c80-g006818-k101010-we0e0e0~x4/) | `B/20 K12 B12 K12 B12 K48 G48 W12 G48 K48 B48 K12 B12 K12 B48 K48 G48 W12 G48 K48 B12 K12 B12 K12 B/36` |
-| Logan | [sett page](/setts/s21/r10b6r3b3r3b28k22g28r2k2y4k2r2g28k22b28r3b3r3b6r5~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/) | `R/10 B12 R6 B6 R6 B56 K44 G56 R4 K4 Y8 K4 R4 G56 K44 B56 R6 B6 R6 B12 R/20` |
-| MacAlister | [sett page](/setts/s41/r16g2ga12r4b4r4w2r4b4r4ga12r2w1r24b1r2ga44r2b2r64b2r2ga44r2b2r22w2r2ba16r2w2r10ga12g2r8g2ga12r3w2r2ba10~b5c8ca8-ba2c2c80-g289c18-ga003820-rc80000-we0e0e0~x2/) | `R/32 LG4 DG24 R8 A8 R8 W4 R8 A8 R8 DG24 R4 W2 R48 A2 R4 DG88 R4 A4 R128 A4 R4 DG88 R4 A4 R44 W4 R4 B32 R4 W4 R20 DG24 LG4 R16 LG4 DG24 R6 W4 R4 B/20` |
-| MacAulay | [sett page](/setts/s15/k2r18g7r3g10w1g10r3g10w1g10r3g7r18k1~g006818-k101010-rc80000-we0e0e0~x4/) | `K/4 R72 G28 R12 G40 W4 G40 R12 G40 W4 G40 R12 G28 R72 K/8` |
-| MacDonald | [sett page](/setts/s23/g20r2g4r6g32k32r2b32r6b3r2b20r2b3r6b32r2k32g32r6g4r2g10~b2c2c80-g006818-k101010-rc80000~x2/) | `G/20 R4 G8 R12 G64 K64 R4 B64 R12 B6 R4 B40 R4 B6 R12 B64 R4 K64 G64 R12 G8 R4 G/40` |
-| MacDougall | [sett page](/setts/s22/r6g12r2b1r36ra4r36b1r2g12r12g12ra6r2ra6b12r4g2r4g36r2ra2~b2c2c80-g006818-rc80000-ra900030~x4/) | `R/24 G48 R8 B4 R144 C16 R144 B4 R8 G48 R48 G48 C24 R8 C24 B48 R16 G8 R16 G144 R8 C/8` |
-| MacDuff | [sett page](/setts/s16/r16b6k8g13r7k8g13r7k2r7k2r7g13k8b6r8~b5c8ca8-g006818-k101010-rc80000~x4/) | `R/32 A24 K32 G52 R28 K8 R28 K8 R28 G52 K32 R28 G52 K32 A24 R/64` |
-| MacFarlane | [sett page](/setts/s27/r42k1g12w2r3k1r3w2g2b12k4r3w4g3w4r3k4b12g2w2r3k1r3w2g12k1r21~b780078-g006818-k101010-rc80000-we0e0e0~x4/) | `R/84 K4 G48 W8 R12 K4 R12 W8 G8 P48 K16 R12 W16 G12 W16 R12 K16 P48 G8 W8 R12 K4 R12 W8 G48 K4 R/168` |
-| MacGillivray | [sett page](/setts/s27/b2r8ba1r8g36r4b28r2ba2r72b2ba1r8ba1r8ba1b1r72ba1r2b28r4g36r8ba1r8b2~b2c2c80-ba5c8ca8-g006818-rc80000~x2/) | `B/4 R16 A2 R16 G72 R8 B56 R4 A2 R144 B2 A2 R16 A2 R16 A2 B4 R144 A4 R4 B56 R8 G72 R16 A2 R16 B/4` |
-| MacGregor | [sett page](/setts/s11/r96g24r10g12k1w4k1g12r10g24r48~g006818-k101010-rc80000-we0e0e0~x2/) | `R/96 G48 R20 G24 K2 W8 K2 G24 R20 G48 R/192` |
-| MacIntosh | [sett page](/setts/s11/r48b12r5g21r8b1r8g21r5b12r24~b2c2c80-g006818-rc80000~x4/) | `R/96 B48 R20 G84 R32 B4 R32 G84 R20 B48 R/192` |
-| MacKay | [sett page](/setts/s13/g6b28g4k28g28k6g28k6g28k28g4b28g1~b1c1c1c-g006818-k101010~x2/) | `G/2 AK56 G8 K56 G56 K12 G56 K12 G56 K56 G8 AK56 G/12` |
-| MacKenzie | [sett page](/setts/s33/b14k3b3k3b3k14g14k3w3k3g14k14b14k3r3k14b14k3r3k3b14k14g14k3w3k3g14k14b3k3b3k3b7~b2c2c80-g006818-k101010-rc80000-we0e0e0~x4/) | `B/28 K12 B12 K12 B12 K56 G56 K12 W12 K12 G56 K56 B56 K12 R12 K12 B56 K56 R12 K12 B56 K56 G56 K12 W12 K12 G56 K56 B12 K12 B12 K12 B/56` |
-| MacKinnon | [sett page](/setts/s27/w4r6g4b4r12g32r4b8g4r32g16w4r8w4r8w4g16r32g4b8r4g32r12b4g4r6w1~b2c2c80-g006818-rc80000-we0e0e0~x2/) | `W/2 R12 G8 B8 R24 G64 R8 B16 G8 R64 G32 W8 R16 W8 R16 W8 G32 R64 G8 B16 R8 G64 R24 B8 G8 R12 W/8` |
-| MacLachlan | [sett page](/setts/s13/r8k2r2k2r2k16b16g3b16k16r16k2r2~b2c2c80-g006818-k101010-rc80000~x4/) | `R/32 K8 R8 K8 R8 K64 B64 G12 B64 K64 R64 K8 R/8` |
-| MacLean | [sett page](/setts/s21/k4r6b4r44g20k4w6k4y2k8b14k8y2k4w6k4g20r44b4r6k1~b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/) | `K/2 R12 A8 R88 G40 K8 W12 K8 Y4 K16 A28 K16 Y4 K8 W12 K8 G40 R88 A8 R12 K/8` |
-| MacLeod | [sett page](/setts/s13/y4k1b12k12g12k1r4k1g12k12b12k1y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x4/) | `Y/8 K4 B48 K48 G48 K4 R16 K4 G48 K48 B48 K4 Y/16` |
-| MacNab | [sett page](/setts/s26/g1r1g6r6ra6r1ra6r6g1r1g1r1g6r1g1r1g1r1g1r6ra6r1ra6r6g6r1~g006818-r900030-rac80000~x8/) | `G/8 C8 G48 C48 R48 C8 R48 C48 G8 C8 G8 C8 G48 C8 G8 C8 G8 C8 G8 C48 R48 C8 R48 C48 G48 C/8` |
-| MacNaughton | [sett page](/setts/s17/k2b2r32g32k24b18r32b2k2b2r32b18k24g32r32b2k1~b5c8ca8-g006818-k101010-rc80000~x2/) | `K/2 A4 R64 G64 K48 A36 R64 A4 K4 A4 R64 A36 K48 G64 R64 A4 K/4` |
-| MacNeil | [sett page](/setts/s11/w2b12k12g12k5y1k5g12k12b12w1~b2c2c80-g006818-k101010-we0e0e0-ye8c000~x4/) | `W/8 B48 K48 G48 K20 Y4 K20 G48 K48 B48 W/4` |
-| MacPherson | [sett page](/setts/s29/r2k2w2r22b8k2b2k2b8k12y2g16r22b4r22b4r22g16y2k12b8k2b2k2b8r22w1k1r1~b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/) | `R/2 K2 W2 R44 A16 K4 A4 K4 A16 K24 Y4 G32 R44 A8 R44 A8 R44 G32 Y4 K24 A16 K4 A4 K4 A16 R44 W4 K4 R/4` |
-| MacQuarrie | [sett page](/setts/s11/r28g64r20b48r60ba1r8ba1r60b48r10~b2c2c80-ba5c8ca8-g006818-rc80000~x2/) | `R/20 B96 R120 A2 R16 A2 R120 B96 R40 G128 R/56` |
-| Menzies | [sett page](/setts/s8/r12g9w1b3r24b3w1g9~b5c8ca8-g006818-rc80000-we0e0e0~x8/) | `R/96 G72 W8 A24 R192 A24 W8 G/72` |
-| Munro | [sett page](/setts/s20/r26g3r3g3r3g3r26b1y1r3b6r3y1b1r3g26r3b1y1r13~b2c2c80-g006818-rc80000-ye8c000~x4/) | `R/52 Y4 B4 R12 G104 R12 B4 Y4 R12 B24 R12 Y4 B4 R104 G12 R12 G12 R12 G12 R/104` |
-| Murray | [sett page](/setts/s25/b2k1b6k6g6r2g6k6b1k1b1k1b6k1b1k1b1k6g6r2g6k6b6k1b1~b2c2c80-g006818-k101010-rc80000~x8/) | `B/8 K8 B48 K48 G48 R16 G48 K48 B8 K8 B8 K8 B48 K8 B8 K8 B8 K48 G48 R16 G48 K48 B48 K8 B/16` |
-| Ogilvie | [sett page](/setts/s93/g6k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8w1r8k2y2g14k4g14k4g14y2k2r8w1r8w1r8k12w1b4w1k12y4g6y2g6y4y2g6y4g2r4k2r14b2w2r14w2b2w2r14k2r4ba2y2g8w2g8y2k2r8w2r8k2y4g8y4k2r2k2r2k2r2k2y2g6y2ba4y2k2w1r4~b2-ha52b9791eaa5ba34/) | `R/8 W2 K4 Y4 P8 Y4 G12 Y4 K4 R4 K4 R4 K4 R4 K4 Y8 G16 Y8 K4 R16 W4 R16 K4 Y4 G16 W4 G16 Y4 P4 R8 K4 R28 W4 B4 W4 R28 W4 B4 R28 K4 R8 G4 Y8 G12 Y4 Y8 G12 Y4 G12 Y8 K24 W2 B8 W2 K24 R16 W2 R16 W2 R16 K4 Y4 G28 K8 G28 K8 G28 Y4 K4 R16 W2 R16 W4 R16 W4 R16 K4 Y4 G16 W4 G16 Y4 K4 R16 W4 R16 W4 R16 K4 Y8 G28 K8 G/12` |
-| Robertson | [sett page](/setts/s31/r1g17r2b2r17g2r2g2r17b2r2g17r2b17r2g2r17g2r2g2r17g2r2g17r2g17r2b2r17g2r1~b2c2c80-g006818-rc80000~x4/) | `R/4 G8 R68 B8 R8 G68 R8 G68 R8 G8 R68 G8 R8 G8 R68 G8 R8 B68 R8 G68 R8 B8 R68 G8 R8 G8 R68 B8 R8 G68 R/4` |
-| Rose | [sett page](/setts/s11/r2b10k10g10w1k4w1g10k10b10r1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x4/) | `R/4 B40 K40 G40 W4 K16 W4 G40 K40 B40 R/8` |
-| Ross | [sett page](/setts/s18/r18b1r1b2r1b1r18b18r2b18r18g2r4g2r18g18r2g9~b2c2c80-g006818-rc80000~x4/) | `G/36 R8 G72 R72 G8 R16 G8 R72 B72 R8 B72 R72 B4 R4 B8 R4 B4 R/72` |
-| Sinclair | [sett page](/setts/s6/r36b8w1k5g20r18~b5c8ca8-g006818-k101010-rc80000-we0e0e0~x4/) | `R/72 G80 K20 W4 A32 R/144` |
-| Stewart | [sett page](/setts/s23/w2r3k2r8g16k2w2k2y1k10b6r32b6k10y1k2w2k2g16r8k2r3w1~b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000~x4/) | `W/4 R12 K8 R32 G64 K8 W8 K8 Y4 K40 A24 R128 A24 K40 Y4 K8 W8 K8 G64 R32 K8 R12 W/8` |
-| Sutherland | [sett page](/setts/s25/b22k2b2k2b2k16g16k2g16k16b16k2b2k2b16k16g16k2g16k16b2k2b2k2b11~b2c2c80-g006818-k101010~x4/) | `B/44 K8 B8 K8 B8 K64 G64 K8 G64 K64 B64 K8 B8 K8 B64 K64 G64 K8 G64 K64 B8 K8 B8 K8 B/88` |
-| Urquhart | [sett page](/setts/s13/g4k1g1k1g1k8b8r1b8k8g8k1g1~b2c2c80-g006818-k101010-rc80000~x8/) | `G/32 K8 G8 K8 G8 K64 B64 R8 B64 K64 G64 K8 G/8` |
-| Clergy | [sett page](/setts/s17/w2k10w2r8w1k52w2k20r10k4r10k20w2r8w2k10w1~k101010-r888888-we0e0e0~x2/) | `W/2 K20 W4 N16 W4 K40 N20 K8 N20 K40 W4 K104 W2 N16 W4 K20 W/4` |
-| Duke of Sussex (Earl of Inverness) | [sett page](/setts/s8/r114g10w3g16y3g3y3r28~g006818-rc80000-we0e0e0-ye8c000~x2/) | `R/228 G20 W6 G32 Y6 G6 Y6 R/56` |
+| Tartan | p. | Logan's sett (threads, ×8) | In the dictionary |
+|---|---|---|---|
+| Abercrombie | 402 | `G/28 W4 G28 K28 B8 K8 B8 K8 B/28` | [exact match](/setts/s9/g28w2g14k14b4k4b4k4b14-b2c2c80-g006818-k101010-we0e0e0/) |
+| Buchanan | 402 | `A/4 G64 K4 A8 K4 Y16 K4 Y16 K4 A8 K4 R64 W/8` | [exact match](/setts/s13/b4g32k2b4k2y8k2y8k2b4k2r32w4-b2474e8-g006818-k101010-r880000-wfcfcfc-yd09800/) |
+| Cameron | 402 | `Y/4 B32 R12 B64 R4 K64 G64 R12 G4 R4 G32 R4 G4 R12 G64 K64 R4 B64 R12 B32 Y/8` | *no counterpart found* |
+| Campbell | 402 | `B/32 K8 B8 K8 B8 K64 G64 K8 W16 K8 G64 K64 B64 K8 B8 K8 B64 K64 G64 K8 Y16 K8 G64 K64 B8 K8 B8 K8 B/32` | [exact match](/setts/s28/b2k2b16k16g16k2y4k2g16k16b2k2b2k2b16k2b2k2b2k16g16k2w4k2g16k16b16k2-b1474b4-g006818-k101010-wfcfcfc-ye8c000/) |
+| Campbell of Breadalbane | 402 | `B/16 K8 B8 K8 B8 K56 Y4 G88 Y4 K56 B48 K8 B/8` | [close (90%)](/setts/s13/b16k2b2k2b2k16y2g28y2k16b16k2b2-b2c4084-g005020-k101010-ye8c000/) |
+| Chisholm | 402 | `R/20 G64 R20 B16 W8 B16 W8 B16 R88 B16 W8 B16 R20 G64 R20 B/8` | [corpus cites Logan, sett differs](/setts/s8/r24b4w2b4r6g16r6b2-b2c2c80-g006818-rc80000-we0e0e0/) |
+| Colquhoun | 402 | `B/4 K8 B48 K72 W12 G56 R8 G56 W4 K72 B48 K8 B/8` | [close (91%)](/setts/s12/b38k6b4k6b38k38w6g38r10g38w6k38-b2c2c80-g00643c-k101010-rc80000-we0e0e0/) |
+| Cumming | 403 | `A/8 K8 A16 K40 O2 G40 R16 W2 R16 W2 R16 G40 O2 K40 A16 K8 A/16` | [corpus cites Logan, sett differs](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-we0e0e0/) |
+| Dalzell | 403 | `R/48 W2 B4 R16 G104 R16 B4 W2 R16 B24 R16 W2 B4 R104 G8 C12 G/12` | [close (90%)](/setts/s17/r48w2b4r8g64r8b4w2r8b12r8w2b4r64g4ra6g12-b780078-g006818-rc80000-racc4438-we0e0e0/) |
+| Douglas | 403 | `W/2 B32 G32 A8 K8 A8 G32 B32 W/4` | [corpus cites Logan, sett differs](/setts/s5/k6b6g46b42w4-b2c2c80-g006818-k101010-we0e0e0/) |
+| Drummond | 403 | `W/2 A8 B12 R32 G64 Y2 B12 W2 R136 W2 B12 Y2 G64 R32 B12 A8 W/2` | [corpus cites Logan, sett differs](/setts/s16/r12b2r4b4r56ba4r4b18r4g4r4g48r6b4r12b4-b2c2c80-ba5c8ca8-g006818-rc80000/) |
+| Farquharson | 403 | `R/4 B16 K2 B2 K2 B2 K2 B2 K32 G32 Y8 G32 K32 B32 K4 R/8` | [corpus cites Logan, sett differs](/setts/s15/b12k4b4k4b4k12g16k2r4k2g16k12b16k4b4-b2c2c80-g006818-k101010-rc80000/) |
+| Ferguson | 403 | `G/4 B48 R4 K48 G48 K8 G48 K48 R4 B48 G/8` | [corpus cites Logan, sett differs](/setts/s6/g8b48r6k48g50k8-b2c2c80-g006818-k101010-rc80000/) |
+| Forbes | 403 | `B/8 K8 B48 K48 G48 K8 W8 K8 G48 K48 B48 K8 B/8` | [exact match](/setts/s7/b2k2b12k12g12k2w2-b2c4084-g005020-k101010-we0e0e0/) |
+| Fraser | 403 | `B/20 R4 B4 R4 G40 R52 G8 R52 G40 B40 R4 B4 R4 B40 G40 R52 G8 R52 G40 R4 B4 R4 B/40` | [close (97%)](/setts/s22/b2r2b20g20r26g4r26g20r2b2r2b20r2b2r2g20r26g4r26g20b20r2-b2c2c80-g006818-rc80000/) |
+| Gordon | 403 | `B/4 K8 B44 K48 G48 Y8 G48 K48 Y8 G48 K48 B8 K8 B8 K8 B48 K8 B8 K8 B8 K48 G48 Y8 G48 K48 B44 K8 B/8` | [corpus cites Logan, sett differs](/setts/s13/b12k2b2k2b2k12g12y2g12k12b12k2b2-b2c2c80-g006818-k101010-ye8c000/) |
+| Graham | 403 | `K/4 B48 K48 G4 A8 G64 A8 G4 K48 B48 K/8` | [close (92%)](/setts/s10/g38b4g8k26ba24k6ba24k26g8b4-b5c8ca8-ba780078-g006818-k101010/) |
+| Grant | 403 | `R/8 B2 R4 B4 R144 A2 R4 B40 R8 G2 R8 G168 R2 B2 R20 B4 R2 G168 R8 G2 R8 B40 R2 A2 R144 B2 R2 B2 R/20` | [corpus cites Logan, sett differs](/setts/s14/b4r6g4ba4r12g32r4ba8g4r32g16b4r8w4-b780078-ba2c2c80-g006818-rc80000-we0e0e0/) |
+| Gunn | 404 | `G/2 B56 G4 K56 G56 R8 G56 K56 G2 B56 G/8` | [corpus cites Logan, sett differs](/setts/s6/g4k24g2k24g24r4-g005020-k101010-rdc0000/) |
+| Hay | 404 | `K/12 R8 Y8 K16 R132 P16 R6 Y6 R16 P120 R6 K120 W6 G120 R16 Y2 R2 G16 R132 K16 Y8 R8 K/24` | [close (96%)](/setts/s23/k6r2y2k4r32b4r2y2r4b30r2k30w2g30r4y2r2g4r32k4y2r2k6-b780078-g006818-k101010-rc80000-we0e0e0-ye8c000/) |
+| Lamont | 404 | `B/20 K12 B12 K12 B12 K48 G48 W12 G48 K48 B48 K12 B12 K12 B48 K48 G48 W12 G48 K48 B12 K12 B12 K12 B/36` | *no counterpart found* |
+| Logan | 404 | `R/10 B12 R6 B6 R6 B56 K44 G56 R4 K4 Y8 K4 R4 G56 K44 B56 R6 B6 R6 B12 R/20` | [corpus cites Logan, sett differs](/setts/s13/b4g32k2b4k2y8k2y8k2b4k2r32w4-b3c82af-g003c14-k101010-rdc0000-we0e0e0-ye8c000/) |
+| MacAlister | 404 | `R/32 LG4 DG24 R8 A8 R8 W4 R8 A8 R8 DG24 R4 W2 R48 A2 R4 DG88 R4 A4 R128 A4 R4 DG88 R4 A4 R44 W4 R4 B32 R4 W4 R20 DG24 LG4 R16 LG4 DG24 R6 W4 R4 B/20` | [close (96%)](/setts/s41/r64g4ga24r8b8r8w4r8b8r8ga24r4w4r48b4r4ga88r4b4r128b4r4ga88r4b4r44w4r4ba32r4w4r20ga24g4r16g4ga24r6w4r4ba20-b5480b0-ba304080-g30a010-ga003000-rc00000-we0e0e0/) |
+| MacAulay | 404 | `K/4 R72 G28 R12 G40 W4 G40 R12 G40 W4 G40 R12 G28 R72 K/8` | [corpus cites Logan, sett differs](/setts/s6/k4r32g12r6g16w2-g006818-k101010-rc80000-we0e0e0/) |
+| MacDonald | 404 | `G/20 R4 G8 R12 G64 K64 R4 B64 R12 B6 R4 B40 R4 B6 R12 B64 R4 K64 G64 R12 G8 R4 G/40` | [corpus cites Logan, sett differs](/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g006818-k101010-rc80000-ye8c000/) |
+| MacDougall | 405 | `R/24 G48 R8 B4 R144 C16 R144 B4 R8 G48 R48 G48 C24 R8 C24 B48 R16 G8 R16 G144 R8 C/8` | [corpus cites Logan, sett differs](/setts/s20/b2r24ra8g144ra16g8ra16ba36r24ra8r24g36ra36g36ra16ba8ra144r12ra8b2-b3c82af-ba2c4084-g005020-r960028-radc0000/) |
+| MacDuff | 405 | `R/32 A24 K32 G52 R28 K8 R28 K8 R28 G52 K32 R28 G52 K32 A24 R/64` | [corpus cites Logan, sett differs](/setts/s9/k2b2r32g32k24b16r32b2k2-b2c2c80-g006818-k101010-rc80000/) |
+| MacFarlane | 405 | `R/84 K4 G48 W8 R12 K4 R12 W8 G8 P48 K16 R12 W16 G12 W16 R12 K16 P48 G8 W8 R12 K4 R12 W8 G48 K4 R/168` | [corpus cites Logan, sett differs](/setts/s14/g32k6g40w4r6k4r6w4g4b36k4r8w4g6-b2c2c80-g006818-k101010-rc80000-we0e0e0/) |
+| MacGillivray | 405 | `B/4 R16 A2 R16 G72 R8 B56 R4 A2 R144 B2 A2 R16 A2 R16 A2 B4 R144 A4 R4 B56 R8 G72 R16 A2 R16 B/4` | *no counterpart found* |
+| MacGregor | 405 | `R/96 G48 R20 G24 K2 W8 K2 G24 R20 G48 R/192` | [corpus cites Logan, sett differs](/setts/s6/g18r4g18r28k2w4-g006818-k101010-rc80000-we0e0e0/) |
+| MacIntosh | 405 | `R/96 B48 R20 G84 R32 B4 R32 G84 R20 B48 R/192` | [corpus cites Logan, sett differs](/setts/s8/r24b4w2b4r6g16r6b2-b2c2c80-g006818-rc80000-we0e0e0/) |
+| MacKay | 405 | `G/2 AK56 G8 K56 G56 K12 G56 K12 G56 K56 G8 AK56 G/12` | [corpus cites Logan, sett differs](/setts/s6/g8b46g4k46g46k8-b000080-g006818-k101010/) |
+| MacKenzie | 405 | `B/28 K12 B12 K12 B12 K56 G56 K12 W12 K12 G56 K56 B56 K12 R12 K12 B56 K56 R12 K12 B56 K56 G56 K12 W12 K12 G56 K56 B12 K12 B12 K12 B/56` | [corpus cites Logan, sett differs](/setts/s15/b12k4b4k4b4k12g16k2r4k2g16k12b16k4b4-b2c2c80-g006818-k101010-rc80000/) |
+| MacKinnon | 406 | `W/2 R12 G8 B8 R24 G64 R8 B16 G8 R64 G32 W8 R16 W8 R16 W8 G32 R64 G8 B16 R8 G64 R24 B8 G8 R12 W/8` | [corpus cites Logan, sett differs](/setts/s14/b4r6g4ba4r12g32r4ba8g4r32g16b4r8w4-b780078-ba2c2c80-g006818-rc80000-we0e0e0/) |
+| MacLachlan | 406 | `R/32 K8 R8 K8 R8 K64 B64 G12 B64 K64 R64 K8 R/8` | [exact match](/setts/s13/r32k4r4k4r4k32b32g6b32k32r32k4r4-b202060-g006818-k101010-rc80000/) |
+| MacLean | 406 | `K/2 R12 A8 R88 G40 K8 W12 K8 Y4 K16 A28 K16 Y4 K8 W12 K8 G40 R88 A8 R12 K/8` | [corpus cites Logan, sett differs](/setts/s12/b8ba2k6y2k2w2k2g16r24ba2r4k2-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/) |
+| MacLeod | 406 | `Y/8 K4 B48 K48 G48 K4 R16 K4 G48 K48 B48 K4 Y/16` | [corpus cites Logan, sett differs](/setts/s6/k4r32g12r6g16w2-g006818-k101010-rc80000-we0e0e0/) |
+| MacNab | 406 | `G/8 C8 G48 C48 R48 C8 R48 C48 G8 C8 G8 C8 G48 C8 G8 C8 G8 C8 G8 C48 R48 C8 R48 C48 G48 C/8` | [corpus cites Logan, sett differs](/setts/s13/g16r2g2r2g2r12ra16r2ra16r12g14r2g2-g006818-ra00048-rac80000/) |
+| MacNaughton | 406 | `K/2 A4 R64 G64 K48 A36 R64 A4 K4 A4 R64 A36 K48 G64 R64 A4 K/4` | [corpus cites Logan, sett differs](/setts/s7/b10r34ba32k20b20r34b10-b080848-ba002814-k101010-rdc0000/) |
+| MacNeil | 406 | `W/8 B48 K48 G48 K20 Y4 K20 G48 K48 B48 W/4` | [corpus cites Logan, sett differs](/setts/s6/w6b28k24g24k4y6-b2c2c80-g006818-k101010-we0e0e0-ye8c000/) |
+| MacPherson | 406 | `R/2 K2 W2 R44 A16 K4 A4 K4 A16 K24 Y4 G32 R44 A8 R44 A8 R44 G32 Y4 K24 A16 K4 A4 K4 A16 R44 W4 K4 R/4` | *no counterpart found* |
+| MacQuarrie | 406 | `R/20 B96 R120 A2 R16 A2 R120 B96 R40 G128 R/56` | *no counterpart found* |
+| Menzies | 407 | `R/96 G72 W8 A24 R192 A24 W8 G/72` | *no counterpart found* |
+| Munro | 407 | `R/52 Y4 B4 R12 G104 R12 B4 Y4 R12 B24 R12 Y4 B4 R104 G12 R12 G12 R12 G12 R/104` | [close (91%)](/setts/s20/r40g4r4g4r4g4r38b2y2r4b8r4y2b2r4g36r4b2y2r38-b304080-g008000-rc00000-yf0c000/) |
+| Murray | 407 | `B/8 K8 B48 K48 G48 R16 G48 K48 B8 K8 B8 K8 B48 K8 B8 K8 B8 K48 G48 R16 G48 K48 B48 K8 B/16` | [corpus cites Logan, sett differs](/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b2c2c80-g006818-k101010-rc80000/) |
+| Ogilvie | 407 | `R/8 W2 K4 Y4 P8 Y4 G12 Y4 K4 R4 K4 R4 K4 R4 K4 Y8 G16 Y8 K4 R16 W4 R16 K4 Y4 G16 W4 G16 Y4 P4 R8 K4 R28 W4 B4 W4 R28 W4 B4 R28 K4 R8 G4 Y8 G12 Y4 Y8 G12 Y4 G12 Y8 K24 W2 B8 W2 K24 R16 W2 R16 W2 R16 K4 Y4 G28 K8 G28 K8 G28 Y4 K4 R16 W2 R16 W4 R16 W4 R16 K4 Y4 G16 W4 G16 Y4 K4 R16 W4 R16 W4 R16 K4 Y8 G28 K8 G/12` | [corpus cites Logan, sett differs](/setts/s81/g28k8g28y8k4r16w4r16w4r16k4y4g16w4g16y4k4r16w4r16w4r16k4y4g28k8g28k8g28y4k4r16w4r16w4r16k24w2b8w2k24y8g12y4g12y8ba4r8k4r28w2b4w2r28w2b4w2r28k4r8ba4y4g16w4g16y4k4r16w4r16w4r16k4y8g16y8k4r16w4r16w4-b2c2-h3738d256999a2c35/) |
+| Robertson | 407 | `R/4 G8 R68 B8 R8 G68 R8 G68 R8 G8 R68 G8 R8 G8 R68 G8 R8 B68 R8 G68 R8 B8 R68 G8 R8 G8 R68 B8 R8 G68 R/4` | [corpus cites Logan, sett differs](/setts/s13/r2g2r18b2r2g18r2b18r2g2r18g2r2-b2c2c80-g006818-rc80000/) |
+| Rose | 407 | `R/4 B40 K40 G40 W4 K16 W4 G40 K40 B40 R/8` | [corpus cites Logan, sett differs](/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g006818-k101010-rc80000-ye8c000/) |
+| Ross | 408 | `G/36 R8 G72 R72 G8 R16 G8 R72 B72 R8 B72 R72 B4 R4 B8 R4 B4 R/72` | [exact match](/setts/s18/g36r4g36r36g4r8g4r36b36r4b36r36b2r2b4r2b2r36-b2c4084-g005020-rdc0000/) |
+| Sinclair | 408 | `R/72 G80 K20 W4 A32 R/144` | [close (94%)](/setts/s6/r56g32k8w2b12r56-b5480b0-g008000-k000000-rc00000-we0e0e0/) |
+| Stewart | 408 | `W/4 R12 K8 R32 G64 K8 W8 K8 Y4 K40 A24 R128 A24 K40 Y4 K8 W8 K8 G64 R32 K8 R12 W/8` | [close (91%)](/setts/s22/r64b20k32y4k6w6k6g46r26k6r6w4r6k6r26g46k6w6k6y4k32b20-b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000/) |
+| Sutherland | 408 | `B/44 K8 B8 K8 B8 K64 G64 K8 G64 K64 B64 K8 B8 K8 B64 K64 G64 K8 G64 K64 B8 K8 B8 K8 B/88` | [corpus cites Logan, sett differs](/setts/s13/b22k2b2k2b2k16g16k2g16k16b16k2b2-b202060-g003820-k101010/) |
+| Urquhart | 408 | `G/32 K8 G8 K8 G8 K64 B64 R8 B64 K64 G64 K8 G/8` | [exact match](/setts/s13/g16k2g2k2g2k16b16r2b16k16g16k2g2-b2c2c80-g006818-k101010-r880000/) |
+| Clergy | 408 | `W/2 K20 W4 N16 W4 K40 N20 K8 N20 K40 W4 K104 W2 N16 W4 K20 W/4` | [corpus cites Logan, sett differs](/setts/s32/k10w2b8w2k52w2k20b10k4b10k20w2b8w2k10w2k10w2b8w2k20b10k4b10k20w2k52w2b8w2k10w2-b5c5c5c-k101010-wc0c0c0/) |
+| Duke of Sussex (Earl of Inverness) | 401 | `R/228 G20 W6 G32 Y6 G6 Y6 R/56` | *no counterpart found* |
 
 The Clergy tartan closes the table under its Gaelic name, *Breacan na'n Clerach* — the plaid
 "popularly believed to have been used by the Druids and Culdees", woven in nothing but black,
@@ -163,7 +156,8 @@ white and grey.
 ## The data
 
 The full extraction — page transcription, stitched setts, threadcounts, the named colour
-palette, and the match report — was done by the Tartan Dictionary.
+palette, and the match report — was done by the Tartan Dictionary.  What is really nice that nigh on 200 years later
+the information is perfectly useful.
 
 [^book]: James Logan, *The Scotish Gaël*, London 1831, 2 vols. The Table of Clan Tartans is
     vol. II, Appendix, pp. 401–408. Scans: [vol. I](https://archive.org/details/scotishgalorcel01logagoog),

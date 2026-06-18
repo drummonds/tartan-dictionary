@@ -1,0 +1,70 @@
+---
+title: "Allen (1996)"
+date: 2023-03-18
+---
+**Bands:** [GWGRGKBKBK](/stripes/gwgrgkbkbk/) · **Stripes:** [G W G R G K DB K DB K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">G W G R G K DB K DB K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=55
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/1996 — Allen (1996) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=55))
+- February 1996 — Allen (1996) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2519/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [55](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=55)
+- Scottish Tartans Authority (ITI): 2519
+- Scottish Tartans World Register: 2519
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Allon/Allan](/setts/s10/g8w1g1r1g4k4db8k1db1k1~x2/)
+
+
+## Thread count
+G/32 W4 G4 DR4 G16 K16 DB32 K4 DB4 K/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bannatyne](/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/) — ΔT 0.78
+1. [Glasgow Cathedral](/setts/s10/g18dp3db10db2db10dp20g20dp3lo2db2~x2/) — ΔT 0.83
+1. [Scottish Chamber Orchestra, The](/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/) — ΔT 0.85
+1. [Maresh](/setts/s9/db3r3db22g6k17db6g22ly3k3~x2/) — ΔT 0.86
+1. [Wilson's No.060](/setts/s11/k16db2t2db4g16r2k15db6t2k3t4~x2/) — ΔT 0.87
+1. [Dama Resort (Fashion)](/setts/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/) — ΔT 0.94
+1. [Logan Rogers Hunting](/setts/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/) — ΔT 0.96
+1. [MacCainsh](/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/) — ΔT 0.96
+1. [Maitland Chief](/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/) — ΔT 0.99
+1. [MacFrog (Personal)](/setts/s8/g3w3g20db3k20g3db20r3~x2/) — ΔT 0.99
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.4" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/setts/s10/g18dp3db10db2db10dp20g20dp3lo2db2~x2/"><circle cx="188.2" cy="177.6" r="4" fill="#3465a4"><title>Glasgow Cathedral</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.4" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/setts/s9/db3r3db22g6k17db6g22ly3k3~x2/"><circle cx="168.5" cy="202.2" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/setts/s11/k16db2t2db4g16r2k15db6t2k3t4~x2/"><circle cx="216.4" cy="192.7" r="4" fill="#3465a4"><title>Wilson's No.060</title></circle></a><a href="/setts/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/"><circle cx="233.1" cy="176.5" r="4" fill="#3465a4"><title>Dama Resort (Fashion)</title></circle></a><a href="/setts/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/"><circle cx="159.7" cy="160.3" r="4" fill="#3465a4"><title>Logan Rogers Hunting</title></circle></a><a href="/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/"><circle cx="241.8" cy="173.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/setts/s8/g3w3g20db3k20g3db20r3~x2/"><circle cx="143.4" cy="199.0" r="4" fill="#3465a4"><title>MacFrog (Personal)</title></circle></a><circle cx="191.7" cy="184.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/g8w1g1r1g4k4db8k1db1k1~x4/

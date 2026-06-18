@@ -1,0 +1,47 @@
+---
+title: "Shapiro (Personal)"
+date: 2023-03-18
+---
+**Bands:** [WWKWKWWWWWWWWWWWWWWKWWWWWWWWWWWWWWWWKWW](/stripes/wwkwkwwwwwwwwwwwwwwkwwwwwwwwwwwwwwwwkww/) · **Stripes:** [LP LB K LB K LB LB LB LB LB LB LB LB LB LB LB LB LB LB K LB LB LB LB LB LB LB LB LB LB LB LB LB LB LB LB K LB LB](/stripes/stripes39/) <span class="pat"><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LP LB K LB K LB LB LB LB LB LB LB LB LB LB LB LB LB LB K LB LB LB LB LB LB LB LB LB LB LB LB LB LB LB LB K LB LB</span></span>
+
+
+This was sourced from tartans-authority.  It is a [39 band tartan](/bands/bands39/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3200/
+
+## Thread count
+LP/32 N4 K4 Na4 K20 N8 Na12 N20 Na12 N20 Na8 N20 Na8 N20 Na2 Na2 N64 Na4 N20 K8 Na20 Na8 N20 Na20 N12 Na20 N12 Na20 N12 Na20 N8 Na20 N4 Na56 N6 Na20 K12 N8 Na/32
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LP | <code style="background-color:#D89CCC;"><span style="color:#D89CCC;filter:grayscale(1) invert(1) contrast(100);">#D89CCC</span></code> `#D89CCC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.23 |
+| N | <code style="background-color:#B4C4CC;"><span style="color:#B4C4CC;filter:grayscale(1) invert(1) contrast(100);">#B4C4CC</span></code> `#B4C4CC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| Na | <code style="background-color:#B4C4CC;"><span style="color:#B4C4CC;filter:grayscale(1) invert(1) contrast(100);">#B4C4CC</span></code> `#B4C4CC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Shapiro (Personal)](/setts/s39/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly1ly1lb32ly2lb10lp4ly10ly4lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16~x2/) — ΔT 2.35
+1. [Unidentified Scarlett #13](/setts/s81/o6lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24k4lr24lb3-h8b85b6c6dc99fd8d/) — ΔT 3.25
+1. [elCorte](/setts/s20/w6lt5lg4lt5lo2r5lg2r14lg10lo30lt1lg2r4lg2r1lo30r10lt14lg2lt5~x2/) — ΔT 3.43
+1. [Glen Burns (WCWM - 1)](/setts/s20/o10k1o7n4o7n1o7n1o7n4o6k1o6n4o7n1o2n1o7n7~x4/) — ΔT 3.45
+1. [Beaufort (Name)](/setts/s19/o3w1o2w2w21w3lg2o8w2o2w2o2w8lg2w2lg2w2lg8w3~x2/) — ΔT 3.52
+1. [Morddyn](/setts/s25/lt5lg13lt6w3lg5lt5lg24lt5w2r1w2g9lg18g9lg2lt4lg2w2r3w2lt12lg6g24lg6lg2~x2/) — ΔT 3.70
+1. [Banatherton Union](/setts/s10/lg10lr8ly1lb5w5lg28lr2ly1lb8w5~x2/) — ΔT 3.75
+1. [Morddyn (Fashion)](/setts/s25/lb5t13lb6w1lg5lb5t24lb5w2r1w2g9lg18g9t2lb4t2w2r3w2lb12lg6g24lg6t2~x2/) — ΔT 3.77
+1. [Nike Golf Light](/setts/s17/r5w20lr1w2lr1w2lr2w2lr5o2lr2o2lr2o3lr2o10w3~x2/) — ΔT 3.85
+1. [Delta Dental Association (Corporate)](/setts/s13/g4o1lo29o6w13o13w6o13w13o6lo29o1t4~x2/) — ΔT 3.87
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s39/k16lb2lp2ly2lp10lb4ly6lb10ly6lb10ly4lb10ly4lb10ly1ly1lb32ly2lb10lp4ly10ly4lb10ly10lb6ly10lb6ly10lb6ly10lb4ly10lb2ly28lb3ly10lp6lb4ly16~x2/"><circle cx="302.9" cy="107.5" r="4" fill="#3465a4"><title>Shapiro (Personal)</title></circle></a><a href="/setts/s81/o6lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24k4lr24lb3-h8b85b6c6dc99fd8d/"><circle cx="309.2" cy="46.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #13</title></circle></a><a href="/setts/s20/w6lt5lg4lt5lo2r5lg2r14lg10lo30lt1lg2r4lg2r1lo30r10lt14lg2lt5~x2/"><circle cx="288.2" cy="106.8" r="4" fill="#3465a4"><title>elCorte</title></circle></a><a href="/setts/s20/o10k1o7n4o7n1o7n1o7n4o6k1o6n4o7n1o2n1o7n7~x4/"><circle cx="278.8" cy="229.8" r="4" fill="#3465a4"><title>Glen Burns (WCWM - 1)</title></circle></a><a href="/setts/s19/o3w1o2w2w21w3lg2o8w2o2w2o2w8lg2w2lg2w2lg8w3~x2/"><circle cx="233.6" cy="116.0" r="4" fill="#3465a4"><title>Beaufort (Name)</title></circle></a><a href="/setts/s25/lt5lg13lt6w3lg5lt5lg24lt5w2r1w2g9lg18g9lg2lt4lg2w2r3w2lt12lg6g24lg6lg2~x2/"><circle cx="177.4" cy="117.5" r="4" fill="#3465a4"><title>Morddyn</title></circle></a><a href="/setts/s10/lg10lr8ly1lb5w5lg28lr2ly1lb8w5~x2/"><circle cx="375.6" cy="170.6" r="4" fill="#3465a4"><title>Banatherton Union</title></circle></a><a href="/setts/s25/lb5t13lb6w1lg5lb5t24lb5w2r1w2g9lg18g9t2lb4t2w2r3w2lb12lg6g24lg6t2~x2/"><circle cx="170.9" cy="111.5" r="4" fill="#3465a4"><title>Morddyn (Fashion)</title></circle></a><a href="/setts/s17/r5w20lr1w2lr1w2lr2w2lr5o2lr2o2lr2o3lr2o10w3~x2/"><circle cx="277.5" cy="113.0" r="4" fill="#3465a4"><title>Nike Golf Light</title></circle></a><a href="/setts/s13/g4o1lo29o6w13o13w6o13w13o6lo29o1t4~x2/"><circle cx="252.7" cy="128.1" r="4" fill="#3465a4"><title>Delta Dental Association (Corporate)</title></circle></a><circle cx="321.4" cy="126.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s39/lb16lb4k6lb10lb3lb28lb2lb10lb4lb10lb6lb10lb6lb10lb6lb10lb10lb4lb10k4lb10lb2lb32lb1lb1lb10lb4lb10lb4lb10lb6lb10lb6lb4k10lb2k2lb2lp16~x2/

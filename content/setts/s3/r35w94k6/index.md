@@ -1,0 +1,71 @@
+---
+title: "St Georges Check"
+date: 2023-03-18
+---
+**Bands:** [KWR](/stripes/kwr/) · **Stripes:** [K W R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 07/10/2010 — St Georges Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303))
+- 7th Oct. 2010 — St. George's Check (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10303/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10303](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303)
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Dacre Estate Check](/setts/s3/k1w1r1~x14/)
+- [International Karate Fed. (Corporat)](/setts/s3/r8w1k1~x20/)
+
+
+## Thread count
+K/6 W94 R/35
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/6 W94 R/35 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Triplett, Jack Arnold](/setts/s4/w35n12r2n2~x2/) — ΔT 1.96
+1. [Triplett, Jack Arnold](/setts/s4/w14b5r1t1~x8/) — ΔT 2.24
+1. [Young in Australia](/setts/s4/w81dg6lo8dg8~x2/) — ΔT 2.24
+1. [Clayton Dress (Dance)](/setts/s6/w8r14w8r14w35k4~x2/) — ΔT 2.26
+1. [Tarbh Deargh (Red Bull)](/setts/s4/w80db30lo5ly4~x2/) — ΔT 2.31
+1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1/) — ΔT 2.36
+1. [Lewis, Magenta (Dance)](/setts/s4/lg4w35m31w4~x2/) — ΔT 2.41
+1. [Butties](/setts/s6/w93o6w13db35w12o6/) — ΔT 2.44
+1. [Hose](/setts/s3/w37k2r36~x2/) — ΔT 2.49
+1. [Clayton Dress (Dance)](/setts/s8/r14w35k4w35r14w8r14w8~x2/) — ΔT 2.49
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/w35n12r2n2~x2/"><circle cx="394.1" cy="163.4" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/setts/s4/w14b5r1t1~x8/"><circle cx="367.9" cy="175.0" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/setts/s4/w81dg6lo8dg8~x2/"><circle cx="498.1" cy="184.3" r="4" fill="#3465a4"><title>Young in Australia</title></circle></a><a href="/setts/s6/w8r14w8r14w35k4~x2/"><circle cx="303.9" cy="198.6" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s4/w80db30lo5ly4~x2/"><circle cx="381.0" cy="159.5" r="4" fill="#3465a4"><title>Tarbh Deargh (Red Bull)</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1/"><circle cx="322.4" cy="205.9" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s4/lg4w35m31w4~x2/"><circle cx="307.4" cy="218.0" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><a href="/setts/s6/w93o6w13db35w12o6/"><circle cx="408.0" cy="156.5" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s3/w37k2r36~x2/"><circle cx="317.2" cy="214.0" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s8/r14w35k4w35r14w8r14w8~x2/"><circle cx="318.1" cy="192.4" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><circle cx="409.1" cy="200.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s3/r35w94k6/

@@ -1,0 +1,55 @@
+---
+title: "Dallas (Clan)"
+date: 2023-03-18
+---
+**Bands:** [BRBRWRBWGGW](/stripes/brbrwrbwggw/) · **Stripes:** [B O B O W O B W G G W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B O B O W O B W G G W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7513/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1980s — Dallas (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7513/))
+- undated — Dallas Family Tartan Tartan Number: 7513. Earliest known date: 1980 In February 2010 Dr Phil Smith provided information that a Dr. Dallas said he had first seen the Dallas tartan in the 1940s in the home of an old woman in the Carse of Gowrie (near Dundee). This pattern has been woven by Lochcarron. It is similar but not exactly the same as another version woven by D C Dalgliesh in the 1980s when he supplied a kilt length to US kiltmaker Kathy Lare of New Mexico. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7513))
+
+## Thread count
+B/158 N4 B20 N12 LN4 N12 B20 LN4 G20 Ga12 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#747CD8;"><span style="color:#747CD8;filter:grayscale(1) invert(1) contrast(100);">#747CD8</span></code> `#747CD8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| Ga | <code style="background-color:#007460;"><span style="color:#007460;filter:grayscale(1) invert(1) contrast(100);">#007460</span></code> `#007460` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.11 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dallas (Lochcarron) (Personal)](/setts/s11/b79o2b10o5w2o5b10w2dg8g6w2~x2/) — ΔT 1.41
+1. [Florence (Fashion)](/setts/s13/o32dp8o1dp1w1o1w1o1o1dp1o1o4dp1~x4/) — ΔT 1.86
+1. [Highland Dusk](/setts/s13/n43db2n2r1n1dt11n2db2n1n1n20w4n7~x2/) — ΔT 1.88
+1. [Federal Bureaux of Investigation](/setts/s6/t60db19w3db2r2db7~x2/) — ΔT 2.05
+1. [Unidentified #1](/setts/s14/b4db2b52db2b4ly2db2b4db3t2db3b4db3t4/) — ΔT 2.06
+1. [Highland Dusk (Fashion)](/setts/s13/n43db2n2db1n1r11n2db2n1n1n20w4n7~x2/) — ΔT 2.06
+1. [Heart of Strathearn](/setts/s9/g16b6r6b4w2b80lo3b10ly2/) — ΔT 2.10
+1. [Craven County Commemorative Tartan Tartan Number: 10679. Earliest known date: 21 August 2012 2012 marks the 300th year of Craven County, North Carolina, USA. The 300th Anniversary District 2 Committee, under the leadership of Chairperson, Kelly Beasley, voted for a Craven County Tartan to represent the large number of Craven County residents with Scottish heritage. The colours are drawn from the Craven County Coat of Arms, the waterways, rivers and streams, sky, colonial history, governors, royalty, the military, education, and the agricultural background of the county, as well as forestry, tobacco, indigo, and its many other crops. Brian Dodds designed the tartan, submitting four ideas of which the District 2 committee selected Pattern #2. The tartan has been approved by the Craven County 300th Anniversary Committee and the Craven County Board of Commissioners, with the Board signing a resolution on 16 April, 2012. Ila McIlwean White-Lewis volunteered to pay to register the tartan and to have sufficient tartan woven for a banner to be displayed in the Craven County Courthouse. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/n46lo1do5lo1dg5lo1dp5lo1n16r1lo4~x2/) — ΔT 2.12
+1. [Highland Sky (Fashion)](/setts/s13/n43dt2n2dt1n1dt11n2dt2n1lb1n20lb4n7~x2/) — ΔT 2.13
+1. [Norris Hunting](/setts/s6/k2w1o8r1t28r2~x2/) — ΔT 2.16
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b79o2b10o5w2o5b10w2dg8g6w2~x2/"><circle cx="567.6" cy="121.7" r="4" fill="#3465a4"><title>Dallas (Lochcarron) (Personal)</title></circle></a><a href="/setts/s13/o32dp8o1dp1w1o1w1o1o1dp1o1o4dp1~x4/"><circle cx="525.1" cy="79.5" r="4" fill="#3465a4"><title>Florence (Fashion)</title></circle></a><a href="/setts/s13/n43db2n2r1n1dt11n2db2n1n1n20w4n7~x2/"><circle cx="605.6" cy="122.1" r="4" fill="#3465a4"><title>Highland Dusk</title></circle></a><a href="/setts/s6/t60db19w3db2r2db7~x2/"><circle cx="500.4" cy="181.5" r="4" fill="#3465a4"><title>Federal Bureaux of Investigation</title></circle></a><a href="/setts/s14/b4db2b52db2b4ly2db2b4db3t2db3b4db3t4/"><circle cx="556.3" cy="131.3" r="4" fill="#3465a4"><title>Unidentified #1</title></circle></a><a href="/setts/s13/n43db2n2db1n1r11n2db2n1n1n20w4n7~x2/"><circle cx="584.6" cy="104.2" r="4" fill="#3465a4"><title>Highland Dusk (Fashion)</title></circle></a><a href="/setts/s9/g16b6r6b4w2b80lo3b10ly2/"><circle cx="549.5" cy="109.4" r="4" fill="#3465a4"><title>Heart of Strathearn</title></circle></a><a href="/setts/s11/n46lo1do5lo1dg5lo1dp5lo1n16r1lo4~x2/"><circle cx="511.9" cy="89.0" r="4" fill="#3465a4"><title>Craven County Commemorative Tartan Tartan Number: 10679. Earliest known date: 21 August 2012 2012 marks the 300th year of Craven County, North Carolina, USA. The 300th Anniversary District 2 Committee, under the leadership of Chairperson, Kelly Beasley, voted for a Craven County Tartan to represent the large number of Craven County residents with Scottish heritage. The colours are drawn from the Craven County Coat of Arms, the waterways, rivers and streams, sky, colonial history, governors, royalty, the military, education, and the agricultural background of the county, as well as forestry, tobacco, indigo, and its many other crops. Brian Dodds designed the tartan, submitting four ideas of which the District 2 committee selected Pattern #2. The tartan has been approved by the Craven County 300th Anniversary Committee and the Craven County Board of Commissioners, with the Board signing a resolution on 16 April, 2012. Ila McIlwean White-Lewis volunteered to pay to register the tartan and to have sufficient tartan woven for a banner to be displayed in the Craven County Courthouse. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/n43dt2n2dt1n1dt11n2dt2n1lb1n20lb4n7~x2/"><circle cx="581.3" cy="110.0" r="4" fill="#3465a4"><title>Highland Sky (Fashion)</title></circle></a><a href="/setts/s6/k2w1o8r1t28r2~x2/"><circle cx="454.4" cy="152.1" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><circle cx="548.1" cy="110.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/b79o2b10o6w2o6b10w2g10g6w2~x2/

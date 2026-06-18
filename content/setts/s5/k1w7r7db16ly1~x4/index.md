@@ -1,0 +1,58 @@
+---
+title: "Prehospital EMS Tartan (USA)"
+date: 2023-03-18
+---
+**Bands:** [KWRBY](/stripes/kwrby/) · **Stripes:** [K W R DB LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W R DB LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10182
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10182](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10182)
+
+## Thread count
+K/4 W28 O28 DB64 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#23238E;"><span style="color:#23238E;filter:grayscale(1) invert(1) contrast(100);">#23238E</span></code> `#23238E` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| O | <code style="background-color:#EE5C42;"><span style="color:#EE5C42;filter:grayscale(1) invert(1) contrast(100);">#EE5C42</span></code> `#EE5C42` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#EEC900;"><span style="color:#EEC900;filter:grayscale(1) invert(1) contrast(100);">#EEC900</span></code> `#EEC900` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/4 W28 O28 DB64 Y/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Prehospital EMS (Corporate)](/setts/s5/k1w7lo7b16ly1~x4/) — ΔT 0.79
+1. [Manx Dress](/setts/s6/g4w28dp8ly2db17g4~x2/) — ΔT 1.23
+1. [Sinclair Dress (Dance)](/setts/s7/db4r2db31k10g4w21g2~x2/) — ΔT 1.23
+1. [Afternoon Tea / Earl Grey](/setts/s6/r15t98db72ly25db8w15/) — ΔT 1.43
+1. [Sinclair dress](/setts/s7/db2r1db16k5g2w11g1~x4/) — ΔT 1.43
+1. [Clunie (Personal)](/setts/s6/w12db48k13o22k3ly6/) — ΔT 1.44
+1. [Pipers' Trail Dance, The](/setts/s6/k6w49db50dp6db8ly4/) — ΔT 1.45
+1. [Edgar-Feyen (Personal)](/setts/s6/w18k1db4g4dp10lo2~x4/) — ΔT 1.46
+1. [Lennox Purple Dress District Tartan Tartan Number: 8189. Earliest known date: pre 2003 Families with the surname 'Lennox' are usually considered related to Clans Stewart or MacFarlane. Some of this surname also choose to wear the distinctive and ancient 'Lennox' tartan. D W Stewart reproduced the sett from a 'lost' portrait of the Countess of Lennox dating from the 16th century./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dp8db2dp24db5w26k2w8~x2/) — ΔT 1.51
+1. [Manx, dress](/setts/s6/g4w28p8ly2db17g4~x2/) — ΔT 1.51
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k1w7lo7b16ly1~x4/"><circle cx="237.7" cy="163.3" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.7" cy="150.6" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="214.0" cy="143.2" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s6/r15t98db72ly25db8w15/"><circle cx="186.1" cy="168.3" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/setts/s7/db2r1db16k5g2w11g1~x4/"><circle cx="210.1" cy="139.3" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/setts/s6/w12db48k13o22k3ly6/"><circle cx="197.6" cy="160.5" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/setts/s6/k6w49db50dp6db8ly4/"><circle cx="159.4" cy="128.5" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/setts/s6/w18k1db4g4dp10lo2~x4/"><circle cx="184.9" cy="120.7" r="4" fill="#3465a4"><title>Edgar-Feyen (Personal)</title></circle></a><a href="/setts/s7/dp8db2dp24db5w26k2w8~x2/"><circle cx="238.0" cy="160.1" r="4" fill="#3465a4"><title>Lennox Purple Dress District Tartan Tartan Number: 8189. Earliest known date: pre 2003 Families with the surname 'Lennox' are usually considered related to Clans Stewart or MacFarlane. Some of this surname also choose to wear the distinctive and ancient 'Lennox' tartan. D W Stewart reproduced the sett from a 'lost' portrait of the Countess of Lennox dating from the 16th century./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.9" cy="151.7" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><circle cx="223.5" cy="155.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/k1w7r7db16ly1~x4/

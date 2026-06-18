@@ -4,7 +4,7 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Forbes of Druinnor](/clan/forbes/druinnor/)
-- [Forbes of Druminnor](/clan/forbes/druminnor/)
-- [Forbes of Druminnor Artifact](/clan/forbes/druminnor-artifact/)
+- [Forbes of Druinnor](/families/forbes-of-druinnor/)
+- [Forbes of Druminnor](/families/forbes-of-druminnor/)
+- [Forbes of Druminnor Artifact](/families/forbes-of-druminnor-artifact/)
 

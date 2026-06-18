@@ -1,0 +1,61 @@
+---
+title: "MacNaughton Htg"
+date: 2023-03-18
+---
+**Bands:** [GRGGGRGRG](/stripes/grgggrgrg/) · **Stripes:** [DG R DG DY DG R DG R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG DY DG R DG R DG</span></span>
+
+
+This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7852/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 2008 — MacNaughton Htg (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7852/))
+- undated — Macnaughton Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5804))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5804](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5804)
+- Scottish Tartans Authority (ITI): 7852
+
+## Thread count
+DG/2 DR2 G44 DR22 DG24 T42 G44 DR2 DG/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DR | <code style="background-color:#A40800;"><span style="color:#A40800;filter:grayscale(1) invert(1) contrast(100);">#A40800</span></code> `#A40800` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| G | <code style="background-color:#145024;"><span style="color:#145024;filter:grayscale(1) invert(1) contrast(100);">#145024</span></code> `#145024` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [John Telfar Dunbar Hunting](/setts/s7/dg5k2dg28k10dy26db4dg4~x2/) — ΔT 1.20
+1. [Historic Scotland Corporate Tartan Tartan Number: 2122. Earliest known date: 1988 Custodians at Historic Scotland properties throughout Scotland, including Edinburgh Castle, wear this distinctive tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dy2o1dy1o2dy21y9k1y7k2~x2/) — ΔT 1.44
+1. [Devarr (Fashion)](/setts/s8/dy31do3dy3do3dy3do22y26r4~x2/) — ΔT 1.67
+1. [Calais (Fashion)](/setts/s7/dg11n4dg6dy11n1k1dy4~x4/) — ΔT 1.69
+1. [Tricor](/setts/s12/y4lb1y4g6dy6o4y23o4dy6g6y4lb1~x4/) — ΔT 1.72
+1. [Granite City (Fashion)](/setts/s8/k3n3k3n21n21k3n3lr1~x2/) — ΔT 1.74
+1. [Mack of Stoneywood Hunting (Pers.)](/setts/s11/dg18dg4t1dg5dg6dg3k1dy6k1dg25t1~x2/) — ΔT 1.79
+1. [de Meuron (Family)](/setts/s12/y9g13dg26dy6dp5dy40dp5dy6dg26g13y9dg3~x2/) — ΔT 1.85
+1. [Alasdair Dhana](/setts/s12/dg3dt20dg16r2dg2r3dg3r5dg16dt20ly1k2~x2/) — ΔT 1.86
+1. [Wicklow, County (District)](/setts/s10/do1n2g6n1do3t1n12do1n1g1~x4/) — ΔT 1.86
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg5k2dg28k10dy26db4dg4~x2/"><circle cx="392.1" cy="268.8" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/setts/s9/dy2o1dy1o2dy21y9k1y7k2~x2/"><circle cx="457.6" cy="212.7" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan Tartan Number: 2122. Earliest known date: 1988 Custodians at Historic Scotland properties throughout Scotland, including Edinburgh Castle, wear this distinctive tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dy31do3dy3do3dy3do22y26r4~x2/"><circle cx="364.4" cy="265.6" r="4" fill="#3465a4"><title>Devarr (Fashion)</title></circle></a><a href="/setts/s7/dg11n4dg6dy11n1k1dy4~x4/"><circle cx="369.6" cy="292.2" r="4" fill="#3465a4"><title>Calais (Fashion)</title></circle></a><a href="/setts/s12/y4lb1y4g6dy6o4y23o4dy6g6y4lb1~x4/"><circle cx="385.3" cy="190.2" r="4" fill="#3465a4"><title>Tricor</title></circle></a><a href="/setts/s8/k3n3k3n21n21k3n3lr1~x2/"><circle cx="395.3" cy="224.6" r="4" fill="#3465a4"><title>Granite City (Fashion)</title></circle></a><a href="/setts/s11/dg18dg4t1dg5dg6dg3k1dy6k1dg25t1~x2/"><circle cx="449.7" cy="209.3" r="4" fill="#3465a4"><title>Mack of Stoneywood Hunting (Pers.)</title></circle></a><a href="/setts/s12/y9g13dg26dy6dp5dy40dp5dy6dg26g13y9dg3~x2/"><circle cx="276.2" cy="231.8" r="4" fill="#3465a4"><title>de Meuron (Family)</title></circle></a><a href="/setts/s12/dg3dt20dg16r2dg2r3dg3r5dg16dt20ly1k2~x2/"><circle cx="382.3" cy="219.0" r="4" fill="#3465a4"><title>Alasdair Dhana</title></circle></a><a href="/setts/s10/do1n2g6n1do3t1n12do1n1g1~x4/"><circle cx="455.9" cy="244.9" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><circle cx="401.9" cy="242.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/dg1r1dg22dy21dg12r11dg22r1dg1~x2/

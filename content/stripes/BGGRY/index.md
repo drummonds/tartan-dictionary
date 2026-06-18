@@ -1,0 +1,29 @@
+---
+title: Pattern BGGRY
+date: 2023-03-18
+aliases:
+- /patterns/bggry/
+---
+BGGRY
+
+It is a 5 band tartan.
+
+![Woven sample](/setts/s5/lo9r31g12dy2t9~x2/tartan.png)
+
+
+
+## Colour Sequence
+BGGRY
+
+
+## Tartans with this colour sequence
+
+
+
+### T DY G R LO <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">T DY G R LO</span></span>
+
+| Tartans |
+|---------------|
+| [Buncle (Name)](/setts/s5/lo9r31g12dy2t9~x2/)|
+|![Buncle (Name) example sett](/setts/s5/lo9r31g12dy2t9~x2/sett.png)|
+

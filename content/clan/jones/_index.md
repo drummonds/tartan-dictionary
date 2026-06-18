@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Jones of Wales](/clan/jones/wales/)
+- [Jones of Wales](/families/jones-of-wales/)
 

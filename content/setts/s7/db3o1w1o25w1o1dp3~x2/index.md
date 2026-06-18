@@ -1,0 +1,58 @@
+---
+title: "St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BRWRWRB](/stripes/brwrwrb/) · **Stripes:** [DB O W O W O DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB O W O W O DP</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=387
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [St. Giles Check (Corporate)](/setts/s7/db3o1w1o25w1o1dp3~x4/)
+
+
+## Thread count
+DB/6 N2 LN2 N50 LN2 N2 P/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/6 N2 LN2 N50 LN2 N2 P/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [St. Giles Check (Corporate)](/setts/s7/db3o1w1o25w1o1dp3~x4/) — ΔT 0.42
+1. [St Giles, Check](/setts/s7/db3y1w1y25w1y1p3~x2/) — ΔT 0.60
+1. [St. Giles Cathedral (Corporate)](/setts/s6/db2n2lb1n18lb2r2~x4/) — ΔT 1.40
+1. [European](/setts/s8/n70ly4n3ly4n7k2n2r7~x2/) — ΔT 1.40
+1. [Reece (Name)](/setts/s7/w2lo44db8lo2db2lo3r1~x2/) — ΔT 1.54
+1. [RAAF #3](/setts/s9/t48w2t7w2t7w2t20db11r2~x2/) — ΔT 1.66
+1. [St. Giles Check](/setts/s12/db3o1w1o25w1o1dp3o1w1o25w1o1~x4/) — ΔT 1.67
+1. [Norsemen, The](/setts/s6/n65k2n4k2n10r24~x2/) — ΔT 1.70
+1. [Wyckoff, Ann Grainger Phillips](/setts/s9/b70db5b3w5b3w5b3r5b8~x2/) — ΔT 1.71
+1. [Historic Caledonian Railway Enthusiasts', The](/setts/s11/n6k1lo6k1n28w1k2w1n16w1r5~x2/) — ΔT 1.75
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db3o1w1o25w1o1dp3~x4/"><circle cx="545.7" cy="137.9" r="4" fill="#3465a4"><title>St. Giles Check (Corporate)</title></circle></a><a href="/setts/s7/db3y1w1y25w1y1p3~x2/"><circle cx="575.0" cy="154.0" r="4" fill="#3465a4"><title>St Giles, Check</title></circle></a><a href="/setts/s6/db2n2lb1n18lb2r2~x4/"><circle cx="522.1" cy="185.5" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/setts/s8/n70ly4n3ly4n7k2n2r7~x2/"><circle cx="626.0" cy="133.2" r="4" fill="#3465a4"><title>European</title></circle></a><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="590.3" cy="119.0" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s9/t48w2t7w2t7w2t20db11r2~x2/"><circle cx="574.5" cy="166.5" r="4" fill="#3465a4"><title>RAAF #3</title></circle></a><a href="/setts/s12/db3o1w1o25w1o1dp3o1w1o25w1o1~x4/"><circle cx="612.4" cy="124.2" r="4" fill="#3465a4"><title>St. Giles Check</title></circle></a><a href="/setts/s6/n65k2n4k2n10r24~x2/"><circle cx="552.8" cy="177.3" r="4" fill="#3465a4"><title>Norsemen, The</title></circle></a><a href="/setts/s9/b70db5b3w5b3w5b3r5b8~x2/"><circle cx="560.4" cy="126.8" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips</title></circle></a><a href="/setts/s11/n6k1lo6k1n28w1k2w1n16w1r5~x2/"><circle cx="476.5" cy="117.6" r="4" fill="#3465a4"><title>Historic Caledonian Railway Enthusiasts', The</title></circle></a><circle cx="558.0" cy="144.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/db3o1w1o25w1o1dp3~x2/

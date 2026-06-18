@@ -1,0 +1,58 @@
+---
+title: "Highlander"
+date: 2023-03-18
+---
+**Bands:** [GBGBGGGBGBGR](/stripes/gbgbgggbgbgr/) · **Stripes:** [G B G B G G DG DP DG B DG O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G B G B G G DG DP DG B DG O</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1726
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1726](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1726)
+- Scottish Tartans Authority (ITI): 4211
+
+## Thread count
+G/66 B8 G8 B8 G10 G26 Ga26 P26 Ga4 B22 Ga2 N/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> `#1870A4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DN | <code style="background-color:#14283C;"><span style="color:#14283C;filter:grayscale(1) invert(1) contrast(100);">#14283C</span></code> `#14283C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| G | <code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> `#408060` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Ga | <code style="background-color:#005448;"><span style="color:#005448;filter:grayscale(1) invert(1) contrast(100);">#005448</span></code> `#005448` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| LTa | <code style="background-color:#A07C58;"><span style="color:#A07C58;filter:grayscale(1) invert(1) contrast(100);">#A07C58</span></code> `#A07C58` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Willsher Wedding (Personal)](/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/) — ΔT 1.34
+1. [Inchforth (Personal)](/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/) — ΔT 1.36
+1. [Yorkland (Personal)](/setts/s8/n36r2n4w1y14g4ly2g18~x2/) — ΔT 1.51
+1. [Hand (Personal)](/setts/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2/) — ΔT 1.70
+1. [Camenisch Enveglan Family (Personal)](/setts/s10/dg28dg6dt4dg6dg5dp4dg5dt11k1w2~x2/) — ΔT 1.73
+1. [Hebridean Thistle (Fashion)](/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/) — ΔT 1.79
+1. [Chisholm hunting](/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/) — ΔT 1.80
+1. [Titanium (Fashion)](/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/) — ΔT 1.87
+1. [Giants Causeway (District)](/setts/s13/n19o4b2n10o22k1g3k1o3w1b5o1k3~x2/) — ΔT 1.89
+1. [Hanna of Leith (yellow line)](/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/) — ΔT 1.89
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/"><circle cx="349.6" cy="189.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="409.2" cy="160.6" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/setts/s8/n36r2n4w1y14g4ly2g18~x2/"><circle cx="364.5" cy="154.4" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/setts/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2/"><circle cx="304.1" cy="143.9" r="4" fill="#3465a4"><title>Hand (Personal)</title></circle></a><a href="/setts/s10/dg28dg6dt4dg6dg5dp4dg5dt11k1w2~x2/"><circle cx="347.0" cy="165.4" r="4" fill="#3465a4"><title>Camenisch Enveglan Family (Personal)</title></circle></a><a href="/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/"><circle cx="407.0" cy="154.3" r="4" fill="#3465a4"><title>Hebridean Thistle (Fashion)</title></circle></a><a href="/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="383.0" cy="151.9" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.8" cy="181.4" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><a href="/setts/s13/n19o4b2n10o22k1g3k1o3w1b5o1k3~x2/"><circle cx="282.0" cy="131.0" r="4" fill="#3465a4"><title>Giants Causeway (District)</title></circle></a><a href="/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/"><circle cx="397.1" cy="215.7" r="4" fill="#3465a4"><title>Hanna of Leith (yellow line)</title></circle></a><circle cx="370.3" cy="166.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/g33b4g4b4g5g13dg13dp13dg2b11dg1o2~x2/

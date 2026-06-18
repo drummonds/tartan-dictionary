@@ -1,0 +1,47 @@
+---
+title: "Waverly Check Corporate Tartan Tartan Number: 1747. Earliest known date: 1984 Edinburgh Woollen Mills house tartan for staff uniforms. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BYBYBYBYGBGY](/stripes/bybybybygbgy/) · **Stripes:** [DO LO DR LO DR LO DR LO DY DR DY LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DO LO DR LO DR LO DR LO DY DR DY LO</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1747
+
+## Thread count
+DR/88 LT10 DRa16 LT4 DRa4 LT4 DRa4 LT28 T18 DRa4 T8 LT/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> `#441800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DRa | <code style="background-color:#480800;"><span style="color:#480800;filter:grayscale(1) invert(1) contrast(100);">#480800</span></code> `#480800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.24 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ladybird (Personal)](/setts/s15/r26dr1r1dt2r1dr1r5dt5g2dt5g2dt5g24r1dr2~x2/) — ΔT 1.06
+1. [Harbor Club (Corporate)](/setts/s10/r47g14k5ly2k3g7k3ly2k5g14~x2/) — ΔT 1.24
+1. [Waverly, Check](/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/) — ΔT 1.26
+1. [Queen of Scots](/setts/s9/r34dp4r1dp4g2k3g1k3g22~x2/) — ΔT 1.30
+1. [Beanpole Brown Trial](/setts/s12/o4do31o2r2o2r2o2do2do2do4do11o4/) — ΔT 1.37
+1. [MacDougall #5](/setts/s12/r7r2db2r2dg32r6db12r41dg2r5r2dg5~x2/) — ΔT 1.38
+1. [Stewart of Appin](/setts/s16/r3db2b1r2dg24r4dg2r2db8r2dg2r24db2b1r2dg2~x2/) — ΔT 1.38
+1. [Stewart of Appin](/setts/s16/r3db2b1r2dg24r4dg2r2db8r2dg2r24db2b1r2dg2/) — ΔT 1.38
+1. [MacDonald of Glencoe](/setts/s13/dg3r1r2dg2r16lb1db4r3dg13r1db1r1r3~x2/) — ΔT 1.43
+1. [Drumbeg](/setts/s12/o12n3o3dt4o16r3o3r3o3r16dt52o4/) — ΔT 1.43
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r26dr1r1dt2r1dr1r5dt5g2dt5g2dt5g24r1dr2~x2/"><circle cx="329.5" cy="129.0" r="4" fill="#3465a4"><title>Ladybird (Personal)</title></circle></a><a href="/setts/s10/r47g14k5ly2k3g7k3ly2k5g14~x2/"><circle cx="324.8" cy="138.9" r="4" fill="#3465a4"><title>Harbor Club (Corporate)</title></circle></a><a href="/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/"><circle cx="369.3" cy="152.1" r="4" fill="#3465a4"><title>Waverly, Check</title></circle></a><a href="/setts/s9/r34dp4r1dp4g2k3g1k3g22~x2/"><circle cx="366.5" cy="133.3" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><a href="/setts/s12/o4do31o2r2o2r2o2do2do2do4do11o4/"><circle cx="396.0" cy="163.7" r="4" fill="#3465a4"><title>Beanpole Brown Trial</title></circle></a><a href="/setts/s12/r7r2db2r2dg32r6db12r41dg2r5r2dg5~x2/"><circle cx="386.3" cy="152.8" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/setts/s16/r3db2b1r2dg24r4dg2r2db8r2dg2r24db2b1r2dg2~x2/"><circle cx="334.6" cy="110.7" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/setts/s16/r3db2b1r2dg24r4dg2r2db8r2dg2r24db2b1r2dg2/"><circle cx="334.6" cy="110.7" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/setts/s13/dg3r1r2dg2r16lb1db4r3dg13r1db1r1r3~x2/"><circle cx="321.0" cy="138.3" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/setts/s12/o12n3o3dt4o16r3o3r3o3r16dt52o4/"><circle cx="309.0" cy="136.0" r="4" fill="#3465a4"><title>Drumbeg</title></circle></a><circle cx="332.9" cy="135.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/do44lo5dr8lo2dr2lo2dr2lo14dy9dr2dy4lo2~x2/

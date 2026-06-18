@@ -1,0 +1,49 @@
+---
+title: "Japan-Scotland Society (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [BRGRBBBBW](/stripes/brgrbbbbw/) · **Stripes:** [DP R G R DP T DB T W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP R G R DP T DB T W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10347/
+
+## Thread count
+P/24 R2 G8 R4 P20 B40 DB6 B18 W/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kirk in the Hills](/setts/s10/b16db6k1ly1k1db6b4m4k1r1~x4/) — ΔT 0.92
+1. [Pride of the Nation (Fashion)](/setts/s8/t12db6t50db39p12dp6p6w4/) — ΔT 1.03
+1. [Blue Ridge Highlands Heritage](/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/) — ΔT 1.07
+1. [Heirloom Blue Alba (Fashion)](/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/) — ΔT 1.15
+1. [Timmins (2013)](/setts/s10/g4db2t14db12t32ly1db12dp14db2r4~x2/) — ΔT 1.33
+1. [Matchpoint Dress](/setts/s15/db6ly2o24db4o8db6o6db6o3db10n14db4r3db34lb4/) — ΔT 1.37
+1. [Peterson, Oren (Name)](/setts/s6/lp1g2o10r1db15w1~x4/) — ΔT 1.38
+1. [Cian Clan Irish Family Tartan Tartan Number: 43. Earliest known date: 2003 STS previously labelled 'unidentified'. Actual count reduced 50% prop. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/lb38db2t2lb19db8r18m8lb18t18db2dy4/) — ΔT 1.39
+1. [MacCormick Festive](/setts/s9/ly3db24r3db8k1t16k1db3w3~x2/) — ΔT 1.40
+1. [GYL family (Personal)](/setts/s10/db28r3w3r3w3r3db28k12b38w8/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b16db6k1ly1k1db6b4m4k1r1~x4/"><circle cx="241.4" cy="121.1" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/setts/s8/t12db6t50db39p12dp6p6w4/"><circle cx="217.4" cy="153.0" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/"><circle cx="263.7" cy="146.0" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/"><circle cx="238.0" cy="130.3" r="4" fill="#3465a4"><title>Heirloom Blue Alba (Fashion)</title></circle></a><a href="/setts/s10/g4db2t14db12t32ly1db12dp14db2r4~x2/"><circle cx="249.8" cy="113.4" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/setts/s15/db6ly2o24db4o8db6o6db6o3db10n14db4r3db34lb4/"><circle cx="276.8" cy="127.5" r="4" fill="#3465a4"><title>Matchpoint Dress</title></circle></a><a href="/setts/s6/lp1g2o10r1db15w1~x4/"><circle cx="270.1" cy="149.8" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/setts/s11/lb38db2t2lb19db8r18m8lb18t18db2dy4/"><circle cx="259.7" cy="125.5" r="4" fill="#3465a4"><title>Cian Clan Irish Family Tartan Tartan Number: 43. Earliest known date: 2003 STS previously labelled 'unidentified'. Actual count reduced 50% prop. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly3db24r3db8k1t16k1db3w3~x2/"><circle cx="297.8" cy="114.6" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db28k12b38w8/"><circle cx="183.7" cy="138.3" r="4" fill="#3465a4"><title>GYL family (Personal)</title></circle></a><circle cx="251.2" cy="139.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/

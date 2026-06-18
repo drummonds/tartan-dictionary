@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Fuller of Hopewell](/clan/fuller/hopewell/)
+- [Fuller of Hopewell](/families/fuller-of-hopewell/)
 

@@ -1,0 +1,64 @@
+---
+title: "Tara (District)"
+date: 2023-03-18
+---
+**Bands:** [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/) · **Stripes:** [K DG R DG DY K LB K LO K R K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG R DG DY K LB K LO K R K</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1103/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1967 — Tara (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1103/))
+- 01/01/1978 — Murphy/Tara (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4071))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4071](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4071)
+- Scottish Tartans Authority (ITI): 1103
+- Scottish Tartans World Register: 1103
+
+## Thread count
+K/6 G8 R4 G48 T32 K4 N4 K4 DY4 K12 R4 K/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| T | <code style="background-color:#603800;"><span style="color:#603800;filter:grayscale(1) invert(1) contrast(100);">#603800</span></code> `#603800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.16 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Harmony 2](/setts/s12/dy9t3dy4ly3dy3ly4dy3dy11dg30b3dg4dy3~x2/) — ΔT 0.89
+1. [Ogg of Tarragann Hunting (Personal)](/setts/s12/lo2g2lo1g10k6r1dy14r1dy14r1t6r2~x2/) — ΔT 1.14
+1. [Rourke-Frew Hunting](/setts/s11/db6k3r2k3dg31k6y2k6lo13k2y2~x2/) — ΔT 1.19
+1. [Allen - 2001 (Personal)](/setts/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12ly2r2ly2~x2/) — ΔT 1.20
+1. [Cavan, County](/setts/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/) — ΔT 1.22
+1. [State Seal of Florida (Fashion)](/setts/s10/lo3do4db3do3g36db11lb3r14lo21r3~x2/) — ΔT 1.25
+1. [Choinka Family (Personal)](/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/) — ΔT 1.26
+1. [Murphy (District)](/setts/s12/k4r1k3ly1k1w1k1y8g12r1g2k1~x4/) — ΔT 1.26
+1. [State Seal of Illinois (Fashion)](/setts/s13/g4db34g4dy4db4dy4g3dy13g21dy4lb3r11lo3~x2/) — ΔT 1.28
+1. [Cypress Presbyterian Church](/setts/s14/dg6r4dg4r3dg4ly2db14k4dg4k28dg18k2dg2k2~x2/) — ΔT 1.30
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dy9t3dy4ly3dy3ly4dy3dy11dg30b3dg4dy3~x2/"><circle cx="205.5" cy="151.2" r="4" fill="#3465a4"><title>Harmony 2</title></circle></a><a href="/setts/s12/lo2g2lo1g10k6r1dy14r1dy14r1t6r2~x2/"><circle cx="243.8" cy="150.2" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting (Personal)</title></circle></a><a href="/setts/s11/db6k3r2k3dg31k6y2k6lo13k2y2~x2/"><circle cx="197.5" cy="119.9" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/setts/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12ly2r2ly2~x2/"><circle cx="141.0" cy="163.2" r="4" fill="#3465a4"><title>Allen - 2001 (Personal)</title></circle></a><a href="/setts/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="206.7" cy="176.3" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/setts/s10/lo3do4db3do3g36db11lb3r14lo21r3~x2/"><circle cx="164.8" cy="142.2" r="4" fill="#3465a4"><title>State Seal of Florida (Fashion)</title></circle></a><a href="/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/"><circle cx="212.1" cy="177.4" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/setts/s12/k4r1k3ly1k1w1k1y8g12r1g2k1~x4/"><circle cx="175.7" cy="124.8" r="4" fill="#3465a4"><title>Murphy (District)</title></circle></a><a href="/setts/s13/g4db34g4dy4db4dy4g3dy13g21dy4lb3r11lo3~x2/"><circle cx="177.0" cy="147.3" r="4" fill="#3465a4"><title>State Seal of Illinois (Fashion)</title></circle></a><a href="/setts/s14/dg6r4dg4r3dg4ly2db14k4dg4k28dg18k2dg2k2~x2/"><circle cx="230.7" cy="150.6" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><circle cx="206.3" cy="145.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/k8r2k6lo2k2lb2k2dy16dg24r2dg4k3~x2/

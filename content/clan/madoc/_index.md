@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Madoc of Wales](/clan/madoc/wales/)
+- [Madoc of Wales](/families/madoc-of-wales/)
 

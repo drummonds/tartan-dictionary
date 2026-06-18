@@ -1,0 +1,62 @@
+---
+title: "Tokyo Bluebells (Dance)"
+date: 2023-03-18
+---
+**Bands:** [BRBRBKBWBKBRBR](/stripes/brbrbkbwbkbrbr/) · **Stripes:** [B R B R B K B W B K B R B R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">B R B R B K B W B K B R B R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4134
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Tokyo Bluebells (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4134))
+- undated — Tokyo Bluebells Corporate Tartan Tartan Number: 2538. Earliest known date: pre 1995 Used by a Scottish Country Dance club from Tokyo, Japan. Designed by Donald & Fiona Fraser now (Oct 2002) of Berwick-upon-Tweed. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2538))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4134](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4134)
+- Scottish Tartans Authority (ITI): 2538
+- Scottish Tartans World Register: 2538
+
+## Thread count
+B/72 R4 B4 R4 B4 K28 B52 LN8 B52 K28 B4 R4 B4 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tokyo Bluebells (Corporate)](/setts/s8/b18r1b1r1b1k7b13w2~x4/) — ΔT 1.30
+1. [Majewski-White (Personal)](/setts/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/) — ΔT 1.39
+1. [Caledonian Railway (Commemorative)](/setts/s11/b6k1lo6k1b28lb1k2lb1b16lb1r5~x2/) — ΔT 1.53
+1. [Wheadon](/setts/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/) — ΔT 1.54
+1. [Wanless (Personal)](/setts/s19/db25ly5db12ly3r1w1db12ly3w1db12ly3w1db12ly5r1w1db12ly4w2~x2/) — ΔT 1.58
+1. [SPA Association](/setts/s18/db5ly1db1ly1k4db15w1db2ly1db2w1db15k4ly1db1ly1db5w1~x4/) — ΔT 1.61
+1. [Goil Dress](/setts/s11/t42db10lo2db2lb2db2t10lb6db2lb3t2~x2/) — ΔT 1.61
+1. [Washington, Stockman](/setts/s20/db4y3db4y19k2y3k2y12db4y3db4y3k1y2ly1y2ly1y2k1y3~x4/) — ΔT 1.61
+1. [Carstairs](/setts/s14/g5lo2w2db8k2db5k2db28k2db10w4g3w2lo4~x2/) — ΔT 1.62
+1. [Washington Stockmens (Corporate)](/setts/s20/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/) — ΔT 1.64
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b18r1b1r1b1k7b13w2~x4/"><circle cx="461.6" cy="171.1" r="4" fill="#3465a4"><title>Tokyo Bluebells (Corporate)</title></circle></a><a href="/setts/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/"><circle cx="403.7" cy="142.2" r="4" fill="#3465a4"><title>Majewski-White (Personal)</title></circle></a><a href="/setts/s11/b6k1lo6k1b28lb1k2lb1b16lb1r5~x2/"><circle cx="461.2" cy="117.7" r="4" fill="#3465a4"><title>Caledonian Railway (Commemorative)</title></circle></a><a href="/setts/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/"><circle cx="374.7" cy="186.1" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/setts/s19/db25ly5db12ly3r1w1db12ly3w1db12ly3w1db12ly5r1w1db12ly4w2~x2/"><circle cx="416.9" cy="111.3" r="4" fill="#3465a4"><title>Wanless (Personal)</title></circle></a><a href="/setts/s18/db5ly1db1ly1k4db15w1db2ly1db2w1db15k4ly1db1ly1db5w1~x4/"><circle cx="433.3" cy="132.6" r="4" fill="#3465a4"><title>SPA Association</title></circle></a><a href="/setts/s11/t42db10lo2db2lb2db2t10lb6db2lb3t2~x2/"><circle cx="410.9" cy="124.1" r="4" fill="#3465a4"><title>Goil Dress</title></circle></a><a href="/setts/s20/db4y3db4y19k2y3k2y12db4y3db4y3k1y2ly1y2ly1y2k1y3~x4/"><circle cx="401.0" cy="124.1" r="4" fill="#3465a4"><title>Washington, Stockman</title></circle></a><a href="/setts/s14/g5lo2w2db8k2db5k2db28k2db10w4g3w2lo4~x2/"><circle cx="330.3" cy="125.8" r="4" fill="#3465a4"><title>Carstairs</title></circle></a><a href="/setts/s20/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/"><circle cx="407.9" cy="125.8" r="4" fill="#3465a4"><title>Washington Stockmens (Corporate)</title></circle></a><circle cx="418.1" cy="143.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/b18r1b1r1b1k7b13w2b13k7b1r1b1r1~x4/

@@ -1,0 +1,62 @@
+---
+title: "Doyel (Name)"
+date: 2023-03-18
+---
+**Bands:** [BKBKBRKRKRBKGKG](/stripes/bkbkbrkrkrbkgkg/) · **Stripes:** [DT K DT K DT O K R K O DT K DG K DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DT K DT K DT O K R K O DT K DG K DG</span></span>
+
+
+This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7684/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Doyel (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7684/))
+- undated — Doyel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5686))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5686](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5686)
+- Scottish Tartans Authority (ITI): 7684
+
+## Thread count
+DB/38 K6 DB6 K6 DB12 N2 K4 R4 K4 N2 DB12 K6 DG6 K6 DG/76
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Nova Scotia](/setts/s18/dg10dg2db2dy14dg2dg2dg2dg2dg2db25dy8dg4dg4db3dg1db3dg1db4~x2/) — ΔT 1.54
+1. [Tiger of Sweden](/setts/s14/db3dg1dt1db2n16db2dt4dg1dt1db16n2db2dt1dg3~x2/) — ΔT 1.78
+1. [Letham Hunting](/setts/s15/dp2k1dg6k4k1k5k2dg30k2db4k1k4dg6k1dp2~x2/) — ΔT 1.82
+1. [Scottish Borderland (Fashion)](/setts/s9/lb2dg2n1dg30n10n20dg1n2lo1~x2/) — ΔT 1.83
+1. [Grenauld](/setts/s10/dg36k52lo2k8dg8dy8lo2dy6dg36r1~x2/) — ΔT 1.87
+1. [Belk Heritage Hunting (Fashion)](/setts/s16/k16lo1k4o2k4dy1dg41lo2db1dy36k1dg3k1dy3k1dg4~x2/) — ΔT 1.87
+1. [Alasdair Dhana](/setts/s12/dg3dt20dg16r2dg2r3dg3r5dg16dt20ly1k2~x2/) — ΔT 1.92
+1. [Scottish Thistle](/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/) — ΔT 1.94
+1. [Grand Lodge of Scotland Corporate Weavers Tartan Tartan Number: 5776. Earliest known date: 2002 This is not a general Masonic tartan but one designed for the Grand Lodge of Scotland which is custodian to the oldest Lodge Minutes in the world dating from 1599. Masons in other parts of the world wishing to obtain this tartan must, in the first instance, contact the Curator of the Grand Lodge of Scotland Museum, Robert L D Cooper See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21ly1~x2/) — ΔT 2.05
+1. [Scottish Borderland](/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/) — ΔT 2.06
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/dg10dg2db2dy14dg2dg2dg2dg2dg2db25dy8dg4dg4db3dg1db3dg1db4~x2/"><circle cx="350.4" cy="179.4" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/setts/s14/db3dg1dt1db2n16db2dt4dg1dt1db16n2db2dt1dg3~x2/"><circle cx="388.0" cy="203.9" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/setts/s15/dp2k1dg6k4k1k5k2dg30k2db4k1k4dg6k1dp2~x2/"><circle cx="461.3" cy="156.5" r="4" fill="#3465a4"><title>Letham Hunting</title></circle></a><a href="/setts/s9/lb2dg2n1dg30n10n20dg1n2lo1~x2/"><circle cx="415.0" cy="184.6" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/setts/s10/dg36k52lo2k8dg8dy8lo2dy6dg36r1~x2/"><circle cx="432.3" cy="170.3" r="4" fill="#3465a4"><title>Grenauld</title></circle></a><a href="/setts/s16/k16lo1k4o2k4dy1dg41lo2db1dy36k1dg3k1dy3k1dg4~x2/"><circle cx="346.4" cy="100.8" r="4" fill="#3465a4"><title>Belk Heritage Hunting (Fashion)</title></circle></a><a href="/setts/s12/dg3dt20dg16r2dg2r3dg3r5dg16dt20ly1k2~x2/"><circle cx="382.3" cy="219.0" r="4" fill="#3465a4"><title>Alasdair Dhana</title></circle></a><a href="/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/"><circle cx="458.2" cy="186.0" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/setts/s16/dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21ly1~x2/"><circle cx="462.9" cy="192.4" r="4" fill="#3465a4"><title>Grand Lodge of Scotland Corporate Weavers Tartan Tartan Number: 5776. Earliest known date: 2002 This is not a general Masonic tartan but one designed for the Grand Lodge of Scotland which is custodian to the oldest Lodge Minutes in the world dating from 1599. Masons in other parts of the world wishing to obtain this tartan must, in the first instance, contact the Curator of the Grand Lodge of Scotland Museum, Robert L D Cooper See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/"><circle cx="437.1" cy="181.9" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><circle cx="401.5" cy="148.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/dg38k3dg3k3dt6o1k2r2k2o1dt6k3dt3k3dt19~x2/

@@ -1,0 +1,53 @@
+---
+title: "Unidentified Plaid"
+date: 2023-03-18
+---
+**Bands:** [BGBGBGBGBGBGBG](/stripes/bgbgbgbgbgbgbg/) · **Stripes:** [DR DG DR DG DR DG DR DG DR Y DR Y DR Y](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DR DG DR DG DR DG DR DG DR Y DR Y DR Y</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4342
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4342](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4342)
+- Scottish Tartans World Register: 119
+
+## Thread count
+DR/96 T26 DR4 T14 DR4 T14 DR4 T22 DR100 N22 DR4 N14 DR4 N/14
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#5A1C38;"><span style="color:#5A1C38;filter:grayscale(1) invert(1) contrast(100);">#5A1C38</span></code> `#5A1C38` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| N | <code style="background-color:#506464;"><span style="color:#506464;filter:grayscale(1) invert(1) contrast(100);">#506464</span></code> `#506464` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| T | <code style="background-color:#324114;"><span style="color:#324114;filter:grayscale(1) invert(1) contrast(100);">#324114</span></code> `#324114` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.11 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified Plaid 2](/setts/s14/dp48dg13dp2dg7dp2dg7dp2dg11dp50n11dp2n7dp2n7~x2/) — ΔT 1.29
+1. [Wanstall](/setts/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/) — ΔT 1.82
+1. [Ulster (Peat) (District](/setts/s10/y28k2y28k2y2k2dy29k2r2k2~x2/) — ΔT 2.17
+1. [MacAlister of Glenbarr Hunting](/setts/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/) — ΔT 2.22
+1. [Lochcarron Mill (Corporate)](/setts/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/) — ΔT 2.27
+1. [Gray (Personal)](/setts/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/) — ΔT 2.28
+1. [Bute Heather, Weathered](/setts/s11/dy6w1do18k6do4k4do8k1do8k2dy5~x2/) — ΔT 2.28
+1. [Donachie of Brockloch](/setts/s10/o24dg2o2dg20o25dg2o2dg2o2dg20~x2/) — ΔT 2.31
+1. [Williams (Fashion)](/setts/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/) — ΔT 2.35
+1. [Glen Clova #2 (Fashion)](/setts/s12/dr39dy4dr6lo2dr2w2dr2dy12dr6dr2dr6lo2~x2/) — ΔT 2.36
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dp48dg13dp2dg7dp2dg7dp2dg11dp50n11dp2n7dp2n7~x2/"><circle cx="583.5" cy="223.1" r="4" fill="#3465a4"><title>Unidentified Plaid 2</title></circle></a><a href="/setts/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/"><circle cx="486.4" cy="206.8" r="4" fill="#3465a4"><title>Wanstall</title></circle></a><a href="/setts/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="481.2" cy="219.8" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/setts/s14/g20dy3g6dy6g6dy8db2dy2g20dy2db2dy46db3dy8~x2/"><circle cx="499.0" cy="208.1" r="4" fill="#3465a4"><title>MacAlister of Glenbarr Hunting</title></circle></a><a href="/setts/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/"><circle cx="434.3" cy="191.6" r="4" fill="#3465a4"><title>Lochcarron Mill (Corporate)</title></circle></a><a href="/setts/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/"><circle cx="430.8" cy="216.6" r="4" fill="#3465a4"><title>Gray (Personal)</title></circle></a><a href="/setts/s11/dy6w1do18k6do4k4do8k1do8k2dy5~x2/"><circle cx="447.5" cy="243.3" r="4" fill="#3465a4"><title>Bute Heather, Weathered</title></circle></a><a href="/setts/s10/o24dg2o2dg20o25dg2o2dg2o2dg20~x2/"><circle cx="497.7" cy="267.1" r="4" fill="#3465a4"><title>Donachie of Brockloch</title></circle></a><a href="/setts/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/"><circle cx="528.0" cy="193.2" r="4" fill="#3465a4"><title>Williams (Fashion)</title></circle></a><a href="/setts/s12/dr39dy4dr6lo2dr2w2dr2dy12dr6dr2dr6lo2~x2/"><circle cx="463.6" cy="166.7" r="4" fill="#3465a4"><title>Glen Clova #2 (Fashion)</title></circle></a><circle cx="554.4" cy="207.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50y11dr2y7dr2y7~x2/

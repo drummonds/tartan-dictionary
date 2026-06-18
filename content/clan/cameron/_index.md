@@ -6,15 +6,12 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/b7r3b9r2k10g9r3g2r2g7~b304080-g008000-k000000-rc00000~x2/"><img src="/setts/s10/b7r3b9r2k10g9r3g2r2g7~b304080-g008000-k000000-rc00000~x2/sett.png" alt="Cameron" width="240"><br>Cameron</a>
+<a class="tartan" href="/setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><img src="/setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/sett.png" alt="Cameron" width="240"><br>Cameron</a>
 
 ## Families
 
-- [Cameron of Erracht](/clan/cameron/erracht/)
-- [Cameron of Erracht Dress](/clan/cameron/erracht-dress/)
-- [Cameron of Locheil](/clan/cameron/locheil/)
-- [Cameron of Locheil #2](/clan/cameron/locheil-2/)
-- [Cameron of Locheil #3](/clan/cameron/locheil-3/)
-- [Cameron of Lochiel](/clan/cameron/lochiel/)
-- [Cameron of Lochiel Clan/Family](/clan/cameron/lochiel-clan-family/)
+- [Cameron of Erracht](/families/cameron-of-erracht/)
+- [Cameron of Locheil](/families/cameron-of-locheil/)
+- [Cameron of Lochiel](/families/cameron-of-lochiel/)
+- [Cameron of Lochiel Clan/Family](/families/cameron-of-lochiel-clan-family/)
 

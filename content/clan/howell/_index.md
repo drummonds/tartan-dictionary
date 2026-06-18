@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Howell of Wales](/clan/howell/wales/)
+- [Howell of Wales](/families/howell-of-wales/)
 

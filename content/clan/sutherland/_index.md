@@ -6,9 +6,9 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s22/g6w2g24k12b3k2b2k2b12r1b1r3b1r1b12k2b2k2b3k12g24w2~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/"><img src="/setts/s22/g6w2g24k12b3k2b2k2b12r1b1r3b1r1b12k2b2k2b3k12g24w2~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png" alt="Sutherland" width="240"><br>Sutherland</a>
+<a class="tartan" href="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12g24w2~x2/"><img src="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12g24w2~x2/sett.png" alt="Sutherland" width="240"><br>Sutherland</a>
 
 ## Families
 
-- [Sutherland of Duffus](/clan/sutherland/duffus/)
+- [Sutherland of Duffus](/families/sutherland-of-duffus/)
 

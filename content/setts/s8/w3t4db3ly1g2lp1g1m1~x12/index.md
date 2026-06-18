@@ -1,0 +1,54 @@
+---
+title: "Queensland (District)"
+date: 2023-03-18
+---
+**Bands:** [RGWGYBBW](/stripes/rgwgybbw/) · **Stripes:** [M G LP G LY DB T W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M G LP G LY DB T W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2618/
+
+## Thread count
+LN/36 B48 DB36 Y12 G24 LP12 G12 R/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#009C24;"><span style="color:#009C24;filter:grayscale(1) invert(1) contrast(100);">#009C24</span></code> `#009C24` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LP | <code style="background-color:#C49CD8;"><span style="color:#C49CD8;filter:grayscale(1) invert(1) contrast(100);">#C49CD8</span></code> `#C49CD8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.25 |
+| R | <code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> `#A00048` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/36 B48 DB36 Y12 G24 LP12 G12 R/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Queensland](/setts/s8/w18t22db15ly6g10lp5g6r5~x2/) — ΔT 0.26
+1. [Isle of Jura](/setts/s7/lb18t18db10w3o15o3ly8~x2/) — ΔT 0.98
+1. [Somerset (District)](/setts/s9/y8o8lg7lr5lb2k2lb2k2lb2~x4/) — ΔT 1.38
+1. [Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/) — ΔT 1.38
+1. [Somerset #2](/setts/s8/dg14lb14db12lr8dy3k3dy3k5~x2/) — ΔT 1.47
+1. [Saltcoats (Saskatchewan)](/setts/s11/db3ly3y15b8w8db6y15b6ly3dg6r3~x2/) — ΔT 1.49
+1. [Ellis (Personal)](/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/) — ΔT 1.50
+1. [Northern College (Ontario)](/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/) — ΔT 1.52
+1. [Saltcoats (Saskatchewan) (District?)](/setts/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/) — ΔT 1.59
+1. [Manx National](/setts/s7/b5dg9o2ly2db6t14w3~x4/) — ΔT 1.68
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w18t22db15ly6g10lp5g6r5~x2/"><circle cx="14.0" cy="187.6" r="4" fill="#3465a4"><title>Queensland</title></circle></a><a href="/setts/s7/lb18t18db10w3o15o3ly8~x2/"><circle cx="14.0" cy="175.4" r="4" fill="#3465a4"><title>Isle of Jura</title></circle></a><a href="/setts/s9/y8o8lg7lr5lb2k2lb2k2lb2~x4/"><circle cx="14.0" cy="204.0" r="4" fill="#3465a4"><title>Somerset (District)</title></circle></a><a href="/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/"><circle cx="54.6" cy="186.0" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine &amp; Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dg14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="201.4" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/setts/s11/db3ly3y15b8w8db6y15b6ly3dg6r3~x2/"><circle cx="54.1" cy="170.6" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan)</title></circle></a><a href="/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/"><circle cx="14.0" cy="197.5" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="52.1" cy="194.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/"><circle cx="65.3" cy="173.7" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan) (District?)</title></circle></a><a href="/setts/s7/b5dg9o2ly2db6t14w3~x4/"><circle cx="80.3" cy="183.8" r="4" fill="#3465a4"><title>Manx National</title></circle></a><circle cx="14.0" cy="193.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/w3t4db3ly1g2lp1g1m1~x12/

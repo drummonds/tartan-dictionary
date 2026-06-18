@@ -1,0 +1,61 @@
+---
+title: "Wilson's No.124"
+date: 2023-03-18
+---
+**Bands:** [GBGKGBGY](/stripes/gbgkgbgy/) · **Stripes:** [G DP Y K Y DP G LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G DP Y K Y DP G LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4688
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4688](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4688)
+- Scottish Tartans Authority (ITI): 5600
+
+## Thread count
+G/28 P22 LG6 K10 LG6 P22 G28 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LG | <code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> `#789484` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.24 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.06 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/28 P22 LG6 K10 LG6 P22 G28 Y/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wilson's No.229](/setts/s8/dg14dp11t3k5t3dp11dg14w2~x2/) — ΔT 0.38
+1. [Wilson's No.176](/setts/s8/k8t3g13dp12ly2dp12g13t3~x2/) — ΔT 0.79
+1. [Brodie Hunting](/setts/s7/r2k8lo1k8g8t8r2~x4/) — ΔT 0.99
+1. [Wilson's No.183](/setts/s10/g1r1g6dp6t1k2t1dp6g6r1~x4/) — ΔT 1.01
+1. [CSCA (Corporate)](/setts/s8/g5r4g19k10g8w4db18r4~x2/) — ΔT 1.07
+1. [Hebrides #8](/setts/s8/db7r3g7r1g7r3db7t1~x2/) — ΔT 1.07
+1. [Williamson/Smart (Personal)](/setts/s8/db10o3db10r3k21g20k15r3~x2/) — ΔT 1.08
+1. [MacDuff, hunting](/setts/s8/o8r1o8g8k8db8o8r2~x2/) — ΔT 1.08
+1. [Lindley-Highfield (Name)](/setts/s7/dg7dp3w1g2dg1r2dp1~x8/) — ΔT 1.15
+1. [Fraser Hunting](/setts/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/) — ΔT 1.16
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg14dp11t3k5t3dp11dg14w2~x2/"><circle cx="183.3" cy="218.6" r="4" fill="#3465a4"><title>Wilson's No.229</title></circle></a><a href="/setts/s8/k8t3g13dp12ly2dp12g13t3~x2/"><circle cx="150.3" cy="233.4" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/setts/s7/r2k8lo1k8g8t8r2~x4/"><circle cx="155.5" cy="218.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s10/g1r1g6dp6t1k2t1dp6g6r1~x4/"><circle cx="191.6" cy="207.9" r="4" fill="#3465a4"><title>Wilson's No.183</title></circle></a><a href="/setts/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="140.8" cy="224.8" r="4" fill="#3465a4"><title>CSCA (Corporate)</title></circle></a><a href="/setts/s8/db7r3g7r1g7r3db7t1~x2/"><circle cx="193.6" cy="247.0" r="4" fill="#3465a4"><title>Hebrides #8</title></circle></a><a href="/setts/s8/db10o3db10r3k21g20k15r3~x2/"><circle cx="172.8" cy="224.1" r="4" fill="#3465a4"><title>Williamson/Smart (Personal)</title></circle></a><a href="/setts/s8/o8r1o8g8k8db8o8r2~x2/"><circle cx="155.8" cy="230.7" r="4" fill="#3465a4"><title>MacDuff, hunting</title></circle></a><a href="/setts/s7/dg7dp3w1g2dg1r2dp1~x8/"><circle cx="185.5" cy="194.1" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><a href="/setts/s11/r3dy18g10dy2db10dy2db10dy2g10dy18w3~x2/"><circle cx="220.7" cy="195.6" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><circle cx="184.8" cy="220.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/g14dp11y3k5y3dp11g14ly2~x2/

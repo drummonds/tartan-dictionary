@@ -1,0 +1,49 @@
+---
+title: "Buchanan(Mtd)MacGregor Hastie V. Tartan Tartan Number: 6088. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [KYKYKWKBWBKWKYKYKWKGWGKW](/stripes/kykykwkbwbkwkykykwkgwgkw/) · **Stripes:** [K LO K LO K LT K DR W DR K LT K LO K LO K LT K DG LT DG K LT](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">K LO K LO K LT K DR W DR K LT K LO K LO K LT K DG LT DG K LT</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6088
+
+## Thread count
+K/2 O14 K2 O14 K2 LB8 K2 DR62 LN6 DR62 K2 LB8 K2 O14 K2 O14 K2 LB8 K2 DG62 LB6 DG62 K2 LB/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#034635;"><span style="color:#034635;filter:grayscale(1) invert(1) contrast(100);">#034635</span></code> `#034635` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.12 |
+| DR | <code style="background-color:#5C0528;"><span style="color:#5C0528;filter:grayscale(1) invert(1) contrast(100);">#5C0528</span></code> `#5C0528` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.20 |
+| K | <code style="background-color:#080808;"><span style="color:#080808;filter:grayscale(1) invert(1) contrast(100);">#080808</span></code> `#080808` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.13 |
+| LB | <code style="background-color:#0CE1D7;"><span style="color:#0CE1D7;filter:grayscale(1) invert(1) contrast(100);">#0CE1D7</span></code> `#0CE1D7` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.21 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| O | <code style="background-color:#E18903;"><span style="color:#E18903;filter:grayscale(1) invert(1) contrast(100);">#E18903</span></code> `#E18903` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Stewart/Stuart, Royal (No black line)](/setts/s20/r64b12k16lo2k4lb3g32r8k4r3lb2r3k4r8g32lb3k4lo2k16b12~x2/) — ΔT 0.80
+1. [Anderson (MacGregor-Hastie #1)](/setts/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/) — ΔT 0.90
+1. [Holyrood (Chair)](/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1r6t10db2w1t2dg2ly1w1dg10db10w1~x2/) — ΔT 1.02
+1. [Anderson 7](/setts/s22/g8r16k2r4k2g16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/) — ΔT 1.08
+1. [Unidentified Plaid #9](/setts/s28/w70dy7db7w7db7dy7w7db5dy9ly4dy3w4dy3dg13dy70dg30dy4r10dy4dg30dy15db4dy4db4dy4db27dg6db27~x2/) — ΔT 1.08
+1. [Hay or Leith](/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/) — ΔT 1.09
+1. [Hay, or Leith](/setts/s22/db41r2k42w2g41r3ly2r3g3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/) — ΔT 1.10
+1. [Stewart](/setts/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/) — ΔT 1.11
+1. [Wedding Dress:1766](/setts/s24/k4lb2k2lb1lg6r6dg6lb1dg27lb1dt4lg4do3lb1do3lg4dt4lb1r36dt3lg2lb1lg2dt3~x4/) — ΔT 1.18
+1. [Wilson's No.017 #2](/setts/s28/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29w3k1ly2k10t8dy4t8k10ly2k1w3k1g17~x2/) — ΔT 1.20
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/r64b12k16lo2k4lb3g32r8k4r3lb2r3k4r8g32lb3k4lo2k16b12~x2/"><circle cx="202.9" cy="57.4" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal (No black line)</title></circle></a><a href="/setts/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/"><circle cx="142.4" cy="54.4" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #1)</title></circle></a><a href="/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1r6t10db2w1t2dg2ly1w1dg10db10w1~x2/"><circle cx="178.2" cy="28.2" r="4" fill="#3465a4"><title>Holyrood (Chair)</title></circle></a><a href="/setts/s22/g8r16k2r4k2g16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/"><circle cx="127.5" cy="48.6" r="4" fill="#3465a4"><title>Anderson 7</title></circle></a><a href="/setts/s28/w70dy7db7w7db7dy7w7db5dy9ly4dy3w4dy3dg13dy70dg30dy4r10dy4dg30dy15db4dy4db4dy4db27dg6db27~x2/"><circle cx="139.2" cy="44.5" r="4" fill="#3465a4"><title>Unidentified Plaid #9</title></circle></a><a href="/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/"><circle cx="172.3" cy="50.4" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/setts/s22/db41r2k42w2g41r3ly2r3g3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/"><circle cx="153.7" cy="44.7" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/setts/s23/w2r3k2r8g16k2w2k2ly1k10t6r32t6k10ly1k2w2k2g16r8k2r3w1~x4/"><circle cx="187.8" cy="41.6" r="4" fill="#3465a4"><title>Stewart</title></circle></a><a href="/setts/s24/k4lb2k2lb1lg6r6dg6lb1dg27lb1dt4lg4do3lb1do3lg4dt4lb1r36dt3lg2lb1lg2dt3~x4/"><circle cx="168.4" cy="14.0" r="4" fill="#3465a4"><title>Wedding Dress:1766</title></circle></a><a href="/setts/s28/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29w3k1ly2k10t8dy4t8k10ly2k1w3k1g17~x2/"><circle cx="136.4" cy="53.7" r="4" fill="#3465a4"><title>Wilson's No.017 #2</title></circle></a><circle cx="178.7" cy="35.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s24/lt3k1dg31lt3dg31k1lt4k1lo7k1lo7k1lt4k1dr31w3dr31k1lt4k1lo7k1lo7k1~x2/

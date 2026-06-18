@@ -1,0 +1,57 @@
+---
+title: "Praetorian Green"
+date: 2023-03-18
+---
+**Bands:** [WGYGKWWWKWWGWW](/stripes/wgygkwwwkwwgww/) · **Stripes:** [W DG LY G K LB W LB K LB W G LB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DG LY G K LB W LB K LB W G LB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5924
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5924](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5924)
+- Scottish Tartans Authority (ITI): 7836
+- Scottish Tartans World Register: 3137
+
+## Thread count
+W/6 G6 Y6 Ga48 K6 N6 W48 N6 K48 N6 W6 Ga48 N6 W/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#004000;"><span style="color:#004000;filter:grayscale(1) invert(1) contrast(100);">#004000</span></code> `#004000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.11 |
+| Ga | <code style="background-color:#008000;"><span style="color:#008000;filter:grayscale(1) invert(1) contrast(100);">#008000</span></code> `#008000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFFF00;"><span style="color:#FFFF00;filter:grayscale(1) invert(1) contrast(100);">#FFFF00</span></code> `#FFFF00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tiree](/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/) — ΔT 1.14
+1. [Gillies Dress, Green (Dance)](/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/) — ΔT 1.15
+1. [Praetorian, Green (Fashion)](/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/) — ΔT 1.25
+1. [MacInnes, dress](/setts/s13/g4w24g3k3g3k3g24k4w4k4db24g8r4~x2/) — ΔT 1.27
+1. [Gillies, dress Green](/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/) — ΔT 1.34
+1. [Madewell Dress](/setts/s8/r2k2w16dg13g6ly2k2w2~x2/) — ΔT 1.34
+1. [Downie Dress](/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/) — ΔT 1.36
+1. [Spice of Life (Fashion)](/setts/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4/) — ΔT 1.40
+1. [Hay, White Dress](/setts/s14/r6g4ly4g25r4g6r4g6w34g4w4k4r4w6/) — ΔT 1.41
+1. [Blair, dress](/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/) — ΔT 1.41
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.7" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/"><circle cx="92.8" cy="115.1" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.5" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s13/g4w24g3k3g3k3g24k4w4k4db24g8r4~x2/"><circle cx="112.5" cy="138.5" r="4" fill="#3465a4"><title>MacInnes, dress</title></circle></a><a href="/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/"><circle cx="84.7" cy="116.5" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/setts/s8/r2k2w16dg13g6ly2k2w2~x2/"><circle cx="111.7" cy="138.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="167.1" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4/"><circle cx="85.8" cy="82.9" r="4" fill="#3465a4"><title>Spice of Life (Fashion)</title></circle></a><a href="/setts/s14/r6g4ly4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="155.5" cy="121.1" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.6" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><circle cx="94.0" cy="109.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/w1dg1ly1g8k1lb1w8lb1k8lb1w1g8lb1w1~x6/

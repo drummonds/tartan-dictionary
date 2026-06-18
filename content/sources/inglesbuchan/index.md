@@ -1,11 +1,9 @@
 ---
-title: Ingles Buchan
-date: 2026-06-11
+title: "Ingles Buchan"
+date: 2023-03-18
 ---
 
-
 An independent Glasgow weaver's tartan catalogue (trading since 1795) — photographs of real woven cloth, mirrored with cmd/ibscrape. Setts are pending recovery from the photographs, so no variants are attested yet.
-
 
 ## Provenance
 
@@ -20,4 +18,3 @@ An independent Glasgow weaver's tartan catalogue (trading since 1795) — photog
 | **Licence** | All rights reserved (catalogue photographs) |
 
 Mirrored for research (image→threadcount recovery); photographs are not redistributed — the images directory is a local, gitignored cache.
-

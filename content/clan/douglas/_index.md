@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Douglas of Roxburgh](/clan/douglas/roxburgh/)
+- [Douglas of Roxburgh](/families/douglas-of-roxburgh/)
 

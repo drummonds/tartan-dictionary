@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [MacKerrell of Hillhouse Htg](/clan/mackerrell/hillhouse-htg/)
-- [MacKerrell, of Hillhouse hunting](/clan/mackerrell/hillhouse-hunting/)
+- [MacKerrell of Hillhouse Htg](/families/mackerrell-of-hillhouse-htg/)
+- [MacKerrell, of Hillhouse](/families/mackerrell-of-hillhouse/)
 

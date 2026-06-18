@@ -78,8 +78,8 @@ pagerSize = 20
     weight = 1
     [[menu.main]]
     parent = "tartans"
-    name = "Pattern"
-    url = "/pattern/"
+    name = "Stripes"
+    url = "/stripes/"
     weight = 2
 
   # TTD (the tartan navigator) is its own top-level entry.
@@ -124,9 +124,14 @@ weight = 1
   weight = 4
   [[menu.info]]
   parent = "info"
+  name = "Glossary"
+  url = "/glossary/"
+  weight = 5
+  [[menu.info]]
+  parent = "info"
   name = "About"
   url = "/about/"
-  weight = 5
+  weight = 6
 
 [params.social]
   github = "https://github.com/Drummonds"

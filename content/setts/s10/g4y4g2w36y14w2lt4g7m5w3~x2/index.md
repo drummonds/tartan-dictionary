@@ -1,0 +1,54 @@
+---
+title: "Rikaco Eve"
+date: 2023-03-18
+---
+**Bands:** [GGGWGWWGRW](/stripes/gggwgwwgrw/) · **Stripes:** [G Y G W Y W LT G M W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G Y G W Y W LT G M W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10439
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10439)
+
+## Thread count
+G/8 N8 G4 LY72 N28 LY4 LB8 G14 DR10 LY/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#B03060;"><span style="color:#B03060;filter:grayscale(1) invert(1) contrast(100);">#B03060</span></code> `#B03060` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.10 |
+| G | <code style="background-color:#1B6453;"><span style="color:#1B6453;filter:grayscale(1) invert(1) contrast(100);">#1B6453</span></code> `#1B6453` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.09 |
+| LB | <code style="background-color:#87CEEB;"><span style="color:#87CEEB;filter:grayscale(1) invert(1) contrast(100);">#87CEEB</span></code> `#87CEEB` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| LY | <code style="background-color:#FFFFE0;"><span style="color:#FFFFE0;filter:grayscale(1) invert(1) contrast(100);">#FFFFE0</span></code> `#FFFFE0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.04 |
+| N | <code style="background-color:#787878;"><span style="color:#787878;filter:grayscale(1) invert(1) contrast(100);">#787878</span></code> `#787878` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.21 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Glenmore Green Fashion Tartan Tartan Number: 5041. Earliest known date: pre 1988 A Royal Stewart colour variation produced by many weaving mills See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w38y10m2y3w2y3g8lr3y2lr3w2~x2/) — ΔT 0.89
+1. [Grant of Acharrow](/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/) — ΔT 0.98
+1. [Grant of Auchnarrow](/setts/s13/w6r2w38g8db6w2db2w2lo14r7g2r3w2~x2/) — ΔT 0.99
+1. [Ben Vorlich](/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/) — ΔT 1.14
+1. [Henderson Dress (Clan?)](/setts/s9/ly1k6g4k1w16t1w4t6w1~x2/) — ΔT 1.20
+1. [Nova Scotia, dress](/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/) — ΔT 1.21
+1. [Strathyre Dress (Dance)](/setts/s11/w36g6r2g3w2g3dy6p4g2p2w2~x2/) — ΔT 1.22
+1. [Australian, dress](/setts/s9/w50o4lo2k2lo2o4lo10o15t2~x2/) — ΔT 1.24
+1. [Elsa Dance](/setts/s10/w8g6w44db10g6k3g4k3g34w4/) — ΔT 1.25
+1. [Braveheart Warrior (Dress)](/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/) — ΔT 1.26
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w38y10m2y3w2y3g8lr3y2lr3w2~x2/"><circle cx="295.9" cy="85.7" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan Tartan Number: 5041. Earliest known date: pre 1988 A Royal Stewart colour variation produced by many weaving mills See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="261.1" cy="80.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2lo14r7g2r3w2~x2/"><circle cx="275.0" cy="88.2" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="234.0" cy="77.8" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s9/ly1k6g4k1w16t1w4t6w1~x2/"><circle cx="215.1" cy="112.9" r="4" fill="#3465a4"><title>Henderson Dress (Clan?)</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="211.2" cy="120.7" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/setts/s11/w36g6r2g3w2g3dy6p4g2p2w2~x2/"><circle cx="295.1" cy="73.3" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s9/w50o4lo2k2lo2o4lo10o15t2~x2/"><circle cx="319.5" cy="84.0" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/setts/s10/w8g6w44db10g6k3g4k3g34w4/"><circle cx="205.6" cy="113.9" r="4" fill="#3465a4"><title>Elsa Dance</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.5" cy="90.3" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><circle cx="241.3" cy="96.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/

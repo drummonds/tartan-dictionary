@@ -1,0 +1,54 @@
+---
+title: "Fiander, Julian (Personal)"
+date: 2023-03-18
+---
+**Bands:** [KWGYKYGWGR](/stripes/kwgykygwgr/) · **Stripes:** [K W DG LO K LO DG W DG R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W DG LO K LO DG W DG R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10935
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10935](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10935)
+
+## Thread count
+DR/12 DN4 W42 DN4 DY4 K16 DY4 DN64 W2 K/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DN | <code style="background-color:#18453B;"><span style="color:#18453B;filter:grayscale(1) invert(1) contrast(100);">#18453B</span></code> `#18453B` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.13 |
+| DR | <code style="background-color:#960000;"><span style="color:#960000;filter:grayscale(1) invert(1) contrast(100);">#960000</span></code> `#960000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pride of Scotland Gold](/setts/s11/k9n2lo2k2lb18lo2k2lb1k19lo33r2~x2/) — ΔT 0.90
+1. [Ar Lenn Vor](/setts/s11/dt15ly30w30k20w20k15w10ly4dt94w4r10/) — ΔT 0.92
+1. [(1) Stewart, modern](/setts/s9/g44db2g4db2g6k16m40db2ly11/) — ΔT 1.07
+1. [Cornell (Fashion)](/setts/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/) — ΔT 1.09
+1. [Fiander, Julian (Personal)](/setts/s9/r6g2w21ly2k8ly2g32w1k3~x2/) — ΔT 1.10
+1. [Prestoungrange/Dolphinstoun/Wills dress](/setts/s15/w3b2w3r4w16k2w2k2w3k10dg35k2dg2k1dg2~x2/) — ΔT 1.12
+1. [Bannockbane Green](/setts/s8/dt3lo2dt30lo1w18lg30lo2lg3~x2/) — ΔT 1.14
+1. [McClurg (Name)](/setts/s8/ly4g1ly2g1ly32ly3db32t4~x2/) — ΔT 1.15
+1. [Bro-Roazhon](/setts/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/) — ΔT 1.19
+1. [Motherwell Football Club. Modern](/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/) — ΔT 1.23
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k9n2lo2k2lb18lo2k2lb1k19lo33r2~x2/"><circle cx="227.6" cy="80.6" r="4" fill="#3465a4"><title>Pride of Scotland Gold</title></circle></a><a href="/setts/s11/dt15ly30w30k20w20k15w10ly4dt94w4r10/"><circle cx="184.0" cy="95.8" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/setts/s9/g44db2g4db2g6k16m40db2ly11/"><circle cx="215.5" cy="112.8" r="4" fill="#3465a4"><title>(1) Stewart, modern</title></circle></a><a href="/setts/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/"><circle cx="194.5" cy="86.9" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/setts/s9/r6g2w21ly2k8ly2g32w1k3~x2/"><circle cx="217.5" cy="86.7" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/setts/s15/w3b2w3r4w16k2w2k2w3k10dg35k2dg2k1dg2~x2/"><circle cx="236.4" cy="56.4" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills dress</title></circle></a><a href="/setts/s8/dt3lo2dt30lo1w18lg30lo2lg3~x2/"><circle cx="203.3" cy="104.9" r="4" fill="#3465a4"><title>Bannockbane Green</title></circle></a><a href="/setts/s8/ly4g1ly2g1ly32ly3db32t4~x2/"><circle cx="276.2" cy="87.7" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/setts/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/"><circle cx="264.5" cy="81.1" r="4" fill="#3465a4"><title>Bro-Roazhon</title></circle></a><a href="/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/"><circle cx="293.5" cy="97.6" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><circle cx="228.8" cy="80.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/

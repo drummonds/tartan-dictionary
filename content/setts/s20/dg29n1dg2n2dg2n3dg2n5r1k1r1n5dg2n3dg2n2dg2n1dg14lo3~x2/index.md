@@ -1,0 +1,54 @@
+---
+title: "Murphy and his Gang (Phoenix Arizona) (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/) · **Stripes:** [DG N DG N DG N DG N R K R N DG N DG N DG N DG LO](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG N DG N DG N DG N R K R N DG N DG N DG N DG LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10419
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10419](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10419)
+
+## Thread count
+G/58 B2 G4 B4 G4 B6 G4 B10 DR2 K2 DR2 B10 G4 B6 G4 B4 G4 B2 G28 O/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#576982;"><span style="color:#576982;filter:grayscale(1) invert(1) contrast(100);">#576982</span></code> `#576982` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#861031;"><span style="color:#861031;filter:grayscale(1) invert(1) contrast(100);">#861031</span></code> `#861031` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#124B24;"><span style="color:#124B24;filter:grayscale(1) invert(1) contrast(100);">#124B24</span></code> `#124B24` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.09 |
+| K | <code style="background-color:#120A01;"><span style="color:#120A01;filter:grayscale(1) invert(1) contrast(100);">#120A01</span></code> `#120A01` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.15 |
+| O | <code style="background-color:#EF8F06;"><span style="color:#EF8F06;filter:grayscale(1) invert(1) contrast(100);">#EF8F06</span></code> `#EF8F06` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Murphy & his Gang (Personal)](/setts/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14lo3~x2/) — ΔT 1.19
+1. [U.S. Seabees](/setts/s24/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72lo2g9b9g2db9g2dy9g2r9g10lo2~x2/) — ΔT 1.48
+1. [Wexford Irish County Tartan Tartan Number: 2251. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/) — ΔT 1.49
+1. [Orvis Sports Company](/setts/s18/dg4r4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60r4/) — ΔT 1.63
+1. [Berry Tribute](/setts/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/) — ΔT 1.68
+1. [Proctor (Name)](/setts/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24lo3~x2/) — ΔT 1.71
+1. [Bartlett, Chris (Personal)](/setts/s13/r4y40dt12y2dt12y30k2y4k2y4y2y3k3~x2/) — ΔT 1.75
+1. [Anderson Green](/setts/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/) — ΔT 1.75
+1. [Maxem Eyewear](/setts/s16/k8do78k8y8k4y4k4do13y1do4k4w4k4do52k4y1~x4/) — ΔT 1.79
+1. [Kennedy](/setts/s17/k2dg2ly1dg3r1dg2r1dg12db4k3db3k3db3k3db4dg24r2~x2/) — ΔT 1.86
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14lo3~x2/"><circle cx="462.4" cy="112.4" r="4" fill="#3465a4"><title>Murphy &amp; his Gang (Personal)</title></circle></a><a href="/setts/s24/g72lo2g10r9g2dy9g2db9g2b9g9lo2g72lo2g9b9g2db9g2dy9g2r9g10lo2~x2/"><circle cx="477.9" cy="79.2" r="4" fill="#3465a4"><title>U.S. Seabees</title></circle></a><a href="/setts/s14/g11dg6g6w1dg2w1g6dg6g36k1lo3k1g5dg5~x2/"><circle cx="495.6" cy="124.3" r="4" fill="#3465a4"><title>Wexford Irish County Tartan Tartan Number: 2251. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/dg4r4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60r4/"><circle cx="539.2" cy="107.8" r="4" fill="#3465a4"><title>Orvis Sports Company</title></circle></a><a href="/setts/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1lo2~x2/"><circle cx="467.0" cy="101.3" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/setts/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24lo3~x2/"><circle cx="386.6" cy="148.9" r="4" fill="#3465a4"><title>Proctor (Name)</title></circle></a><a href="/setts/s13/r4y40dt12y2dt12y30k2y4k2y4y2y3k3~x2/"><circle cx="487.5" cy="166.2" r="4" fill="#3465a4"><title>Bartlett, Chris (Personal)</title></circle></a><a href="/setts/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/"><circle cx="483.1" cy="91.3" r="4" fill="#3465a4"><title>Anderson Green</title></circle></a><a href="/setts/s16/k8do78k8y8k4y4k4do13y1do4k4w4k4do52k4y1~x4/"><circle cx="562.2" cy="108.1" r="4" fill="#3465a4"><title>Maxem Eyewear</title></circle></a><a href="/setts/s17/k2dg2ly1dg3r1dg2r1dg12db4k3db3k3db3k3db4dg24r2~x2/"><circle cx="366.6" cy="117.8" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><circle cx="485.5" cy="120.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s20/dg29n1dg2n2dg2n3dg2n5r1k1r1n5dg2n3dg2n2dg2n1dg14lo3~x2/

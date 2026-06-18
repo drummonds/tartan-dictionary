@@ -1,0 +1,57 @@
+---
+title: "Chaudhri, Zafar Iqbal"
+date: 2023-03-18
+---
+**Bands:** [BBWGWBWB](/stripes/bbwgwbwb/) · **Stripes:** [DP N W DG W N W N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">DP N W DG W N W N</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10803
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10803](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10803)
+
+## Thread count
+DB/26 DR16 W10 K48 W10 DR20 W10 DR/20
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#3D2E60;"><span style="color:#3D2E60;filter:grayscale(1) invert(1) contrast(100);">#3D2E60</span></code> `#3D2E60` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DR | <code style="background-color:#72393F;"><span style="color:#72393F;filter:grayscale(1) invert(1) contrast(100);">#72393F</span></code> `#72393F` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| K | <code style="background-color:#23321B;"><span style="color:#23321B;filter:grayscale(1) invert(1) contrast(100);">#23321B</span></code> `#23321B` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.16 |
+| W | <code style="background-color:#F9F5EF;"><span style="color:#F9F5EF;filter:grayscale(1) invert(1) contrast(100);">#F9F5EF</span></code> `#F9F5EF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/26 DR16 W10 K48 W10 DR20 W10 DR/20 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Chaudhri (Name)](/setts/s8/dp13r8lb5dg24lb5r10lb5r10~x2/) — ΔT 0.84
+1. [Wilson's No.214](/setts/s8/t3k1t1r3g4r3t1k1~x4/) — ΔT 0.84
+1. [Holden Monaro Corporate Tartan Tartan Number: 8700. Earliest known date: 1831 Holden Monaro GTS 1978 car seats. Reproduction colours. Warp 162 threads Weft 202 threads. Last weaving went through with slight difference. Sett size = 4 3/8th - 4 3/4 inch (112mm - 120mm) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/lr10dt3lr3dt3lr3dt11dy11o3~x2/) — ΔT 1.10
+1. [Thompson Grey Dress](/setts/s6/r1o6k1w3k3r1~x8/) — ΔT 1.15
+1. [Borthwick Family Tartan Tartan Number: 816. Earliest known date: pre 2003 Borthwick is an ancient Scottish family of Celtic origin. William de Borthwick built Borthwick Castle in Midlothian in the 14th century. The present chief of the border family is Major John Henry Stuart Borthwick of Crookston, Midlothian. He was recognised by Lord Lyon as the 23rd Lord Borthwick in 1986. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g12k2m12k3o12k16o12k3m6~x2/) — ΔT 1.18
+1. [Strathblane](/setts/s8/o6w2k4dy12k4w2o6r3~x2/) — ΔT 1.20
+1. [Thompson's Fancy (Fashion)](/setts/s6/lb1k4lb4db2dy6r1~x6/) — ΔT 1.23
+1. [Carnegie](/setts/s8/r33g17db50g17r11g17r9k7/) — ΔT 1.23
+1. [Tamer of Wolves](/setts/s9/w9db2dy8n6dy9n15dy13n3db4~x2/) — ΔT 1.23
+1. [Stewart, Plaid](/setts/s7/r2g4db8r9g9k2r2~x2/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dp13r8lb5dg24lb5r10lb5r10~x2/"><circle cx="120.2" cy="231.0" r="4" fill="#3465a4"><title>Chaudhri (Name)</title></circle></a><a href="/setts/s8/t3k1t1r3g4r3t1k1~x4/"><circle cx="117.4" cy="249.9" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/setts/s8/lr10dt3lr3dt3lr3dt11dy11o3~x2/"><circle cx="141.5" cy="250.1" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan Tartan Number: 8700. Earliest known date: 1831 Holden Monaro GTS 1978 car seats. Reproduction colours. Warp 162 threads Weft 202 threads. Last weaving went through with slight difference. Sett size = 4 3/8th - 4 3/4 inch (112mm - 120mm) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r1o6k1w3k3r1~x8/"><circle cx="144.9" cy="214.3" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/setts/s9/g12k2m12k3o12k16o12k3m6~x2/"><circle cx="124.2" cy="222.5" r="4" fill="#3465a4"><title>Borthwick Family Tartan Tartan Number: 816. Earliest known date: pre 2003 Borthwick is an ancient Scottish family of Celtic origin. William de Borthwick built Borthwick Castle in Midlothian in the 14th century. The present chief of the border family is Major John Henry Stuart Borthwick of Crookston, Midlothian. He was recognised by Lord Lyon as the 23rd Lord Borthwick in 1986. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o6w2k4dy12k4w2o6r3~x2/"><circle cx="87.6" cy="205.9" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s6/lb1k4lb4db2dy6r1~x6/"><circle cx="87.6" cy="218.9" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.2" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s9/w9db2dy8n6dy9n15dy13n3db4~x2/"><circle cx="174.4" cy="222.5" r="4" fill="#3465a4"><title>Tamer of Wolves</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x2/"><circle cx="146.0" cy="246.5" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><circle cx="108.6" cy="231.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/dp13n8w5dg24w5n10w5n10~x2/

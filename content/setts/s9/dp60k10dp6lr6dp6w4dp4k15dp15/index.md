@@ -1,0 +1,53 @@
+---
+title: "Kansas State University"
+date: 2023-03-18
+---
+**Bands:** [BKBWBYBKB](/stripes/bkbwbybkb/) · **Stripes:** [DP K DP W DP LR DP K DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP K DP W DP LR DP K DP</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11565
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11565](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11565)
+
+## Thread count
+P/60 K10 P6 N6 P6 W4 P4 K15 P/15
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.18 |
+| P | <code style="background-color:#5A008C;"><span style="color:#5A008C;filter:grayscale(1) invert(1) contrast(100);">#5A008C</span></code> `#5A008C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Newton Primary School](/setts/s9/db26r3db3w2db3r3db6r6ly2~x4/) — ΔT 1.27
+1. [Stephen F Austin State University](/setts/s8/dp15w2k3dp30k4o3dp15w6~x2/) — ΔT 1.28
+1. [Masai Shuka 29 (Artefact)](/setts/s8/r5db20r3db20k6db3lb2db1~x2/) — ΔT 1.35
+1. [Ikelman #5 (Personal)](/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/) — ΔT 1.51
+1. [Steffen, Morris (Personal)](/setts/s6/db35w4db10r3r3r3~x4/) — ΔT 1.58
+1. [Edinburgh TIC (Corporate)](/setts/s8/db32r3db3r4w3r5db4r7~x2/) — ΔT 1.74
+1. [Laidlaw's Highland Drovers (Corp)](/setts/s7/db35k10db4w2db3r2ly2~x2/) — ΔT 1.82
+1. [Tokyo Bluebells](/setts/s8/db18r1db1r1db1k7db13w2~x4/) — ΔT 1.85
+1. [Balmer (Personal)](/setts/s6/ly2r5ly2r5db49w2~x2/) — ΔT 1.89
+1. [Louisville Fire & Rescue P&D](/setts/s9/lo1db8r3db2r1db2r3db8w1~x4/) — ΔT 1.89
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db26r3db3w2db3r3db6r6ly2~x4/"><circle cx="427.3" cy="161.6" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/setts/s8/dp15w2k3dp30k4o3dp15w6~x2/"><circle cx="452.0" cy="172.5" r="4" fill="#3465a4"><title>Stephen F Austin State University</title></circle></a><a href="/setts/s8/r5db20r3db20k6db3lb2db1~x2/"><circle cx="453.3" cy="176.1" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/"><circle cx="403.1" cy="152.5" r="4" fill="#3465a4"><title>Ikelman #5 (Personal)</title></circle></a><a href="/setts/s6/db35w4db10r3r3r3~x4/"><circle cx="495.0" cy="196.7" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/setts/s8/db32r3db3r4w3r5db4r7~x2/"><circle cx="412.5" cy="185.9" r="4" fill="#3465a4"><title>Edinburgh TIC (Corporate)</title></circle></a><a href="/setts/s7/db35k10db4w2db3r2ly2~x2/"><circle cx="453.1" cy="153.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.6" cy="168.8" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s6/ly2r5ly2r5db49w2~x2/"><circle cx="509.0" cy="140.8" r="4" fill="#3465a4"><title>Balmer (Personal)</title></circle></a><a href="/setts/s9/lo1db8r3db2r1db2r3db8w1~x4/"><circle cx="382.4" cy="207.6" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><circle cx="455.6" cy="162.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/dp60k10dp6lr6dp6w4dp4k15dp15/

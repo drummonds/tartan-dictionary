@@ -1,0 +1,49 @@
+---
+title: "Bruce of Kinnaird (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [WYYBYBWBYY](/stripes/wyybybwbyy/) · **Stripes:** [LB LO LG DR LO DR LB DR LY LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LB LO LG DR LO DR LB DR LY LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3744/
+
+## Thread count
+DY/44 LG44 DR4 N12 DR4 DYa4 DR32 B10 DY16 N/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#00C4BC;"><span style="color:#00C4BC;filter:grayscale(1) invert(1) contrast(100);">#00C4BC</span></code> `#00C4BC` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.25 |
+| DR | <code style="background-color:#501400;"><span style="color:#501400;filter:grayscale(1) invert(1) contrast(100);">#501400</span></code> `#501400` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| DYa | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| LG | <code style="background-color:#C4BC68;"><span style="color:#C4BC68;filter:grayscale(1) invert(1) contrast(100);">#C4BC68</span></code> `#C4BC68` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Jacobite, Silk sash](/setts/s10/w2r8o5ly6w5g21w6r8r4w2/) — ΔT 0.77
+1. [Unidentified, Silk scarf](/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/) — ΔT 1.08
+1. [Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/) — ΔT 1.26
+1. [Jacobite Silk sash](/setts/s10/w2r8dy5ly6w5dg21w6r8r4w2/) — ΔT 1.27
+1. [Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/do11g3do4ly3do3ly4do3ly13lo34g3lo4r3~x2/) — ΔT 1.28
+1. [Elystan Glodrydd (Name)](/setts/s7/w3g24r13g4lo11r8db2~x2/) — ΔT 1.28
+1. [Barbour - Muted](/setts/s7/ly4o21w2dt11ly21r2ly4~x2/) — ΔT 1.29
+1. [Bouguet, Adrian Dress (Personal)](/setts/s11/lb16dg5lo20o3dg3o3lo4g14lo2o2r1~x2/) — ΔT 1.31
+1. [Wilson's, No 128](/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/) — ΔT 1.33
+1. [Asman, Day Tan (Name)](/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/) — ΔT 1.34
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w2r8o5ly6w5g21w6r8r4w2/"><circle cx="89.7" cy="138.0" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/"><circle cx="101.6" cy="127.9" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.6" cy="150.4" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w2r8dy5ly6w5dg21w6r8r4w2/"><circle cx="81.4" cy="132.9" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/setts/s12/do11g3do4ly3do3ly4do3ly13lo34g3lo4r3~x2/"><circle cx="185.6" cy="107.0" r="4" fill="#3465a4"><title>Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w3g24r13g4lo11r8db2~x2/"><circle cx="162.8" cy="166.1" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s7/ly4o21w2dt11ly21r2ly4~x2/"><circle cx="149.0" cy="144.5" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/setts/s11/lb16dg5lo20o3dg3o3lo4g14lo2o2r1~x2/"><circle cx="154.6" cy="106.0" r="4" fill="#3465a4"><title>Bouguet, Adrian Dress (Personal)</title></circle></a><a href="/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="166.7" cy="118.7" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/"><circle cx="179.1" cy="156.3" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><circle cx="132.9" cy="134.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/

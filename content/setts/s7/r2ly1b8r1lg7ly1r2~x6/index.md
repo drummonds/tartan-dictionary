@@ -1,0 +1,57 @@
+---
+title: "Cercle de Fermières de Saint-Élie d'Orford"
+date: 2023-03-18
+---
+**Bands:** [RYBRYYR](/stripes/rybryyr/) · **Stripes:** [R LY B R LG LY R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY B R LG LY R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10392
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10392](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10392)
+
+## Thread count
+R/12 LY6 B48 R6 Ba42 LY6 R/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1464F4;"><span style="color:#1464F4;filter:grayscale(1) invert(1) contrast(100);">#1464F4</span></code> `#1464F4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| Ba | <code style="background-color:#00C957;"><span style="color:#00C957;filter:grayscale(1) invert(1) contrast(100);">#00C957</span></code> `#00C957` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| LY | <code style="background-color:#FFEC8B;"><span style="color:#FFEC8B;filter:grayscale(1) invert(1) contrast(100);">#FFEC8B</span></code> `#FFEC8B` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "R/12 LY6 B48 R6 Ba42 LY6 R/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Birnham, Blue (Dance)](/setts/s6/k3w25g16w3n25w3~x2/) — ΔT 0.90
+1. [Strathclyde District Tartan Tartan Number: 1072. Earliest known date: 1975 The navy blue and white are said to represent the 'Scottish Sporting Colours'. This sett is also produced with light blue in place of white. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k2lb16w2dt16w15k2w2~x2/) — ΔT 0.91
+1. [Conquergood (Name)](/setts/s8/k4t2w11t5o5w2k1t2~x2/) — ΔT 0.94
+1. [Culloden, Blue Dress (Dance)](/setts/s8/ly8db4t23w3db22w25db3w6~x2/) — ΔT 0.95
+1. [MacTavish of Dunardry (Clan)](/setts/s7/t8w28lo3g3t8k9t4~x2/) — ΔT 1.13
+1. [Bannockbane Tan](/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/) — ΔT 1.16
+1. [Alexander Brothers - 2007? (Corp.)](/setts/s8/g5ly2t20w2k20w20k2w5~x2/) — ΔT 1.20
+1. [MacTavish of Dunardry Dress](/setts/s7/n8w28o3g3n8k9n4~x2/) — ΔT 1.27
+1. [Ailsa Craig (District)](/setts/s8/r5w2t20ly2k16w18k2w5~x2/) — ΔT 1.29
+1. [Robertson, dress](/setts/s9/db24r4g24r4db4w20r10g3w4~x2/) — ΔT 1.30
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k3w25g16w3n25w3~x2/"><circle cx="180.8" cy="199.5" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/setts/s7/k2lb16w2dt16w15k2w2~x2/"><circle cx="139.5" cy="183.6" r="4" fill="#3465a4"><title>Strathclyde District Tartan Tartan Number: 1072. Earliest known date: 1975 The navy blue and white are said to represent the 'Scottish Sporting Colours'. This sett is also produced with light blue in place of white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k4t2w11t5o5w2k1t2~x2/"><circle cx="159.9" cy="178.3" r="4" fill="#3465a4"><title>Conquergood (Name)</title></circle></a><a href="/setts/s8/ly8db4t23w3db22w25db3w6~x2/"><circle cx="130.8" cy="178.9" r="4" fill="#3465a4"><title>Culloden, Blue Dress (Dance)</title></circle></a><a href="/setts/s7/t8w28lo3g3t8k9t4~x2/"><circle cx="177.2" cy="161.4" r="4" fill="#3465a4"><title>MacTavish of Dunardry (Clan)</title></circle></a><a href="/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/"><circle cx="142.4" cy="168.0" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/setts/s8/g5ly2t20w2k20w20k2w5~x2/"><circle cx="120.8" cy="153.6" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/setts/s7/n8w28o3g3n8k9n4~x2/"><circle cx="164.0" cy="152.2" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><a href="/setts/s8/r5w2t20ly2k16w18k2w5~x2/"><circle cx="116.6" cy="147.9" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/setts/s9/db24r4g24r4db4w20r10g3w4~x2/"><circle cx="110.6" cy="182.4" r="4" fill="#3465a4"><title>Robertson, dress</title></circle></a><circle cx="150.9" cy="182.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/r2ly1b8r1lg7ly1r2~x6/

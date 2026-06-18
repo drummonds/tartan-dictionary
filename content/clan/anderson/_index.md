@@ -4,8 +4,8 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Anderson of Ardbrake](/clan/anderson/ardbrake/)
-- [Anderson of Kinnedar, hunting](/clan/anderson/kinnedar-hunting/)
-- [Anderson of Kinneddar Hunting](/clan/anderson/kinneddar-hunting/)
-- [Anderson of Kinnedear Red](/clan/anderson/kinnedear-red/)
+- [Anderson of Ardbrake](/families/anderson-of-ardbrake/)
+- [Anderson of Kinnedar,](/families/anderson-of-kinnedar/)
+- [Anderson of Kinneddar](/families/anderson-of-kinneddar/)
+- [Anderson of Kinnedear](/families/anderson-of-kinnedear/)
 

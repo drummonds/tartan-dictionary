@@ -1,0 +1,49 @@
+---
+title: "Flodden"
+date: 2023-03-18
+---
+**Bands:** [GRGGYRYRGRYW](/stripes/grggyryrgryw/) · **Stripes:** [G R G DY LY R LY R DG R LY W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R G DY LY R LY R DG R LY W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10873/
+
+## Thread count
+G/4 DR4 G4 T28 Y4 DR6 Y2 DR2 Ga40 DR6 Y2 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> `#A00000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
+| G | <code style="background-color:#288028;"><span style="color:#288028;filter:grayscale(1) invert(1) contrast(100);">#288028</span></code> `#288028` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| Ga | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| T | <code style="background-color:#603800;"><span style="color:#603800;filter:grayscale(1) invert(1) contrast(100);">#603800</span></code> `#603800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.16 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Harmony 1](/setts/s12/dr11g3dr4ly3dr3ly4dr3y13o34g3o4n3~x2/) — ΔT 1.20
+1. [Caithness District Tartan Tartan Number: 2466. Earliest known date: (Feb, 2001) Designed by Trudi Mann of Wick and incorporating colours of Caithness, including the unique blue grey Caithness flagstone. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/dy28r3do2o2do2r3o8lo2do8lo5do3w2do2lo3do1~x2/) — ΔT 1.28
+1. [Bicknell, The Hamish (Personal)](/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/) — ΔT 1.39
+1. [Spens, Fragment](/setts/s17/r50w2db7o2g33g12db7o3w2o3db7g12g33o2db7w2r17~x2/) — ΔT 1.40
+1. [Moray of Abercairny](/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/) — ΔT 1.41
+1. [Tara (District)](/setts/s12/k8r2k6lo2k2lb2k2dy16dg24r2dg4k3~x2/) — ΔT 1.46
+1. [State Seal of Florida (Fashion)](/setts/s10/lo3do4db3do3g36db11lb3r14lo21r3~x2/) — ΔT 1.49
+1. [Ogg of Tarragann Hunting (Personal)](/setts/s12/lo2g2lo1g10k6r1dy14r1dy14r1t6r2~x2/) — ΔT 1.50
+1. [Isle of Skye](/setts/s11/o20dp2o2dp2o3dp8dg9g8y8dg1lr2~x2/) — ΔT 1.55
+1. [Methven](/setts/s11/lo2dg24g2dg2g2o21dy2o2dy18dg3o2~x2/) — ΔT 1.56
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dr11g3dr4ly3dr3ly4dr3y13o34g3o4n3~x2/"><circle cx="218.4" cy="126.8" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/setts/s15/dy28r3do2o2do2r3o8lo2do8lo5do3w2do2lo3do1~x2/"><circle cx="236.2" cy="82.6" r="4" fill="#3465a4"><title>Caithness District Tartan Tartan Number: 2466. Earliest known date: (Feb, 2001) Designed by Trudi Mann of Wick and incorporating colours of Caithness, including the unique blue grey Caithness flagstone. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/"><circle cx="208.4" cy="81.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s17/r50w2db7o2g33g12db7o3w2o3db7g12g33o2db7w2r17~x2/"><circle cx="178.1" cy="76.7" r="4" fill="#3465a4"><title>Spens, Fragment</title></circle></a><a href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><circle cx="209.0" cy="102.7" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s12/k8r2k6lo2k2lb2k2dy16dg24r2dg4k3~x2/"><circle cx="206.3" cy="145.9" r="4" fill="#3465a4"><title>Tara (District)</title></circle></a><a href="/setts/s10/lo3do4db3do3g36db11lb3r14lo21r3~x2/"><circle cx="164.8" cy="142.2" r="4" fill="#3465a4"><title>State Seal of Florida (Fashion)</title></circle></a><a href="/setts/s12/lo2g2lo1g10k6r1dy14r1dy14r1t6r2~x2/"><circle cx="243.8" cy="150.2" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting (Personal)</title></circle></a><a href="/setts/s11/o20dp2o2dp2o3dp8dg9g8y8dg1lr2~x2/"><circle cx="192.5" cy="138.0" r="4" fill="#3465a4"><title>Isle of Skye</title></circle></a><a href="/setts/s11/lo2dg24g2dg2g2o21dy2o2dy18dg3o2~x2/"><circle cx="242.6" cy="158.9" r="4" fill="#3465a4"><title>Methven</title></circle></a><circle cx="219.7" cy="105.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/g2r2g2dy14ly2r3ly1r1dg20r3ly1w2~x2/

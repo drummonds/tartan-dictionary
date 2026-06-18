@@ -133,29 +133,34 @@ article a:hover {
 /* ------- navigation -------*/
 .navigation {
   display: flex;
-  flex-wrap: nowrap;
-  justify-content: space-between;
+  flex-wrap: wrap;
   align-items: center;
+  /* Even, consistent spacing across the whole bar — gap owns all horizontal rhythm,
+     so brand | search | menu | info sit on one even cadence and items carry no
+     ad-hoc margins. flex-wrap lets the collapse panel drop to its own row on mobile. */
+  gap: 1.25rem;
   line-height: 1.5;
   border-bottom: 1px solid var(--light-gray-color);
 }
 
-.nav-left {
+/* search + main menu + right menu: one even row on desktop, a stacked column on mobile. */
+.nav-collapse {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   align-items: center;
+  gap: 1.25rem;
 }
 
 .nav-item {
   padding: 1px;
-  margin: .35em;
+  margin: 0;
   white-space: nowrap;
 }
 
 .nav-item a {
   font-size: 1.2em;
   padding: 1px;
-  margin: .35em;
+  margin: 0;
 }
 
 .nav-title {
@@ -172,6 +177,9 @@ article a:hover {
 }
 
 .nav-menu {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
   margin-left: 0;
 }
 /* ------- navigation end -------*/

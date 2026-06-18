@@ -1,0 +1,49 @@
+---
+title: "Pille Family (Personal)"
+date: 2023-03-18
+---
+**Bands:** [RGWGRGWWYWYWY](/stripes/rgwgrgwwywywy/) · **Stripes:** [R G W G R G W LB LG LB LY LB LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G W G R G W LB LG LB LY LB LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10345/
+
+## Thread count
+R/8 G2 W10 G2 R4 G2 W10 LB8 B40 LB16 Y4 LB16 Y/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#48A4C0;"><span style="color:#48A4C0;filter:grayscale(1) invert(1) contrast(100);">#48A4C0</span></code> `#48A4C0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.29 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Manchester Blues Modern](/setts/s11/lb26w9k2w2lb2w2o11w8ly2o2r2~x2/) — ΔT 1.45
+1. [Diana Princess of Wales Mem. (Commem](/setts/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/) — ΔT 1.48
+1. [Manchester Blues Dress (Comm)](/setts/s11/w26lb9k2lb2w2lb2o11lb8ly2o2r2~x2/) — ΔT 1.50
+1. [Highlands of Haliburton Dress (Dist.](/setts/s15/lg4w2lg1w14r2do4lg8g4w2lg3lo2g2do2w2lo2~x2/) — ΔT 1.54
+1. [Morgan in Maryland (USA)](/setts/s9/db4k1lg18y2lg11y11lb18k1r4~x2/) — ΔT 1.57
+1. [Manchester Blues Modern](/setts/s11/lb26w9k2w2lb2w2lr11w8ly2lr2r2~x2/) — ΔT 1.58
+1. [Pille Family (Belgium) (Personal)](/setts/s13/lo4dt8lo2dt8lg20dt4w5g1r2g1w5g1r4~x2/) — ΔT 1.58
+1. [Bouguet, Adrian Dress (Personal)](/setts/s11/lb16g5lr20lb3g3lb3lr4y14lr2lb2r1~x2/) — ΔT 1.59
+1. [Forfar District Tartan Tartan Number: 6238. Earliest known date: 01/03/2004 Designed by Arthur Mackie of The Strathmore Woollen Co. Ltd of Forfar which is the county town of Angus in Scotland. Historically Forfar has royal connections with King Malcolm II and III, Alexander II and III and King Robert the Bruce, all of whom favoured the town which resulted in Forfar being created as a Royal Burgh in the mid 12th century. The colours of the tartan are from the Coat of Arms displayed in the Council Chambers and the tartan has been approved by the town's Community Council. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/t3ly1t23w20lo1w4b22t4b4r1b4t4b22w4lo1w20t23ly1~x2/) — ΔT 1.60
+1. [Manchester Blues Dress](/setts/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/) — ΔT 1.60
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lb26w9k2w2lb2w2o11w8ly2o2r2~x2/"><circle cx="191.9" cy="108.5" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/setts/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="130.9" cy="101.2" r="4" fill="#3465a4"><title>Diana Princess of Wales Mem. (Commem</title></circle></a><a href="/setts/s11/w26lb9k2lb2w2lb2o11lb8ly2o2r2~x2/"><circle cx="189.4" cy="105.6" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/setts/s15/lg4w2lg1w14r2do4lg8g4w2lg3lo2g2do2w2lo2~x2/"><circle cx="119.7" cy="102.6" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress (Dist.</title></circle></a><a href="/setts/s9/db4k1lg18y2lg11y11lb18k1r4~x2/"><circle cx="171.9" cy="127.3" r="4" fill="#3465a4"><title>Morgan in Maryland (USA)</title></circle></a><a href="/setts/s11/lb26w9k2w2lb2w2lr11w8ly2lr2r2~x2/"><circle cx="193.6" cy="110.9" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/setts/s13/lo4dt8lo2dt8lg20dt4w5g1r2g1w5g1r4~x2/"><circle cx="122.8" cy="92.8" r="4" fill="#3465a4"><title>Pille Family (Belgium) (Personal)</title></circle></a><a href="/setts/s11/lb16g5lr20lb3g3lb3lr4y14lr2lb2r1~x2/"><circle cx="194.4" cy="126.3" r="4" fill="#3465a4"><title>Bouguet, Adrian Dress (Personal)</title></circle></a><a href="/setts/s18/t3ly1t23w20lo1w4b22t4b4r1b4t4b22w4lo1w20t23ly1~x2/"><circle cx="171.3" cy="82.7" r="4" fill="#3465a4"><title>Forfar District Tartan Tartan Number: 6238. Earliest known date: 01/03/2004 Designed by Arthur Mackie of The Strathmore Woollen Co. Ltd of Forfar which is the county town of Angus in Scotland. Historically Forfar has royal connections with King Malcolm II and III, Alexander II and III and King Robert the Bruce, all of whom favoured the town which resulted in Forfar being created as a Royal Burgh in the mid 12th century. The colours of the tartan are from the Coat of Arms displayed in the Council Chambers and the tartan has been approved by the town's Community Council. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/"><circle cx="189.3" cy="106.0" r="4" fill="#3465a4"><title>Manchester Blues Dress</title></circle></a><circle cx="138.2" cy="100.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/ly4lb8ly2lb8lg20lb4w5g1r2g1w5g1r4~x2/

@@ -5,12 +5,14 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#82D67A;border:1px solid #0003;flex:none"></span><div><strong>Lime</strong> · code <code>LG</code> · Human Palette · ref <code>32-06-142</code><br>sRGB <code>#82D67A</code> · OKLab L 0.801 a -0.119 b +0.092 · grid <code>32-06-142</code></div></div>
 
+Lime — a light green.
+
 The nearest named colour is **Lemon** (Human Palette), 0.120 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#DCBC32;"><span style="color:#DCBC32;filter:grayscale(1) invert(1) contrast(100);">#DCBC32</span></code> | [Lemon](/colour/named/human-palette-ly/) | LY | Human Palette | 0.120 |
-| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lbg/) | LBG | Human Palette | 0.132 |
+| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lt/) | LT | Human Palette | 0.132 |
 | <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | [Yellow](/colour/named/base-six-y/) | Y | Base Six | 0.146 |
 | <code style="background-color:#B5BBDE;"><span style="color:#B5BBDE;filter:grayscale(1) invert(1) contrast(100);">#B5BBDE</span></code> | [Sky](/colour/named/human-palette-lb/) | LB | Human Palette | 0.189 |
 | <code style="background-color:#FF9C34;"><span style="color:#FF9C34;filter:grayscale(1) invert(1) contrast(100);">#FF9C34</span></code> | [Peach](/colour/named/human-palette-lo/) | LO | Human Palette | 0.202 |

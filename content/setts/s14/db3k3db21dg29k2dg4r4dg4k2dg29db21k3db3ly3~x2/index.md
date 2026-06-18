@@ -1,0 +1,55 @@
+---
+title: "Peter of Lee (Chief) (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BKBGKGRGKGBKBY](/stripes/bkbgkgrgkgbkby/) · **Stripes:** [DB K DB DG K DG R DG K DG DB K DB LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K DB DG K DG R DG K DG DB K DB LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3329
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3329](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3329)
+- Scottish Tartans Authority (ITI): 5507
+
+## Thread count
+DB/6 K6 DB42 DG58 K4 DG8 R8 DG8 K4 DG58 DB42 K6 DB6 Y/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Los Angeles Police Bagpipe Band](/setts/s12/ly2g6db6dt4db4dt28db4dt4db6g15dt6r2~x2/) — ΔT 0.77
+1. [Kilkenny, County](/setts/s12/dg27o2db25lo5dg3o3dg3lo5db25o2dg27dr4~x2/) — ΔT 0.83
+1. [Shadow Halls](/setts/s15/b1db4k11db1k1db1k1b1k11n4y1n8k7db8k1~x4/) — ΔT 1.11
+1. [Jones of Wales](/setts/s18/dg46db17dg5db7dg7t15db3t3db6t3db3t15dg7db7dg5db17dg46dg4/) — ΔT 1.13
+1. [Angove, the Black Swan](/setts/s15/db18dp2k2db2dp2k1db2k8g1ly1g6k8db14k2g2~x2/) — ΔT 1.14
+1. [Jones (Welsh Name)](/setts/s10/db6t3db3t15dg7db7dg5db17dg46dg4/) — ΔT 1.19
+1. [Leith](/setts/s13/b5k2b17db3b3db22b3dg22b3db3b27k2r4~x2/) — ΔT 1.21
+1. [Hardie](/setts/s10/dg9w2dg24dt37r3dt37dg24w2dg9m4~x2/) — ΔT 1.21
+1. [Evans (Welsh Name)](/setts/s11/r2k3dt30k2dt4k2dt30k36r30k2t2/) — ΔT 1.22
+1. [Lawtie (Personal)](/setts/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/) — ΔT 1.23
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly2g6db6dt4db4dt28db4dt4db6g15dt6r2~x2/"><circle cx="289.4" cy="181.4" r="4" fill="#3465a4"><title>Los Angeles Police Bagpipe Band</title></circle></a><a href="/setts/s12/dg27o2db25lo5dg3o3dg3lo5db25o2dg27dr4~x2/"><circle cx="289.1" cy="180.1" r="4" fill="#3465a4"><title>Kilkenny, County</title></circle></a><a href="/setts/s15/b1db4k11db1k1db1k1b1k11n4y1n8k7db8k1~x4/"><circle cx="293.6" cy="180.5" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/setts/s18/dg46db17dg5db7dg7t15db3t3db6t3db3t15dg7db7dg5db17dg46dg4/"><circle cx="348.6" cy="174.6" r="4" fill="#3465a4"><title>Jones of Wales</title></circle></a><a href="/setts/s15/db18dp2k2db2dp2k1db2k8g1ly1g6k8db14k2g2~x2/"><circle cx="302.4" cy="145.2" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/setts/s10/db6t3db3t15dg7db7dg5db17dg46dg4/"><circle cx="349.4" cy="198.1" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/setts/s13/b5k2b17db3b3db22b3dg22b3db3b27k2r4~x2/"><circle cx="294.8" cy="176.4" r="4" fill="#3465a4"><title>Leith</title></circle></a><a href="/setts/s10/dg9w2dg24dt37r3dt37dg24w2dg9m4~x2/"><circle cx="353.4" cy="200.0" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/setts/s11/r2k3dt30k2dt4k2dt30k36r30k2t2/"><circle cx="308.9" cy="167.2" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/setts/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/"><circle cx="271.0" cy="206.8" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><circle cx="331.1" cy="172.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/

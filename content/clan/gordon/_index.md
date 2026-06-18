@@ -6,11 +6,11 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s12/b5k1b1k1b1k4g5y1g5k4b6k1~b2c4084-g005020-k101010-ye8c000~x4/"><img src="/setts/s12/b5k1b1k1b1k4g5y1g5k4b6k1~b2c4084-g005020-k101010-ye8c000~x4/sett.png" alt="Gordon" width="240"><br>Gordon</a>
+<a class="tartan" href="/setts/s12/db5k1db1k1db1k4dg5ly1dg5k4db6k1~x4/"><img src="/setts/s12/db5k1db1k1db1k4dg5ly1dg5k4db6k1~x4/sett.png" alt="Gordon" width="240"><br>Gordon</a>
 
 ## Families
 
-- [Gordon of Abergeldie](/clan/gordon/abergeldie/)
-- [Gordon of Esselmont](/clan/gordon/esselmont/)
-- [Gordon of Esslemont](/clan/gordon/esslemont/)
+- [Gordon of Abergeldie](/families/gordon-of-abergeldie/)
+- [Gordon of Esselmont](/families/gordon-of-esselmont/)
+- [Gordon of Esslemont](/families/gordon-of-esslemont/)
 

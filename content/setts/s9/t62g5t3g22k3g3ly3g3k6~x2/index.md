@@ -1,0 +1,47 @@
+---
+title: "Oliver Hunting - 1973 (Clan)"
+date: 2023-03-18
+---
+**Bands:** [BGBGKGYGK](/stripes/bgbgkgygk/) · **Stripes:** [T G T G K G LY G K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">T G T G K G LY G K</span></span>
+
+
+This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/126/
+
+## Thread count
+B/124 G10 B6 G44 K6 G6 Y6 G6 K/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| G | <code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> `#408060` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Greenlaw, American (Name)](/setts/s8/b46r2b3r2b14g38k3g4~x2/) — ΔT 1.10
+1. [International Cricket Council](/setts/s13/b33db4b3db4b7dg2b2dg2b2dg16r2dg2r2~x2/) — ΔT 1.23
+1. [Strathdee (Personal)](/setts/s10/g25b10w1b5w1b10g25r1g3r2~x2/) — ΔT 1.33
+1. [Leblant-Macqueron (Personal)](/setts/s7/lb5dy6w2g7w2b44w2~x2/) — ΔT 1.50
+1. [Norris Hunting](/setts/s6/k2w1o8r1t28r2~x2/) — ΔT 1.65
+1. [Murray of Elibank](/setts/s7/b64k3g14k4b4k12lo4~x2/) — ΔT 1.72
+1. [Roxburgh](/setts/s8/db16w1db1w1db8dg16r1db2~x2/) — ΔT 1.73
+1. [Oliver Hunting](/setts/s16/k6g3ly3g3k3g22t3g5t62g5t3g22k3g3ly3g3~x2/) — ΔT 1.75
+1. [Port Authority of NY & NJ](/setts/s6/t9db2t39dt33lo2dt5~x2/) — ΔT 1.76
+1. [Corries](/setts/s6/t28dt15r2dt2w1dt6~x2/) — ΔT 1.83
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b46r2b3r2b14g38k3g4~x2/"><circle cx="410.8" cy="183.2" r="4" fill="#3465a4"><title>Greenlaw, American (Name)</title></circle></a><a href="/setts/s13/b33db4b3db4b7dg2b2dg2b2dg16r2dg2r2~x2/"><circle cx="381.1" cy="155.8" r="4" fill="#3465a4"><title>International Cricket Council</title></circle></a><a href="/setts/s10/g25b10w1b5w1b10g25r1g3r2~x2/"><circle cx="440.2" cy="176.0" r="4" fill="#3465a4"><title>Strathdee (Personal)</title></circle></a><a href="/setts/s7/lb5dy6w2g7w2b44w2~x2/"><circle cx="399.8" cy="138.2" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/setts/s6/k2w1o8r1t28r2~x2/"><circle cx="454.4" cy="152.1" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/setts/s7/b64k3g14k4b4k12lo4~x2/"><circle cx="413.9" cy="161.9" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/setts/s8/db16w1db1w1db8dg16r1db2~x2/"><circle cx="399.1" cy="197.6" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s16/k6g3ly3g3k3g22t3g5t62g5t3g22k3g3ly3g3~x2/"><circle cx="341.6" cy="130.4" r="4" fill="#3465a4"><title>Oliver Hunting</title></circle></a><a href="/setts/s6/t9db2t39dt33lo2dt5~x2/"><circle cx="381.8" cy="202.8" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ</title></circle></a><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="382.0" cy="178.6" r="4" fill="#3465a4"><title>Corries</title></circle></a><circle cx="415.5" cy="158.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/t62g5t3g22k3g3ly3g3k6~x2/

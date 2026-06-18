@@ -1,0 +1,64 @@
+---
+title: "Laois County Crest (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [WKBRKRKYKYY](/stripes/wkbrkrkykyy/) · **Stripes:** [W K DB R K R K LO K LO LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K DB R K R K LO K LO LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7454/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Laois County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7454/))
+- 01/05/2005 — Laois County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5370))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5370](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5370)
+- Scottish Tartans Authority (ITI): 7454
+- Scottish Tartans World Register: 3089
+
+## Thread count
+LN/8 K8 DB16 DR34 K6 DR34 K16 DY8 K8 DY6 Y/18
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mars (Personal)](/setts/s11/r16g16r8k8ly3k3db3k3ly3r14w3~x2/) — ΔT 0.84
+1. [MacPherson #8](/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/) — ΔT 0.93
+1. [Thirkill](/setts/s9/ly4k2dg7y7r5k2r15k2w4~x2/) — ΔT 0.97
+1. [Christie](/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/) — ΔT 0.97
+1. [MacPherson 7](/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/) — ΔT 0.97
+1. [MacPherson #5](/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/) — ΔT 1.02
+1. [Kidd](/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/) — ΔT 1.03
+1. [Mars Family Tartan Tartan Number: 3817. Earliest known date: March 2002 Based on the Hay Clan tartan, red/green, with the yellow stripes of the Hay Clan Tartan encompassing dark blue to signify service to the Royal Family and Corps of Royal Engineers. The white stripe of the Hay Clan tartan to the side superimposed over black signifying Highland Regimental Military service. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r16g16r8k8lo3k3db3k3lo3r14w3~x2/) — ΔT 1.06
+1. [Christie](/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/) — ΔT 1.10
+1. [MacGuire](/setts/s14/w5k3g15r3db6r15b3r3b3r3db3r15g15k3~x2/) — ΔT 1.11
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r16g16r8k8ly3k3db3k3ly3r14w3~x2/"><circle cx="151.8" cy="173.9" r="4" fill="#3465a4"><title>Mars (Personal)</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="133.4" cy="139.3" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/setts/s9/ly4k2dg7y7r5k2r15k2w4~x2/"><circle cx="121.2" cy="157.3" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/"><circle cx="147.2" cy="133.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="116.9" cy="135.2" r="4" fill="#3465a4"><title>MacPherson 7</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="118.0" cy="141.1" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="125.4" cy="140.5" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s11/r16g16r8k8lo3k3db3k3lo3r14w3~x2/"><circle cx="164.2" cy="180.3" r="4" fill="#3465a4"><title>Mars Family Tartan Tartan Number: 3817. Earliest known date: March 2002 Based on the Hay Clan tartan, red/green, with the yellow stripes of the Hay Clan Tartan encompassing dark blue to signify service to the Royal Family and Corps of Royal Engineers. The white stripe of the Hay Clan tartan to the side superimposed over black signifying Highland Regimental Military service. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/"><circle cx="79.3" cy="139.5" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s14/w5k3g15r3db6r15b3r3b3r3db3r15g15k3~x2/"><circle cx="113.4" cy="155.5" r="4" fill="#3465a4"><title>MacGuire</title></circle></a><circle cx="107.1" cy="167.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/

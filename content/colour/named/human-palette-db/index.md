@@ -5,13 +5,15 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#082077;border:1px solid #0003;flex:none"></span><div><strong>Navy</strong> · code <code>DB</code> · Human Palette · ref <code>12-06-265</code><br>sRGB <code>#082077</code> · OKLab L 0.300 a -0.013 b -0.149 · grid <code>12-06-265</code></div></div>
 
+Navy — a dark blue, the commonest deep ground in tartan.
+
 The nearest named colour is **Blue** (Base Six), 0.103 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | [Blue](/colour/named/base-six-b/) | B | Base Six | 0.103 |
 | <code style="background-color:#4B0B4F;"><span style="color:#4B0B4F;filter:grayscale(1) invert(1) contrast(100);">#4B0B4F</span></code> | [Aubergine](/colour/named/human-palette-dp/) | DP | Human Palette | 0.140 |
-| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dbg/) | DBG | Human Palette | 0.141 |
+| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dt/) | DT | Human Palette | 0.141 |
 | <code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> | [Bottle](/colour/named/human-palette-dg/) | DG | Human Palette | 0.193 |
 | <code style="background-color:#412714;"><span style="color:#412714;filter:grayscale(1) invert(1) contrast(100);">#412714</span></code> | [Brown](/colour/named/human-palette-do/) | DO | Human Palette | 0.194 |
 | <code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> | [Olive](/colour/named/human-palette-dy/) | DY | Human Palette | 0.199 |

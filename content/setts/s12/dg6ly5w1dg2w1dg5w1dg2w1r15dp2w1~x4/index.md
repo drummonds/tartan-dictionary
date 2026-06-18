@@ -1,0 +1,55 @@
+---
+title: "Dunblane (District)"
+date: 2023-03-18
+---
+**Bands:** [GYWGWGWGWRBW](/stripes/gywgwgwgwrbw/) · **Stripes:** [DG LY W DG W DG W DG W R DP W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG LY W DG W DG W DG W R DP W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1022/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Dunblane](/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/)
+
+
+## Thread count
+G/24 Y20 LN4 G8 LN4 G20 LN4 G8 LN4 R60 DP8 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| G | <code style="background-color:#005834;"><span style="color:#005834;filter:grayscale(1) invert(1) contrast(100);">#005834</span></code> `#005834` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.06 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dunblane](/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/) — ΔT 0.00
+1. [Dunblane](/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/) — ΔT 0.81
+1. [Unnamed C18th - Pr Ch Ed Plaid?](/setts/s11/r10dg3ly3w1k2w1ly3dg12w2r3w1~x4/) — ΔT 0.85
+1. [Chattan (variation)](/setts/s16/r11k1w1dg4w1ly1r1k1r1ly1w1dg4w1k1r1ly3~x2/) — ΔT 1.10
+1. [MacDougall 10](/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/) — ΔT 1.11
+1. [Chattan](/setts/s16/r11k1w1g4w1ly1r1k1r1ly1w1g4w1k1r1ly3~x2/) — ΔT 1.13
+1. [MacKellar, dress](/setts/s11/o35w4o3ly7o3w4o7dr15y4w36y5~x2/) — ΔT 1.15
+1. [MacKellar Dress, Maroon (Dance)](/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/) — ΔT 1.18
+1. [MacLean of Duart Dress #2](/setts/s12/y12w2k4g2k3w3k3w19r30w2r4k2~x2/) — ΔT 1.19
+1. [Wilson's, No 128](/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="178.8" cy="108.6" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="180.1" cy="110.9" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s11/r10dg3ly3w1k2w1ly3dg12w2r3w1~x4/"><circle cx="143.8" cy="124.5" r="4" fill="#3465a4"><title>Unnamed C18th - Pr Ch Ed Plaid?</title></circle></a><a href="/setts/s16/r11k1w1dg4w1ly1r1k1r1ly1w1dg4w1k1r1ly3~x2/"><circle cx="171.6" cy="94.0" r="4" fill="#3465a4"><title>Chattan (variation)</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.5" cy="107.2" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s16/r11k1w1g4w1ly1r1k1r1ly1w1g4w1k1r1ly3~x2/"><circle cx="163.9" cy="93.4" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/setts/s11/o35w4o3ly7o3w4o7dr15y4w36y5~x2/"><circle cx="180.4" cy="120.2" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="189.2" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s12/y12w2k4g2k3w3k3w19r30w2r4k2~x2/"><circle cx="186.6" cy="90.4" r="4" fill="#3465a4"><title>MacLean of Duart Dress #2</title></circle></a><a href="/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="166.7" cy="118.7" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><circle cx="178.8" cy="108.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x4/

@@ -1,0 +1,49 @@
+---
+title: "MacGlashan (Clan?)"
+date: 2023-03-18
+---
+**Bands:** [RKWBWYRKRYWBKRYW](/stripes/rkwbwyrkrywbkryw/) · **Stripes:** [R K W N W LO R K R LO W B K R LO W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W N W LO R K R LO W B K R LO W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/656/
+
+## Thread count
+DR/48 K4 LN4 N12 LN4 DY4 DR4 K4 DR4 DY4 LN4 B12 K4 DR6 DY6 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2474E8;"><span style="color:#2474E8;filter:grayscale(1) invert(1) contrast(100);">#2474E8</span></code> `#2474E8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified Lindley #4](/setts/s14/w3o30k4g2db17ly3db2ly3db17g2k4o30w3o2~x2/) — ΔT 1.02
+1. [Peacock (Personal)](/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/) — ΔT 1.05
+1. [Oneness](/setts/s16/db12k2lo28k2lr2k2lo2k2lo28k2db12r12k3lo2k3r12~x2/) — ΔT 1.09
+1. [Unidentified Bedspread](/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/) — ΔT 1.11
+1. [MacDougall #11](/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/) — ΔT 1.11
+1. [Kilmorie](/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/) — ΔT 1.12
+1. [Brown of Castledean (Artefact)](/setts/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/) — ΔT 1.13
+1. [Lansdowne Course, Blairgowrie Golf Club](/setts/s11/w3r30dg3db3r3lo3db8g3lo3db3w3~x2/) — ΔT 1.13
+1. [Moir (Loch Insch) (Personal)](/setts/s15/r31g3r2g2r3g2r2g3r15k15g2t15g3t3w2~x2/) — ΔT 1.15
+1. [Wilson's No.156](/setts/s17/r30w2t4k4ly2k2w6k2t11k15ly3g20r14w4r4k2r8~x2/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w3o30k4g2db17ly3db2ly3db17g2k4o30w3o2~x2/"><circle cx="232.3" cy="81.4" r="4" fill="#3465a4"><title>Unidentified Lindley #4</title></circle></a><a href="/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="200.9" cy="106.0" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/setts/s16/db12k2lo28k2lr2k2lo2k2lo28k2db12r12k3lo2k3r12~x2/"><circle cx="172.2" cy="85.7" r="4" fill="#3465a4"><title>Oneness</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="225.8" cy="77.2" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="212.3" cy="103.2" r="4" fill="#3465a4"><title>MacDougall #11</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.2" cy="96.2" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="190.7" cy="96.4" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/setts/s11/w3r30dg3db3r3lo3db8g3lo3db3w3~x2/"><circle cx="219.6" cy="99.3" r="4" fill="#3465a4"><title>Lansdowne Course, Blairgowrie Golf Club</title></circle></a><a href="/setts/s15/r31g3r2g2r3g2r2g3r15k15g2t15g3t3w2~x2/"><circle cx="257.5" cy="95.3" r="4" fill="#3465a4"><title>Moir (Loch Insch) (Personal)</title></circle></a><a href="/setts/s17/r30w2t4k4ly2k2w6k2t11k15ly3g20r14w4r4k2r8~x2/"><circle cx="155.3" cy="85.8" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><circle cx="206.1" cy="77.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/r24k2w2n6w2lo2r2k2r2lo2w2b6k2r3lo3w2~x2/

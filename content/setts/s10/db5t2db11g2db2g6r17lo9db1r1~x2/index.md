@@ -1,0 +1,48 @@
+---
+title: "Clarks No. 1 (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [BBBGBGRYBR](/stripes/bbbgbgrybr/) · **Stripes:** [DB T DB G DB G R LO DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB T DB G DB G R LO DB R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10678/
+
+## Thread count
+DB/10 B4 DB22 G4 DB4 G12 R34 DY18 DB2 R/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| R | <code style="background-color:#CC4438;"><span style="color:#CC4438;filter:grayscale(1) invert(1) contrast(100);">#CC4438</span></code> `#CC4438` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.06 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Urquhart (Fashion)](/setts/s12/o9w2o18k3o3k3o3k12n30k6n6r6/) — ΔT 0.87
+1. [Stuart/Stewart Riding Cloak](/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/) — ΔT 0.95
+1. [Ford & Etal](/setts/s8/k3w1r16k1g21b9k6w1~x4/) — ΔT 0.97
+1. [Bush Pilot](/setts/s9/db1r20g6k6g6r1k6db20w1~x2/) — ΔT 1.02
+1. [Pope (Welsh Name)](/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/) — ΔT 1.03
+1. [Steiff](/setts/s10/r15g6db36w2k6w2g30r32k6t4/) — ΔT 1.06
+1. [MacLagan of Glenquiech](/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/) — ΔT 1.08
+1. [Forrester (Clan)](/setts/s9/ly3dg4ly1dg15r24dt15w1dt4w3~x4/) — ΔT 1.14
+1. [Forrester / Foster](/setts/s9/ly4g6ly1g15r23db15w1db6w4~x2/) — ΔT 1.16
+1. [MacPherson #9](/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o9w2o18k3o3k3o3k12n30k6n6r6/"><circle cx="194.2" cy="146.1" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/"><circle cx="174.5" cy="131.5" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/setts/s8/k3w1r16k1g21b9k6w1~x4/"><circle cx="191.4" cy="135.4" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/setts/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="179.0" cy="139.0" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/"><circle cx="203.4" cy="128.8" r="4" fill="#3465a4"><title>Pope (Welsh Name)</title></circle></a><a href="/setts/s10/r15g6db36w2k6w2g30r32k6t4/"><circle cx="158.9" cy="122.5" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.6" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s9/ly3dg4ly1dg15r24dt15w1dt4w3~x4/"><circle cx="200.2" cy="124.2" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/setts/s9/ly4g6ly1g15r23db15w1db6w4~x2/"><circle cx="161.7" cy="132.0" r="4" fill="#3465a4"><title>Forrester / Foster</title></circle></a><a href="/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/"><circle cx="162.9" cy="140.5" r="4" fill="#3465a4"><title>MacPherson #9</title></circle></a><circle cx="183.7" cy="144.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/

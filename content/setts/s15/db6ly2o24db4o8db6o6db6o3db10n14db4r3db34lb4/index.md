@@ -1,0 +1,49 @@
+---
+title: "Matchpoint Dress"
+date: 2023-03-18
+---
+**Bands:** [BYRBRBRBRBBBRBW](/stripes/byrbrbrbrbbbrbw/) · **Stripes:** [DB LY O DB O DB O DB O DB N DB R DB LB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB LY O DB O DB O DB O DB N DB R DB LB</span></span>
+
+
+This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10910/
+
+## Thread count
+DB/6 Y2 Nb24 DB4 Nb8 DB6 Nb6 DB6 Nb3 DB10 N14 DB4 R3 DB34 Na/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| Nb | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/) — ΔT 0.81
+1. [Heirloom Blue Alba](/setts/s16/t4lo2t34db10lr4db4dp4db23w3db23dp4db4lr4db10t34lo2~x2/) — ΔT 1.02
+1. [Matchpoint Hunting](/setts/s15/db6ly2g24db4g8db6g6db8g3db10n14db4r3db34lb4/) — ΔT 1.03
+1. [Cian (Carroll), Clan](/setts/s11/db16k1t1db10k4o8dp4db7t1k1lo2~x2/) — ΔT 1.04
+1. [Lambert (Front Royal) Dress](/setts/s14/t34dg10t5r2k8o2w3o2k8r2t5dg10t28k3~x2/) — ΔT 1.11
+1. [Kansai St Andrews Society](/setts/s10/db30w2r3w2db14lr3dg14db18r2db3~x2/) — ΔT 1.17
+1. [Amarillo District Tartan Tartan Number: 2190. Earliest known date: 1996 Designed for the city of Amarillo in Texas, USA, by Dr. Phil Smith, at West Chester University in Penn. The tartan has been adopted by the city authorities. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db18k2t2db9k4g9r4db9t2k2ly1~x4/) — ΔT 1.20
+1. [Japan-Scotland Society (Corporate)](/setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/) — ΔT 1.37
+1. [Meirhaeghe, Van](/setts/s12/db28k6ly2r2k6db12db5db5db5db3r8w3~x2/) — ΔT 1.38
+1. [Kirk in the Hills](/setts/s10/b16db6k1ly1k1db6b4m4k1r1~x4/) — ΔT 1.41
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/"><circle cx="247.6" cy="134.5" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/setts/s16/t4lo2t34db10lr4db4dp4db23w3db23dp4db4lr4db10t34lo2~x2/"><circle cx="233.3" cy="112.1" r="4" fill="#3465a4"><title>Heirloom Blue Alba</title></circle></a><a href="/setts/s15/db6ly2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="282.8" cy="138.8" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/setts/s11/db16k1t1db10k4o8dp4db7t1k1lo2~x2/"><circle cx="318.8" cy="152.3" r="4" fill="#3465a4"><title>Cian (Carroll), Clan</title></circle></a><a href="/setts/s14/t34dg10t5r2k8o2w3o2k8r2t5dg10t28k3~x2/"><circle cx="311.1" cy="119.2" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/setts/s10/db30w2r3w2db14lr3dg14db18r2db3~x2/"><circle cx="282.6" cy="148.6" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/setts/s11/db18k2t2db9k4g9r4db9t2k2ly1~x4/"><circle cx="296.4" cy="150.3" r="4" fill="#3465a4"><title>Amarillo District Tartan Tartan Number: 2190. Earliest known date: 1996 Designed for the city of Amarillo in Texas, USA, by Dr. Phil Smith, at West Chester University in Penn. The tartan has been adopted by the city authorities. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/"><circle cx="251.2" cy="139.8" r="4" fill="#3465a4"><title>Japan-Scotland Society (Corporate)</title></circle></a><a href="/setts/s12/db28k6ly2r2k6db12db5db5db5db3r8w3~x2/"><circle cx="268.2" cy="136.4" r="4" fill="#3465a4"><title>Meirhaeghe, Van</title></circle></a><a href="/setts/s10/b16db6k1ly1k1db6b4m4k1r1~x4/"><circle cx="241.4" cy="121.1" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><circle cx="276.8" cy="127.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/db6ly2o24db4o8db6o6db6o3db10n14db4r3db34lb4/

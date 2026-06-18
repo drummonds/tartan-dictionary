@@ -1,0 +1,15 @@
+{{/* The /stripes/ index carries its whole body in generated content — a `.band-summary` card grid of
+     slot-count links with sample swatches — so render .Content like a single page. (Previously this
+     was a date-grouped child archive with a "Stripes list" placeholder, which dropped the grid body.)
+     Mirrors clan/list.html; the per-count pages under /stripes/stripes<N>/ are leaf bundles rendered
+     by _default/single.html. */}}
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

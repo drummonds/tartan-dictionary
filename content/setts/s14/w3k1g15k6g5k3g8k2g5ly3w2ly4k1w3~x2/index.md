@@ -1,0 +1,65 @@
+---
+title: "Avalon - Calvert House"
+date: 2023-03-18
+---
+**Bands:** [WKGKGKGKGYWYKW](/stripes/wkgkgkgkgywykw/) · **Stripes:** [W K G K G K G K G LY W LY K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K G K G K G K G LY W LY K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=144
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2004 — Avalon - Calvert House (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=144))
+- 2004 Sept — Avalon - Calvert House (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6363/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [144](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=144)
+- Scottish Tartans Authority (ITI): 6363
+
+## Thread count
+W/6 K2 G30 K12 G10 K6 G16 K4 G10 Y6 W4 Y8 K2 W/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| G | <code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> `#408060` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Ga | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kerry County Crest (Fashion)](/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/) — ΔT 1.03
+1. [Avalon - Washington House](/setts/s14/w3k1o15k6o5k3o8k2o5ly3w2ly4k1w3~x2/) — ΔT 1.04
+1. [MacKenzie (MacGregor-Hastie)](/setts/s15/w10k3w3k3w3k5w5g9k1w2k1g9k10w13r2~x2/) — ΔT 1.12
+1. [New Mexico District Tartan Tartan Number: 2522. Earliest known date: 1995 The official state tartan for New Mexico which was designed in 1995 by Ralph L. Stevenson and included in his petition for the first US 'Tartan Day'. The rights of the tartan were placed in the public domain. Doubts were expressed for some time as to its perceived status but on 26th May 2003 the situation was clarified when Rebecca Vigil-Giron, Secretary of State for the State of New Mexico, issued a proclamation confirming that this was indeed the official state tartan. Woven by NGSI Woolen Mills of New Mexico. The history of the State of New Mexico Tartan began in 1995 when a wide cross section of New Mexico citizens with Scottish, Welsh, Irish, Manx, Spanish (Galician) Celtic ancestry, and Native American backgrounds gave their opinions and suggestions. The final design was created by Ralph L. Stevenson, Jr., a New Mexico citizen of Scottish descent, and woven by Jean Jones, a former Santa Fe textile artist who now resides in Asheville, North Carolina. The State Library was chosen as the permanent home for the display because of former Governor Garrey E. Carruthers' support of the New Mexico Tartan, his Scottish descent, and the naming of the library building after him approximately two years ago. Four colors are woven into the State of New Mexico Tartan -- Blue for the All Encompassing Sky, Green for the State's Plant Life and Forests, Red for the Original Cultural Providers, and Gold for the Minerals and Desert. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/ly1r1ly2db11g5db1g8r1g8db1g5db11ly2r1~x4/) — ΔT 1.16
+1. [Kerry County, Crest Range](/setts/s10/o14db5dg25db5w2dg11db7w5dg6o5~x2/) — ΔT 1.38
+1. [Livingston (Personal)](/setts/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/) — ΔT 1.39
+1. [MacDiarmid Dress](/setts/s9/w38r12w37g32k3w4k3g32r4~x2/) — ΔT 1.47
+1. [MacCarthy (Fashion?)](/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/) — ΔT 1.49
+1. [Liberty Square](/setts/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/) — ΔT 1.51
+1. [Clackson Hunting (Personal)](/setts/s13/r4db5r4db5g8ly2g24w2g8db5r4db5r4~x2/) — ΔT 1.51
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/"><circle cx="215.3" cy="178.5" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/setts/s14/w3k1o15k6o5k3o8k2o5ly3w2ly4k1w3~x2/"><circle cx="240.5" cy="141.4" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/setts/s15/w10k3w3k3w3k5w5g9k1w2k1g9k10w13r2~x2/"><circle cx="173.1" cy="147.4" r="4" fill="#3465a4"><title>MacKenzie (MacGregor-Hastie)</title></circle></a><a href="/setts/s14/ly1r1ly2db11g5db1g8r1g8db1g5db11ly2r1~x4/"><circle cx="222.0" cy="162.8" r="4" fill="#3465a4"><title>New Mexico District Tartan Tartan Number: 2522. Earliest known date: 1995 The official state tartan for New Mexico which was designed in 1995 by Ralph L. Stevenson and included in his petition for the first US 'Tartan Day'. The rights of the tartan were placed in the public domain. Doubts were expressed for some time as to its perceived status but on 26th May 2003 the situation was clarified when Rebecca Vigil-Giron, Secretary of State for the State of New Mexico, issued a proclamation confirming that this was indeed the official state tartan. Woven by NGSI Woolen Mills of New Mexico. The history of the State of New Mexico Tartan began in 1995 when a wide cross section of New Mexico citizens with Scottish, Welsh, Irish, Manx, Spanish (Galician) Celtic ancestry, and Native American backgrounds gave their opinions and suggestions. The final design was created by Ralph L. Stevenson, Jr., a New Mexico citizen of Scottish descent, and woven by Jean Jones, a former Santa Fe textile artist who now resides in Asheville, North Carolina. The State Library was chosen as the permanent home for the display because of former Governor Garrey E. Carruthers' support of the New Mexico Tartan, his Scottish descent, and the naming of the library building after him approximately two years ago. Four colors are woven into the State of New Mexico Tartan -- Blue for the All Encompassing Sky, Green for the State's Plant Life and Forests, Red for the Original Cultural Providers, and Gold for the Minerals and Desert. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o14db5dg25db5w2dg11db7w5dg6o5~x2/"><circle cx="225.8" cy="184.4" r="4" fill="#3465a4"><title>Kerry County, Crest Range</title></circle></a><a href="/setts/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/"><circle cx="272.8" cy="123.4" r="4" fill="#3465a4"><title>Livingston (Personal)</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.6" cy="162.4" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="247.8" cy="149.6" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/setts/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><circle cx="222.7" cy="145.5" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/setts/s13/r4db5r4db5g8ly2g24w2g8db5r4db5r4~x2/"><circle cx="219.0" cy="146.8" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><circle cx="236.6" cy="148.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/

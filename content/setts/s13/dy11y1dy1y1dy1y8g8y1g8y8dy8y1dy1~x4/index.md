@@ -1,0 +1,60 @@
+---
+title: "Tyneside Scottish (Green)"
+date: 2023-03-18
+---
+**Bands:** [GGGGGGGGGGGGG](/stripes/ggggggggggggg/) · **Stripes:** [DY Y DY Y DY Y G Y G Y DY Y DY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY Y DY Y DY Y G Y G Y DY Y DY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4175
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1914 — Tyneside Scottish (Green) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4175))
+- 1914 — Tyneside Scottish (Green) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5084/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4175](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4175)
+- Scottish Tartans Authority (ITI): 5084
+
+## Thread count
+T/4 LT4 T32 LT32 G32 LT4 G32 LT32 T4 LT4 T4 LT4 T/44
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LT | <code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> `#8C7038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Devarr](/setts/s14/do22y26r4y26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/) — ΔT 1.52
+1. [Devarr (Fashion)](/setts/s8/dy31do3dy3do3dy3do22y26r4~x2/) — ΔT 1.86
+1. [MacNaughton Htg](/setts/s9/dg1r1dg22dy21dg12r11dg22r1dg1~x2/) — ΔT 1.98
+1. [Prince David](/setts/s15/g3y1lo2g3y1lo2dy21g18dy2g3dy2g18dy21y1lo2~x2/) — ΔT 1.99
+1. [Nithsdale](/setts/s10/dg10r2y2r6y16r1y2r1y3r6~x4/) — ΔT 2.00
+1. [Unidentified Fragment #2](/setts/s15/dy8dg20db15dy6dg4dy8db4dy6dg20dy8db6dy4b2dy4db6/) — ΔT 2.04
+1. [Manx Centenary](/setts/s9/t22g3t3g3t3g9o28g3o6~x2/) — ΔT 2.14
+1. [Clyde](/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/) — ΔT 2.14
+1. [de Meuron (Family)](/setts/s12/y9g13dg26dy6dp5dy40dp5dy6dg26g13y9dg3~x2/) — ΔT 2.19
+1. [John Telfar Dunbar Hunting](/setts/s7/dg5k2dg28k10dy26db4dg4~x2/) — ΔT 2.24
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/do22y26r4y26do22dy3do3dy3do3dy31do3dy3do3dy3~x2/"><circle cx="330.1" cy="231.9" r="4" fill="#3465a4"><title>Devarr</title></circle></a><a href="/setts/s8/dy31do3dy3do3dy3do22y26r4~x2/"><circle cx="364.4" cy="265.6" r="4" fill="#3465a4"><title>Devarr (Fashion)</title></circle></a><a href="/setts/s9/dg1r1dg22dy21dg12r11dg22r1dg1~x2/"><circle cx="401.9" cy="242.2" r="4" fill="#3465a4"><title>MacNaughton Htg</title></circle></a><a href="/setts/s15/g3y1lo2g3y1lo2dy21g18dy2g3dy2g18dy21y1lo2~x2/"><circle cx="423.9" cy="195.9" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/setts/s10/dg10r2y2r6y16r1y2r1y3r6~x4/"><circle cx="392.1" cy="231.0" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/setts/s15/dy8dg20db15dy6dg4dy8db4dy6dg20dy8db6dy4b2dy4db6/"><circle cx="298.8" cy="264.0" r="4" fill="#3465a4"><title>Unidentified Fragment #2</title></circle></a><a href="/setts/s9/t22g3t3g3t3g9o28g3o6~x2/"><circle cx="370.9" cy="267.1" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/"><circle cx="338.4" cy="236.4" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s12/y9g13dg26dy6dp5dy40dp5dy6dg26g13y9dg3~x2/"><circle cx="276.2" cy="231.8" r="4" fill="#3465a4"><title>de Meuron (Family)</title></circle></a><a href="/setts/s7/dg5k2dg28k10dy26db4dg4~x2/"><circle cx="392.1" cy="268.8" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><circle cx="355.4" cy="261.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/

@@ -1,0 +1,27 @@
+---
+title: Pattern KBKBKYBWKWK
+date: 2023-03-18
+aliases:
+- /patterns/kbkbkybwkwk/
+---
+KBKBKYBWKWK
+
+It is a 11 band tartan.
+
+
+
+## Colour Sequence
+KBKBKYBWKWK
+
+
+## Tartans with this colour sequence
+
+
+
+### K N K N K LO N LP K W K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K N K N K LO N LP K W K</span></span>
+
+| Tartans |
+|---------------|
+| [Springbank](/setts/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/)|
+|![Springbank example sett](/setts/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/sett.png)|
+

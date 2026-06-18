@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Currie of Arran](/clan/currie/arran/)
-- [Currie of Balilone](/clan/currie/balilone/)
+- [Currie of Arran](/families/currie-of-arran/)
+- [Currie of Balilone](/families/currie-of-balilone/)
 

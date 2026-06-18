@@ -1,0 +1,64 @@
+---
+title: "Thistle Stop LLC"
+date: 2023-03-18
+---
+**Bands:** [GBRKBGGGY](/stripes/gbrkbgggy/) · **Stripes:** [G DP M K T G G G LG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="seq">G DP M K T G G G LG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4105
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2003 — Thistle Stop LLC (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4105))
+- March 2003 — Thistle Stop LLC (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5792/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4105](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4105)
+- Scottish Tartans Authority (ITI): 5792
+
+## Thread count
+Ba/32 Ga2 G2 Ga2 B48 K24 LP32 P4 Ga/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| Ba | <code style="background-color:#00B8B4;"><span style="color:#00B8B4;filter:grayscale(1) invert(1) contrast(100);">#00B8B4</span></code> `#00B8B4` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.26 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| Ga | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LP | <code style="background-color:#9C68A4;"><span style="color:#9C68A4;filter:grayscale(1) invert(1) contrast(100);">#9C68A4</span></code> `#9C68A4` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.21 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dundee Carers' Centre](/setts/s11/lp66db2lo14db2ly5p8db12g60g60lp2db25/) — ΔT 0.90
+1. [Rwanda](/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/) — ΔT 1.11
+1. [Hughes Interconnection Int. (Pers)](/setts/s9/w4k2b18ly4b18dy26g18k1m2~x2/) — ΔT 1.17
+1. [Philpotts, Brian](/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/) — ΔT 1.24
+1. [Inverclyde, Green (Corporate)](/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/) — ΔT 1.33
+1. [O'Reilly (Estimated threadcount)](/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/) — ΔT 1.35
+1. [Thousand Islands](/setts/s10/db20t8lo5k6t4r3t3y30r2t3~x2/) — ΔT 1.38
+1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/) — ΔT 1.42
+1. [Silver Wedding (Fashion)](/setts/s8/dp8n44k32lp2o53lb8n8lb4/) — ΔT 1.47
+1. [Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k3db3g15db15m5lo3ly2m1~x2/) — ΔT 1.48
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lp66db2lo14db2ly5p8db12g60g60lp2db25/"><circle cx="122.0" cy="75.1" r="4" fill="#3465a4"><title>Dundee Carers' Centre</title></circle></a><a href="/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/"><circle cx="110.5" cy="77.8" r="4" fill="#3465a4"><title>Rwanda</title></circle></a><a href="/setts/s9/w4k2b18ly4b18dy26g18k1m2~x2/"><circle cx="182.1" cy="120.3" r="4" fill="#3465a4"><title>Hughes Interconnection Int. (Pers)</title></circle></a><a href="/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/"><circle cx="89.9" cy="97.7" r="4" fill="#3465a4"><title>Philpotts, Brian</title></circle></a><a href="/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/"><circle cx="159.0" cy="96.9" r="4" fill="#3465a4"><title>Inverclyde, Green (Corporate)</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.6" cy="122.4" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><a href="/setts/s10/db20t8lo5k6t4r3t3y30r2t3~x2/"><circle cx="172.2" cy="133.9" r="4" fill="#3465a4"><title>Thousand Islands</title></circle></a><a href="/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/"><circle cx="182.5" cy="123.8" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s8/dp8n44k32lp2o53lb8n8lb4/"><circle cx="183.8" cy="124.4" r="4" fill="#3465a4"><title>Silver Wedding (Fashion)</title></circle></a><a href="/setts/s8/k3db3g15db15m5lo3ly2m1~x2/"><circle cx="118.5" cy="131.9" r="4" fill="#3465a4"><title>Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="136.3" cy="103.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/lg16g1g1g1t24k12m16dp2g2~x2/

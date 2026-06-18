@@ -1,0 +1,54 @@
+---
+title: "Norwegian Night"
+date: 2023-03-18
+---
+**Bands:** [BWRKYKWKWKY](/stripes/bwrkykwkwky/) · **Stripes:** [DB W R K LO K W K W K LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB W R K LO K W K W K LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10772
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10772](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10772)
+
+## Thread count
+DB/12 W6 R28 K6 O4 K4 W4 K76 W4 K4 O/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#271B86;"><span style="color:#271B86;filter:grayscale(1) invert(1) contrast(100);">#271B86</span></code> `#271B86` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.09 |
+| K | <code style="background-color:#120A01;"><span style="color:#120A01;filter:grayscale(1) invert(1) contrast(100);">#120A01</span></code> `#120A01` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.15 |
+| O | <code style="background-color:#EF8F06;"><span style="color:#EF8F06;filter:grayscale(1) invert(1) contrast(100);">#EF8F06</span></code> `#EF8F06` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| R | <code style="background-color:#DD1212;"><span style="color:#DD1212;filter:grayscale(1) invert(1) contrast(100);">#DD1212</span></code> `#DD1212` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.04 |
+| W | <code style="background-color:#F7F1E8;"><span style="color:#F7F1E8;filter:grayscale(1) invert(1) contrast(100);">#F7F1E8</span></code> `#F7F1E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Northern Guard Supporters](/setts/s16/k8m3k1w2o1lo1k25o2lo2k3m5k1w3lo7k1o1~x2/) — ΔT 1.02
+1. [Leando (Coldingham) Hunting (Personal)](/setts/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/) — ΔT 1.12
+1. [Westin Kierland](/setts/s8/o2k37r10db3r5ly4r3w2~x2/) — ΔT 1.20
+1. [Legion of Frontiersmen](/setts/s8/do62ly7g7r3w3db13w3r5~x2/) — ΔT 1.23
+1. [MacKeever (Personal)](/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/) — ΔT 1.24
+1. [Westin Kierland](/setts/s8/o2k37r10db3r5lo4r3w2~x2/) — ΔT 1.25
+1. [Stuart/Stewart Black #2](/setts/s13/k58db5w5k10ly3k3w3k3dg14r11k3r4w3~x2/) — ΔT 1.25
+1. [Superstition Fire Honor Guard Pipes & Drums](/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/) — ΔT 1.29
+1. [Good Conduct (USA)](/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/) — ΔT 1.30
+1. [Westin Kierland (Corporate)](/setts/s8/lb2r3ly4r5db3r10k38lo2~x2/) — ΔT 1.35
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/k8m3k1w2o1lo1k25o2lo2k3m5k1w3lo7k1o1~x2/"><circle cx="313.4" cy="74.0" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/setts/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/"><circle cx="307.4" cy="84.7" r="4" fill="#3465a4"><title>Leando (Coldingham) Hunting (Personal)</title></circle></a><a href="/setts/s8/o2k37r10db3r5ly4r3w2~x2/"><circle cx="297.5" cy="100.3" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/setts/s8/do62ly7g7r3w3db13w3r5~x2/"><circle cx="316.2" cy="91.2" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.9" cy="98.4" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s8/o2k37r10db3r5lo4r3w2~x2/"><circle cx="300.4" cy="102.1" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3dg14r11k3r4w3~x2/"><circle cx="316.0" cy="79.0" r="4" fill="#3465a4"><title>Stuart/Stewart Black #2</title></circle></a><a href="/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/"><circle cx="336.9" cy="82.7" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="304.9" cy="103.6" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><a href="/setts/s8/lb2r3ly4r5db3r10k38lo2~x2/"><circle cx="313.4" cy="108.6" r="4" fill="#3465a4"><title>Westin Kierland (Corporate)</title></circle></a><circle cx="317.7" cy="90.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/db6w3r14k3lo2k2w2k38w2k2lo2~x2/

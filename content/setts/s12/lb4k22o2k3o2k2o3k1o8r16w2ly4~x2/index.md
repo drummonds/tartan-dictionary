@@ -1,0 +1,49 @@
+---
+title: "Aberdeen Forever (District)"
+date: 2023-03-18
+---
+**Bands:** [WKRKRKRKRRWY](/stripes/wkrkrkrkrrwy/) · **Stripes:** [LB K O K O K O K O R W LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB K O K O K O K O R W LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10733/
+
+## Thread count
+LB/8 K44 N4 K6 N4 K4 N6 K2 N16 R32 LN4 Y/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Aberdeen Forever](/setts/s12/lb4k26n2k3n2k2n3k1n8r19w2ly4~x2/) — ΔT 0.51
+1. [MacLean of Duart 4](/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/) — ΔT 0.60
+1. [O'Keefe](/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/) — ΔT 0.68
+1. [MacLean of Duart 3](/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/) — ΔT 0.73
+1. [Boyd](/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/) — ΔT 0.83
+1. [Clinton Wedding](/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/) — ΔT 0.83
+1. [MacLean of Duart 1](/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/) — ΔT 0.84
+1. [MacLean of Duart #2](/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/) — ΔT 0.84
+1. [MacLean of Duart #4](/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/) — ΔT 0.89
+1. [MacLean of Duart 2](/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/) — ΔT 0.90
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lb4k26n2k3n2k2n3k1n8r19w2ly4~x2/"><circle cx="195.4" cy="66.9" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="192.9" cy="76.7" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.5" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.3" cy="94.3" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="188.1" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/"><circle cx="201.7" cy="79.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="220.6" cy="71.3" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><circle cx="176.8" cy="82.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/

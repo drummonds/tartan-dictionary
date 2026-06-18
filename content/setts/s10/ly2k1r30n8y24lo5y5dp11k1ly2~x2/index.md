@@ -1,0 +1,50 @@
+---
+title: "Guardian of Scotland, Wthd (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [YKBGYGBRKY](/stripes/ykbgygbrky/) · **Stripes:** [LY K DP Y LO Y N R K LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K DP Y LO Y N R K LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8126/
+
+## Thread count
+LGa/4 K2 DP22 LG10 LT10 LG48 N16 R60 K2 LGa/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DP | <code style="background-color:#440044;"><span style="color:#440044;filter:grayscale(1) invert(1) contrast(100);">#440044</span></code> `#440044` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LG | <code style="background-color:#608870;"><span style="color:#608870;filter:grayscale(1) invert(1) contrast(100);">#608870</span></code> `#608870` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| LGa | <code style="background-color:#C4BC68;"><span style="color:#C4BC68;filter:grayscale(1) invert(1) contrast(100);">#C4BC68</span></code> `#C4BC68` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| N | <code style="background-color:#506878;"><span style="color:#506878;filter:grayscale(1) invert(1) contrast(100);">#506878</span></code> `#506878` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| R | <code style="background-color:#C82C24;"><span style="color:#C82C24;filter:grayscale(1) invert(1) contrast(100);">#C82C24</span></code> `#C82C24` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Maciocia (Personal)](/setts/s12/y46lo8dt11y3dt3w3dt3dy16r9dt3r1w3~x2/) — ΔT 1.42
+1. [Inverclyde (Corporate)](/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/) — ΔT 1.44
+1. [Westwood (Fashion?)](/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/) — ΔT 1.45
+1. [Skye Highland Outfitters (Corporate)](/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/) — ΔT 1.45
+1. [Etienne, Paschal Tache Sir...](/setts/s8/w3o1r29o16g23db3g3ly2~x2/) — ΔT 1.48
+1. [Tache, Sir Etienne Paschal #2](/setts/s8/w3dy1r29dy16dg23db3dg3lo2~x2/) — ΔT 1.50
+1. [Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w3dy1r29dy16g23db3g3ly2~x2/) — ΔT 1.51
+1. [Ryutokukan High School (Corporate)](/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/) — ΔT 1.52
+1. [Berwick -upon-Tweed (asymmetric)](/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/) — ΔT 1.52
+1. [Stuart / Stewart, Plaid](/setts/s15/r6w2o40w2t14g14ly3w2g6p6ly2t6p30r12w2~x2/) — ΔT 1.53
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/y46lo8dt11y3dt3w3dt3dy16r9dt3r1w3~x2/"><circle cx="251.1" cy="59.3" r="4" fill="#3465a4"><title>Maciocia (Personal)</title></circle></a><a href="/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/"><circle cx="174.3" cy="86.6" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="209.1" cy="86.6" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/"><circle cx="187.4" cy="89.3" r="4" fill="#3465a4"><title>Skye Highland Outfitters (Corporate)</title></circle></a><a href="/setts/s8/w3o1r29o16g23db3g3ly2~x2/"><circle cx="230.1" cy="115.3" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/setts/s8/w3dy1r29dy16dg23db3dg3lo2~x2/"><circle cx="226.8" cy="114.3" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><a href="/setts/s8/w3dy1r29dy16g23db3g3ly2~x2/"><circle cx="228.1" cy="114.6" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.4" cy="111.7" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/"><circle cx="189.8" cy="83.7" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/setts/s15/r6w2o40w2t14g14ly3w2g6p6ly2t6p30r12w2~x2/"><circle cx="112.7" cy="70.1" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><circle cx="195.5" cy="85.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/ly2k1r30n8y24lo5y5dp11k1ly2~x2/

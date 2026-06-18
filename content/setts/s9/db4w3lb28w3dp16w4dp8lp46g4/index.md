@@ -1,0 +1,49 @@
+---
+title: "Heather (R.S.S.P.C.C.) Corporate Tartan Tartan Number: 2108. Earliest known date: 1990 The design 'Heather Tartan' has been produced at the request of the Royal Society for Prevention of Cruelty to Children, as the Society's corporate tartan. The colours of the design are taken from the Society's badge and lettrhead. Dark Pink Mix, Light Pink Mix, Kingfisher and Emerald. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BWWWBWBWG](/stripes/bwwwbwbwg/) · **Stripes:** [DB W LB W DP W DP LP G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB W LB W DP W DP LP G</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2108
+
+## Thread count
+DB/4 LN3 N28 LN3 P16 LN4 P8 LP46 G/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LP | <code style="background-color:#C49CD8;"><span style="color:#C49CD8;filter:grayscale(1) invert(1) contrast(100);">#C49CD8</span></code> `#C49CD8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.25 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Heather, (R.S.S.P.C.C.)](/setts/s9/db4w3lb28w3p16w4p8lp46g4/) — ΔT 0.13
+1. [IRPA](/setts/s11/r6t2r2t23k2r4k2b21r2b2w6~x2/) — ΔT 1.49
+1. [St. Andrews Management School](/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/) — ΔT 1.52
+1. [Kerry (WCWM)](/setts/s11/lr24b3lr8b5k3o3k3lr3k3m24o4~x2/) — ΔT 1.59
+1. [South Canterbury Jubillee (Corporate](/setts/s8/t36db5g5w2r4w2r9w22~x2/) — ΔT 1.59
+1. [Hogeboom (Toronto) (Personal)](/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/) — ΔT 1.64
+1. [Jubilee, South Canterbury Centre Piping & Dancing Association](/setts/s8/b36db5g5w2r4w2m9w22~x2/) — ΔT 1.66
+1. [Gigha, Lilac (Dance)](/setts/s8/m4g3m18dp18w18r1w2r4~x2/) — ΔT 1.69
+1. [Scotland's Charity Air Ambulance](/setts/s9/w2b27k1g3k1n10k1r24w2~x2/) — ΔT 1.69
+1. [Wcwm 1893-11](/setts/s9/dt1lr7w1o3w1o7dt4p13w1~x4/) — ΔT 1.72
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4w3lb28w3p16w4p8lp46g4/"><circle cx="185.4" cy="110.1" r="4" fill="#3465a4"><title>Heather, (R.S.S.P.C.C.)</title></circle></a><a href="/setts/s11/r6t2r2t23k2r4k2b21r2b2w6~x2/"><circle cx="169.5" cy="130.0" r="4" fill="#3465a4"><title>IRPA</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.9" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s11/lr24b3lr8b5k3o3k3lr3k3m24o4~x2/"><circle cx="181.4" cy="144.3" r="4" fill="#3465a4"><title>Kerry (WCWM)</title></circle></a><a href="/setts/s8/t36db5g5w2r4w2r9w22~x2/"><circle cx="194.7" cy="115.3" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/"><circle cx="227.7" cy="102.1" r="4" fill="#3465a4"><title>Hogeboom (Toronto) (Personal)</title></circle></a><a href="/setts/s8/b36db5g5w2r4w2m9w22~x2/"><circle cx="189.5" cy="113.5" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/setts/s8/m4g3m18dp18w18r1w2r4~x2/"><circle cx="155.9" cy="130.9" r="4" fill="#3465a4"><title>Gigha, Lilac (Dance)</title></circle></a><a href="/setts/s9/w2b27k1g3k1n10k1r24w2~x2/"><circle cx="205.4" cy="76.0" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/setts/s9/dt1lr7w1o3w1o7dt4p13w1~x4/"><circle cx="138.2" cy="135.4" r="4" fill="#3465a4"><title>Wcwm 1893-11</title></circle></a><circle cx="185.7" cy="109.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/db4w3lb28w3dp16w4dp8lp46g4/

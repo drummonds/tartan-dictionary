@@ -1,0 +1,61 @@
+---
+title: "Anderson"
+date: 2023-03-18
+---
+**Bands:** [RGRGRBRKYKYKWKWRKRWR](/stripes/rgrgrbrkykykwkwrkrwr/) · **Stripes:** [R DG R DG R DB R K LY K LY K LB K LB R K R LB R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DB R K LY K LY K LB K LB R K R LB R</span></span>
+
+
+This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
+- Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Tartans Authority (ITI): 218
+- Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1585
+- Scottish Tartans World Register: 218
+
+## Thread count
+R/8 G12 R4 G12 R6 DB8 R2 K8 Y2 K2 Y2 K6 N6 K6 N36 R2 K4 R2 N12 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#00004C;"><span style="color:#00004C;filter:grayscale(1) invert(1) contrast(100);">#00004C</span></code> `#00004C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| N | <code style="background-color:#D0D0D0;"><span style="color:#D0D0D0;filter:grayscale(1) invert(1) contrast(100);">#D0D0D0</span></code> `#D0D0D0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.12 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#FFC800;"><span style="color:#FFC800;filter:grayscale(1) invert(1) contrast(100);">#FFC800</span></code> `#FFC800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Anderson P](/setts/s21/r3dg6k1r2k1dg6db5r1k3ly1k1ly1k3lb3k3lb18k1r2k1lb6r3~x2/) — ΔT 0.38
+1. [Princess Beatrice, dress](/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x2/) — ΔT 0.69
+1. [Princess Beatrice Dress (Dance)](/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x4/) — ΔT 0.72
+1. [Princess Beatrice Dress (1880)](/setts/s19/k3r1k2r2w20db3w3r8k2r2k2r2k8g2k2g2k2g8ly2~x2/) — ΔT 0.73
+1. [Aberdeen (Johnston and Smith)](/setts/s21/k1dp4w13dp1k5dp4w1dp4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/) — ΔT 0.90
+1. [Princess Beatrice, dress](/setts/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8ly2~x2/) — ΔT 0.90
+1. [Hebridean Arisaid Red (Dance)](/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/) — ΔT 0.99
+1. [Harrods](/setts/s26/dy3do9lo2do5lo4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/) — ΔT 1.03
+1. [Aberdeen Dress (Dance)](/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/) — ΔT 1.03
+1. [MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3k4w20dy1g1w2db10r20g2k3~x2/) — ΔT 1.04
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r3dg6k1r2k1dg6db5r1k3ly1k1ly1k3lb3k3lb18k1r2k1lb6r3~x2/"><circle cx="115.5" cy="56.9" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x2/"><circle cx="88.9" cy="56.5" r="4" fill="#3465a4"><title>Princess Beatrice, dress</title></circle></a><a href="/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x4/"><circle cx="90.2" cy="57.1" r="4" fill="#3465a4"><title>Princess Beatrice Dress (Dance)</title></circle></a><a href="/setts/s19/k3r1k2r2w20db3w3r8k2r2k2r2k8g2k2g2k2g8ly2~x2/"><circle cx="96.0" cy="54.9" r="4" fill="#3465a4"><title>Princess Beatrice Dress (1880)</title></circle></a><a href="/setts/s21/k1dp4w13dp1k5dp4w1dp4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/"><circle cx="120.8" cy="53.6" r="4" fill="#3465a4"><title>Aberdeen (Johnston and Smith)</title></circle></a><a href="/setts/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8ly2~x2/"><circle cx="122.6" cy="39.3" r="4" fill="#3465a4"><title>Princess Beatrice, dress</title></circle></a><a href="/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/"><circle cx="105.8" cy="80.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s26/dy3do9lo2do5lo4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="97.0" cy="73.0" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/"><circle cx="121.1" cy="53.1" r="4" fill="#3465a4"><title>Aberdeen Dress (Dance)</title></circle></a><a href="/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3k4w20dy1g1w2db10r20g2k3~x2/"><circle cx="115.2" cy="53.7" r="4" fill="#3465a4"><title>MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="110.0" cy="62.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lb3k3lb18r1k2r1lb6r3~x2/

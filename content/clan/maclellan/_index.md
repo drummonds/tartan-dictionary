@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [MacLellan of Gartbreck](/clan/maclellan/gartbreck/)
+- [MacLellan of Gartbreck](/families/maclellan-of-gartbreck/)
 

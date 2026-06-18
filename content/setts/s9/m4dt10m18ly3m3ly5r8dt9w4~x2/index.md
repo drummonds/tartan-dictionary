@@ -1,0 +1,55 @@
+---
+title: "Khosla, Sarah and Jatin (Personal)"
+date: 2023-03-18
+---
+**Bands:** [RBRYRYRBW](/stripes/rbryryrbw/) · **Stripes:** [M DT M LY M LY R DT W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M DT M LY M LY R DT W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11164
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11164](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11164)
+
+## Thread count
+LY/8 K18 LR16 LYa10 R6 LYa6 R36 K20 P/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#1C1C1C;"><span style="color:#1C1C1C;filter:grayscale(1) invert(1) contrast(100);">#1C1C1C</span></code> `#1C1C1C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| LR | <code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> `#E87878` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| LY | <code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> `#F8F4D0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.05 |
+| LYa | <code style="background-color:#F8E38C;"><span style="color:#F8E38C;filter:grayscale(1) invert(1) contrast(100);">#F8E38C</span></code> `#F8E38C` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.11 |
+| P | <code style="background-color:#B458AC;"><span style="color:#B458AC;filter:grayscale(1) invert(1) contrast(100);">#B458AC</span></code> `#B458AC` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.20 |
+| R | <code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> `#A00048` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Victoria (Patons)](/setts/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/) — ΔT 1.16
+1. [Raytheon](/setts/s8/k14w2k3o14lb6r14k2r3~x2/) — ΔT 1.23
+1. [Culloden](/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/) — ΔT 1.29
+1. [MacEochaidh (Personal)](/setts/s13/r5r1db1r3r1db2r5r4db4g3k3g3ly3~x4/) — ΔT 1.30
+1. [Casey (Personal)](/setts/s7/r5t2p16k13ly13k2w3~x2/) — ΔT 1.31
+1. [Wombles](/setts/s9/w4db8w1db1r6db3r6db1w4~x2/) — ΔT 1.32
+1. [Humming Bird (Fashion)](/setts/s8/r6t3m20ly2k20w20k2w5~x2/) — ΔT 1.35
+1. [Laois County Crest (Fashion)](/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/) — ΔT 1.35
+1. [Galvez-Brown](/setts/s7/db36ly5r12r9dp5w12ly7~x2/) — ΔT 1.35
+1. [Unidentified No 14](/setts/s9/r22t6db10ly4r4w4dg22db8ly3/) — ΔT 1.39
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/"><circle cx="26.0" cy="151.6" r="4" fill="#3465a4"><title>Victoria (Patons)</title></circle></a><a href="/setts/s8/k14w2k3o14lb6r14k2r3~x2/"><circle cx="107.8" cy="179.0" r="4" fill="#3465a4"><title>Raytheon</title></circle></a><a href="/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/"><circle cx="43.5" cy="144.3" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/setts/s13/r5r1db1r3r1db2r5r4db4g3k3g3ly3~x4/"><circle cx="14.0" cy="178.3" r="4" fill="#3465a4"><title>MacEochaidh (Personal)</title></circle></a><a href="/setts/s7/r5t2p16k13ly13k2w3~x2/"><circle cx="62.7" cy="159.1" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/setts/s9/w4db8w1db1r6db3r6db1w4~x2/"><circle cx="47.7" cy="167.9" r="4" fill="#3465a4"><title>Wombles</title></circle></a><a href="/setts/s8/r6t3m20ly2k20w20k2w5~x2/"><circle cx="91.1" cy="133.2" r="4" fill="#3465a4"><title>Humming Bird (Fashion)</title></circle></a><a href="/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/"><circle cx="107.1" cy="167.5" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/setts/s7/db36ly5r12r9dp5w12ly7~x2/"><circle cx="111.4" cy="150.6" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/setts/s9/r22t6db10ly4r4w4dg22db8ly3/"><circle cx="87.9" cy="161.2" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><circle cx="62.2" cy="165.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/m4dt10m18ly3m3ly5r8dt9w4~x2/

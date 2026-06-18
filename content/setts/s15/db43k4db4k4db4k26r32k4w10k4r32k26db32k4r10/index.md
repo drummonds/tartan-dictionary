@@ -1,0 +1,53 @@
+---
+title: "Clan Pipers Frankfurt and District Pipe Band"
+date: 2023-03-18
+---
+**Bands:** [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/) · **Stripes:** [DB K DB K DB K R K W K R K DB K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB K R K W K R K DB K R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10447
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10447](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10447)
+
+## Thread count
+DB/43 K4 DB4 K4 DB4 K26 R32 K4 W10 K4 R32 K26 DB32 K4 R/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000080;"><span style="color:#000080;filter:grayscale(1) invert(1) contrast(100);">#000080</span></code> `#000080` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Duchess of Kent](/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/) — ΔT 1.05
+1. [MacLachlan 1](/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/) — ΔT 1.06
+1. [Frankfurt & Disttrict P & D (Corpora](/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/) — ΔT 1.14
+1. [MacLachlan #3](/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/) — ΔT 1.20
+1. [American Bi-Centennial](/setts/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/) — ΔT 1.21
+1. [MacLachlan #2](/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/) — ΔT 1.25
+1. [Royal Canadian Air Force #3](/setts/s18/r4k8r3k6r3k4r3k2r4k2w3k2t16k1r4k1t8r4~x2/) — ΔT 1.28
+1. [Royal Canadian Air Force](/setts/s18/m4lb6k1m2k1lb14k3lb3k2m2k2m2db4m2db6m2db6m2~x2/) — ΔT 1.29
+1. [MacLachlan](/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2/) — ΔT 1.30
+1. [Bonner, (Bonnar)](/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.6" cy="154.2" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="176.1" cy="154.6" r="4" fill="#3465a4"><title>MacLachlan 1</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.2" cy="162.7" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/"><circle cx="134.0" cy="135.3" r="4" fill="#3465a4"><title>American Bi-Centennial</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/"><circle cx="175.3" cy="180.6" r="4" fill="#3465a4"><title>MacLachlan #2</title></circle></a><a href="/setts/s18/r4k8r3k6r3k4r3k2r4k2w3k2t16k1r4k1t8r4~x2/"><circle cx="165.5" cy="133.0" r="4" fill="#3465a4"><title>Royal Canadian Air Force #3</title></circle></a><a href="/setts/s18/m4lb6k1m2k1lb14k3lb3k2m2k2m2db4m2db6m2db6m2~x2/"><circle cx="135.6" cy="125.3" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2/"><circle cx="158.5" cy="179.7" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><circle cx="157.3" cy="148.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/

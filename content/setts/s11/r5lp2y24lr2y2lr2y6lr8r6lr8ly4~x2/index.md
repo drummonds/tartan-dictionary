@@ -1,0 +1,56 @@
+---
+title: "Tasmanian"
+date: 2023-03-18
+---
+**Bands:** [RWGYGYGYRYY](/stripes/rwgygygyryy/) · **Stripes:** [R LP Y LR Y LR Y LR R LR LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LP Y LR Y LR Y LR R LR LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4078
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4078](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4078)
+- Scottish Tartans Authority (ITI): 2498
+- Scottish Tartans World Register: 2498
+
+## Thread count
+DR/10 LR4 LT48 N4 LT4 N4 LT12 N16 DR12 N16 LG/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#901C38;"><span style="color:#901C38;filter:grayscale(1) invert(1) contrast(100);">#901C38</span></code> `#901C38` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+| LG | <code style="background-color:#C4BC68;"><span style="color:#C4BC68;filter:grayscale(1) invert(1) contrast(100);">#C4BC68</span></code> `#C4BC68` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+| LR | <code style="background-color:#F4C4C4;"><span style="color:#F4C4C4;filter:grayscale(1) invert(1) contrast(100);">#F4C4C4</span></code> `#F4C4C4` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.13 |
+| LT | <code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> `#8C7038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| N | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Harmony 5](/setts/s12/g9r3g4o3g3o4g3dp11o30r3o4g3~x2/) — ΔT 1.15
+1. [Dorcas (Fashion)](/setts/s12/o4lb2o2lb3o26dt6g3dt2g2dt2g20r4~x2/) — ΔT 1.37
+1. [Rikaco Eve (Fashion)](/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/) — ΔT 1.40
+1. [Commonwealth Games - 2014](/setts/s11/g28lo18db4lo18r3r2r3r2r3r2r3~x2/) — ΔT 1.52
+1. [Tasmanian](/setts/s11/ly2y4m3y4dg3y1dg1y1dg12lr1m2~x4/) — ΔT 1.56
+1. [Unidentified from Winnipeg](/setts/s8/o24lo8dr2lo8dr2lo8o15g2~x2/) — ΔT 1.58
+1. [Lander (2013)](/setts/s15/lo18do3lo3do3lo3do16y16r2ly2r2y16do16lo17do3lo3~x2/) — ΔT 1.61
+1. [Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lb4n2lb18r2n5o16r2o2r2o2~x2/) — ΔT 1.61
+1. [Moncton, City of](/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/) — ΔT 1.65
+1. [Satisfashion Argyll (Corporate)](/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/) — ΔT 1.66
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g9r3g4o3g3o4g3dp11o30r3o4g3~x2/"><circle cx="271.7" cy="174.6" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><a href="/setts/s12/o4lb2o2lb3o26dt6g3dt2g2dt2g20r4~x2/"><circle cx="269.6" cy="152.8" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/"><circle cx="356.4" cy="164.6" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/setts/s11/g28lo18db4lo18r3r2r3r2r3r2r3~x2/"><circle cx="253.5" cy="138.8" r="4" fill="#3465a4"><title>Commonwealth Games - 2014</title></circle></a><a href="/setts/s11/ly2y4m3y4dg3y1dg1y1dg12lr1m2~x4/"><circle cx="268.5" cy="168.3" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/setts/s8/o24lo8dr2lo8dr2lo8o15g2~x2/"><circle cx="230.8" cy="187.5" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/setts/s15/lo18do3lo3do3lo3do16y16r2ly2r2y16do16lo17do3lo3~x2/"><circle cx="222.4" cy="189.6" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/setts/s10/lb4n2lb18r2n5o16r2o2r2o2~x2/"><circle cx="263.9" cy="186.8" r="4" fill="#3465a4"><title>Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/"><circle cx="257.2" cy="208.5" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/"><circle cx="303.8" cy="147.3" r="4" fill="#3465a4"><title>Satisfashion Argyll (Corporate)</title></circle></a><circle cx="293.4" cy="176.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/

@@ -1,0 +1,66 @@
+---
+title: "Shiel, Claret (Dance)"
+date: 2023-03-18
+---
+**Bands:** [BRWRBRW](/stripes/brwrbrw/) · **Stripes:** [DB R W R DP R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R W R DP R W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7574/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Shiel, Claret (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7574/))
+- undated — Shiel Claret (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5598))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5598](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5598)
+- Scottish Tartans Authority (ITI): 7574
+
+## Thread count
+DB/4 DRa4 W60 DR48 DP20 DRa10 W/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DP | <code style="background-color:#500050;"><span style="color:#500050;filter:grayscale(1) invert(1) contrast(100);">#500050</span></code> `#500050` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| DR | <code style="background-color:#A40000;"><span style="color:#A40000;filter:grayscale(1) invert(1) contrast(100);">#A40000</span></code> `#A40000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
+| DRa | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| W | <code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> `#F0E0C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/4 DRa4 W60 DR48 DP20 DRa10 W/16 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lennox, dress](/setts/s7/r8p2r24db5w26o2w8~x2/) — ΔT 0.79
+1. [Etive, Burgundy (Dance)](/setts/s9/r15r1lg3k1w11r3lg3r3w1~x4/) — ΔT 0.82
+1. [Lennox Dress](/setts/s7/r8dp2r24db5w26dy2w8~x2/) — ΔT 0.91
+1. [Hearts Football Club (Corporate)](/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/) — ΔT 1.15
+1. [Rose, White dress](/setts/s6/r32db6k6g6w18k3/) — ΔT 1.16
+1. [Drummond of Perth Dress #2](/setts/s9/r41ly3y7db3w24r10y7db7w3~x2/) — ΔT 1.19
+1. [MacKellar Dress Red Fashion Tartan Tartan Number: 6563. Earliest known date: 01/01/2002 The Mackellar Dress sett was originally designed by AA Bottomley of Peter MacArthur's. The colours of this version have been changed (presumably by DC Dalgliesh of Selkirk) to produce a Dancers' tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r23w2r3p4r3w2r5k11r2w23k3~x2/) — ΔT 1.25
+1. [Lennox, dress](/setts/s7/r8p2r24p5w25o2w8~x2/) — ΔT 1.26
+1. [Rose White Dress](/setts/s6/r24n4k4g4w13k2~x4/) — ΔT 1.26
+1. [Nesbit, Rose](/setts/s6/r6lb3r37k16lb16g4~x2/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r8p2r24db5w26o2w8~x2/"><circle cx="233.4" cy="141.4" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/setts/s9/r15r1lg3k1w11r3lg3r3w1~x4/"><circle cx="205.4" cy="114.9" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/setts/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="234.7" cy="140.0" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="212.5" cy="125.4" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/setts/s6/r32db6k6g6w18k3/"><circle cx="180.5" cy="154.9" r="4" fill="#3465a4"><title>Rose, White dress</title></circle></a><a href="/setts/s9/r41ly3y7db3w24r10y7db7w3~x2/"><circle cx="245.7" cy="122.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><a href="/setts/s11/r23w2r3p4r3w2r5k11r2w23k3~x2/"><circle cx="188.0" cy="110.3" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan Tartan Number: 6563. Earliest known date: 01/01/2002 The Mackellar Dress sett was originally designed by AA Bottomley of Peter MacArthur's. The colours of this version have been changed (presumably by DC Dalgliesh of Selkirk) to produce a Dancers' tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r8p2r24p5w25o2w8~x2/"><circle cx="250.3" cy="158.6" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/setts/s6/r24n4k4g4w13k2~x4/"><circle cx="202.4" cy="151.5" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="267.2" cy="172.2" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><circle cx="212.0" cy="131.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/w8r5dp10r24w30r2db2~x2/

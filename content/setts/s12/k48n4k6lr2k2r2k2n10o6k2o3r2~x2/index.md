@@ -1,0 +1,55 @@
+---
+title: "Glen Ross (WCWM - 2)"
+date: 2023-03-18
+---
+**Bands:** [KBKYKRKBRKRR](/stripes/kbkykrkbrkrr/) · **Stripes:** [K N K LR K R K N O K O R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">K N K LR K R K N O K O R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1396
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1396](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1396)
+- Scottish Tartans Authority (ITI): 5022
+
+## Thread count
+DR/4 LT6 K4 LT12 N20 K4 DR4 K4 Na4 K12 N8 K/96
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LT | <code style="background-color:#B07430;"><span style="color:#B07430;filter:grayscale(1) invert(1) contrast(100);">#B07430</span></code> `#B07430` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.16 |
+| N | <code style="background-color:#606060;"><span style="color:#606060;filter:grayscale(1) invert(1) contrast(100);">#606060</span></code> `#606060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#ACACAC;"><span style="color:#ACACAC;filter:grayscale(1) invert(1) contrast(100);">#ACACAC</span></code> `#ACACAC` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.19 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Langtree](/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/) — ΔT 0.82
+1. [Stewart, Black ground](/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/) — ΔT 1.10
+1. [Braveheart - ( Warrior)](/setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/) — ΔT 1.11
+1. [Calgary HOG](/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/) — ΔT 1.38
+1. [Grey Spencer Plaid](/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/) — ΔT 1.42
+1. [Valdres, Kvam and Vang](/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/) — ΔT 1.42
+1. [Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k65dy9r11k5t2lo2lo5k2lo13~x2/) — ΔT 1.43
+1. [Clan An Caigeann (Corporate)](/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/) — ΔT 1.47
+1. [Stewart Black](/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/) — ΔT 1.49
+1. [Hawks (2014)](/setts/s10/ly2k2db3w2do3g4k50g5do3w2~x2/) — ΔT 1.49
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/"><circle cx="366.7" cy="77.2" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="396.3" cy="62.3" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/"><circle cx="334.0" cy="85.4" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/"><circle cx="398.7" cy="76.2" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.9" cy="115.7" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.9" cy="133.4" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s9/k65dy9r11k5t2lo2lo5k2lo13~x2/"><circle cx="349.2" cy="78.8" r="4" fill="#3465a4"><title>Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/"><circle cx="369.6" cy="74.1" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/"><circle cx="302.9" cy="78.1" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s10/ly2k2db3w2do3g4k50g5do3w2~x2/"><circle cx="406.4" cy="81.8" r="4" fill="#3465a4"><title>Hawks (2014)</title></circle></a><circle cx="401.3" cy="94.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/

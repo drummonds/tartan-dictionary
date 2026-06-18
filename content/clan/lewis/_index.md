@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Lewis of Wales](/clan/lewis/wales/)
+- [Lewis of Wales](/families/lewis-of-wales/)
 

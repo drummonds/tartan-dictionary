@@ -1,0 +1,61 @@
+---
+title: "Schwarzen Keiler, Die"
+date: 2023-03-18
+---
+**Bands:** [GKRWKGKRWKGY](/stripes/gkrwkgkrwkgy/) · **Stripes:** [DG K R W K DG K R W K DG LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG K R W K DG K R W K DG LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10906
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 26/08/2013 — Schwarzen Keiler, Die (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10906))
+- 2013 — Schwarzen Keiler, Die (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10906/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10906](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10906)
+
+## Thread count
+DG/24 K24 R4 W4 K24 DG128 K24 R4 W4 K24 DG24 Y/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#0A2A1B;"><span style="color:#0A2A1B;filter:grayscale(1) invert(1) contrast(100);">#0A2A1B</span></code> `#0A2A1B` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.20 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFE600;"><span style="color:#FFE600;filter:grayscale(1) invert(1) contrast(100);">#FFE600</span></code> `#FFE600` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Alamudi (Corporate)](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1/) — ΔT 1.07
+1. [Glen and Son, William (Corporate)](/setts/s11/r6k3do4k10do5o3k2do31w1do2w2~x2/) — ΔT 1.24
+1. [Moran Family Ubique](/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/) — ΔT 1.29
+1. [Ataç, H.M. & I.C. (Personal)](/setts/s8/db9g5w1g15k2g1k44r1~x2/) — ΔT 1.35
+1. [The Trew 40th](/setts/s15/r4k3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/) — ΔT 1.38
+1. [Hebridean Heather](/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/) — ΔT 1.43
+1. [North Sea Oil (Fashion)](/setts/s17/k6o1n19k2do1ly1do4k28n2k4n2k1o2k1n2k1o2~x2/) — ΔT 1.45
+1. [Entier](/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/) — ΔT 1.46
+1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/) — ΔT 1.48
+1. [William Glen and Son](/setts/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/) — ΔT 1.54
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1/"><circle cx="411.1" cy="137.7" r="4" fill="#3465a4"><title>Alamudi (Corporate)</title></circle></a><a href="/setts/s11/r6k3do4k10do5o3k2do31w1do2w2~x2/"><circle cx="402.6" cy="124.2" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.6" cy="104.1" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/setts/s8/db9g5w1g15k2g1k44r1~x2/"><circle cx="402.5" cy="120.2" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/setts/s15/r4k3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/"><circle cx="358.3" cy="104.4" r="4" fill="#3465a4"><title>The Trew 40th</title></circle></a><a href="/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/"><circle cx="368.9" cy="142.2" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/setts/s17/k6o1n19k2do1ly1do4k28n2k4n2k1o2k1n2k1o2~x2/"><circle cx="360.0" cy="93.8" r="4" fill="#3465a4"><title>North Sea Oil (Fashion)</title></circle></a><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="407.0" cy="132.3" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/"><circle cx="421.2" cy="84.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/"><circle cx="378.5" cy="106.9" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="395.9" cy="123.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/dg6k6r1w1k6dg32k6r1w1k6dg6ly2~x4/

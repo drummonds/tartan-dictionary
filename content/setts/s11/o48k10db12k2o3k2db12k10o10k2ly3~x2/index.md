@@ -1,0 +1,62 @@
+---
+title: "Brooks Brothers (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [RKBKRKBKRKY](/stripes/rkbkrkbkrky/) · **Stripes:** [O K DB K O K DB K O K LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O K DB K O K DB K O K LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3735/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1996 — Brooks Brothers (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3735/))
+- undated — Brooks Brothers (WCWM) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5015))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5015](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5015)
+- Scottish Tartans Authority (ITI): 3735
+
+## Thread count
+DR/96 K20 DB24 K4 DR6 K4 DB24 K20 N20 K4 LG/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#003074;"><span style="color:#003074;filter:grayscale(1) invert(1) contrast(100);">#003074</span></code> `#003074` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.07 |
+| DR | <code style="background-color:#70000C;"><span style="color:#70000C;filter:grayscale(1) invert(1) contrast(100);">#70000C</span></code> `#70000C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.20 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LG | <code style="background-color:#9C9C00;"><span style="color:#9C9C00;filter:grayscale(1) invert(1) contrast(100);">#9C9C00</span></code> `#9C9C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Rikaco Holiday](/setts/s10/k5k5k2r47k18w2k5dg9k7w3~x2/) — ΔT 0.73
+1. [Baron of Greencastle Dress #2 (Personal)](/setts/s13/r4k2r24ly2k12db3k2db2k2db12w1db1w3~x2/) — ΔT 0.87
+1. [Ruxton](/setts/s15/r22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/) — ΔT 0.91
+1. [Kormylo (Personal)](/setts/s12/ly2r9db3dg12r2db40r2dg20db2r18db2w2~x2/) — ΔT 0.97
+1. [Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k2k28k4k1k4m16t3m2y2m3t1~x2/) — ΔT 1.02
+1. [El Dorado Hills Firefighters Pipes and Drums](/setts/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/) — ΔT 1.09
+1. [Westmeath County Crest (Fashion)](/setts/s16/r4k1db8k1lo3k2db4lo6db4w3k2db20k4r21k1lo3~x2/) — ΔT 1.09
+1. [Haileybury](/setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/) — ΔT 1.13
+1. [Sidey Dress Tartan (Name)](/setts/s10/db4w1k2db25k12b1k2r16k2lo1~x2/) — ΔT 1.16
+1. [Locky](/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k5k5k2r47k18w2k5dg9k7w3~x2/"><circle cx="278.7" cy="115.3" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/setts/s13/r4k2r24ly2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="231.4" cy="98.4" r="4" fill="#3465a4"><title>Baron of Greencastle Dress #2 (Personal)</title></circle></a><a href="/setts/s15/r22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="247.3" cy="99.1" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/setts/s12/ly2r9db3dg12r2db40r2dg20db2r18db2w2~x2/"><circle cx="249.4" cy="120.1" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/setts/s11/k2k28k4k1k4m16t3m2y2m3t1~x2/"><circle cx="253.5" cy="91.7" r="4" fill="#3465a4"><title>Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/"><circle cx="271.5" cy="90.6" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/setts/s16/r4k1db8k1lo3k2db4lo6db4w3k2db20k4r21k1lo3~x2/"><circle cx="224.1" cy="106.0" r="4" fill="#3465a4"><title>Westmeath County Crest (Fashion)</title></circle></a><a href="/setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/"><circle cx="257.4" cy="123.6" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="259.4" cy="106.0" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/"><circle cx="296.1" cy="107.3" r="4" fill="#3465a4"><title>Locky</title></circle></a><circle cx="259.5" cy="112.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/

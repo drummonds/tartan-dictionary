@@ -1,0 +1,50 @@
+---
+title: "Nor Westers Tartan Tartan Number: 1069. Earliest known date: 1963 Named after the Nor Westers Mountain Range in Ontario. Designed by Miss Evelyn B Halliday in February 1963 to commemorate the naming of the range in that year See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [KBRWGYGGK](/stripes/kbrwgyggk/) · **Stripes:** [K DB R W DY LY DY G K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB R W DY LY DY G K</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1069
+
+## Thread count
+K/2 DB6 R2 LN12 T2 Y4 T2 G30 K/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scottish Ambulance Service (Corporat](/setts/s9/lb3dg2t2dg32k2g2k12t16r3~x2/) — ΔT 1.17
+1. [Downie Dress](/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/) — ΔT 1.28
+1. [Offally County Crest (Fashion)](/setts/s11/ly24k8lp4k6g76k8w14g4k9g12lo10/) — ΔT 1.31
+1. [Webster (Name)](/setts/s10/g32r3dy12b3ly3b3lb24lb24k2lb4~x2/) — ΔT 1.35
+1. [Lyons](/setts/s10/t9db3g11k7g3k3g32r3w3r7~x2/) — ΔT 1.35
+1. [Washington](/setts/s7/w3r4db13g37b3k3ly2~x2/) — ΔT 1.36
+1. [Wcwm 972-1](/setts/s13/lb7k1do1o2g18lb2k1lo2k1lb6k1do1lb1~x4/) — ΔT 1.38
+1. [MacKellar](/setts/s11/g32w2g2ly3g2w2g2k16t2db16w3~x2/) — ΔT 1.38
+1. [Nor Westers](/setts/s9/k1g23k1ly3k1w8r1t5k1~x2/) — ΔT 1.39
+1. [Stirling, University](/setts/s9/g28r4k3y2k1dg2r3db20ly2~x2/) — ΔT 1.41
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb3dg2t2dg32k2g2k12t16r3~x2/"><circle cx="185.1" cy="104.1" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="167.1" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s11/ly24k8lp4k6g76k8w14g4k9g12lo10/"><circle cx="236.6" cy="95.1" r="4" fill="#3465a4"><title>Offally County Crest (Fashion)</title></circle></a><a href="/setts/s10/g32r3dy12b3ly3b3lb24lb24k2lb4~x2/"><circle cx="180.5" cy="98.5" r="4" fill="#3465a4"><title>Webster (Name)</title></circle></a><a href="/setts/s10/t9db3g11k7g3k3g32r3w3r7~x2/"><circle cx="149.3" cy="126.8" r="4" fill="#3465a4"><title>Lyons</title></circle></a><a href="/setts/s7/w3r4db13g37b3k3ly2~x2/"><circle cx="270.4" cy="108.2" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/setts/s13/lb7k1do1o2g18lb2k1lo2k1lb6k1do1lb1~x4/"><circle cx="197.4" cy="81.0" r="4" fill="#3465a4"><title>Wcwm 972-1</title></circle></a><a href="/setts/s11/g32w2g2ly3g2w2g2k16t2db16w3~x2/"><circle cx="186.9" cy="99.6" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s9/k1g23k1ly3k1w8r1t5k1~x2/"><circle cx="242.3" cy="83.6" r="4" fill="#3465a4"><title>Nor Westers</title></circle></a><a href="/setts/s9/g28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="216.1" cy="83.6" r="4" fill="#3465a4"><title>Stirling, University</title></circle></a><circle cx="186.9" cy="91.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/k1g15dy1ly2dy1w6r1db3k1~x2/

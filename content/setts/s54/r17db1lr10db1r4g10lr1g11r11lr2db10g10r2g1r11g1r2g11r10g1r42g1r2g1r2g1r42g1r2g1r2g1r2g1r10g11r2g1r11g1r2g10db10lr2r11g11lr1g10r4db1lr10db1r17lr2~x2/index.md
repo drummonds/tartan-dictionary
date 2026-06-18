@@ -1,0 +1,54 @@
+---
+title: "MacDonald of Staffa #6"
+date: 2023-03-18
+---
+**Bands:** [RBYBRGYGRYBGRGRGRGRGRGRGRGRGRGRGRGRGRGRGRGBYRGYGRBYBRY](/stripes/rbybrgygrybgrgrgrgrgrgrgrgrgrgrgrgrgrgrgrgbyrgygrbybry/) · **Stripes:** [R DB LR DB R G LR G R LR DB G R G R G R G R G R G R G R G R G R G R G R G R G R G R G R G DB LR R G LR G R DB LR DB R LR](/stripes/stripes54/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DB LR DB R G LR G R LR DB G R G R G R G R G R G R G R G R G R G R G R G R G R G R G R G DB LR R G LR G R DB LR DB R LR</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [54 band tartan](/bands/bands54/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5020
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5020](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5020)
+- Scottish Tartans Authority (ITI): 3295
+
+## Thread count
+DR/34 DB2 N20 DB2 DR8 G20 N2 G22 DR22 N4 DB20 G20 DR4 G2 DR22 G2 DR4 G22 DR20 G2 DR84 G2 DR4 G2 DR4 G2 DR84 G2 DR4 G2 DR4 G2 DR4 G2 DR20 G22 DR4 G2 DR22 G2 DR4 G20 DB20 N4 DR22 G22 N2 G20 DR8 DB2 N20 DB2 DR34 N/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacIntosh (Moy Hall Plaid)](/setts/s43/k72r4db4r4db4r72dg90r2k2r24db2r2db2r4db2r2db2r24k2r2dg30r26db23r26dg7r2k2r2k2r24k2r2k2r2dg7r24db24r26dg25r2k2r26db30/) — ΔT 1.59
+1. [MacGillivray](/setts/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/) — ΔT 1.76
+1. [MacIntosh, Moy Hall Plaid](/setts/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/) — ΔT 1.81
+1. [Stewart/Stuart of Appin #2](/setts/s30/g2r2t1db2r24g2r2db8r2g2r4g24r2t1db2r3db2t1r2g24r4g2r2db8r2g2r24db2t1r2~x2/) — ΔT 1.86
+1. [Hebrides North Uist](/setts/s46/db5r3w2db1w2r3g9ly2w1ly2g9r1g1r27db1r1db1r27db1r1db9w1db1w4db1w1db9r1db1r27db1r1db1r27g1r1g9ly2w1ly2g9r3w2db1w2r3~x2/) — ΔT 1.87
+1. [Unnamed C18th - Duke of Perth](/setts/s26/db30r14db2r14g20w1g2w1g20r44db4r10t1r4t1r10db4r44g20w1g2w1g20r14db2r14~x2/) — ΔT 1.92
+1. [Grant](/setts/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/) — ΔT 1.94
+1. [All Irish Red Irish District Tartan Tartan Number: 4067. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. Lochcarron sample. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/r6y2db2r30g2r2g4r2g2r1g20r1y2db2r4db2y2r1g20r1g2r2g4r2g2r30db2y2~x2/) — ΔT 1.96
+1. [Ramada Corporate Tartan Tartan Number: 6374. Earliest known date: 2004 Re-created from an artifact in the Telfer Dunbar collection at the Scottish Tartans Museum. The unusual bleaching effect that has occurred either by design or by age, has been enhanced in this new design. It is a feature often seen in silk fabrics over 200 years old. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s34/dg6r6o1dg3r54db1n1r3db16r3n1db1r6dg30r6db1n1r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6~x2/) — ΔT 1.99
+1. [MacDougall - 1970 (H of E)](/setts/s27/r5g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/) — ΔT 1.99
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s43/k72r4db4r4db4r72dg90r2k2r24db2r2db2r4db2r2db2r24k2r2dg30r26db23r26dg7r2k2r2k2r24k2r2k2r2dg7r24db24r26dg25r2k2r26db30/"><circle cx="298.6" cy="30.5" r="4" fill="#3465a4"><title>MacIntosh (Moy Hall Plaid)</title></circle></a><a href="/setts/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/"><circle cx="412.0" cy="45.5" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s43/k72r4db4r4db4r72g90r2k2r24db2r2db2r4db2r2db2r24k2r2g30r26db23r26g7r2k2r2k2r24k2r2k2r2g7r24db24r26g25r2k2r26db30/"><circle cx="280.6" cy="25.5" r="4" fill="#3465a4"><title>MacIntosh, Moy Hall Plaid</title></circle></a><a href="/setts/s30/g2r2t1db2r24g2r2db8r2g2r4g24r2t1db2r3db2t1r2g24r4g2r2db8r2g2r24db2t1r2~x2/"><circle cx="311.1" cy="76.2" r="4" fill="#3465a4"><title>Stewart/Stuart of Appin #2</title></circle></a><a href="/setts/s46/db5r3w2db1w2r3g9ly2w1ly2g9r1g1r27db1r1db1r27db1r1db9w1db1w4db1w1db9r1db1r27db1r1db1r27g1r1g9ly2w1ly2g9r3w2db1w2r3~x2/"><circle cx="316.0" cy="14.0" r="4" fill="#3465a4"><title>Hebrides North Uist</title></circle></a><a href="/setts/s26/db30r14db2r14g20w1g2w1g20r44db4r10t1r4t1r10db4r44g20w1g2w1g20r14db2r14~x2/"><circle cx="348.3" cy="60.1" r="4" fill="#3465a4"><title>Unnamed C18th - Duke of Perth</title></circle></a><a href="/setts/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/"><circle cx="370.2" cy="36.1" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s28/r6y2db2r30g2r2g4r2g2r1g20r1y2db2r4db2y2r1g20r1g2r2g4r2g2r30db2y2~x2/"><circle cx="341.7" cy="50.3" r="4" fill="#3465a4"><title>All Irish Red Irish District Tartan Tartan Number: 4067. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. Lochcarron sample. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s34/dg6r6o1dg3r54db1n1r3db16r3n1db1r6dg30r6db1n1r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3o1r6~x2/"><circle cx="456.5" cy="25.6" r="4" fill="#3465a4"><title>Ramada Corporate Tartan Tartan Number: 6374. Earliest known date: 2004 Re-created from an artifact in the Telfer Dunbar collection at the Scottish Tartans Museum. The unusual bleaching effect that has occurred either by design or by age, has been enhanced in this new design. It is a feature often seen in silk fabrics over 200 years old. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s27/r5g10r2db2r30dp3r2w1r2dp3r30db2r2g10r10g10dp4r2dp4db10r4g2r4g30r2dp3w1~x2/"><circle cx="308.3" cy="62.3" r="4" fill="#3465a4"><title>MacDougall - 1970 (H of E)</title></circle></a><circle cx="377.3" cy="43.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s54/r17db1lr10db1r4g10lr1g11r11lr2db10g10r2g1r11g1r2g11r10g1r42g1r2g1r2g1r42g1r2g1r2g1r2g1r10g11r2g1r11g1r2g10db10lr2r11g11lr1g10r4db1lr10db1r17lr2~x2/

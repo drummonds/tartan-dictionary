@@ -1,0 +1,55 @@
+---
+title: "Army Ranger"
+date: 2023-03-18
+---
+**Bands:** [BBGRWYBBW](/stripes/bbgrwybbw/) · **Stripes:** [DT DT DG R W LO DT DT W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT DT DG R W LO DT DT W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11422
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11422](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11422)
+
+## Thread count
+DB/22 K12 DG50 DR2 W4 O2 DB50 K10 W/14
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DG | <code style="background-color:#004028;"><span style="color:#004028;filter:grayscale(1) invert(1) contrast(100);">#004028</span></code> `#004028` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.13 |
+| DR | <code style="background-color:#960028;"><span style="color:#960028;filter:grayscale(1) invert(1) contrast(100);">#960028</span></code> `#960028` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| K | <code style="background-color:#1C1C1C;"><span style="color:#1C1C1C;filter:grayscale(1) invert(1) contrast(100);">#1C1C1C</span></code> `#1C1C1C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| W | <code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> `#F0E0C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified (ex Tony Murray)](/setts/s9/w2db20dg2dg2dg2dg5dg8ly2r1~x2/) — ΔT 0.94
+1. [Scotland’s Golf Coast](/setts/s9/lg2w1db16dp2db2dp3db8dg20lo2~x2/) — ΔT 0.95
+1. [Kleto, Susan (Personal)](/setts/s9/w1dt16lo1r3lo1dg6y2dg6w1~x2/) — ΔT 0.95
+1. [McMeeken (Name)](/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/) — ΔT 0.98
+1. [Tooth (Personal)](/setts/s8/y5lo1r2y25k14db19w2y4~x2/) — ΔT 1.01
+1. [Heritage Sequane](/setts/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/) — ΔT 1.09
+1. [Young](/setts/s8/db3t3g30db25dp4r3ly2dp1~x2/) — ΔT 1.09
+1. [Dodd of Branford](/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/) — ΔT 1.10
+1. [Mulcahy](/setts/s11/db66k2db10k15g15r4g15r4g30ly2w4/) — ΔT 1.11
+1. [Jones (Name)](/setts/s7/r4lb1y6g25k8db15lb2~x2/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2db20dg2dg2dg2dg5dg8ly2r1~x2/"><circle cx="237.6" cy="123.6" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/setts/s9/lg2w1db16dp2db2dp3db8dg20lo2~x2/"><circle cx="258.8" cy="135.7" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/setts/s9/w1dt16lo1r3lo1dg6y2dg6w1~x2/"><circle cx="218.5" cy="134.8" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/"><circle cx="190.4" cy="133.8" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/setts/s8/y5lo1r2y25k14db19w2y4~x2/"><circle cx="257.8" cy="137.4" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/setts/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/"><circle cx="224.0" cy="110.9" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/setts/s8/db3t3g30db25dp4r3ly2dp1~x2/"><circle cx="268.8" cy="117.2" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/"><circle cx="240.5" cy="136.2" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/setts/s11/db66k2db10k15g15r4g15r4g30ly2w4/"><circle cx="274.2" cy="102.4" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/setts/s7/r4lb1y6g25k8db15lb2~x2/"><circle cx="209.6" cy="147.0" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><circle cx="228.8" cy="135.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/dt11dt6dg25r1w2lo1dt25dt5w7~x2/

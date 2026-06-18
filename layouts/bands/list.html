@@ -1,35 +1,14 @@
-{{/* Bands summary page (/bands/, was /stripe/): the shared single-page chrome — the body is the
-     generated band-count card grid, the date moved to the footer as a "Last updated" stamp. The
-     /bands/ section is a branch (its _index.md carries the summary) over the per-count /bands/bandsN/
-     leaves, so it renders here rather than as a date-grouped archive. */}}
+{{/* The /bands/ index carries its whole body in generated content — a `.band-summary` card grid of
+     band-count links with sample swatches — so render .Content like a single page instead of the
+     date-grouped archive in _default/list.html. Mirrors clan/list.html; the per-count pages under
+     /bands/bands<N>/ are leaf bundles rendered by _default/single.html. */}}
 {{ define "main" }}
 <article class="post">
   <header class="post-header">
     <h1 style="text-align: center;">{{ .Title }}</h1>
   </header>
-
-  {{ if and .Params.toc .TableOfContents }}
-  <div class="post-toc">
-    <div class="post-toc-title">Contents</div>
-    {{ .TableOfContents }}
-  </div>
-  {{ end }}
-
   <div class="post-text">
     {{ .Content }}
-  </div>
-
-  <footer class="post-footer">
-    {{ $updated := .Lastmod | default .Date }}
-    {{ with $updated }}
-    <div class="post-metadata">
-      <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">Last updated {{ .Format "January 02, 2006" }}</time>
-    </div>
-    {{ end }}
-  </footer>
-
-  <div class="comments">
-  {{ partial "comments.html" . }}
   </div>
 </article>
 {{ end }}

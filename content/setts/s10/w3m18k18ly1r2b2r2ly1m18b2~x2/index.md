@@ -1,0 +1,49 @@
+---
+title: "Selkirk High (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [BRYRBRYKRW](/stripes/bryrbrykrw/) · **Stripes:** [B M LY R B R LY K M W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B M LY R B R LY K M W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/6846/
+
+## Thread count
+B/4 LP36 Y2 R4 B4 R4 Y2 K36 LP36 W/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LP | <code style="background-color:#9C68A4;"><span style="color:#9C68A4;filter:grayscale(1) invert(1) contrast(100);">#9C68A4</span></code> `#9C68A4` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.21 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/) — ΔT 0.76
+1. [Yukon](/setts/s10/p4db20ly1db2ly1db4ly4g4w4r4~x2/) — ΔT 0.87
+1. [Yukon (asymmetric)](/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/) — ΔT 0.92
+1. [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/) — ΔT 0.93
+1. [Saltcoats (Fashion)](/setts/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/) — ΔT 1.03
+1. [Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dp4db16ly1db1ly1db5ly4g4w4r4~x2/) — ΔT 1.06
+1. [Queens University of Ontario Corporate Tartan Tartan Number: 2103. Earliest known date: 1966 The sett of this tartan weaves together the colours of six Queen's academic hoods: blue (Medicine), red (Arts & Science), gold (Applied Science), white (Nursing Science), green (Commerce & MBA), and Purple (Theology). Among Queen's other Scottish Traditions, inherited from its Presbyterian founders and the University of Edinburgh, are its coat of arms, its Gaelic yell, kilted Queens Bands with pipers and highland dancers, the posts of Principal and Rector, and tams for freshmen. It is marketed exclusively by the Alumni Association in support of Queen's community projects. The tartan is accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db54ly9db16ly2dp3w3dp3r27db13ly3g5w2/) — ΔT 1.17
+1. [Blais](/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/) — ΔT 1.18
+1. [Hogeboom (Toronto) (Personal)](/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/) — ΔT 1.18
+1. [Yukon](/setts/s10/p4db16ly1db1ly1db5ly4g4w4r4~x2/) — ΔT 1.18
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="245.7" cy="101.9" r="4" fill="#3465a4"><title>Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/p4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="249.3" cy="103.3" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/"><circle cx="248.9" cy="104.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/"><circle cx="267.9" cy="82.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/"><circle cx="218.0" cy="113.5" r="4" fill="#3465a4"><title>Saltcoats (Fashion)</title></circle></a><a href="/setts/s10/dp4db16ly1db1ly1db5ly4g4w4r4~x2/"><circle cx="199.0" cy="116.7" r="4" fill="#3465a4"><title>Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db54ly9db16ly2dp3w3dp3r27db13ly3g5w2/"><circle cx="312.2" cy="77.8" r="4" fill="#3465a4"><title>Queens University of Ontario Corporate Tartan Tartan Number: 2103. Earliest known date: 1966 The sett of this tartan weaves together the colours of six Queen's academic hoods: blue (Medicine), red (Arts &amp; Science), gold (Applied Science), white (Nursing Science), green (Commerce &amp; MBA), and Purple (Theology). Among Queen's other Scottish Traditions, inherited from its Presbyterian founders and the University of Edinburgh, are its coat of arms, its Gaelic yell, kilted Queens Bands with pipers and highland dancers, the posts of Principal and Rector, and tams for freshmen. It is marketed exclusively by the Alumni Association in support of Queen's community projects. The tartan is accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/"><circle cx="283.6" cy="95.1" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/"><circle cx="227.7" cy="102.1" r="4" fill="#3465a4"><title>Hogeboom (Toronto) (Personal)</title></circle></a><a href="/setts/s10/p4db16ly1db1ly1db5ly4g4w4r4~x2/"><circle cx="202.4" cy="118.0" r="4" fill="#3465a4"><title>Yukon</title></circle></a><circle cx="261.4" cy="102.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/

@@ -1,0 +1,61 @@
+---
+title: "Wilson's Blanket Sett - Border"
+date: 2023-03-18
+---
+**Bands:** [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/) · **Stripes:** [W R W G W K R K W G W R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R W G W K R K W G W R W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4636
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4636](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4636)
+- Scottish Tartans Authority (ITI): 6331
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Border Sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/)
+
+
+## Thread count
+W/200 R24 W26 G26 W26 K2 R28 K2 W26 G26 W26 R28 W/200
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#408060;"><span style="color:#408060;filter:grayscale(1) invert(1) contrast(100);">#408060</span></code> `#408060` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Shaw Dress (Personal)](/setts/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6t3~x2/) — ΔT 1.59
+1. [Old England House Check](/setts/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/) — ΔT 1.64
+1. [Summer Spirit](/setts/s14/ly2k1w9k8w28k2w2r2w2k2w28k8w9k1~x2/) — ΔT 1.73
+1. [Unidentified Scarlett #5](/setts/s22/db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2~x2/) — ΔT 1.76
+1. [Old England House Check](/setts/s12/w46lr4w9k8w9r4w9do2w2do2w2do2~x2/) — ΔT 1.80
+1. [Crane of Cluny Dress (Personal)](/setts/s8/w83k6w3k9r2k5w2ly2~x2/) — ΔT 1.83
+1. [UPS No. 2 (Corporate)](/setts/s16/w8do2w2lo2w2do2w15do2w60do4w1do2w2do2w1do4~x2/) — ΔT 1.96
+1. [Gairloch (Fashion)](/setts/s8/w24w1y9w1w9w2y2k2~x2/) — ΔT 1.96
+1. [UPS No.2](/setts/s16/do2w8do4w1do2w2do2w1do4w60do2w15do2w2lo2w2~x2/) — ΔT 1.98
+1. [Unnamed C18th - Blanket Pattern](/setts/s9/w120k2db4g3w2k2r8w2r3~x2/) — ΔT 2.09
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6t3~x2/"><circle cx="426.7" cy="38.5" r="4" fill="#3465a4"><title>Shaw Dress (Personal)</title></circle></a><a href="/setts/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/"><circle cx="440.6" cy="49.1" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/setts/s14/ly2k1w9k8w28k2w2r2w2k2w28k8w9k1~x2/"><circle cx="424.0" cy="79.6" r="4" fill="#3465a4"><title>Summer Spirit</title></circle></a><a href="/setts/s22/db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2~x2/"><circle cx="458.8" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Scarlett #5</title></circle></a><a href="/setts/s12/w46lr4w9k8w9r4w9do2w2do2w2do2~x2/"><circle cx="440.4" cy="68.8" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/setts/s8/w83k6w3k9r2k5w2ly2~x2/"><circle cx="507.8" cy="59.8" r="4" fill="#3465a4"><title>Crane of Cluny Dress (Personal)</title></circle></a><a href="/setts/s16/w8do2w2lo2w2do2w15do2w60do4w1do2w2do2w1do4~x2/"><circle cx="512.8" cy="21.6" r="4" fill="#3465a4"><title>UPS No. 2 (Corporate)</title></circle></a><a href="/setts/s8/w24w1y9w1w9w2y2k2~x2/"><circle cx="464.1" cy="131.4" r="4" fill="#3465a4"><title>Gairloch (Fashion)</title></circle></a><a href="/setts/s16/do2w8do4w1do2w2do2w1do4w60do2w15do2w2lo2w2~x2/"><circle cx="512.5" cy="21.3" r="4" fill="#3465a4"><title>UPS No.2</title></circle></a><a href="/setts/s9/w120k2db4g3w2k2r8w2r3~x2/"><circle cx="588.3" cy="33.2" r="4" fill="#3465a4"><title>Unnamed C18th - Blanket Pattern</title></circle></a><circle cx="507.6" cy="63.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/

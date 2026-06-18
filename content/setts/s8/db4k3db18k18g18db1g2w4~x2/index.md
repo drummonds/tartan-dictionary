@@ -1,0 +1,66 @@
+---
+title: "Dress Watch"
+date: 2023-03-18
+---
+**Bands:** [BKBKGBGW](/stripes/bkbkgbgw/) · **Stripes:** [DB K DB K G DB G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K G DB G W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=976
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/11/2003 — Dress Watch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=976))
+- Nov 2003 — Dress Watch (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6069/))
+- undated — Dress Watch (Fashion) Fashion Tartan Tartan Number: 6069. Earliest known date: Nov 2003 Introduced as a fashion tartan by the House of Edgar to provide a photogenic pattern similar to the Black Watch. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6069))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [976](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=976)
+- Scottish Tartans Authority (ITI): 6069
+
+## Thread count
+DB/8 K6 DB36 K36 G36 DB2 G4 W/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/8 K6 DB36 K36 G36 DB2 G4 W/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Blair](/setts/s7/db4r1db18k20g18r1g4~x2/) — ΔT 0.82
+1. [Herd Family Tartan Tartan Number: 170. Earliest known date: 1978 Woven for the wedding of William Hurd to Heather Petit. From JCT: STS monitoring committee recorded 1978. In march 2005. STS Record has the application being made by Councillor R J Herd, C.Eng, M.I.C.E., A.M.B.I.M. who had been granted arms by Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db2g12k13w1db13w2~x2/) — ΔT 0.85
+1. [Baird](/setts/s8/r7g3r2g33k31db31k3db3/) — ΔT 0.93
+1. [Hebridean Old](/setts/s9/db2k2db18b1k13b1g16db3k2~x2/) — ΔT 0.97
+1. [Lochaber District](/setts/s8/g2r1g16k12r1t16g1t2/) — ΔT 0.98
+1. [Glenturret Distillery](/setts/s6/lo4db24g3k21g23k1~x2/) — ΔT 0.99
+1. [MacCormick](/setts/s7/ly3k1db20k16g20k1w3~x2/) — ΔT 1.00
+1. [Whitson #2](/setts/s8/w4k1dg18k17db13r1db3r1~x2/) — ΔT 1.04
+1. [Oceanic (Corporate?)](/setts/s7/ly8k4o39k37dt36k6dt7/) — ΔT 1.11
+1. [MacRae Hunting #2](/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/) — ΔT 1.11
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db4r1db18k20g18r1g4~x2/"><circle cx="205.2" cy="184.8" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s6/db2g12k13w1db13w2~x2/"><circle cx="187.8" cy="213.2" r="4" fill="#3465a4"><title>Herd Family Tartan Tartan Number: 170. Earliest known date: 1978 Woven for the wedding of William Hurd to Heather Petit. From JCT: STS monitoring committee recorded 1978. In march 2005. STS Record has the application being made by Councillor R J Herd, C.Eng, M.I.C.E., A.M.B.I.M. who had been granted arms by Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r7g3r2g33k31db31k3db3/"><circle cx="179.0" cy="170.0" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s9/db2k2db18b1k13b1g16db3k2~x2/"><circle cx="220.5" cy="160.4" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/setts/s8/g2r1g16k12r1t16g1t2/"><circle cx="209.1" cy="166.6" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/setts/s6/lo4db24g3k21g23k1~x2/"><circle cx="225.9" cy="198.5" r="4" fill="#3465a4"><title>Glenturret Distillery</title></circle></a><a href="/setts/s7/ly3k1db20k16g20k1w3~x2/"><circle cx="172.2" cy="160.6" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/setts/s8/w4k1dg18k17db13r1db3r1~x2/"><circle cx="179.0" cy="160.9" r="4" fill="#3465a4"><title>Whitson #2</title></circle></a><a href="/setts/s7/ly8k4o39k37dt36k6dt7/"><circle cx="173.0" cy="209.2" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><a href="/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/"><circle cx="183.7" cy="165.5" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><circle cx="197.2" cy="180.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/db4k3db18k18g18db1g2w4~x2/

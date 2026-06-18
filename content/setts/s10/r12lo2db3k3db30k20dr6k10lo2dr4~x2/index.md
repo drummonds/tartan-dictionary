@@ -1,0 +1,48 @@
+---
+title: "KPMG (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [BYKBKBKBYR](/stripes/bykbkbkbyr/) · **Stripes:** [DR LO K DR K DB K DB LO R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">DR LO K DR K DB K DB LO R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2287/
+
+## Thread count
+DR/8 LT4 K20 DR12 K40 DB60 K6 DB6 LT4 R/24
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#680028;"><span style="color:#680028;filter:grayscale(1) invert(1) contrast(100);">#680028</span></code> `#680028` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Land's End (Unnamed Maroon)](/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/) — ΔT 0.96
+1. [Bootneck 350](/setts/s8/k6r4k19dg4db25r5dg3ly2~x2/) — ΔT 1.07
+1. [Wardlaw](/setts/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/) — ΔT 1.10
+1. [United Arrows House Check](/setts/s9/db45r4k20lb3o9dr4o3dr9k11~x2/) — ΔT 1.12
+1. [Scotch House 2000 Antique](/setts/s8/db22r3db2r3db2k17dy18g4~x2/) — ΔT 1.13
+1. [United Arrows House Check](/setts/s9/db40r4k16w3dy8r4dy3r8k10~x2/) — ΔT 1.17
+1. [Ross Dempster (Personal)](/setts/s7/b4db29dg10r10r18dg2db4~x2/) — ΔT 1.18
+1. [Largs District Tartan Tartan Number: 478. Earliest known date: 1981 The Largs tartan is a new design created for the town and officially adopted in 1981. There is also a dress version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db4r4db44w6db5dy4db3dy8db3dy16db4r22w4/) — ΔT 1.19
+1. [First](/setts/s8/dp1m4dp1m1dp12k6dt16w1~x2/) — ΔT 1.20
+1. [Army Medical Services](/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.1" cy="179.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s8/k6r4k19dg4db25r5dg3ly2~x2/"><circle cx="220.6" cy="187.6" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/setts/s10/k4dp30k3dp2db2r2g12k3db18r3~x2/"><circle cx="249.3" cy="153.2" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/setts/s9/db45r4k20lb3o9dr4o3dr9k11~x2/"><circle cx="224.5" cy="146.9" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/setts/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="213.1" cy="197.5" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/setts/s9/db40r4k16w3dy8r4dy3r8k10~x2/"><circle cx="206.7" cy="147.7" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/setts/s7/b4db29dg10r10r18dg2db4~x2/"><circle cx="224.9" cy="183.7" r="4" fill="#3465a4"><title>Ross Dempster (Personal)</title></circle></a><a href="/setts/s13/db4r4db44w6db5dy4db3dy8db3dy16db4r22w4/"><circle cx="232.9" cy="131.0" r="4" fill="#3465a4"><title>Largs District Tartan Tartan Number: 478. Earliest known date: 1981 The Largs tartan is a new design created for the town and officially adopted in 1981. There is also a dress version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dp1m4dp1m1dp12k6dt16w1~x2/"><circle cx="254.7" cy="171.5" r="4" fill="#3465a4"><title>First</title></circle></a><a href="/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/"><circle cx="229.7" cy="146.6" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><circle cx="217.8" cy="163.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/r12lo2db3k3db30k20dr6k10lo2dr4~x2/

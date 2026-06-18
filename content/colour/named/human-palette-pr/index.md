@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#CA047B;border:1px solid #0003;flex:none"></span><div><strong>Magenta</strong> · code <code>PR</code> · Human Palette · ref <code>22-09-354</code><br>sRGB <code>#CA047B</code> · OKLab L 0.550 a +0.224 b -0.025 · grid <code>22-09-354</code></div></div>
 
+Magenta — the purple-red between-hue, a mid tone only, added where the eye wants a name between purple and red. Not a basic term.
+
 The nearest named colour is **Red** (Human Palette), 0.123 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |

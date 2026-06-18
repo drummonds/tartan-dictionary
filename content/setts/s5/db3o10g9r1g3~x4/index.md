@@ -1,0 +1,51 @@
+---
+title: "Bethlehem, City of (District)"
+date: 2023-03-18
+---
+**Bands:** [BRGRG](/stripes/brgrg/) · **Stripes:** [DB O G R G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB O G R G</span></span>
+
+
+This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3263/
+
+## Thread count
+DB/12 N40 G36 DR4 G/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#006C3C;"><span style="color:#006C3C;filter:grayscale(1) invert(1) contrast(100);">#006C3C</span></code> `#006C3C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.06 |
+| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/12 N40 G36 DR4 G/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified 10](/setts/s4/g14r3db9t2~x2/) — ΔT 1.03
+1. [Unidentified #4](/setts/s4/dg14r3db9t2~x2/) — ΔT 1.13
+1. [Strange Of Balcaskie](/setts/s7/g32o7g7o16db32ly3o8~x2/) — ΔT 1.24
+1. [Flower of Scotland Commemorative Tartan Tartan Number: 2059. Earliest known date: September 1990 Designed as a tribute to Roy Williamson, writer of the words and music of 'The Flower of Scotland'. Roy wore the Gunn tartan which has been used as the framework of the new tartan. Cornflower blue and Zephyr green have been used to suggest the bluebell and the thistle. Worn by the Seafield and District pipe band, Strathallan Games, 1994 (UK Reg. Design No.600421) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b1g7b1k4b7o1~x4/) — ΔT 1.26
+1. [Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b1g7b1k4b7o1~x2/) — ΔT 1.26
+1. [Wilson's No.161](/setts/s4/t13r2g13r2~x2/) — ΔT 1.29
+1. [Thompson/Thomson/MacTavish Hunting](/setts/s6/t4dy28dg6t12k12t3~x2/) — ΔT 1.31
+1. [Bethlehem, City of](/setts/s5/db3o10dg9r1dg3~x4/) — ΔT 1.32
+1. [Rob Roy (Film) (Corporate)](/setts/s6/t3dg1t10dg4dy10t2~x4/) — ΔT 1.32
+1. [Wellington (Lochcarron)](/setts/s5/k9lr6n22g28ly2~x2/) — ΔT 1.34
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g14r3db9t2~x2/"><circle cx="267.6" cy="271.5" r="4" fill="#3465a4"><title>Unidentified 10</title></circle></a><a href="/setts/s4/dg14r3db9t2~x2/"><circle cx="292.1" cy="284.6" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/setts/s7/g32o7g7o16db32ly3o8~x2/"><circle cx="238.1" cy="235.5" r="4" fill="#3465a4"><title>Strange Of Balcaskie</title></circle></a><a href="/setts/s6/b1g7b1k4b7o1~x4/"><circle cx="238.6" cy="252.6" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan Tartan Number: 2059. Earliest known date: September 1990 Designed as a tribute to Roy Williamson, writer of the words and music of 'The Flower of Scotland'. Roy wore the Gunn tartan which has been used as the framework of the new tartan. Cornflower blue and Zephyr green have been used to suggest the bluebell and the thistle. Worn by the Seafield and District pipe band, Strathallan Games, 1994 (UK Reg. Design No.600421) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b1g7b1k4b7o1~x2/"><circle cx="238.6" cy="252.6" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/t13r2g13r2~x2/"><circle cx="289.9" cy="290.8" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/setts/s6/t4dy28dg6t12k12t3~x2/"><circle cx="249.9" cy="241.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish Hunting</title></circle></a><a href="/setts/s5/db3o10dg9r1dg3~x4/"><circle cx="256.4" cy="242.9" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/setts/s6/t3dg1t10dg4dy10t2~x4/"><circle cx="334.6" cy="265.6" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/setts/s5/k9lr6n22g28ly2~x2/"><circle cx="230.5" cy="221.1" r="4" fill="#3465a4"><title>Wellington (Lochcarron)</title></circle></a><circle cx="279.6" cy="255.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/db3o10g9r1g3~x4/

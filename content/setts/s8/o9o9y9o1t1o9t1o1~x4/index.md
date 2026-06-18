@@ -1,0 +1,52 @@
+---
+title: "Jardine of Castlemilk Family Tartan Tartan Number: 1432. Earliest known date: c.1978 The chiefly house is Jardine of Applegirth, a baronetcy created in 1672. The Jardines of Castlemilk in Dumfriesshire settled there in the early fourteenth century. The tartan is approved by Col Jardine. The darker brown is recorded as \"J.Br\", and the lighter as \"Olive Br\" in the Lyon Books. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [RBRBRGRR](/stripes/rbrbrgrr/) · **Stripes:** [O T O T O Y O O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O T O T O Y O O</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1432
+
+## Thread count
+DR/4 B4 DY36 B4 DR4 N36 DY36 LT/36
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5494BC;"><span style="color:#5494BC;filter:grayscale(1) invert(1) contrast(100);">#5494BC</span></code> `#5494BC` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.25 |
+| DR | <code style="background-color:#7C0000;"><span style="color:#7C0000;filter:grayscale(1) invert(1) contrast(100);">#7C0000</span></code> `#7C0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.18 |
+| DY | <code style="background-color:#B87C00;"><span style="color:#B87C00;filter:grayscale(1) invert(1) contrast(100);">#B87C00</span></code> `#B87C00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| LT | <code style="background-color:#88582C;"><span style="color:#88582C;filter:grayscale(1) invert(1) contrast(100);">#88582C</span></code> `#88582C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| N | <code style="background-color:#686868;"><span style="color:#686868;filter:grayscale(1) invert(1) contrast(100);">#686868</span></code> `#686868` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DR/4 B4 DY36 B4 DR4 N36 DY36 LT/36 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lawrence's Seven Pillars of Khaki](/setts/s9/r3o23y8g6y8t6y10t12y3~x2/) — ΔT 1.31
+1. [Annan (Fashion)](/setts/s10/y16o2y2o2y2o2y2do6n10y3~x2/) — ΔT 1.35
+1. [Earle's Flame (Fashion)](/setts/s8/do10y24r3y3r24dg3y6do6~x2/) — ΔT 1.58
+1. [Golden Pheasant](/setts/s7/r12w4r3lo18r3ly4g2~x2/) — ΔT 1.61
+1. [Jardine](/setts/s8/n9o9y9r1y1o9y1r1~x4/) — ΔT 1.66
+1. [Harmony 14](/setts/s11/g3y16o11y2y11y2y11y2o11y16w3~x2/) — ΔT 1.76
+1. [Jardine, of Castlemilk](/setts/s8/dr9o9n9r1db1o9db1r1~x4/) — ΔT 1.88
+1. [Clyde](/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/) — ΔT 1.89
+1. [Pubcrawlers (Corporate)](/setts/s7/g3dy4g2dy22n5r16ly3~x2/) — ΔT 1.91
+1. [Tricor](/setts/s12/y4lb1y4g6dy6o4y23o4dy6g6y4lb1~x4/) — ΔT 1.94
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r3o23y8g6y8t6y10t12y3~x2/"><circle cx="256.8" cy="261.0" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/setts/s10/y16o2y2o2y2o2y2do6n10y3~x2/"><circle cx="348.5" cy="222.3" r="4" fill="#3465a4"><title>Annan (Fashion)</title></circle></a><a href="/setts/s8/do10y24r3y3r24dg3y6do6~x2/"><circle cx="341.8" cy="261.3" r="4" fill="#3465a4"><title>Earle's Flame (Fashion)</title></circle></a><a href="/setts/s7/r12w4r3lo18r3ly4g2~x2/"><circle cx="283.8" cy="219.0" r="4" fill="#3465a4"><title>Golden Pheasant</title></circle></a><a href="/setts/s8/n9o9y9r1y1o9y1r1~x4/"><circle cx="357.3" cy="265.6" r="4" fill="#3465a4"><title>Jardine</title></circle></a><a href="/setts/s11/g3y16o11y2y11y2y11y2o11y16w3~x2/"><circle cx="310.1" cy="263.3" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/setts/s8/dr9o9n9r1db1o9db1r1~x4/"><circle cx="291.9" cy="233.5" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/"><circle cx="338.4" cy="236.4" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s7/g3dy4g2dy22n5r16ly3~x2/"><circle cx="317.3" cy="215.3" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/setts/s12/y4lb1y4g6dy6o4y23o4dy6g6y4lb1~x4/"><circle cx="385.3" cy="190.2" r="4" fill="#3465a4"><title>Tricor</title></circle></a><circle cx="315.9" cy="240.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/o9o9y9o1t1o9t1o1~x4/

@@ -1,0 +1,54 @@
+---
+title: "Philadelphia Police and Fire Pipes and Drums"
+date: 2023-03-18
+---
+**Bands:** [BYBBBRBRBRBW](/stripes/bybbbrbrbrbw/) · **Stripes:** [DB LY DB B DB R B R B R DB W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LY DB B DB R B R B R DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10950
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10950](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10950)
+
+## Thread count
+DB/18 Y8 DB8 B82 DB8 R8 B8 R30 B8 R8 DB82 W/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#0596FA;"><span style="color:#0596FA;filter:grayscale(1) invert(1) contrast(100);">#0596FA</span></code> `#0596FA` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.27 |
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db23w2db3t4db3w2db5k11p2w23k3~x2/) — ΔT 1.05
+1. [Harmony](/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/) — ΔT 1.24
+1. [Highlands Country Club](/setts/s12/db15lb11lb2lb1lb1g4lb1lb1lb2lb11db15g5~x4/) — ΔT 1.33
+1. [Daughters of the American Revolution](/setts/s13/lb2w2db5w2lb4db5lb6db14db18r4w2r2w2~x2/) — ΔT 1.36
+1. [Federal Memorial](/setts/s15/db3ly1db1t15db1w1db1r4db1w1db15r1db1r1db3~x4/) — ΔT 1.37
+1. [Wcwm 1138](/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/) — ΔT 1.38
+1. [Citadel Military Academy](/setts/s15/ly3k2t18db10lr3db2lr2db5lr2db2lr3db10t18k2r3~x2/) — ΔT 1.38
+1. [Praetorian Imperatur (Fashion)](/setts/s14/w1k1ly1dp8k1lr1w8lr1k8lr1w1dp8lr1w1~x6/) — ΔT 1.39
+1. [Hanna of Stirlingshire (Clan)](/setts/s10/lo1db9k1lr4k1lr2k2lr2k1r1~x4/) — ΔT 1.44
+1. [Historic Scotland](/setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/) — ΔT 1.48
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db23w2db3t4db3w2db5k11p2w23k3~x2/"><circle cx="173.3" cy="126.9" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/"><circle cx="187.0" cy="119.8" r="4" fill="#3465a4"><title>Harmony</title></circle></a><a href="/setts/s12/db15lb11lb2lb1lb1g4lb1lb1lb2lb11db15g5~x4/"><circle cx="209.0" cy="145.6" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/setts/s13/lb2w2db5w2lb4db5lb6db14db18r4w2r2w2~x2/"><circle cx="115.0" cy="139.5" r="4" fill="#3465a4"><title>Daughters of the American Revolution</title></circle></a><a href="/setts/s15/db3ly1db1t15db1w1db1r4db1w1db15r1db1r1db3~x4/"><circle cx="271.0" cy="103.8" r="4" fill="#3465a4"><title>Federal Memorial</title></circle></a><a href="/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/"><circle cx="192.2" cy="122.7" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/setts/s15/ly3k2t18db10lr3db2lr2db5lr2db2lr3db10t18k2r3~x2/"><circle cx="153.8" cy="129.4" r="4" fill="#3465a4"><title>Citadel Military Academy</title></circle></a><a href="/setts/s14/w1k1ly1dp8k1lr1w8lr1k8lr1w1dp8lr1w1~x6/"><circle cx="131.7" cy="124.7" r="4" fill="#3465a4"><title>Praetorian Imperatur (Fashion)</title></circle></a><a href="/setts/s10/lo1db9k1lr4k1lr2k2lr2k1r1~x4/"><circle cx="148.3" cy="149.0" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><a href="/setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/"><circle cx="239.5" cy="125.6" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><circle cx="192.3" cy="127.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/db9ly4db4b41db4r4b4r15b4r4db41w4~x2/

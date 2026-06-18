@@ -1,0 +1,60 @@
+---
+title: "Italian"
+date: 2023-03-18
+---
+**Bands:** [BKBKWKGRKRGKWKBRWGBKWKGRKRGKWK](/stripes/bkbkwkgrkrgkwkbrwgbkwkgrkrgkwk/) · **Stripes:** [DB K DB K LB K G R K R G K LB K DB R LB G DB K LB K G R K R G K LB K](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K LB K G R K R G K LB K DB R LB G DB K LB K G R K R G K LB K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1870
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1870](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1870)
+- Scottish Tartans Authority (ITI): 5285
+- Scottish Tartans World Register: 2944
+
+## Thread count
+DBa/48 K4 DBa48 K2 N2 K2 Ga24 DR4 K4 DR4 Ga24 K2 N2 K2 DBa48 DR4 N4 G4 DBa48 K2 N2 K2 Ga24 DR4 K4 DR4 Ga24 K2 N2 K/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DBa | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| Ga | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Joss](/setts/s24/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3k3ly3dg27db30k2db4k2db30dg4db2dg1~x2/) — ΔT 0.92
+1. [Cockburn Blue](/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/) — ΔT 1.41
+1. [Italian (Fashion)](/setts/s30/db24k2db24k1lb1k1k12r2k2r2k12k1lb1k1db24r2lb2g2db24k1lb1k1k12r2k2r2k12k1lb1k1~x2/) — ΔT 1.43
+1. [Indianapolis MPD Emerald Society](/setts/s17/db67dy5g10r5ly2r5g10dy5db4dy5g10r5o2r5dy5g10db24/) — ΔT 1.44
+1. [Whitworth (Name)](/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/) — ΔT 1.46
+1. [Scotland the Brave](/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4dp2dg2m6dg12k12m1db40w1~x2/) — ΔT 1.48
+1. [Hebrides South Uist #2](/setts/s34/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3w1g3y22g2y2db18y2g2y1ly1g1y20db2y2g3y2~x2/) — ΔT 1.53
+1. [Cockburn #2](/setts/s27/r3k2dg9db12w3db12dg2k2dg2k2dg36k2dg2k2dg2db12w3db12k3ly3k2dg12k2r3k2dg6w3~x2/) — ΔT 1.54
+1. [Cockburn #3](/setts/s31/r5k2dg30k2ly5k2db31k2w5k2db31k6dg2k2dg2k2dg82k2dg2k2dg2k6db31k2w5k2db31k6dg25k2r5/) — ΔT 1.56
+1. [Strachan](/setts/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/) — ΔT 1.56
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3k3ly3dg27db30k2db4k2db30dg4db2dg1~x2/"><circle cx="351.8" cy="80.4" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/"><circle cx="319.3" cy="110.3" r="4" fill="#3465a4"><title>Cockburn Blue</title></circle></a><a href="/setts/s30/db24k2db24k1lb1k1k12r2k2r2k12k1lb1k1db24r2lb2g2db24k1lb1k1k12r2k2r2k12k1lb1k1~x2/"><circle cx="354.7" cy="93.2" r="4" fill="#3465a4"><title>Italian (Fashion)</title></circle></a><a href="/setts/s17/db67dy5g10r5ly2r5g10dy5db4dy5g10r5o2r5dy5g10db24/"><circle cx="326.4" cy="76.3" r="4" fill="#3465a4"><title>Indianapolis MPD Emerald Society</title></circle></a><a href="/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="313.4" cy="97.2" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4dp2dg2m6dg12k12m1db40w1~x2/"><circle cx="322.4" cy="77.8" r="4" fill="#3465a4"><title>Scotland the Brave</title></circle></a><a href="/setts/s34/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3w1g3y22g2y2db18y2g2y1ly1g1y20db2y2g3y2~x2/"><circle cx="337.9" cy="83.0" r="4" fill="#3465a4"><title>Hebrides South Uist #2</title></circle></a><a href="/setts/s27/r3k2dg9db12w3db12dg2k2dg2k2dg36k2dg2k2dg2db12w3db12k3ly3k2dg12k2r3k2dg6w3~x2/"><circle cx="221.9" cy="82.3" r="4" fill="#3465a4"><title>Cockburn #2</title></circle></a><a href="/setts/s31/r5k2dg30k2ly5k2db31k2w5k2db31k6dg2k2dg2k2dg82k2dg2k2dg2k6db31k2w5k2db31k6dg25k2r5/"><circle cx="283.7" cy="43.2" r="4" fill="#3465a4"><title>Cockburn #3</title></circle></a><a href="/setts/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/"><circle cx="319.9" cy="115.4" r="4" fill="#3465a4"><title>Strachan</title></circle></a><circle cx="306.3" cy="70.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s30/db24k2db24k1lb1k1g12r2k2r2g12k1lb1k1db24r2lb2g2db24k1lb1k1g12r2k2r2g12k1lb1k1~x2/

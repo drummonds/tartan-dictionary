@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Sons of Scotland](/clan/sons/scotland/)
+- [Sons of Scotland](/families/sons-of-scotland/)
 

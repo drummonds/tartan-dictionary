@@ -1,0 +1,54 @@
+---
+title: "Grotto Dove (Dance)"
+date: 2023-03-18
+---
+**Bands:** [WBWBWBGRBRW](/stripes/wbwbwbgrbrw/) · **Stripes:** [W DB W DB W DB DG R DB R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB W DB DG R DB R W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1554
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1554](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1554)
+- Scottish Tartans Authority (ITI): 5125
+
+## Thread count
+LN/102 DB20 LN4 DB4 LN4 DB4 G20 R18 DB3 R10 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#180060;"><span style="color:#180060;filter:grayscale(1) invert(1) contrast(100);">#180060</span></code> `#180060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| G | <code style="background-color:#1C3C00;"><span style="color:#1C3C00;filter:grayscale(1) invert(1) contrast(100);">#1C3C00</span></code> `#1C3C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.12 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#FC1060;"><span style="color:#FC1060;filter:grayscale(1) invert(1) contrast(100);">#FC1060</span></code> `#FC1060` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Rothesay, Dress (VS)](/setts/s10/r2w28db4w2k6w2r4k1r2w1~x2/) — ΔT 0.72
+1. [Stewart Dress, Purple (Dance)](/setts/s10/w55dp12lo2dp3w2g10dp9dp2dp6w2~x2/) — ΔT 1.00
+1. [Stuart/Stewart variant #2](/setts/s11/w46dg5w1k3w1k5dg4r6dg2r4w2~x2/) — ΔT 1.05
+1. [Grotto Dove](/setts/s11/lb26k7y1k1lb1k1y5dp3k1dp2lb1~x4/) — ΔT 1.13
+1. [Spirit of Dunkeld](/setts/s12/lt38r1lt2r2lt2r6ly4r10db8lt11r3ly1~x2/) — ΔT 1.13
+1. [Stuart/Stewart Dress Blue](/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/) — ΔT 1.14
+1. [Stewart dress, Blue](/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/) — ΔT 1.17
+1. [Strathyre dress](/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/) — ΔT 1.21
+1. [Stewart, variant](/setts/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/) — ΔT 1.21
+1. [Glen Moy](/setts/s12/lb98y12k16w5k5w5k5y28lb16k5lb16w6/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="363.0" cy="78.3" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/setts/s10/w55dp12lo2dp3w2g10dp9dp2dp6w2~x2/"><circle cx="295.9" cy="59.3" r="4" fill="#3465a4"><title>Stewart Dress, Purple (Dance)</title></circle></a><a href="/setts/s11/w46dg5w1k3w1k5dg4r6dg2r4w2~x2/"><circle cx="387.0" cy="49.3" r="4" fill="#3465a4"><title>Stuart/Stewart variant #2</title></circle></a><a href="/setts/s11/lb26k7y1k1lb1k1y5dp3k1dp2lb1~x4/"><circle cx="328.7" cy="83.2" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/setts/s12/lt38r1lt2r2lt2r6ly4r10db8lt11r3ly1~x2/"><circle cx="364.2" cy="77.3" r="4" fill="#3465a4"><title>Spirit of Dunkeld</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.8" cy="47.9" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/"><circle cx="314.3" cy="48.2" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.9" cy="72.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/"><circle cx="381.2" cy="48.3" r="4" fill="#3465a4"><title>Stewart, variant</title></circle></a><a href="/setts/s12/lb98y12k16w5k5w5k5y28lb16k5lb16w6/"><circle cx="319.9" cy="96.3" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><circle cx="340.9" cy="63.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/w102db20w4db4w4db4dg20r18db3r10w4/

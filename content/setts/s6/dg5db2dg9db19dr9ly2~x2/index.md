@@ -1,0 +1,58 @@
+---
+title: "Lyle and Scott"
+date: 2023-03-18
+---
+**Bands:** [GBGBBY](/stripes/gbgbby/) · **Stripes:** [DG DB DG DB DR LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG DB DG DB DR LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11139
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11139](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11139)
+
+## Thread count
+G/10 DBa4 G18 DB38 DR18 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000048;"><span style="color:#000048;filter:grayscale(1) invert(1) contrast(100);">#000048</span></code> `#000048` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
+| DBa | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> `#4C0000` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.25 |
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/10 DBa4 G18 DB38 DR18 Y/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [New England (Fashion)](/setts/s6/k2w1k12g5db11r1~x2/) — ΔT 0.67
+1. [MacPhail Hunting #2](/setts/s6/r4db24k12g14k4lb3~x2/) — ΔT 0.74
+1. [Rose Hunting Clan Tartan Tartan Number: 1226. Earliest known date: 1831 First recorded in James Logan's, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k4w1g10k10db10r2~x2/) — ΔT 0.77
+1. [MacPhail Hunting](/setts/s6/r2db23k14dg16k2w2~x2/) — ΔT 0.77
+1. [Midlothian](/setts/s6/db31b4db5k19g20lo4~x2/) — ΔT 0.79
+1. [Paterson Blue (Personal)](/setts/s6/db22w2k10g11r3g4~x2/) — ΔT 0.80
+1. [Loudoun's Highlanders - 1747 #1 (Mil](/setts/s6/r4k2db24k20g20lo3~x2/) — ΔT 0.81
+1. [Mitchell (Clan)](/setts/s6/k2g17k16r2db17lr2~x2/) — ΔT 0.81
+1. [Rose Hunting](/setts/s6/k4w1g10k10db10r2~x4/) — ΔT 0.82
+1. [Russell or Mitchell or Hunter or Galbraith](/setts/s6/k2dg12k12r1db12w2~x2/) — ΔT 0.83
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2w1k12g5db11r1~x2/"><circle cx="238.3" cy="203.6" r="4" fill="#3465a4"><title>New England (Fashion)</title></circle></a><a href="/setts/s6/r4db24k12g14k4lb3~x2/"><circle cx="172.3" cy="220.7" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/setts/s6/k4w1g10k10db10r2~x2/"><circle cx="170.4" cy="225.3" r="4" fill="#3465a4"><title>Rose Hunting Clan Tartan Tartan Number: 1226. Earliest known date: 1831 First recorded in James Logan's, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r2db23k14dg16k2w2~x2/"><circle cx="214.8" cy="209.7" r="4" fill="#3465a4"><title>MacPhail Hunting</title></circle></a><a href="/setts/s6/db31b4db5k19g20lo4~x2/"><circle cx="190.8" cy="226.6" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/setts/s6/db22w2k10g11r3g4~x2/"><circle cx="203.9" cy="204.8" r="4" fill="#3465a4"><title>Paterson Blue (Personal)</title></circle></a><a href="/setts/s6/r4k2db24k20g20lo3~x2/"><circle cx="173.2" cy="210.5" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><a href="/setts/s6/k2g17k16r2db17lr2~x2/"><circle cx="162.9" cy="221.3" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/setts/s6/k4w1g10k10db10r2~x4/"><circle cx="166.2" cy="223.1" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/setts/s6/k2dg12k12r1db12w2~x2/"><circle cx="180.3" cy="211.0" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><circle cx="202.7" cy="221.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/dg5db2dg9db19dr9ly2~x2/

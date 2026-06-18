@@ -4,11 +4,10 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Nicolson of Assynt & Coigach](/clan/nicolson/assynt-coigach/)
-- [Nicolson of Harris](/clan/nicolson/harris/)
-- [Nicolson of Lewis](/clan/nicolson/lewis/)
-- [Nicolson of Taransay](/clan/nicolson/taransay/)
-- [Nicolson of Taransay Hunting](/clan/nicolson/taransay-hunting/)
-- [Nicolson of Tiree & Coll](/clan/nicolson/tiree-coll/)
-- [Nicolson of the Isles](/clan/nicolson/the-isles/)
+- [Nicolson of Assynt & Coigach](/families/nicolson-of-assynt-coigach/)
+- [Nicolson of Harris](/families/nicolson-of-harris/)
+- [Nicolson of Lewis](/families/nicolson-of-lewis/)
+- [Nicolson of Taransay](/families/nicolson-of-taransay/)
+- [Nicolson of Tiree & Coll](/families/nicolson-of-tiree-coll/)
+- [Nicolson of the Isles](/families/nicolson-of-the-isles/)
 

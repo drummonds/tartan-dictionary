@@ -1,0 +1,56 @@
+---
+title: "MacDonald, Flora (Plaid)"
+date: 2023-03-18
+---
+**Bands:** [BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB](/stripes/bkbkbkbwbkbrbkgrgrgkwkgrgrgkbkbkb/) · **Stripes:** [B K B K B K B W B K B R B K G R G R G K W K G R G R G K B K B K B](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K B K B W B K B R B K G R G R G K W K G R G R G K B K B K B</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [33 band tartan](/bands/bands33/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2377
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2377](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2377)
+- Scottish Tartans Authority (ITI): 217
+- Scottish Tartans World Register: 217
+
+## Thread count
+B/48 K8 B8 K8 B8 K44 B48 W12 B48 K44 B36 R48 B36 K44 G28 R8 G8 R8 G16 K2 W12 K2 G16 R8 G8 R8 G28 K44 B8 K8 B8 K8 B/48
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Flora, MacDonald Plaid](/setts/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/) — ΔT 1.10
+1. [Dundee Discovery (Corporate)](/setts/s30/k14g12r2g12k14db20k2db4k2db20g12lo3g3lo1k3r2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/) — ΔT 1.23
+1. [House of Timber Wolf (Personal)](/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/) — ΔT 1.43
+1. [Lauder Dress (Can)](/setts/s36/db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4db4w50k27g3db25g6db26g3k25g28r6g25k26w5db5w52db4r4/) — ΔT 1.48
+1. [Unidentified, Wilson sample.](/setts/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24g15r4g4r4g8k1ly5k1g8r4g4r4g15k24db3k3db3k3db26~x2/) — ΔT 1.49
+1. [Unidentified Wilson sample](/setts/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24dg15r4dg4r4dg8k1ly5k1dg8r4dg4r4dg15k24db3k3db3k3db26~x2/) — ΔT 1.50
+1. [Dundee Discovery](/setts/s30/g10ly3g3ly1k2r2k2ly1g3ly3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/) — ΔT 1.51
+1. [MacKenzie, Bailey](/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/) — ΔT 1.55
+1. [Rankin (Dalgleish) #2](/setts/s23/db12k2db3k2db3k16g8r2g8k1k1w2g8r2g8k16r2db8r3db2r2db3w2~x2/) — ΔT 1.61
+1. [Sacramento City Fire Department](/setts/s24/db2w1db15k5g11k1r3k1g11k5db17w1db17k5g11k1r3k1g11k5db15w1db2ly2~x2/) — ΔT 1.61
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s33/db24k4db4k4db4k22db24w6db24k22db18r24db18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22db4k4db4k4db24~x2/"><circle cx="163.3" cy="91.5" r="4" fill="#3465a4"><title>Flora, MacDonald Plaid</title></circle></a><a href="/setts/s30/k14g12r2g12k14db20k2db4k2db20g12lo3g3lo1k3r2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/"><circle cx="199.7" cy="96.5" r="4" fill="#3465a4"><title>Dundee Discovery (Corporate)</title></circle></a><a href="/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/"><circle cx="165.3" cy="66.5" r="4" fill="#3465a4"><title>House of Timber Wolf (Personal)</title></circle></a><a href="/setts/s36/db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4db4w50k27g3db25g6db26g3k25g28r6g25k26w5db5w52db4r4/"><circle cx="92.3" cy="75.4" r="4" fill="#3465a4"><title>Lauder Dress (Can)</title></circle></a><a href="/setts/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24g15r4g4r4g8k1ly5k1g8r4g4r4g15k24db3k3db3k3db26~x2/"><circle cx="157.9" cy="61.7" r="4" fill="#3465a4"><title>Unidentified, Wilson sample.</title></circle></a><a href="/setts/s35/db26k3db3k3db3k24db26k1w5k1db26k24db17r26db17k24dg15r4dg4r4dg8k1ly5k1dg8r4dg4r4dg15k24db3k3db3k3db26~x2/"><circle cx="191.6" cy="76.8" r="4" fill="#3465a4"><title>Unidentified Wilson sample</title></circle></a><a href="/setts/s30/g10ly3g3ly1k2r2k2ly1g3ly3g10db21k2db2k2db21k15g15r2g15k15db2k2db2k2db31k2db2k2db2~x2/"><circle cx="210.1" cy="63.6" r="4" fill="#3465a4"><title>Dundee Discovery</title></circle></a><a href="/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="191.6" cy="110.4" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/setts/s23/db12k2db3k2db3k16g8r2g8k1k1w2g8r2g8k16r2db8r3db2r2db3w2~x2/"><circle cx="153.6" cy="126.6" r="4" fill="#3465a4"><title>Rankin (Dalgleish) #2</title></circle></a><a href="/setts/s24/db2w1db15k5g11k1r3k1g11k5db17w1db17k5g11k1r3k1g11k5db15w1db2ly2~x2/"><circle cx="209.9" cy="109.9" r="4" fill="#3465a4"><title>Sacramento City Fire Department</title></circle></a><circle cx="170.2" cy="94.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s33/b24k4b4k4b4k22b24w6b24k22b18r24b18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22b4k4b4k4b24~x2/

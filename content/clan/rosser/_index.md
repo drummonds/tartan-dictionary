@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Rosser of Wales](/clan/rosser/wales/)
+- [Rosser of Wales](/families/rosser-of-wales/)
 

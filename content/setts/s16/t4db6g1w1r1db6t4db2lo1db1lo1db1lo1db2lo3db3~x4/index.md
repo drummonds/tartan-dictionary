@@ -1,0 +1,55 @@
+---
+title: "de Baseggio (Golden Bones)"
+date: 2023-03-18
+---
+**Bands:** [BBGWRBBBYBYBYBYB](/stripes/bbgwrbbbybybybyb/) · **Stripes:** [T DB G W R DB T DB LO DB LO DB LO DB LO DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">T DB G W R DB T DB LO DB LO DB LO DB LO DB</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10628
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10628](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10628)
+
+## Thread count
+B/16 DB24 LG4 W4 R4 DB24 B16 DB8 Y4 DB4 Y4 DB4 Y4 DB8 Y12 DB/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5F749C;"><span style="color:#5F749C;filter:grayscale(1) invert(1) contrast(100);">#5F749C</span></code> `#5F749C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| DB | <code style="background-color:#041B67;"><span style="color:#041B67;filter:grayscale(1) invert(1) contrast(100);">#041B67</span></code> `#041B67` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| LG | <code style="background-color:#649848;"><span style="color:#649848;filter:grayscale(1) invert(1) contrast(100);">#649848</span></code> `#649848` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.20 |
+| R | <code style="background-color:#CA2625;"><span style="color:#CA2625;filter:grayscale(1) invert(1) contrast(100);">#CA2625</span></code> `#CA2625` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.02 |
+| W | <code style="background-color:#F9F5EF;"><span style="color:#F9F5EF;filter:grayscale(1) invert(1) contrast(100);">#F9F5EF</span></code> `#F9F5EF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Y | <code style="background-color:#E0A126;"><span style="color:#E0A126;filter:grayscale(1) invert(1) contrast(100);">#E0A126</span></code> `#E0A126` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hirter Karo (Corporate)](/setts/s16/r3ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3~x2/) — ΔT 1.07
+1. [MacLellan, McLellan hunting](/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/) — ΔT 1.10
+1. [De Baseggio (Personal)](/setts/s16/b4dt6g1w1r1dt6b4dt2lo1dt1lo1dt1lo1dt2lo3dt3~x4/) — ΔT 1.24
+1. [Edinburgh Bus Tours](/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/) — ΔT 1.25
+1. [MacLellan/McLellan (Personal)](/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/) — ΔT 1.31
+1. [MacLellan/McLellan Hunting (Personal)](/setts/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7ly2~x4/) — ΔT 1.37
+1. [Hirter Karo](/setts/s20/ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3b16dy15db18ly3r3~x2/) — ΔT 1.40
+1. [Bhoyrub (Personal)](/setts/s12/b20g3ly3b3r7g6b3k12b3k3b24w3~x2/) — ΔT 1.40
+1. [Edinburgh Bus Tours](/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/) — ΔT 1.40
+1. [United Services Planning Association](/setts/s20/db20r2db12g6lb2g4b4g4lb2g16lb2g4b4g4lb2g6db12r2db20ly3~x2/) — ΔT 1.41
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r3ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3~x2/"><circle cx="150.7" cy="171.1" r="4" fill="#3465a4"><title>Hirter Karo (Corporate)</title></circle></a><a href="/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/setts/s16/b4dt6g1w1r1dt6b4dt2lo1dt1lo1dt1lo1dt2lo3dt3~x4/"><circle cx="208.9" cy="178.3" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><a href="/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/"><circle cx="254.9" cy="178.8" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/"><circle cx="129.6" cy="161.3" r="4" fill="#3465a4"><title>MacLellan/McLellan (Personal)</title></circle></a><a href="/setts/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7ly2~x4/"><circle cx="182.2" cy="191.7" r="4" fill="#3465a4"><title>MacLellan/McLellan Hunting (Personal)</title></circle></a><a href="/setts/s20/ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3b16dy15db18ly3r3~x2/"><circle cx="119.7" cy="166.3" r="4" fill="#3465a4"><title>Hirter Karo</title></circle></a><a href="/setts/s12/b20g3ly3b3r7g6b3k12b3k3b24w3~x2/"><circle cx="243.0" cy="153.1" r="4" fill="#3465a4"><title>Bhoyrub (Personal)</title></circle></a><a href="/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/"><circle cx="258.0" cy="177.7" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s20/db20r2db12g6lb2g4b4g4lb2g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="192.5" cy="130.0" r="4" fill="#3465a4"><title>United Services Planning Association</title></circle></a><circle cx="182.9" cy="161.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/

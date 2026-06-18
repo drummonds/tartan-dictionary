@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Mead of Poetry](/clan/mead/poetry/)
-- [Mead of Poetry, The](/clan/mead/poetry-the/)
+- [Mead of Poetry](/families/mead-of-poetry/)
+- [Mead of Poetry, The](/families/mead-of-poetry-the/)
 

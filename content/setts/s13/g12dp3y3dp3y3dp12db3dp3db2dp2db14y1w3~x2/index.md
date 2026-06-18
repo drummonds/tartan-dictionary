@@ -1,0 +1,55 @@
+---
+title: "Scottish Tourist Guides Association"
+date: 2023-03-18
+---
+**Bands:** [GBGBGBBBBBBGW](/stripes/gbgbgbbbbbbgw/) · **Stripes:** [G DP Y DP Y DP DB DP DB DP DB Y W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G DP Y DP Y DP DB DP DB DP DB Y W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10138
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10138](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10138)
+
+## Thread count
+G/24 P6 N6 P6 N6 P24 DB6 P6 DB4 P4 DB28 LG2 W/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#00009C;"><span style="color:#00009C;filter:grayscale(1) invert(1) contrast(100);">#00009C</span></code> `#00009C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| G | <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> `#006400` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.01 |
+| LG | <code style="background-color:#8B7500;"><span style="color:#8B7500;filter:grayscale(1) invert(1) contrast(100);">#8B7500</span></code> `#8B7500` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| N | <code style="background-color:#7A7A7A;"><span style="color:#7A7A7A;filter:grayscale(1) invert(1) contrast(100);">#7A7A7A</span></code> `#7A7A7A` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.21 |
+| P | <code style="background-color:#551A8B;"><span style="color:#551A8B;filter:grayscale(1) invert(1) contrast(100);">#551A8B</span></code> `#551A8B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.10 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bute Heather, Ancient](/setts/s11/db6w1t18k6t4k4p8lg1p8k2db5~x2/) — ΔT 0.74
+1. [Royal Air Force Regimental Tartan Tartan Number: 2123. Earliest known date: 1988 The Royal Air Force initially declined to approve this tartan for members of the Air Services. However the tartan was worn by Scottish ex-servicemen and those who have served in Scotland and became quite popular. In 2002 it was officially adopted by the RAF. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w4db8r3db25k13db4t29db3t8db2r3~x2/) — ΔT 0.76
+1. [Air Force](/setts/s11/w4db8m3db25k13g4t29db3t8db2m3~x2/) — ΔT 0.98
+1. [Scottish Tourist Guides Assoc. (Corp](/setts/s13/dg12dp3lr3dp3lr3dp12db3dp3db2dp2db14lo1w3~x2/) — ΔT 1.13
+1. [GYL family (Personal)](/setts/s10/db28r3w3r3w3r3db28k12b38w8/) — ΔT 1.16
+1. [Moran Blue Family Tartan Tartan Number: 3901. Earliest known date: 2001 Designed by Mark Moran after finding that the existing green Moran tartan was restricted (by copyright). Mark decided that he too, wished to reserve the design for his own famillies use. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/b26db13k13w2g8k5k3b3k3k5g8w2k13db13b26w3~x2/) — ΔT 1.24
+1. [GYL (Personal)](/setts/s10/db28r3w3r3w3r3db14k12t38ly8/) — ΔT 1.24
+1. [Ryder Cup 2014 (Corporate)](/setts/s16/ly3db5t12db1t3db1t2db2t2db3t1db4t1db8db21w3~x2/) — ΔT 1.26
+1. [Harmony](/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/) — ΔT 1.29
+1. [U.S. Forces Thurso](/setts/s13/db20r3k10lo2lr15w2lr4w2lr15lo2k10r3db20~x2/) — ΔT 1.32
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db6w1t18k6t4k4p8lg1p8k2db5~x2/"><circle cx="142.8" cy="136.3" r="4" fill="#3465a4"><title>Bute Heather, Ancient</title></circle></a><a href="/setts/s11/w4db8r3db25k13db4t29db3t8db2r3~x2/"><circle cx="174.9" cy="135.0" r="4" fill="#3465a4"><title>Royal Air Force Regimental Tartan Tartan Number: 2123. Earliest known date: 1988 The Royal Air Force initially declined to approve this tartan for members of the Air Services. However the tartan was worn by Scottish ex-servicemen and those who have served in Scotland and became quite popular. In 2002 it was officially adopted by the RAF. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w4db8m3db25k13g4t29db3t8db2m3~x2/"><circle cx="161.5" cy="129.9" r="4" fill="#3465a4"><title>Air Force</title></circle></a><a href="/setts/s13/dg12dp3lr3dp3lr3dp12db3dp3db2dp2db14lo1w3~x2/"><circle cx="160.7" cy="139.1" r="4" fill="#3465a4"><title>Scottish Tourist Guides Assoc. (Corp</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db28k12b38w8/"><circle cx="183.7" cy="138.3" r="4" fill="#3465a4"><title>GYL family (Personal)</title></circle></a><a href="/setts/s16/b26db13k13w2g8k5k3b3k3k5g8w2k13db13b26w3~x2/"><circle cx="125.3" cy="133.1" r="4" fill="#3465a4"><title>Moran Blue Family Tartan Tartan Number: 3901. Earliest known date: 2001 Designed by Mark Moran after finding that the existing green Moran tartan was restricted (by copyright). Mark decided that he too, wished to reserve the design for his own famillies use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db14k12t38ly8/"><circle cx="144.3" cy="127.7" r="4" fill="#3465a4"><title>GYL (Personal)</title></circle></a><a href="/setts/s16/ly3db5t12db1t3db1t2db2t2db3t1db4t1db8db21w3~x2/"><circle cx="145.5" cy="96.1" r="4" fill="#3465a4"><title>Ryder Cup 2014 (Corporate)</title></circle></a><a href="/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/"><circle cx="187.0" cy="119.8" r="4" fill="#3465a4"><title>Harmony</title></circle></a><a href="/setts/s13/db20r3k10lo2lr15w2lr4w2lr15lo2k10r3db20~x2/"><circle cx="109.2" cy="135.3" r="4" fill="#3465a4"><title>U.S. Forces Thurso</title></circle></a><circle cx="146.2" cy="136.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/

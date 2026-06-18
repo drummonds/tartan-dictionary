@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Edmonstone of Duntreath](/clan/edmonstone/duntreath/)
+- [Edmonstone of Duntreath](/families/edmonstone-of-duntreath/)
 

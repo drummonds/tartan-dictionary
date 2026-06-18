@@ -1,0 +1,65 @@
+---
+title: "Kilbranan Sound (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BRBRKBKR](/stripes/brbrkbkr/) · **Stripes:** [N R N R K N K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">N R N R K N K R</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7669/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2007 — Kilbranan Sound (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7669/))
+- undated — Kilbranan Sound (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5672))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [5672](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5672)
+- Scottish Tartans Authority (ITI): 7669
+
+## Thread count
+DB/16 DR22 DB56 DR8 K34 LP2 K14 DR/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#005480;"><span style="color:#005480;filter:grayscale(1) invert(1) contrast(100);">#005480</span></code> `#005480` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#A00028;"><span style="color:#A00028;filter:grayscale(1) invert(1) contrast(100);">#A00028</span></code> `#A00028` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.10 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LP | <code style="background-color:#8C6088;"><span style="color:#8C6088;filter:grayscale(1) invert(1) contrast(100);">#8C6088</span></code> `#8C6088` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/16 DR22 DB56 DR8 K34 LP2 K14 DR/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hakkarain (Personal)](/setts/s6/k37w18k37r2k2r2~x2/) — ΔT 1.30
+1. [Hakkarain (Personal)](/setts/s10/k37w18k37r2k2r2k2r2k37w18~x2/) — ΔT 1.30
+1. [SheBoom](/setts/s8/k35p2k3dp13g8w4g8dp8~x2/) — ΔT 1.30
+1. [Sheboom](/setts/s8/k35m2k3dp13g8w4g8dp8~x2/) — ΔT 1.31
+1. [Scottish Knights Templar Int. (Corp)](/setts/s9/r3db20k6lb5k4lb3k2r1db2~x2/) — ΔT 1.34
+1. [Urbino (Fashion)](/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/) — ΔT 1.35
+1. [Kunbi](/setts/s8/k76dt11k3ly6k3dt13k11o76/) — ΔT 1.37
+1. [Brown](/setts/s8/db6r1db2r1db2k18r8g2~x2/) — ΔT 1.40
+1. [Ferguson, Unidentified](/setts/s7/p72k40g23r4g23k2w4~x2/) — ΔT 1.42
+1. [MacKean (Personal)](/setts/s7/r8k18r6k18b27k2w3~x2/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k37w18k37r2k2r2~x2/"><circle cx="223.3" cy="172.2" r="4" fill="#3465a4"><title>Hakkarain (Personal)</title></circle></a><a href="/setts/s10/k37w18k37r2k2r2k2r2k37w18~x2/"><circle cx="246.9" cy="145.4" r="4" fill="#3465a4"><title>Hakkarain (Personal)</title></circle></a><a href="/setts/s8/k35p2k3dp13g8w4g8dp8~x2/"><circle cx="243.8" cy="149.1" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/setts/s8/k35m2k3dp13g8w4g8dp8~x2/"><circle cx="239.6" cy="146.8" r="4" fill="#3465a4"><title>Sheboom</title></circle></a><a href="/setts/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="266.3" cy="145.8" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/"><circle cx="239.6" cy="143.5" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/setts/s8/k76dt11k3ly6k3dt13k11o76/"><circle cx="298.8" cy="139.6" r="4" fill="#3465a4"><title>Kunbi</title></circle></a><a href="/setts/s8/db6r1db2r1db2k18r8g2~x2/"><circle cx="254.9" cy="152.9" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/setts/s7/p72k40g23r4g23k2w4~x2/"><circle cx="240.9" cy="119.2" r="4" fill="#3465a4"><title>Ferguson, Unidentified</title></circle></a><a href="/setts/s7/r8k18r6k18b27k2w3~x2/"><circle cx="230.3" cy="194.6" r="4" fill="#3465a4"><title>MacKean (Personal)</title></circle></a><circle cx="274.3" cy="161.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/n8r11n28r4k17n1k7r2~x2/

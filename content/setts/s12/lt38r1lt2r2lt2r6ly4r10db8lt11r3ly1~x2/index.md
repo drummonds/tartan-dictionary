@@ -1,0 +1,53 @@
+---
+title: "Spirit of Dunkeld"
+date: 2023-03-18
+---
+**Bands:** [WRWRWRYRBWRY](/stripes/wrwrwryrbwry/) · **Stripes:** [LT R LT R LT R LY R DB LT R LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LT R LT R LT R LY R DB LT R LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10564
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10564](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10564)
+
+## Thread count
+LB/76 R2 LB4 R4 LB4 R12 Y8 R20 B16 LB22 R6 Y/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#0000CD;"><span style="color:#0000CD;filter:grayscale(1) invert(1) contrast(100);">#0000CD</span></code> `#0000CD` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| LB | <code style="background-color:#82CFFD;"><span style="color:#82CFFD;filter:grayscale(1) invert(1) contrast(100);">#82CFFD</span></code> `#82CFFD` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| Y | <code style="background-color:#FFE600;"><span style="color:#FFE600;filter:grayscale(1) invert(1) contrast(100);">#FFE600</span></code> `#FFE600` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Grotto Dove (Dance)](/setts/s11/w102db20w4db4w4db4dg20r18db3r10w4/) — ΔT 1.13
+1. [Boucherville (Tartan de..), dress](/setts/s9/w40ly4y10w8b4y4b4y4g1/) — ΔT 1.31
+1. [Rothesay, Dress (VS)](/setts/s10/r2w28db4w2k6w2r4k1r2w1~x2/) — ΔT 1.32
+1. [McGillivray, Pauline (Personal)](/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/) — ΔT 1.36
+1. [Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence "nous rappelle notre appartenance au Quebec." "Les tisserands, c'est nous tous...!" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w40ly4o10w8db4o4db4o4g1/) — ΔT 1.40
+1. [Glen Moy Tartan Tartan Number: 1293. Earliest known date: pre 1986 A colour variation of the Royal Stewart woven by Edgars, Pitlochry around 1986, named after the place in Angus described as follows: Its mainly Sheep farming in Glen Moy. Off the beaten track, its a very quiet area of the Angus glens close to Cortachy castle and great for walking if you like it to yourself! See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/) — ΔT 1.43
+1. [Stewart dress, Blue](/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/) — ΔT 1.46
+1. [Snowy Owl](/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/) — ΔT 1.48
+1. [Allandale Blue Dress Tartan Tartan Number: 8453. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k3w2k1w40t17m5ly3w2m9t1m2t3~x2/) — ΔT 1.50
+1. [Stuart/Stewart variant #2](/setts/s11/w46dg5w1k3w1k5dg4r6dg2r4w2~x2/) — ΔT 1.52
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w102db20w4db4w4db4dg20r18db3r10w4/"><circle cx="340.9" cy="63.1" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/setts/s9/w40ly4y10w8b4y4b4y4g1/"><circle cx="364.8" cy="81.8" r="4" fill="#3465a4"><title>Boucherville (Tartan de..), dress</title></circle></a><a href="/setts/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="363.0" cy="78.3" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/"><circle cx="334.6" cy="51.7" r="4" fill="#3465a4"><title>McGillivray, Pauline (Personal)</title></circle></a><a href="/setts/s9/w40ly4o10w8db4o4db4o4g1/"><circle cx="365.2" cy="81.8" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence &quot;nous rappelle notre appartenance au Quebec.&quot; &quot;Les tisserands, c'est nous tous...!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="331.4" cy="101.5" r="4" fill="#3465a4"><title>Glen Moy Tartan Tartan Number: 1293. Earliest known date: pre 1986 A colour variation of the Royal Stewart woven by Edgars, Pitlochry around 1986, named after the place in Angus described as follows: Its mainly Sheep farming in Glen Moy. Off the beaten track, its a very quiet area of the Angus glens close to Cortachy castle and great for walking if you like it to yourself! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/"><circle cx="314.3" cy="48.2" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.6" cy="35.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s12/k3w2k1w40t17m5ly3w2m9t1m2t3~x2/"><circle cx="287.4" cy="50.2" r="4" fill="#3465a4"><title>Allandale Blue Dress Tartan Tartan Number: 8453. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w46dg5w1k3w1k5dg4r6dg2r4w2~x2/"><circle cx="387.0" cy="49.3" r="4" fill="#3465a4"><title>Stuart/Stewart variant #2</title></circle></a><circle cx="364.2" cy="77.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/lt38r1lt2r2lt2r6ly4r10db8lt11r3ly1~x2/

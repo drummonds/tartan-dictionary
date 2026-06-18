@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Jardine of Castlemilk](/clan/jardine/castlemilk/)
+- [Jardine of Castlemilk](/families/jardine-of-castlemilk/)
 

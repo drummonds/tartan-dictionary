@@ -1,0 +1,55 @@
+---
+title: "Pride (Wales)"
+date: 2023-03-18
+---
+**Bands:** [GKBBBKBKBKBRBKBKBKBBBK](/stripes/gkbbbkbkbkbrbkbkbkbbbk/) · **Stripes:** [G K DB T DB K DB K DB K DB R DB K DB K DB K DB T DB K](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">G K DB T DB K DB K DB K DB R DB K DB K DB K DB T DB K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3370
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3370](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3370)
+- Scottish Tartans Authority (ITI): 5737
+
+## Thread count
+G/12 K40 DB4 B4 DB4 K28 DB7 K8 DB7 K8 DB10 R4 DB10 K8 DB7 K8 DB7 K28 DB4 B4 DB4 K/40
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pride of Wales (Fashion)](/setts/s12/g12k40db4t4db4k28db7k8db7k8db10r4/) — ΔT 1.50
+1. [Gunning, Robert Maxwell Stewart (Personal)](/setts/s23/dg2t5k2t2k3dg15m2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3t2k2t5dg2~x2/) — ΔT 1.54
+1. [Silver Thistle](/setts/s12/g4db3k6db20k46o2k4o2k46db20k6db3~x2/) — ΔT 1.87
+1. [Griffith of Wales](/setts/s20/do37db17do4db8do6r2do5db2do3lo4do3db2do5r2do6db8do4db17do37lo4/) — ΔT 1.92
+1. [Walker Hunting](/setts/s22/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2dg6k7dg28db7dg3db3dg3db15dg7db2~x2/) — ΔT 1.93
+1. [Bredillet (Personal)](/setts/s13/db16k2lo2k2lo2k15db14k2db14k15db16k4w1~x2/) — ΔT 1.97
+1. [City of Rome Italian Corporate Tartan Tartan Number: 6697. Earliest known date: 2005 The background of black and navy blue are the colours of the Italian national football team. Gold for the Vatican and orange & maroon are the official colours of Rome. The City of Rome Pipe Band was formed in October 2000 and has grown by 2005 to 11 pipers and 7 drummers. It is the first Pipe Band in Italy and is very popular at various events in the country. The City of Rome authorities have agreed that the tartan be regarded as the Citys official tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/k88db45k6db6ly6db6k6db45k88lo6r12lo6k88db45k6db6ly6db6k6db45/) — ΔT 1.98
+1. [Cornwall](/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/) — ΔT 2.03
+1. [Pendleton dress Corporate Tartan Tartan Number: 2468. Earliest known date: 1998 From Pendleton Mills, established in 1863 and located in Portland, Oregon. Ms Annette Hoeffel from Pendleton Woolen Mills is mentioned but it's not known in what capacity - contributer or designer. This tartan and #2467 are virtually identical with the tan line in the former being replaced with a yellow line for the 'Dress'. Pendelton #3 is possibly the one that should be labelled dress. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/db40dg34r5dg34k6dg34ly5dg34db40db6db40dg34ly5dg34k6dg34r5dg34db40db6/) — ΔT 2.06
+1. [Shadow Halls](/setts/s15/b1db4k11db1k1db1k1b1k11n4y1n8k7db8k1~x4/) — ΔT 2.08
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g12k40db4t4db4k28db7k8db7k8db10r4/"><circle cx="367.1" cy="202.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/setts/s23/dg2t5k2t2k3dg15m2dg15k3dg2k5dg2k5dg2k3dg15r2dg15k3t2k2t5dg2~x2/"><circle cx="329.4" cy="181.6" r="4" fill="#3465a4"><title>Gunning, Robert Maxwell Stewart (Personal)</title></circle></a><a href="/setts/s12/g4db3k6db20k46o2k4o2k46db20k6db3~x2/"><circle cx="474.7" cy="172.4" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/setts/s20/do37db17do4db8do6r2do5db2do3lo4do3db2do5r2do6db8do4db17do37lo4/"><circle cx="462.6" cy="167.0" r="4" fill="#3465a4"><title>Griffith of Wales</title></circle></a><a href="/setts/s22/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2dg6k7dg28db7dg3db3dg3db15dg7db2~x2/"><circle cx="390.4" cy="196.4" r="4" fill="#3465a4"><title>Walker Hunting</title></circle></a><a href="/setts/s13/db16k2lo2k2lo2k15db14k2db14k15db16k4w1~x2/"><circle cx="390.6" cy="214.6" r="4" fill="#3465a4"><title>Bredillet (Personal)</title></circle></a><a href="/setts/s20/k88db45k6db6ly6db6k6db45k88lo6r12lo6k88db45k6db6ly6db6k6db45/"><circle cx="339.8" cy="140.9" r="4" fill="#3465a4"><title>City of Rome Italian Corporate Tartan Tartan Number: 6697. Earliest known date: 2005 The background of black and navy blue are the colours of the Italian national football team. Gold for the Vatican and orange &amp; maroon are the official colours of Rome. The City of Rome Pipe Band was formed in October 2000 and has grown by 2005 to 11 pipers and 7 drummers. It is the first Pipe Band in Italy and is very popular at various events in the country. The City of Rome authorities have agreed that the tartan be regarded as the Citys official tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/"><circle cx="362.3" cy="200.6" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/setts/s20/db40dg34r5dg34k6dg34ly5dg34db40db6db40dg34ly5dg34k6dg34r5dg34db40db6/"><circle cx="312.7" cy="218.2" r="4" fill="#3465a4"><title>Pendleton dress Corporate Tartan Tartan Number: 2468. Earliest known date: 1998 From Pendleton Mills, established in 1863 and located in Portland, Oregon. Ms Annette Hoeffel from Pendleton Woolen Mills is mentioned but it's not known in what capacity - contributer or designer. This tartan and #2467 are virtually identical with the tan line in the former being replaced with a yellow line for the 'Dress'. Pendelton #3 is possibly the one that should be labelled dress. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/b1db4k11db1k1db1k1b1k11n4y1n8k7db8k1~x4/"><circle cx="293.6" cy="180.5" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><circle cx="405.6" cy="188.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/

@@ -1,0 +1,48 @@
+---
+title: "Pride of Scotland Platinum Fashion Tartan Tartan Number: 6850. Earliest known date: 01/01/2006 ONLY FOR DISPLAY PURPOSE. Design owned by McCalls of Aberdeen and woven exclusively by Lochcarron of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [KBYBKBKYBKW](/stripes/kbybkbkybkw/) · **Stripes:** [K N LR N K N K LR N K LP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">K N LR N K N K LR N K LP</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6850
+
+## Thread count
+K/14 N4 Na4 N4 K26 N4 K4 Na4 N26 K52 LP/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LP | <code style="background-color:#C49CD8;"><span style="color:#C49CD8;filter:grayscale(1) invert(1) contrast(100);">#C49CD8</span></code> `#C49CD8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.25 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Na | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.18 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [King Robert the Bruce Memorial, The](/setts/s10/r8k79n4k4w4k6n22k6r16k6/) — ΔT 1.15
+1. [Valdres, Kvam & Vang #3](/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/) — ΔT 1.23
+1. [Flowers of the Forest, The](/setts/s10/b8t4do5r1do5r1do5r1do16b1~x4/) — ΔT 1.23
+1. [Kells Irish Pubs (Corporate)](/setts/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/) — ΔT 1.25
+1. [King Robert the Bruce Memorial (Com](/setts/s10/r8k79o4k4lb4k6o22k6r16k6/) — ΔT 1.33
+1. [Kells Irish Pubs](/setts/s12/k17lr2k3g2k3g2k24b8g4b4g3b8~x2/) — ΔT 1.36
+1. [Jenkins Welsh Name Tartan Tartan Number: 5757. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Jenks, Jenkin, Jankin, Seincyn, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/g8db3g2db4lo2db5g7db4g4db37r6/) — ΔT 1.40
+1. [Pride of Scotland Platinum](/setts/s11/k10n2o2n2k14n2k2lp1n12k24m2~x2/) — ΔT 1.42
+1. [Springbank](/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/) — ΔT 1.42
+1. [Mountain Rescue Association Honor Guard](/setts/s7/k32b2k6b2k13n30w2~x2/) — ΔT 1.46
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r8k79n4k4w4k6n22k6r16k6/"><circle cx="411.7" cy="137.2" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial, The</title></circle></a><a href="/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="415.4" cy="142.2" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/setts/s10/b8t4do5r1do5r1do5r1do16b1~x4/"><circle cx="378.6" cy="167.6" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/setts/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/"><circle cx="325.0" cy="180.6" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/setts/s10/r8k79o4k4lb4k6o22k6r16k6/"><circle cx="400.4" cy="130.0" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial (Com</title></circle></a><a href="/setts/s12/k17lr2k3g2k3g2k24b8g4b4g3b8~x2/"><circle cx="305.6" cy="167.6" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/setts/s11/g8db3g2db4lo2db5g7db4g4db37r6/"><circle cx="424.0" cy="159.9" r="4" fill="#3465a4"><title>Jenkins Welsh Name Tartan Tartan Number: 5757. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Jenks, Jenkin, Jankin, Seincyn, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k10n2o2n2k14n2k2lp1n12k24m2~x2/"><circle cx="431.3" cy="147.7" r="4" fill="#3465a4"><title>Pride of Scotland Platinum</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/"><circle cx="467.5" cy="161.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s7/k32b2k6b2k13n30w2~x2/"><circle cx="377.2" cy="202.8" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><circle cx="392.3" cy="171.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/k7n2lr2n2k13n2k2lr2n13k26lp2~x2/

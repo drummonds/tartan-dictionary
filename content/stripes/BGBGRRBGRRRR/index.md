@@ -1,0 +1,27 @@
+---
+title: Pattern BGBGRRBGRRRR
+date: 2023-03-18
+aliases:
+- /patterns/bgbgrrbgrrrr/
+---
+BGBGRRBGRRRR
+
+It is a 12 band tartan.
+
+
+
+## Colour Sequence
+BGBGRRBGRRRR
+
+
+## Tartans with this colour sequence
+
+
+
+### DP DG DB DG O M DB DG M R M R <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP DG DB DG O M DB DG M R M R</span></span>
+
+| Tartans |
+|---------------|
+| [Strathgaela (Corporate)](/setts/s12/dp3dg3db3dg11o8m8db4dg3m3r3m15r3~x2/)|
+|![Strathgaela (Corporate) example sett](/setts/s12/dp3dg3db3dg11o8m8db4dg3m3r3m15r3~x2/sett.png)|
+

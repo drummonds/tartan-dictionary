@@ -4,9 +4,8 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Ogilvie of Inverarity](/clan/ogilvie/inverarity/)
-- [Ogilvie of Inverarity / Ochterlonie](/clan/ogilvie/inverarity-ochterlonie/)
-- [Ogilvie of Inverquharity or Ohio](/clan/ogilvie/inverquharity-or-ohio/)
-- [Ogilvie of Strathallan](/clan/ogilvie/strathallan/)
-- [Ogilvie, of Inverquharity](/clan/ogilvie/inverquharity/)
+- [Ogilvie of Inverarity](/families/ogilvie-of-inverarity/)
+- [Ogilvie of Inverarity / Ochterlonie](/families/ogilvie-of-inverarity-ochterlonie/)
+- [Ogilvie of Inverquharity or Ohio](/families/ogilvie-of-inverquharity-or-ohio/)
+- [Ogilvie of Strathallan](/families/ogilvie-of-strathallan/)
 

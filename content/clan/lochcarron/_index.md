@@ -4,6 +4,6 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Lochcarron of Scotland](/clan/lochcarron/scotland/)
-- [Lochcarron of Scotland Diamond Jubilee](/clan/lochcarron/scotland-diamond-jubilee/)
+- [Lochcarron of Scotland](/families/lochcarron-of-scotland/)
+- [Lochcarron of Scotland Diamond Jubilee](/families/lochcarron-of-scotland-diamond-jubilee/)
 

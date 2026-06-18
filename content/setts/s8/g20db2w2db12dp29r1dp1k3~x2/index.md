@@ -1,0 +1,67 @@
+---
+title: "Longhaugh Primary School"
+date: 2023-03-18
+---
+**Bands:** [GBWBBRBK](/stripes/gbwbbrbk/) · **Stripes:** [G DB W DB DP R DP K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">G DB W DB DP R DP K</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2202
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2005 — Longhaugh Primary School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2202))
+- May 2005 — Longhaugh Primary School (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6645/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2202](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2202)
+- Scottish Tartans Authority (ITI): 6645
+
+## Thread count
+G/40 DB4 W4 DB24 P58 R2 P2 K/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/40 DB4 W4 DB24 P58 R2 P2 K/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bell Rock Lighthouse 200th Aniversar](/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/) — ΔT 0.95
+1. [Vienna Highlander (Fashion)](/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/) — ΔT 0.99
+1. [Clinton Wedding](/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/) — ΔT 1.11
+1. [Clinton Wedding (Personal)](/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/) — ΔT 1.13
+1. [Vinther, Niels Christian (Personal)](/setts/s8/lb3m14w1k2g2k16t20lb1~x2/) — ΔT 1.13
+1. [Glenn](/setts/s8/dg4t2db18r2k4r6t1w1~x4/) — ΔT 1.13
+1. [Colours of Hope](/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/) — ΔT 1.14
+1. [Scottish Association for N.S. (Corp)](/setts/s9/db46ly4db4ly4db6k16o66w11r6/) — ΔT 1.14
+1. [Climb, The](/setts/s8/lg2dg9k16r2t30lg3dg6w1~x2/) — ΔT 1.15
+1. [George Heriot's School](/setts/s7/ly3k1o24db10db24k1w3~x2/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/"><circle cx="194.2" cy="96.5" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/"><circle cx="201.7" cy="79.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="211.0" cy="82.7" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/setts/s8/lb3m14w1k2g2k16t20lb1~x2/"><circle cx="158.2" cy="114.7" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/setts/s8/dg4t2db18r2k4r6t1w1~x4/"><circle cx="237.5" cy="127.7" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/"><circle cx="198.7" cy="77.0" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16o66w11r6/"><circle cx="194.8" cy="111.0" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/setts/s8/lg2dg9k16r2t30lg3dg6w1~x2/"><circle cx="206.6" cy="100.5" r="4" fill="#3465a4"><title>Climb, The</title></circle></a><a href="/setts/s7/ly3k1o24db10db24k1w3~x2/"><circle cx="196.6" cy="125.4" r="4" fill="#3465a4"><title>George Heriot's School</title></circle></a><circle cx="229.7" cy="98.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/g20db2w2db12dp29r1dp1k3~x2/

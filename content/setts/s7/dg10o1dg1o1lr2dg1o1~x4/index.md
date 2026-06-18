@@ -1,0 +1,64 @@
+---
+title: "Green Watch"
+date: 2023-03-18
+---
+**Bands:** [GRGRYGR](/stripes/grgrygr/) · **Stripes:** [DG O DG O LR DG O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG O DG O LR DG O</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1973 — Green Watch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526))
+- 1973 — Green Watch (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5114/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1526](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526)
+- Scottish Tartans Authority (ITI): 5114
+
+## Thread count
+G/40 LT4 G4 LT4 N8 G4 LT/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| LT | <code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> `#A0783C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.18 |
+| N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.18 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/40 LT4 G4 LT4 N8 G4 LT/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Crow (Name)](/setts/s8/g2db2g6db4g3db4g18ly2~x4/) — ΔT 1.16
+1. [Connell (Personal?)](/setts/s6/r2g2r1g12r3k1~x4/) — ΔT 1.17
+1. [Leeds, University of (Dance)](/setts/s8/g34m4g4m4g4m12g20w5~x2/) — ΔT 1.20
+1. [Welsh Assembly (Fashion)](/setts/s8/g5o9g4w5g30r2g4r2~x2/) — ΔT 1.28
+1. [Connell (Dalgliesh) (Personal)](/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/) — ΔT 1.29
+1. [Angle, Green (Fashion)](/setts/s7/lo1dg11k6dg3lo1dg1lo1~x4/) — ΔT 1.30
+1. [Welsh National District Tartan Tartan Number: 1523. Earliest known date: 1968 The Welsh Tartan owes its origin to a Society formed in Cardiff in 1967. Its aims were cultural and political - to strengthen Celtic ties and give visible signs of being an individual nation in culture, language and dress. The colours are those of the Welsh flag. It is said that the design was based on the Lord of the Isles tartan because the present Lord is also Prince of Wales. However comparison reveals similarity only to MacDonald, MacDonald of the Isles, or perhaps Applecross district. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/m2g1m1g10w1~x4/) — ΔT 1.34
+1. [Glenlivet](/setts/s8/g18r6g75b6g13dy35g12b6/) — ΔT 1.36
+1. [Northcroft (Personal)](/setts/s7/g24r4g3k14g5r2g10~x2/) — ΔT 1.40
+1. [Welsh National (District)](/setts/s5/r8g3r4g44w4~x2/) — ΔT 1.44
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="439.7" cy="235.3" r="4" fill="#3465a4"><title>Crow (Name)</title></circle></a><a href="/setts/s6/r2g2r1g12r3k1~x4/"><circle cx="446.1" cy="218.1" r="4" fill="#3465a4"><title>Connell (Personal?)</title></circle></a><a href="/setts/s8/g34m4g4m4g4m12g20w5~x2/"><circle cx="430.7" cy="226.7" r="4" fill="#3465a4"><title>Leeds, University of (Dance)</title></circle></a><a href="/setts/s8/g5o9g4w5g30r2g4r2~x2/"><circle cx="434.4" cy="182.2" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="475.4" cy="206.7" r="4" fill="#3465a4"><title>Connell (Dalgliesh) (Personal)</title></circle></a><a href="/setts/s7/lo1dg11k6dg3lo1dg1lo1~x4/"><circle cx="397.0" cy="226.2" r="4" fill="#3465a4"><title>Angle, Green (Fashion)</title></circle></a><a href="/setts/s5/m2g1m1g10w1~x4/"><circle cx="479.8" cy="228.7" r="4" fill="#3465a4"><title>Welsh National District Tartan Tartan Number: 1523. Earliest known date: 1968 The Welsh Tartan owes its origin to a Society formed in Cardiff in 1967. Its aims were cultural and political - to strengthen Celtic ties and give visible signs of being an individual nation in culture, language and dress. The colours are those of the Welsh flag. It is said that the design was based on the Lord of the Isles tartan because the present Lord is also Prince of Wales. However comparison reveals similarity only to MacDonald, MacDonald of the Isles, or perhaps Applecross district. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g18r6g75b6g13dy35g12b6/"><circle cx="419.7" cy="200.2" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s7/g24r4g3k14g5r2g10~x2/"><circle cx="418.1" cy="239.7" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><a href="/setts/s5/r8g3r4g44w4~x2/"><circle cx="504.9" cy="208.4" r="4" fill="#3465a4"><title>Welsh National (District)</title></circle></a><circle cx="459.6" cy="214.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/dg10o1dg1o1lr2dg1o1~x4/

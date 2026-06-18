@@ -1,0 +1,61 @@
+---
+title: "Glennie (Personal)"
+date: 2023-03-18
+---
+**Bands:** [RKWKYRYKRKW](/stripes/rkwkyrykrkw/) · **Stripes:** [R K LB K LY R LY K R K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R K LB K LY R LY K R K LB</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1431
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Glennie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1431))
+- pre 2002 — Glennie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4116/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1431)
+- Scottish Tartans Authority (ITI): 4116
+
+## Thread count
+DR/96 K2 N2 K12 Y8 DR4 Y8 K16 DR4 K2 N/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#B00000;"><span style="color:#B00000;filter:grayscale(1) invert(1) contrast(100);">#B00000</span></code> `#B00000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.06 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.14 |
+| Y | <code style="background-color:#DCC000;"><span style="color:#DCC000;filter:grayscale(1) invert(1) contrast(100);">#DCC000</span></code> `#DCC000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Braemar, Castle](/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/) — ΔT 1.08
+1. [Trevison](/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/) — ΔT 1.26
+1. [Robberstad #2](/setts/s10/r60db8r4k11w2k11w2k11db1r4~x2/) — ΔT 1.35
+1. [Milan Club Scozia (Corporate)](/setts/s17/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6/) — ΔT 1.37
+1. [Unnamed C20th - Skirt](/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/) — ΔT 1.41
+1. [Braemar Castle Corporate Tartan Tartan Number: 1628. Earliest known date: 1985 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r52k5ly5k8lo5do5k2r6k1ly2~x2/) — ΔT 1.45
+1. [Braemar Castle](/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/) — ΔT 1.47
+1. [Burke (Kennesaw), Kevin](/setts/s10/k62r23k1ly5k1r3k1ly2k1r8~x2/) — ΔT 1.51
+1. [Hilton Plaid](/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/) — ΔT 1.57
+1. [Alabama, University of](/setts/s14/r32k2w3w4w3k2r22k1r5k2w6k2r4w5~x2/) — ΔT 1.57
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.9" cy="49.0" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/"><circle cx="394.0" cy="50.2" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/setts/s10/r60db8r4k11w2k11w2k11db1r4~x2/"><circle cx="400.8" cy="69.5" r="4" fill="#3465a4"><title>Robberstad #2</title></circle></a><a href="/setts/s17/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6/"><circle cx="464.2" cy="56.9" r="4" fill="#3465a4"><title>Milan Club Scozia (Corporate)</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="477.9" cy="90.7" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s10/r52k5ly5k8lo5do5k2r6k1ly2~x2/"><circle cx="429.1" cy="55.1" r="4" fill="#3465a4"><title>Braemar Castle Corporate Tartan Tartan Number: 1628. Earliest known date: 1985 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/"><circle cx="471.0" cy="52.9" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/setts/s10/k62r23k1ly5k1r3k1ly2k1r8~x2/"><circle cx="440.7" cy="81.9" r="4" fill="#3465a4"><title>Burke (Kennesaw), Kevin</title></circle></a><a href="/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/"><circle cx="389.8" cy="75.6" r="4" fill="#3465a4"><title>Hilton Plaid</title></circle></a><a href="/setts/s14/r32k2w3w4w3k2r22k1r5k2w6k2r4w5~x2/"><circle cx="407.9" cy="73.6" r="4" fill="#3465a4"><title>Alabama, University of</title></circle></a><circle cx="446.7" cy="52.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/r48k1lb1k6ly4r2ly4k8r2k1lb2~x2/

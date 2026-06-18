@@ -1,0 +1,47 @@
+---
+title: "Delta Lambda Phi (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [YKGWGWGWGYKY](/stripes/ykgwgwgwgyky/) · **Stripes:** [LO K G W G W G W G LO K LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO K G W G W G W G LO K LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10511/
+
+## Thread count
+DY/10 K2 DY12 G40 W2 G6 W2 G6 W2 G60 K2 DY/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Delta Lambda Phi](/setts/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/) — ΔT 1.34
+1. [Marshall University](/setts/s8/g25w1dg2w1g6k2w2dg3~x2/) — ΔT 1.38
+1. [Stirling Castle (Corporate)](/setts/s13/db2k6db2g34w1g5w1g5w1g34ly1k13db1~x2/) — ΔT 1.38
+1. [Owen (Welsh Name)](/setts/s10/g3r1g2db1g3r3g2r2g18r2~x2/) — ΔT 1.39
+1. [St. Christopher](/setts/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/) — ΔT 1.50
+1. [Portosalvo](/setts/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/) — ΔT 1.59
+1. [Crane of Cluny (Personal)](/setts/s8/g82k6g3k9r2k5g2ly2~x2/) — ΔT 1.59
+1. [Highland Hospice (Fashion)](/setts/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/) — ΔT 1.62
+1. [Welsh Assembly](/setts/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/) — ΔT 1.65
+1. [Wexford, County](/setts/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/) — ΔT 1.66
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/"><circle cx="476.4" cy="111.4" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><a href="/setts/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="472.6" cy="144.4" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/setts/s13/db2k6db2g34w1g5w1g5w1g34ly1k13db1~x2/"><circle cx="479.6" cy="112.7" r="4" fill="#3465a4"><title>Stirling Castle (Corporate)</title></circle></a><a href="/setts/s10/g3r1g2db1g3r3g2r2g18r2~x2/"><circle cx="514.8" cy="170.2" r="4" fill="#3465a4"><title>Owen (Welsh Name)</title></circle></a><a href="/setts/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="428.5" cy="134.4" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/setts/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/"><circle cx="443.3" cy="116.1" r="4" fill="#3465a4"><title>Portosalvo</title></circle></a><a href="/setts/s8/g82k6g3k9r2k5g2ly2~x2/"><circle cx="590.1" cy="133.2" r="4" fill="#3465a4"><title>Crane of Cluny (Personal)</title></circle></a><a href="/setts/s10/g51dp3g5lo3g5dp5g5dp5g5lo3~x2/"><circle cx="559.9" cy="179.4" r="4" fill="#3465a4"><title>Highland Hospice (Fashion)</title></circle></a><a href="/setts/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/"><circle cx="420.9" cy="160.9" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s14/g11dg6g6w1k2w1g6dg6g36k1ly3k1g5dg5~x2/"><circle cx="482.0" cy="124.5" r="4" fill="#3465a4"><title>Wexford, County</title></circle></a><circle cx="515.1" cy="131.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/

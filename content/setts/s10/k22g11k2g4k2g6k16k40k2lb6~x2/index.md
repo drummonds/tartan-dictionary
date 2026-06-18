@@ -1,0 +1,46 @@
+---
+title: "Stewart of Bute Hunting Clan/Family Tartan Tartan Number: 5175. Earliest known date: 01/01/2002 No details known. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [KGKGKGKKKW](/stripes/kgkgkgkkkw/) · **Stripes:** [K G K G K G K K K LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K G K G K G K K K LB</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5175
+
+## Thread count
+N/12 WR4 WR80 K32 G12 K4 G8 K4 G22 WR/44
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Childers (Gurkha Rifles)](/setts/s10/k8y28k8dg17k88dg17k8y28k8r6/) — ΔT 0.72
+1. [Malone (2016)](/setts/s11/k8dg1k20dg1k4dg1k3dg4w2dg24lo3~x2/) — ΔT 1.14
+1. [Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k30k5k19k5k2n20ly2n20k5ly4~x2/) — ΔT 1.54
+1. [MacAulay Hunting](/setts/s8/dg6k16lb1k16dg8k4dg12r2~x2/) — ΔT 1.54
+1. [Home, or Hume](/setts/s8/k28r1k2r1k8db24g2db3~x2/) — ΔT 1.56
+1. [MacAulay Hunting](/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/) — ΔT 1.57
+1. [Wcwm 9275 5471-2](/setts/s6/ly4k1k38dg28k2r4~x2/) — ΔT 1.58
+1. [MacDiarmid](/setts/s9/k12r2k28dg12k1w3k1dg12r4~x2/) — ΔT 1.59
+1. [MacDiarmid (Clan)](/setts/s9/k12r2k28g12k1w3k1g12r4~x2/) — ΔT 1.63
+1. [MacLean VS](/setts/s8/dg3k6lr1k6dg2k2dg16k1~x2/) — ΔT 1.63
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k8y28k8dg17k88dg17k8y28k8r6/"><circle cx="307.8" cy="167.7" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/setts/s11/k8dg1k20dg1k4dg1k3dg4w2dg24lo3~x2/"><circle cx="312.6" cy="139.9" r="4" fill="#3465a4"><title>Malone (2016)</title></circle></a><a href="/setts/s10/k30k5k19k5k2n20ly2n20k5ly4~x2/"><circle cx="237.8" cy="175.8" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dg6k16lb1k16dg8k4dg12r2~x2/"><circle cx="313.2" cy="214.1" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.4" cy="152.7" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/"><circle cx="323.6" cy="218.8" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s6/ly4k1k38dg28k2r4~x2/"><circle cx="358.1" cy="156.0" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/setts/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="352.3" cy="157.9" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="343.7" cy="153.1" r="4" fill="#3465a4"><title>MacDiarmid (Clan)</title></circle></a><a href="/setts/s8/dg3k6lr1k6dg2k2dg16k1~x2/"><circle cx="375.9" cy="206.9" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><circle cx="323.6" cy="163.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/k22g11k2g4k2g6k16k40k2lb6~x2/

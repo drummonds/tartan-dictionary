@@ -1,0 +1,47 @@
+---
+title: "Tupper. Sir Charles.. Family Tartan Tartan Number: 614. Earliest known date: 1983 From Canada. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BGYGGGBGGG](/stripes/bgygggbggg/) · **Stripes:** [DB DY LY DY G DY DB DY G DY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DB DY LY DY G DY DB DY G DY</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=614
+
+## Thread count
+DB/8 T14 Y6 T24 G30 T10 DB40 T10 G8 T/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Strange of Balcaskie (Personal)](/setts/s12/g32dy7g7dy16db32ly3dy8ly3db32dy16g7dy7~x2/) — ΔT 0.57
+1. [Tupper., Sir Charles..](/setts/s10/db4o7ly3o12g15o5db20o5g4o2~x2/) — ΔT 0.70
+1. [Antrim, County](/setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/) — ΔT 0.85
+1. [Strange of Balcaskie (Clan)](/setts/s7/g32dy7g7dy16db32ly3dy8~x2/) — ΔT 0.86
+1. [Buchanan, hunting](/setts/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/) — ΔT 1.11
+1. [Tyneside, Scottish](/setts/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/) — ΔT 1.16
+1. [Thompson/Thomson/MacTavish Hunting](/setts/s6/t4dy28dg6t12k12t3~x2/) — ΔT 1.17
+1. [Strange Of Balcaskie](/setts/s7/g32o7g7o16db32ly3o8~x2/) — ΔT 1.17
+1. [Glasgow Cathedral 2000](/setts/s10/dg22r3dt10b2dt10r21dg22r3ly2dt2~x2/) — ΔT 1.20
+1. [Berkshire #2](/setts/s10/n6db3k1o10n12dg6k1dg6n1db2~x4/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g32dy7g7dy16db32ly3dy8ly3db32dy16g7dy7~x2/"><circle cx="230.0" cy="211.4" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/setts/s10/db4o7ly3o12g15o5db20o5g4o2~x2/"><circle cx="242.2" cy="223.8" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/"><circle cx="249.3" cy="206.1" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><a href="/setts/s7/g32dy7g7dy16db32ly3dy8~x2/"><circle cx="243.8" cy="240.4" r="4" fill="#3465a4"><title>Strange of Balcaskie (Clan)</title></circle></a><a href="/setts/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="214.8" cy="246.6" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="271.5" cy="218.1" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/setts/s6/t4dy28dg6t12k12t3~x2/"><circle cx="249.9" cy="241.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish Hunting</title></circle></a><a href="/setts/s7/g32o7g7o16db32ly3o8~x2/"><circle cx="238.1" cy="235.5" r="4" fill="#3465a4"><title>Strange Of Balcaskie</title></circle></a><a href="/setts/s10/dg22r3dt10b2dt10r21dg22r3ly2dt2~x2/"><circle cx="271.9" cy="201.2" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/setts/s10/n6db3k1o10n12dg6k1dg6n1db2~x4/"><circle cx="198.1" cy="191.6" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><circle cx="241.6" cy="225.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/db4dy7ly3dy12g15dy5db20dy5g4dy2~x2/

@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Herron of Ulster](/clan/herron/ulster/)
+- [Herron of Ulster](/families/herron-of-ulster/)
 

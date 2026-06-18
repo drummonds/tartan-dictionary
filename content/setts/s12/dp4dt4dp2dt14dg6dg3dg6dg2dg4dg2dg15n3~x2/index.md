@@ -1,0 +1,55 @@
+---
+title: "Kinloch Anderson Heather"
+date: 2023-03-18
+---
+**Bands:** [BBBBGGGGGGGB](/stripes/bbbbgggggggb/) · **Stripes:** [DP DT DP DT DG DG DG DG DG DG DG N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="seq">DP DT DP DT DG DG DG DG DG DG DG N</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10836
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10836](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10836)
+
+## Thread count
+N/6 Na30 G4 Na8 G4 DG12 Na6 DG12 DN28 Nb4 DN8 Nb/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#132F20;"><span style="color:#132F20;filter:grayscale(1) invert(1) contrast(100);">#132F20</span></code> `#132F20` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| DN | <code style="background-color:#2B213C;"><span style="color:#2B213C;filter:grayscale(1) invert(1) contrast(100);">#2B213C</span></code> `#2B213C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| G | <code style="background-color:#255D5C;"><span style="color:#255D5C;filter:grayscale(1) invert(1) contrast(100);">#255D5C</span></code> `#255D5C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.12 |
+| N | <code style="background-color:#6C6A6B;"><span style="color:#6C6A6B;filter:grayscale(1) invert(1) contrast(100);">#6C6A6B</span></code> `#6C6A6B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| Na | <code style="background-color:#3F533A;"><span style="color:#3F533A;filter:grayscale(1) invert(1) contrast(100);">#3F533A</span></code> `#3F533A` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| Nb | <code style="background-color:#49305A;"><span style="color:#49305A;filter:grayscale(1) invert(1) contrast(100);">#49305A</span></code> `#49305A` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.10 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brydon (Scottish Borders)](/setts/s10/dp2dg16dt16dt2dt2dt2dt2dt15db3lo2~x2/) — ΔT 1.32
+1. [Bruma](/setts/s13/r2do1k1do10r1do10k13n4k1n11dy9n2lr1~x2/) — ΔT 1.33
+1. [Greyfriars](/setts/s11/b30o6dy16dp8dg10dp14dg24lo4dy10dp3dy28/) — ΔT 1.74
+1. [Protheroe (Welsh Name)](/setts/s12/dg5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/) — ΔT 1.79
+1. [Ithilien Heather (Personal)](/setts/s9/dg20r2y3dt12k20r2n3dt4n3~x2/) — ΔT 1.81
+1. [Yeomans (2016)](/setts/s16/dt22k2o3k2dt22k4dg10k2dg10r3k4r3do10dg2do10k3~x2/) — ΔT 1.82
+1. [Van Ingelgem Hunting (Personal)](/setts/s18/k3y18dg3y3dg3y3dg18y3dg3y3dg3y12n2y12dg9y12y2n2~x2/) — ΔT 1.84
+1. [Crawfordjohn Personal Tartan Tartan Number: 6864. Earliest known date: 2005 A tartan for the Barony of Crawfordjohn designed by the present baron, Travis K Svensson. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db10dt22dg7g10dg22dp3dg22g10dg7dt22db10dt8~x2/) — ΔT 1.88
+1. [Doane](/setts/s12/p3dt1do3o8dg4o3dg17do11db6do4db21dt1~x2/) — ΔT 1.88
+1. [Uitwaaien Papi (Personal)](/setts/s7/r5do8dp13dt21dg34dg55r3/) — ΔT 1.93
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dp2dg16dt16dt2dt2dt2dt2dt15db3lo2~x2/"><circle cx="254.9" cy="234.3" r="4" fill="#3465a4"><title>Brydon (Scottish Borders)</title></circle></a><a href="/setts/s13/r2do1k1do10r1do10k13n4k1n11dy9n2lr1~x2/"><circle cx="263.0" cy="210.8" r="4" fill="#3465a4"><title>Bruma</title></circle></a><a href="/setts/s11/b30o6dy16dp8dg10dp14dg24lo4dy10dp3dy28/"><circle cx="212.8" cy="230.7" r="4" fill="#3465a4"><title>Greyfriars</title></circle></a><a href="/setts/s12/dg5dg2db2dg2db2dt5dg2dt1lo1dt1dg10db3~x4/"><circle cx="307.8" cy="248.0" r="4" fill="#3465a4"><title>Protheroe (Welsh Name)</title></circle></a><a href="/setts/s9/dg20r2y3dt12k20r2n3dt4n3~x2/"><circle cx="227.0" cy="223.3" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/setts/s16/dt22k2o3k2dt22k4dg10k2dg10r3k4r3do10dg2do10k3~x2/"><circle cx="252.7" cy="196.1" r="4" fill="#3465a4"><title>Yeomans (2016)</title></circle></a><a href="/setts/s18/k3y18dg3y3dg3y3dg18y3dg3y3dg3y12n2y12dg9y12y2n2~x2/"><circle cx="311.9" cy="240.0" r="4" fill="#3465a4"><title>Van Ingelgem Hunting (Personal)</title></circle></a><a href="/setts/s12/db10dt22dg7g10dg22dp3dg22g10dg7dt22db10dt8~x2/"><circle cx="251.4" cy="291.2" r="4" fill="#3465a4"><title>Crawfordjohn Personal Tartan Tartan Number: 6864. Earliest known date: 2005 A tartan for the Barony of Crawfordjohn designed by the present baron, Travis K Svensson. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/p3dt1do3o8dg4o3dg17do11db6do4db21dt1~x2/"><circle cx="284.0" cy="197.3" r="4" fill="#3465a4"><title>Doane</title></circle></a><a href="/setts/s7/r5do8dp13dt21dg34dg55r3/"><circle cx="309.2" cy="230.5" r="4" fill="#3465a4"><title>Uitwaaien Papi (Personal)</title></circle></a><circle cx="248.5" cy="250.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/dp4dt4dp2dt14dg6dg3dg6dg2dg4dg2dg15n3~x2/

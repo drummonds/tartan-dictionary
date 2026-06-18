@@ -1,0 +1,57 @@
+---
+title: "Masai Shuka 14 (Artefact)"
+date: 2023-03-18
+---
+**Bands:** [RWKWKWKW](/stripes/rwkwkwkw/) · **Stripes:** [R W K W K W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W K W K W K W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7204/
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Glen Feshie Check](/setts/s8/r4w4k3w4k4w4k4w4~x2/)
+
+
+## Thread count
+R/80 W80 K10 W4 K12 W4 K10 W/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#F8D0D0;"><span style="color:#F8D0D0;filter:grayscale(1) invert(1) contrast(100);">#F8D0D0</span></code> `#F8D0D0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.10 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "R/80 W80 K10 W4 K12 W4 K10 W/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bundy, Dress Red (Personal Dance)](/setts/s8/k1r1w1r15w15r1w1k1~x4/) — ΔT 0.93
+1. [Swiss Red](/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/) — ΔT 0.94
+1. [Longniddry Burgundy (Dance)](/setts/s8/r42r2w2r2r5r12w32r4~x2/) — ΔT 1.06
+1. [Torridon, Cherry (Dance)](/setts/s7/r3r2db2r30w30db2w3~x2/) — ΔT 1.10
+1. [Longniddry Dress, Red (Dance)](/setts/s8/r35db2w2db2r4r10w25r3~x2/) — ΔT 1.15
+1. [Cunningham Dress](/setts/s7/w5r2w34r34k2r2db4~x2/) — ΔT 1.20
+1. [Torridon, Burgundy (Dance)](/setts/s7/lg3r2n2r30w30lg2w3~x2/) — ΔT 1.20
+1. [Snoozzzeee (Corporate)](/setts/s9/lb6r3db36r4db12lb24r72lb8db4/) — ΔT 1.25
+1. [Cunningham Dress Burgundy (Dance)](/setts/s7/w5r2w34r34k2r2ly4~x2/) — ΔT 1.27
+1. [31, Tartan (The.. )](/setts/s9/db2r21db1w4db7w2db2w2r2~x2/) — ΔT 1.28
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="324.2" cy="129.4" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="320.2" cy="131.1" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/setts/s8/r42r2w2r2r5r12w32r4~x2/"><circle cx="302.2" cy="116.2" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><a href="/setts/s7/r3r2db2r30w30db2w3~x2/"><circle cx="285.2" cy="126.5" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/setts/s8/r35db2w2db2r4r10w25r3~x2/"><circle cx="298.4" cy="122.2" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2db4~x2/"><circle cx="288.2" cy="118.0" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/setts/s7/lg3r2n2r30w30lg2w3~x2/"><circle cx="276.7" cy="128.7" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/setts/s9/lb6r3db36r4db12lb24r72lb8db4/"><circle cx="307.9" cy="129.2" r="4" fill="#3465a4"><title>Snoozzzeee (Corporate)</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2ly4~x2/"><circle cx="281.4" cy="121.0" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/setts/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="348.0" cy="130.6" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><circle cx="296.6" cy="126.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/r40w40k5w2k6w2k5w6~x2/

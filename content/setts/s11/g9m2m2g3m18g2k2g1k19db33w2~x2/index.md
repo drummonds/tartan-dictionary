@@ -1,0 +1,64 @@
+---
+title: "Pride of Scotland"
+date: 2023-03-18
+---
+**Bands:** [GRRGRGKGKBW](/stripes/grrgrgkgkbw/) · **Stripes:** [G M M G M G K G K DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G M M G M G K G K DB W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3375
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Pride of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3375))
+- pre 1997 — Pride of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2469/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3375](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3375)
+- Scottish Tartans Authority (ITI): 2469
+- Scottish Tartans World Register: 2469
+
+## Thread count
+G/18 R4 P4 G6 P36 G4 K4 G2 K38 DB66 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| P | <code style="background-color:#981C70;"><span style="color:#981C70;filter:grayscale(1) invert(1) contrast(100);">#981C70</span></code> `#981C70` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+| R | <code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> `#A00048` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lang of Sherbrooke (Personal)](/setts/s11/g10ly2dp2g2dp13g2dp2g1k13db24w2~x2/) — ΔT 0.68
+1. [Lang of Sherbrooke (Personal)](/setts/s11/g10ly2k2g2k13g2k2g1dp13db24w2~x2/) — ΔT 0.72
+1. [Accenture](/setts/s10/dp3o1db4g2r2g21o3dp21db25w3~x2/) — ΔT 0.81
+1. [Smithsonian (Corporate)](/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/) — ΔT 1.02
+1. [Spirit of Bannockburn (Fashion)](/setts/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/) — ΔT 1.09
+1. [University of Dundee](/setts/s10/db5o4r6lo1r9db35db5lo1db12w1~x2/) — ΔT 1.16
+1. [Rendell, Charles (Personal)](/setts/s17/k2g2p1g2p1g2p1g12db4k3db3k3db3k3db4dp24r2~x2/) — ΔT 1.19
+1. [Unidentified #7](/setts/s11/db2r2db2r2db20k24dg12ly1k2dg2t2~x2/) — ΔT 1.23
+1. [Cumnock Hunting (District)](/setts/s10/dp23w1dp2db16k3db2k30lo1k2r3~x2/) — ΔT 1.24
+1. [Héritage Séquane](/setts/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10ly2dp2g2dp13g2dp2g1k13db24w2~x2/"><circle cx="176.2" cy="112.3" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/setts/s11/g10ly2k2g2k13g2k2g1dp13db24w2~x2/"><circle cx="173.6" cy="112.8" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/setts/s10/dp3o1db4g2r2g21o3dp21db25w3~x2/"><circle cx="204.5" cy="116.5" r="4" fill="#3465a4"><title>Accenture</title></circle></a><a href="/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/"><circle cx="207.6" cy="108.5" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/setts/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="193.0" cy="108.9" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/setts/s10/db5o4r6lo1r9db35db5lo1db12w1~x2/"><circle cx="282.6" cy="100.6" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/setts/s17/k2g2p1g2p1g2p1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="198.9" cy="89.8" r="4" fill="#3465a4"><title>Rendell, Charles (Personal)</title></circle></a><a href="/setts/s11/db2r2db2r2db20k24dg12ly1k2dg2t2~x2/"><circle cx="232.5" cy="118.2" r="4" fill="#3465a4"><title>Unidentified #7</title></circle></a><a href="/setts/s10/dp23w1dp2db16k3db2k30lo1k2r3~x2/"><circle cx="276.4" cy="108.6" r="4" fill="#3465a4"><title>Cumnock Hunting (District)</title></circle></a><a href="/setts/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/"><circle cx="230.2" cy="113.1" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><circle cx="212.7" cy="95.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/g9m2m2g3m18g2k2g1k19db33w2~x2/

@@ -1,0 +1,62 @@
+---
+title: "O'Brien (Scotch Corner)"
+date: 2023-03-18
+---
+**Bands:** [GGGGBRBRG](/stripes/ggggbrbrg/) · **Stripes:** [Y G Y G B R B R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">Y G Y G B R B R G</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3214
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — O'Brien (Scotch Corner) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3214))
+- pre 2004 — O'Brien #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6173/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3214](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3214)
+- Scottish Tartans Authority (ITI): 6173
+
+## Thread count
+G/24 DR6 B4 DR6 B4 G62 Ga8 G38 Ga/72
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1474B4;"><span style="color:#1474B4;filter:grayscale(1) invert(1) contrast(100);">#1474B4</span></code> `#1474B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| DR | <code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> `#A00000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| Ga | <code style="background-color:#5C6428;"><span style="color:#5C6428;filter:grayscale(1) invert(1) contrast(100);">#5C6428</span></code> `#5C6428` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| Gb | <code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> `#00643C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.05 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Galloway Green (yellow line)](/setts/s6/ly3g2g32g32g2r3~x2/) — ΔT 1.36
+1. [Glenlivet](/setts/s8/g18r6g75db6g13o35g12db6/) — ΔT 1.64
+1. [Irving of Bonshaw](/setts/s5/g27g14dt2g2ly2~x4/) — ΔT 1.74
+1. [Prince David](/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/) — ΔT 1.80
+1. [Gordon Cumming (Artefact)](/setts/s6/ly10g30g25g30k2g3~x2/) — ΔT 1.87
+1. [O'Neill, Martin](/setts/s13/g24g2g4g16g1k2g1g16g3ly1g12y2g5~x2/) — ΔT 1.87
+1. [Castle Bay (Fashion)](/setts/s5/g40w2y5g5y15~x2/) — ΔT 1.87
+1. [Palm Beach Gardens Police](/setts/s6/g32t6g12t28r2db1~x2/) — ΔT 1.89
+1. [Terry](/setts/s13/g33ly1g3r3g3ly1g21ly1g3r3g3ly1g21~x2/) — ΔT 1.93
+1. [ASDA Wal-Mart](/setts/s14/g68r4g6db4g34db4g6r4g68db4g16r4g19db4~x2/) — ΔT 1.95
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly3g2g32g32g2r3~x2/"><circle cx="375.5" cy="224.1" r="4" fill="#3465a4"><title>Galloway Green (yellow line)</title></circle></a><a href="/setts/s8/g18r6g75db6g13o35g12db6/"><circle cx="472.9" cy="228.7" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s5/g27g14dt2g2ly2~x4/"><circle cx="424.9" cy="250.5" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/"><circle cx="364.7" cy="166.0" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/setts/s6/ly10g30g25g30k2g3~x2/"><circle cx="418.6" cy="261.7" r="4" fill="#3465a4"><title>Gordon Cumming (Artefact)</title></circle></a><a href="/setts/s13/g24g2g4g16g1k2g1g16g3ly1g12y2g5~x2/"><circle cx="426.0" cy="189.1" r="4" fill="#3465a4"><title>O'Neill, Martin</title></circle></a><a href="/setts/s5/g40w2y5g5y15~x2/"><circle cx="463.9" cy="238.2" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/setts/s6/g32t6g12t28r2db1~x2/"><circle cx="456.3" cy="226.0" r="4" fill="#3465a4"><title>Palm Beach Gardens Police</title></circle></a><a href="/setts/s13/g33ly1g3r3g3ly1g21ly1g3r3g3ly1g21~x2/"><circle cx="439.7" cy="167.5" r="4" fill="#3465a4"><title>Terry</title></circle></a><a href="/setts/s14/g68r4g6db4g34db4g6r4g68db4g16r4g19db4~x2/"><circle cx="395.0" cy="162.9" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><circle cx="411.0" cy="213.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/y36g19y4g31b2r3b2r3g12~x2/

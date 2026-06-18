@@ -1,0 +1,56 @@
+---
+title: "Ontario Provincial Police"
+date: 2023-03-18
+---
+**Bands:** [BRBWBKBGBKBYW](/stripes/brbwbkbgbkbyw/) · **Stripes:** [DB R DB W DB K DB G DB K DB LY LT](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">DB R DB W DB K DB G DB K DB LY LT</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10019
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10019](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10019)
+
+## Thread count
+DB/36 R4 DB4 W4 DB8 K40 DB32 G8 DB32 K40 DB40 Y4 LB/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#191970;"><span style="color:#191970;filter:grayscale(1) invert(1) contrast(100);">#191970</span></code> `#191970` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| G | <code style="background-color:#2E8B57;"><span style="color:#2E8B57;filter:grayscale(1) invert(1) contrast(100);">#2E8B57</span></code> `#2E8B57` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LB | <code style="background-color:#87CEFA;"><span style="color:#87CEFA;filter:grayscale(1) invert(1) contrast(100);">#87CEFA</span></code> `#87CEFA` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Y | <code style="background-color:#FFD700;"><span style="color:#FFD700;filter:grayscale(1) invert(1) contrast(100);">#FFD700</span></code> `#FFD700` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.06 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ayrshire Tourist Board](/setts/s9/k10p3db4p3k7b3g8k17ly2~x2/) — ΔT 1.38
+1. [Meirhaeghe, Van](/setts/s12/db28k6lo2r2k6db12db5db5db5db3r8w3~x2/) — ΔT 1.58
+1. [Edinburgh Bus Tours](/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/) — ΔT 1.64
+1. [Kennedy](/setts/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/) — ΔT 1.78
+1. [Kennedy (Irish)](/setts/s13/k2b4k14r3k6dy2k2dy2k10db6k2db3w1~x2/) — ΔT 1.83
+1. [City of Sarnia](/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/) — ΔT 1.86
+1. [Parker, Black (2009) (Name)](/setts/s14/k30r3db10ly3k40t5o5db8r3ly5k25db8t8k5/) — ΔT 1.86
+1. [United Services, Planning Association](/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/) — ΔT 1.87
+1. [Loch Lomond Millennium](/setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/) — ΔT 1.88
+1. [Parker Black (2009)](/setts/s14/k30r3db10ly3k40t5n5db8r3ly5k25db8t8k5/) — ΔT 1.89
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k10p3db4p3k7b3g8k17ly2~x2/"><circle cx="235.0" cy="185.6" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/setts/s12/db28k6lo2r2k6db12db5db5db5db3r8w3~x2/"><circle cx="251.6" cy="137.5" r="4" fill="#3465a4"><title>Meirhaeghe, Van</title></circle></a><a href="/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/"><circle cx="258.0" cy="177.7" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/"><circle cx="277.4" cy="140.5" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s13/k2b4k14r3k6dy2k2dy2k10db6k2db3w1~x2/"><circle cx="307.2" cy="153.1" r="4" fill="#3465a4"><title>Kennedy (Irish)</title></circle></a><a href="/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/"><circle cx="237.4" cy="167.5" r="4" fill="#3465a4"><title>City of Sarnia</title></circle></a><a href="/setts/s14/k30r3db10ly3k40t5o5db8r3ly5k25db8t8k5/"><circle cx="304.1" cy="132.0" r="4" fill="#3465a4"><title>Parker, Black (2009) (Name)</title></circle></a><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.0" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/"><circle cx="180.5" cy="159.8" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><a href="/setts/s14/k30r3db10ly3k40t5n5db8r3ly5k25db8t8k5/"><circle cx="307.6" cy="134.0" r="4" fill="#3465a4"><title>Parker Black (2009)</title></circle></a><circle cx="232.9" cy="145.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/db9r1db1w1db2k10db8g2db8k10db10ly1lt2~x4/

@@ -1,0 +1,46 @@
+---
+title: "Strathearn (Royal)"
+date: 2023-03-18
+---
+**Bands:** [GRYRGYGRGRY](/stripes/gryrgygrgry/) · **Stripes:** [G R LY R G LY G R G R LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R LY R G LY G R G R LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1890/
+
+## Thread count
+G/4 R4 Y32 R24 G4 Y4 G4 R24 G24 R4 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Strathearn](/setts/s16/ly1r1g6ly8r1g1r1ly8r6g1ly1g1r6g6r1ly1~x2/) — ΔT 1.13
+1. [Scrimgeour of Glassary](/setts/s12/r32k3lo6g10r6k3lo32k3r6g10lo6k3~x2/) — ΔT 1.39
+1. [MacKinnon 7](/setts/s11/w2r4g8r16t2r3g16r4t2r4w2~x2/) — ΔT 1.40
+1. [MacNeish](/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/) — ΔT 1.43
+1. [Glassary #2](/setts/s8/db4ly1r12ly2r2ly12r1db4~x4/) — ΔT 1.48
+1. [Glassary #3](/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/) — ΔT 1.50
+1. [MacDougall (Lochcarron)](/setts/s19/w6r2g16r3g2r3g6w2r2w2g6r7g6r2g2r16w2r2w2~x2/) — ΔT 1.51
+1. [Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r12w2lo3w2r3k5r2lo18w2~x2/) — ΔT 1.55
+1. [MacKinnon #10](/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/) — ΔT 1.65
+1. [MacNab (Clan)](/setts/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2/) — ΔT 1.67
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/ly1r1g6ly8r1g1r1ly8r6g1ly1g1r6g6r1ly1~x2/"><circle cx="203.7" cy="167.4" r="4" fill="#3465a4"><title>Strathearn</title></circle></a><a href="/setts/s12/r32k3lo6g10r6k3lo32k3r6g10lo6k3~x2/"><circle cx="212.4" cy="149.3" r="4" fill="#3465a4"><title>Scrimgeour of Glassary</title></circle></a><a href="/setts/s11/w2r4g8r16t2r3g16r4t2r4w2~x2/"><circle cx="265.5" cy="179.5" r="4" fill="#3465a4"><title>MacKinnon 7</title></circle></a><a href="/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/"><circle cx="268.5" cy="163.0" r="4" fill="#3465a4"><title>MacNeish</title></circle></a><a href="/setts/s8/db4ly1r12ly2r2ly12r1db4~x4/"><circle cx="236.2" cy="170.0" r="4" fill="#3465a4"><title>Glassary #2</title></circle></a><a href="/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/"><circle cx="298.6" cy="171.7" r="4" fill="#3465a4"><title>Glassary #3</title></circle></a><a href="/setts/s19/w6r2g16r3g2r3g6w2r2w2g6r7g6r2g2r16w2r2w2~x2/"><circle cx="229.4" cy="162.7" r="4" fill="#3465a4"><title>MacDougall (Lochcarron)</title></circle></a><a href="/setts/s9/r12w2lo3w2r3k5r2lo18w2~x2/"><circle cx="230.4" cy="165.0" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="260.3" cy="173.6" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/setts/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2/"><circle cx="221.3" cy="188.2" r="4" fill="#3465a4"><title>MacNab (Clan)</title></circle></a><circle cx="233.4" cy="182.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/

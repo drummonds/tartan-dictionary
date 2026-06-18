@@ -1,0 +1,55 @@
+---
+title: "Carter (Savannah)"
+date: 2023-03-18
+---
+**Bands:** [BGYGYBYBGY](/stripes/bgygybybgy/) · **Stripes:** [DO Y LY Y LY DO LG DO Y LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DO Y LY Y LY DO LG DO Y LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10259
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10259](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10259)
+
+## Thread count
+T/8 N52 Na2 N4 Na4 T8 B52 T8 G6 Y/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#76A3B9;"><span style="color:#76A3B9;filter:grayscale(1) invert(1) contrast(100);">#76A3B9</span></code> `#76A3B9` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.26 |
+| G | <code style="background-color:#6A8A67;"><span style="color:#6A8A67;filter:grayscale(1) invert(1) contrast(100);">#6A8A67</span></code> `#6A8A67` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| N | <code style="background-color:#4A664C;"><span style="color:#4A664C;filter:grayscale(1) invert(1) contrast(100);">#4A664C</span></code> `#4A664C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.11 |
+| Na | <code style="background-color:#B6BE8F;"><span style="color:#B6BE8F;filter:grayscale(1) invert(1) contrast(100);">#B6BE8F</span></code> `#B6BE8F` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| T | <code style="background-color:#412719;"><span style="color:#412719;filter:grayscale(1) invert(1) contrast(100);">#412719</span></code> `#412719` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| Y | <code style="background-color:#D9C341;"><span style="color:#D9C341;filter:grayscale(1) invert(1) contrast(100);">#D9C341</span></code> `#D9C341` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Chisholm Colonial](/setts/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/) — ΔT 0.86
+1. [O'Rourke (Estimated threadcount)](/setts/s9/t25k1dy6k1lr10w3lr10k1ly3~x4/) — ΔT 1.00
+1. [Carter (Savannah) (Personal)](/setts/s10/dy4g26lb1g2lb2dy4lg26dy4g3ly3~x2/) — ΔT 1.08
+1. [State Seal of Idaho (Fashion)](/setts/s12/lb4k1b33lb4lo15g4lo3b4lo15lo2g30k2~x2/) — ΔT 1.10
+1. [Hobkirk (School)](/setts/s10/b5w1m9b5r4b5g20ly1g1ly1~x4/) — ΔT 1.15
+1. [The Climb (Fashion)](/setts/s8/y2dg9r16r2b30y3dg6lb1~x2/) — ΔT 1.19
+1. [Connecticut](/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/) — ΔT 1.22
+1. [State Seal of Pennsylvania (Fashion)](/setts/s9/lo4k1g28k6dy18lb4b41k1lb3~x2/) — ΔT 1.22
+1. [Yorkland](/setts/s8/db30r2db4w1o11g4ly2g22~x2/) — ΔT 1.26
+1. [Connecticut, State of](/setts/s10/b20o2w1o5g8ly1g2r1g8o8~x4/) — ΔT 1.27
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/"><circle cx="265.3" cy="127.3" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/setts/s9/t25k1dy6k1lr10w3lr10k1ly3~x4/"><circle cx="238.7" cy="115.5" r="4" fill="#3465a4"><title>O'Rourke (Estimated threadcount)</title></circle></a><a href="/setts/s10/dy4g26lb1g2lb2dy4lg26dy4g3ly3~x2/"><circle cx="228.6" cy="112.7" r="4" fill="#3465a4"><title>Carter (Savannah) (Personal)</title></circle></a><a href="/setts/s12/lb4k1b33lb4lo15g4lo3b4lo15lo2g30k2~x2/"><circle cx="206.2" cy="103.8" r="4" fill="#3465a4"><title>State Seal of Idaho (Fashion)</title></circle></a><a href="/setts/s10/b5w1m9b5r4b5g20ly1g1ly1~x4/"><circle cx="240.8" cy="136.6" r="4" fill="#3465a4"><title>Hobkirk (School)</title></circle></a><a href="/setts/s8/y2dg9r16r2b30y3dg6lb1~x2/"><circle cx="267.0" cy="127.6" r="4" fill="#3465a4"><title>The Climb (Fashion)</title></circle></a><a href="/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/"><circle cx="217.9" cy="139.6" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/setts/s9/lo4k1g28k6dy18lb4b41k1lb3~x2/"><circle cx="226.9" cy="101.6" r="4" fill="#3465a4"><title>State Seal of Pennsylvania (Fashion)</title></circle></a><a href="/setts/s8/db30r2db4w1o11g4ly2g22~x2/"><circle cx="276.6" cy="130.4" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/setts/s10/b20o2w1o5g8ly1g2r1g8o8~x4/"><circle cx="229.2" cy="150.0" r="4" fill="#3465a4"><title>Connecticut, State of</title></circle></a><circle cx="236.5" cy="109.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/do4y26ly1y2ly2do4lg26do4y3ly3~x2/

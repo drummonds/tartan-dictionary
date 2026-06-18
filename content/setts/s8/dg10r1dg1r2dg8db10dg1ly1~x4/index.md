@@ -1,0 +1,72 @@
+---
+title: "Glen Esk"
+date: 2023-03-18
+---
+**Bands:** [GRGRGBGY](/stripes/grgrgbgy/) · **Stripes:** [DG R DG R DG DB DG LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG R DG R DG DB DG LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Glen Esk (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376))
+- pre 2002 — Glen Esk (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5006/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1376](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376)
+- Scottish Tartans Authority (ITI): 5006
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Glen Nevis #1 (Fashion)](/setts/s8/dg8r2dg2r3dg8db12dg2ly2~x2/)
+
+
+## Thread count
+G/40 DR4 G4 DR8 G32 B40 G4 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#0000B4;"><span style="color:#0000B4;filter:grayscale(1) invert(1) contrast(100);">#0000B4</span></code> `#0000B4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DR | <code style="background-color:#9C0030;"><span style="color:#9C0030;filter:grayscale(1) invert(1) contrast(100);">#9C0030</span></code> `#9C0030` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| G | <code style="background-color:#004800;"><span style="color:#004800;filter:grayscale(1) invert(1) contrast(100);">#004800</span></code> `#004800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.08 |
+| Y | <code style="background-color:#FCC800;"><span style="color:#FCC800;filter:grayscale(1) invert(1) contrast(100);">#FCC800</span></code> `#FCC800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/40 DR4 G4 DR8 G32 B40 G4 Y/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacIntyre L](/setts/s6/dg4db12r3db12dg32lb4/) — ΔT 0.81
+1. [Heritage Tartan, The](/setts/s6/db8r4db24g35lb4g8/) — ΔT 0.93
+1. [MacIntyre LC](/setts/s6/dg4db12r3db12dg32lr4~x2/) — ΔT 0.99
+1. [MacIntyre LC](/setts/s6/dg4db12r3db12dg32lr4/) — ΔT 0.99
+1. [Rowan](/setts/s9/db1k1db8ly1g12ly1db8k1db1~x2/) — ΔT 1.02
+1. [Greenways Marketing Intl (Corporate)](/setts/s7/db24g3db3g3lo2g18r2~x2/) — ΔT 1.04
+1. [MacIntyre](/setts/s6/dg4db12r3db12dg32w4~x2/) — ΔT 1.08
+1. [Greenways Marketing Intl](/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/) — ΔT 1.08
+1. [MacHardy](/setts/s8/db3r3g18db16w2db26r3g3~x2/) — ΔT 1.09
+1. [Kells Irish Pubs (Corporate)](/setts/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/) — ΔT 1.09
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg4db12r3db12dg32lb4/"><circle cx="301.3" cy="218.6" r="4" fill="#3465a4"><title>MacIntyre L</title></circle></a><a href="/setts/s6/db8r4db24g35lb4g8/"><circle cx="284.9" cy="228.4" r="4" fill="#3465a4"><title>Heritage Tartan, The</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32lr4~x2/"><circle cx="322.1" cy="228.8" r="4" fill="#3465a4"><title>MacIntyre LC</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32lr4/"><circle cx="322.1" cy="228.8" r="4" fill="#3465a4"><title>MacIntyre LC</title></circle></a><a href="/setts/s9/db1k1db8ly1g12ly1db8k1db1~x2/"><circle cx="297.4" cy="177.3" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/setts/s7/db24g3db3g3lo2g18r2~x2/"><circle cx="312.4" cy="197.0" r="4" fill="#3465a4"><title>Greenways Marketing Intl (Corporate)</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32w4~x2/"><circle cx="323.4" cy="226.0" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/"><circle cx="335.6" cy="174.7" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/setts/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="360.6" cy="198.3" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/setts/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/"><circle cx="325.0" cy="180.6" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><circle cx="324.8" cy="208.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/dg10r1dg1r2dg8db10dg1ly1~x4/

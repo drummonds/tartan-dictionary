@@ -1,0 +1,49 @@
+---
+title: "Campbell Brown Personal Tartan Tartan Number: 17. Earliest known date: pre 1992 Specially made for Captain Campbell of the Blythswood family. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [WKBGBGBGBGBKY](/stripes/wkbgbgbgbgbky/) · **Stripes:** [W K DR G DB G DB G DB G DR K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K DR G DB G DB G DB G DR K LY</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=17
+
+## Thread count
+LN/18 K2 DR62 G60 DB72 G6 DB6 G6 DB72 G60 DR62 K2 Y/18
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DR | <code style="background-color:#480800;"><span style="color:#480800;filter:grayscale(1) invert(1) contrast(100);">#480800</span></code> `#480800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.24 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Campbell, Brown (Personal)](/setts/s13/ly9k1o31g30db36g3db3g3db36g30o31k1w9/) — ΔT 0.27
+1. [Groen (Personal)](/setts/s11/n12r2n3r4n15k24dg18ly1k3dg3w3~x2/) — ΔT 0.80
+1. [Unidentified Flora MacDonald](/setts/s15/ly6k1dg10r3dg3r3dg16k24db18r30db20k24db30k1w6~x2/) — ΔT 0.99
+1. [Glynn of Glynnstewart (Personal)](/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/) — ΔT 1.19
+1. [Adams (Name)](/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/) — ΔT 1.25
+1. [Cumming](/setts/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/) — ΔT 1.28
+1. [Womack (2014)](/setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1do14~x2/) — ΔT 1.28
+1. [Womack (2014)](/setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1dr14~x2/) — ΔT 1.28
+1. [Paget (Personal)](/setts/s14/r3g4y2g10k18g2dp18g3dp18g2k18g18w1r3~x2/) — ΔT 1.28
+1. [Adams](/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/) — ΔT 1.28
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly9k1o31g30db36g3db3g3db36g30o31k1w9/"><circle cx="177.7" cy="103.7" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/setts/s11/n12r2n3r4n15k24dg18ly1k3dg3w3~x2/"><circle cx="176.1" cy="120.7" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/setts/s15/ly6k1dg10r3dg3r3dg16k24db18r30db20k24db30k1w6~x2/"><circle cx="151.2" cy="100.9" r="4" fill="#3465a4"><title>Unidentified Flora MacDonald</title></circle></a><a href="/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="206.7" cy="115.5" r="4" fill="#3465a4"><title>Glynn of Glynnstewart (Personal)</title></circle></a><a href="/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/"><circle cx="208.1" cy="141.5" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/setts/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/"><circle cx="129.8" cy="108.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1do14~x2/"><circle cx="176.4" cy="117.9" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1dr14~x2/"><circle cx="178.7" cy="117.8" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/setts/s14/r3g4y2g10k18g2dp18g3dp18g2k18g18w1r3~x2/"><circle cx="172.6" cy="137.2" r="4" fill="#3465a4"><title>Paget (Personal)</title></circle></a><a href="/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/"><circle cx="193.3" cy="148.6" r="4" fill="#3465a4"><title>Adams</title></circle></a><circle cx="181.0" cy="107.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/ly9k1dr31g30db36g3db3g3db36g30dr31k1w9~x2/

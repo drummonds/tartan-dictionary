@@ -1,0 +1,46 @@
+---
+title: "Campbell Collegiate (Corporate)"
+date: 2023-03-18
+---
+**Bands:** [YKYKGKGKYKYKY](/stripes/ykykgkgkykyky/) · **Stripes:** [LY K LY K DG K DG K LY K LY K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K LY K DG K DG K LY K LY K LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10456/
+
+## Thread count
+Y/6 K6 Y32 K26 DG32 K8 DG32 K26 Y6 K6 Y6 K6 Y/36
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.04 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Campbell Collegiate](/setts/s13/ly18k3ly3k3ly3k13g16k4g16k13ly16k3ly3~x2/) — ΔT 0.90
+1. [Poulter, Green (Corporate)](/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/) — ΔT 1.24
+1. [Dundee United Football Club](/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/) — ΔT 1.37
+1. [Brown Watch](/setts/s13/lo12k2lo2k2lo2k10g12k3g12k10lo12k2lo2~x2/) — ΔT 1.40
+1. [Kinloch Anderson Check Fashion Tartan Tartan Number: 3003. Earliest known date: 2002 Designed by Douglas Kinloch Anderson for his Japanese & Korean markets. The use of the word 'Check' indicates that they regard it as a 'fashion tartan'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k18lo2k2lo3k2lo2k18lo12ly18dy3ly18lo9~x2/) — ΔT 1.47
+1. [Lamont Dress](/setts/s8/k11g3k3g3k3g9w18k3~x2/) — ΔT 1.52
+1. [Dalgliesh Dress](/setts/s11/g10k10lb4k2ly2k2lb3k12lb12k2lb3~x2/) — ΔT 1.59
+1. [Grey Watch Dress (1989)](/setts/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/) — ΔT 1.67
+1. [Londonderry Irish County Tartan Tartan Number: 2279. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/g10lo8r5k2g3k2r5lo8g12k2r6k2g2~x4/) — ΔT 1.67
+1. [Poulter, Grey (Corporate)](/setts/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/) — ΔT 1.69
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly18k3ly3k3ly3k13g16k4g16k13ly16k3ly3~x2/"><circle cx="136.3" cy="199.1" r="4" fill="#3465a4"><title>Campbell Collegiate</title></circle></a><a href="/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/"><circle cx="138.7" cy="189.1" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/"><circle cx="150.3" cy="217.6" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><a href="/setts/s13/lo12k2lo2k2lo2k10g12k3g12k10lo12k2lo2~x2/"><circle cx="174.9" cy="222.3" r="4" fill="#3465a4"><title>Brown Watch</title></circle></a><a href="/setts/s12/k18lo2k2lo3k2lo2k18lo12ly18dy3ly18lo9~x2/"><circle cx="149.2" cy="159.6" r="4" fill="#3465a4"><title>Kinloch Anderson Check Fashion Tartan Tartan Number: 3003. Earliest known date: 2002 Designed by Douglas Kinloch Anderson for his Japanese &amp; Korean markets. The use of the word 'Check' indicates that they regard it as a 'fashion tartan'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k11g3k3g3k3g9w18k3~x2/"><circle cx="156.9" cy="215.2" r="4" fill="#3465a4"><title>Lamont Dress</title></circle></a><a href="/setts/s11/g10k10lb4k2ly2k2lb3k12lb12k2lb3~x2/"><circle cx="166.3" cy="195.2" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/setts/s13/n12dt2n2dt2n2dt10w12dt3w12dt10n12dt2n2~x2/"><circle cx="148.8" cy="201.9" r="4" fill="#3465a4"><title>Grey Watch Dress (1989)</title></circle></a><a href="/setts/s13/g10lo8r5k2g3k2r5lo8g12k2r6k2g2~x4/"><circle cx="146.5" cy="202.6" r="4" fill="#3465a4"><title>Londonderry Irish County Tartan Tartan Number: 2279. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w25k4w4k4w4k23n23w4n23k23w23k4w4~x2/"><circle cx="149.4" cy="192.5" r="4" fill="#3465a4"><title>Poulter, Grey (Corporate)</title></circle></a><circle cx="143.9" cy="201.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/

@@ -1,0 +1,56 @@
+---
+title: "Gillies Dress Blue"
+date: 2023-03-18
+---
+**Bands:** [BWBWKBRBKY](/stripes/bwbwkbrbky/) · **Stripes:** [B W B W K B R B K LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B W B W K B R B K LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1342
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1342](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1342)
+- Scottish Tartans Authority (ITI): 637
+- Scottish Tartans World Register: 637
+
+## Thread count
+B/4 W8 B4 W44 K32 B24 R12 B24 K3 DY/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2474E8;"><span style="color:#2474E8;filter:grayscale(1) invert(1) contrast(100);">#2474E8</span></code> `#2474E8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/) — ΔT 0.99
+1. [Ferguson, dress](/setts/s7/t34db24w18r3w18g2w3~x2/) — ΔT 1.05
+1. [Bradey Blue Dress](/setts/s9/m1k1w13b13db7k7w13k1m1~x4/) — ΔT 1.09
+1. [Arran - 1989 (Fashion)](/setts/s8/t12k1t1k1t1db8w9o2~x4/) — ΔT 1.10
+1. [Davidson (Wedding) (Personal)](/setts/s7/r2db14k6g1w12g1w2~x4/) — ΔT 1.11
+1. [Earl of St. Andrews Dress](/setts/s7/w20db14dt14w4db2b2dt7~x2/) — ΔT 1.16
+1. [St. Andrews Dress, Earl of](/setts/s12/db7p2db2w4db19t19w28t19db19w4db2p2~x2/) — ΔT 1.16
+1. [Culloden Dress Ancient](/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/) — ΔT 1.16
+1. [Ferguson Dress](/setts/s7/t17k12w9m2w9g1w2~x4/) — ΔT 1.18
+1. [Dinarzh: Fortress of the Bear](/setts/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/"><circle cx="152.4" cy="122.8" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.2" cy="149.8" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s9/m1k1w13b13db7k7w13k1m1~x4/"><circle cx="155.1" cy="135.3" r="4" fill="#3465a4"><title>Bradey Blue Dress</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9o2~x4/"><circle cx="156.2" cy="142.5" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.5" cy="138.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s7/w20db14dt14w4db2b2dt7~x2/"><circle cx="129.2" cy="171.8" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/setts/s12/db7p2db2w4db19t19w28t19db19w4db2p2~x2/"><circle cx="148.5" cy="136.6" r="4" fill="#3465a4"><title>St. Andrews Dress, Earl of</title></circle></a><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.7" cy="141.6" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s7/t17k12w9m2w9g1w2~x4/"><circle cx="156.1" cy="150.7" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/setts/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/"><circle cx="125.0" cy="114.8" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><circle cx="106.9" cy="132.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/lo12k3b24r12b24k32w44b4w8b4/

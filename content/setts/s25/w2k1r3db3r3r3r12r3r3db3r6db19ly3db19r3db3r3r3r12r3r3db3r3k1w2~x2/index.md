@@ -1,0 +1,51 @@
+---
+title: "Fitzgerald Dress (Name)"
+date: 2023-03-18
+---
+**Bands:** [WKRBRRRRRBRBYBRBRRRRRBRKW](/stripes/wkrbrrrrrbrbybrbrrrrrbrkw/) · **Stripes:** [W K R DB R R R R R DB R DB LY DB R DB R R R R R DB R K W](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K R DB R R R R R DB R DB LY DB R DB R R R R R DB R K W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [25 band tartan](/bands/bands25/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/1818/
+
+## Thread count
+LN/4 K2 R6 DB6 R6 DR6 R24 DR6 R6 DBa6 R12 DBa38 LG6 DBb38 R6 DBa6 R6 DR6 R24 DR6 R6 DB6 R6 K2 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000088;"><span style="color:#000088;filter:grayscale(1) invert(1) contrast(100);">#000088</span></code> `#000088` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DBa | <code style="background-color:#000088;"><span style="color:#000088;filter:grayscale(1) invert(1) contrast(100);">#000088</span></code> `#000088` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DBb | <code style="background-color:#000088;"><span style="color:#000088;filter:grayscale(1) invert(1) contrast(100);">#000088</span></code> `#000088` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#9C0030;"><span style="color:#9C0030;filter:grayscale(1) invert(1) contrast(100);">#9C0030</span></code> `#9C0030` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LG | <code style="background-color:#9C9C00;"><span style="color:#9C9C00;filter:grayscale(1) invert(1) contrast(100);">#9C9C00</span></code> `#9C9C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C40000;"><span style="color:#C40000;filter:grayscale(1) invert(1) contrast(100);">#C40000</span></code> `#C40000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fitzgerald Family Tartan Tartan Number: 1818. Earliest known date: 1985 One of four Fitzgerald tartans all apparently designed by Robert P. Fitzgerald of Philadelphia. Starting with this variation of Robertson (for no discernible reason) he then designed the blue and hunting as color variations and a further "fancy dress" version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/) — ΔT 1.45
+1. [Unnamed C18th - Hynde Cotton Jacket](/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/) — ΔT 1.56
+1. [Mackintosh #7](/setts/s36/dp7w1dp7w1dp24w1dp2t2w1t2dp2w1dg10g3w1dp4t2w1r3w1t2dp3w1g3dg10w1dp2t2w1t2dp2w1dp6r16k2r2~x2/) — ΔT 1.57
+1. [Brides Plaid](/setts/s31/r4w1lb2dp4w1dg2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8r6w1~x2/) — ΔT 1.68
+1. [Fitzgerald dress](/setts/s25/w2k1r3t3r3r3r12r3r3db3r3db19ly3g19r3db3r3r3r12r3r3t3r3k1w2~x2/) — ΔT 1.69
+1. [Dundee Pink Variation](/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/) — ΔT 1.74
+1. [Fitzgerald Dress](/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/) — ΔT 1.75
+1. [Brides Plaid Artifact Tartan Tartan Number: 1680. Earliest known date: 1730 Previously listed as unidentified. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s31/r4w1t2dp4w1g2db8w1dp2t2w1t2dp2w1dp16w1dp6w1dp6w1dp16w1dp2t2w1t2dp2w1r8r6w1~x2/) — ΔT 1.83
+1. [Inverclyde](/setts/s20/db5db2db9n10t2n4t2g10r33w2r33g10t2n4t2n10db9db2db5w3~x2/) — ΔT 1.85
+1. [Bethune Name Tartan Tartan Number: 2428. Earliest known date: pre 1997 Designed by Phil Smith - same as Macbeth but with the addition of a light blue stripe in the middle of the darker blue ground. Count said to be from William MacIntosh & Co. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18t2~x4/) — ΔT 1.90
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/"><circle cx="142.2" cy="38.3" r="4" fill="#3465a4"><title>Fitzgerald Family Tartan Tartan Number: 1818. Earliest known date: 1985 One of four Fitzgerald tartans all apparently designed by Robert P. Fitzgerald of Philadelphia. Starting with this variation of Robertson (for no discernible reason) he then designed the blue and hunting as color variations and a further &quot;fancy dress&quot; version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><circle cx="142.1" cy="58.0" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Jacket</title></circle></a><a href="/setts/s36/dp7w1dp7w1dp24w1dp2t2w1t2dp2w1dg10g3w1dp4t2w1r3w1t2dp3w1g3dg10w1dp2t2w1t2dp2w1dp6r16k2r2~x2/"><circle cx="173.5" cy="14.0" r="4" fill="#3465a4"><title>Mackintosh #7</title></circle></a><a href="/setts/s31/r4w1lb2dp4w1dg2db8w1dp2lb2w1lb2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lb2w1lb2dp2w1r8r6w1~x2/"><circle cx="191.5" cy="32.2" r="4" fill="#3465a4"><title>Brides Plaid</title></circle></a><a href="/setts/s25/w2k1r3t3r3r3r12r3r3db3r3db19ly3g19r3db3r3r3r12r3r3t3r3k1w2~x2/"><circle cx="141.6" cy="39.4" r="4" fill="#3465a4"><title>Fitzgerald dress</title></circle></a><a href="/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/"><circle cx="119.5" cy="35.2" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><a href="/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/"><circle cx="185.7" cy="19.3" r="4" fill="#3465a4"><title>Fitzgerald Dress</title></circle></a><a href="/setts/s31/r4w1t2dp4w1g2db8w1dp2t2w1t2dp2w1dp16w1dp6w1dp6w1dp16w1dp2t2w1t2dp2w1r8r6w1~x2/"><circle cx="222.6" cy="43.4" r="4" fill="#3465a4"><title>Brides Plaid Artifact Tartan Tartan Number: 1680. Earliest known date: 1730 Previously listed as unidentified. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/db5db2db9n10t2n4t2g10r33w2r33g10t2n4t2n10db9db2db5w3~x2/"><circle cx="177.3" cy="69.1" r="4" fill="#3465a4"><title>Inverclyde</title></circle></a><a href="/setts/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18t2~x4/"><circle cx="103.1" cy="51.5" r="4" fill="#3465a4"><title>Bethune Name Tartan Tartan Number: 2428. Earliest known date: pre 1997 Designed by Phil Smith - same as Macbeth but with the addition of a light blue stripe in the middle of the darker blue ground. Count said to be from William MacIntosh &amp; Co. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="134.4" cy="38.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s25/w2k1r3db3r3r3r12r3r3db3r6db19ly3db19r3db3r3r3r12r3r3db3r3k1w2~x2/

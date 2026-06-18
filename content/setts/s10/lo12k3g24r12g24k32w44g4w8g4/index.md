@@ -1,0 +1,56 @@
+---
+title: "Gillies Dress Green"
+date: 2023-03-18
+---
+**Bands:** [GWGWKGRGKY](/stripes/gwgwkgrgky/) · **Stripes:** [G W G W K G R G K LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G W G W K G R G K LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1344
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1344](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1344)
+- Scottish Tartans Authority (ITI): 638
+- Scottish Tartans World Register: 638
+
+## Thread count
+DY/12 K3 G24 R12 G24 K32 W44 G4 W8 G/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Spanish shirt](/setts/s10/w7r1w14k6lo2k6g14r2g10lo1~x2/) — ΔT 0.69
+1. [Hackett, William (Coatbridge) (Personal)](/setts/s8/k20w4r4w20dg20w5dg2g2~x2/) — ΔT 0.95
+1. [Gillies, dress Green](/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/) — ΔT 0.95
+1. [MacDuff, dress](/setts/s10/r5k1r5g9k7w3db3w15db1r2~x2/) — ΔT 0.99
+1. [MacLaren dress](/setts/s8/db7w30k13g9r6g16k2ly7~x2/) — ΔT 1.04
+1. [Gigha, Green (Dance)](/setts/s8/db4w2db1w18dg18g18ly3g4~x2/) — ΔT 1.04
+1. [Project, Faith Inc (Corporate)](/setts/s10/ly22k11ly10k2g2k2ly10k11ly7r2~x2/) — ΔT 1.06
+1. [National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dg2do8dg8r3do1w12dg2y1~x2/) — ΔT 1.08
+1. [Carnegie Dress #2 (Fashion)](/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/) — ΔT 1.09
+1. [MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dg17t3dg17k15w33db8w33k15dg17t3dg17t3~x2/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w7r1w14k6lo2k6g14r2g10lo1~x2/"><circle cx="127.6" cy="143.3" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/setts/s8/k20w4r4w20dg20w5dg2g2~x2/"><circle cx="122.8" cy="152.4" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/"><circle cx="84.7" cy="116.5" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/setts/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="112.2" cy="127.1" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s8/db7w30k13g9r6g16k2ly7~x2/"><circle cx="76.0" cy="132.5" r="4" fill="#3465a4"><title>MacLaren dress</title></circle></a><a href="/setts/s8/db4w2db1w18dg18g18ly3g4~x2/"><circle cx="136.8" cy="140.4" r="4" fill="#3465a4"><title>Gigha, Green (Dance)</title></circle></a><a href="/setts/s10/ly22k11ly10k2g2k2ly10k11ly7r2~x2/"><circle cx="129.1" cy="143.4" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/setts/s8/dg2do8dg8r3do1w12dg2y1~x2/"><circle cx="123.1" cy="151.9" r="4" fill="#3465a4"><title>National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/"><circle cx="87.8" cy="137.9" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/setts/s12/dg17t3dg17k15w33db8w33k15dg17t3dg17t3~x2/"><circle cx="114.0" cy="158.4" r="4" fill="#3465a4"><title>MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="107.4" cy="134.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/lo12k3g24r12g24k32w44g4w8g4/

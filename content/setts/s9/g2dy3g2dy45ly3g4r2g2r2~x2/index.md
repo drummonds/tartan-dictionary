@@ -1,0 +1,60 @@
+---
+title: "Welsh Stanley–Gpa (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GGGGYGRGR](/stripes/ggggygrgr/) · **Stripes:** [G DY G DY LY G R G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DY G DY LY G R G R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 10/03/2011 — Welsh Stanley–Gpa (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388))
+- 10th March 2011 — Welsh, Stanly-Gpa (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10388/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388)
+
+## Thread count
+G/4 T6 G4 T90 Y6 G8 R4 G4 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#386818;"><span style="color:#386818;filter:grayscale(1) invert(1) contrast(100);">#386818</span></code> `#386818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.05 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Yarrow](/setts/s11/dy42do10t2do2lo2do2dy10lo6do2lo3dy2~x2/) — ΔT 1.43
+1. [Portosalvo (Corporate)](/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/) — ΔT 1.74
+1. [Spencer](/setts/s11/y40n3y8r2y2w2y10n6do2n2w2~x2/) — ΔT 1.87
+1. [Leiato of American Samoa (Personal)](/setts/s7/dy45k5dy28k5r5w2do6~x2/) — ΔT 1.93
+1. [Reid (1939)](/setts/s6/y40r8y4w2y4ly5~x2/) — ΔT 2.09
+1. [Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/) — ΔT 2.10
+1. [MacAndrew Hunting (Name)](/setts/s6/y72k8y4dy16y7o2~x2/) — ΔT 2.14
+1. [Ridgeback (Corporate)](/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/) — ΔT 2.14
+1. [Fermanagh (1990)](/setts/s9/n44do4n1k1n4y4k1db4do4~x2/) — ΔT 2.22
+1. [Seton, hunting](/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/) — ΔT 2.25
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dy42do10t2do2lo2do2dy10lo6do2lo3dy2~x2/"><circle cx="506.3" cy="168.9" r="4" fill="#3465a4"><title>Yarrow</title></circle></a><a href="/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/"><circle cx="539.7" cy="141.6" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/setts/s11/y40n3y8r2y2w2y10n6do2n2w2~x2/"><circle cx="539.3" cy="141.0" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/setts/s7/dy45k5dy28k5r5w2do6~x2/"><circle cx="547.3" cy="188.4" r="4" fill="#3465a4"><title>Leiato of American Samoa (Personal)</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="566.4" cy="187.8" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="473.5" cy="165.8" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/y72k8y4dy16y7o2~x2/"><circle cx="626.0" cy="208.8" r="4" fill="#3465a4"><title>MacAndrew Hunting (Name)</title></circle></a><a href="/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/"><circle cx="541.1" cy="129.3" r="4" fill="#3465a4"><title>Ridgeback (Corporate)</title></circle></a><a href="/setts/s9/n44do4n1k1n4y4k1db4do4~x2/"><circle cx="578.9" cy="129.0" r="4" fill="#3465a4"><title>Fermanagh (1990)</title></circle></a><a href="/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><circle cx="464.8" cy="157.6" r="4" fill="#3465a4"><title>Seton, hunting</title></circle></a><circle cx="586.9" cy="162.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/g2dy3g2dy45ly3g4r2g2r2~x2/

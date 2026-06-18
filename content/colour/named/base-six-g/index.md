@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#006100;border:1px solid #0003;flex:none"></span><div><strong>Green</strong> · code <code>G</code> · Base Six · ref <code>17-06-15</code><br>sRGB <code>#006100</code> · OKLab L 0.427 a -0.115 b +0.088 · grid <code>17-06-142</code></div></div>
 
+Green — the base role tartan grounds are most often woven in.
+
 The nearest named colour is **Green** (Human Palette), 0.130 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
@@ -13,7 +15,7 @@ The nearest named colour is **Green** (Human Palette), 0.130 away in OKLab ΔE.
 | <code style="background-color:#053819;"><span style="color:#053819;filter:grayscale(1) invert(1) contrast(100);">#053819</span></code> | [Bottle](/colour/named/human-palette-dg/) | DG | Human Palette | 0.146 |
 | <code style="background-color:#636363;"><span style="color:#636363;filter:grayscale(1) invert(1) contrast(100);">#636363</span></code> | [Grey](/colour/named/human-palette-n/) | N | Human Palette | 0.162 |
 | <code style="background-color:#8B6E00;"><span style="color:#8B6E00;filter:grayscale(1) invert(1) contrast(100);">#8B6E00</span></code> | [Yellow](/colour/named/human-palette-y/) | Y | Human Palette | 0.171 |
-| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dbg/) | DBG | Human Palette | 0.177 |
+| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dt/) | DT | Human Palette | 0.177 |
 | <code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> | [Olive](/colour/named/human-palette-dy/) | DY | Human Palette | 0.181 |
 
 Where it sits among the grid colours of its lightness level — the ringed dot, hue by angle, chroma by radius:

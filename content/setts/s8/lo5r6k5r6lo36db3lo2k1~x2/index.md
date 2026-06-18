@@ -1,0 +1,51 @@
+---
+title: "Lermontov Bicentenary"
+date: 2023-03-18
+---
+**Bands:** [KYBYRKRY](/stripes/kybyrkry/) · **Stripes:** [K LO DB LO R K R LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO DB LO R K R LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/11000/
+
+## Thread count
+DY/10 DR12 K10 DR12 DY72 DB6 DY4 K/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> `#A00000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DY/10 DR12 K10 DR12 DY72 DB6 DY4 K/2 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lermontov Bicentenary](/setts/s8/lo5r6k5r6lo36b3lo2k1~x2/) — ΔT 0.37
+1. [Irn Bru](/setts/s8/lo98db32k3w6db4w4db6lo4/) — ΔT 1.22
+1. [MacGregor](/setts/s6/r36g18r4g6k1w2~x2/) — ΔT 1.33
+1. [MacGregor - 1800 (Clan)](/setts/s6/r57g21r8g8k1w3~x2/) — ΔT 1.40
+1. [Irn Bru Corporate Tartan Tartan Number: 2395. Earliest known date: Sep 1998 Irn Bru (Iron Brew) was first produced in 1901 by A.G. Barr and has been Scotland's favourite fizzy drink ever since. The colours are based on the brand label. Irn Bru was famously advertised on TV as 'being made in Scotland . . . from GIRDERS!" which was the subject of a complaint to the Advertising Standards Authority because it was 'untrue' !!! See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/lo49db16k2w3db2w2db3lo2~x2/) — ΔT 1.43
+1. [National Defense](/setts/s6/r40w2db2w2r1ly20~x2/) — ΔT 1.47
+1. [Colchester & District Pipes & Drums](/setts/s6/g10r4g46r69k2w6/) — ΔT 1.49
+1. [Scott - 1842 (Clan)](/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/) — ΔT 1.53
+1. [Baluch Regiment](/setts/s9/r4g24r6g4r4g6r44g1w4~x2/) — ΔT 1.54
+1. [MacGregor #4](/setts/s6/r41g19r7g8k1w3~x2/) — ΔT 1.56
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo5r6k5r6lo36b3lo2k1~x2/"><circle cx="448.8" cy="109.1" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s8/lo98db32k3w6db4w4db6lo4/"><circle cx="428.9" cy="86.4" r="4" fill="#3465a4"><title>Irn Bru</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="422.7" cy="138.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r57g21r8g8k1w3~x2/"><circle cx="479.4" cy="120.8" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/setts/s8/lo49db16k2w3db2w2db3lo2~x2/"><circle cx="414.5" cy="102.9" r="4" fill="#3465a4"><title>Irn Bru Corporate Tartan Tartan Number: 2395. Earliest known date: Sep 1998 Irn Bru (Iron Brew) was first produced in 1901 by A.G. Barr and has been Scotland's favourite fizzy drink ever since. The colours are based on the brand label. Irn Bru was famously advertised on TV as 'being made in Scotland . . . from GIRDERS!&quot; which was the subject of a complaint to the Advertising Standards Authority because it was 'untrue' !!! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r40w2db2w2r1ly20~x2/"><circle cx="409.9" cy="104.4" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/setts/s6/g10r4g46r69k2w6/"><circle cx="379.6" cy="129.2" r="4" fill="#3465a4"><title>Colchester &amp; District Pipes &amp; Drums</title></circle></a><a href="/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/"><circle cx="382.2" cy="123.5" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s9/r4g24r6g4r4g6r44g1w4~x2/"><circle cx="449.6" cy="122.0" r="4" fill="#3465a4"><title>Baluch Regiment</title></circle></a><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="428.9" cy="138.0" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><circle cx="438.6" cy="103.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/lo5r6k5r6lo36db3lo2k1~x2/

@@ -5,11 +5,13 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#053819;border:1px solid #0003;flex:none"></span><div><strong>Bottle</strong> · code <code>DG</code> · Human Palette · ref <code>12-03-152</code><br>sRGB <code>#053819</code> · OKLab L 0.300 a -0.066 b +0.036 · grid <code>12-03-152</code></div></div>
 
+Bottle — a dark green, the deep green of much tartan ground.
+
 The nearest named colour is **Petrol** (Human Palette), 0.052 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
-| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dbg/) | DBG | Human Palette | 0.052 |
+| <code style="background-color:#023535;"><span style="color:#023535;filter:grayscale(1) invert(1) contrast(100);">#023535</span></code> | [Petrol](/colour/named/human-palette-dt/) | DT | Human Palette | 0.052 |
 | <code style="background-color:#3A2B0D;"><span style="color:#3A2B0D;filter:grayscale(1) invert(1) contrast(100);">#3A2B0D</span></code> | [Olive](/colour/named/human-palette-dy/) | DY | Human Palette | 0.074 |
 | <code style="background-color:#412714;"><span style="color:#412714;filter:grayscale(1) invert(1) contrast(100);">#412714</span></code> | [Brown](/colour/named/human-palette-do/) | DO | Human Palette | 0.094 |
 | <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | [Green](/colour/named/base-six-g/) | G | Base Six | 0.146 |

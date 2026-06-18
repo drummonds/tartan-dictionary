@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s27/g8r1g8r8b1r1b2r1b1r8b1r1b2r1b1r8b8r1b8r8g1r2g1r8g8r1g8~b00004c-g004c00-rc80000~x2/"><img src="/setts/s27/g8r1g8r8b1r1b2r1b1r8b1r1b2r1b1r8b8r1b8r8g1r2g1r8g8r1g8~b00004c-g004c00-rc80000~x2/sett.png" alt="Ross" width="240"><br>Ross</a>
+<a class="tartan" href="/setts/s27/dg8r1dg8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8dg1r2dg1r8dg8r1dg8~x2/"><img src="/setts/s27/dg8r1dg8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8dg1r2dg1r8dg8r1dg8~x2/sett.png" alt="Ross" width="240"><br>Ross</a>
 

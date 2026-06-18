@@ -1,0 +1,48 @@
+---
+title: "Scotch House (Fashion)"
+date: 2023-03-18
+---
+**Bands:** [GWGWGKBKBKBR](/stripes/gwgwgkbkbkbr/) · **Stripes:** [DG LB DG LB DG K DB K DB K DB O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG LB DG LB DG K DB K DB K DB O</span></span>
+
+
+This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/4732/
+
+## Thread count
+DG/8 N4 DG4 N4 DG32 K16 DB8 K4 DB4 K4 DB32 DR/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000050;"><span style="color:#000050;filter:grayscale(1) invert(1) contrast(100);">#000050</span></code> `#000050` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DG | <code style="background-color:#003014;"><span style="color:#003014;filter:grayscale(1) invert(1) contrast(100);">#003014</span></code> `#003014` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| DR | <code style="background-color:#640000;"><span style="color:#640000;filter:grayscale(1) invert(1) contrast(100);">#640000</span></code> `#640000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.23 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Campbell of Loudon](/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/) — ΔT 0.92
+1. [MacDonell of Glengarry D](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/) — ΔT 0.94
+1. [MacDonell of Glengarry D](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/) — ΔT 0.94
+1. [Barnes Hunting (Personal)](/setts/s10/db20k3db3k3db3k16g3lo3g12r2~x2/) — ΔT 0.95
+1. [MacKenzie](/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2~x2/) — ΔT 0.98
+1. [MacKenzie](/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/) — ΔT 0.98
+1. [MacKenzie](/setts/s15/db12k2db2k2db2k12dg12k1lb2k1dg12k12db12k1r2/) — ΔT 0.98
+1. [MacDonald of Clanranald](/setts/s13/db8r1db2r3db12r1k12lr1dg12r3dg2r1dg8~x2/) — ΔT 0.99
+1. [MacEwan](/setts/s13/ly2k1dg12k12db12k1db2k1db12k12dg12k1r2~x2/) — ΔT 1.02
+1. [Farquharson](/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2~x2/) — ΔT 1.03
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="169.1" cy="175.6" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/"><circle cx="168.3" cy="162.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/"><circle cx="168.3" cy="162.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s10/db20k3db3k3db3k16g3lo3g12r2~x2/"><circle cx="198.5" cy="185.2" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2~x2/"><circle cx="183.8" cy="170.4" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/"><circle cx="183.8" cy="170.4" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lb2k1dg12k12db12k1r2/"><circle cx="168.8" cy="162.9" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12lr1dg12r3dg2r1dg8~x2/"><circle cx="161.4" cy="166.5" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/ly2k1dg12k12db12k1db2k1db12k12dg12k1r2~x2/"><circle cx="164.6" cy="172.7" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2~x2/"><circle cx="136.0" cy="183.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><circle cx="169.4" cy="180.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/dg2lb1dg1lb1dg8k4db2k1db1k1db8o1~x4/

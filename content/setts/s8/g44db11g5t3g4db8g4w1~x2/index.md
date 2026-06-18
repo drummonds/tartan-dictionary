@@ -1,0 +1,57 @@
+---
+title: "Hastings-Stephenson (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GBGBGBGW](/stripes/gbgbgbgw/) · **Stripes:** [G DB G T G DB G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G DB G T G DB G W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11398
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11398](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11398)
+
+## Thread count
+G/88 DB22 G10 B6 G8 DB16 G8 W/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#000048;"><span style="color:#000048;filter:grayscale(1) invert(1) contrast(100);">#000048</span></code> `#000048` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
+| G | <code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> `#00643C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.05 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/88 DB22 G10 B6 G8 DB16 G8 W/2 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brooks Brothers Signature Corporate Tartan Tartan Number: 10652. Earliest known date: 01/05/2012 Brooks Brothers' Scottish roots originate in Perthshire's Glen Lyon. Thomas Lyon emigrated from Glen Lyon to the USA in the 1600s. It was his granddaughter, Lavinia, who married Henry Sands Brooks, founder of the Brooks empire. Brooks opened his first store in Cherry Street, New York in 1818. This simple and elegant tartan contains elements of the traditional 1819 Campbell tartan (the major clan in Glen Lyon) and incorporates the gold from the Brooks Brothers famous Golden Fleece logo and their equally famous necktie design, No. 1 stripe. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dt5ly1g7r1dt45r5ly3dt4ly3~x2/) — ΔT 1.23
+1. [Salvation Army, Hunting](/setts/s7/db40g8k1ly2k1g8db5~x4/) — ΔT 1.29
+1. [Semper](/setts/s8/g16dg1lg4dg41lg1dg6g2dg2~x2/) — ΔT 1.30
+1. [Semper](/setts/s8/g16dg1y4dg41y1dg6g2dg2~x2/) — ΔT 1.45
+1. [Annapolis Valley](/setts/s6/g30b8g5lb4g5r1~x4/) — ΔT 1.48
+1. [Kinfauns Castle (Corporate)](/setts/s6/r4dp12g2dp2g46w1~x2/) — ΔT 1.51
+1. [MacGregor, Black (Personal)](/setts/s6/k72g23k7g8r1w3~x2/) — ΔT 1.72
+1. [Glenfeshie (Personal)](/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/) — ΔT 1.75
+1. [Chateau](/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/) — ΔT 1.79
+1. [Bro-sant-Brieg](/setts/s7/dt3g6dt2ly3dt42k6w3~x2/) — ΔT 1.79
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt5ly1g7r1dt45r5ly3dt4ly3~x2/"><circle cx="508.3" cy="114.4" r="4" fill="#3465a4"><title>Brooks Brothers Signature Corporate Tartan Tartan Number: 10652. Earliest known date: 01/05/2012 Brooks Brothers' Scottish roots originate in Perthshire's Glen Lyon. Thomas Lyon emigrated from Glen Lyon to the USA in the 1600s. It was his granddaughter, Lavinia, who married Henry Sands Brooks, founder of the Brooks empire. Brooks opened his first store in Cherry Street, New York in 1818. This simple and elegant tartan contains elements of the traditional 1819 Campbell tartan (the major clan in Glen Lyon) and incorporates the gold from the Brooks Brothers famous Golden Fleece logo and their equally famous necktie design, No. 1 stripe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db40g8k1ly2k1g8db5~x4/"><circle cx="487.5" cy="143.4" r="4" fill="#3465a4"><title>Salvation Army, Hunting</title></circle></a><a href="/setts/s8/g16dg1lg4dg41lg1dg6g2dg2~x2/"><circle cx="503.9" cy="153.3" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/setts/s8/g16dg1y4dg41y1dg6g2dg2~x2/"><circle cx="513.0" cy="158.1" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/setts/s6/g30b8g5lb4g5r1~x4/"><circle cx="511.5" cy="183.9" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s6/r4dp12g2dp2g46w1~x2/"><circle cx="518.8" cy="141.2" r="4" fill="#3465a4"><title>Kinfauns Castle (Corporate)</title></circle></a><a href="/setts/s6/k72g23k7g8r1w3~x2/"><circle cx="500.5" cy="149.5" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="450.2" cy="148.0" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/"><circle cx="451.3" cy="123.7" r="4" fill="#3465a4"><title>Chateau</title></circle></a><a href="/setts/s7/dt3g6dt2ly3dt42k6w3~x2/"><circle cx="456.0" cy="146.9" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><circle cx="502.5" cy="146.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/g44db11g5t3g4db8g4w1~x2/

@@ -1,0 +1,50 @@
+---
+title: "Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [BWBYBYBY](/stripes/bwbybyby/) · **Stripes:** [DO W DO LO DO LO DO LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DO W DO LO DO LO DO LO</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1749
+
+## Thread count
+DR/6 LN34 DR30 LT4 DR4 LT4 DR4 LT/44
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> `#441800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DR/6 LN34 DR30 LT4 DR4 LT4 DR4 LT/44 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Turnberry, Manx Snaefell](/setts/s8/o22dr2o2dr2o2dr15w17dr3~x2/) — ΔT 0.54
+1. [Lindsay Dress Red](/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/) — ΔT 0.59
+1. [Kildonan Brown (Fashion)](/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/) — ΔT 0.59
+1. [Snaefell (District)](/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/) — ΔT 0.89
+1. [Baillie Dress](/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/) — ΔT 1.05
+1. [Karibu](/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/) — ΔT 1.07
+1. [Gleneagles USA (Dalgleish)](/setts/s6/g4lb31g7r14g11r3~x2/) — ΔT 1.08
+1. [Orange Fanaticos (Corporate)](/setts/s7/t12lo75k22w12k22w16t8/) — ΔT 1.12
+1. [Lindsay, dress Red](/setts/s9/g26r3g3r3g3r11w27r3w5~x2/) — ΔT 1.13
+1. [Napier Rose](/setts/s11/k4w2k2w2k2w4k2w2k4lr12w1~x4/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o22dr2o2dr2o2dr15w17dr3~x2/"><circle cx="225.9" cy="175.8" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/"><circle cx="204.7" cy="169.8" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="236.1" cy="179.8" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="248.0" cy="189.8" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/"><circle cx="212.1" cy="201.4" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/"><circle cx="204.1" cy="140.2" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s6/g4lb31g7r14g11r3~x2/"><circle cx="240.5" cy="210.4" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/setts/s7/t12lo75k22w12k22w16t8/"><circle cx="198.9" cy="172.2" r="4" fill="#3465a4"><title>Orange Fanaticos (Corporate)</title></circle></a><a href="/setts/s9/g26r3g3r3g3r11w27r3w5~x2/"><circle cx="210.4" cy="174.4" r="4" fill="#3465a4"><title>Lindsay, dress Red</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4lr12w1~x4/"><circle cx="188.1" cy="159.6" r="4" fill="#3465a4"><title>Napier Rose</title></circle></a><circle cx="222.9" cy="175.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/lo22do2lo2do2lo2do15w17do3~x2/

@@ -1,0 +1,47 @@
+---
+title: "Entrelacs (District)"
+date: 2023-03-18
+---
+**Bands:** [BGWBWYWGBWBWY](/stripes/bgwbwywgbwbwy/) · **Stripes:** [T G W T W LO W G T W T W LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">T G W T W LO W G T W T W LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/6933/
+
+## Thread count
+B/56 G16 LN16 B4 LN8 DY8 LN8 G48 B16 LN8 B8 LN8 DY/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| G | <code style="background-color:#007040;"><span style="color:#007040;filter:grayscale(1) invert(1) contrast(100);">#007040</span></code> `#007040` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Oliphant Dress (Clan)](/setts/s13/w25t2w2t2w2t10k2t4k2t10g23w2g4~x2/) — ΔT 0.98
+1. [Oliphant Dress](/setts/s13/w25n2w2n2w2n10k2n4k2n10y23w2y4~x2/) — ΔT 1.21
+1. [Entrelacs](/setts/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/) — ΔT 1.21
+1. [Maine Dirigo](/setts/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/) — ΔT 1.39
+1. [Snodgrass](/setts/s14/k3r1ly1t11g13t5r1ly1r1t5g13t11ly1r1~x4/) — ΔT 1.44
+1. [Bush (Artefact)](/setts/s15/t12k8t12w1lo2w1lo8w1lo2w1lo8w1lo2w1lo8/) — ΔT 1.44
+1. [Pina (Corporate)](/setts/s16/g2db1t6db6g4r1g18db1g1r1g1db1g4db10t6db1~x4/) — ΔT 1.45
+1. [Chakraa (Fashion)](/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/) — ΔT 1.47
+1. [Grampian Trade Tartan Tartan Number: 2151. Earliest known date: 1993 Designed as a district tartan to reflect the colours of the Grampian Mountains. MacNaughtons of Pitlochry introduced this sett with their new range of district tartans in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/dt15lb15g3r2g26r2g3lb15dt26r2dt3lb4dt3r2dt11~x2/) — ΔT 1.50
+1. [Keela](/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/) — ΔT 1.56
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w25t2w2t2w2t10k2t4k2t10g23w2g4~x2/"><circle cx="194.3" cy="141.0" r="4" fill="#3465a4"><title>Oliphant Dress (Clan)</title></circle></a><a href="/setts/s13/w25n2w2n2w2n10k2n4k2n10y23w2y4~x2/"><circle cx="185.2" cy="135.6" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/setts/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/"><circle cx="191.9" cy="141.8" r="4" fill="#3465a4"><title>Entrelacs</title></circle></a><a href="/setts/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/"><circle cx="230.8" cy="131.5" r="4" fill="#3465a4"><title>Maine Dirigo</title></circle></a><a href="/setts/s14/k3r1ly1t11g13t5r1ly1r1t5g13t11ly1r1~x4/"><circle cx="245.3" cy="149.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/setts/s15/t12k8t12w1lo2w1lo8w1lo2w1lo8w1lo2w1lo8/"><circle cx="234.4" cy="158.7" r="4" fill="#3465a4"><title>Bush (Artefact)</title></circle></a><a href="/setts/s16/g2db1t6db6g4r1g18db1g1r1g1db1g4db10t6db1~x4/"><circle cx="262.7" cy="135.4" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/"><circle cx="221.7" cy="147.0" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><a href="/setts/s15/dt15lb15g3r2g26r2g3lb15dt26r2dt3lb4dt3r2dt11~x2/"><circle cx="227.1" cy="156.1" r="4" fill="#3465a4"><title>Grampian Trade Tartan Tartan Number: 2151. Earliest known date: 1993 Designed as a district tartan to reflect the colours of the Grampian Mountains. MacNaughtons of Pitlochry introduced this sett with their new range of district tartans in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/"><circle cx="219.1" cy="160.1" r="4" fill="#3465a4"><title>Keela</title></circle></a><circle cx="218.7" cy="155.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/t14g4w4t1w2lo2w2g12t4w2t2w2lo1~x4/

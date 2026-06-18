@@ -1,0 +1,62 @@
+---
+title: "Hoben (Personal)"
+date: 2023-03-18
+---
+**Bands:** [KWRBRGRBRKW](/stripes/kwrbrgrbrkw/) · **Stripes:** [K W R DB R G R DB R K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R DB R G R DB R K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1741
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1960 — Hoben (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1741))
+- 1960 — Hoben (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6610/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1741](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1741)
+- Scottish Tartans Authority (ITI): 6610
+
+## Thread count
+K/6 W2 R40 DB8 R8 G20 R8 DB8 R40 K2 W/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mair (Personal)](/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/) — ΔT 0.97
+1. [Loch Lochy](/setts/s8/r6dg14r6db11r31lb2r4ly3~x2/) — ΔT 0.98
+1. [Loch Lochy (District)](/setts/s8/r6g14r6db12r31lb2r4ly3~x2/) — ΔT 1.04
+1. [Unidentified Plaid #7](/setts/s10/w8r100k42dg42r5k3r5t42r100w8/) — ΔT 1.09
+1. [Stewart/Stuart of Rothesay (Sobieski)](/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/) — ΔT 1.09
+1. [Hart (Texas) (Personal)](/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/) — ΔT 1.10
+1. [Bruce](/setts/s13/ly4k1r22dg5r4dg12r6dg12r4dg5r22k1w4~x2/) — ΔT 1.10
+1. [Loch Linnhe](/setts/s10/g3r6db12r5lt2g10r31db2r4ly3~x2/) — ΔT 1.12
+1. [Loch Creran (District)](/setts/s11/r6dg8ly2dg8r6dt8r29dg3lb2r5dt3~x2/) — ΔT 1.13
+1. [Stuart of Bute](/setts/s9/r12y6k1y2k1y1k6r24w2~x4/) — ΔT 1.14
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.6" cy="102.4" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s8/r6dg14r6db11r31lb2r4ly3~x2/"><circle cx="332.9" cy="143.4" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/setts/s8/r6g14r6db12r31lb2r4ly3~x2/"><circle cx="335.2" cy="149.2" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><a href="/setts/s10/w8r100k42dg42r5k3r5t42r100w8/"><circle cx="338.0" cy="96.6" r="4" fill="#3465a4"><title>Unidentified Plaid #7</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="380.0" cy="87.8" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/"><circle cx="315.0" cy="106.4" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/setts/s13/ly4k1r22dg5r4dg12r6dg12r4dg5r22k1w4~x2/"><circle cx="319.9" cy="116.0" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s10/g3r6db12r5lt2g10r31db2r4ly3~x2/"><circle cx="308.0" cy="116.6" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/setts/s11/r6dg8ly2dg8r6dt8r29dg3lb2r5dt3~x2/"><circle cx="317.6" cy="136.1" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/setts/s9/r12y6k1y2k1y1k6r24w2~x4/"><circle cx="414.3" cy="120.5" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><circle cx="361.9" cy="116.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/

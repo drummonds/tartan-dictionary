@@ -1,0 +1,68 @@
+---
+title: "Breeding"
+date: 2023-03-18
+---
+**Bands:** [RBBKBBKBKBKBKBKRKW](/stripes/rbbkbbkbkbkbkbkrkw/) · **Stripes:** [R DT N K DT N K T K N K DT K DT K R K W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DT N K DT N K T K N K DT K DT K R K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2005 — Breeding (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347))
+- Dec 2005 — Breeding (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6806/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [347](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347)
+- Scottish Tartans Authority (ITI): 6806
+
+## Thread count
+DR/8 DB2 N12 K4 DB14 N8 K4 Ba4 K4 N8 K4 DB8 K4 DB12 K32 DR80 K4 W/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2C3878;"><span style="color:#2C3878;filter:grayscale(1) invert(1) contrast(100);">#2C3878</span></code> `#2C3878` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.04 |
+| Ba | <code style="background-color:#2888B8;"><span style="color:#2888B8;filter:grayscale(1) invert(1) contrast(100);">#2888B8</span></code> `#2888B8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DBa | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| DR | <code style="background-color:#982428;"><span style="color:#982428;filter:grayscale(1) invert(1) contrast(100);">#982428</span></code> `#982428` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.10 |
+| G | <code style="background-color:#005028;"><span style="color:#005028;filter:grayscale(1) invert(1) contrast(100);">#005028</span></code> `#005028` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#60707C;"><span style="color:#60707C;filter:grayscale(1) invert(1) contrast(100);">#60707C</span></code> `#60707C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| R | <code style="background-color:#FC0040;"><span style="color:#FC0040;filter:grayscale(1) invert(1) contrast(100);">#FC0040</span></code> `#FC0040` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| W | <code style="background-color:#F0E8D0;"><span style="color:#F0E8D0;filter:grayscale(1) invert(1) contrast(100);">#F0E8D0</span></code> `#F0E8D0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.06 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Stewart/Stuart, Royal (No black line)](/setts/s20/r64b12k16lo2k4lb3g32r8k4r3lb2r3k4r8g32lb3k4lo2k16b12~x2/) — ΔT 1.00
+1. [Caithness (District)](/setts/s15/do28r3k2o2k2r3o8lo2k8lo5k3ly2k2lo3k1~x2/) — ΔT 1.03
+1. [Holyrood (Chair)](/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1r6t10db2w1t2dg2ly1w1dg10db10w1~x2/) — ΔT 1.14
+1. [Unidentified Specimen](/setts/s14/db72r11k12ly2r2w3r2k2r10dg18r10k3r3w2~x2/) — ΔT 1.23
+1. [Mehrtens (Personal)](/setts/s16/w4dt4r18o4r1o36k1o4k6r2k6r6k2r6k4r2~x2/) — ΔT 1.28
+1. [MacDougall of MacDougall](/setts/s24/t2dp10r3r4dg72r7dg4r10db24dp6r5r4r5dp7dg24r24dg24r3db3r74dp7r5r6t2~x2/) — ΔT 1.28
+1. [Hay](/setts/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/) — ΔT 1.29
+1. [Buchanan(Mtd)MacGregor Hastie V. Tartan Tartan Number: 6088. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/lt3k1dg31lt3dg31k1lt4k1lo7k1lo7k1lt4k1dr31w3dr31k1lt4k1lo7k1lo7k1~x2/) — ΔT 1.30
+1. [Hay or Leith](/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/) — ΔT 1.31
+1. [Unidentified, specimen](/setts/s14/db72r11k12ly2r2w3r2k2r10g18r10k3r3w2~x2/) — ΔT 1.34
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/r64b12k16lo2k4lb3g32r8k4r3lb2r3k4r8g32lb3k4lo2k16b12~x2/"><circle cx="202.9" cy="57.4" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal (No black line)</title></circle></a><a href="/setts/s15/do28r3k2o2k2r3o8lo2k8lo5k3ly2k2lo3k1~x2/"><circle cx="206.2" cy="70.6" r="4" fill="#3465a4"><title>Caithness (District)</title></circle></a><a href="/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1r6t10db2w1t2dg2ly1w1dg10db10w1~x2/"><circle cx="178.2" cy="28.2" r="4" fill="#3465a4"><title>Holyrood (Chair)</title></circle></a><a href="/setts/s14/db72r11k12ly2r2w3r2k2r10dg18r10k3r3w2~x2/"><circle cx="280.3" cy="48.8" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><a href="/setts/s16/w4dt4r18o4r1o36k1o4k6r2k6r6k2r6k4r2~x2/"><circle cx="231.2" cy="45.0" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/setts/s24/t2dp10r3r4dg72r7dg4r10db24dp6r5r4r5dp7dg24r24dg24r3db3r74dp7r5r6t2~x2/"><circle cx="250.1" cy="36.3" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><a href="/setts/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/"><circle cx="233.0" cy="19.6" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s24/lt3k1dg31lt3dg31k1lt4k1lo7k1lo7k1lt4k1dr31w3dr31k1lt4k1lo7k1lo7k1~x2/"><circle cx="178.7" cy="35.6" r="4" fill="#3465a4"><title>Buchanan(Mtd)MacGregor Hastie V. Tartan Tartan Number: 6088. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/"><circle cx="172.3" cy="50.4" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/setts/s14/db72r11k12ly2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="266.9" cy="43.9" r="4" fill="#3465a4"><title>Unidentified, specimen</title></circle></a><circle cx="231.1" cy="44.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s18/w6k2r40k16dt6k2dt4k2n4k2t2k2n4dt7k2n6dt1r4~x2/

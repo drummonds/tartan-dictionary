@@ -1,0 +1,70 @@
+---
+title: "Birse"
+date: 2023-03-18
+---
+**Bands:** [KGKYBR](/stripes/kgkybr/) · **Stripes:** [K G K LO N R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K LO N R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=265
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1957 — Birse (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=265))
+- pre 1957 — Birse (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1087/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [265](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=265)
+- Scottish Tartans Authority (ITI): 1087
+- Scottish Tartans World Register: 1087
+
+## Thread count
+K/8 G32 K28 DY6 Ba32 R/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| Ba | <code style="background-color:#105880;"><span style="color:#105880;filter:grayscale(1) invert(1) contrast(100);">#105880</span></code> `#105880` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.07 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| G | <code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> `#00643C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.05 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LG | <code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> `#789484` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.24 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#F0C800;"><span style="color:#F0C800;filter:grayscale(1) invert(1) contrast(100);">#F0C800</span></code> `#F0C800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/8 G32 K28 DY6 Ba32 R/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wellington](/setts/s6/db1r1db6k6dg6w1~x2/) — ΔT 0.79
+1. [Cooke (Personal)](/setts/s7/k6t2db12g8r5k2g3~x4/) — ΔT 0.80
+1. [Davidson of Tulloch #2](/setts/s5/r1db6k3dg6w1~x4/) — ΔT 0.83
+1. [MacEachain (Clan)](/setts/s6/m2g6k2db6k1r2~x4/) — ΔT 0.88
+1. [Casely](/setts/s6/r4g11k11g2n11y3~x4/) — ΔT 0.89
+1. [Casely (Name)](/setts/s6/r4g11k11g2n11ly3~x4/) — ΔT 0.91
+1. [Hogarth of Firhill](/setts/s7/t2g6ly1k6db6k1db1~x2/) — ΔT 0.96
+1. [Dyce #3](/setts/s6/k2ly1dg6k6db6w1~x4/) — ΔT 0.96
+1. [MacDonald (Flora.. )](/setts/s7/dg17ly2k14r2db9r2db10~x2/) — ΔT 0.98
+1. [Hogarth of Firhill #2](/setts/s7/b2dg6ly1k6db6k1db1~x2/) — ΔT 0.99
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1r1db6k6dg6w1~x2/"><circle cx="142.0" cy="236.3" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s7/k6t2db12g8r5k2g3~x4/"><circle cx="114.0" cy="235.1" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/setts/s5/r1db6k3dg6w1~x4/"><circle cx="146.5" cy="247.1" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/setts/s6/m2g6k2db6k1r2~x4/"><circle cx="118.3" cy="240.5" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/setts/s6/r4g11k11g2n11y3~x4/"><circle cx="132.8" cy="263.4" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s6/r4g11k11g2n11ly3~x4/"><circle cx="98.3" cy="243.0" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/setts/s7/t2g6ly1k6db6k1db1~x2/"><circle cx="115.9" cy="225.7" r="4" fill="#3465a4"><title>Hogarth of Firhill</title></circle></a><a href="/setts/s6/k2ly1dg6k6db6w1~x4/"><circle cx="135.1" cy="239.1" r="4" fill="#3465a4"><title>Dyce #3</title></circle></a><a href="/setts/s7/dg17ly2k14r2db9r2db10~x2/"><circle cx="160.7" cy="220.4" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><a href="/setts/s7/b2dg6ly1k6db6k1db1~x2/"><circle cx="119.7" cy="229.0" r="4" fill="#3465a4"><title>Hogarth of Firhill #2</title></circle></a><circle cx="127.0" cy="254.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/k4g16k14lo3n16r4~x2/

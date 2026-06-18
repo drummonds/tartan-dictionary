@@ -1,0 +1,60 @@
+---
+title: "Game Fair"
+date: 2023-03-18
+---
+**Bands:** [RBKGBGW](/stripes/rbkgbgw/) · **Stripes:** [R DB K DG B DG W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K DG B DG W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1310
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1310](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1310)
+- Scottish Tartans Authority (ITI): 4081
+
+## Thread count
+LN/6 DG24 B4 DG24 K24 DB24 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> `#1870A4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LN/6 DG24 B4 DG24 K24 DB24 R/6 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Glen Erin Canadian Tartan Tartan Number: 1909. Earliest known date: pre 2003 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db16g8db8g8db16r3dy3g3~x2/) — ΔT 1.19
+1. [Nairn (Edinburgh Woollen Mill)](/setts/s11/lo2k10b2k10g10k5b2k5db10g10r2~x2/) — ΔT 1.20
+1. [Coulthard (Personal)](/setts/s7/r3g9y15db10k2db18w3~x2/) — ΔT 1.20
+1. [Williamson/Smart (Personal)](/setts/s8/db10o3db10r3k21g20k15r3~x2/) — ΔT 1.21
+1. [Royal Navy Submarine Service](/setts/s9/w3db3r2db14k3dg12k14db16lo2~x2/) — ΔT 1.22
+1. [Forbo Nairn Corporate Tartan Tartan Number: 2298. Earliest known date: pre 2002 Designed for Forbo Nairn Ltd - a Swiss based company with two factories in Kirkcaldy, Fife. Tartan is based on the Nairn (#1331) because of an association with Michael Nairn, builder of the first 'floor cloth' (linoleum) factory in Scotland in 1843.STS said Approved by Sir Robert Spencer Nairn. Blue and red used in this graphic in place of dark blue and red so that sett could be seen. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g8k7db12r2db12k7g8t2~x4/) — ΔT 1.24
+1. [Gracey (2013)](/setts/s7/lg3k3db17k20g20dp8r3~x2/) — ΔT 1.25
+1. [Parliament Trade Tartan Tartan Number: 2477. Earliest known date: 1998 Created to celebrate the referendum result for the re-establishment of a Scottish Parliament as well as to provide a Parliamentary livery tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db8g11k3g11r12dt10ly2~x2/) — ΔT 1.27
+1. [Nance (1998)](/setts/s10/db2lo1db6r1db2r2k2g6t1g2~x4/) — ΔT 1.30
+1. [MacCallum of Berwick](/setts/s9/db10r7db31k25dg23k8db7k8ly5~x2/) — ΔT 1.31
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db16g8db8g8db16r3dy3g3~x2/"><circle cx="200.4" cy="239.3" r="4" fill="#3465a4"><title>Glen Erin Canadian Tartan Tartan Number: 1909. Earliest known date: pre 2003 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lo2k10b2k10g10k5b2k5db10g10r2~x2/"><circle cx="140.9" cy="219.9" r="4" fill="#3465a4"><title>Nairn (Edinburgh Woollen Mill)</title></circle></a><a href="/setts/s7/r3g9y15db10k2db18w3~x2/"><circle cx="186.3" cy="200.9" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/setts/s8/db10o3db10r3k21g20k15r3~x2/"><circle cx="172.8" cy="224.1" r="4" fill="#3465a4"><title>Williamson/Smart (Personal)</title></circle></a><a href="/setts/s9/w3db3r2db14k3dg12k14db16lo2~x2/"><circle cx="211.2" cy="204.0" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/setts/s8/g8k7db12r2db12k7g8t2~x4/"><circle cx="163.4" cy="258.5" r="4" fill="#3465a4"><title>Forbo Nairn Corporate Tartan Tartan Number: 2298. Earliest known date: pre 2002 Designed for Forbo Nairn Ltd - a Swiss based company with two factories in Kirkcaldy, Fife. Tartan is based on the Nairn (#1331) because of an association with Michael Nairn, builder of the first 'floor cloth' (linoleum) factory in Scotland in 1843.STS said Approved by Sir Robert Spencer Nairn. Blue and red used in this graphic in place of dark blue and red so that sett could be seen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lg3k3db17k20g20dp8r3~x2/"><circle cx="111.0" cy="212.2" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/setts/s7/db8g11k3g11r12dt10ly2~x2/"><circle cx="115.2" cy="247.0" r="4" fill="#3465a4"><title>Parliament Trade Tartan Tartan Number: 2477. Earliest known date: 1998 Created to celebrate the referendum result for the re-establishment of a Scottish Parliament as well as to provide a Parliamentary livery tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db2lo1db6r1db2r2k2g6t1g2~x4/"><circle cx="134.3" cy="195.2" r="4" fill="#3465a4"><title>Nance (1998)</title></circle></a><a href="/setts/s9/db10r7db31k25dg23k8db7k8ly5~x2/"><circle cx="159.4" cy="223.9" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><circle cx="149.6" cy="236.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/r3db12k12dg12b2dg12w3~x2/

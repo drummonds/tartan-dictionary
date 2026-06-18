@@ -1,0 +1,54 @@
+---
+title: "Connacht"
+date: 2023-03-18
+---
+**Bands:** [GGGGGGGGGR](/stripes/gggggggggr/) · **Stripes:** [DY DY DY DY DG DY DG DY DG O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DY DY DY DY DG DY DG DY DG O</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=738
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [738](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=738)
+- Scottish Tartans World Register: 2064
+
+## Thread count
+K/8 T2 K2 T64 G4 T1 G4 T1 G4 O/64
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#2A2303;"><span style="color:#2A2303;filter:grayscale(1) invert(1) contrast(100);">#2A2303</span></code> `#2A2303` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.21 |
+| O | <code style="background-color:#C87814;"><span style="color:#C87814;filter:grayscale(1) invert(1) contrast(100);">#C87814</span></code> `#C87814` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+| T | <code style="background-color:#503C14;"><span style="color:#503C14;filter:grayscale(1) invert(1) contrast(100);">#503C14</span></code> `#503C14` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Crieff](/setts/s13/r2r6g4r70g4r2dp21r2g85r2g4r6r2/) — ΔT 1.02
+1. [Connacht](/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8/) — ΔT 1.34
+1. [Drummond of Megginch - 2023 BertieLexa](/setts/s15/r7db1r2db2r35lb2r2db10r2g2r2g37r3db2r6~x2/) — ΔT 1.37
+1. [Unidentified #62](/setts/s10/r32lo1g8lo1g8lo1g8lo1g8lo1~x2/) — ΔT 1.41
+1. [MacDonald of Kingsburgh -1746 (Clan)](/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/) — ΔT 1.41
+1. [Hay](/setts/s14/lr6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6~x2/) — ΔT 1.53
+1. [MacDonald of Glencoe](/setts/s13/r6r1db2r2g40r6db13t1r48g2r4r1g4~x2/) — ΔT 1.55
+1. [Strang (Personal)](/setts/s14/r36g18r4g6k1lb2k1g2k1lb2k1g6r4g18~x2/) — ΔT 1.55
+1. [MacFie](/setts/s9/lr2r12dg2r1dg32r1dg2r12ly2~x2/) — ΔT 1.57
+1. [MacDonell of Keppoch](/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/) — ΔT 1.57
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r2r6g4r70g4r2dp21r2g85r2g4r6r2/"><circle cx="377.9" cy="84.0" r="4" fill="#3465a4"><title>Crieff</title></circle></a><a href="/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8/"><circle cx="409.7" cy="111.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/setts/s15/r7db1r2db2r35lb2r2db10r2g2r2g37r3db2r6~x2/"><circle cx="382.9" cy="92.7" r="4" fill="#3465a4"><title>Drummond of Megginch - 2023 BertieLexa</title></circle></a><a href="/setts/s10/r32lo1g8lo1g8lo1g8lo1g8lo1~x2/"><circle cx="399.7" cy="150.3" r="4" fill="#3465a4"><title>Unidentified #62</title></circle></a><a href="/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/"><circle cx="343.2" cy="104.9" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh -1746 (Clan)</title></circle></a><a href="/setts/s14/lr6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6~x2/"><circle cx="382.1" cy="73.9" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s13/r6r1db2r2g40r6db13t1r48g2r4r1g4~x2/"><circle cx="372.1" cy="75.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/setts/s14/r36g18r4g6k1lb2k1g2k1lb2k1g6r4g18~x2/"><circle cx="360.6" cy="99.6" r="4" fill="#3465a4"><title>Strang (Personal)</title></circle></a><a href="/setts/s9/lr2r12dg2r1dg32r1dg2r12ly2~x2/"><circle cx="413.5" cy="136.4" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><circle cx="378.9" cy="109.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="382.4" cy="101.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/o64dg4dy1dg4dy1dg4dy64dy2dy2dy8/

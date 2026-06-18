@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Bright of Garth](/clan/bright/garth/)
+- [Bright of Garth](/families/bright-of-garth/)
 

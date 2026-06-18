@@ -5,6 +5,8 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#64D1D9;border:1px solid #0003;flex:none"></span><div><strong>Aqua</strong> · code <code>LBG</code> · Human Palette · ref <code>32-04-202</code><br>sRGB <code>#64D1D9</code> · OKLab L 0.800 a -0.093 b -0.037 · grid <code>32-04-202</code></div></div>
 
+Aqua — a light blue-green.
+
 The nearest named colour is **Sky** (Human Palette), 0.100 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |

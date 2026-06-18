@@ -1,0 +1,57 @@
+---
+title: "Joss"
+date: 2023-03-18
+---
+**Bands:** [GBGBKBKBGYKWKYGBKBKBGBGR](/stripes/gbgbkbkbgykwkygbkbkbgbgr/) · **Stripes:** [DG DB DG DB K DB K DB DG LY K W K LY DG DB K DB K DB DG DB DG R](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DB DG DB K DB K DB DG LY K W K LY DG DB K DB K DB DG DB DG R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1908](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908)
+- Scottish Tartans Authority (ITI): 2598
+- Scottish Tartans World Register: 2598
+
+## Thread count
+G/2 DB4 G8 DB60 K4 DB8 K4 DB60 G54 Y6 K6 LN6 K6 Y6 G54 DB60 K4 DB8 K4 DB60 G8 DB4 G2 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Italian](/setts/s30/db24k2db24k1lb1k1g12r2k2r2g12k1lb1k1db24r2lb2g2db24k1lb1k1g12r2k2r2g12k1lb1k1~x2/) — ΔT 0.92
+1. [Westminster College](/setts/s16/db2k2db2k21db2r2g21db2k2db2t2db21db21lr1db21t2~x2/) — ΔT 1.26
+1. [Joss (Clan)](/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/) — ΔT 1.31
+1. [Cockburn Blue](/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/) — ΔT 1.36
+1. [Scotland the Brave](/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4dp2dg2m6dg12k12m1db40w1~x2/) — ΔT 1.37
+1. [St. Andrew Quebec City](/setts/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40ly2~x2/) — ΔT 1.39
+1. [Indianapolis MPD Emerald Society](/setts/s17/db67dy5g10r5ly2r5g10dy5db4dy5g10r5o2r5dy5g10db24/) — ΔT 1.41
+1. [Schiehallion](/setts/s20/w2db1b1db31b17db2g3db2g2db4b14db4g2db2g3db2b17db31b1db1~x2/) — ΔT 1.45
+1. [Whitworth (Name)](/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/) — ΔT 1.48
+1. [Italian (Fashion)](/setts/s30/db24k2db24k1lb1k1k12r2k2r2k12k1lb1k1db24r2lb2g2db24k1lb1k1k12r2k2r2k12k1lb1k1~x2/) — ΔT 1.49
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s30/db24k2db24k1lb1k1g12r2k2r2g12k1lb1k1db24r2lb2g2db24k1lb1k1g12r2k2r2g12k1lb1k1~x2/"><circle cx="306.3" cy="70.1" r="4" fill="#3465a4"><title>Italian</title></circle></a><a href="/setts/s16/db2k2db2k21db2r2g21db2k2db2t2db21db21lr1db21t2~x2/"><circle cx="336.3" cy="124.1" r="4" fill="#3465a4"><title>Westminster College</title></circle></a><a href="/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/"><circle cx="343.6" cy="97.8" r="4" fill="#3465a4"><title>Joss (Clan)</title></circle></a><a href="/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/"><circle cx="319.3" cy="110.3" r="4" fill="#3465a4"><title>Cockburn Blue</title></circle></a><a href="/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4dp2dg2m6dg12k12m1db40w1~x2/"><circle cx="322.4" cy="77.8" r="4" fill="#3465a4"><title>Scotland the Brave</title></circle></a><a href="/setts/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40ly2~x2/"><circle cx="387.3" cy="74.4" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/setts/s17/db67dy5g10r5ly2r5g10dy5db4dy5g10r5o2r5dy5g10db24/"><circle cx="326.4" cy="76.3" r="4" fill="#3465a4"><title>Indianapolis MPD Emerald Society</title></circle></a><a href="/setts/s20/w2db1b1db31b17db2g3db2g2db4b14db4g2db2g3db2b17db31b1db1~x2/"><circle cx="384.5" cy="108.1" r="4" fill="#3465a4"><title>Schiehallion</title></circle></a><a href="/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="313.4" cy="97.2" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/setts/s30/db24k2db24k1lb1k1k12r2k2r2k12k1lb1k1db24r2lb2g2db24k1lb1k1k12r2k2r2k12k1lb1k1~x2/"><circle cx="354.7" cy="93.2" r="4" fill="#3465a4"><title>Italian (Fashion)</title></circle></a><circle cx="351.8" cy="80.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s24/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3k3ly3dg27db30k2db4k2db30dg4db2dg1~x2/

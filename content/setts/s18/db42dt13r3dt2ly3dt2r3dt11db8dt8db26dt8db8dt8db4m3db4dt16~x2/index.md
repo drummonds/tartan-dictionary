@@ -1,0 +1,61 @@
+---
+title: "Cordiner (Boddam)"
+date: 2023-03-18
+---
+**Bands:** [BBRBBBBBBBBRBYBRBB](/stripes/bbrbbbbbbbbrbybrbb/) · **Stripes:** [DT DB M DB DT DB DT DB DT DB DT R DT LY DT R DT DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">DT DB M DB DT DB DT DB DT DB DT R DT LY DT R DT DB</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 15/10/2012 — Cordiner (Boddam) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721))
+- undated — Cordiner (Boddam) Name Tartan Tartan Number: 10721. Earliest known date: 22 October 2012 The designer has created a modern tartan reflecting the history and ancestry of Cordiners from Boddam, Aberdeenshire. The designer is happy for all those with the surname Cordiner to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10721))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10721](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721)
+
+## Thread count
+DB/84 N26 R6 N4 Y6 N4 R6 N22 DB16 N16 DB52 N16 DB16 N16 DB8 LR6 DB8 N/32
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#172D60;"><span style="color:#172D60;filter:grayscale(1) invert(1) contrast(100);">#172D60</span></code> `#172D60` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.09 |
+| LR | <code style="background-color:#F6799F;"><span style="color:#F6799F;filter:grayscale(1) invert(1) contrast(100);">#F6799F</span></code> `#F6799F` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.23 |
+| N | <code style="background-color:#3F4441;"><span style="color:#3F4441;filter:grayscale(1) invert(1) contrast(100);">#3F4441</span></code> `#3F4441` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| R | <code style="background-color:#DD1212;"><span style="color:#DD1212;filter:grayscale(1) invert(1) contrast(100);">#DD1212</span></code> `#DD1212` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.04 |
+| Y | <code style="background-color:#D3CC20;"><span style="color:#D3CC20;filter:grayscale(1) invert(1) contrast(100);">#D3CC20</span></code> `#D3CC20` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.05 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cordiner (Name)](/setts/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2/) — ΔT 1.25
+1. [Walker Hunting](/setts/s22/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2dg6k7dg28db7dg3db3dg3db15dg7db2~x2/) — ΔT 1.56
+1. [Fermanagh, County (District)](/setts/s17/dg3dt2dg2dt2lo2dt2lo2dt13db4dg3db3dg3db3dg3db4dt20dy3~x2/) — ΔT 1.56
+1. [Stuart/Stewart Hunting](/setts/s26/dg37ly3dg37k9db4k2db3k2db31dg4db31k2db3k2db4k9dg37r3dg37db9dg4db31dg4db31dg4db9/) — ΔT 1.60
+1. [Peter of Lee (Chief) (Personal)](/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/) — ΔT 1.66
+1. [Hardie](/setts/s10/dg9w2dg24dt37r3dt37dg24w2dg9m4~x2/) — ΔT 1.69
+1. [Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/dt30dp4dt5dg3dt2dg2dt2dg10dp7k2dp9~x2/) — ΔT 1.69
+1. [Stone of Destiny, The](/setts/s16/dt12db3dt2r4dt2db20lo2db4lo2db20dt2r4dt2db3dt12db2~x2/) — ΔT 1.70
+1. [Frogaletto (Personal)](/setts/s16/n26dt2n2dt2n3dt9n5t2n2ly2n10dt14k3r2k4dt8~x2/) — ΔT 1.70
+1. [MacInnes Homecoming](/setts/s12/o3k19do2k2do2k2do18k3db3k3do23r3~x2/) — ΔT 1.74
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/db42n13r3n2ly3n2r3n11db8n8db26n8db8n8db4m3db4n16~x2/"><circle cx="376.9" cy="151.6" r="4" fill="#3465a4"><title>Cordiner (Name)</title></circle></a><a href="/setts/s22/r4db2dg7db15dg3db3dg3db7dg28k7dg6k2dg6k7dg28db7dg3db3dg3db15dg7db2~x2/"><circle cx="390.4" cy="196.4" r="4" fill="#3465a4"><title>Walker Hunting</title></circle></a><a href="/setts/s17/dg3dt2dg2dt2lo2dt2lo2dt13db4dg3db3dg3db3dg3db4dt20dy3~x2/"><circle cx="323.2" cy="191.1" r="4" fill="#3465a4"><title>Fermanagh, County (District)</title></circle></a><a href="/setts/s26/dg37ly3dg37k9db4k2db3k2db31dg4db31k2db3k2db4k9dg37r3dg37db9dg4db31dg4db31dg4db9/"><circle cx="335.8" cy="152.4" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting</title></circle></a><a href="/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/"><circle cx="331.1" cy="172.9" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/setts/s10/dg9w2dg24dt37r3dt37dg24w2dg9m4~x2/"><circle cx="353.4" cy="200.0" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/setts/s11/dt30dp4dt5dg3dt2dg2dt2dg10dp7k2dp9~x2/"><circle cx="385.0" cy="205.9" r="4" fill="#3465a4"><title>Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/dt12db3dt2r4dt2db20lo2db4lo2db20dt2r4dt2db3dt12db2~x2/"><circle cx="370.1" cy="207.9" r="4" fill="#3465a4"><title>Stone of Destiny, The</title></circle></a><a href="/setts/s16/n26dt2n2dt2n3dt9n5t2n2ly2n10dt14k3r2k4dt8~x2/"><circle cx="308.1" cy="158.0" r="4" fill="#3465a4"><title>Frogaletto (Personal)</title></circle></a><a href="/setts/s12/o3k19do2k2do2k2do18k3db3k3do23r3~x2/"><circle cx="386.0" cy="201.2" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><circle cx="394.7" cy="167.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s18/db42dt13r3dt2ly3dt2r3dt11db8dt8db26dt8db8dt8db4m3db4dt16~x2/

@@ -1,0 +1,58 @@
+---
+title: "Bryson"
+date: 2023-03-18
+---
+**Bands:** [BBBRB](/stripes/bbbrb/) · **Stripes:** [T DB DB R T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB DB R T</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=409
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [409](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=409)
+- Scottish Tartans World Register: 2216
+
+## Thread count
+B/8 DB58 Ba58 R6 B/16
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#3C82AF;"><span style="color:#3C82AF;filter:grayscale(1) invert(1) contrast(100);">#3C82AF</span></code> `#3C82AF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| Ba | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| DB | <code style="background-color:#141E46;"><span style="color:#141E46;filter:grayscale(1) invert(1) contrast(100);">#141E46</span></code> `#141E46` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.16 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "B/8 DB58 Ba58 R6 B/16 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hutchesons' Grammar (Corporate)](/setts/s6/t8o4db30dt30r3dt4~x2/) — ΔT 1.07
+1. [Rangers 1989 (Sports)](/setts/s4/db21k10dt8r3~x2/) — ΔT 1.40
+1. [Sugiyama](/setts/s6/db7db2db25db10g21db2~x2/) — ΔT 1.44
+1. [Caledonian Hotel (Corporate)](/setts/s8/n9db1n1db1n1db7dg7r2~x4/) — ΔT 1.46
+1. [Skibo (Corporate)](/setts/s5/r2y23db11b22r2~x2/) — ΔT 1.49
+1. [Balmoral Hotel](/setts/s8/dt17o2dt2o2dt2k17db13k4~x2/) — ΔT 1.52
+1. [Bareback (Corporate)](/setts/s6/n6k6n21k16db36ly4/) — ΔT 1.57
+1. [Great Scot (Fashion)](/setts/s7/db12t6db52dt41m12dp6m12/) — ΔT 1.57
+1. [Rhode Island, The State of](/setts/s6/g15dt2w2dt11n28dt4~x2/) — ΔT 1.60
+1. [Cathro](/setts/s5/dp9db6w1dg4dp2~x4/) — ΔT 1.60
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t8o4db30dt30r3dt4~x2/"><circle cx="279.7" cy="227.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/setts/s4/db21k10dt8r3~x2/"><circle cx="301.3" cy="303.3" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><a href="/setts/s6/db7db2db25db10g21db2~x2/"><circle cx="345.6" cy="267.2" r="4" fill="#3465a4"><title>Sugiyama</title></circle></a><a href="/setts/s8/n9db1n1db1n1db7dg7r2~x4/"><circle cx="256.1" cy="235.1" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/setts/s5/r2y23db11b22r2~x2/"><circle cx="290.9" cy="267.9" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/setts/s8/dt17o2dt2o2dt2k17db13k4~x2/"><circle cx="259.9" cy="248.0" r="4" fill="#3465a4"><title>Balmoral Hotel</title></circle></a><a href="/setts/s6/n6k6n21k16db36ly4/"><circle cx="232.9" cy="240.3" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/setts/s7/db12t6db52dt41m12dp6m12/"><circle cx="285.3" cy="238.3" r="4" fill="#3465a4"><title>Great Scot (Fashion)</title></circle></a><a href="/setts/s6/g15dt2w2dt11n28dt4~x2/"><circle cx="299.5" cy="222.8" r="4" fill="#3465a4"><title>Rhode Island, The State of</title></circle></a><a href="/setts/s5/dp9db6w1dg4dp2~x4/"><circle cx="288.0" cy="263.6" r="4" fill="#3465a4"><title>Cathro</title></circle></a><circle cx="283.5" cy="262.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s5/t8r3db29db29t4~x2/

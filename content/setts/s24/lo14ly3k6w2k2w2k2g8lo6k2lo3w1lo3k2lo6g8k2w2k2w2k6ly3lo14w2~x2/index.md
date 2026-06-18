@@ -1,0 +1,62 @@
+---
+title: "O'Farrell"
+date: 2023-03-18
+---
+**Bands:** [WYYKWKWKGYKYWYKYGKWKWKYY](/stripes/wyykwkwkgykywykygkwkwkyy/) · **Stripes:** [W LO LY K W K W K G LO K LO W LO K LO G K W K W K LY LO](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W LO LY K W K W K G LO K LO W LO K LO G K W K W K LY LO</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3221
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3221](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3221)
+- Scottish Tartans Authority (ITI): 1875
+- Scottish Tartans World Register: 1875
+
+## Thread count
+LN/4 LTa28 Y6 K12 LN4 K4 LN4 K4 G16 LTa12 K4 LTa6 LN2 LTa6 K4 LTa12 G16 K4 LN4 K4 LN4 K12 Y6 LTa/28
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> `#441800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LR | <code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> `#E87878` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
+| LT | <code style="background-color:#8C7038;"><span style="color:#8C7038;filter:grayscale(1) invert(1) contrast(100);">#8C7038</span></code> `#8C7038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
+| LTa | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Maple Leaf Dress (Dance)](/setts/s24/g6r5g6r1g1r9dg3r3dg3g9g1r1g6r5g6r1g1w1g1w12r1w12g1w1~x4/) — ΔT 0.71
+1. [O'Farrell (Name)](/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/) — ΔT 1.26
+1. [Maple Leaf Dress](/setts/s24/r6g5r6dg1r1dg9o3g3o3r9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1~x4/) — ΔT 1.32
+1. [Vaughan (Welsh Name) Welsh Name Tartan Tartan Number: 6168. Earliest known date: pre 2004 The tartan for this Welsh surname and its variations, Baughan, Bawn, Fychan, Vain, Vaughan, Vaughn, Vauhan, Vayne, Vychan, Vachan, Vaghann, Young, Younger, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s29/k4w6k23w2k3ly17k2ly4k2ly17k3g17k20w6ly4w6k20g17k3ly17k2ly4k2ly17k3w2k23w6k4/) — ΔT 1.32
+1. [Hébert Kitenge Family (Personal)](/setts/s19/r15w2r15ly1dt8w2dt8ly1dt12r1ly3r1dt12w2g20w2ly1dt20ly1~x2/) — ΔT 1.37
+1. [Dalrymple of Castleton #2](/setts/s16/ly2r15ly2dr2ly2k14ly2g10w1g6w1g10ly2r7g10w1~x2/) — ΔT 1.37
+1. [Hutt #1 (Personal)](/setts/s20/dg7ly2r1n4lb15n1ly2n1ly2n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/) — ΔT 1.43
+1. [Unnamed C18th - Prince Charles Edward #4](/setts/s16/r12g3ly4k2ly4g12ly2r3w1r3ly2g12ly4k2ly4g3~x4/) — ΔT 1.44
+1. [Derbyshire](/setts/s18/r5k3g22k3ly3dp7r7k2dp4w2dp4r7k2r7ly3k3g22k2~x2/) — ΔT 1.45
+1. [House of Timber Wolf (Personal)](/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/) — ΔT 1.49
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/g6r5g6r1g1r9dg3r3dg3g9g1r1g6r5g6r1g1w1g1w12r1w12g1w1~x4/"><circle cx="123.5" cy="100.9" r="4" fill="#3465a4"><title>Maple Leaf Dress (Dance)</title></circle></a><a href="/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/"><circle cx="166.2" cy="129.9" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/setts/s24/r6g5r6dg1r1dg9o3g3o3r9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1~x4/"><circle cx="128.8" cy="95.2" r="4" fill="#3465a4"><title>Maple Leaf Dress</title></circle></a><a href="/setts/s29/k4w6k23w2k3ly17k2ly4k2ly17k3g17k20w6ly4w6k20g17k3ly17k2ly4k2ly17k3w2k23w6k4/"><circle cx="162.3" cy="116.6" r="4" fill="#3465a4"><title>Vaughan (Welsh Name) Welsh Name Tartan Tartan Number: 6168. Earliest known date: pre 2004 The tartan for this Welsh surname and its variations, Baughan, Bawn, Fychan, Vain, Vaughan, Vaughn, Vauhan, Vayne, Vychan, Vachan, Vaghann, Young, Younger, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s19/r15w2r15ly1dt8w2dt8ly1dt12r1ly3r1dt12w2g20w2ly1dt20ly1~x2/"><circle cx="217.3" cy="96.7" r="4" fill="#3465a4"><title>Hébert Kitenge Family (Personal)</title></circle></a><a href="/setts/s16/ly2r15ly2dr2ly2k14ly2g10w1g6w1g10ly2r7g10w1~x2/"><circle cx="149.0" cy="106.8" r="4" fill="#3465a4"><title>Dalrymple of Castleton #2</title></circle></a><a href="/setts/s20/dg7ly2r1n4lb15n1ly2n1ly2n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="175.8" cy="88.1" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/setts/s16/r12g3ly4k2ly4g12ly2r3w1r3ly2g12ly4k2ly4g3~x4/"><circle cx="165.4" cy="132.2" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #4</title></circle></a><a href="/setts/s18/r5k3g22k3ly3dp7r7k2dp4w2dp4r7k2r7ly3k3g22k2~x2/"><circle cx="121.6" cy="94.3" r="4" fill="#3465a4"><title>Derbyshire</title></circle></a><a href="/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/"><circle cx="165.3" cy="66.5" r="4" fill="#3465a4"><title>House of Timber Wolf (Personal)</title></circle></a><circle cx="160.9" cy="108.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s24/lo14ly3k6w2k2w2k2g8lo6k2lo3w1lo3k2lo6g8k2w2k2w2k6ly3lo14w2~x2/

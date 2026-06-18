@@ -4,5 +4,5 @@ date: 2023-03-18
 ---
 ## Families
 
-- [Montgomerie of Eglinton](/clan/montgomerie/eglinton/)
+- [Montgomerie of Eglinton](/families/montgomerie-of-eglinton/)
 

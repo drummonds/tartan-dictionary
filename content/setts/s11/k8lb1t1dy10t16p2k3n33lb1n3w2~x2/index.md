@@ -1,0 +1,56 @@
+---
+title: "Lomond Mist"
+date: 2023-03-18
+---
+**Bands:** [KWBGBBKBWBW](/stripes/kwbgbbkbwbw/) · **Stripes:** [K LB T DY T P K N LB N W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LB T DY T P K N LB N W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10442
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10442](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10442)
+
+## Thread count
+K/16 LP2 B2 T20 B32 P4 K6 N66 LP2 N6 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#8F8FBC;"><span style="color:#8F8FBC;filter:grayscale(1) invert(1) contrast(100);">#8F8FBC</span></code> `#8F8FBC` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.27 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LP | <code style="background-color:#AAAAFF;"><span style="color:#AAAAFF;filter:grayscale(1) invert(1) contrast(100);">#AAAAFF</span></code> `#AAAAFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.24 |
+| N | <code style="background-color:#2F4F4F;"><span style="color:#2F4F4F;filter:grayscale(1) invert(1) contrast(100);">#2F4F4F</span></code> `#2F4F4F` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.12 |
+| P | <code style="background-color:#7A378B;"><span style="color:#7A378B;filter:grayscale(1) invert(1) contrast(100);">#7A378B</span></code> `#7A378B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| T | <code style="background-color:#733D1A;"><span style="color:#733D1A;filter:grayscale(1) invert(1) contrast(100);">#733D1A</span></code> `#733D1A` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Oban Mist](/setts/s11/k8t1o1k10o16lb2k3n33t1n3w2~x2/) — ΔT 0.42
+1. [Oban Mist](/setts/s11/k8lb1y1do10y16lb2k3n33lb1n3w2~x2/) — ΔT 0.61
+1. [Lomond Mist (Fashion)](/setts/s11/k8lb1o1do10o16r2k3n33lb1n3w2~x2/) — ΔT 0.64
+1. [Manx, hunting](/setts/s11/db38dg1y11dg1w4dg1ly4dg1g20dg1t6~x2/) — ΔT 0.93
+1. [Manx Hunting](/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/) — ΔT 0.96
+1. [Stirling University](/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/) — ΔT 0.97
+1. [Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/) — ΔT 0.97
+1. [Boisserolles de St-Julien, Baron of](/setts/s10/db4o4w1db2o50db20ly1dg25r4k2~x2/) — ΔT 0.99
+1. [Heston (Name)](/setts/s11/lo2dg8o12m3o9m3o12lb9db48k8lo2~x2/) — ΔT 1.08
+1. [Queen of the South Football Club](/setts/s11/w3db1g18r3t4r3db4db3db2db24r1~x2/) — ΔT 1.08
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k8t1o1k10o16lb2k3n33t1n3w2~x2/"><circle cx="236.2" cy="70.1" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><a href="/setts/s11/k8lb1y1do10y16lb2k3n33lb1n3w2~x2/"><circle cx="250.7" cy="79.1" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><a href="/setts/s11/k8lb1o1do10o16r2k3n33lb1n3w2~x2/"><circle cx="249.7" cy="76.0" r="4" fill="#3465a4"><title>Lomond Mist (Fashion)</title></circle></a><a href="/setts/s11/db38dg1y11dg1w4dg1ly4dg1g20dg1t6~x2/"><circle cx="227.5" cy="63.8" r="4" fill="#3465a4"><title>Manx, hunting</title></circle></a><a href="/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/"><circle cx="240.5" cy="67.6" r="4" fill="#3465a4"><title>Manx Hunting</title></circle></a><a href="/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="247.7" cy="99.5" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/"><circle cx="234.3" cy="92.3" r="4" fill="#3465a4"><title>Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db4o4w1db2o50db20ly1dg25r4k2~x2/"><circle cx="285.2" cy="59.8" r="4" fill="#3465a4"><title>Boisserolles de St-Julien, Baron of</title></circle></a><a href="/setts/s11/lo2dg8o12m3o9m3o12lb9db48k8lo2~x2/"><circle cx="191.7" cy="82.7" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/setts/s11/w3db1g18r3t4r3db4db3db2db24r1~x2/"><circle cx="200.2" cy="84.8" r="4" fill="#3465a4"><title>Queen of the South Football Club</title></circle></a><circle cx="238.3" cy="73.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/

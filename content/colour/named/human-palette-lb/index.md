@@ -5,12 +5,14 @@ date: 2023-03-18
 ---
 <div style="display:flex;gap:1rem;align-items:center;margin:0.5rem 0"><span style="display:inline-block;width:5rem;height:5rem;background:#B5BBDE;border:1px solid #0003;flex:none"></span><div><strong>Sky</strong> · code <code>LB</code> · Human Palette · ref <code>32-02-277</code><br>sRGB <code>#B5BBDE</code> · OKLab L 0.799 a +0.007 b -0.049 · grid <code>32-02-277</code></div></div>
 
+Sky — a light blue.
+
 The nearest named colour is **Lilac** (Human Palette), 0.082 away in OKLab ΔE.
 
 | | Colour | Code | Palette | ΔE |
 |---|---|---|---|---|
 | <code style="background-color:#E4A6DB;"><span style="color:#E4A6DB;filter:grayscale(1) invert(1) contrast(100);">#E4A6DB</span></code> | [Lilac](/colour/named/human-palette-lp/) | LP | Human Palette | 0.082 |
-| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lbg/) | LBG | Human Palette | 0.100 |
+| <code style="background-color:#64D1D9;"><span style="color:#64D1D9;filter:grayscale(1) invert(1) contrast(100);">#64D1D9</span></code> | [Aqua](/colour/named/human-palette-lt/) | LT | Human Palette | 0.100 |
 | <code style="background-color:#FF9C97;"><span style="color:#FF9C97;filter:grayscale(1) invert(1) contrast(100);">#FF9C97</span></code> | [Pink](/colour/named/human-palette-lr/) | LR | Human Palette | 0.141 |
 | <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | [White](/colour/named/base-six-w/) | W | Base Six | 0.184 |
 | <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | [White](/colour/named/human-palette-w/) | W | Human Palette | 0.184 |

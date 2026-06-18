@@ -1,0 +1,63 @@
+---
+title: "Longford, County"
+date: 2023-03-18
+---
+**Bands:** [BKBGKGGRGR](/stripes/bkbgkggrgr/) · **Stripes:** [DB K DB DG K DG DY R DY R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB DG K DG DY R DY R</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2201
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Longford, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2201))
+- 1997 — Longford, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2281/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [2201](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2201)
+- Scottish Tartans Authority (ITI): 2281
+- Scottish Tartans World Register: 2281
+
+## Thread count
+DB/10 K6 DB36 DG12 K12 DG12 T24 R10 T24 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/) — ΔT 1.07
+1. [Holland & Sherry (Corporate)](/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/) — ΔT 1.25
+1. [Tennant Family Tartan Tartan Number: 1653. Earliest known date: 1930 MacGregor-Hastie made few notes about his sample collection. In December 1967, Captain Tennant wrote to the Scottish Tartans Society, saying, ".. and I have no objection to other Tennants wearing it (Tennant tartan) but their problem will be to get hold of it ... I don't know of any other Tennant tartan and that is why I think my father designed this one." The head of the Tennant family is Lord Glenconner, descended from John Tennant of Blairston, Ayr. (1635). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r1dy7db7k7g7dy7r1~x4/) — ΔT 1.28
+1. [Swankie](/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/) — ΔT 1.28
+1. [Price-Powell (Personal)](/setts/s12/db14p5db4p5db14k14dg14k4lo4k8dg14k14~x2/) — ΔT 1.29
+1. [MacCaughan or MacEachain (Personal)](/setts/s6/dp2dg6k2db6k1r2~x4/) — ΔT 1.29
+1. [Crosby (Personal)](/setts/s13/lb1dg6dg2p2dg2dr6dg1dr6dg2p2dg2dg6lo1~x6/) — ΔT 1.29
+1. [MacDuff Hunting](/setts/s8/do10r2do10g17k12db9do9r2~x2/) — ΔT 1.35
+1. [Heritage](/setts/s12/y24k24db24k5db8r5db8k5db24k24y24y5~x2/) — ΔT 1.37
+1. [Cameron of Erracht (WCWM)](/setts/s11/do10r4do4r4do20k20r3g20r4g4lo4~x2/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/"><circle cx="167.0" cy="260.1" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.1" cy="217.6" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/setts/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="167.4" cy="261.0" r="4" fill="#3465a4"><title>Tennant Family Tartan Tartan Number: 1653. Earliest known date: 1930 MacGregor-Hastie made few notes about his sample collection. In December 1967, Captain Tennant wrote to the Scottish Tartans Society, saying, &quot;.. and I have no objection to other Tennants wearing it (Tennant tartan) but their problem will be to get hold of it ... I don't know of any other Tennant tartan and that is why I think my father designed this one.&quot; The head of the Tennant family is Lord Glenconner, descended from John Tennant of Blairston, Ayr. (1635). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/"><circle cx="217.1" cy="248.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/setts/s12/db14p5db4p5db14k14dg14k4lo4k8dg14k14~x2/"><circle cx="135.5" cy="275.0" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/setts/s6/dp2dg6k2db6k1r2~x4/"><circle cx="165.1" cy="263.6" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/setts/s13/lb1dg6dg2p2dg2dr6dg1dr6dg2p2dg2dg6lo1~x6/"><circle cx="123.8" cy="205.6" r="4" fill="#3465a4"><title>Crosby (Personal)</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.4" cy="248.7" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/setts/s12/y24k24db24k5db8r5db8k5db24k24y24y5~x2/"><circle cx="165.9" cy="248.9" r="4" fill="#3465a4"><title>Heritage</title></circle></a><a href="/setts/s11/do10r4do4r4do20k20r3g20r4g4lo4~x2/"><circle cx="167.6" cy="205.4" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><circle cx="154.6" cy="246.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/

@@ -1,0 +1,48 @@
+---
+title: "Goldblatt, Joe, Jeff (Personal)"
+date: 2023-03-18
+---
+**Bands:** [BBKBKBBYB](/stripes/bbkbkbbyb/) · **Stripes:** [DP DT K DT K DP DB LY DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DP DT K DT K DP DB LY DB</span></span>
+
+
+This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/11231/
+
+## Thread count
+DBa/4 Y4 DBa42 P3 DBb12 DB26 DBb4 DB4 P/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DBa | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DBb | <code style="background-color:#00002C;"><span style="color:#00002C;filter:grayscale(1) invert(1) contrast(100);">#00002C</span></code> `#00002C` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.16 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [St. Kentigern College (Corporate)](/setts/s10/db30db3db3db3db3db10k10dg20k2w4~x2/) — ΔT 1.13
+1. [Kilmarnock F.C. (Sports)](/setts/s11/db4w3db4dp3db3dp3db15db8db11db28ly2~x2/) — ΔT 1.22
+1. [Hutchesons' Grammar School](/setts/s10/dt4r3dt30db30o4t8o4db30dt30r3~x2/) — ΔT 1.30
+1. [Waters of Georgian Bay (District)](/setts/s6/db38w3db8db36dg9r3~x2/) — ΔT 1.36
+1. [Blue Peter](/setts/s10/lo3db25db4db4db4db4db25g4dp4o2~x2/) — ΔT 1.39
+1. [Davies (Welsh Name)](/setts/s13/g2k3db30k2db4k2db30k3g30k3db30k2t2/) — ΔT 1.43
+1. [Spirit of Alva](/setts/s10/t6db10dp4db12dg19dp4dg8k20db50t4/) — ΔT 1.44
+1. [Hutchesons' Grammar (Corporate)](/setts/s6/t8o4db30dt30r3dt4~x2/) — ΔT 1.45
+1. [Great Scot (Fashion)](/setts/s7/db12t6db52dt41m12dp6m12/) — ΔT 1.46
+1. [Rangers Football Club #2](/setts/s11/r3db14k12db40k12db2k2db2k2db7r3~x2/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db30db3db3db3db3db10k10dg20k2w4~x2/"><circle cx="244.0" cy="183.2" r="4" fill="#3465a4"><title>St. Kentigern College (Corporate)</title></circle></a><a href="/setts/s11/db4w3db4dp3db3dp3db15db8db11db28ly2~x2/"><circle cx="303.1" cy="188.4" r="4" fill="#3465a4"><title>Kilmarnock F.C. (Sports)</title></circle></a><a href="/setts/s10/dt4r3dt30db30o4t8o4db30dt30r3~x2/"><circle cx="289.9" cy="217.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/setts/s6/db38w3db8db36dg9r3~x2/"><circle cx="307.4" cy="220.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/setts/s10/lo3db25db4db4db4db4db25g4dp4o2~x2/"><circle cx="259.2" cy="170.3" r="4" fill="#3465a4"><title>Blue Peter</title></circle></a><a href="/setts/s13/g2k3db30k2db4k2db30k3g30k3db30k2t2/"><circle cx="263.3" cy="152.8" r="4" fill="#3465a4"><title>Davies (Welsh Name)</title></circle></a><a href="/setts/s10/t6db10dp4db12dg19dp4dg8k20db50t4/"><circle cx="306.8" cy="190.5" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/setts/s6/t8o4db30dt30r3dt4~x2/"><circle cx="279.7" cy="227.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/setts/s7/db12t6db52dt41m12dp6m12/"><circle cx="285.3" cy="238.3" r="4" fill="#3465a4"><title>Great Scot (Fashion)</title></circle></a><a href="/setts/s11/r3db14k12db40k12db2k2db2k2db7r3~x2/"><circle cx="307.2" cy="175.1" r="4" fill="#3465a4"><title>Rangers Football Club #2</title></circle></a><circle cx="288.7" cy="190.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/dp6dt4k4dt26k12dp3db42ly4db4/

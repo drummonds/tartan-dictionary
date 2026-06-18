@@ -1,0 +1,64 @@
+---
+title: "Brittany National Walking"
+date: 2023-03-18
+---
+**Bands:** [BGYKYKYRY](/stripes/bgykykyry/) · **Stripes:** [T DY LO K LO K LO R LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T DY LO K LO K LO R LY</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=365
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Brittany National Walking (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=365))
+- September 2003 — Brittany National Walking (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5977/))
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [365](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=365)
+- Scottish Tartans Authority (ITI): 5977
+- Scottish Tartans World Register: 2961
+
+## Thread count
+B/8 T54 LT16 K8 LT16 K8 LT16 R22 Y/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| R | <code style="background-color:#B03000;"><span style="color:#B03000;filter:grayscale(1) invert(1) contrast(100);">#B03000</span></code> `#B03000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.06 |
+| T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bruce of Kinnaird (Vivienne Westwood Design)](/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/) — ΔT 0.69
+1. [Asman, Day Tan (Name)](/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/) — ΔT 0.87
+1. [Goddin mab Gododdin (Personal)](/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/) — ΔT 0.97
+1. [Blaylock Hunting (Name)](/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/) — ΔT 1.02
+1. [Elystan Glodrydd (Name)](/setts/s7/w3g24r13g4lo11r8db2~x2/) — ΔT 1.03
+1. [Christmas Hill Game Farm](/setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/) — ΔT 1.05
+1. [Murray of Abercairney](/setts/s9/t3y1k1r12r1g9r1y1t3~x2/) — ΔT 1.06
+1. [Fitzsimmons Red (Name)](/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/) — ΔT 1.08
+1. [Royal Pharmaceutical Society](/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/) — ΔT 1.08
+1. [Royal Pharmaceutical Society (Corp)](/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/) — ΔT 1.14
+
+## Neighbour map
+
+Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.4" cy="159.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/"><circle cx="179.1" cy="156.3" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/"><circle cx="175.5" cy="159.8" r="4" fill="#3465a4"><title>Goddin mab Gododdin (Personal)</title></circle></a><a href="/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/"><circle cx="141.9" cy="178.1" r="4" fill="#3465a4"><title>Blaylock Hunting (Name)</title></circle></a><a href="/setts/s7/w3g24r13g4lo11r8db2~x2/"><circle cx="162.8" cy="166.1" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/"><circle cx="134.7" cy="206.0" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/setts/s9/t3y1k1r12r1g9r1y1t3~x2/"><circle cx="184.0" cy="132.1" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/"><circle cx="156.6" cy="174.5" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="151.9" cy="164.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="157.6" cy="162.0" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><circle cx="152.6" cy="169.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rrbgrrr/
 ---
-RRBGRRR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/o7r3o9g15db19o14r4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-RRBGRRR
+
+{{< pat "RRBGRRR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### O R O G DB O R <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">O R O G DB O R</span></span>
 
 | Tartans |
 |---------------|
 | [Dorward](/setts/s7/o7r3o9g15db19o14r4~x2/)|
 |![Dorward example sett](/setts/s7/o7r3o9g15db19o14r4~x2/sett.png)|
-

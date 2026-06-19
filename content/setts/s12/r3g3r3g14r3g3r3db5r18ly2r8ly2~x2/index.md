@@ -2,10 +2,9 @@
 title: "Burns"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBRYRY](/stripes/rgrgrgrbryry/) · **Stripes:** [R G R G R G R DB R LY R LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G R G R G R DB R LY R LY</span></span>
+In pattern [RGRGRGRBRYRY](/stripes/rgrgrgrbryry/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Burns 1930](/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/)
-
 
 ## Thread count
 R/6 G6 R6 G28 R6 G6 R6 B10 R36 Y4 R16 Y/4

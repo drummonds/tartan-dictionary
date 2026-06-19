@@ -2,10 +2,9 @@
 title: "Jacobite (1712) (Universal)"
 date: 2023-03-18
 ---
-**Bands:** [WRBWYWBRWRBWGWBRW](/stripes/wrbwywbrwrbwgwbrw/) · **Stripes:** [W R DB W LY W DB R W R DB W G W DB R W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R DB W LY W DB R W R DB W G W DB R W</span></span>
+In pattern [WRBWGWBRWRBWYWBRW](/stripes/wrbwgwbrwrbwywbrw/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1835/
 

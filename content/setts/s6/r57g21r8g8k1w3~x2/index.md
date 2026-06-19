@@ -2,20 +2,11 @@
 title: "MacGregor - 1800 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKW](/stripes/rgrgkw/) · **Stripes:** [R G R G K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R G K W</span></span>
+In pattern [RGRGKW](/stripes/rgrgkw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3376/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGregor](/setts/s6/r36g18r4g6k1w2~x2/)
-- [MacGregor #4](/setts/s6/r41g19r7g8k1w3~x2/)
-
 
 ## Thread count
 R/114 G42 R16 G16 K2 W/6

@@ -2,10 +2,9 @@
 title: "Wilson's, No 140"
 date: 2023-03-18
 ---
-**Bands:** [KYGB](/stripes/kygb/) · **Stripes:** [K LY G T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LY G T</span></span>
+In pattern [BGYK](/stripes/bgyk/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's No.140](/setts/s4/k2ly1g7t1~x2/)
-
 
 ## Thread count
 K/14 Y2 G14 B/2

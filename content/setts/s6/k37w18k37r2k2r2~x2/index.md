@@ -2,20 +2,11 @@
 title: "Hakkarain (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKRKR](/stripes/kwkrkr/) · **Stripes:** [K W K R K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K R K R</span></span>
+In pattern [KWKRKR](/stripes/kwkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6151/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Knights Breton](/setts/s6/r19k8r18k50w14k6/)
-- [Ramsay of Dalhousie](/setts/s6/k4w2k28r30k1r3~x2/)
-
 
 ## Thread count
 DB/74 LN36 K74 R4 K4 R/4

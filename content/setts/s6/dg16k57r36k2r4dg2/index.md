@@ -2,10 +2,9 @@
 title: "Rosser of Wales"
 date: 2023-03-18
 ---
-**Bands:** [GKRKRG](/stripes/gkrkrg/) · **Stripes:** [DG K R K R DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K R K R DG</span></span>
+In pattern [GKRKRG](/stripes/gkrkrg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3567
 

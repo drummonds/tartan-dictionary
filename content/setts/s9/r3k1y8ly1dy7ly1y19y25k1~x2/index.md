@@ -2,10 +2,9 @@
 title: "Broons, The (DC Thomson)"
 date: 2023-03-18
 ---
-**Bands:** [KGGYGYGKR](/stripes/kggygygkr/) · **Stripes:** [K Y Y LY DY LY Y K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K Y Y LY DY LY Y K R</span></span>
+In pattern [KGGYGYGKR](/stripes/kggygygkr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10357
 

@@ -2,10 +2,9 @@
 title: "Welsh Assembly"
 date: 2023-03-18
 ---
-**Bands:** [RGWGRGRGRGWGRG](/stripes/rgwgrgrgrgwgrg/) · **Stripes:** [O G W G R G R G R G W G O G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O G W G R G R G R G W G O G</span></span>
+In pattern [GRGWGRGRGRGWGR](/stripes/grgwgrgrgrgwgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4595
 

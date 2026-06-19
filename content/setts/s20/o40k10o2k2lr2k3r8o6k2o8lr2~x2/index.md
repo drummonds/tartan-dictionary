@@ -2,10 +2,9 @@
 title: "Islay"
 date: 2023-03-18
 ---
-**Bands:** [KRKYKRRKRYRKRRKYKRKR](/stripes/krkykrrkryrkrrkykrkr/) · **Stripes:** [K O K LR K R O K O LR O K O R K LR K O K O](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K LR K R O K O LR O K O R K LR K O K O</span></span>
+In pattern [KRKYKRRKRYRKRRKYKRKR](/stripes/krkykrrkryrkrrkykrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1864
 

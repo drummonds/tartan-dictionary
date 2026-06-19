@@ -2,10 +2,9 @@
 title: "MacLeod, Black & White"
 date: 2023-03-18
 ---
-**Bands:** [WKWKW](/stripes/wkwkw/) · **Stripes:** [W K W K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K W</span></span>
+In pattern [WKWKW](/stripes/wkwkw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLeod Black & White](/setts/s5/w14k2w14k19w2~x2/)
-
 
 ## Thread count
 LN/16 K2 LN16 K24 LN/2

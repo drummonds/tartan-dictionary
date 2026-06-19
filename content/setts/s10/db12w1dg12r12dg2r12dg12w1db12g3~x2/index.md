@@ -2,10 +2,9 @@
 title: "Patterson (Red) Clan Tartan Tartan Number: 2191. Earliest known date: 1993 A personal tartan designed by Marge Warren for a John Patterson. No other details known. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GBWGRGRGWB](/stripes/gbwgrgrgwb/) · **Stripes:** [G DB W DG R DG R DG W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB W DG R DG R DG W DB</span></span>
+In pattern [BWGRGRGWBG](/stripes/bwgrgrgwbg/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2191
 

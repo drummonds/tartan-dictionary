@@ -2,20 +2,11 @@
 title: "Borthwick Dress (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GKRKWKWKW](/stripes/gkrkwkwkw/) · **Stripes:** [G K R K W K W K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G K R K W K W K W</span></span>
+In pattern [GKRKWKWKW](/stripes/gkrkwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/820/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Borthwick Dress](/setts/s9/g12k2r12k3w7k16w7k3w6~x2/)
-- [Borthwick, dress](/setts/s9/g7k1r7k1w7k10w7k2w4~x2/)
-
 
 ## Thread count
 G/28 K4 DR32 K8 W28 K40 W28 K8 W/16

@@ -2,10 +2,9 @@
 title: "Palazzo Bloise (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBWRGB](/stripes/ybwrgb/) · **Stripes:** [LY DP W R G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DP W R G DB</span></span>
+In pattern [BGRWBY](/stripes/bgrwby/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10543/
 

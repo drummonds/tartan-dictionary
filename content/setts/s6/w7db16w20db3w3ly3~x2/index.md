@@ -2,10 +2,9 @@
 title: "Unidentified (Shirt)"
 date: 2023-03-18
 ---
-**Bands:** [YWBWBW](/stripes/ywbwbw/) · **Stripes:** [LY W DB W DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY W DB W DB W</span></span>
+In pattern [WBWBWY](/stripes/wbwbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4272
 

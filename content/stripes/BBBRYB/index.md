@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbryb/
 ---
-BBBRYB
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/b26n10dt19r6ly2b9~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BBBRYB
+
+{{< pat "BBBRYB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### B LY R DT N B <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B LY R DT N B</span></span>
 
 | Tartans |
 |---------------|
 | [Meeson Formal](/setts/s6/b26n10dt19r6ly2b9~x2/)|
 |![Meeson Formal example sett](/setts/s6/b26n10dt19r6ly2b9~x2/sett.png)|
-

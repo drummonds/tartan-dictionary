@@ -2,10 +2,9 @@
 title: "Caithness (1848) (District?)"
 date: 2023-03-18
 ---
-**Bands:** [RGKWBR](/stripes/rgkwbr/) · **Stripes:** [R G K W T R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K W T R</span></span>
+In pattern [RBWKGR](/stripes/rbwkgr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6124/
 
@@ -899,15 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sinclair](/setts/s6/r30g12k5w2t6r30/)
-- [Sinclair](/setts/s6/r28g16k4w1t6r28~x2/)
-- [Sinclair](/setts/s6/r36t8w1k5g20r18~x4/)
-
 
 ## Thread count
 R/80 B22 W4 K24 G72 R/64

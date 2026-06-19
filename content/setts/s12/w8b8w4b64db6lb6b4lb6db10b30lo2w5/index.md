@@ -2,10 +2,9 @@
 title: "Akashi"
 date: 2023-03-18
 ---
-**Bands:** [WYBBWBWBBWBW](/stripes/wybbwbwbbwbw/) · **Stripes:** [W LO B DB LB B LB DB B W B W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W LO B DB LB B LB DB B W B W</span></span>
+In pattern [WBWBBWBWBBYW](/stripes/wbwbbwbwbbyw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11262
 

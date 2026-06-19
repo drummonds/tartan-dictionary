@@ -2,10 +2,9 @@
 title: "Applecross"
 date: 2023-03-18
 ---
-**Bands:** [RGRG](/stripes/rgrg/) · **Stripes:** [R G R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G</span></span>
+In pattern [GRGR](/stripes/grgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=102
 
@@ -900,17 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Applecross (District)](/setts/s4/r18g7r2g18~x4/)
-- [Duke of Windsor (Royal)](/setts/s4/g75r2g4r40~x2/)
-- [MacDonald of Sleat](/setts/s4/r36g2r5g16~x2/)
-- [MacGregor of Glenstrae](/setts/s4/r17g9r2~x2/)
-- [Middleton](/setts/s4/g16r1g2r11~x8/)
-
 
 ## Thread count
 G/36 Ra4 G14 Ra/36

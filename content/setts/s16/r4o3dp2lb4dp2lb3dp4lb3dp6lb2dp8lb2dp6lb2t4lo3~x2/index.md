@@ -2,10 +2,9 @@
 title: "Bradwell, Amy (Personal) XXXXXXXXXX"
 date: 2023-03-18
 ---
-**Bands:** [RRBWBWBWBWBWBWBY](/stripes/rrbwbwbwbwbwbwby/) · **Stripes:** [R O DP LB DP LB DP LB DP LB DP LB DP LB T LO](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R O DP LB DP LB DP LB DP LB DP LB DP LB T LO</span></span>
+In pattern [RRBWBWBWBWBWBWBY](/stripes/rrbwbwbwbwbwbwby/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10735/
 

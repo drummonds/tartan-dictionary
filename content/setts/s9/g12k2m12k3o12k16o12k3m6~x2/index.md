@@ -2,10 +2,9 @@
 title: "Borthwick Family Tartan Tartan Number: 816. Earliest known date: pre 2003 Borthwick is an ancient Scottish family of Celtic origin. William de Borthwick built Borthwick Castle in Midlothian in the 14th century. The present chief of the border family is Major John Henry Stuart Borthwick of Crookston, Midlothian. He was recognised by Lord Lyon as the 23rd Lord Borthwick in 1986. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRKG](/stripes/rkrkrkrkg/) · **Stripes:** [M K O K O K M K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M K O K O K M K G</span></span>
+In pattern [GKRKRKRKR](/stripes/gkrkrkrkr/).
 
-
-This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=816
 

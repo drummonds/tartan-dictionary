@@ -2,10 +2,9 @@
 title: "Wilson's No.185"
 date: 2023-03-18
 ---
-**Bands:** [KGB](/stripes/kgb/) · **Stripes:** [K G DP](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G DP</span></span>
+In pattern [BGK](/stripes/bgk/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4719
 

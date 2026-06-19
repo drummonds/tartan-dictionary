@@ -2,10 +2,9 @@
 title: "MacDougall 4"
 date: 2023-03-18
 ---
-**Bands:** [RRRRGRRRRRBBRRRR](/stripes/rrrrgrrrrrbbrrrr/) · **Stripes:** [R R R R G R R R R R P T R R R R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R G R R R R R P T R R R R</span></span>
+In pattern [RRRRBBRRRRRGRRRR](/stripes/rrrrbbrrrrrgrrrr/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

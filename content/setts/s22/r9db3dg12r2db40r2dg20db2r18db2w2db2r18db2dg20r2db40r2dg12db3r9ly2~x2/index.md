@@ -2,10 +2,9 @@
 title: "Kormylo (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGRBRGBRBWBRBGRBRGBRY](/stripes/rbgrbrgbrbwbrbgrbrgbry/) · **Stripes:** [R DB DG R DB R DG DB R DB W DB R DB DG R DB R DG DB R LY](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB DG R DB R DG DB R DB W DB R DB DG R DB R DG DB R LY</span></span>
+In pattern [RBGRBRGBRBWBRBGRBRGBRY](/stripes/rbgrbrgbrbwbrbgrbrgbry/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4991
 

@@ -2,10 +2,9 @@
 title: "Dunn"
 date: 2023-03-18
 ---
-**Bands:** [BYBYWBWBWBW](/stripes/bybywbwbwbw/) · **Stripes:** [N LO N LO LB DP LB DP LB N LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N LO N LO LB DP LB DP LB N LB</span></span>
+In pattern [BYBYWBWBWBW](/stripes/bybywbwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5823
 

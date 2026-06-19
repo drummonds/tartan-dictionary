@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gykryy/
 ---
-GYKRYY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/lr12lo8r5k6lr7g5~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GYKRYY
+
+{{< pat "GYKRYY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LR LO R K LR G <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR LO R K LR G</span></span>
 
 | Tartans |
 |---------------|
 | [Mitchell, Martin (Personal)](/setts/s6/lr12lo8r5k6lr7g5~x4/)|
 |![Mitchell, Martin (Personal) example sett](/setts/s6/lr12lo8r5k6lr7g5~x4/sett.png)|
-

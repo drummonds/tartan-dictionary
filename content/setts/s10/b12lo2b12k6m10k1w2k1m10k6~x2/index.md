@@ -2,10 +2,9 @@
 title: "Soroptimist International"
 date: 2023-03-18
 ---
-**Bands:** [KRKWKRKBYB](/stripes/krkwkrkbyb/) · **Stripes:** [K M K W K M K B LO B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K M K W K M K B LO B</span></span>
+In pattern [BYBKRKWKRK](/stripes/bybkrkwkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4863
 

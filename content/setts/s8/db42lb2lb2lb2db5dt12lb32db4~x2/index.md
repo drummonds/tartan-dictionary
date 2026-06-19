@@ -2,10 +2,9 @@
 title: "Longniddry Eildon Blue Dress Fancy Tartan Tartan Number: 5486. Earliest known date: pre 1992 Dancers tartan See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BWBBWWWB](/stripes/bwbbwwwb/) · **Stripes:** [DB LB DT DB LB LB LB DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LB DT DB LB LB LB DB</span></span>
+In pattern [BWBBWWWB](/stripes/bwbbwwwb/).
 
-
-This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5486
 

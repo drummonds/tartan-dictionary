@@ -2,10 +2,9 @@
 title: "Unidentified #5"
 date: 2023-03-18
 ---
-**Bands:** [BGBGRGRGRGRWRGRGRGRGBGBGB](/stripes/bgbgrgrgrgrwrgrgrgrgbgbgb/) · **Stripes:** [T DY T DY R DY R DY R DY R W R DY R DY R DY R DY DP DG DP DG DP](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">T DY T DY R DY R DY R DY R W R DY R DY R DY R DY DP DG DP DG DP</span></span>
+In pattern [BGBGBGRGRGRGRWRGRGRGRGBGB](/stripes/bgbgbgrgrgrgrwrgrgrgrgbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4206
 

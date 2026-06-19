@@ -2,10 +2,9 @@
 title: "Shepherd"
 date: 2023-03-18
 ---
-**Bands:** [KY](/stripes/ky/) · **Stripes:** [K LR](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K LR</span></span>
+In pattern [KY](/stripes/ky/).
 
-
-This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

@@ -2,10 +2,9 @@
 title: "Fox-Eves Wedding"
 date: 2023-03-18
 ---
-**Bands:** [RBBBGW](/stripes/rbbbgw/) · **Stripes:** [R DT DB DT Y W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DT DB DT Y W</span></span>
+In pattern [RBBBGW](/stripes/rbbbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11083
 

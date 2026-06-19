@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bybygyryryb/
 ---
-BYBYGYRYRYB
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BYBYGYRYRYB
+
+{{< pat "BYBYGYRYRYB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DB LY R LR R LY DG LY DP LR DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LY R LR R LY DG LY DP LR DB</span></span>
 
 | Tartans |
 |---------------|
 | [Unnamed C19th (Silk Sash)](/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/)|
 |![Unnamed C19th (Silk Sash) example sett](/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/sett.png)|
-

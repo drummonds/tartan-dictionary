@@ -2,10 +2,9 @@
 title: "Bowlers"
 date: 2023-03-18
 ---
-**Bands:** [GBGKGWGKGBW](/stripes/gbgkgwgkgbw/) · **Stripes:** [G P G K G W G K G DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G P G K G W G K G DB W</span></span>
+In pattern [GBGKGWGKGBW](/stripes/gbgkgwgkgbw/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

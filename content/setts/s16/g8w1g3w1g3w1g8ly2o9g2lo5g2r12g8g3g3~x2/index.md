@@ -2,10 +2,9 @@
 title: "Saint Joseph de Sorel (District)"
 date: 2023-03-18
 ---
-**Bands:** [GGGRGYGRYGWGWGWG](/stripes/gggrgygrygwgwgwg/) · **Stripes:** [G G G R G LO G O LY G W G W G W G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G G G R G LO G O LY G W G W G W G</span></span>
+In pattern [GGGRGYGRYGWGWGWG](/stripes/gggrgygrygwgwgwg/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2633/
 

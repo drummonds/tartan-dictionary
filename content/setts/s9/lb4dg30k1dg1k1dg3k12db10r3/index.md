@@ -2,10 +2,9 @@
 title: "MacDonnald of ye Ylis"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKGKGW](/stripes/rbkgkgkgw/) · **Stripes:** [R DB K DG K DG K DG LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB K DG K DG K DG LB</span></span>
+In pattern [RBKGKGKGW](/stripes/rbkgkgkgw/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

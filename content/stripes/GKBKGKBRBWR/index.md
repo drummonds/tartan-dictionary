@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkbkgkbrbwr/
 ---
-GKBKGKBRBWR
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-GKBKGKBRBWR
+
+{{< pat "GKBKGKBRBWR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R W DB R DB K G K DB K G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB R DB K G K DB K G</span></span>
 
 | Tartans |
 |---------------|
 | [HMS Neptune](/setts/s11/g4k1db9k1g3k1db27r1db27w1r3~x2/)|
 |![HMS Neptune example sett](/setts/s11/g4k1db9k1g3k1db27r1db27w1r3~x2/sett.png)|
-
-### R W DB R DB K G K DT K G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB R DB K G K DT K G</span></span>
-
-| Tartans |
-|---------------|
 | [HMS Neptune (Military)](/setts/s11/g4k1dt9k1g3k1db27r1db27w1r3~x2/)|
 |![HMS Neptune (Military) example sett](/setts/s11/g4k1dt9k1g3k1db27r1db27w1r3~x2/sett.png)|
-

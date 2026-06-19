@@ -2,10 +2,9 @@
 title: "Starrett Company, L.S. (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRYRYRYRYRYRYRYRYR](/stripes/rkrkrkryryryryryryryryr/) · **Stripes:** [O K O K O K R LY R LY R LY R LY R LY R LY R LY R LY R](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">O K O K O K R LY R LY R LY R LY R LY R LY R LY R LY R</span></span>
+In pattern [RKRKRKRYRYRYRYRYRYRYRYR](/stripes/rkrkrkryryryryryryryryr/).
 
-
-This was sourced from tartans-authority.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7621/
 

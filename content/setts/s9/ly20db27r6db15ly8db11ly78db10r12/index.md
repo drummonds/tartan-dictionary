@@ -2,10 +2,9 @@
 title: "Bracken"
 date: 2023-03-18
 ---
-**Bands:** [RBYBYBRBY](/stripes/rbybybrby/) · **Stripes:** [R DB LY DB LY DB R DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB LY DB LY DB R DB LY</span></span>
+In pattern [RBYBYBRBY](/stripes/rbybybrby/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

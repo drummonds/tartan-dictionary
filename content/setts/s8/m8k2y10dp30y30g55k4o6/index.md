@@ -2,10 +2,9 @@
 title: "Aberuchill District Tartan Tartan Number: 6814. Earliest known date: 2005 Aberuchill lends it name to the area south of Comrie where the river Ruchil meets the river Earn. The two rivers form the boundaries of the Aberuchill Estate for which this tartan was created. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKGGBGKR](/stripes/rkggbgkr/) · **Stripes:** [O K G Y DP Y K M](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="seq">O K G Y DP Y K M</span></span>
+In pattern [RKGBGGKR](/stripes/rkgbggkr/).
 
-
-This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6814
 

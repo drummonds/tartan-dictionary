@@ -2,10 +2,9 @@
 title: "MacDougall #7"
 date: 2023-03-18
 ---
-**Bands:** [RKBKRKWKRKBKRBR](/stripes/rkbkrkwkrkbkrbr/) · **Stripes:** [R K T K R K W K R K T K R B R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K T K R K W K R K T K R B R</span></span>
+In pattern [RBRKBKRKWKRKBKR](/stripes/rbrkbkrkwkrkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2400
 

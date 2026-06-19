@@ -2,10 +2,9 @@
 title: "Cunningham Dress Purple (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BBKBWBW](/stripes/bbkbwbw/) · **Stripes:** [T DP K DP W DP W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DP K DP W DP W</span></span>
+In pattern [BBKBWBW](/stripes/bbkbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=849
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [849](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=849)
 - Scottish Tartans Authority (ITI): 6531
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cunningham Dress Purple (Dance) Fashion Tartan Tartan Number: 6531. Earliest known date: 01/01/1986 A dancers' tartan from D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/t2dp1k1dp20w20dp1w2~x4/)
-
 
 ## Thread count
 W/10 P4 W68 P68 K4 P4 B/8

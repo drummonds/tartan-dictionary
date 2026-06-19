@@ -2,10 +2,9 @@
 title: "Menzies Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKR](/stripes/krkrkrkr/) · **Stripes:** [K R K R K R K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R K R K R</span></span>
+In pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2929
 
@@ -903,14 +902,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLeod #2](/setts/s8/k12r3k2r16k8r12k2r3~x2/)
-- [Murray of Ochtertyre #2](/setts/s8/k30r3k2r3k2r27k30r4~x2/)
-
 
 ## Thread count
 K/96 R8 K4 R8 K12 R4 K6 R/18

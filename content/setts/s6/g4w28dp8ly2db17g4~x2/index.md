@@ -2,10 +2,9 @@
 title: "Manx Dress"
 date: 2023-03-18
 ---
-**Bands:** [GBYBWG](/stripes/gbybwg/) · **Stripes:** [G DB LY DP W G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB LY DP W G</span></span>
+In pattern [GBYBWG](/stripes/gbybwg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2814
 

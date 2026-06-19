@@ -2,10 +2,9 @@
 title: "Auchtermuchty Tartan Army"
 date: 2023-03-18
 ---
-**Bands:** [BRWRYB](/stripes/brwryb/) · **Stripes:** [DB R W R LY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R W R LY DB</span></span>
+In pattern [BRWRYB](/stripes/brwryb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10197
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10197
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10197](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10197)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Auchtermuchty Tartan Army (Corp)](/setts/s6/db80r7w1r7ly20db15~x2/)
-
 
 ## Thread count
 DB/160 R16 W2 R16 Y40 DB/30

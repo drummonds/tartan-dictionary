@@ -2,10 +2,9 @@
 title: "Urquhart (Logan)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBRBKGKG](/stripes/gkgkgkbrbkgkg/) · **Stripes:** [G K G K G K DB R DB K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G K DB R DB K G K G</span></span>
+In pattern [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4433
 
@@ -894,14 +893,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Poulter SG 100 (Fashion)](/setts/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/)
-- [Urquhart](/setts/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/)
-
 
 ## Thread count
 G/16 K2 G2 K2 G2 K16 DB16 DR2 DB16 K16 G16 K2 G/2

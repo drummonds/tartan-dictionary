@@ -2,10 +2,9 @@
 title: "Norwegian Night"
 date: 2023-03-18
 ---
-**Bands:** [YKWKWKYKRWB](/stripes/ykwkwkykrwb/) · **Stripes:** [LO K W K W K LO K R W DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K W K W K LO K R W DB</span></span>
+In pattern [BWRKYKWKWKY](/stripes/bwrkykwkwky/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10772
 

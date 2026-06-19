@@ -2,10 +2,9 @@
 title: "Celtic Nations (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRYBKBKGKW](/stripes/brbrybkbkgkw/) · **Stripes:** [DB R DB R LO DB K DB K G K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB R LO DB K DB K G K W</span></span>
+In pattern [BRBRYBKBKGKW](/stripes/brbrybkbkgkw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10411/
 

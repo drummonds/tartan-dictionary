@@ -2,10 +2,9 @@
 title: "Cranstoun"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGBG](/stripes/rgbgbgbg/) · **Stripes:** [R G DB G DB G DB G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DB G DB G DB G</span></span>
+In pattern [GBGBGBGR](/stripes/gbgbgbgr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

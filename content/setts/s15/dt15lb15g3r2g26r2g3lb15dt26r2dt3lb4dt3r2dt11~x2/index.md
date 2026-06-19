@@ -2,10 +2,9 @@
 title: "Grampian Trade Tartan Tartan Number: 2151. Earliest known date: 1993 Designed as a district tartan to reflect the colours of the Grampian Mountains. MacNaughtons of Pitlochry introduced this sett with their new range of district tartans in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBRBWGRGRGWB](/stripes/brbwbrbwgrgrgwb/) · **Stripes:** [DT R DT LB DT R DT LB G R G R G LB DT](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="seq">DT R DT LB DT R DT LB G R G R G LB DT</span></span>
+In pattern [BRBWBRBWGRGRGWB](/stripes/brbwbrbwgrgrgwb/).
 
-
-This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2151
 

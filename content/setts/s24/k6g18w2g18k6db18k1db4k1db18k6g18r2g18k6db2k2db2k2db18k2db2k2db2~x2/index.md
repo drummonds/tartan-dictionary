@@ -2,10 +2,9 @@
 title: "MacKenzie, Bailey"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKBKBKBKGRGKBKBKBKBKB](/stripes/kgwgkbkbkbkgrgkbkbkbkbkb/) · **Stripes:** [K G W G K DB K DB K DB K G R G K DB K DB K DB K DB K DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G W G K DB K DB K DB K G R G K DB K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKBKGRGKBKBKBKGWGK](/stripes/bkbkbkbkbkgrgkbkbkbkgwgk/).
 
-
-This was sourced from weddslist.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

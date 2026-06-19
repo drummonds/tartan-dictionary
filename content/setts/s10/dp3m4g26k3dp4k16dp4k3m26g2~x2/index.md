@@ -2,10 +2,9 @@
 title: "Famous Grouse, The"
 date: 2023-03-18
 ---
-**Bands:** [GRKBKBKGRB](/stripes/grkbkbkgrb/) · **Stripes:** [G M K DP K DP K G M DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G M K DP K DP K G M DP</span></span>
+In pattern [BRGKBKBKRG](/stripes/brgkbkbkrg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2858
 

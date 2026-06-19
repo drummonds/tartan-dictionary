@@ -2,10 +2,9 @@
 title: "MacNab"
 date: 2023-03-18
 ---
-**Bands:** [RGRRRRRGRGRGRGRGRGRRRRRGRG](/stripes/rgrrrrrgrgrgrgrgrgrrrrrgrg/) · **Stripes:** [R G R R R R R G R G R G R G R G R G R R R R R G R G](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R R R R R G R G R G R G R G R G R R R R R G R G</span></span>
+In pattern [GRGRRRRRGRGRGRGRGRGRRRRRGR](/stripes/grgrrrrrgrgrgrgrgrgrrrrrgr/).
 
-
-This was sourced from logan-1831.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from logan-1831.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link /posts/logans-scottish-gael/
 

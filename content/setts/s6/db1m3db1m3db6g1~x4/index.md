@@ -2,10 +2,9 @@
 title: "Robbins Family Tartan Tartan Number: 412. Earliest known date: 1985 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GBRBRB](/stripes/gbrbrb/) · **Stripes:** [G DB M DB M DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB M DB M DB</span></span>
+In pattern [BRBRBG](/stripes/brbrbg/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=412
 

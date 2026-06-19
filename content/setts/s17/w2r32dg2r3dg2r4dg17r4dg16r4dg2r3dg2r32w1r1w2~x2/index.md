@@ -2,10 +2,9 @@
 title: "Rothesay"
 date: 2023-03-18
 ---
-**Bands:** [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/) · **Stripes:** [W R DG R DG R DG R DG R DG R DG R W R W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R DG R DG R DG R DG R DG R DG R W R W</span></span>
+In pattern [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

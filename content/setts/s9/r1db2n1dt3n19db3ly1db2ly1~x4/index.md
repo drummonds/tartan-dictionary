@@ -2,10 +2,9 @@
 title: "Pagus Wasia District Tartan Tartan Number: 10962. Earliest known date: 2012 Pagus (shire) Wasia (wetland) is a rural district in Belgium. The tartan was created by the founding members of the new Pagus Wasia Pipes & Drums, based on the colours of the District Coat of Arms. The district is associated with the Belgian surname, Waas. Registration was authorised by Marc Van de Vijver, Mayor of the city of Beveren. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBBBBBYBY](/stripes/rbbbbbyby/) · **Stripes:** [R DB N DT N DB LY DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB N DT N DB LY DB LY</span></span>
+In pattern [RBBBBBYBY](/stripes/rbbbbbyby/).
 
-
-This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10962
 

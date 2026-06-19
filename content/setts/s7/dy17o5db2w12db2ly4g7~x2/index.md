@@ -2,10 +2,9 @@
 title: "Ontario Northern Canadian District Tartan Tartan Number: 956. Earliest known date: 1967 The six colours represent the nickel bearing rocks (grey), the snow (white), the sky and the lakes (blue), gold, the forests and fields (green), and the Indian Nation (red brown). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRBWBYG](/stripes/grbwbyg/) · **Stripes:** [DY O DB W DB LY G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DY O DB W DB LY G</span></span>
+In pattern [GRBWBYG](/stripes/grbwbyg/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=956
 

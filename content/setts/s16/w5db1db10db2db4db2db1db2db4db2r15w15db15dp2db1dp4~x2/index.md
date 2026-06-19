@@ -2,10 +2,9 @@
 title: "Auld Alliance"
 date: 2023-03-18
 ---
-**Bands:** [BBBBWRBBBBBBBBBW](/stripes/bbbbwrbbbbbbbbbw/) · **Stripes:** [DP DB DP DB W R DB DB DB DB DB DB DB DB DB W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DB DP DB W R DB DB DB DB DB DB DB DB DB W</span></span>
+In pattern [BBBBWRBBBBBBBBBW](/stripes/bbbbwrbbbbbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5824
 

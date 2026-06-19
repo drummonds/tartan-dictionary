@@ -2,10 +2,9 @@
 title: "Beartrap (Military)"
 date: 2023-03-18
 ---
-**Bands:** [RWRKGYGKRWRWR](/stripes/rwrkgygkrwrwr/) · **Stripes:** [R LB R K G LY G K R LB R LB R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LB R K G LY G K R LB R LB R</span></span>
+In pattern [RWRKGYGKRWRWR](/stripes/rwrkgygkrwrwr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7624/
 

@@ -2,10 +2,9 @@
 title: "Round Table"
 date: 2023-03-18
 ---
-**Bands:** [BBBKBBWBWBBBBBBKBKBKBBBBBB](/stripes/bbbkbbwbwbbbbbbkbkbkbbbbbb/) · **Stripes:** [T DB T K DB T W T W T DB T DB T DB K T K T K DB T DB T DB T](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB T K DB T W T W T DB T DB T DB K T K T K DB T DB T DB T</span></span>
+In pattern [BBBBBBKBKBKBBBBBBWBWBBKBBB](/stripes/bbbbbbkbkbkbbbbbbwbwbbkbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3578
 

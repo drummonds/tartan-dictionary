@@ -2,10 +2,9 @@
 title: "MacKintosh 4"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRGR](/stripes/rkrkrgr/) · **Stripes:** [R K R K R G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R G R</span></span>
+In pattern [RGRKRKR](/stripes/rgrkrkr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacQuarrie 5](/setts/s7/r4g5r2k6r18k2r4~x2/)
-
 
 ## Thread count
 R/150 G24 R6 K4 R4 K4 R/72

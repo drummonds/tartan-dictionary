@@ -2,10 +2,9 @@
 title: "Southdown"
 date: 2023-03-18
 ---
-**Bands:** [KRKWKWKGRGKWKWKR](/stripes/krkwkwkgrgkwkwkr/) · **Stripes:** [K R K W K W K DY R DY K W K W K R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K W K W K DY R DY K W K W K R</span></span>
+In pattern [KRKWKWKGRGKWKWKR](/stripes/krkwkwkgrgkwkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3845
 

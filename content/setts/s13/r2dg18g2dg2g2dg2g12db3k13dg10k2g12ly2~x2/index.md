@@ -2,10 +2,9 @@
 title: "McHeadley Society"
 date: 2023-03-18
 ---
-**Bands:** [RGGGGGGBKGKGY](/stripes/rggggggbkgkgy/) · **Stripes:** [R DG G DG G DG G DB K DG K G LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG G DG G DG G DB K DG K G LY</span></span>
+In pattern [RGGGGGGBKGKGY](/stripes/rggggggbkgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10450
 

@@ -2,10 +2,9 @@
 title: "Gallaecia (Unofficial) (District)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBW](/stripes/bbbbw/) · **Stripes:** [DB T DB T W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB T DB T W</span></span>
+In pattern [BBBBW](/stripes/bbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7820/
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5776](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5776)
 - Scottish Tartans Authority (ITI): 7820
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gulfmark (Corporate)](/setts/s5/db72t6db12t17w6~x2/)
-
 
 ## Thread count
 DB/48 B26 DB8 B8 LN/4

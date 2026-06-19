@@ -2,10 +2,9 @@
 title: "Thousand Islands"
 date: 2023-03-18
 ---
-**Bands:** [BRGBRBKYBB](/stripes/brgbrbkybb/) · **Stripes:** [T R Y T R T K LO T DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">T R Y T R T K LO T DB</span></span>
+In pattern [BBYKBRBGRB](/stripes/bbykbrbgrb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5563
 

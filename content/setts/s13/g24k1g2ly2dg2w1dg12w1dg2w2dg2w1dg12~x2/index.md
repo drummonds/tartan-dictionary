@@ -2,10 +2,9 @@
 title: "Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GKGYGWGWGWGWG](/stripes/gkgygwgwgwgwg/) · **Stripes:** [G K G LY DG W DG W DG W DG W DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">G K G LY DG W DG W DG W DG W DG</span></span>
+In pattern [GKGYGWGWGWGWG](/stripes/gkgygwgwgwgwg/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=778
 

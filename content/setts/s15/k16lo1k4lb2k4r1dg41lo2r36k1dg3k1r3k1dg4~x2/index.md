@@ -2,10 +2,9 @@
 title: "Belk Heritage (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KYKWKRGYRKGKRKG](/stripes/kykwkrgyrkgkrkg/) · **Stripes:** [K LO K LB K R DG LO R K DG K R K DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LO K LB K R DG LO R K DG K R K DG</span></span>
+In pattern [GKRKGKRYGRKWKYK](/stripes/gkrkgkrygrkwkyk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8926/
 

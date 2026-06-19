@@ -2,10 +2,9 @@
 title: "Prince Charles Cloak"
 date: 2023-03-18
 ---
-**Bands:** [RBYGRBWY](/stripes/rbygrbwy/) · **Stripes:** [R DB LY DG R DB LB LR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DB LY DG R DB LB LR</span></span>
+In pattern [RBYGRBWY](/stripes/rbygrbwy/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

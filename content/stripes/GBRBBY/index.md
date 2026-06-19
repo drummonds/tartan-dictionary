@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gbrbby/
 ---
-GBRBBY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/g2n1r29b29n1lo2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GBRBBY
+
+{{< pat "GBRBBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO N B R N G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO N B R N G</span></span>
 
 | Tartans |
 |---------------|
 | [Reagan](/setts/s6/g2n1r29b29n1lo2~x2/)|
 |![Reagan example sett](/setts/s6/g2n1r29b29n1lo2~x2/sett.png)|
-

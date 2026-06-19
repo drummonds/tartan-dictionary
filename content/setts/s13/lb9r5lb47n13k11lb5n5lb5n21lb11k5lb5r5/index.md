@@ -2,10 +2,9 @@
 title: "Balmoral"
 date: 2023-03-18
 ---
-**Bands:** [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/) · **Stripes:** [R LB K LB N LB N LB K N LB R LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB K LB N LB N LB K N LB R LB</span></span>
+In pattern [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,14 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Balmoral (Royal)](/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/)
-- [Balmoral Gillies (Royal)](/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/)
-
 
 ## Thread count
 Na/9 R5 Na47 N13 K11 Na5 N5 Na5 N21 Na11 K5 Na5 R/5

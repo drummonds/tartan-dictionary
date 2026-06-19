@@ -2,10 +2,9 @@
 title: "Dupplin Check"
 date: 2023-03-18
 ---
-**Bands:** [RWKWBWKWB](/stripes/rwkwbwkwb/) · **Stripes:** [R LB K LB DO LB K LB DO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="seq">R LB K LB DO LB K LB DO</span></span>
+In pattern [BWKWBWKWR](/stripes/bwkwbwkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1050
 

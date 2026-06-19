@@ -2,10 +2,9 @@
 title: "Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YGBGRG](/stripes/ygbgrg/) · **Stripes:** [LY DY DB DY R DY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY DY DB DY R DY</span></span>
+In pattern [GRGBGY](/stripes/grgbgy/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1745
 

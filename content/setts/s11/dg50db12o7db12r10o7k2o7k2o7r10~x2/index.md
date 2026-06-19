@@ -2,10 +2,9 @@
 title: "Norham and Ladykirk (District)"
 date: 2023-03-18
 ---
-**Bands:** [RRKRKRRBRBG](/stripes/rrkrkrrbrbg/) · **Stripes:** [R O K O K O R DB O DB DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R O K O K O R DB O DB DG</span></span>
+In pattern [GBRBRRKRKRR](/stripes/gbrbrrkrkrr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3333/
 

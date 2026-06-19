@@ -2,20 +2,11 @@
 title: "Hanna Personal Tartan Tartan Number: 619. Earliest known date: 1987 Found in a the Hanna family bible of a civil war veteran by Charles Milton Hanna, Freeport, PA, USA, who sent information to the Scottish Tartan Society in 1987. The STS records the blue square as blue 4 and white 2, which gives a tweed like pattern to that section. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWBWBWBWBWBWB](/stripes/kwbwbwbwbwbwb/) · **Stripes:** [K W DB W DB W DB W DB W DB W DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K W DB W DB W DB W DB W DB W DB</span></span>
+In pattern [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=619
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hanna](/setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/)
-- [Hanna (Bible)](/setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/)
-
 
 ## Thread count
 K/16 LN26 DB4 LN2 DB4 LN2 DB4 LN2 DB4 LN2 DB4 LN2 DB/4

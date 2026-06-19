@@ -2,10 +2,9 @@
 title: "Hughes (USA) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBBBKKBBKBBKKBBBKB](/stripes/kbbbkkbbkbbkkbbbkb/) · **Stripes:** [K DB B DB K K DB B K B DB K K DB B DB K B](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K DB B DB K K DB B K B DB K K DB B DB K B</span></span>
+In pattern [BKBBBKKBBKBBKKBBBK](/stripes/bkbbbkkbbkbbkkbbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1780
 

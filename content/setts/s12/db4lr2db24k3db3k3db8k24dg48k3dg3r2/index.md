@@ -2,10 +2,9 @@
 title: "Urquhart"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKBKBKBYB](/stripes/rgkgkbkbkbyb/) · **Stripes:** [R DG K DG K DB K DB K DB LR DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG K DG K DB K DB K DB LR DB</span></span>
+In pattern [BYBKBKBKGKGR](/stripes/bybkbkbkgkgr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Urquhart](/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2~x2/)
-
 
 ## Thread count
 DB/4 N2 DB24 K3 DB3 K3 DB8 K24 DG48 K3 DG3 DR/2

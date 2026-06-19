@@ -2,10 +2,9 @@
 title: "McLosek (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKWKBWBKBWBKWKRKWKBWRKBWBKWKRKW](/stripes/krkwkbwbkbwbkwkrkwkbwrkbwbkwkrkw/) · **Stripes:** [K M K W K DP LB DP K DP LB DP K W K M K W K DP LB M K DP LB DP K W K M K W](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K M K W K DP LB DP K DP LB DP K W K M K W K DP LB M K DP LB DP K W K M K W</span></span>
+In pattern [KRKWKBWBKBWBKWKRKWKBWRKBWBKWKRKW](/stripes/krkwkbwbkbwbkwkrkwkbwrkbwbkwkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10060
 

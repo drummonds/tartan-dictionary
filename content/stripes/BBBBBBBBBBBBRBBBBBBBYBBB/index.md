@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbbbbbbbbbbrbbbbbbbybbb/
 ---
-BBBBBBBBBBBBRBBBBBBBYBBB
-
-It is a 24 band tartan.
+It is a 24 stripe tartan.
 
 
 
 ## Colour Sequence
-BBBBBBBBBBBBRBBBBBBBYBBB
+
+{{< pat "BBBBBBBBBBBBRBBBBBBBYBBB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DB N DB LY DB N DB N DB N DB R DB N DB N DB N DB T DB N DB N <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">DB N DB LY DB N DB N DB N DB R DB N DB N DB N DB T DB N DB N</span></span>
 
 | Tartans |
 |---------------|
 | [Colliers International (Corporate)](/setts/s24/db7n7db40ly3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2/)|
 |![Colliers International (Corporate) example sett](/setts/s24/db7n7db40ly3db40n7db7n7db7n7db40r3db40n7db7n7db7n7db40t3db40n7db7n7~x2/sett.png)|
-

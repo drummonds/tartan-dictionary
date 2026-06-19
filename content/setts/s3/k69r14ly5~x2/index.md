@@ -2,10 +2,9 @@
 title: "Batson (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRY](/stripes/kry/) · **Stripes:** [K R LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R LY</span></span>
+In pattern [KRY](/stripes/kry/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5755](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755)
 - Scottish Tartans Authority (ITI): 7789
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Quenouille (2011)](/setts/s3/ly49r16k11~x2/)
-
 
 ## Thread count
 K/138 R28 Y/10

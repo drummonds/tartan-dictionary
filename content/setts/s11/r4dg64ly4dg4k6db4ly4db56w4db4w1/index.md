@@ -2,10 +2,9 @@
 title: "Pringle"
 date: 2023-03-18
 ---
-**Bands:** [RGYGKBYBWBW](/stripes/rgygkbybwbw/) · **Stripes:** [R DG LY DG K DB LY DB W DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG LY DG K DB LY DB W DB W</span></span>
+In pattern [RGYGKBYBWBW](/stripes/rgygkbybwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3410
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3410](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3410)
 - Scottish Tartans World Register: 2816
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Pringle Personal Tartan Tartan Number: 5447. Earliest known date: c.1998 Dalgleish of Selkirk designed and wove this circa 1998 as a personal tartan for someone of the name, Pringle. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r2dg32ly2dg2k3db2ly2db28w2db2w2~x2/)
-
 
 ## Thread count
 R/4 G64 Y4 G4 K6 DB4 Y4 DB56 LN4 DB4 LN/1

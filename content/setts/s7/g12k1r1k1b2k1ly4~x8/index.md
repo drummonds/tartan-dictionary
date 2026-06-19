@@ -2,19 +2,11 @@
 title: "Alberta (District)"
 date: 2023-03-18
 ---
-**Bands:** [YKBKRKG](/stripes/ykbkrkg/) · **Stripes:** [LY K B K R K G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K B K R K G</span></span>
+In pattern [GKRKBKY](/stripes/gkrkbky/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2055/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Alberta (Province)](/setts/s7/g13k1r1k1b2k1ly4~x8/)
-
 
 ## Thread count
 G/96 K8 LR8 K8 B16 K8 Y/32

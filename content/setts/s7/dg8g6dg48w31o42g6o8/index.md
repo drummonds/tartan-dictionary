@@ -2,10 +2,9 @@
 title: "Bannockbane, Green"
 date: 2023-03-18
 ---
-**Bands:** [RGRWGGG](/stripes/rgrwggg/) · **Stripes:** [O G O W DG G DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">O G O W DG G DG</span></span>
+In pattern [GGGWRGR](/stripes/gggwrgr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

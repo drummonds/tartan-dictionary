@@ -2,10 +2,9 @@
 title: "Lovat, or Fraser"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRBRB](/stripes/brgrbrbrb/) · **Stripes:** [P R G R P R P R P](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P R G R P R P R P</span></span>
+In pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

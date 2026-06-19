@@ -2,10 +2,9 @@
 title: "Sugell (Name?)"
 date: 2023-03-18
 ---
-**Bands:** [GRYW](/stripes/gryw/) · **Stripes:** [G R LY W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R LY W</span></span>
+In pattern [GRYW](/stripes/gryw/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7880/
 

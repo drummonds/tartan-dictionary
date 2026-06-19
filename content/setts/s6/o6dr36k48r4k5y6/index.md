@@ -2,10 +2,9 @@
 title: "Drambuie hunting"
 date: 2023-03-18
 ---
-**Bands:** [RBKRKG](/stripes/rbkrkg/) · **Stripes:** [O DR K R K Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O DR K R K Y</span></span>
+In pattern [GKRKBR](/stripes/gkrkbr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

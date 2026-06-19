@@ -2,10 +2,9 @@
 title: "Matheson Hunting (Blue)"
 date: 2023-03-18
 ---
-**Bands:** [GBGKBGBGBGBGBGKBGBGBG](/stripes/gbgkbgbgbgbgbgkbgbgbg/) · **Stripes:** [Y DB Y K DB Y DB Y DB Y DB Y DB Y K DB Y DB Y DB Y](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y DB Y K DB Y DB Y DB Y DB Y DB Y K DB Y DB Y DB Y</span></span>
+In pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4852
 

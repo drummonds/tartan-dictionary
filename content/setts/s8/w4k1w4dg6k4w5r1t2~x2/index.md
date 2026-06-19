@@ -2,10 +2,9 @@
 title: "MacDuff Dress"
 date: 2023-03-18
 ---
-**Bands:** [BRWKGWKW](/stripes/brwkgwkw/) · **Stripes:** [T R W K DG W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T R W K DG W K W</span></span>
+In pattern [BRWKGWKW](/stripes/brwkgwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2419
 

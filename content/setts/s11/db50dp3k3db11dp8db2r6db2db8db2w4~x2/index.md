@@ -2,10 +2,9 @@
 title: "Scottish American"
 date: 2023-03-18
 ---
-**Bands:** [BBKBBBRBBBW](/stripes/bbkbbbrbbbw/) · **Stripes:** [DB DP K DB DP DB R DB DB DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DP K DB DP DB R DB DB DB W</span></span>
+In pattern [BBKBBBRBBBW](/stripes/bbkbbbrbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3707
 

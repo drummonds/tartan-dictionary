@@ -2,10 +2,9 @@
 title: "Rams Timeless"
 date: 2023-03-18
 ---
-**Bands:** [GGYGWGGGGG](/stripes/ggygwggggg/) · **Stripes:** [G Y LO G W G G G Y G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G Y LO G W G G G Y G</span></span>
+In pattern [GGGGGWGYGG](/stripes/gggggwgygg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10859
 

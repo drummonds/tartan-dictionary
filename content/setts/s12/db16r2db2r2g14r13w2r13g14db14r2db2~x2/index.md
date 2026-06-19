@@ -2,10 +2,9 @@
 title: "Fraser of Lovat"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRWRGBRB](/stripes/brbrgrwrgbrb/) · **Stripes:** [DB R DB R G R W R G DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R G R W R G DB R DB</span></span>
+In pattern [BRBGRWRGRBRB](/stripes/brbgrwrgrbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1264
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1264](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1264)
 - Scottish Tartans Authority (ITI): 391
 - Scottish Tartans World Register: 391
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fraser of Lovat](/setts/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/)
-
 
 ## Thread count
 DB/32 R4 DB4 R4 G28 R26 W4 R26 G28 DB28 R4 DB/4

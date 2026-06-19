@@ -2,10 +2,9 @@
 title: "Unidentified, pattern"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKYKGRKRB](/stripes/rbrbkykgrkrb/) · **Stripes:** [R DB R DB K LY K G R K R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB K LY K G R K R DB</span></span>
+In pattern [BRKRGKYKBRBR](/stripes/brkrgkykbrbr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

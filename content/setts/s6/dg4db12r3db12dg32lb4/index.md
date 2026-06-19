@@ -2,10 +2,9 @@
 title: "MacIntyre L"
 date: 2023-03-18
 ---
-**Bands:** [GBRBGW](/stripes/gbrbgw/) · **Stripes:** [DG DB R DB DG LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG DB R DB DG LB</span></span>
+In pattern [GBRBGW](/stripes/gbrbgw/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

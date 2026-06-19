@@ -2,10 +2,9 @@
 title: "State Seal of Missouri (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GGKGBGYGRB](/stripes/ggkgbgygrb/) · **Stripes:** [G DY K DY B DY LO DY R B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G DY K DY B DY LO DY R B</span></span>
+In pattern [BRGYGBGKGG](/stripes/brgygbgkgg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8639/
 

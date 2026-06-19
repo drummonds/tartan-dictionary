@@ -2,10 +2,9 @@
 title: "MacDonald Dress"
 date: 2023-03-18
 ---
-**Bands:** [RKWBWKRKWBWKGRGRGRGRGKRBRBRBRBRB](/stripes/rkwbwkrkwbwkgrgrgrgrgkrbrbrbrbrb/) · **Stripes:** [R K W DB W K R K W DB W K G R G R G R G R G K R DB R DB R DB R DB R DB](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K W DB W K R K W DB W K G R G R G R G R G K R DB R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR](/stripes/brbrbrbrbrkgrgrgrgrgkwbwkrkwbwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2343
 

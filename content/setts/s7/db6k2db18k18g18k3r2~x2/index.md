@@ -2,10 +2,9 @@
 title: "Renfrew"
 date: 2023-03-18
 ---
-**Bands:** [RKGKBKB](/stripes/rkgkbkb/) · **Stripes:** [R K G K DB K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K G K DB K DB</span></span>
+In pattern [BKBKGKR](/stripes/bkbkgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3498
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3498](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3498)
 - Scottish Tartans Authority (ITI): 5413
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKinlay (Clan)](/setts/s7/db4k2db10k10g10k2r3~x2/)
-
 
 ## Thread count
 DB/12 K4 DB36 K36 G36 K6 R/4

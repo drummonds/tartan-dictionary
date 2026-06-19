@@ -2,10 +2,9 @@
 title: "MacDonald of Sleat"
 date: 2023-03-18
 ---
-**Bands:** [KRGRG](/stripes/krgrg/) · **Stripes:** [K R DG R DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K R DG R DG</span></span>
+In pattern [GRGRK](/stripes/grgrk/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald Lord of the Isles #2](/setts/s5/dg16r5dg2r18k2~x2/)
-- [MacDonald of Sleat](/setts/s5/dg7r3dg1r9k1~x2/)
-
 
 ## Thread count
 DG/16 DR5 DG2 DR18 K/2

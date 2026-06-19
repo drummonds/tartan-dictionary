@@ -2,10 +2,9 @@
 title: "Walker, Michael (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBWRWBBBBBWRWBBBYBB](/stripes/bybbbwrwbbbbbwrwbbbybb/) · **Stripes:** [DB LY DB T DB W O W T DB T DB T W O W DB T DB LY DB T](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB LY DB T DB W O W T DB T DB T W O W DB T DB LY DB T</span></span>
+In pattern [BBYBBBWRWBBBBBWRWBBBYB](/stripes/bbybbbwrwbbbbbwrwbbbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4481
 

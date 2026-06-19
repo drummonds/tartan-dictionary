@@ -2,20 +2,11 @@
 title: "Masai Shuka 02 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RB](/stripes/rb/) · **Stripes:** [R DB](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB</span></span>
+In pattern [BR](/stripes/br/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7189/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cairnbulg & Inverllocjy Fisher Plaid](/setts/s2/db1r1~x14/)
-- [Rob Roy, Blue & Red (Fashion)](/setts/s2/db1r1~x100/)
-
 
 ## Thread count
 DB/20 R/20

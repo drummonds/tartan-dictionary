@@ -2,10 +2,9 @@
 title: "Thompson Navy Trade Tartan Tartan Number: 1443. Earliest known date: Oregon Possibly designed by Councillor John Hannay himself. No other information is available. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGBGWBR](/stripes/rgbgwbr/) · **Stripes:** [M DY DB DY W DB M](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M DY DB DY W DB M</span></span>
+In pattern [RBWGBGR](/stripes/rbwgbgr/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1443
 

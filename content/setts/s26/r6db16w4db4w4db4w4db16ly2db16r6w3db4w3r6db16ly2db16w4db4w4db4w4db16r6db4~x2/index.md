@@ -2,10 +2,9 @@
 title: "Parker Personal Tartan Tartan Number: 6485. Earliest known date: 2004 David Parker, who lives in Las Vegas on the high desert where it is cold in winter and hot in summer, designed for a medium weight fabric, based on the American flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBWBWBWBYBRWBWRBYBWBWBWBRB](/stripes/rbwbwbwbybrwbwrbybwbwbwbrb/) · **Stripes:** [R DB W DB W DB W DB LY DB R W DB W R DB LY DB W DB W DB W DB R DB](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB W DB W DB W DB LY DB R W DB W R DB LY DB W DB W DB W DB R DB</span></span>
+In pattern [BRBWBWBWBYBRWBWRBYBWBWBWBR](/stripes/brbwbwbwbybrwbwrbybwbwbwbr/).
 
-
-This was sourced from house-of-tartan.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6485
 

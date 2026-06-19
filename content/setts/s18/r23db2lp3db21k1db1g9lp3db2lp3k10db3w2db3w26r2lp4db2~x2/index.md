@@ -2,10 +2,9 @@
 title: "Cooper Dress (Dalgliesh #1)"
 date: 2023-03-18
 ---
-**Bands:** [RBWBKBGWBWKBWBWRWB](/stripes/rbwbkbgwbwkbwbwrwb/) · **Stripes:** [R DB LP DB K DB G LP DB LP K DB W DB W R LP DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LP DB K DB G LP DB LP K DB W DB W R LP DB</span></span>
+In pattern [BWRWBWBKWBWGBKBWBR](/stripes/bwrwbwbkwbwgbkbwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=752
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [752](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=752)
 - Scottish Tartans Authority (ITI): 75
 - Scottish Tartans World Register: 75
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cooper Dress (Dalgliesh #1) (Dance)](/setts/s18/db2lp4r2w26db3w2db3k10lp3db2lp3g9db1k1db21lp3db2r2~x2/)
-
 
 ## Thread count
 R/46 DB4 LP6 DB42 K2 DB2 G18 LP6 DB4 LP6 K20 DB6 W4 DB6 W52 R4 LP8 DB/4

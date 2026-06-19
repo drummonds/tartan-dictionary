@@ -2,10 +2,9 @@
 title: "Sri Lanka"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRBKWKBGRY](/stripes/ryryrbkwkbgry/) · **Stripes:** [R LY R LY R B K W K B G R LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LY R LY R B K W K B G R LO</span></span>
+In pattern [RYRYRBKWKBGRY](/stripes/ryryrbkwkbgry/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3871
 

@@ -2,10 +2,9 @@
 title: "Borthwick"
 date: 2023-03-18
 ---
-**Bands:** [GKBKGKGKB](/stripes/gkbkgkgkb/) · **Stripes:** [DG K DR K Y K Y K DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG K DR K Y K Y K DR</span></span>
+In pattern [BKGKGKBKG](/stripes/bkgkgkbkg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Borthwick](/setts/s9/dg17k1dr16k2y14k19y14k2dr6~x2/)
-- [Borthwick D](/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/)
-
 
 ## Thread count
 DG/17 K1 DR16 K2 N14 K19 N14 K2 DR/6

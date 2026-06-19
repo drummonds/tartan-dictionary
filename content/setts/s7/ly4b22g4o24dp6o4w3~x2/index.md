@@ -2,10 +2,9 @@
 title: "Deeside Plaid (Taobh Dhi) (District)"
 date: 2023-03-18
 ---
-**Bands:** [YBGRBRW](/stripes/ybgrbrw/) · **Stripes:** [LY B G O DP O W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY B G O DP O W</span></span>
+In pattern [WRBRGBY](/stripes/wrbrgby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1833/
 

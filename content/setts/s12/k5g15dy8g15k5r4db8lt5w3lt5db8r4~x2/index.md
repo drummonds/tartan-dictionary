@@ -2,10 +2,9 @@
 title: "Anderson (Blackwood) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGGGKRBWWWBR](/stripes/kgggkrbwwwbr/) · **Stripes:** [K G DY G K R DB LT W LT DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G DY G K R DB LT W LT DB R</span></span>
+In pattern [KGGGKRBWWWBR](/stripes/kgggkrbwwwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10296
 

@@ -2,10 +2,9 @@
 title: "Baron of Greencastle Dress #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKRYKBKBKBWBW](/stripes/rkrykbkbkbwbw/) · **Stripes:** [R K R LY K DB K DB K DB W DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K R LY K DB K DB K DB W DB W</span></span>
+In pattern [RKRYKBKBKBWBW](/stripes/rkrykbkbkbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=222
 

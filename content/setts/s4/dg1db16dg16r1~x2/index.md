@@ -2,10 +2,9 @@
 title: "Barclay Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGBG](/stripes/rgbg/) · **Stripes:** [R DG DB DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG DB DG</span></span>
+In pattern [GBGR](/stripes/gbgr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,14 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barclay Hunting](/setts/s4/dg1db16dg16r1/)
-- [Barwell](/setts/s4/dg1db3dg3r1~x4/)
-
 
 ## Thread count
 DR/2 DG32 DB32 DG/2

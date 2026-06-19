@@ -2,10 +2,9 @@
 title: "Bethune Name Tartan Tartan Number: 2428. Earliest known date: pre 1997 Designed by Phil Smith - same as Macbeth but with the addition of a light blue stripe in the middle of the darker blue ground. Count said to be from William MacIntosh & Co. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BYKYKWKGRKRWRKRGKWKYKYBB](/stripes/bykykwkgrkrwrkrgkwkykybb/) · **Stripes:** [DB LY K LY K W K G R K R W R K R G K W K LY K LY DB T](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB LY K LY K W K G R K R W R K R G K W K LY K LY DB T</span></span>
+In pattern [BBYKYKWKGRKRWRKRGKWKYKYB](/stripes/bbykykwkgrkrwrkrgkwkykyb/).
 
-
-This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2428
 

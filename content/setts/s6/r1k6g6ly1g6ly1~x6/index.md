@@ -2,10 +2,9 @@
 title: "Moore Caledonian (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGYGY](/stripes/rkgygy/) · **Stripes:** [R K G LY G LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K G LY G LY</span></span>
+In pattern [RKGYGY](/stripes/rkgygy/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8551/
 

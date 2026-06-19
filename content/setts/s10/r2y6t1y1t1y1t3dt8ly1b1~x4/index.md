@@ -2,10 +2,9 @@
 title: "Haines Family (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGBBYB](/stripes/rgbgbgbbyb/) · **Stripes:** [R Y T Y T Y T DT LY B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R Y T Y T Y T DT LY B</span></span>
+In pattern [BYBBGBGBGR](/stripes/bybbgbgbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11352
 

@@ -2,10 +2,9 @@
 title: "MacPerl (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKWGGGWKWGGGKGGGKGWGKGGGKGWG](/stripes/gkwgggwkwgggkgggkgwgkgggkgwg/) · **Stripes:** [DG K W DG DG DG W K W DG DG DG K DG DG DG K DG W DG K DG DG DG K DG W DG](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K W DG DG DG W K W DG DG DG K DG DG DG K DG W DG K DG DG DG K DG W DG</span></span>
+In pattern [GKWGGGWKWGGGKGGGKGWGKGGGKGWG](/stripes/gkwgggwkwgggkgggkgwgkgggkgwg/).
 
-
-This was sourced from tartans-authority.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10122/
 

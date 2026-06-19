@@ -2,10 +2,9 @@
 title: "Duncan"
 date: 2023-03-18
 ---
-**Bands:** [KGYGBR](/stripes/kgygbr/) · **Stripes:** [K DG LR DG DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG LR DG DB R</span></span>
+In pattern [KGYGBR](/stripes/kgygbr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Duncan](/setts/s6/k4dg21lr3dg21db21r4/)
-
 
 ## Thread count
 K/8 DG42 N6 DG42 DB42 DR/8

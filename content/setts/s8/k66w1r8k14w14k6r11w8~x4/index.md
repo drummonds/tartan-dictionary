@@ -2,10 +2,9 @@
 title: "University of Cincinnati"
 date: 2023-03-18
 ---
-**Bands:** [KWRKWKRW](/stripes/kwrkwkrw/) · **Stripes:** [K W R K W K R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R K W K R W</span></span>
+In pattern [KWRKWKRW](/stripes/kwrkwkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11224
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11224
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11224](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11224)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [University of Cincinnati](/setts/s8/k66w1r8k14w14k6r11w8~x2/)
-
 
 ## Thread count
 K/264 W4 R32 K56 W56 K24 R44 W/32

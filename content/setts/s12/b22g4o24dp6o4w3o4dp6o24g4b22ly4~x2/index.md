@@ -2,10 +2,9 @@
 title: "Deeside Plaid (Taobh Dhi)"
 date: 2023-03-18
 ---
-**Bands:** [YBGRBRWRBRGB](/stripes/ybgrbrwrbrgb/) · **Stripes:** [LY B G O DP O W O DP O G B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY B G O DP O W O DP O G B</span></span>
+In pattern [BGRBRWRBRGBY](/stripes/bgrbrwrbrgby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=905
 

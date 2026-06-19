@@ -2,10 +2,9 @@
 title: "Ruairidh (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRGKRYBYBYRKRWR](/stripes/krgkrybybyrkrwr/) · **Stripes:** [K O DY K O LY DB LY DB LY O K R W R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K O DY K O LY DB LY DB LY O K R W R</span></span>
+In pattern [KRGKRYBYBYRKRWR](/stripes/krgkrybybyrkrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5810
 

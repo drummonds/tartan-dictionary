@@ -2,19 +2,11 @@
 title: "Banff Centennial (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGKGY](/stripes/kbkbgkgy/) · **Stripes:** [K B K B DG K DG LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K B K B DG K DG LY</span></span>
+In pattern [KBKBGKGY](/stripes/kbkbgkgy/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3648/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Banff Centennial](/setts/s8/k1b1k1b12dg12k1dg1ly1~x4/)
-
 
 ## Thread count
 K/4 B4 K4 B28 G32 K4 G4 Y/4

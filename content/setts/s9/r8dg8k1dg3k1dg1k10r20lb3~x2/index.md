@@ -2,19 +2,11 @@
 title: "Hunter of Bute (Clan ?)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKGKRW](/stripes/rgkgkgkrw/) · **Stripes:** [R DG K DG K DG K R LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DG K DG K DG K R LB</span></span>
+In pattern [RGKGKGKRW](/stripes/rgkgkgkrw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8859/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/)
-
 
 ## Thread count
 DR/16 G16 K2 G6 K2 G2 K20 DR40 LR/6

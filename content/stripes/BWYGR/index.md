@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bwygr/
 ---
-BWYGR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/n10w3lr3g1r1~x10/tartan.png)
 
 
 
 ## Colour Sequence
-BWYGR
+
+{{< pat "BWYGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R G LR W N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">R G LR W N</span></span>
 
 | Tartans |
 |---------------|
 | [Bagpipe Shop (Switzerland)](/setts/s5/n10w3lr3g1r1~x10/)|
 |![Bagpipe Shop (Switzerland) example sett](/setts/s5/n10w3lr3g1r1~x10/sett.png)|
-

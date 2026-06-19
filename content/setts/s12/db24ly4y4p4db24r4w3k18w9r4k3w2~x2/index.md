@@ -2,10 +2,9 @@
 title: "Queen Mary, RMS"
 date: 2023-03-18
 ---
-**Bands:** [BYGBBRWKWRKW](/stripes/bygbbrwkwrkw/) · **Stripes:** [DB LY Y P DB R W K W R K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LY Y P DB R W K W R K W</span></span>
+In pattern [BYGBBRWKWRKW](/stripes/bygbbrwkwrkw/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

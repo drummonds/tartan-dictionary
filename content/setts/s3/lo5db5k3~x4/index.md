@@ -2,19 +2,11 @@
 title: "Kazakhstan Relic (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [KBY](/stripes/kby/) · **Stripes:** [K DB LO](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K DB LO</span></span>
+In pattern [KBY](/stripes/kby/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3096/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mother's Pride (Corporate)](/setts/s3/k10db10lo1~x4/)
-
 
 ## Thread count
 DY/20 DB20 K/12

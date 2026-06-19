@@ -2,10 +2,9 @@
 title: "St. Lawrence"
 date: 2023-03-18
 ---
-**Bands:** [KBGBBBBBBBBYKBGKR](/stripes/kbgbbbbbbbbykbgkr/) · **Stripes:** [K DB G DB B DB B DB B DB B LG K DB G K R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB G DB B DB B DB B DB B LG K DB G K R</span></span>
+In pattern [KBGBBBBBBBBYKBGKR](/stripes/kbgbbbbbbbbykbgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3897
 

@@ -2,10 +2,9 @@
 title: "MacMillan Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKYKBYB](/stripes/rgrgkykbyb/) · **Stripes:** [R DG R DG K LY K DB LY DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG R DG K LY K DB LY DB</span></span>
+In pattern [BYBKYKGRGR](/stripes/bybkykgrgr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -70,13 +69,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacMillan Htg (1906) (Clan)](/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/)
-
 
 ## Thread count
 DB/6 Y2 DB24 K8 Y4 K8 G16 R4 G16 R/2

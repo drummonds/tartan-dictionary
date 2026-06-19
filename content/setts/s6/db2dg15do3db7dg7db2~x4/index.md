@@ -2,10 +2,9 @@
 title: "Green Highland, The (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGBBGB](/stripes/bgbbgb/) · **Stripes:** [DB DG DO DB DG DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DG DO DB DG DB</span></span>
+In pattern [BGBBGB](/stripes/bgbbgb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5112/
 

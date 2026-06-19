@@ -2,10 +2,9 @@
 title: "MacCandlish Arisaid Red"
 date: 2023-03-18
 ---
-**Bands:** [YKWKRKRKRKW](/stripes/ykwkrkrkrkw/) · **Stripes:** [LO K LB K R K R K R K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO K LB K R K R K R K LB</span></span>
+In pattern [WKRKRKRKWKY](/stripes/wkrkrkrkwky/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5211
 

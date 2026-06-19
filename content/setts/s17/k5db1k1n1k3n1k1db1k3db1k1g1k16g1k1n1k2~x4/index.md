@@ -2,10 +2,9 @@
 title: "Dickie (Glasgow)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKGKBKBKBKBKBK](/stripes/kbkgkgkbkbkbkbkbk/) · **Stripes:** [K N K G K G K DB K DB K N K N K DB K](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K N K G K G K DB K DB K N K N K DB K</span></span>
+In pattern [KBKBKBKBKBKGKGKBK](/stripes/kbkbkbkbkbkgkgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10367
 

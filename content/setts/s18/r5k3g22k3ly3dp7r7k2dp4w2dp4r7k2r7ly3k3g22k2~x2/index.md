@@ -2,10 +2,9 @@
 title: "Derbyshire"
 date: 2023-03-18
 ---
-**Bands:** [KGKYRKRBWBKRBYKGKR](/stripes/kgkyrkrbwbkrbykgkr/) · **Stripes:** [K G K LY R K R DP W DP K R DP LY K G K R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K LY R K R DP W DP K R DP LY K G K R</span></span>
+In pattern [KGKYRKRBWBKRBYKGKR](/stripes/kgkyrkrbwbkrbykgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11306
 

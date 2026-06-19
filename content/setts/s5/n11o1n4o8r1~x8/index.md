@@ -2,10 +2,9 @@
 title: "Cairns, David (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRBRB](/stripes/rrbrb/) · **Stripes:** [R O N O N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">R O N O N</span></span>
+In pattern [BRBRR](/stripes/brbrr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10143/
 

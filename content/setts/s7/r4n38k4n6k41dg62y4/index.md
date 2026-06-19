@@ -2,10 +2,9 @@
 title: "Bennett, John Paul (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKGG](/stripes/rbkbkgg/) · **Stripes:** [R N K N K DG Y](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R N K N K DG Y</span></span>
+In pattern [GGKBKBR](/stripes/ggkbkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10222
 

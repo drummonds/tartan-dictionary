@@ -2,10 +2,9 @@
 title: "Saint Joseph de Sorel"
 date: 2023-03-18
 ---
-**Bands:** [BBBRGYGRYBWBWBWB](/stripes/bbbrgygrybwbwbwb/) · **Stripes:** [T T T R G LO G O LY T W T W T W T](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">T T T R G LO G O LY T W T W T W T</span></span>
+In pattern [BBBRGYGRYBWBWBWB](/stripes/bbbrgygrybwbwbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3638
 

@@ -2,10 +2,9 @@
 title: "Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GBYB](/stripes/gbyb/) · **Stripes:** [Y DO LY DO](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="seq">Y DO LY DO</span></span>
+In pattern [BYBG](/stripes/bybg/).
 
-
-This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7094
 

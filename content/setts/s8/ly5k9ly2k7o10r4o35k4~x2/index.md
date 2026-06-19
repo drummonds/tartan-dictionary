@@ -2,10 +2,9 @@
 title: "Wilbers #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRRRKYKY](/stripes/krrrkyky/) · **Stripes:** [K O R O K LY K LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K O R O K LY K LY</span></span>
+In pattern [KRRRKYKY](/stripes/krrrkyky/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5862
 

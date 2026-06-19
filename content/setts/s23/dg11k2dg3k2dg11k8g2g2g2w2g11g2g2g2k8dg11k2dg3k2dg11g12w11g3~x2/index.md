@@ -2,10 +2,9 @@
 title: "Scottish National, dress"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKGGGWGGGGKGKGKGGWG](/stripes/gkgkgkgggwggggkgkgkggwg/) · **Stripes:** [DG K DG K DG K G G G W G G G G K DG K DG K DG G W G](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG K DG K DG K G G G W G G G G K DG K DG K DG G W G</span></span>
+In pattern [GKGKGKGGGWGGGGKGKGKGGWG](/stripes/gkgkgkgggwggggkgkgkggwg/).
 
-
-This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

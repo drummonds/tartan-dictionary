@@ -2,10 +2,9 @@
 title: "Brittish Lions Corporate Tartan Tartan Number: 6636. Earliest known date: 2005 March Designed for the British Lions rugby team and unveiled in New York in April at the 2005 Tartan Day celebrations. Originally called Lion's Pride this tartan has a shield and other emblems woven into the red squares./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRKBKYRGW](/stripes/rwrwrkbkyrgw/) · **Stripes:** [R W R W R K DT K LY R G W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R W R K DT K LY R G W</span></span>
+In pattern [RWRWRKBKYRGW](/stripes/rwrwrkbkyrgw/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6636
 

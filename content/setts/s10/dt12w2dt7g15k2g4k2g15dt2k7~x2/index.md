@@ -2,10 +2,9 @@
 title: "Smeaton"
 date: 2023-03-18
 ---
-**Bands:** [KBGKGKGBWB](/stripes/kbgkgkgbwb/) · **Stripes:** [K DT G K G K G DT W DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">K DT G K G K G DT W DT</span></span>
+In pattern [BWBGKGKGBK](/stripes/bwbgkgkgbk/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

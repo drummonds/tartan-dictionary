@@ -2,10 +2,9 @@
 title: "Dalrymple of Castleton Portrait Tartan Tartan Number: 1780. Earliest known date: 1720 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYKYBWBYRBW](/stripes/yryrykybwbyrbw/) · **Stripes:** [LY R LY M LY K LY DB W DB LY R DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R LY M LY K LY DB W DB LY R DB W</span></span>
+In pattern [WBRYBWBYKYRYRY](/stripes/wbrybwbykyryry/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1780
 

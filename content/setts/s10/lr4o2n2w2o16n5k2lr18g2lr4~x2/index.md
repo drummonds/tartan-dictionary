@@ -2,10 +2,9 @@
 title: "Australian Heavy Horse (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YRBWRBKYGY](/stripes/yrbwrbkygy/) · **Stripes:** [LR O N W O N K LR G LR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LR O N W O N K LR G LR</span></span>
+In pattern [YGYKBRWBRY](/stripes/ygykbrwbry/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10136/
 

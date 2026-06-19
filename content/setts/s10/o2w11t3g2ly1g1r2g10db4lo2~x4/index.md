@@ -2,10 +2,9 @@
 title: "Lanark Highlands"
 date: 2023-03-18
 ---
-**Bands:** [RWBGYGRGBY](/stripes/rwbgygrgby/) · **Stripes:** [O W T G LY G R G DB LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">O W T G LY G R G DB LO</span></span>
+In pattern [RWBGYGRGBY](/stripes/rwbgygrgby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2038
 

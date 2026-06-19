@@ -2,19 +2,11 @@
 title: "Auld Lang Syne Burns Commemorative Tartan Tartan Number: 2400. Earliest known date: 01/01/2002 Launched on the 25th January at a the Beach Ballroom Aberdeen, to celebrate the birth of Robert Burns 2002./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGKGW](/stripes/kbkbgkgw/) · **Stripes:** [K N K N DY K DY LT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">K N K N DY K DY LT</span></span>
+In pattern [KBKBGKGW](/stripes/kbkbgkgw/).
 
-
-This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2400
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Auld Lang Syne](/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/)
-
 
 ## Thread count
 K/6 B6 K6 B48 Ka48 K6 Ka6 LB/6

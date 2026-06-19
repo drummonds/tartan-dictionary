@@ -2,10 +2,9 @@
 title: "MacCallum High School Corporate Tartan Tartan Number: 1279. Earliest known date: 0 From the J. Rutledge Collection, Belfast. MacCallum High School, Philadelphia See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBRBR](/stripes/rbrbr/) · **Stripes:** [O DB O DB O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DB O DB O</span></span>
+In pattern [RBRBR](/stripes/rbrbr/).
 
-
-This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1279
 

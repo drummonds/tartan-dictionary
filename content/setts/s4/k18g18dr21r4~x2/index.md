@@ -2,10 +2,9 @@
 title: "Tennant"
 date: 2023-03-18
 ---
-**Bands:** [KGBR](/stripes/kgbr/) · **Stripes:** [K G DR R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G DR R</span></span>
+In pattern [KGBR](/stripes/kgbr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

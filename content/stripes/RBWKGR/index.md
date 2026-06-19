@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/rbwkgr/
 ---
-RBWKGR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/r28g16k4w1db6r28~x2/tartan.png)
 
 
 
 ## Colour Sequence
-RBWKGR
+
+{{< pat "RBWKGR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R G K W T R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K W T R</span></span>
 
 | Tartans |
 |---------------|
@@ -33,18 +27,7 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 |![Sinclair example sett](/setts/s6/r28g16k4w1t6r28~x2/sett.png)|
 | [Sinclair](/setts/s6/r36t8w1k5g20r18~x4/)|
 |![Sinclair example sett](/setts/s6/r36t8w1k5g20r18~x4/sett.png)|
-
-### R DG K W T R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K W T R</span></span>
-
-| Tartans |
-|---------------|
-| [Thompson/Thomson/MacTavish (Mackinlay)](/setts/s6/r40t11w2k12dg36r32~x2/)|
-|![Thompson/Thomson/MacTavish (Mackinlay) example sett](/setts/s6/r40t11w2k12dg36r32~x2/sett.png)|
-
-### R G K W DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K W DB R</span></span>
-
-| Tartans |
-|---------------|
 | [Sinclair (Logan)](/setts/s6/r28g16k4w1db6r28~x2/)|
 |![Sinclair (Logan) example sett](/setts/s6/r28g16k4w1db6r28~x2/sett.png)|
-
+| [Thompson/Thomson/MacTavish (Mackinlay)](/setts/s6/r40t11w2k12dg36r32~x2/)|
+|![Thompson/Thomson/MacTavish (Mackinlay) example sett](/setts/s6/r40t11w2k12dg36r32~x2/sett.png)|

@@ -2,10 +2,9 @@
 title: "Monarch of the Glen Fashion Tartan Tartan Number: 4542. Earliest known date: 2002 Designed by Claire Donaldson of House of Edgar using the name of the popular television series. (2002) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGYGBGBBBBGBBBKBBBBGBB](/stripes/kgygbgbbbbgbbbkbbbbgbb/) · **Stripes:** [K Y LO Y DB Y DP DB DP DB Y DB DP DB K DP DB DP DB Y DB DP](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K Y LO Y DB Y DP DB DP DB Y DB DP DB K DP DB DP DB Y DB DP</span></span>
+In pattern [BBGBBBBKBBBGBBBBGBGYGK](/stripes/bbgbbbbkbbbgbbbbgbgygk/).
 
-
-This was sourced from house-of-tartan.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4542
 

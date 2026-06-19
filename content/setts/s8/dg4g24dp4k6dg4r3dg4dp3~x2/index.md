@@ -2,10 +2,9 @@
 title: "Womens Rural Institute"
 date: 2023-03-18
 ---
-**Bands:** [GGBKGRGB](/stripes/ggbkgrgb/) · **Stripes:** [DG G DP K DG R DG DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG G DP K DG R DG DP</span></span>
+In pattern [BGRGKBGG](/stripes/bgrgkbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4778
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4778](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4778)
 - Scottish Tartans Authority (ITI): 4241
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scottish Power (Corporate)](/setts/s8/dg5g32dp5k10dg8r3dg8dp3~x2/)
-
 
 ## Thread count
 DG/8 G48 DP8 K12 DG8 DR6 DG8 DP/6

@@ -2,10 +2,9 @@
 title: "Logan"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRG](/stripes/grgrgrg/) · **Stripes:** [G R G R G R G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G R G R G</span></span>
+In pattern [GRGRGRG](/stripes/grgrgrg/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Logan #4](/setts/s7/g9r4g1r4g15r4g1~x4/)
-
 
 ## Thread count
 G/40 R16 G4 R16 G60 Ra16 G/4

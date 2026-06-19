@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbbybby/
 ---
-BBBBYBBY
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/do4t48do21t14lo3t6do1ly3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BBBBYBBY
+
+{{< pat "BBBBYBBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DO T LO T DO T DO <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="seq">LY DO T LO T DO T DO</span></span>
 
 | Tartans |
 |---------------|
 | [Munster Ancestry](/setts/s8/do4t48do21t14lo3t6do1ly3~x2/)|
 |![Munster Ancestry example sett](/setts/s8/do4t48do21t14lo3t6do1ly3~x2/sett.png)|
-

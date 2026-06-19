@@ -2,10 +2,9 @@
 title: "Psychological Operations Regiment"
 date: 2023-03-18
 ---
-**Bands:** [BWBKGKGKRKGKGKBWB](/stripes/bwbkgkgkrkgkgkbwb/) · **Stripes:** [DT LB DT K DG K DG K R K DG K DG K DT LB DT](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="seq">DT LB DT K DG K DG K R K DG K DG K DT LB DT</span></span>
+In pattern [BWBKGKGKRKGKGKBWB](/stripes/bwbkgkgkrkgkgkbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10822
 

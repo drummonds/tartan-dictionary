@@ -2,10 +2,9 @@
 title: "Grant"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGKBKBKB](/stripes/ykgrgkbkbkb/) · **Stripes:** [LY K G R G K DB K DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G R G K DB K DB K DB</span></span>
+In pattern [BKBKBKGRGKY](/stripes/bkbkbkgrgky/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,14 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Grant, hunting](/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/)
-- [MacLaren](/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/)
-
 
 ## Thread count
 B/48 K8 B8 K8 B8 K48 G48 R10 G12 K4 Y/4

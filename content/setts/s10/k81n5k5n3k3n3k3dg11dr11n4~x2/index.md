@@ -2,10 +2,9 @@
 title: "Racing Stewart (Stealth)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKGBB](/stripes/kbkbkbkgbb/) · **Stripes:** [K N K N K N K DG DR N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N K N K DG DR N</span></span>
+In pattern [BBGKBKBKBK](/stripes/bbgkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5902
 

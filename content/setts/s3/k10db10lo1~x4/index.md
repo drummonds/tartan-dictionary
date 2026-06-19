@@ -2,19 +2,11 @@
 title: "Mother's Pride (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBY](/stripes/kby/) · **Stripes:** [K DB LO](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K DB LO</span></span>
+In pattern [KBY](/stripes/kby/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2312/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kazakhstan Relic (Artefact)](/setts/s3/lo5db5k3~x4/)
-
 
 ## Thread count
 K/40 DB40 DY/4

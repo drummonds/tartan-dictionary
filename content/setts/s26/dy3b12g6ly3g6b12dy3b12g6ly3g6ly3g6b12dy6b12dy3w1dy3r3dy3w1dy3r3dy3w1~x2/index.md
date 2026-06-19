@@ -2,10 +2,9 @@
 title: "Sprouston"
 date: 2023-03-18
 ---
-**Bands:** [GBGYGBGBGYGYGBGBGWGRGWGRGW](/stripes/gbgygbgbgygygbgbgwgrgwgrgw/) · **Stripes:** [DY B G LY G B DY B G LY G LY G B DY B DY W DY R DY W DY R DY W](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DY B G LY G B DY B G LY G LY G B DY B DY W DY R DY W DY R DY W</span></span>
+In pattern [GBGYGBGBGYGYGBGBGWGRGWGRGW](/stripes/gbgygbgbgygygbgbgwgrgwgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3870
 

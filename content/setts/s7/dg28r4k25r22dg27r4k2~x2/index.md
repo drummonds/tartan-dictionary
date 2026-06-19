@@ -2,10 +2,9 @@
 title: "Glasgow, City of District Tartan Tartan Number: 515. Earliest known date: 1819 Also known as 'Madder'. Marroon red is used in this illustration to convey what Wilson describes as madder. This colour, produced from plant dyes, is a dull shade of red. Rock and Wheel refers to an old form of manufacture. Worn by the City of Glasgow pp See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KRGRKRG](/stripes/krgrkrg/) · **Stripes:** [K R DG R K R DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K R DG R K R DG</span></span>
+In pattern [GRKRGRK](/stripes/grkrgrk/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=515
 

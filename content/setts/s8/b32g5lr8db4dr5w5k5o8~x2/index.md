@@ -2,10 +2,9 @@
 title: "Fremsaeter, Jenny (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKWBBYGB](/stripes/rkwbbygb/) · **Stripes:** [O K W DR DB LR G B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">O K W DR DB LR G B</span></span>
+In pattern [BGYBBWKR](/stripes/bgybbwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10864
 

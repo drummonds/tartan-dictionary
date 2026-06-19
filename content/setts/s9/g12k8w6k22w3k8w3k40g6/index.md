@@ -2,10 +2,9 @@
 title: "Jensen, Sven (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKWKWKWKG](/stripes/gkwkwkwkg/) · **Stripes:** [G K W K W K W K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K W K W K W K G</span></span>
+In pattern [GKWKWKWKG](/stripes/gkwkwkwkg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11579
 

@@ -2,10 +2,9 @@
 title: "State Seal of Pennsylvania (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGWBKW](/stripes/ykgkgwbkw/) · **Stripes:** [LO K G K DY LB B K LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO K G K DY LB B K LB</span></span>
+In pattern [WKBWGKGKY](/stripes/wkbwgkgky/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8652/
 

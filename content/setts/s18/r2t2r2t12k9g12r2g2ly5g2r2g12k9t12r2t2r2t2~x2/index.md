@@ -2,10 +2,9 @@
 title: "Lobban (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKGRGYGRGKBRBRB](/stripes/rbrbkgrgygrgkbrbrb/) · **Stripes:** [R T R T K G R G LY G R G K T R T R T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T R T K G R G LY G R G K T R T R T</span></span>
+In pattern [BRBRBKGRGYGRGKBRBR](/stripes/brbrbkgrgygrgkbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2142
 

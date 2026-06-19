@@ -2,10 +2,9 @@
 title: "Longniddry Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BWBBWWWB](/stripes/bwbbwwwb/) · **Stripes:** [DP W T DP LB W LB DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP W T DP LB W LB DP</span></span>
+In pattern [BWBBWWWB](/stripes/bwbbwwwb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2207
 

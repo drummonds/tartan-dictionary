@@ -2,10 +2,9 @@
 title: "Louth"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBBYBYBBB](/stripes/rrbrbbybybbb/) · **Stripes:** [O R N R N N LO N LY N DP N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="seq">O R N R N N LO N LY N DP N</span></span>
+In pattern [BBBYBYBBRBRR](/stripes/bbbybybbrbrr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

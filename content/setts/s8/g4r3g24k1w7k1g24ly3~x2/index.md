@@ -2,10 +2,9 @@
 title: "Layton, Mervin"
 date: 2023-03-18
 ---
-**Bands:** [YGKWKGRG](/stripes/ygkwkgrg/) · **Stripes:** [LY G K W K G R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G K W K G R G</span></span>
+In pattern [GRGKWKGY](/stripes/grgkwkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10486
 

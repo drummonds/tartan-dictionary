@@ -2,19 +2,11 @@
 title: "Bute Heather, Glencallum (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBGBGBGBW](/stripes/ybgbgbgbgbw/) · **Stripes:** [LY DB G DB G DB G DB G DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB G DB G DB G DB G DB W</span></span>
+In pattern [WBGBGBGBGBY](/stripes/wbgbgbgbgby/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8131/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bruce (Personal)](/setts/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/)
-
 
 ## Thread count
 Y/13 DBa2 G38 DB13 G8 DB8 G17 DB2 G17 DB4 LN/11

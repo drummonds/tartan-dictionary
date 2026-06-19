@@ -2,10 +2,9 @@
 title: "Dundee Discovery"
 date: 2023-03-18
 ---
-**Bands:** [GYGYKRKYGYGBKBKBKGRGKBKBKBKBKB](/stripes/gygykrkygygbkbkbkgrgkbkbkbkbkb/) · **Stripes:** [G LY G LY K R K LY G LY G DB K DB K DB K G R G K DB K DB K DB K DB K DB](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY G LY K R K LY G LY G DB K DB K DB K G R G K DB K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKBKGRGKBKBKBGYGYKRKYGYG](/stripes/bkbkbkbkbkgrgkbkbkbgygykrkygyg/).
 
-
-This was sourced from weddslist.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from weddslist.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

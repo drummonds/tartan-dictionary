@@ -2,10 +2,9 @@
 title: "Kincardine City"
 date: 2023-03-18
 ---
-**Bands:** [GKGBKG](/stripes/gkgbkg/) · **Stripes:** [G K G T K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G T K G</span></span>
+In pattern [GKBGKG](/stripes/gkbgkg/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

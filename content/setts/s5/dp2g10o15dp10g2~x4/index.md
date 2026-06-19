@@ -2,10 +2,9 @@
 title: "Harmony, 6"
 date: 2023-03-18
 ---
-**Bands:** [GBRGB](/stripes/gbrgb/) · **Stripes:** [G DP O G DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP O G DP</span></span>
+In pattern [BGRBG](/stripes/bgrbg/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

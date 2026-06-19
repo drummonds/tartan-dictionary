@@ -2,10 +2,9 @@
 title: "Oliphant Dress (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GWGBKBKBWBWBW](/stripes/gwgbkbkbwbwbw/) · **Stripes:** [G W G T K T K T W T W T W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G W G T K T K T W T W T W</span></span>
+In pattern [GWGBKBKBWBWBW](/stripes/gwgbkbkbwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10227/
 

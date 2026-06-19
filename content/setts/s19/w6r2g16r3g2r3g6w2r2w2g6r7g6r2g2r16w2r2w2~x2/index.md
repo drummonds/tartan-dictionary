@@ -2,10 +2,9 @@
 title: "MacDougall (Lochcarron)"
 date: 2023-03-18
 ---
-**Bands:** [WRGRGRGWRWGRGRGRWRW](/stripes/wrgrgrgwrwgrgrgrwrw/) · **Stripes:** [W R G R G R G W R W G R G R G R W R W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R G R G R G W R W G R G R G R W R W</span></span>
+In pattern [WRGRGRGWRWGRGRGRWRW](/stripes/wrgrgrgwrwgrgrgrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2404
 

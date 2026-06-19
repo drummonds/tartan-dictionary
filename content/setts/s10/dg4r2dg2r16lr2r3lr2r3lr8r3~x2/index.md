@@ -2,10 +2,9 @@
 title: "Queen Alexandra"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYRGRG](/stripes/ryryryrgrg/) · **Stripes:** [R LR R LR R LR R DG R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R LR R LR R LR R DG R DG</span></span>
+In pattern [GRGRYRYRYR](/stripes/grgryryryr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3424
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3424](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3424)
 - Scottish Tartans Authority (ITI): 972
 - Scottish Tartans World Register: 972
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Queen Alexandra (Fashion)](/setts/s10/dg4r2dg2r16lr2r3lr2r3lr8r3~x4/)
-
 
 ## Thread count
 Ga/8 R4 Ga4 R32 N4 R6 N4 R6 N16 R/6

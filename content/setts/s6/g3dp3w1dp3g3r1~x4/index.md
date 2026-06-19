@@ -2,10 +2,9 @@
 title: "Wilson's No.113"
 date: 2023-03-18
 ---
-**Bands:** [RGBWBG](/stripes/rgbwbg/) · **Stripes:** [R G DP W DP G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DP W DP G</span></span>
+In pattern [GBWBGR](/stripes/gbwbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4680
 

@@ -2,10 +2,9 @@
 title: "Kelso"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYGYGYGGYGGYGYGYGYG](/stripes/ygygygygyggyggygygygyg/) · **Stripes:** [LR Y LR DG LR Y LR Y LR Y DG LR DG Y LR Y LR Y LR DG LR Y](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LR Y LR DG LR Y LR Y LR Y DG LR DG Y LR Y LR Y LR DG LR Y</span></span>
+In pattern [GYGYGYGYGGYGGYGYGYGYGY](/stripes/gygygygyggyggygygygygy/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1938
 

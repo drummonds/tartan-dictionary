@@ -2,10 +2,9 @@
 title: "Clydesdale Bank"
 date: 2023-03-18
 ---
-**Bands:** [BYBRBWBYBYBYB](/stripes/bybrbwbybybyb/) · **Stripes:** [N LR N R N W N LR N LR N LR N](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="seq">N LR N R N W N LR N LR N LR N</span></span>
+In pattern [BYBRBWBYBYBYB](/stripes/bybrbwbybybyb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11642
 

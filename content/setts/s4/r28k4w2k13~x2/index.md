@@ -2,10 +2,9 @@
 title: "Dunbar (District)"
 date: 2023-03-18
 ---
-**Bands:** [KWKR](/stripes/kwkr/) · **Stripes:** [K W K R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K R</span></span>
+In pattern [KWKR](/stripes/kwkr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1236/
 

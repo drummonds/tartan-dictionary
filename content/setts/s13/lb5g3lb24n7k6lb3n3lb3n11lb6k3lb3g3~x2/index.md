@@ -2,10 +2,9 @@
 title: "Balmoral (Green) (Royal)"
 date: 2023-03-18
 ---
-**Bands:** [GWKWBWBWKBWGW](/stripes/gwkwbwbwkbwgw/) · **Stripes:** [G LB K LB N LB N LB K N LB G LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">G LB K LB N LB N LB K N LB G LB</span></span>
+In pattern [GWKWBWBWKBWGW](/stripes/gwkwbwbwkbwgw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=183
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [183](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=183)
 - Scottish Tartans Authority (ITI): 7124
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Balmoral, Green lines](/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/)
-
 
 ## Thread count
 Na/10 G6 Na48 N14 K12 Na6 N6 Na6 N22 Na12 K6 Na6 G/6

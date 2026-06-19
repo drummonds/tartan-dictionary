@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wbybbbbbbbyby/
 ---
-WBYBBBBBBBYBY
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-WBYBBBBBBBYBY
+
+{{< pat "WBYBBBBBBBYBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO N LO N DO N DO N DO DO LY DO LB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO N LO N DO N DO N DO DO LY DO LB</span></span>
 
 | Tartans |
 |---------------|
 | [Buglass](/setts/s13/lo3n1lo1n16do2n2do2n3do12do26ly2do3lb2~x2/)|
 |![Buglass example sett](/setts/s13/lo3n1lo1n16do2n2do2n3do12do26ly2do3lb2~x2/sett.png)|
-

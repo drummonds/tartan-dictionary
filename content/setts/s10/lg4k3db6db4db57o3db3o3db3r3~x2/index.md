@@ -2,10 +2,9 @@
 title: "U.S. Law Enforcement"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBBBKY](/stripes/rbrbrbbbky/) · **Stripes:** [R DB O DB O DB DB DB K LG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="seq">R DB O DB O DB DB DB K LG</span></span>
+In pattern [RBRBRBBBKY](/stripes/rbrbrbbbky/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4186
 

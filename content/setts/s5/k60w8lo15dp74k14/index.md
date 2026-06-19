@@ -2,10 +2,9 @@
 title: "Gingles (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBYWK](/stripes/kbywk/) · **Stripes:** [K DP LO W K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K DP LO W K</span></span>
+In pattern [KBYWK](/stripes/kbywk/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7620/
 

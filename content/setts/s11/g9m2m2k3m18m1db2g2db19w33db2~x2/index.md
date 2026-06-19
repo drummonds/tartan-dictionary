@@ -2,10 +2,9 @@
 title: "Pride of Scotland Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [GRRKRRBGBWB](/stripes/grrkrrbgbwb/) · **Stripes:** [G M M K M M DB G DB W DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G M M K M M DB G DB W DB</span></span>
+In pattern [BWBGBRRKRRG](/stripes/bwbgbrrkrrg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3378
 

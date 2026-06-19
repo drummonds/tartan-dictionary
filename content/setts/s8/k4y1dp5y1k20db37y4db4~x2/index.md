@@ -2,10 +2,9 @@
 title: "Finnie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGBGKBGB](/stripes/kgbgkbgb/) · **Stripes:** [K Y DP Y K DB Y DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">K Y DP Y K DB Y DB</span></span>
+In pattern [BGBKGBGK](/stripes/bgbkgbgk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5849
 

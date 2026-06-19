@@ -2,10 +2,9 @@
 title: "Masai Shuka 25 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RBRWB](/stripes/rbrwb/) · **Stripes:** [R DB R W DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R W DB</span></span>
+In pattern [BWRBR](/stripes/bwrbr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7285/
 

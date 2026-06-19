@@ -2,10 +2,9 @@
 title: "Buchanan"
 date: 2023-03-18
 ---
-**Bands:** [GKBKRWRKBKYKYKBKGB](/stripes/gkbkrwrkbkykykbkgb/) · **Stripes:** [G K DB K R W R K DB K LY K LY K DB K G DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K R W R K DB K LY K LY K DB K G DB</span></span>
+In pattern [BGKBKYKYKBKRWRKBKG](/stripes/bgkbkykykbkrwrkbkg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=414
 

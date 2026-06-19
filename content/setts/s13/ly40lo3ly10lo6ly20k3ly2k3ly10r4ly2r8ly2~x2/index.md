@@ -2,10 +2,9 @@
 title: "Virginia Quadricentennial (District)"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYKYKYYYYY](/stripes/yryrykykyyyyy/) · **Stripes:** [LY R LY R LY K LY K LY LO LY LO LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY R LY R LY K LY K LY LO LY LO LY</span></span>
+In pattern [YRYRYKYKYYYYY](/stripes/yryrykykyyyyy/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5786/
 

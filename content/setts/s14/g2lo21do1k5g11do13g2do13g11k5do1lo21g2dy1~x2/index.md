@@ -2,10 +2,9 @@
 title: "St. Lawrence #2"
 date: 2023-03-18
 ---
-**Bands:** [GYBKGBGBGKBYGG](/stripes/gybkgbgbgkbygg/) · **Stripes:** [G LO DO K G DO G DO G K DO LO G DY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">G LO DO K G DO G DO G K DO LO G DY</span></span>
+In pattern [GGYBKGBGBGKBYG](/stripes/ggybkgbgbgkbyg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3898
 

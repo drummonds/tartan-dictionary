@@ -2,10 +2,9 @@
 title: "Northumberland"
 date: 2023-03-18
 ---
-**Bands:** [KWK](/stripes/kwk/) · **Stripes:** [K W K](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K</span></span>
+In pattern [KWK](/stripes/kwk/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3162
 

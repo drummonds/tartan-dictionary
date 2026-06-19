@@ -2,10 +2,9 @@
 title: "Setting Sun, The"
 date: 2023-03-18
 ---
-**Bands:** [YBWRBWYBRBYRWBYWYBWRYBRBYWBRWB](/stripes/ybwrbwybrbyrwbywybwrybrbywbrwb/) · **Stripes:** [LO DO LB O DO LB LO DO O DO LO O LB DO LO LB LO DO LB O LO DO O DO LO LB DO O LB DO](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO LB O DO LB LO DO O DO LO O LB DO LO LB LO DO LB O LO DO O DO LO LB DO O LB DO</span></span>
+In pattern [BWRBWYBRBYRWBYWYBWRYBRBYWBRWBY](/stripes/bwrbwybrbyrwbywybwrybrbywbrwby/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4878
 

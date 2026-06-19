@@ -2,19 +2,11 @@
 title: "Arbuthnott (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGWGBGWGKBKBKB](/stripes/bkbkgwgbgwgkbkbkb/) · **Stripes:** [T K T K G W G T G W G K T K T K T](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T K G W G T G W G K T K T K T</span></span>
+In pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/204/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Arbuthnott](/setts/s17/t4k1t1k1t1k4g2w1g2t2g2w1g2k4t5k1t1~x2/)
-
 
 ## Thread count
 B/30 K4 B4 K4 B4 K28 G24 LN4 G8 B8 G8 LN4 G24 K28 B30 K4 B/4

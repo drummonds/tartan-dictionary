@@ -2,10 +2,9 @@
 title: "Fremont Presbyterian Church (P)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRWBYG](/stripes/krkrwbyg/) · **Stripes:** [K R K R W DB LY G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R K R W DB LY G</span></span>
+In pattern [GYBWRKRK](/stripes/gybwrkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1280
 

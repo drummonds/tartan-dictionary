@@ -2,10 +2,9 @@
 title: "Munro (Culloden)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRYRBRYRBRB](/stripes/rbrbryrbryrbrb/) · **Stripes:** [R DB R DB R LY R DB R LY R DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R LY R DB R LY R DB R DB</span></span>
+In pattern [BRBRYRBRYRBRBR](/stripes/brbryrbryrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db12r16db2r4ly10r10db10r10ly2r4db2r4db1r12/)
-
 
 ## Thread count
 DB/12 R16 DB2 R4 Y10 R10 DB10 R10 Y2 R4 DB2 R4 DB2 R/12

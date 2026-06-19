@@ -2,10 +2,9 @@
 title: "Blue Watch (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKWKWKBKB](/stripes/bkbkbkwkwkbkb/) · **Stripes:** [DB K DB K DB K W K W K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K W K W K DB K DB</span></span>
+In pattern [BKBKBKWKWKBKB](/stripes/bkbkbkwkwkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6146/
 

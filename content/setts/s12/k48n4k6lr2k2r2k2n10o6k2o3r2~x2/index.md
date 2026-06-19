@@ -2,10 +2,9 @@
 title: "Glen Ross (WCWM - 2)"
 date: 2023-03-18
 ---
-**Bands:** [KBKYKRKBRKRR](/stripes/kbkykrkbrkrr/) · **Stripes:** [K N K LR K R K N O K O R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">K N K LR K R K N O K O R</span></span>
+In pattern [KBKYKRKBRKRR](/stripes/kbkykrkbrkrr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1396
 

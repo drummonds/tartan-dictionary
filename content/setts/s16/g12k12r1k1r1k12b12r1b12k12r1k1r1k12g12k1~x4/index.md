@@ -2,10 +2,9 @@
 title: "Guthrie"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKRKBRBKRKRKG](/stripes/kgkrkrkbrbkrkrkg/) · **Stripes:** [K G K R K R K B R B K R K R K G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K R K R K B R B K R K R K G</span></span>
+In pattern [GKRKRKBRBKRKRKGK](/stripes/gkrkrkbrbkrkrkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1562
 

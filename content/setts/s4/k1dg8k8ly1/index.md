@@ -2,10 +2,9 @@
 title: "Wallace Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KGKY](/stripes/kgky/) · **Stripes:** [K DG K LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K DG K LY</span></span>
+In pattern [KGKY](/stripes/kgky/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

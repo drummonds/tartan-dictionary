@@ -2,10 +2,9 @@
 title: "Matheson (Lochcarron)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRBGRGRGRGRGRBGRB](/stripes/grgrgrbgrgrgrgrgrbgrb/) · **Stripes:** [G R G R G R DB G R G R G R G R G R DB G R DB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G R DB G R G R G R G R G R DB G R DB</span></span>
+In pattern [BRGBRGRGRGRGRGBRGRGRG](/stripes/brgbrgrgrgrgrgbrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3461/
 

@@ -2,10 +2,9 @@
 title: "Grey Watch"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGWKWKGKG](/stripes/gkgkgwkwkgkg/) · **Stripes:** [Y K Y K Y W K W K Y K Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y K Y K Y W K W K Y K Y</span></span>
+In pattern [GKGKGWKWKGKG](/stripes/gkgkgwkwkgkg/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

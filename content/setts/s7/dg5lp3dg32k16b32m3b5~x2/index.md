@@ -2,10 +2,9 @@
 title: "MacThomas (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GWGKBRB](/stripes/gwgkbrb/) · **Stripes:** [DG LP DG K B M B](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG LP DG K B M B</span></span>
+In pattern [BRBKGWG](/stripes/brbkgwg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/407/
 

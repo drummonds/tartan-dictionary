@@ -2,10 +2,9 @@
 title: "MacGregor of Balquhidder"
 date: 2023-03-18
 ---
-**Bands:** [GRGRW](/stripes/grgrw/) · **Stripes:** [DG R DG R W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DG R W</span></span>
+In pattern [GRGRW](/stripes/grgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2455
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2455](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2455)
 - Scottish Tartans World Register: 989
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unidentified Plaid #3](/setts/s5/dg24r3dg16r33w4/)
-
 
 ## Thread count
 G/16 R4 G18 R32 LN/2

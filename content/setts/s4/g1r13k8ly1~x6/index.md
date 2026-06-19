@@ -2,10 +2,9 @@
 title: "Billy Apple® Red"
 date: 2023-03-18
 ---
-**Bands:** [YKRG](/stripes/ykrg/) · **Stripes:** [LY K R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K R G</span></span>
+In pattern [GRKY](/stripes/grky/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11143
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11143
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11143)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Billy Apple](/setts/s4/g1r8k13ly1~x6/)
-
 
 ## Thread count
 Y/6 K48 R78 G/6

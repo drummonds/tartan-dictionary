@@ -2,10 +2,9 @@
 title: "Contreceour Dress Corporate Tartan Tartan Number: 2295. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YWGKWRWKGKYWRWB](/stripes/ywgkwrwkgkywrwb/) · **Stripes:** [LY W G K W R W K G K LY W R W T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY W G K W R W K G K LY W R W T</span></span>
+In pattern [BWRWYKGKWRWKGWY](/stripes/bwrwykgkwrwkgwy/).
 
-
-This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2295
 

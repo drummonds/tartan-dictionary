@@ -2,10 +2,9 @@
 title: "Spring Morning (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGGG](/stripes/yggg/) · **Stripes:** [LO G Y G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G Y G</span></span>
+In pattern [GGGY](/stripes/gggy/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5311/
 

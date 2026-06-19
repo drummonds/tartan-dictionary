@@ -2,10 +2,9 @@
 title: "Campbell of Cawdor"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKB](/stripes/rkbkgkb/) · **Stripes:** [R K DB K G K T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K DB K G K T</span></span>
+In pattern [BKGKBKR](/stripes/bkgkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=518
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=518)
 - Scottish Tartans Authority (ITI): 2
 - Scottish Tartans World Register: 2
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Argyll](/setts/s7/r2k1db8k8g8k1t2~x2/)
-
 
 ## Thread count
 R/8 K4 DB32 K32 G32 K4 B/8

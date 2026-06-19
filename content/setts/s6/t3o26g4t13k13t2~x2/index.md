@@ -2,10 +2,9 @@
 title: "MacTavish / Thom(p)son, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BKBGRB](/stripes/bkbgrb/) · **Stripes:** [T K T G O T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T G O T</span></span>
+In pattern [BKBGRB](/stripes/bkbgrb/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacTavish / Thom(p)son, hunting](/setts/s6/t4o28g6t12k12t3~x2/)
-
 
 ## Thread count
 B/6 LT52 G8 B26 K26 B/4

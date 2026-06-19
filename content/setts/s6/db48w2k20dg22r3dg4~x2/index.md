@@ -2,10 +2,9 @@
 title: "MacFadzean"
 date: 2023-03-18
 ---
-**Bands:** [GRGKWB](/stripes/grgkwb/) · **Stripes:** [DG R DG K W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DG K W DB</span></span>
+In pattern [BWKGRG](/stripes/bwkgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2430
 

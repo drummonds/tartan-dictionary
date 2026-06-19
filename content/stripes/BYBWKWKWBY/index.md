@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bybwkwkwby/
 ---
-BYBWKWKWBY
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BYBWKWKWBY
+
+{{< pat "BYBWKWKWBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DB W K W K W DB LY DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB W K W K W DB LY DB</span></span>
 
 | Tartans |
 |---------------|
 | [Hawick Rugby Club](/setts/s10/db2ly1db7w1k7w2~x6/)|
 |![Hawick Rugby Club example sett](/setts/s10/db2ly1db7w1k7w2~x6/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Grand Lodge of Scotland Corporate Weavers Tartan Tartan Number: 5776. Earliest known date: 2002 This is not a general Masonic tartan but one designed for the Grand Lodge of Scotland which is custodian to the oldest Lodge Minutes in the world dating from 1599. Masons in other parts of the world wishing to obtain this tartan must, in the first instance, contact the Curator of the Grand Lodge of Scotland Museum, Robert L D Cooper See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YGKGKBKBKBKBKGKG](/stripes/ygkgkbkbkbkbkgkg/) · **Stripes:** [LY DG K DG K DB K DB K DB K DB K DG K DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG K DG K DB K DB K DB K DB K DG K DG</span></span>
+In pattern [GKGKBKBKBKBKGKGY](/stripes/gkgkbkbkbkbkgkgy/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5776
 

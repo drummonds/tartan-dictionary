@@ -2,21 +2,11 @@
 title: "Denholm (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBR](/stripes/kgkbr/) · **Stripes:** [K G K DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K DB R</span></span>
+In pattern [KGKBR](/stripes/kgkbr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1084/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Denholme](/setts/s5/k2g8k7db8r2~x2/)
-- [Durham](/setts/s5/k4g8k7db8r4~x2/)
-- [Durham District Tartan Tartan Number: 1089. Earliest known date: 1819 It was Wilson's practice to give the names of towns to many of his new designs. Maybe because the order came from there or because it was the name of the purchaser. There was a family of Durhams associated with the Royal Court in Edinburgh prior to the Union of the Crowns. Wilson was also a collector of tartans, receiving samples from his agents in the Highlands and from purchase orders from around the world. See 'Denholme' and 'Urquhart'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k1g3k3db3r1~x4/)
-
 
 ## Thread count
 K/10 G40 K36 DB40 R/10

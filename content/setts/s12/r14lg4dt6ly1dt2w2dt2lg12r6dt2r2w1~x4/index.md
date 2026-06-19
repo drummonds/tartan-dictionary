@@ -2,10 +2,9 @@
 title: "Stewart - Pr Ch Ed (Royal)"
 date: 2023-03-18
 ---
-**Bands:** [RYBYBWBYRBRW](/stripes/rybybwbyrbrw/) · **Stripes:** [R LG DT LY DT W DT LG R DT R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LG DT LY DT W DT LG R DT R W</span></span>
+In pattern [RYBYBWBYRBRW](/stripes/rybybwbyrbrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1371/
 

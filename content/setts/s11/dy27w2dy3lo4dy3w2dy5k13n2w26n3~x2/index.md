@@ -2,10 +2,9 @@
 title: "MacKellar Dress, Maroon (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [GWGYGWGKBWB](/stripes/gwgygwgkbwb/) · **Stripes:** [DY W DY LO DY W DY K N W N](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">DY W DY LO DY W DY K N W N</span></span>
+In pattern [BWBKGWGYGWG](/stripes/bwbkgwgygwg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8878/
 

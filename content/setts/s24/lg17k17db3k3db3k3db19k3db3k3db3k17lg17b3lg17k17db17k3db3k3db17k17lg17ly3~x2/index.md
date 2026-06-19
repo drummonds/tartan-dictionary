@@ -2,10 +2,9 @@
 title: "Allied Facenna"
 date: 2023-03-18
 ---
-**Bands:** [YKBKBKBKBKBKYBYKBKBKBKYY](/stripes/ykbkbkbkbkbkybykbkbkbkyy/) · **Stripes:** [LG K DB K DB K DB K DB K DB K LG B LG K DB K DB K DB K LG LY](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LG K DB K DB K DB K DB K DB K LG B LG K DB K DB K DB K LG LY</span></span>
+In pattern [YKBKBKBKBKBKYBYKBKBKBKYY](/stripes/ykbkbkbkbkbkybykbkbkbkyy/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10443
 

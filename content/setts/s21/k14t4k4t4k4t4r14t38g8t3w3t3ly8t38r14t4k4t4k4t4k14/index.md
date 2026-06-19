@@ -2,10 +2,9 @@
 title: "Emergency Medical Services Memorial Tartan"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBRBYBWBGBRBKBKBK](/stripes/kbkbkbrbybwbgbrbkbkbk/) · **Stripes:** [K T K T K T R T LY T W T G T R T K T K T K](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K T K T K T R T LY T W T G T R T K T K T K</span></span>
+In pattern [KBKBKBRBGBWBYBRBKBKBK](/stripes/kbkbkbrbgbwbybrbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10043
 

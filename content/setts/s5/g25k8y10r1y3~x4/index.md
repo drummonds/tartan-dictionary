@@ -2,10 +2,9 @@
 title: "Herbage"
 date: 2023-03-18
 ---
-**Bands:** [GKGRG](/stripes/gkgrg/) · **Stripes:** [G K Y R Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">G K Y R Y</span></span>
+In pattern [GKGRG](/stripes/gkgrg/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

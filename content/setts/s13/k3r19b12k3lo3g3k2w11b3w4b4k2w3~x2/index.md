@@ -2,10 +2,9 @@
 title: "Badminton World Federation"
 date: 2023-03-18
 ---
-**Bands:** [KRBKYGKWBWBKW](/stripes/krbkygkwbwbkw/) · **Stripes:** [K R B K LO G K W B W B K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R B K LO G K W B W B K W</span></span>
+In pattern [KRBKYGKWBWBKW](/stripes/krbkygkwbwbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11145
 

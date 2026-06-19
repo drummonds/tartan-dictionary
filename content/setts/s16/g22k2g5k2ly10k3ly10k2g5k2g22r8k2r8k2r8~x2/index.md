@@ -2,10 +2,9 @@
 title: "MacMillan (1946)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRGKGKYKYKGKG](/stripes/rkrkrgkgkykykgkg/) · **Stripes:** [R K R K R G K G K LY K LY K G K G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K R K R G K G K LY K LY K G K G</span></span>
+In pattern [GKGKYKYKGKGRKRKR](/stripes/gkgkykykgkgrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5360
 

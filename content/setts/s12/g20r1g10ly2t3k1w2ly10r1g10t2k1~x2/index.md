@@ -2,10 +2,9 @@
 title: "Lethbridge, City of"
 date: 2023-03-18
 ---
-**Bands:** [KBGRYWKBYGRG](/stripes/kbgrywkbygrg/) · **Stripes:** [K T G R LY W K T LY G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K T G R LY W K T LY G R G</span></span>
+In pattern [GRGYBKWYRGBK](/stripes/grgybkwyrgbk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2107
 

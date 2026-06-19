@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bbybybgby/
 ---
-BBYBYBGBY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BBYBYBGBY
+
+{{< pat "BBYBYBGBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LR DB Y DB LO DB LO DB DB <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DB Y DB LO DB LO DB DB</span></span>
 
 | Tartans |
 |---------------|
 | [Wicklow County Crest (Fashion)](/setts/s9/db16db7lo4db2lo16db2y24db8lr11~x2/)|
 |![Wicklow County Crest (Fashion) example sett](/setts/s9/db16db7lo4db2lo16db2y24db8lr11~x2/sett.png)|
-

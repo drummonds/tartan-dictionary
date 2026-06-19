@@ -2,10 +2,9 @@
 title: "Ogilvy"
 date: 2023-03-18
 ---
-**Bands:** [YBYBRYRYRKYBRB](/stripes/ybybryryrkybrb/) · **Stripes:** [LR B LY N R LR R LR R K LY B R B](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LR B LY N R LR R LR R K LY B R B</span></span>
+In pattern [BRBYKRYRYRBYBY](/stripes/brbykryryrbyby/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ogilvy](/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2~x2/)
-
 
 ## Thread count
 B/10 DR3 B10 LG5 K2 DR6 Na2 DR6 Na2 DR6 N2 LG2 B5 Na/2

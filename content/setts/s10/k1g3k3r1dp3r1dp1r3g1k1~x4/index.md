@@ -2,10 +2,9 @@
 title: "MacInroy Clan Tartan Tartan Number: 1081. Earliest known date: 1819 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGKRBRBRGK](/stripes/kgkrbrbrgk/) · **Stripes:** [K G K R DP R DP R G K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K R DP R DP R G K</span></span>
+In pattern [KGKRBRBRGK](/stripes/kgkrbrbrgk/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1081
 

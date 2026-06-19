@@ -2,19 +2,11 @@
 title: "Laing of Archiestown"
 date: 2023-03-18
 ---
-**Bands:** [KRWRB](/stripes/krwrb/) · **Stripes:** [K R W R DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R W R DB</span></span>
+In pattern [BRWRK](/stripes/brwrk/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2544/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Laing of Archiestown](/setts/s5/db19r2w2r2k2~x4/)
-
 
 ## Thread count
 DB/64 R8 W8 R8 K/8

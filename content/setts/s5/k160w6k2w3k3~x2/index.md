@@ -2,20 +2,11 @@
 title: "Black Camel Tartan Tartan Number: 3333. Earliest known date: Marton Mills Jura./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWKWK](/stripes/kwkwk/) · **Stripes:** [K W K W K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K W K</span></span>
+In pattern [KWKWK](/stripes/kwkwk/).
 
-
-This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3333
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cairn (Marton Mills)](/setts/s5/k2w1k8w8k1~x8/)
-- [MacPhee MacFee or MacIver](/setts/s5/k22w3k3w11k1~x2/)
-
 
 ## Thread count
 K/320 LN12 K4 LN6 K/6

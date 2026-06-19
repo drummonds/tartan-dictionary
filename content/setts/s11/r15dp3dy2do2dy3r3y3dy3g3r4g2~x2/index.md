@@ -2,10 +2,9 @@
 title: "Unidentified, chair covering"
 date: 2023-03-18
 ---
-**Bands:** [RBGBGRGGGRG](/stripes/rbgbgrgggrg/) · **Stripes:** [R DP DY DO DY R Y DY G R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DP DY DO DY R Y DY G R G</span></span>
+In pattern [GRGGGRGBGBR](/stripes/grgggrgbgbr/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

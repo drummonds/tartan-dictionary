@@ -2,10 +2,9 @@
 title: "Erskine Blanket"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBW](/stripes/bwbwbw/) · **Stripes:** [DB W DB W DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB W DB W</span></span>
+In pattern [BWBWBW](/stripes/bwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1124
 
@@ -899,14 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine Blue (Dance)](/setts/s6/db6w2db29w29db2w6~x2/)
-- [Ikelman #1 (Personal)](/setts/s6/w8db16w2db2w1db1~x4/)
-
 
 ## Thread count
 B/8 LN8 B40 LN40 B8 LN/8

@@ -2,10 +2,9 @@
 title: "Braes High School Falkirk (School)"
 date: 2023-03-18
 ---
-**Bands:** [RKWRW](/stripes/rkwrw/) · **Stripes:** [R K W R W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W R W</span></span>
+In pattern [RKWRW](/stripes/rkwrw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7670/
 

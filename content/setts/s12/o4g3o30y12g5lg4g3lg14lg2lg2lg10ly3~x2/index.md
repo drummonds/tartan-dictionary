@@ -2,10 +2,9 @@
 title: "Shrek"
 date: 2023-03-18
 ---
-**Bands:** [RGRGGYGYYYYY](/stripes/rgrggygyyyyy/) · **Stripes:** [O G O Y G LG G LG LG LG LG LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O G O Y G LG G LG LG LG LG LY</span></span>
+In pattern [RGRGGYGYYYYY](/stripes/rgrggygyyyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3783
 

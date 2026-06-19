@@ -2,10 +2,9 @@
 title: "Glenturret Distillery"
 date: 2023-03-18
 ---
-**Bands:** [KGKGBY](/stripes/kgkgby/) · **Stripes:** [K G K G DB LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K G K G DB LO</span></span>
+In pattern [KGKGBY](/stripes/kgkgby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1439
 

@@ -2,10 +2,9 @@
 title: "Ross"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRBRGRGRGRG](/stripes/rbrbrbrbrbrgrgrgrg/) · **Stripes:** [R DB R DB R DB R DB R DB R G R G R G R G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R DB R DB R DB R DB R G R G R G R G</span></span>
+In pattern [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/).
 
-
-This was sourced from logan-1831.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from logan-1831.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -24,15 +23,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 The same sett — Logan's exact stripe order and proportions — is held in the corpus under other palettes: [MacTier of Durris](/setts/s18/r18b1r1b2r1b1r18b18r2b18r18g2r4g2r18g18r2g9~b00008c-g007800-r8c0000~x2/).
 
 Later records of the **Ross** name adjusted Logan's counts: [Ross Dempster (Personal)](/setts/s7/b4ba29g10r10ra18g2ba4~b0000ff-ba141e46-g003c14-r960000-rac80028~x2/); [Ross](/setts/s20/b18r2b18r18g2r4g2r18g18r2g18r2g18r18b1r1b2r1b1r18~b2c4084-g005020-rdc0000~x2/); [Ross #2](/setts/s14/r3g12r2g1r1g1r4b3r1b3r28b1r3b2~b2c4084-g005020-rdc0000~x2/); [Ross #3](/setts/s31/g23r6g23r26g4r9g4r26w3r8b31r6b31r8w3r26b2r2b4r2b2r26b2r2b4r2b2r26g23r6g23~b5a008c-g005020-rdc0000-we0e0e0~x2/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacTier of Durris](/setts/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/)
-- [MacTier of Durris](/setts/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/)
-- [Ross 6](/setts/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/)
-
 
 ## Thread count
 R/72 DB4 R4 DB8 R4 DB4 R72 DB72 R8 DB72 R72 G8 R16 G8 R72 G72 R8 G/36

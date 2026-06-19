@@ -2,10 +2,9 @@
 title: "Kutztown (Berks Co., PA) (District)"
 date: 2023-03-18
 ---
-**Bands:** [YRKBGRYRWRYRGBKGBW](/stripes/yrkbgryrwryrgbkgbw/) · **Stripes:** [LO R K T DG R LO R W R LO R DG T K DG T W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R K T DG R LO R W R LO R DG T K DG T W</span></span>
+In pattern [WBGKBGRYRWRYRGBKRY](/stripes/wbgkbgryrwryrgbkry/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7762/
 

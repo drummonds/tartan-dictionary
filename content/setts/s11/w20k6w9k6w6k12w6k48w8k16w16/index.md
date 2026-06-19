@@ -2,10 +2,9 @@
 title: "MacLean, Black & White"
 date: 2023-03-18
 ---
-**Bands:** [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/) · **Stripes:** [W K W K W K W K W K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K W K W K W K W</span></span>
+In pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,15 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLean (Black and White)](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/)
-- [Scott - 1850 B & W (Clan)](/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/)
-- [Scott, Sir Walter](/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/)
-
 
 ## Thread count
 LN/20 K6 LN9 K6 LN6 K12 LN6 K48 LN8 K16 LN/16

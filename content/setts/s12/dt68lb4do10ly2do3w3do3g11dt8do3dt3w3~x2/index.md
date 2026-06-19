@@ -2,10 +2,9 @@
 title: "Shaughnessy"
 date: 2023-03-18
 ---
-**Bands:** [BWBYBWBGBBBW](/stripes/bwbybwbgbbbw/) · **Stripes:** [DT LB DO LY DO W DO G DT DO DT W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT LB DO LY DO W DO G DT DO DT W</span></span>
+In pattern [BWBYBWBGBBBW](/stripes/bwbybwbgbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3774
 

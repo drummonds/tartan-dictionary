@@ -4,23 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brgrbybr/
 ---
-BRGRBYBR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/r12n2lr1n2r3dg8r3n1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BRGRBYBR
+
+{{< pat "BRGRBYBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R N LR N R DG R N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">R N LR N R DG R N</span></span>
 
 | Tartans |
 |---------------|
@@ -28,4 +23,3 @@ BRGRBYBR
 |![Chisholm example sett](/setts/s8/r12n2lr1n2r3dg8r3n1~x2/sett.png)|
 | [Chisholm](/setts/s8/r12n2lr1n2r3dg8r3n1/)|
 |![Chisholm example sett](/setts/s8/r12n2lr1n2r3dg8r3n1/sett.png)|
-

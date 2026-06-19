@@ -2,10 +2,9 @@
 title: "Hek Family (Sunningdale, Berwick on Tweed)"
 date: 2023-03-18
 ---
-**Bands:** [YWBKWKGWW](/stripes/ywbkwkgww/) · **Stripes:** [LY LT N K LT K G W LT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LY LT N K LT K G W LT</span></span>
+In pattern [WWGKWKBWY](/stripes/wwgkwkbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10562
 

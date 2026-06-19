@@ -2,10 +2,9 @@
 title: "Deeside District"
 date: 2023-03-18
 ---
-**Bands:** [YRBRRBY](/stripes/yrbrrby/) · **Stripes:** [LY O DR O O B LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY O DR O O B LY</span></span>
+In pattern [YBRRBRY](/stripes/ybrrbry/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

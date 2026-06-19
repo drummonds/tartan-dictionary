@@ -2,10 +2,9 @@
 title: "Glenlea"
 date: 2023-03-18
 ---
-**Bands:** [GGBGBGBBBBBBRWRBWBB](/stripes/ggbgbgbbbbbbrwrbwbb/) · **Stripes:** [G DY DT DY DT DY DT N DT N DT N O LB O N LB N DT](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="seq">G DY DT DY DT DY DT N DT N DT N O LB O N LB N DT</span></span>
+In pattern [BBWBRWRBBBBBBGBGBGG](/stripes/bbwbrwrbbbbbbgbgbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1421
 

@@ -2,10 +2,9 @@
 title: "Afternoon Tea / Earl Grey"
 date: 2023-03-18
 ---
-**Bands:** [RBBYBW](/stripes/rbbybw/) · **Stripes:** [R T DT LY DT W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R T DT LY DT W</span></span>
+In pattern [RBBYBW](/stripes/rbbybw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11277
 

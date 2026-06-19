@@ -2,10 +2,9 @@
 title: "Dunedin Chapter (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKGBGB](/stripes/rkgkgkgbgb/) · **Stripes:** [R K G K G K G T G T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K G K G K G T G T</span></span>
+In pattern [BGBGKGKGKR](/stripes/bgbgkgkgkr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3905/
 

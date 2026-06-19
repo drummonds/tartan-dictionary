@@ -2,10 +2,9 @@
 title: "Blackie"
 date: 2023-03-18
 ---
-**Bands:** [GYGWRBRB](/stripes/gygwrbrb/) · **Stripes:** [G LY G W R T R T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">G LY G W R T R T</span></span>
+In pattern [BRBRWGYG](/stripes/brbrwgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=285
 

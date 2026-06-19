@@ -2,10 +2,9 @@
 title: "Loch Lomond"
 date: 2023-03-18
 ---
-**Bands:** [GBGGGBGBGB](/stripes/gbgggbgbgb/) · **Stripes:** [DG DB Y DG Y DP DG DP DG DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DB Y DG Y DP DG DP DG DP</span></span>
+In pattern [BGBGBGGGBG](/stripes/bgbgbgggbg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2149
 

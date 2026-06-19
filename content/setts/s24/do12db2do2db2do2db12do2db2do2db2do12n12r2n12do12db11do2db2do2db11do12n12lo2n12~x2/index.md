@@ -2,10 +2,9 @@
 title: "Bartlam (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBBBBBBBRBBBBBBBBBBBB](/stripes/bybbbbbbbbbrbbbbbbbbbbbb/) · **Stripes:** [N LO N DO DB DO DB DO DB DO N R N DO DB DO DB DO DB DO DB DO DB DO](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="seq">N LO N DO DB DO DB DO DB DO N R N DO DB DO DB DO DB DO DB DO DB DO</span></span>
+In pattern [BBBBBBBBBBBBRBBBBBBBBBYB](/stripes/bbbbbbbbbbbbrbbbbbbbbbyb/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3122/
 

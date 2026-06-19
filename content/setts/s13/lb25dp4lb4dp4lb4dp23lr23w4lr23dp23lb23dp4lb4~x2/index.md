@@ -2,10 +2,9 @@
 title: "Poulter, Pink (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [WBWBYWYBWBWBW](/stripes/wbwbywybwbwbw/) · **Stripes:** [LB DP LB DP LR W LR DP LB DP LB DP LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DP LB DP LR W LR DP LB DP LB DP LB</span></span>
+In pattern [WBWBWBYWYBWBW](/stripes/wbwbwbywybwbw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7510/
 

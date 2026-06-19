@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgrgkgrgby/
 ---
-BGRGKGRGBY
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BGRGKGRGBY
+
+{{< pat "BGRGKGRGBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO DB DG R DG K DG R DG DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB DG R DG K DG R DG DB</span></span>
 
 | Tartans |
 |---------------|
 | [CAL FIRE Local 2881](/setts/s10/db56dg11r2dg7k2dg7r2dg7db3lo4~x2/)|
 |![CAL FIRE Local 2881 example sett](/setts/s10/db56dg11r2dg7k2dg7r2dg7db3lo4~x2/sett.png)|
-

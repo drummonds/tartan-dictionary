@@ -2,10 +2,9 @@
 title: "Lumsden Green"
 date: 2023-03-18
 ---
-**Bands:** [KBGBKRBRBRGBKBG](/stripes/kbgbkrbrbrgbkbg/) · **Stripes:** [K DB G DB K R DB R DB R G DB K DB G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB G DB K R DB R DB R G DB K DB G</span></span>
+In pattern [GBKBGRBRBRKBGBK](/stripes/gbkbgrbrbrkbgbk/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6024
 

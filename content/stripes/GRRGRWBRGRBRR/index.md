@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/grrgrwbrgrbrr/
 ---
-GRRGRWBRGRBRR
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-GRRGRWBRGRBRR
+
+{{< pat "GRRGRWBRGRBRR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R R DB R DG R DB LB R DG R R DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R R DB R DG R DB LB R DG R R DG</span></span>
 
 | Tartans |
 |---------------|
 | [MacDonald of Glencoe](/setts/s13/dg3r1r2dg2r16lb1db4r3dg13r1db1r1r3~x2/)|
 |![MacDonald of Glencoe example sett](/setts/s13/dg3r1r2dg2r16lb1db4r3dg13r1db1r1r3~x2/sett.png)|
-

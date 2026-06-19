@@ -2,10 +2,9 @@
 title: "Frater"
 date: 2023-03-18
 ---
-**Bands:** [RRRRKRRRRRW](/stripes/rrrrkrrrrrw/) · **Stripes:** [O R R O K O R R R O W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O R R O K O R R R O W</span></span>
+In pattern [RRRRKRRRRRW](/stripes/rrrrkrrrrrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1273
 

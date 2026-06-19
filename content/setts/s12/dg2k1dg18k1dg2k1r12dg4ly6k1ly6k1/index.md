@@ -2,10 +2,9 @@
 title: "MacMillan Ancient"
 date: 2023-03-18
 ---
-**Bands:** [KYKYGRKGKGKG](/stripes/kykygrkgkgkg/) · **Stripes:** [K LY K LY DG R K DG K DG K DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LY K LY DG R K DG K DG K DG</span></span>
+In pattern [GKGKGKRGYKYK](/stripes/gkgkgkrgykyk/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -36,13 +35,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacMillan Ancient](/setts/s12/dg2k1dg18k1dg2k1r12dg4ly6k1ly6k1~x2/)
-
 
 ## Thread count
 G/2 K1 G18 K1 G2 K1 R12 G4 Y6 K1 Y6 K/1

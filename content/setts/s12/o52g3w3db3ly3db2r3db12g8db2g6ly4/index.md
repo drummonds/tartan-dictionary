@@ -2,10 +2,9 @@
 title: "Barcelona English School"
 date: 2023-03-18
 ---
-**Bands:** [RGWBYBRBGBGY](/stripes/rgwbybrbgbgy/) · **Stripes:** [O G W DB LY DB R DB G DB G LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O G W DB LY DB R DB G DB G LY</span></span>
+In pattern [RGWBYBRBGBGY](/stripes/rgwbybrbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=213
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [213](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=213)
 - Scottish Tartans Authority (ITI): 6172
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barcelona English School (School)](/setts/s12/o52g3w3db3ly3db2r3db12g8db2g6ly4~x2/)
-
 
 ## Thread count
 N/52 G3 W3 DB3 Y3 DB2 R3 DB12 G8 DB2 G6 Y/4

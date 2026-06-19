@@ -2,10 +2,9 @@
 title: "Auchairne grey"
 date: 2023-03-18
 ---
-**Bands:** [RGRGBG](/stripes/rgrgbg/) · **Stripes:** [R Y R Y N Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y R Y N Y</span></span>
+In pattern [GBGRGR](/stripes/gbgrgr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

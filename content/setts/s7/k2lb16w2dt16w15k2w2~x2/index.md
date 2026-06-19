@@ -2,10 +2,9 @@
 title: "Strathclyde District Tartan Tartan Number: 1072. Earliest known date: 1975 The navy blue and white are said to represent the 'Scottish Sporting Colours'. This sett is also produced with light blue in place of white. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWWBWKW](/stripes/kwwbwkw/) · **Stripes:** [K LB W DT W K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LB W DT W K W</span></span>
+In pattern [KWWBWKW](/stripes/kwwbwkw/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1072
 

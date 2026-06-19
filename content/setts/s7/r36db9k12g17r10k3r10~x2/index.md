@@ -2,10 +2,9 @@
 title: "MacDuff - 1819 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RKRGKBR](/stripes/rkrgkbr/) · **Stripes:** [R K R G K DB R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R G K DB R</span></span>
+In pattern [RBKGRKR](/stripes/rbkgrkr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2455/
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, "It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined." James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r8db3k4g6r4k1r4~x4/)
-
 
 ## Thread count
 R/72 DB18 K24 G34 R20 K6 R/20

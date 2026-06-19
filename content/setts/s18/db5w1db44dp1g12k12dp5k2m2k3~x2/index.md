@@ -2,10 +2,9 @@
 title: "Heart of Scotland (Lochcarron)"
 date: 2023-03-18
 ---
-**Bands:** [BWBBGKBKRKRKBKGBBW](/stripes/bwbbgkbkrkrkbkgbbw/) · **Stripes:** [DB W DB DP G K DP K M K M K DP K G DP DB W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB DP G K DP K M K M K DP K G DP DB W</span></span>
+In pattern [BWBBGKBKRKRKBKGBBW](/stripes/bwbbgkbkrkrkbkgbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1643
 

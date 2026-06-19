@@ -2,10 +2,9 @@
 title: "Poulter, Green (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YKYKYKGYGKYKY](/stripes/ykykykgygkyky/) · **Stripes:** [LY K LY K LY K Y LY Y K LY K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K LY K LY K Y LY Y K LY K LY</span></span>
+In pattern [YKYKGYGKYKYKY](/stripes/ykykgygkykyky/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7508/
 

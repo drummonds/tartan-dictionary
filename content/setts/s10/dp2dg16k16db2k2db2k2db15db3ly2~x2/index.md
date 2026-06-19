@@ -2,10 +2,9 @@
 title: "Brydon (2013)"
 date: 2023-03-18
 ---
-**Bands:** [YBBKBKBKGB](/stripes/ybbkbkbkgb/) · **Stripes:** [LY DB DB K DB K DB K DG DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY DB DB K DB K DB K DG DP</span></span>
+In pattern [BGKBKBKBBY](/stripes/bgkbkbkbby/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10953/
 

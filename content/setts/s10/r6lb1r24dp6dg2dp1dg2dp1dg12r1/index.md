@@ -2,10 +2,9 @@
 title: "Chisholm D"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGBRWR](/stripes/rgbgbgbrwr/) · **Stripes:** [R DG DP DG DP DG DP R LB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG DP DG DP DG DP R LB R</span></span>
+In pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,19 +2,11 @@
 title: "Burns Check (District)"
 date: 2023-03-18
 ---
-**Bands:** [GGGWKWKWKW](/stripes/gggwkwkwkw/) · **Stripes:** [Y G Y W K W K W K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y G Y W K W K W K W</span></span>
+In pattern [GGGWKWKWKW](/stripes/gggwkwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1736/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Burns Check](/setts/s10/w2k2w2k2w2k2w1y1g1y1~x8/)
-
 
 ## Thread count
 W/18 K18 W18 K18 W18 K18 W12 T9 G6 T/6

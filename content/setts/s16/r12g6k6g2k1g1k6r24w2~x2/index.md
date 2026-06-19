@@ -2,10 +2,9 @@
 title: "Hunter of Bute (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKGKRWRKGKGKG](/stripes/rgkgkgkrwrkgkgkg/) · **Stripes:** [R G K G K G K R W R K G K G K G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K G K G K R W R K G K G K G</span></span>
+In pattern [GKGKGKRWRKGKGKGR](/stripes/gkgkgkrwrkgkgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1792
 

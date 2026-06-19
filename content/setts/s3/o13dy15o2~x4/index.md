@@ -2,10 +2,9 @@
 title: "Outlander #5"
 date: 2023-03-18
 ---
-**Bands:** [RGR](/stripes/rgr/) · **Stripes:** [O DY O](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DY O</span></span>
+In pattern [RGR](/stripes/rgr/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11117/
 

@@ -2,10 +2,9 @@
 title: "Rossi (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYKGKRBRBRKGKB](/stripes/kykgkrbrbrkgkb/) · **Stripes:** [K LY K G K R DB R DB R K G K T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LY K G K R DB R DB R K G K T</span></span>
+In pattern [BKGKRBRBRKGKYK](/stripes/bkgkrbrbrkgkyk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568
 

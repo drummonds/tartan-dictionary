@@ -2,10 +2,9 @@
 title: "Hebridean 2"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRB](/stripes/rbrbrb/) · **Stripes:** [R DB R DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB</span></span>
+In pattern [BRBRBR](/stripes/brbrbr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGregor of Glengyle](/setts/s6/db1r1db7r7db1r1~x4/)
-
 
 ## Thread count
 R/4 B4 R30 B30 R4 B/4

@@ -2,10 +2,9 @@
 title: "Fredericton #2"
 date: 2023-03-18
 ---
-**Bands:** [YGBWBWBGRWBB](/stripes/ygbwbwbgrwbb/) · **Stripes:** [LY G T W T W T G R W T DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY G T W T W T G R W T DP</span></span>
+In pattern [BBWRGBWBWBGY](/stripes/bbwrgbwbwbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1276
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1276](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1276)
 - Scottish Tartans Authority (ITI): 95
 - Scottish Tartans World Register: 95
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fredericton (District)](/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/)
-- [Fredericton District Tartan Tartan Number: 96. Earliest known date: 1967 Fredericton, capital city of New Brunswick, takes its name from Prince Frederick, the second son of King George III. The tartan was designed and woven by the Loomcrofters of Frederickton who weave in their own homes on their own looms. (From 'District Tartans', G. Teall and P. Smith, 1992) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dp3t1w9r6g5t2w2t2w2t2g12ly2~x2/)
-
 
 ## Thread count
 Y/12 G96 B12 W12 B12 W12 B36 G42 R12 W6 B6 P/6

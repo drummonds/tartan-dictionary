@@ -2,10 +2,9 @@
 title: "Monica"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRW](/stripes/rrrrrw/) · **Stripes:** [R O R O R LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R O R O R LB</span></span>
+In pattern [RRRRRW](/stripes/rrrrrw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2984
 

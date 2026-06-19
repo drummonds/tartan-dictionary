@@ -2,10 +2,9 @@
 title: "Lugo (2013)"
 date: 2023-03-18
 ---
-**Bands:** [RGYG](/stripes/rgyg/) · **Stripes:** [R DG LO DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG LO DG</span></span>
+In pattern [GYGR](/stripes/gygr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10946](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scottish Watch](/setts/s4/r104dg39lo4~x2/)
-
 
 ## Thread count
 R/80 DG32 Y8 DG/32

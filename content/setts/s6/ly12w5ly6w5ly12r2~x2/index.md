@@ -2,10 +2,9 @@
 title: "One Account"
 date: 2023-03-18
 ---
-**Bands:** [RYWYWY](/stripes/rywywy/) · **Stripes:** [R LY W LY W LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LY W LY W LY</span></span>
+In pattern [RYWYWY](/stripes/rywywy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5359
 

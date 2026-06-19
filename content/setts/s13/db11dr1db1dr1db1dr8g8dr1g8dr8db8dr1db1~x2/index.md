@@ -2,10 +2,9 @@
 title: "Tyneside Scottish District Tartan Tartan Number: 593. Earliest known date: 1924 Tyneside Scottish was originally intended to be a Regimental tartan but War Office (Ministry of Defence) declined to sanction the proposal. The tartan has come into use as a District tartan in much the same way as the Sutherland District tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBBBGBGBBBBBB](/stripes/bbbbgbgbbbbbb/) · **Stripes:** [DB DR DB DR G DR G DR DB DR DB DR DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DR DB DR G DR G DR DB DR DB DR DB</span></span>
+In pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=593
 

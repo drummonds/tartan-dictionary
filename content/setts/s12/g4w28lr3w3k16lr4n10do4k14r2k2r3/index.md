@@ -2,10 +2,9 @@
 title: "Edinburgh Zoo Panda, The"
 date: 2023-03-18
 ---
-**Bands:** [RKRKBBYKWYWG](/stripes/rkrkbbykwywg/) · **Stripes:** [R K R K DO N LR K W LR W G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K R K DO N LR K W LR W G</span></span>
+In pattern [GWYWKYBBKRKR](/stripes/gwywkybbkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10505
 

@@ -2,10 +2,9 @@
 title: "Confederate Infantry"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGB](/stripes/grgrgb/) · **Stripes:** [DG O DG O DG DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG O DG O DG DB</span></span>
+In pattern [BGRGRG](/stripes/bgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=731
 

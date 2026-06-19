@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbbkwgky/
 ---
-BBBBKWGKY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BBBBKWGKY
+
+{{< pat "BBBBKWGKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO K DG W K DB DP DB DP <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO K DG W K DB DP DB DP</span></span>
 
 | Tartans |
 |---------------|
 | [Leung (Personal)](/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/)|
 |![Leung (Personal) example sett](/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/sett.png)|
-

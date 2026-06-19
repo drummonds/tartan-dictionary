@@ -2,10 +2,9 @@
 title: "Scottish Heritage USA (SHUSA) (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [GRGKGWBRBWGKGRG](/stripes/grgkgwbrbwgkgrg/) · **Stripes:** [G R G K G W T R T W G K G M G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G K G W T R T W G K G M G</span></span>
+In pattern [GRGKGWBRBWGKGRG](/stripes/grgkgwbrbwgkgrg/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4106/
 

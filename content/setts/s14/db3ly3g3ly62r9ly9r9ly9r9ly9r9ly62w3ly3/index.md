@@ -2,10 +2,9 @@
 title: "Catalan"
 date: 2023-03-18
 ---
-**Bands:** [YWYRYRYRYRYGYB](/stripes/ywyryryryrygyb/) · **Stripes:** [LY W LY R LY R LY R LY R LY G LY DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY W LY R LY R LY R LY R LY G LY DB</span></span>
+In pattern [BYGYRYRYRYRYWY](/stripes/bygyryryryrywy/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

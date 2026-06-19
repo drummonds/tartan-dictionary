@@ -2,10 +2,9 @@
 title: "Sanix Large Muted"
 date: 2023-03-18
 ---
-**Bands:** [RBYB](/stripes/rbyb/) · **Stripes:** [R DB LO DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LO DB</span></span>
+In pattern [BYBR](/stripes/bybr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mother's Pride](/setts/s4/r10db10lo1~x4/)
-
 
 ## Thread count
 R/6 B80 O60 B/6

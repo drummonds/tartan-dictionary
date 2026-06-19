@@ -2,10 +2,9 @@
 title: "Stuart/Stewart Dress"
 date: 2023-03-18
 ---
-**Bands:** [WRKRGKWKYKBW](/stripes/wrkrgkwkykbw/) · **Stripes:** [W R K R DG K W K LY K DB W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K R DG K W K LY K DB W</span></span>
+In pattern [WBKYKWKGRKRW](/stripes/wbkykwkgrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3999
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3999](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3999)
 - Scottish Tartans World Register: 1765
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stuart/Stewart Dress Royal](/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/)
-
 
 ## Thread count
 LN/78 B6 K12 Y6 K6 LN6 K6 G16 R10 K6 R6 LN/6

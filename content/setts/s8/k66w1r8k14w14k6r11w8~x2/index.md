@@ -2,19 +2,11 @@
 title: "University of Cincinnati"
 date: 2023-03-18
 ---
-**Bands:** [KWRKWKRW](/stripes/kwrkwkrw/) · **Stripes:** [K W R K W K R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R K W K R W</span></span>
+In pattern [KWRKWKRW](/stripes/kwrkwkrw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11224/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [University of Cincinnati](/setts/s8/k66w1r8k14w14k6r11w8~x4/)
-
 
 ## Thread count
 K/132 W2 R16 K28 W28 K12 R22 W/16

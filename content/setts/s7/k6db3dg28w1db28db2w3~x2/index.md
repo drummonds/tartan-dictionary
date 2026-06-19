@@ -2,10 +2,9 @@
 title: "Weisfeld"
 date: 2023-03-18
 ---
-**Bands:** [KBGWBBW](/stripes/kbgwbbw/) · **Stripes:** [K DB DG W DB DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB DG W DB DB W</span></span>
+In pattern [KBGWBBW](/stripes/kbgwbbw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

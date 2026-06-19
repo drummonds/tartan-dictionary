@@ -2,10 +2,9 @@
 title: "de Franck, Matt (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBBW](/stripes/bkbkbkbbw/) · **Stripes:** [N K N K N K DB B W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N K N K N K DB B W</span></span>
+In pattern [BKBKBKBBW](/stripes/bkbkbkbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10449
 

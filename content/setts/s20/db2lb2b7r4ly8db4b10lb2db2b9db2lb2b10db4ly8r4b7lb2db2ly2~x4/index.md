@@ -2,10 +2,9 @@
 title: "Healy (Suspect)"
 date: 2023-03-18
 ---
-**Bands:** [YBWBRYBBWBBBWBBYRBWB](/stripes/ybwbrybbwbbbwbbyrbwb/) · **Stripes:** [LY DB LB B R LY DB B LB DB B DB LB B DB LY R B LB DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB LB B R LY DB B LB DB B DB LB B DB LY R B LB DB</span></span>
+In pattern [BWBRYBBWBBBWBBYRBWBY](/stripes/bwbrybbwbbbwbbyrbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1640
 

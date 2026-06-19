@@ -2,10 +2,9 @@
 title: "MacLean of Duart 7"
 date: 2023-03-18
 ---
-**Bands:** [GBBYBWBRWBWB](/stripes/gbbybwbrwbwb/) · **Stripes:** [Y T DR LY DR W DR O W T W DR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="seq">Y T DR LY DR W DR O W T W DR</span></span>
+In pattern [BWBWRBWBYBBG](/stripes/bwbwrbwbybbg/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

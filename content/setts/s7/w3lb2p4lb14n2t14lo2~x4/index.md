@@ -2,10 +2,9 @@
 title: "Seaside (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBBWBWW](/stripes/ybbwbww/) · **Stripes:** [LO T N LB P LB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO T N LB P LB W</span></span>
+In pattern [WWBWBBY](/stripes/wwbwbby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5343/
 

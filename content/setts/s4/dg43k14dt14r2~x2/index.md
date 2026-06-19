@@ -2,10 +2,9 @@
 title: "St. Andrews International Golf Club"
 date: 2023-03-18
 ---
-**Bands:** [RBKG](/stripes/rbkg/) · **Stripes:** [R DT K DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R DT K DG</span></span>
+In pattern [GKBR](/stripes/gkbr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

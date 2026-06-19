@@ -2,19 +2,11 @@
 title: "Stewart of Appin Hunting Clan Tartan Tartan Number: 430. Earliest known date: 1930-50 There is extensive correspondence about the use of the terms 'ancient' and 'hunting' in relation to this sett in the Stewart files at the Scottish Tartan Society. The use of brown makes this sett proportionately similar to the count recorded by James Scarlett as early nineteenth century. He says that the brown was probably black originally. (No. 417, The Highland Textile, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGGBBRB](/stripes/grgrggbbrb/) · **Stripes:** [G R G R G DY T DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G DY T DB R DB</span></span>
+In pattern [BRBBGGRGRG](/stripes/brbbggrgrg/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=430
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart of Appin Htg (Clan)](/setts/s10/g8r3g3r5g26dy7t3db28r3db6~x2/)
-
 
 ## Thread count
 G/11 R4 G4 R7 G41 T11 B4 DB41 R4 DB/8

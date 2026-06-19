@@ -2,10 +2,9 @@
 title: "Coigach Tweed"
 date: 2023-03-18
 ---
-**Bands:** [KWR](/stripes/kwr/) · **Stripes:** [K LB O](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K LB O</span></span>
+In pattern [KWR](/stripes/kwr/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=707
 

@@ -2,10 +2,9 @@
 title: "Gwyn of Wales"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKBKWKBKRKRKRKW](/stripes/krkrkrkbkwkbkrkrkrkw/) · **Stripes:** [K R K R K R K DB K W K DB K R K R K R K W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R K R K R K DB K W K DB K R K R K R K W</span></span>
+In pattern [KRKRKRKBKWKBKRKRKRKW](/stripes/krkrkrkbkwkbkrkrkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1563
 

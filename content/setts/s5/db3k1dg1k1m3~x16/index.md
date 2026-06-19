@@ -2,10 +2,9 @@
 title: "Clark Clerk(e)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKB](/stripes/rkgkb/) · **Stripes:** [M K DG K DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">M K DG K DB</span></span>
+In pattern [BKGKR](/stripes/bkgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=667
 

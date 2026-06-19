@@ -2,10 +2,9 @@
 title: "Currie, of Balilone"
 date: 2023-03-18
 ---
-**Bands:** [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/) · **Stripes:** [G K G Y DG W DG W DG W DG W DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">G K G Y DG W DG W DG W DG W DG</span></span>
+In pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

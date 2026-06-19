@@ -2,10 +2,9 @@
 title: "Maine State"
 date: 2023-03-18
 ---
-**Bands:** [GRBBBBBBGRB](/stripes/grbbbbbbgrb/) · **Stripes:** [G R T DB T DB T DB G R T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T DB T DB T DB G R T</span></span>
+In pattern [BRGBBBBBBRG](/stripes/brgbbbbbbrg/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Maine State District Tartan Tartan Number: 502. Earliest known date: 1965 Maine tartan is the oldest of America's tartans. It was woven by the Maine Spinning Company which has now gone out of business. When the tartan was first introduced it was reported in the Glasgow Herald (30.12.65) that it had been 'duly accredited by the State of Maine'. The State archives, however, are unable to locate the authorization. It is now marketed by the Maine Tartan and Tweed company, who hold the copyright. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/g2r2t21db2t2db6t2db2g33r2t2~x2/)
-
 
 ## Thread count
 G/4 R4 B46 DB4 B4 DB12 B4 DB4 G66 R4 B/4

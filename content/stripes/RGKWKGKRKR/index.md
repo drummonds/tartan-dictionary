@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rgkwkgkrkr/
 ---
-RGKWKGKRKR
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-RGKWKGKRKR
+
+{{< pat "RGKWKGKRKR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R K R K DG K W K DG R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K DG K W K DG R</span></span>
-
-| Tartans |
-|---------------|
-| [MacDiarmid #3](/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/)|
-|![MacDiarmid #3 example sett](/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/sett.png)|
-
-### R K R K G K W K G R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K G K W K G R</span></span>
 
 | Tartans |
 |---------------|
 | [MacDiarmid](/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/)|
 |![MacDiarmid example sett](/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/sett.png)|
-
+| [MacDiarmid #3](/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/)|
+|![MacDiarmid #3 example sett](/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/sett.png)|

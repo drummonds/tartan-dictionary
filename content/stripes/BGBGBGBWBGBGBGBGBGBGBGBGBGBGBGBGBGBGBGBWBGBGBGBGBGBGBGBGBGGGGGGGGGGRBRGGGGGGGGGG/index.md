@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbgbgbwbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbgbggggggggggrbrgggggggggg/
 ---
-BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG
-
-It is a 80 band tartan.
+It is a 80 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG
+
+{{< pat "BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G G G G G G G G G G M DP M G G G G G G G G G G B G B G B G B G B G B G B G B G B LB B G B G B G B G B G B G B G B G B G B G B G B G B G B G B G B LB B G B G B G B <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G G G G G G G G G G M DP M G G G G G G G G G G B G B G B G B G B G B G B G B G B LB B G B G B G B G B G B G B G B G B G B G B G B G B G B G B G B LB B G B G B G B</span></span>
 
 | Tartans |
 |---------------|
 | [Virginia (USA)](/setts/s80/g16g1g1g1g1g1g1g1g1g8m16dp32m16g8g1g1g1g1g1g1g1g1g16b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b16lb32b16g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b16lb32b16g1b1g1b1g1b1/)|
 |![Virginia (USA) example sett](/setts/s80/g16g1g1g1g1g1g1g1g1g8m16dp32m16g8g1g1g1g1g1g1g1g1g16b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b16lb32b16g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b1g1b16lb32b16g1b1g1b1g1b1/sett.png)|
-

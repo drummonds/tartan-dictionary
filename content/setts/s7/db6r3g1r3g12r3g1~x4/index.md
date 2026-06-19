@@ -2,20 +2,11 @@
 title: "Skene - 1831 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRB](/stripes/grgrgrb/) · **Stripes:** [G R G R G R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G R DB</span></span>
+In pattern [BRGRGRG](/stripes/brgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/516/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Skene](/setts/s7/db6r3g1r3g12r3g1~x2/)
-- [Skene Clan Tartan Tartan Number: 516. Earliest known date: 1886 Smith No 53 has ROSE in place of RED. Grant's version is similar to the sample named Skene in the 1830 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db6r3g2r3g12r3g2~x2/)
-
 
 ## Thread count
 DB/24 R12 G4 R12 G48 R12 G/4

@@ -2,10 +2,9 @@
 title: "Vance"
 date: 2023-03-18
 ---
-**Bands:** [KBGWBR](/stripes/kbgwbr/) · **Stripes:** [K T G W T R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">K T G W T R</span></span>
+In pattern [KBGWBR](/stripes/kbgwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4441
 

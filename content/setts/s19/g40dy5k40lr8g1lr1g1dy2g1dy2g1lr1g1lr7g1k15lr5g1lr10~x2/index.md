@@ -2,10 +2,9 @@
 title: "Shepherd, (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YGYKGYGYGGGGGYGYKGG](/stripes/ygykgygygggggygykgg/) · **Stripes:** [LR G LR K G LR G LR G DY G DY G LR G LR K DY G](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR G LR K G LR G LR G DY G DY G LR G LR K DY G</span></span>
+In pattern [GGKYGYGGGGGYGYGKYGY](/stripes/ggkygygggggygygkygy/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10142/
 

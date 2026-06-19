@@ -2,10 +2,9 @@
 title: "Chisholm"
 date: 2023-03-18
 ---
-**Bands:** [RBWBRGRB](/stripes/rbwbrgrb/) · **Stripes:** [R DP LB DP R DG R DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP LB DP R DG R DP</span></span>
+In pattern [BRGRBWBR](/stripes/brgrbwbr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

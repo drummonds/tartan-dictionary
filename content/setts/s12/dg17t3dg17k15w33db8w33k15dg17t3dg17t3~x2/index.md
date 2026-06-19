@@ -2,10 +2,9 @@
 title: "MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GBGKWBWKGBGB](/stripes/gbgkwbwkgbgb/) · **Stripes:** [DG T DG K W DB W K DG T DG T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG T DG K W DB W K DG T DG T</span></span>
+In pattern [BGBGKWBWKGBG](/stripes/bgbgkwbwkgbg/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2399
 

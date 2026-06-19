@@ -2,10 +2,9 @@
 title: "Clan Pipers Frankfurt and District Pipe Band"
 date: 2023-03-18
 ---
-**Bands:** [RKBKRKWKRKBKBKB](/stripes/rkbkrkwkrkbkbkb/) · **Stripes:** [R K DB K R K W K R K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K R K W K R K DB K DB K DB</span></span>
+In pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10447
 

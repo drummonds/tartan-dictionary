@@ -2,10 +2,9 @@
 title: "Eyre (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRGRBR](/stripes/krgrbr/) · **Stripes:** [K R G R DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R G R DB R</span></span>
+In pattern [KRGRBR](/stripes/krgrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143)
 - Scottish Tartans Authority (ITI): 6605
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Finnigan (Estimated threadcount)](/setts/s6/r3db15r3g8r20k2~x2/)
-
 
 ## Thread count
 R/6 DB24 R8 G36 R12 K/4

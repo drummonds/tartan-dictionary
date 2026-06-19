@@ -2,10 +2,9 @@
 title: "Havel"
 date: 2023-03-18
 ---
-**Bands:** [RKWKW](/stripes/rkwkw/) · **Stripes:** [R K W K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W K W</span></span>
+In pattern [RKWKW](/stripes/rkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10625
 
@@ -21,13 +20,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10625)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cornish Flag (District)](/setts/s5/w5k20w10k1r2~x2/)
-
 
 ## Thread count
 R/42 K42 W20 K20 W/42

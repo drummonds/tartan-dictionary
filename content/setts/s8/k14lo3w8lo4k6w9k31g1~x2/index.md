@@ -2,10 +2,9 @@
 title: "Entrepreneurial Spark"
 date: 2023-03-18
 ---
-**Bands:** [KYWYKWKG](/stripes/kywykwkg/) · **Stripes:** [K LO W LO K W K G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LO W LO K W K G</span></span>
+In pattern [GKWKYWYK](/stripes/gkwkywyk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10996
 

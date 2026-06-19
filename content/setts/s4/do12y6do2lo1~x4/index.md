@@ -2,10 +2,9 @@
 title: "Loch Garth"
 date: 2023-03-18
 ---
-**Bands:** [YBGB](/stripes/ybgb/) · **Stripes:** [LO DO Y DO](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO Y DO</span></span>
+In pattern [BGBY](/stripes/bgby/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2145
 

@@ -2,10 +2,9 @@
 title: "Hubbard (2016)"
 date: 2023-03-18
 ---
-**Bands:** [BRBGRGBGB](/stripes/brbgrgbgb/) · **Stripes:** [DT R DT Y R Y DT Y DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">DT R DT Y R Y DT Y DT</span></span>
+In pattern [BGBGRGBRB](/stripes/bgbgrgbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11576
 

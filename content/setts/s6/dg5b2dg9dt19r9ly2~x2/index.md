@@ -2,10 +2,9 @@
 title: "Lyle and Scott"
 date: 2023-03-18
 ---
-**Bands:** [YRBGBG](/stripes/yrbgbg/) · **Stripes:** [LY R DT DG B DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="seq">LY R DT DG B DG</span></span>
+In pattern [GBGBRY](/stripes/gbgbry/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11139/
 

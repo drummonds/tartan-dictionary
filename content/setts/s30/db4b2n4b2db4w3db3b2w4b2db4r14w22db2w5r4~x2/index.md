@@ -2,10 +2,9 @@
 title: "Skye Dress Blue, Earl of (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBWBBWBBRWBWRWBWRBBWBBWBBBB](/stripes/bbbbbwbbwbbrwbwrwbwrbbwbbwbbbb/) · **Stripes:** [DB B N B DB W DB B W B DB R W DB W R W DB W R DB B W B DB W DB B N B](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB B N B DB W DB B W B DB R W DB W R W DB W R DB B W B DB W DB B N B</span></span>
+In pattern [BBBBBWBBWBBRWBWRWBWRBBWBBWBBBB](/stripes/bbbbbwbbwbbrwbwrwbwrbbwbbwbbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3812
 

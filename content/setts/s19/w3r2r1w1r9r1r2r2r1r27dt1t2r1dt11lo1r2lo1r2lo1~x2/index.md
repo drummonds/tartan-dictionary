@@ -2,10 +2,9 @@
 title: "Red Lichtie"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYBRBBRRRRRRWRRW](/stripes/yryrybrbbrrrrrrwrrw/) · **Stripes:** [LO R LO R LO DT R T DT R R R R R R W R R W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R LO R LO DT R T DT R R R R R R W R R W</span></span>
+In pattern [WRRWRRRRRRBBRBYRYRY](/stripes/wrrwrrrrrrbbrbyryry/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10662
 

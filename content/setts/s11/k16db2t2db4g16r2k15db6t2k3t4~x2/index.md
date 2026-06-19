@@ -2,10 +2,9 @@
 title: "Wilson's No.060"
 date: 2023-03-18
 ---
-**Bands:** [KBBBGRKBBKB](/stripes/kbbbgrkbbkb/) · **Stripes:** [K DB T DB G R K DB T K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K DB T DB G R K DB T K T</span></span>
+In pattern [BKBBKRGBBBK](/stripes/bkbbkrgbbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4660
 

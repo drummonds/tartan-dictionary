@@ -2,10 +2,9 @@
 title: "Lochwood (Estate Check)"
 date: 2023-03-18
 ---
-**Bands:** [RYGYRYG](/stripes/rygyryg/) · **Stripes:** [R LY G LY R LY G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY G LY R LY G</span></span>
+In pattern [GYRYGYR](/stripes/gyrygyr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5471/
 

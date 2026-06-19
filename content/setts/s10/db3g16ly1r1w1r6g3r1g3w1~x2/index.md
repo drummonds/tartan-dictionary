@@ -2,10 +2,9 @@
 title: "Canadian Caledonian"
 date: 2023-03-18
 ---
-**Bands:** [BGYRWRGRGW](/stripes/bgyrwrgrgw/) · **Stripes:** [DB G LY R W R G R G W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB G LY R W R G R G W</span></span>
+In pattern [BGYRWRGRGW](/stripes/bgyrwrgrgw/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Canadian Caledonian](/setts/s10/db3g16ly1r1w1r6g3r1g3w1~x4/)
-
 
 ## Thread count
 B/6 G32 Y2 R2 LN2 R12 G6 R2 G6 LN/2

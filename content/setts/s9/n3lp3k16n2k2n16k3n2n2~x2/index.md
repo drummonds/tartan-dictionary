@@ -2,10 +2,9 @@
 title: "Chinzei Keiai Junior High School"
 date: 2023-03-18
 ---
-**Bands:** [BBKBKBKWB](/stripes/bbkbkbkwb/) · **Stripes:** [N N K N K N K LP N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#636363"></span><span class="seq">N N K N K N K LP N</span></span>
+In pattern [BBKBKBKWB](/stripes/bbkbkbkwb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10920
 

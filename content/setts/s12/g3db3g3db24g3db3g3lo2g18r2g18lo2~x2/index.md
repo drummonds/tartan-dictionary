@@ -2,10 +2,9 @@
 title: "Greenways Marketing Intl"
 date: 2023-03-18
 ---
-**Bands:** [YGRGYGBGBGBG](/stripes/ygrgygbgbgbg/) · **Stripes:** [LO G R G LO G DB G DB G DB G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G R G LO G DB G DB G DB G</span></span>
+In pattern [GBGBGBGYGRGY](/stripes/gbgbgbgygrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1532
 

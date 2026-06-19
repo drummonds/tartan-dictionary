@@ -2,10 +2,9 @@
 title: "West Lothian Woolen Mill"
 date: 2023-03-18
 ---
-**Bands:** [KWKRGRKRYRRRYRKRGRKWKY](/stripes/kwkrgrkryrrryrkrgrkwky/) · **Stripes:** [K W K O G O K O LY O R O LY O K O G O K W K LO](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K W K O G O K O LY O R O LY O K O G O K W K LO</span></span>
+In pattern [KWKRGRKRYRRRYRKRGRKWKY](/stripes/kwkrgrkryrrryrkrgrkwky/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4602
 

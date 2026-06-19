@@ -2,10 +2,9 @@
 title: "Ladybird (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBGBGBGRB](/stripes/rbrbrbrbgbgbgrb/) · **Stripes:** [R DR R DT R DR R DT G DT G DT G R DR](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DR R DT R DR R DT G DT G DT G R DR</span></span>
+In pattern [BRGBGBGBRBRBRBR](/stripes/brgbgbgbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2022
 

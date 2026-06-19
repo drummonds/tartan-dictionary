@@ -2,10 +2,9 @@
 title: "Eternity (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YKYGB](/stripes/ykygb/) · **Stripes:** [LR K LO DY N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">LR K LO DY N</span></span>
+In pattern [BGYKY](/stripes/bgyky/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10214/
 

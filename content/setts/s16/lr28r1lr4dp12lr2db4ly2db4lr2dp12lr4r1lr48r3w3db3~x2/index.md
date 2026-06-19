@@ -2,10 +2,9 @@
 title: "Wallenberg, Nicolas Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRYBYBYBYBYRYRWB](/stripes/yrybybybybyryrwb/) · **Stripes:** [LR R LR DP LR DB LY DB LR DP LR R LR R W DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LR R LR DP LR DB LY DB LR DP LR R LR R W DB</span></span>
+In pattern [BWRYRYBYBYBYBYRY](/stripes/bwryrybybybybyry/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11325
 

@@ -2,10 +2,9 @@
 title: "Daniel (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKYKBKB](/stripes/kbkbkbkykbkb/) · **Stripes:** [K DB K DB K DB K LR K DT K T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K DB K DB K DB K LR K DT K T</span></span>
+In pattern [BKBKYKBKBKBK](/stripes/bkbkykbkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8353/
 

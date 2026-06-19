@@ -2,10 +2,9 @@
 title: "Ardalansish Tweed (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BYBWBW](/stripes/bybwbw/) · **Stripes:** [DO LO DO W N W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DO LO DO W N W</span></span>
+In pattern [BYBWBW](/stripes/bybwbw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8008/
 

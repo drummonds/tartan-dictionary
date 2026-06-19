@@ -2,10 +2,9 @@
 title: "Diana Hunting Plaid Tartan Tartan Number: 1318. Earliest known date: 1981 Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBBBGWGRGGBG](/stripes/rbbbgwgrggbg/) · **Stripes:** [R T DB T G W G R G DY T DY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R T DB T G W G R G DY T DY</span></span>
+In pattern [GBGGRGWGBBBR](/stripes/gbggrgwgbbbr/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1318
 

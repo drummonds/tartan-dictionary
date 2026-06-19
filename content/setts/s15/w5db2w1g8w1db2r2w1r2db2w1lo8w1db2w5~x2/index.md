@@ -2,10 +2,9 @@
 title: "Wombles"
 date: 2023-03-18
 ---
-**Bands:** [WBWYWBRWRBWGWBW](/stripes/wbwywbrwrbwgwbw/) · **Stripes:** [W DB W LO W DB R W R DB W G W DB W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W LO W DB R W R DB W G W DB W</span></span>
+In pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wombles 1 (Corporate)](/setts/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/)
-
 
 ## Thread count
 LN/10 B4 LN2 O16 LN2 B4 DR4 LN2 DR4 B4 LN2 G16 LN2 B4 LN/10

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgggbggygggbggggwgwggggbgggyggbggg/
 ---
-BGGGBGGYGGGBGGGGWGWGGGGBGGGYGGBGGG
-
-It is a 34 band tartan.
+It is a 34 stripe tartan.
 
 
 
 ## Colour Sequence
-BGGGBGGYGGGBGGGGWGWGGGGBGGGYGGBGGG
+
+{{< pat "BGGGBGGYGGGBGGGGWGWGGGGBGGGYGGBGGG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### Y G Y DB Y G LY Y G Y DB Y G Y G W Y W G Y G Y DB Y G Y LY G Y DB Y G Y DB <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">Y G Y DB Y G LY Y G Y DB Y G Y G W Y W G Y G Y DB Y G Y LY G Y DB Y G Y DB</span></span>
 
 | Tartans |
 |---------------|
 | [Hebrides South Uist #2](/setts/s34/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2/)|
 |![Hebrides South Uist #2 example sett](/setts/s34/db19y2g3y2db2y20g1ly1y1g2y2db18y2g2y22g3w1y3~x2/sett.png)|
-

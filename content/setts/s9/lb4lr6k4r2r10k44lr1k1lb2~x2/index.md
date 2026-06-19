@@ -2,10 +2,9 @@
 title: "Calgary HOG"
 date: 2023-03-18
 ---
-**Bands:** [WKYKRRKYW](/stripes/wkykrrkyw/) · **Stripes:** [LB K LR K R R K LR LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB K LR K R R K LR LB</span></span>
+In pattern [WKYKRRKYW](/stripes/wkykrrkyw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10396
 

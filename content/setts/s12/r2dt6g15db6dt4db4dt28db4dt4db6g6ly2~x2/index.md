@@ -2,10 +2,9 @@
 title: "Los Angeles Police Bagpipe Band"
 date: 2023-03-18
 ---
-**Bands:** [RBGBBBBBBBGY](/stripes/rbgbbbbbbbgy/) · **Stripes:** [R DT G DB DT DB DT DB DT DB G LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DT G DB DT DB DT DB DT DB G LY</span></span>
+In pattern [RBGBBBBBBBGY](/stripes/rbgbbbbbbbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2224
 

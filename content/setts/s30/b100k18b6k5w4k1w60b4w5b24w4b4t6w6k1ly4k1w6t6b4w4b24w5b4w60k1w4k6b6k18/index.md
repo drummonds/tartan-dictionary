@@ -2,10 +2,9 @@
 title: "Craig (Paisley)"
 date: 2023-03-18
 ---
-**Bands:** [KBKWKWBWBWBBWKYKWBBWBWBWKWKBKB](/stripes/kbkwkwbwbwbbwkykwbbwbwbwkwkbkb/) · **Stripes:** [K B K W K W B W B W B T W K LY K W T B W B W B W K W K B K B](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B K W K W B W B W B T W K LY K W T B W B W B W K W K B K B</span></span>
+In pattern [BKBKWKWBWBWBBWKYKWBBWBWBWKWKBK](/stripes/bkbkwkwbwbwbbwkykwbbwbwbwkwkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=786
 

@@ -2,10 +2,9 @@
 title: "Kennison"
 date: 2023-03-18
 ---
-**Bands:** [KWYWYWKB](/stripes/kwywywkb/) · **Stripes:** [K W LY W LY W K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W LY W LY W K DB</span></span>
+In pattern [BKWYWYWK](/stripes/bkwywywk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1948
 

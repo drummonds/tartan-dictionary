@@ -2,10 +2,9 @@
 title: "Swan 2015, Brian E (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKWK](/stripes/kbkbkwk/) · **Stripes:** [K DB K DB K W K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K W K</span></span>
+In pattern [KBKBKWK](/stripes/kbkbkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11382
 

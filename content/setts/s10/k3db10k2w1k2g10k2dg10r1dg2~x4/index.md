@@ -2,19 +2,11 @@
 title: "Rutledge (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KBKWKGKGRG](/stripes/kbkwkgkgrg/) · **Stripes:** [K DB K W K G K DG R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K DB K W K G K DG R DG</span></span>
+In pattern [GRGKGKWKBK](/stripes/grgkgkwkbk/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4019/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rutledge](/setts/s10/k3db10k2w1k2g10k2dg10r1dg1~x4/)
-
 
 ## Thread count
 K/12 DB40 K8 LN4 K8 G40 K8 DG40 R4 DG/8

@@ -2,10 +2,9 @@
 title: "MacThomas"
 date: 2023-03-18
 ---
-**Bands:** [GBGKBBB](/stripes/gbgkbbb/) · **Stripes:** [DG DR DG K DB DR DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DR DG K DB DR DB</span></span>
+In pattern [BBBKGBG](/stripes/bbbkgbg/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacThomas](/setts/s7/dg3dr2dg21k11db21dr2db3/)
-
 
 ## Thread count
 DG/6 DR4 DG42 K22 DB42 DR4 DB/6

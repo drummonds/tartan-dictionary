@@ -2,10 +2,9 @@
 title: "MacMillan"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYRYR](/stripes/ryryryryr/) · **Stripes:** [R LY R LY R LY R LY R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R LY R LY R LY R</span></span>
+In pattern [RYRYRYRYR](/stripes/ryryryryr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -934,14 +933,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacMillan - 1842 (Dress)](/setts/s9/r3ly2r12ly2r3ly8r2ly8r2~x2/)
-- [MacMillan Dress Clan Tartan Tartan Number: 1723. Earliest known date: 1906 The modern Dress MacMillan incorporates red and yellow stripes from the ancient design but omits the greens and blues of the Vestiarium version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r6ly2r18ly3r4ly12r3ly10r2~x2/)
-
 
 ## Thread count
 R/6 Y2 R24 Y4 R6 Y16 R4 Y16 R/2

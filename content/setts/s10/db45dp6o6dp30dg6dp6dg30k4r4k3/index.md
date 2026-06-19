@@ -2,10 +2,9 @@
 title: "Dalgliesh, Ewen (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGBGBRBB](/stripes/krkgbgbrbb/) · **Stripes:** [K R K DG DP DG DP O DP DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K DG DP DG DP O DP DB</span></span>
+In pattern [BBRBGBGKRK](/stripes/bbrbgbgkrk/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7968/
 

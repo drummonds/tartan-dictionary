@@ -2,10 +2,9 @@
 title: "Grey Watch Trade Tartan Tartan Number: 1286. Earliest known date: pre 2003 From a sample woven by Peter Anderson Ltd, Galashiels. The Gray family can be Septs of either Clan Stewart or Clan Sutherland. A rebel son of the Stewarts changed his name to MacGlashan (anglicised to Gray). In the north the Grays of Sutherland possessed lands at Skibo, Sordell and Ardinish. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRWKWKRKR](/stripes/rkrkrwkwkrkr/) · **Stripes:** [O K O K O W K W K O K O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K O W K W K O K O</span></span>
+In pattern [RKRKRWKWKRKR](/stripes/rkrkrwkwkrkr/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1286
 

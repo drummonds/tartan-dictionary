@@ -2,10 +2,9 @@
 title: "Ch. Supt. Everett and Mrs Julene Summerfield Dress"
 date: 2023-03-18
 ---
-**Bands:** [RWKWWGY](/stripes/rwkwwgy/) · **Stripes:** [R W K W LT G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W K W LT G LY</span></span>
+In pattern [RWKWWGY](/stripes/rwkwwgy/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10850
 

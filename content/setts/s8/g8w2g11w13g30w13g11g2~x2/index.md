@@ -2,10 +2,9 @@
 title: "Jubilation Tartan"
 date: 2023-03-18
 ---
-**Bands:** [GGWGWGWG](/stripes/ggwgwgwg/) · **Stripes:** [G G W G W G W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G G W G W G W G</span></span>
+In pattern [GGWGWGWG](/stripes/ggwgwgwg/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bundy, Dress Black Personal)](/setts/s8/g1g1w1g15w15g1w1g1~x4/)
-
 
 ## Thread count
 G/16 LN4 G22 LN26 G60 LN26 G22 G/4

@@ -2,19 +2,11 @@
 title: "Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRYRBRYRBRB](/stripes/rbrbryrbryrbrb/) · **Stripes:** [R DB R DB R LY R DB R LY R DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R LY R DB R LY R DB R DB</span></span>
+In pattern [BRBRYRBRYRBRBR](/stripes/brbryrbryrbrbr/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=458
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Munro (Culloden)](/setts/s14/db6r8db1r2ly5r5db5r5ly1r2db1r2db1r6~x2/)
-
 
 ## Thread count
 DB/12 R16 DB2 R4 Y10 R10 DB10 R10 Y2 R4 DB2 R4 DB1 R/12

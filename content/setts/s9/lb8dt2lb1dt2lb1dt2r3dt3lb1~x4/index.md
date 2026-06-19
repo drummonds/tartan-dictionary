@@ -2,10 +2,9 @@
 title: "Canadian Winter Games 1987"
 date: 2023-03-18
 ---
-**Bands:** [WBRBWBWBW](/stripes/wbrbwbwbw/) · **Stripes:** [LB DT R DT LB DT LB DT LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DT R DT LB DT LB DT LB</span></span>
+In pattern [WBRBWBWBW](/stripes/wbrbwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=550
 

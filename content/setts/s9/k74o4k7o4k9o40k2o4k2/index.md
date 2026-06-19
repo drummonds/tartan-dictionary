@@ -2,10 +2,9 @@
 title: "Llewellyn (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKRK](/stripes/krkrkrkrk/) · **Stripes:** [K O K O K O K O K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="seq">K O K O K O K O K</span></span>
+In pattern [KRKRKRKRK](/stripes/krkrkrkrk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5759/
 

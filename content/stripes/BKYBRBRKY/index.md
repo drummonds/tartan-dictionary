@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkybrbrky/
 ---
-BKYBRBRKY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BKYBRBRKY
+
+{{< pat "BKYBRBRKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LR K R N O N LR K B <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LR K R N O N LR K B</span></span>
 
 | Tartans |
 |---------------|
 | [Montgomerie, Colin](/setts/s9/lr2k1r5n3o12n4lr1k40b1~x2/)|
 |![Montgomerie, Colin example sett](/setts/s9/lr2k1r5n3o12n4lr1k40b1~x2/sett.png)|
-

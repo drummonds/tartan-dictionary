@@ -2,10 +2,9 @@
 title: "Shaw, Miss Rebecca (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKWBWGWB](/stripes/bkwbwgwb/) · **Stripes:** [T K W DP W G W DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">T K W DP W G W DP</span></span>
+In pattern [BKWBWGWB](/stripes/bkwbwgwb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6380/
 

@@ -2,10 +2,9 @@
 title: "Perry Ancient (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYKKY](/stripes/kykky/) · **Stripes:** [K LY K K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY K K LY</span></span>
+In pattern [KYKKY](/stripes/kykky/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1213/
 

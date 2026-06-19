@@ -2,10 +2,9 @@
 title: "Methven"
 date: 2023-03-18
 ---
-**Bands:** [RGGRGRGGGGY](/stripes/rggrgrggggy/) · **Stripes:** [O DG DY O DY O G DG G DG LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">O DG DY O DY O G DG G DG LO</span></span>
+In pattern [RGGRGRGGGGY](/stripes/rggrgrggggy/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11092/
 

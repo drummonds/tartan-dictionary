@@ -2,10 +2,9 @@
 title: "Misty Isle (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KYBYKWKRBKB](/stripes/kybykwkrbkb/) · **Stripes:** [K LR DT LR K LB K O N K DT](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">K LR DT LR K LB K O N K DT</span></span>
+In pattern [BKBRKWKYBYK](/stripes/bkbrkwkybyk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10422/
 

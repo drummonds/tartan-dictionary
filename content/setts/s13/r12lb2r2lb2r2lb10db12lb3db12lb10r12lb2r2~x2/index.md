@@ -2,10 +2,9 @@
 title: "Red, White, Blue Watch (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRWBWBWRWR](/stripes/rwrwrwbwbwrwr/) · **Stripes:** [R LB R LB R LB DB LB DB LB R LB R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LB R LB R LB DB LB DB LB R LB R</span></span>
+In pattern [RWRWBWBWRWRWR](/stripes/rwrwbwbwrwrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3481
 

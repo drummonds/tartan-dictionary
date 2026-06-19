@@ -2,10 +2,9 @@
 title: "St. George's (Birmingham) (School)"
 date: 2023-03-18
 ---
-**Bands:** [RBWBBBB](/stripes/rbwbbbb/) · **Stripes:** [R DT W DT DB DT DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">R DT W DT DB DT DB</span></span>
+In pattern [BBBBWBR](/stripes/bbbbwbr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2585/
 

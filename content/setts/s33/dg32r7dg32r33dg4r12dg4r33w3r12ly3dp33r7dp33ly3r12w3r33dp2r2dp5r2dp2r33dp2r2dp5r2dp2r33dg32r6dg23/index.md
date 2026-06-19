@@ -2,10 +2,9 @@
 title: "Huntly (District)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRG](/stripes/grgrgrgrwrybrbyrwrbrbrbrbrbrbrgrg/) · **Stripes:** [DG R DG R DG R DG R W R LY DP R DP LY R W R DP R DP R DP R DP R DP R DP R DG R DG](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG R DG R DG R W R LY DP R DP LY R W R DP R DP R DP R DP R DP R DP R DG R DG</span></span>
+In pattern [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrybrbyrwrgrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/853/
 

@@ -2,10 +2,9 @@
 title: "Recovery Dress"
 date: 2023-03-18
 ---
-**Bands:** [RKWGBGBGBGBWBWBGBGBGBGWKY](/stripes/rkwgbgbgbgbwbwbgbgbgbgwky/) · **Stripes:** [R K W DG DT DG DT DG DT DG DT W DT W DT DG DT DG DT DG DT DG W K LO](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K W DG DT DG DT DG DT DG DT W DT W DT DG DT DG DT DG DT DG W K LO</span></span>
+In pattern [RKWGBGBGBGBWBWBGBGBGBGWKY](/stripes/rkwgbgbgbgbwbwbgbgbgbgwky/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3474
 

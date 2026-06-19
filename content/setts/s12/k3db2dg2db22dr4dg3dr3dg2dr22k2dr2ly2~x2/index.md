@@ -2,10 +2,9 @@
 title: "Harris, Jeffrey S (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBGBBGBGBKBY](/stripes/kbgbbgbgbkby/) · **Stripes:** [K DB DG DB DR DG DR DG DR K DR LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K DB DG DB DR DG DR DG DR K DR LY</span></span>
+In pattern [KBGBBGBGBKBY](/stripes/kbgbbgbgbkby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11261
 

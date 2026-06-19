@@ -2,10 +2,9 @@
 title: "MacCrimmon from Skye"
 date: 2023-03-18
 ---
-**Bands:** [RKBKBKY](/stripes/rkbkbky/) · **Stripes:** [R K T K T K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K T K T K LY</span></span>
+In pattern [RKBKBKY](/stripes/rkbkbky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2328
 

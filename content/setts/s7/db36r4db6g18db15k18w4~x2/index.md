@@ -2,10 +2,9 @@
 title: "Grainger (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BRBGBKW](/stripes/brbgbkw/) · **Stripes:** [DB R DB G DB K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB G DB K W</span></span>
+In pattern [BRBGBKW](/stripes/brbgbkw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6603/
 

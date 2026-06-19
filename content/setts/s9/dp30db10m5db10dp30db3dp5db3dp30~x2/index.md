@@ -2,10 +2,9 @@
 title: "Meanwood McMain (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBRBBBBBB](/stripes/bbrbbbbbb/) · **Stripes:** [DP DB M DB DP DB DP DB DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DB M DB DP DB DP DB DP</span></span>
+In pattern [BBBBBBRBB](/stripes/bbbbbbrbb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2906
 

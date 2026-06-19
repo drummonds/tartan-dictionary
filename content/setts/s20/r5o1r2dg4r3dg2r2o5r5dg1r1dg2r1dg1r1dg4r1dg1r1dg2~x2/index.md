@@ -2,10 +2,9 @@
 title: "MacIntosh Ancient"
 date: 2023-03-18
 ---
-**Bands:** [RRRGRGRRRGRGRGRGRGRG](/stripes/rrrgrgrrrgrgrgrgrgrg/) · **Stripes:** [R O R DG R DG R O R DG R DG R DG R DG R DG R DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R O R DG R DG R O R DG R DG R DG R DG R DG R DG</span></span>
+In pattern [GRGRGRGRGRGRRRGRGRRR](/stripes/grgrgrgrgrgrrrgrgrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2481
 

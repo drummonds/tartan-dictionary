@@ -2,10 +2,9 @@
 title: "Abercrombie"
 date: 2023-03-18
 ---
-**Bands:** [GWGKBKBKB](/stripes/gwgkbkbkb/) · **Stripes:** [G W G K DB K DB K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G W G K DB K DB K DB</span></span>
+In pattern [BKBKBKGWG](/stripes/bkbkbkgwg/).
 
-
-This was sourced from logan-1831.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from logan-1831.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,14 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Abercrombie** name adjusted Logan's counts: [Abercrombie](/setts/s9/g14w1g7k7b2k2b2k2b7~b2c2c80-g006818-k101010-we0e0e0~x4/); [Abercrombie (McKinlay)](/setts/s9/k12r1g14w1g14k14r1b8k2~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/); [Abercrombie (Wilsons No 2/64)](/setts/s7/k6g6y1g6k6b6k1~b5a008c-g005020-k101010-ye8c000~x4/); [Abercrombie](/setts/s9/g14w1g7k7b2k2b2k2b7~b00004c-g004c00-k000000-wd0d0d0~x2/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Abercrombie](/setts/s9/g14w1g7k7db2k2db2k2db7~x4/)
-- [Abercrombie](/setts/s9/g14w1g7k7db2k2db2k2db7~x2/)
-
 
 ## Thread count
 DB/28 K8 DB8 K8 DB8 K28 G28 LN4 G/28

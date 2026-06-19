@@ -2,10 +2,9 @@
 title: "Bear (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KYKGRGRGYYWWYKRGRG](/stripes/kykgrgrgyywwykrgrg/) · **Stripes:** [K LR K DY O DY O DY LO LY W W LR K O DY O DY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K LR K DY O DY O DY LO LY W W LR K O DY O DY</span></span>
+In pattern [GRGRKYWWYYGRGRGKYK](/stripes/grgrkywwyygrgrgkyk/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6799/
 

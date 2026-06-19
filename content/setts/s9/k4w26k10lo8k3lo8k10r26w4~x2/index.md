@@ -2,10 +2,9 @@
 title: "Lord Laird"
 date: 2023-03-18
 ---
-**Bands:** [KWKYKYKRW](/stripes/kwkykykrw/) · **Stripes:** [K W K LO K LO K R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K LO K LO K R W</span></span>
+In pattern [KWKYKYKRW](/stripes/kwkykykrw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216
 

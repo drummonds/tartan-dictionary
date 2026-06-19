@@ -2,10 +2,9 @@
 title: "MacCord / McCord (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBGW](/stripes/grbrbgw/) · **Stripes:** [DG R DB R DB G W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DB R DB G W</span></span>
+In pattern [GRBRBGW](/stripes/grbrbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2322
 

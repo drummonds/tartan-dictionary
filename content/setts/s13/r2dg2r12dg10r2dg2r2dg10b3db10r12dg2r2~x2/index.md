@@ -2,10 +2,9 @@
 title: "Matheson N"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGBBRGR](/stripes/rgrgrgrgbbrgr/) · **Stripes:** [R DG R DG R DG R DG B DB R DG R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DG R DG B DB R DG R</span></span>
+In pattern [RGRBBGRGRGRGR](/stripes/rgrbbgrgrgrgr/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Matheson N](/setts/s13/r2dg2r12dg10r2dg2r2dg10b3db10r12dg2r2/)
-
 
 ## Thread count
 DR/4 DG4 DR24 DG20 DR4 DG4 DR4 DG20 B6 DB20 DR24 DG4 DR/4

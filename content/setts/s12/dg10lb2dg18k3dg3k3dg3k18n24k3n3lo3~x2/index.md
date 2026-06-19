@@ -2,10 +2,9 @@
 title: "Bell's Whisky (SA)"
 date: 2023-03-18
 ---
-**Bands:** [YBKBKGKGKGWG](/stripes/ybkbkgkgkgwg/) · **Stripes:** [LO N K N K DG K DG K DG LB DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="seq">LO N K N K DG K DG K DG LB DG</span></span>
+In pattern [GWGKGKGKBKBY](/stripes/gwgkgkgkbkby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3906
 

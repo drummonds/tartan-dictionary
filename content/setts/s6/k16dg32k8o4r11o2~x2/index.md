@@ -2,10 +2,9 @@
 title: "Mitchell, Cameron (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKRRR](/stripes/kgkrrr/) · **Stripes:** [K DG K O R O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K DG K O R O</span></span>
+In pattern [KGKRRR](/stripes/kgkrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11456
 

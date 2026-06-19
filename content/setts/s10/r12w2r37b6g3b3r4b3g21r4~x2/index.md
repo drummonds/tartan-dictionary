@@ -2,10 +2,9 @@
 title: "Chisholm, The (MacGregor-Hastie)"
 date: 2023-03-18
 ---
-**Bands:** [RGBRBGBRWR](/stripes/rgbrbgbrwr/) · **Stripes:** [R G B R B G B R W R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G B R B G B R W R</span></span>
+In pattern [RGBRBGBRWR](/stripes/rgbrbgbrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=644
 

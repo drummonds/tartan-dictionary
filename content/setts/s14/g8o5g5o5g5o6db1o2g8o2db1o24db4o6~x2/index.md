@@ -2,10 +2,9 @@
 title: "MacGillivray Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRGRBRGRGRG](/stripes/rbrbrgrbrgrgrg/) · **Stripes:** [O DB O DB O G O DB O G O G O G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O DB O DB O G O DB O G O G O G</span></span>
+In pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3371/
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5388)
 - Scottish Tartans Authority (ITI): 3371
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacAlister of Glenbarr](/setts/s14/g4o2g2o2g2o3db1o1g4o1db1o12db2o3~x2/)
-
 
 ## Thread count
 G/16 T10 G10 T10 G10 T12 DB2 T4 G16 T4 DB2 T48 DB8 T/12

@@ -2,10 +2,9 @@
 title: "Wolfe (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YRGRGRG](/stripes/yrgrgrg/) · **Stripes:** [LO O G O G O G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO O G O G O G</span></span>
+In pattern [GRGRGRY](/stripes/grgrgry/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4096/
 

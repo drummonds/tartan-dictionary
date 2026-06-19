@@ -2,10 +2,9 @@
 title: "Clodagh/Cork"
 date: 2023-03-18
 ---
-**Bands:** [WGKGGKWKWKYBW](/stripes/wgkggkwkwkybw/) · **Stripes:** [W DY K DY DG K W K W K LY N W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DY K DY DG K W K W K LY N W</span></span>
+In pattern [WBYKWKWKGGKGW](/stripes/wbykwkwkggkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689
 

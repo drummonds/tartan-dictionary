@@ -2,10 +2,9 @@
 title: "Justus Black & Gold (Angus) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKYKYKYKYKYKY](/stripes/kykykykykykykyky/) · **Stripes:** [K LO K LO K LO K LO K LO K LO K LO K LO](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO K LO K LO K LO K LO K LO K LO K LO</span></span>
+In pattern [KYKYKYKYKYKYKYKY](/stripes/kykykykykykykyky/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1918
 

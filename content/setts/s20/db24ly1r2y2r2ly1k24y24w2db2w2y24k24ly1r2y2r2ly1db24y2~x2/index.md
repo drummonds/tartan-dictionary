@@ -2,10 +2,9 @@
 title: "Smithsonian"
 date: 2023-03-18
 ---
-**Bands:** [GBYRGRYKGWBWGKYRGRYB](/stripes/gbyrgrykgwbwgkyrgryb/) · **Stripes:** [Y DB LY R Y R LY K Y W DB W Y K LY R Y R LY DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">Y DB LY R Y R LY K Y W DB W Y K LY R Y R LY DB</span></span>
+In pattern [BYRGRYKGWBWGKYRGRYBG](/stripes/byrgrykgwbwgkyrgrybg/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3825
 

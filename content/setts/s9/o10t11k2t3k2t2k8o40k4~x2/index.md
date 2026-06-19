@@ -2,10 +2,9 @@
 title: "Doune District Tartan Tartan Number: 4707. Earliest known date: 01/01/2002 A colour variation of Stewart Bute. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKBKBR](/stripes/krkbkbkbr/) · **Stripes:** [K O K T K T K T O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K T K T K T O</span></span>
+In pattern [KRKBKBKBR](/stripes/krkbkbkbr/).
 
-
-This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4707
 

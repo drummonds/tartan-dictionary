@@ -2,10 +2,9 @@
 title: "Bonner or Bonnar"
 date: 2023-03-18
 ---
-**Bands:** [RKRGRKRKBKBKB](/stripes/rkrgrkrkbkbkb/) · **Stripes:** [R K R G R K R K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R G R K R K DB K DB K DB</span></span>
+In pattern [BKBKBKRKRGRKR](/stripes/bkbkbkrkrgrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=308
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [308](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=308)
 - Scottish Tartans Authority (ITI): 285
 - Scottish Tartans World Register: 285
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bonner, (Bonnar)](/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/)
-
 
 ## Thread count
 R/52 K8 R12 G40 R20 K12 R12 K48 DBa8 K12 DBa8 K12 DBa/48

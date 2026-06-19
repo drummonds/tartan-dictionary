@@ -2,10 +2,9 @@
 title: "Crookdake Cheng Family Tartan Tartan Number: 2207. Earliest known date: 1994 Designed by Phil Smith 1994 for the then Treasurer/Accountant of the Scottish Tartans Society at the request of Keith Lumsden. The yellow represents rice stalks. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBWKGYGYGY](/stripes/rbwkgygygy/) · **Stripes:** [R DB LB K G LO G LO G LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R DB LB K G LO G LO G LO</span></span>
+In pattern [RBWKGYGYGY](/stripes/rbwkgygygy/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2207
 

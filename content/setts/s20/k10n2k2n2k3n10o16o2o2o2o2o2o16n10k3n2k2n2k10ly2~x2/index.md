@@ -2,10 +2,9 @@
 title: "Dryburgh Clan Tartan Tartan Number: 6422. Earliest known date: 2004 Based on Kerr, and the colours of the Dryburgh coat of arms including the 3 martlet birds, matriculated for William J. Dryburgh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBRRRRRRRBKBKBKY](/stripes/kbkbkbrrrrrrrbkbkbky/) · **Stripes:** [K N K N K N O O O O O O O N K N K N K LY](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K N K N K N O O O O O O O N K N K N K LY</span></span>
+In pattern [KBKBKBRRRRRRRBKBKBKY](/stripes/kbkbkbrrrrrrrbkbkbky/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6422
 

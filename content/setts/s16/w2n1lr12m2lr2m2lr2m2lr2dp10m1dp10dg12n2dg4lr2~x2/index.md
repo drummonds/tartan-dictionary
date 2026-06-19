@@ -2,10 +2,9 @@
 title: "Cribb (2016)"
 date: 2023-03-18
 ---
-**Bands:** [YGBGBRBYRYRYRYBW](/stripes/ygbgbrbyryryrybw/) · **Stripes:** [LR DG N DG DP M DP LR M LR M LR M LR N W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR DG N DG DP M DP LR M LR M LR M LR N W</span></span>
+In pattern [WBYRYRYRYBRBGBGY](/stripes/wbyryryrybrbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11455
 

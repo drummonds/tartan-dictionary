@@ -2,10 +2,9 @@
 title: "CoVASS (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBKRWKRKGKB](/stripes/kbkrwkrkgkb/) · **Stripes:** [K DP K R W K R K G K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DP K R W K R K G K DB</span></span>
+In pattern [BKGKRKWRKBK](/stripes/bkgkrkwrkbk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7737/
 

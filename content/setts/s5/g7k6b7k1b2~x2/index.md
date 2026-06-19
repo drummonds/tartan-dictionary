@@ -2,10 +2,9 @@
 title: "Campbell of Glenlyon"
 date: 2023-03-18
 ---
-**Bands:** [GKBKB](/stripes/gkbkb/) · **Stripes:** [G K B K B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G K B K B</span></span>
+In pattern [BKBKG](/stripes/bkbkg/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5456
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [5456](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5456)
 - Scottish Tartans Authority (ITI): 14
 - Scottish Tartans World Register: 14
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell of Glenlyon Check (Clan)](/setts/s5/g7k6b7k1b2~x4/)
-
 
 ## Thread count
 G/14 K12 B14 K2 B/4

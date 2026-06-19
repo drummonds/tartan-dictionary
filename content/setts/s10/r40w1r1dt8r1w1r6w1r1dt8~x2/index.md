@@ -2,10 +2,9 @@
 title: "Miyuki #2"
 date: 2023-03-18
 ---
-**Bands:** [RWRBRWRWRB](/stripes/rwrbrwrwrb/) · **Stripes:** [R W R DT R W R W R DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R W R DT R W R W R DT</span></span>
+In pattern [BRWRWRBRWR](/stripes/brwrwrbrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2968
 

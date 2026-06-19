@@ -2,10 +2,9 @@
 title: "Coast & Glen (Fishbox) Ltd"
 date: 2023-03-18
 ---
-**Bands:** [BWBYYBBBYBBBBWYBWB](/stripes/bwbyybbbybbbbwybwb/) · **Stripes:** [DB W DB LO LG T DB DB LG T DB DB T W LO DB W DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB W DB LO LG T DB DB LG T DB DB T W LO DB W DB</span></span>
+In pattern [BWBYWBBBBYBBBYYBWB](/stripes/bwbywbbbbybbbyybwb/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11631
 

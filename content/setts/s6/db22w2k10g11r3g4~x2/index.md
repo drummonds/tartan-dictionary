@@ -2,10 +2,9 @@
 title: "Paterson Blue (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGKWB](/stripes/grgkwb/) · **Stripes:** [G R G K W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G K W DB</span></span>
+In pattern [BWKGRG](/stripes/bwkgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3301
 
@@ -901,13 +900,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacFadzean](/setts/s6/db48w2k20g22r3g4~x2/)
-
 
 ## Thread count
 DB/44 LN4 K20 G22 R6 G/8

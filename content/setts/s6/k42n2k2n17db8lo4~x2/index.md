@@ -2,10 +2,9 @@
 title: "Connecticut State Police Pipe Band"
 date: 2023-03-18
 ---
-**Bands:** [KBKBBY](/stripes/kbkbby/) · **Stripes:** [K N K N DB LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K N K N DB LO</span></span>
+In pattern [KBKBBY](/stripes/kbkbby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=743
 

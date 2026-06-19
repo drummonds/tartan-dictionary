@@ -2,10 +2,9 @@
 title: "Unidentified fragment"
 date: 2023-03-18
 ---
-**Bands:** [KWKBKGKGYGKGKBKRKB](/stripes/kwkbkgkgygkgkbkrkb/) · **Stripes:** [K W K DP K DG K DG LY DG K DG K DP K R K DP](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K W K DP K DG K DG LY DG K DG K DP K R K DP</span></span>
+In pattern [BKRKBKGKGYGKGKBKWK](/stripes/bkrkbkgkgygkgkbkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4295
 

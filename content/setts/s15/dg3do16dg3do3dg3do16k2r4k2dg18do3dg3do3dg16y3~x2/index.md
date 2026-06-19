@@ -2,19 +2,11 @@
 title: "Ontario, Ensign of (District)"
 date: 2023-03-18
 ---
-**Bands:** [GGBGBGKRKBGBGBG](/stripes/ggbgbgkrkbgbgbg/) · **Stripes:** [Y DG DO DG DO DG K R K DO DG DO DG DO DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="seq">Y DG DO DG DO DG K R K DO DG DO DG DO DG</span></span>
+In pattern [GBGBGBKRKGBGBGG](/stripes/gbgbgbkrkgbgbgg/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3140/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ontario, Ensign of](/setts/s15/y4dg18do3dg3do3dg18k2r4k2do16dg3do3dg3do16dg3~x2/)
-
 
 ## Thread count
 DG/6 DR32 DG6 DR6 DG6 DR32 K4 DRa8 K4 DG36 DR6 DG6 DR6 DG32 T/6

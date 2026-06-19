@@ -2,10 +2,9 @@
 title: "MacLaine of Lochbuie"
 date: 2023-03-18
 ---
-**Bands:** [YBRB](/stripes/ybrb/) · **Stripes:** [LY DB R DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB</span></span>
+In pattern [BRBY](/stripes/brby/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2590
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gem](/setts/s4/db140r11db14ly11/)
-
 
 ## Thread count
 B/64 R6 B8 Y/6

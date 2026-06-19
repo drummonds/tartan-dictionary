@@ -2,10 +2,9 @@
 title: "Minnock (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGRGRGKB](/stripes/ykgrgrgrgkb/) · **Stripes:** [LO K G R G R G R G K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K G R G R G R G K DB</span></span>
+In pattern [BKGRGRGRGKY](/stripes/bkgrgrgrgky/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3476/
 

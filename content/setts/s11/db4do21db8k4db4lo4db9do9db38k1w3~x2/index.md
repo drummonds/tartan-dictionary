@@ -2,10 +2,9 @@
 title: "Connaught Ancestry"
 date: 2023-03-18
 ---
-**Bands:** [BBBKBYBBBKW](/stripes/bbbkbybbbkw/) · **Stripes:** [DB DO DB K DB LO DB DO DB K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DO DB K DB LO DB DO DB K W</span></span>
+In pattern [BBBKBYBBBKW](/stripes/bbbkbybbbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10797
 

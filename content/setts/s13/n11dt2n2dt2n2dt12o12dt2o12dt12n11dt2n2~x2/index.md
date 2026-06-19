@@ -2,10 +2,9 @@
 title: "Scottish Scouts (1922) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBRBRBBBBBB](/stripes/bbbbrbrbbbbbb/) · **Stripes:** [N DT N DT O DT O DT N DT N DT N](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">N DT N DT O DT O DT N DT N DT N</span></span>
+In pattern [BBBBBBRBRBBBB](/stripes/bbbbbbrbrbbbb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1294/
 

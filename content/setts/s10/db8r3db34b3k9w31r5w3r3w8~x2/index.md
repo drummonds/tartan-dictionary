@@ -2,10 +2,9 @@
 title: "Stewart of Appin, dress"
 date: 2023-03-18
 ---
-**Bands:** [BRBBKWRWRW](/stripes/brbbkwrwrw/) · **Stripes:** [DB R DB B K W R W R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB B K W R W R W</span></span>
+In pattern [BRBBKWRWRW](/stripes/brbbkwrwrw/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stuart/Stewart of Appin Dress](/setts/s10/db8r3db34b3k9w31r5w3r3w8/)
-
 
 ## Thread count
 Ba/16 R6 Ba68 B6 K18 LN62 R10 LN6 R6 LN/16

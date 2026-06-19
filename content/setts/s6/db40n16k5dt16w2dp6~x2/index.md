@@ -2,10 +2,9 @@
 title: "McFarland-Collins"
 date: 2023-03-18
 ---
-**Bands:** [BBKBWB](/stripes/bbkbwb/) · **Stripes:** [DB N K DT W DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB N K DT W DP</span></span>
+In pattern [BBKBWB](/stripes/bbkbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10344
 

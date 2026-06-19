@@ -2,10 +2,9 @@
 title: "Anderson (MacGregor-Hastie #2)"
 date: 2023-03-18
 ---
-**Bands:** [RGKRKGBRKYKYKWBBKRKBR](/stripes/rgkrkgbrkykykwbbkrkbr/) · **Stripes:** [R DG K R K DG DB R K LY K LY K W DB T K R K T R](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K R K DG DB R K LY K LY K W DB T K R K T R</span></span>
+In pattern [RBKRKBBWKYKYKRBGKRKGR](/stripes/rbkrkbbwkykykrbgkrkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=78
 

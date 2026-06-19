@@ -2,10 +2,9 @@
 title: "McWilliams (2014)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKGKGKBKB](/stripes/kbkgkgkgkbkb/) · **Stripes:** [K DB K DY K DY K DY K DB K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DY K DY K DY K DB K DB</span></span>
+In pattern [BKBKGKGKGKBK](/stripes/bkbkgkgkgkbk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11154/
 

@@ -2,10 +2,9 @@
 title: "Henry (2016)"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYGWYWBWYWGYGYBWRWBWBWBWRWBYG](/stripes/ygygygwywbwywgygybwrwbwbwbwrwbyg/) · **Stripes:** [LY DG LY DG LY DG W LY W DB W LY W DG LY DG LY T W R W DB W DB W DB W R W T LY DG](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG LY DG LY DG W LY W DB W LY W DG LY DG LY T W R W DB W DB W DB W R W T LY DG</span></span>
+In pattern [GYBWRWBWBWBWRWBYGYGWYWBWYWGYGYGY](/stripes/gybwrwbwbwbwrwbygygwywbwywgygygy/).
 
-
-This was sourced from register-of-tartans.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11437
 

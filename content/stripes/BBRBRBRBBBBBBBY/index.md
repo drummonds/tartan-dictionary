@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bbrbrbrbbbbbbby/
 ---
-BBRBRBRBBBBBBBY
-
-It is a 15 band tartan.
+It is a 15 stripe tartan.
 
 
 
 ## Colour Sequence
-BBRBRBRBBBBBBBY
+
+{{< pat "BBRBRBRBBBBBBBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DT DP DT DP DT DP DT O DT O DT O DT DP <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY DT DP DT DP DT DP DT O DT O DT O DT DP</span></span>
 
 | Tartans |
 |---------------|
 | [Scottish-Shop Switzerland](/setts/s15/dp4dt1o15dt2o2dt2o2dt12dp2dt2dp2dt2dp14dt1ly4~x2/)|
 |![Scottish-Shop Switzerland example sett](/setts/s15/dp4dt1o15dt2o2dt2o2dt12dp2dt2dp2dt2dp14dt1ly4~x2/sett.png)|
-

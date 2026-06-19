@@ -2,10 +2,9 @@
 title: "Rangers Dress (Sports)"
 date: 2023-03-18
 ---
-**Bands:** [RBYBKGKBYBR](/stripes/rbybkgkbybr/) · **Stripes:** [R DB LR DB K Y K DB LR DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB LR DB K Y K DB LR DB R</span></span>
+In pattern [RBYBKGKBYBR](/stripes/rbybkgkbybr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2171/
 

@@ -2,10 +2,9 @@
 title: "Hutchesons' Grammar School"
 date: 2023-03-18
 ---
-**Bands:** [RBBRBRBBRB](/stripes/rbbrbrbbrb/) · **Stripes:** [R DT DB O T O DB DT R DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT DB O T O DB DT R DT</span></span>
+In pattern [BRBBRBRBBR](/stripes/brbbrbrbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1799
 

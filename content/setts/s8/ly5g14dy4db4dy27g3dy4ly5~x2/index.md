@@ -2,10 +2,9 @@
 title: "Invertere (Daks #2) (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGGGBGGY](/stripes/ygggbggy/) · **Stripes:** [LY DY G DY DB DY G LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DY G DY DB DY G LY</span></span>
+In pattern [YGGBGGGY](/stripes/yggbgggy/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1882/
 

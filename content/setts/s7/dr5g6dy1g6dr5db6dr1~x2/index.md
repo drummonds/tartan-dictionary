@@ -2,10 +2,9 @@
 title: "Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BGGGBBB](/stripes/bgggbbb/) · **Stripes:** [DR G DY G DR DB DR](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR G DY G DR DB DR</span></span>
+In pattern [BBBGGGB](/stripes/bbbgggb/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2107
 

@@ -2,19 +2,11 @@
 title: "Matheson Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GBGKBGBGBGBGBGKBGBGBG](/stripes/gbgkbgbgbgbgbgkbgbgbg/) · **Stripes:** [G B G K B G B G B G B G B G K B G B G B G](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G B G K B G B G B G B G B G K B G B G B G</span></span>
+In pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/693/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Matheson Hunting](/setts/s21/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g4~x2/)
-
 
 ## Thread count
 G/32 B16 G4 B4 G4 B96 K32 G16 B4 G4 B4 G16 B32 G4 B4 G4 B4 K32 G32 B8 G/8

@@ -2,10 +2,9 @@
 title: "Johnson, J.M."
 date: 2023-03-18
 ---
-**Bands:** [RGKYKWKYRKRKW](/stripes/rgkykwkyrkrkw/) · **Stripes:** [R DG K LO K W K LO R K R K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG K LO K W K LO R K R K W</span></span>
+In pattern [RGKYKWKYRKRKW](/stripes/rgkykwkyrkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1896
 

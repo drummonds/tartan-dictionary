@@ -2,10 +2,9 @@
 title: "Kennedy"
 date: 2023-03-18
 ---
-**Bands:** [RGBKBKBKBGRGRGYGB](/stripes/rgbkbkbkbgrgrgygb/) · **Stripes:** [R DG DB K DB K DB K DB DG R DG R DG LY DG DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG DB K DB K DB K DB DG R DG R DG LY DG DB</span></span>
+In pattern [BGYGRGRGBKBKBKBGR](/stripes/bgygrgrgbkbkbkbgr/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

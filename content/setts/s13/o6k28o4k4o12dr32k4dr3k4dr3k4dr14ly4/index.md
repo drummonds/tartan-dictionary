@@ -2,10 +2,9 @@
 title: "Etihad Airways"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRBKBKBKBY](/stripes/rkrkrbkbkbkby/) · **Stripes:** [O K O K O DR K DR K DR K DR LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O K O K O DR K DR K DR K DR LY</span></span>
+In pattern [RKRKRBKBKBKBY](/stripes/rkrkrbkbkbkby/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11290
 

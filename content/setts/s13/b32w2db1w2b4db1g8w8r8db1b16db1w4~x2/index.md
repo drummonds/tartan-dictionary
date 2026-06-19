@@ -2,10 +2,9 @@
 title: "Spirit of India"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBBGWRBBBW](/stripes/bwbwbbgwrbbbw/) · **Stripes:** [B W DB W B DB G W R DB B DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B W DB W B DB G W R DB B DB W</span></span>
+In pattern [BWBWBBGWRBBBW](/stripes/bwbwbbgwrbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10676
 

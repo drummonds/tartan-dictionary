@@ -2,10 +2,9 @@
 title: "MacLellan Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYYKRWRWKGY](/stripes/kyykrwrwkgy/) · **Stripes:** [K LY LG K R W R W K G LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY LG K R W R W K G LY</span></span>
+In pattern [KYYKRWRWKGY](/stripes/kyykrwrwkgy/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8236/
 

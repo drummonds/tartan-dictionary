@@ -2,10 +2,9 @@
 title: "Strathtummel District Tartan Tartan Number: 10116. Earliest known date: 26/11/2009 Strathtummel is the valley of the River Tummel which spills from Loch Rannoch to flow through serene but rugged mountains and lochs on its journey south to merge into the waters of the Tay. The summer colours are echoed in the tartan, with the purple of the heather, the blue of the mountains and the green of the ferns in the foothills, while the white stripe depicts the enduring summer snowfields - a reminder of winters past and still to come. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBWBGBGBGB](/stripes/kbkbkbwbgbgbgb/) · **Stripes:** [K DP K DP K DP W DP DG DP DG DP DG DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K DP K DP W DP DG DP DG DP DG DP</span></span>
+In pattern [BGBGBGBWBKBKBK](/stripes/bgbgbgbwbkbkbk/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10116
 

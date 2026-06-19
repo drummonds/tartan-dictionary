@@ -2,10 +2,9 @@
 title: "Portree Check"
 date: 2023-03-18
 ---
-**Bands:** [RBRYRWRRBRBW](/stripes/rbryrwrrbrbw/) · **Stripes:** [O DB O LO O W O R N O N W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O DB O LO O W O R N O N W</span></span>
+In pattern [RBRYRWRRBRBW](/stripes/rbryrwrrbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3363
 

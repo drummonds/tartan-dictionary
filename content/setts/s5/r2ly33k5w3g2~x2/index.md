@@ -2,10 +2,9 @@
 title: "Port Moresby City Pipes and Drums"
 date: 2023-03-18
 ---
-**Bands:** [RYKWG](/stripes/rykwg/) · **Stripes:** [R LY K W G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY K W G</span></span>
+In pattern [GWKYR](/stripes/gwkyr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5893
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5893](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5893)
 - Scottish Tartans World Register: 3214
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Port Moresby City Pipes & Drums](/setts/s5/r2ly36k12w3g2~x2/)
-
 
 ## Thread count
 R/4 Y66 K10 LN6 G/4

@@ -2,10 +2,9 @@
 title: "Thomas Blake Glover Corporate Tartan Tartan Number: 2416. Earliest known date: 1996 Two versions of this and it is not known at this stage which is correct. From Lochcarron 1996. According to STS 'Tartans' 1996 this was designed by Johnsons of Elgin for the Thomas Blake Glover Heritage Centre. Thomas Blake Glover was born in Fraserburgh, Scotland. He was the founder of Mitsubishi, the Japanese Mint and the Jappanese ship building industry circa 1860. His house in Nagasaki has over 2 milion visitors a year. STS wesbite version use three colours as against the four in this (original?) version. Sample in STA's Johnston Collection. Alsowoven by Lochcarron See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBBBBBBYBBBBBBYBYBB](/stripes/bybybbbbbbybbbbbbybybb/) · **Stripes:** [DR LO DR LO DR DB DR DB DR DB LO DB DR DB DR DB DR LO DR LO DR DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">DR LO DR LO DR DB DR DB DR DB LO DB DR DB DR DB DR LO DR LO DR DB</span></span>
+In pattern [BBYBYBBBBBBYBBBBBBYBYB](/stripes/bbybybbbbbbybbbbbbybyb/).
 
-
-This was sourced from house-of-tartan.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2416
 

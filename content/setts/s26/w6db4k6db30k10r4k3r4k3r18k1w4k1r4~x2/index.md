@@ -2,10 +2,9 @@
 title: "Harris (1997) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKRKRKRKBKBWBKBKRKRKRKWKR](/stripes/kwkrkrkrkbkbwbkbkrkrkrkwkr/) · **Stripes:** [K W K R K R K R K DB K DB W DB K DB K R K R K R K W K R](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K R K R K R K DB K DB W DB K DB K R K R K R K W K R</span></span>
+In pattern [KWKRKRKRKBKBWBKBKRKRKRKWKR](/stripes/kwkrkrkrkbkbwbkbkrkrkrkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1617
 

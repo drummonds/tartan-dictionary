@@ -2,10 +2,9 @@
 title: "Burnett of Powis (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRGRB](/stripes/rgygrgrb/) · **Stripes:** [R Y LY Y R Y R T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R Y LY Y R Y R T</span></span>
+In pattern [BRGRGYGR](/stripes/brgrgygr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3951/
 

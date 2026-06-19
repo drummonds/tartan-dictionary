@@ -2,10 +2,9 @@
 title: "Spens Fragment"
 date: 2023-03-18
 ---
-**Bands:** [RWBYGGBYWYBGGYBWRWBYGGBYWYBGGYBW](/stripes/rwbyggbywybggybwrwbyggbywybggybw/) · **Stripes:** [R W DB LO G G DB LO W LO DB G G LO DB W R W DB LO G G DB LO W LO DB G G LO DB W](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W DB LO G G DB LO W LO DB G G LO DB W R W DB LO G G DB LO W LO DB G G LO DB W</span></span>
+In pattern [RWBYGGBYWYBGGYBWRWBYGGBYWYBGGYBW](/stripes/rwbyggbywybggybwrwbyggbywybggybw/).
 
-
-This was sourced from register-of-tartans.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3859
 

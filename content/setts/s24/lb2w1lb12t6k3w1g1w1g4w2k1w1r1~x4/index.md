@@ -2,10 +2,9 @@
 title: "Diana Princess of Wales Memorial"
 date: 2023-03-18
 ---
-**Bands:** [WWBKWGWGWKWRWKWGWGWKBWWW](/stripes/wwbkwgwgwkwrwkwgwgwkbwww/) · **Stripes:** [W LB T K W G W G W K W R W K W G W G W K T LB W LB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W LB T K W G W G W K W R W K W G W G W K T LB W LB</span></span>
+In pattern [WWBKWGWGWKWRWKWGWGWKBWWW](/stripes/wwbkwgwgwkwrwkwgwgwkbwww/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=932
 

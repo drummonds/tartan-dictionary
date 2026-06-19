@@ -2,10 +2,9 @@
 title: "Winthrop University"
 date: 2023-03-18
 ---
-**Bands:** [RWBRBRBRYRYRYWY](/stripes/rwbrbrbryryrywy/) · **Stripes:** [R W DB R DB R DB R LY R LY R LY W LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W DB R DB R DB R LY R LY R LY W LY</span></span>
+In pattern [RWBRBRBRYRYRYWY](/stripes/rwbrbrbryryrywy/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10820
 

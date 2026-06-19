@@ -2,10 +2,9 @@
 title: "MacDuff, dress"
 date: 2023-03-18
 ---
-**Bands:** [RKRGKWRWGR](/stripes/rkrgkwrwgr/) · **Stripes:** [R K R G K W R W G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R G K W R W G R</span></span>
+In pattern [RGWRWKGRKR](/stripes/rgwrwkgrkr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

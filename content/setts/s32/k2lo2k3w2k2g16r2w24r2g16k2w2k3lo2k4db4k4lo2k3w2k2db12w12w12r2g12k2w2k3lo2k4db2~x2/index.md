@@ -2,10 +2,9 @@
 title: "Hawick Dress"
 date: 2023-03-18
 ---
-**Bands:** [KYKWKGRWRGKWKYKBKYKWKBWWRGKWKYKB](/stripes/kykwkgrwrgkwkykbkykwkbwwrgkwkykb/) · **Stripes:** [K LO K W K G R W R G K W K LO K DB K LO K W K DB W W R G K W K LO K DB](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LO K W K G R W R G K W K LO K DB K LO K W K DB W W R G K W K LO K DB</span></span>
+In pattern [BKYKWKGRWWBKWKYKBKYKWKGRWRGKWKYK](/stripes/bkykwkgrwwbkwkykbkykwkgrwrgkwkyk/).
 
-
-This was sourced from register-of-tartans.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1629
 

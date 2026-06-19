@@ -2,10 +2,9 @@
 title: "Wilson's No.158"
 date: 2023-03-18
 ---
-**Bands:** [GWGKBKBKGW](/stripes/gwgkbkbkgw/) · **Stripes:** [G W G K DP K DP K G W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G W G K DP K DP K G W</span></span>
+In pattern [GWGKBKBKGW](/stripes/gwgkbkbkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4703
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rkbkgkw/
 ---
-RKBKGKW
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/r2k1db8k8dg8k1lb2/tartan.png)
 
 
 
 ## Colour Sequence
-RKBKGKW
+
+{{< pat "RKBKGKW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K DB K DG K LB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R K DB K DG K LB</span></span>
 
 | Tartans |
 |---------------|
 | [Campbell Cawdor](/setts/s7/r2k1db8k8dg8k1lb2/)|
 |![Campbell Cawdor example sett](/setts/s7/r2k1db8k8dg8k1lb2/sett.png)|
-

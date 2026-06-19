@@ -2,10 +2,9 @@
 title: "James of Wales"
 date: 2023-03-18
 ---
-**Bands:** [KYRBYBRBRBKBRKBKRBKBRBRBYBRY](/stripes/kyrbybrbrbkbrkbkrbkbrbrbybry/) · **Stripes:** [K LO R DB LO DB R DB R DB K DB R K DB K R DB K DB R DB R DB LO DB R LO](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO R DB LO DB R DB R DB K DB R K DB K R DB K DB R DB R DB LO DB R LO</span></span>
+In pattern [KYRBYBRBRBKBRKBKRBKBRBRBYBRY](/stripes/kyrbybrbrbkbrkbkrbkbrbrbybry/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1880
 

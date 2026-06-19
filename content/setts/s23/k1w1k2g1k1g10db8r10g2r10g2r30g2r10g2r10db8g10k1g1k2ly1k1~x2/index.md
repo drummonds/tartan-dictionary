@@ -2,10 +2,9 @@
 title: "Wood Dress"
 date: 2023-03-18
 ---
-**Bands:** [KYKGKGBRGRGRGRGRBGKGKWK](/stripes/kykgkgbrgrgrgrgrbgkgkwk/) · **Stripes:** [K LY K G K G DB R G R G R G R G R DB G K G K W K](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K LY K G K G DB R G R G R G R G R DB G K G K W K</span></span>
+In pattern [KWKGKGBRGRGRGRGRBGKGKYK](/stripes/kwkgkgbrgrgrgrgrbgkgkyk/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10359
 

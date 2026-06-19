@@ -2,10 +2,9 @@
 title: "Glenshee #2"
 date: 2023-03-18
 ---
-**Bands:** [RGRGG](/stripes/rgrgg/) · **Stripes:** [R DY R DG DY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DY R DG DY</span></span>
+In pattern [GGRGR](/stripes/ggrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1438
 

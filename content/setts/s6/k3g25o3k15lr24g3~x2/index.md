@@ -2,10 +2,9 @@
 title: "Un-named (D C Dalgliesh) #3"
 date: 2023-03-18
 ---
-**Bands:** [KGRKYG](/stripes/kgrkyg/) · **Stripes:** [K G O K LR G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G O K LR G</span></span>
+In pattern [GYKRGK](/stripes/gykrgk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4409
 

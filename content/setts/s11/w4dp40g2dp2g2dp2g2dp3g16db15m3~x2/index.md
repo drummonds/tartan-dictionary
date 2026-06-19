@@ -2,10 +2,9 @@
 title: "Solway Spirit (District)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBGBGBGBW](/stripes/rbgbgbgbgbw/) · **Stripes:** [M DB G DP G DP G DP G DP W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M DB G DP G DP G DP G DP W</span></span>
+In pattern [RBGBGBGBGBW](/stripes/rbgbgbgbgbw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5808/
 

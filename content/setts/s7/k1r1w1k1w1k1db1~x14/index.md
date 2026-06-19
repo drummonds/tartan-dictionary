@@ -2,10 +2,9 @@
 title: "Bell, Border (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KRWKWKB](/stripes/krwkwkb/) · **Stripes:** [K R W K W K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K R W K W K DB</span></span>
+In pattern [BKWKWRK](/stripes/bkwkwrk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/370/
 
@@ -14,14 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/370/
 This cloth is also recorded under:
 
 - Bell, Border
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bell, South.](/setts/s7/k1r1w1k1w1k1db1~x8/)
-- [Border Bell](/setts/s7/k1r1w1k1w1k1db1~x16/)
-
 
 ## Thread count
 K/14 R14 W14 K14 W14 K14 DB/14

@@ -2,10 +2,9 @@
 title: "Clerke of Ulva Family Tartan Tartan Number: 168. Earliest known date: Unknown Said to have been copied from an old kilt. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKGKGKGB](/stripes/rbrbkgkgkgb/) · **Stripes:** [M DB M DB K G K G K G T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">M DB M DB K G K G K G T</span></span>
+In pattern [BGKGKGKBRBR](/stripes/bgkgkgkbrbr/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=168
 

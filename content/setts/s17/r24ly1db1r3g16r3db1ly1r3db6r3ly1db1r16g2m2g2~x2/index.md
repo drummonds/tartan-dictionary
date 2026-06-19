@@ -2,10 +2,9 @@
 title: "Munro Clan Tartan Tartan Number: 974. Earliest known date: 1810-15 This sett is usually regarded as the correct form of the Munro tartan. It is illustrated by Smibert and the Smith brothers (both works published in 1850). In early versions bright pink replaces the crimson between the three green lines. Munros wear the 'Black Watch' as a Hunting tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RYBRGRBYRBRYBRGRG](/stripes/rybrgrbyrbrybrgrg/) · **Stripes:** [R LY DB R G R DB LY R DB R LY DB R G M G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY DB R G R DB LY R DB R LY DB R G M G</span></span>
+In pattern [GRGRBYRBRYBRGRBYR](/stripes/grgrbyrbrybrgrbyr/).
 
-
-This was sourced from house-of-tartan.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=974
 

@@ -2,10 +2,9 @@
 title: "Begg (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBBBBB](/stripes/bgbgbbbbb/) · **Stripes:** [P G DB G DB T DB DP DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">P G DB G DB T DB DP DB</span></span>
+In pattern [BBBBBGBGB](/stripes/bbbbbgbgb/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10723/
 

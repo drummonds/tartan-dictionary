@@ -2,10 +2,9 @@
 title: "Game Fair (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GBGWGWG](/stripes/gbgwgwg/) · **Stripes:** [DG B DG W DG W DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DG B DG W DG W DG</span></span>
+In pattern [GBGWGWG](/stripes/gbgwgwg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4081/
 

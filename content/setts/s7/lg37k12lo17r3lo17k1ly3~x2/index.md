@@ -2,10 +2,9 @@
 title: "Berger-MacLaren (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKYRYKY](/stripes/ykyryky/) · **Stripes:** [LY K LO R LO K LG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LY K LO R LO K LG</span></span>
+In pattern [YKYRYKY](/stripes/ykyryky/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10058/
 

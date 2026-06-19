@@ -2,10 +2,9 @@
 title: "Sligo, County"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBB](/stripes/bybbbb/) · **Stripes:** [DO LY DO DB DO DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="seq">DO LY DO DB DO DB</span></span>
+In pattern [BBBBYB](/stripes/bbbbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3819
 

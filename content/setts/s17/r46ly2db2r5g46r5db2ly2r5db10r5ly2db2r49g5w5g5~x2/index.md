@@ -2,10 +2,9 @@
 title: "Stirling, Weavers Guild"
 date: 2023-03-18
 ---
-**Bands:** [RYBRGRBYRBRYBRGWG](/stripes/rybrgrbyrbrybrgwg/) · **Stripes:** [R LY DB R G R DB LY R DB R LY DB R G W G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY DB R G R DB LY R DB R LY DB R G W G</span></span>
+In pattern [GWGRBYRBRYBRGRBYR](/stripes/gwgrbyrbrybrgrbyr/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

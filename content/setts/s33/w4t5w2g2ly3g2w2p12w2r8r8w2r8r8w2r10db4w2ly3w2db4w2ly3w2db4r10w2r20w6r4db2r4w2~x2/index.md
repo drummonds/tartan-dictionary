@@ -2,10 +2,9 @@
 title: "Culloden, House Bed Hangings"
 date: 2023-03-18
 ---
-**Bands:** [WRBRWRWRBWYWBWYWBRWRRWRRWBWGYGWBW](/stripes/wrbrwrwrbwywbwywbrwrrwrrwbwgygwbw/) · **Stripes:** [W R DB R W R W R DB W LY W DB W LY W DB R W R R W R R W P W G LY G W T W](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R DB R W R W R DB W LY W DB W LY W DB R W R R W R R W P W G LY G W T W</span></span>
+In pattern [WBWGYGWBWRRWRRWRBWYWBWYWBRWRWRBRW](/stripes/wbwgygwbwrrwrrwrbwywbwywbrwrwrbrw/).
 
-
-This was sourced from weddslist.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

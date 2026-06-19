@@ -2,10 +2,9 @@
 title: "Callum, Brown (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRBGBGBGR](/stripes/ryryrbgbgbgr/) · **Stripes:** [O LR O LR O DB DY DB DY DB DY R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">O LR O LR O DB DY DB DY DB DY R</span></span>
+In pattern [RGBGBGBRYRYR](/stripes/rgbgbgbryryr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1187/
 

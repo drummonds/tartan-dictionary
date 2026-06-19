@@ -2,10 +2,9 @@
 title: "Graham of Montrose"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKBK](/stripes/kgwgkbk/) · **Stripes:** [K G W G K DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G W G K DB K</span></span>
+In pattern [KBKGWGK](/stripes/kbkgwgk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,14 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Graham of Montrose - 1850 (Clan)](/setts/s7/k9g9w2g9k9db9k3~x2/)
-- [MacLaggan](/setts/s7/k7g6w1g6k7db7k1~x4/)
-
 
 ## Thread count
 K/16 G16 LN4 G16 K16 B16 K/4

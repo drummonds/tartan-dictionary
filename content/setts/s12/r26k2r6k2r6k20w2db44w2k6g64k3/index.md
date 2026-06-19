@@ -2,10 +2,9 @@
 title: "Jardine, dress"
 date: 2023-03-18
 ---
-**Bands:** [KGKWBWKRKRKR](/stripes/kgkwbwkrkrkr/) · **Stripes:** [K G K W DB W K R K R K R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K W DB W K R K R K R</span></span>
+In pattern [KGKWBWKRKRKR](/stripes/kgkwbwkrkrkr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

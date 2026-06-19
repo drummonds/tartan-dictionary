@@ -2,10 +2,9 @@
 title: "Scotch Tape (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GKG](/stripes/gkg/) · **Stripes:** [G K G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G</span></span>
+In pattern [GKG](/stripes/gkg/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7782/
 

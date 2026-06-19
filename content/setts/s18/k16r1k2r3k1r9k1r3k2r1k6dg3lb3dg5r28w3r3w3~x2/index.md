@@ -2,10 +2,9 @@
 title: "Bahrain, Royal"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKRKRKGWGRWRW](/stripes/krkrkrkrkrkgwgrwrw/) · **Stripes:** [K R K R K R K R K R K DG LB DG R W R W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R K R K R K R K R K DG LB DG R W R W</span></span>
+In pattern [KRKRKRKRKRKGWGRWRW](/stripes/krkrkrkrkrkgwgrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5984
 

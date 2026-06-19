@@ -2,10 +2,9 @@
 title: "Washington Stockmens (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKRYRYRKRBRBRKRKRBRB](/stripes/rkryryrkrbrbrkrkrbrb/) · **Stripes:** [O K O LY O LY O K O DB O DB O K O K O DB O DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">O K O LY O LY O K O DB O DB O K O K O DB O DB</span></span>
+In pattern [BRBRKRKRBRBRKRYRYRKR](/stripes/brbrkrkrbrbrkryryrkr/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1995/
 

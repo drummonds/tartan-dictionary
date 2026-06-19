@@ -2,10 +2,9 @@
 title: "Loseby, Luke (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRGBRKYKRBGBGBG](/stripes/krgbrkykrbgbgbg/) · **Stripes:** [K R Y DT O K LO K O DT Y DT Y DT Y](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K R Y DT O K LO K O DT Y DT Y DT Y</span></span>
+In pattern [GBGBGBRKYKRBGRK](/stripes/gbgbgbrkykrbgrk/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11192
 

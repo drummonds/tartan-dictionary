@@ -2,10 +2,9 @@
 title: "Reid (1939)"
 date: 2023-03-18
 ---
-**Bands:** [YGWGRG](/stripes/ygwgrg/) · **Stripes:** [LY Y W Y R Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY Y W Y R Y</span></span>
+In pattern [GRGWGY](/stripes/grgwgy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3492
 

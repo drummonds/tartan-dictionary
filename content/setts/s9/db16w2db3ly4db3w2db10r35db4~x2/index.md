@@ -2,19 +2,11 @@
 title: "Mercer Personal Tartan Tartan Number: 3019. Earliest known date: 2004 Sent to House of Tartan by the owner. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBYBWB](/stripes/brbwbybwb/) · **Stripes:** [DB R DB W DB LY DB W DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB W DB LY DB W DB</span></span>
+In pattern [BRBWBYBWB](/stripes/brbwbybwb/).
 
-
-This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3019
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mercer, James (Personal)](/setts/s9/db24w3db4ly6db4w3db15r52db6/)
-
 
 ## Thread count
 DB/32 LN4 DB6 Y8 DB6 LN4 DB20 R70 DB/8

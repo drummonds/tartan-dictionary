@@ -2,10 +2,9 @@
 title: "Kilmarnock Football Club (2005)"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBBBWBWBBBBBBBB](/stripes/ybbbbbbbbwbwbbbbbbbb/) · **Stripes:** [LY DB DB DB DB DP DB DP DB W DB W DB DP DB DP DB DB DB DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB DB DB DB DP DB DP DB W DB W DB DP DB DP DB DB DB DB</span></span>
+In pattern [BBBBBBBBWBWBBBBBBBBY](/stripes/bbbbbbbbwbwbbbbbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1974
 

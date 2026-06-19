@@ -2,10 +2,9 @@
 title: "Queens University Alumni (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYBWBRRYKW](/stripes/ryrybwbrrykw/) · **Stripes:** [R LO R LO DP W DP R R LO K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LO R LO DP W DP R R LO K W</span></span>
+In pattern [RYRYBWBRRYKW](/stripes/ryrybwbrrykw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8115/
 

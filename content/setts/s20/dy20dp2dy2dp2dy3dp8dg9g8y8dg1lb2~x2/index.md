@@ -2,10 +2,9 @@
 title: "Isle of Skye"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBGGGGWGGGGBGBGB](/stripes/gbgbgbggggwggggbgbgb/) · **Stripes:** [DY DP DY DP DY DP DG G Y DG LB DG Y G DG DP DY DP DY DP](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DY DP DY DP DY DP DG G Y DG LB DG Y G DG DP DY DP DY DP</span></span>
+In pattern [BGBGBGGGGWGGGGBGBGBG](/stripes/bgbgbggggwggggbgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1868
 

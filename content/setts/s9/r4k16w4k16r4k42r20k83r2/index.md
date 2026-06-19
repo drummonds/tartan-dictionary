@@ -2,10 +2,9 @@
 title: "Brand Ambassador"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKWKR](/stripes/rkrkrkwkr/) · **Stripes:** [R K R K R K W K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K W K R</span></span>
+In pattern [RKRKRKWKR](/stripes/rkrkrkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10462
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10462
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10462](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10462)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Brand Ambassador (Corporate)](/setts/s9/r2k8w2k8r2k21r10k42r1~x2/)
-
 
 ## Thread count
 R/4 K16 W4 K16 R4 K42 R20 K83 R/2

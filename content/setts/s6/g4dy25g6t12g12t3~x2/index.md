@@ -2,10 +2,9 @@
 title: "Canadian Fancy"
 date: 2023-03-18
 ---
-**Bands:** [GGGBGB](/stripes/gggbgb/) · **Stripes:** [G DY G T G T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G DY G T G T</span></span>
+In pattern [BGBGGG](/stripes/bgbggg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=547
 

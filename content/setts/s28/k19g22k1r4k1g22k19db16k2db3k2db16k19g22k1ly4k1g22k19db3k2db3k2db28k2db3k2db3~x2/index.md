@@ -2,10 +2,9 @@
 title: "Farquharson or MacEwan Clan Tartan Tartan Number: 1967. Earliest known date: pre 2003 MacEwan in MacGregor-Hastie Collection See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKGKBKBKBKGKYKGKBKBKBKBKB](/stripes/kgkrkgkbkbkbkgkykgkbkbkbkbkb/) · **Stripes:** [K G K R K G K DB K DB K DB K G K LY K G K DB K DB K DB K DB K DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K R K G K DB K DB K DB K G K LY K G K DB K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKBKGKYKGKBKBKBKGKRKGK](/stripes/bkbkbkbkbkgkykgkbkbkbkgkrkgk/).
 
-
-This was sourced from house-of-tartan.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1967
 

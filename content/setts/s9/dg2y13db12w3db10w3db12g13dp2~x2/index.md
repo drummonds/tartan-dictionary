@@ -2,10 +2,9 @@
 title: "Mounth, The"
 date: 2023-03-18
 ---
-**Bands:** [GGBWBWBGB](/stripes/ggbwbwbgb/) · **Stripes:** [DG Y DB W DB W DB G DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG Y DB W DB W DB G DP</span></span>
+In pattern [BGBWBWBGG](/stripes/bgbwbwbgg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

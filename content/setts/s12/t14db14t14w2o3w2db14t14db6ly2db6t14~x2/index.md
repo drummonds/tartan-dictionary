@@ -2,10 +2,9 @@
 title: "Walker, Michael (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBYBBBWRWBBB](/stripes/bbybbbwrwbbb/) · **Stripes:** [T DB LY DB T DB W O W T DB T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB LY DB T DB W O W T DB T</span></span>
+In pattern [BBBWRWBBBYBB](/stripes/bbbwrwbbbybb/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6048/
 

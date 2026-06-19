@@ -2,10 +2,9 @@
 title: "Belk Heritage Hunting (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKGGYBGKGKGKG](/stripes/kykrkggybgkgkgkg/) · **Stripes:** [K LO K O K DY DG LO DB DY K DG K DY K DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LO K O K DY DG LO DB DY K DG K DY K DG</span></span>
+In pattern [GKGKGKGBYGGKRKYK](/stripes/gkgkgkgbyggkrkyk/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8927/
 

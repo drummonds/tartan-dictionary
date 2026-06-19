@@ -2,10 +2,9 @@
 title: "Stewart Old"
 date: 2023-03-18
 ---
-**Bands:** [GKBKGRKRKRBKGKGKB](/stripes/gkbkgrkrkrbkgkgkb/) · **Stripes:** [DG K DB K DG R K R K R DB K DG K DG K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DG K DB K DG R K R K R DB K DG K DG K DB</span></span>
+In pattern [BKGKGKBRKRKRGKBKG](/stripes/bkgkgkbrkrkrgkbkg/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -62,13 +61,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart Old](/setts/s17/dg12k1db2k1dg12r2k12r1k12r2db12k1dg2k1dg2k1db12/)
-
 
 ## Thread count
 DB/24 K2 G4 K2 G4 K2 DB24 R4 K24 R2 K24 R4 G24 K2 DB4 K2 G/24

@@ -2,10 +2,9 @@
 title: "Queensferry High School: Ferry Fling"
 date: 2023-03-18
 ---
-**Bands:** [WWBBWWWWW](/stripes/wwbbwwwww/) · **Stripes:** [LB W DB B LB LB LB W LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB W DB B LB LB LB W LB</span></span>
+In pattern [WWBBWWWWW](/stripes/wwbbwwwww/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10176
 

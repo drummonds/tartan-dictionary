@@ -2,10 +2,9 @@
 title: "Sillars"
 date: 2023-03-18
 ---
-**Bands:** [KBYBYBGRBRWRBRGBYBYBKG](/stripes/kbybybgrbrwrbrgbybybkg/) · **Stripes:** [K DB LY DB LY DB G R DB R W R DB R G DB LY DB LY DB K G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB LY DB LY DB G R DB R W R DB R G DB LY DB LY DB K G</span></span>
+In pattern [GKBYBYBGRBRWRBRGBYBYBK](/stripes/gkbybybgrbrwrbrgbybybk/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5083
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5083](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5083)
 - Scottish Tartans Authority (ITI): 3207
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Seller (Personal)](/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/)
-
 
 ## Thread count
 G/128 K8 DB18 Y4 DB8 Y4 DB8 G22 R16 DB4 R8 Wa6 R8 DB4 R16 G22 DB8 Y4 DB8 Y4 DB18 K/8

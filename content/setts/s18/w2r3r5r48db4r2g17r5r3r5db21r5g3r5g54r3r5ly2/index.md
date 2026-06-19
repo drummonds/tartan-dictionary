@@ -2,10 +2,9 @@
 title: "Sommerville"
 date: 2023-03-18
 ---
-**Bands:** [YRRGRGRBRRRGRBRRRW](/stripes/yrrgrgrbrrrgrbrrrw/) · **Stripes:** [LY R R G R G R DB R R R G R DB R R R W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R R G R G R DB R R R G R DB R R R W</span></span>
+In pattern [WRRRBRGRRRBRGRGRRY](/stripes/wrrrbrgrrrbrgrgrry/).
 
-
-This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sommerville](/setts/s18/w2r3r6r48db4r2g16r5r3r5db20r5g3r5g54r3r5ly2~x2/)
-
 
 ## Thread count
 Y/2 R5 Ra3 G54 Ra5 G3 Ra5 B21 R5 Ra3 R5 G17 Ra2 B4 Ra48 R5 Ra3 LN/2

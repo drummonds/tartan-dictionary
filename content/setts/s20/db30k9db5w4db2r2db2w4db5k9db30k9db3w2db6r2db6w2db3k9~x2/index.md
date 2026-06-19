@@ -2,10 +2,9 @@
 title: "Rangers F. C. Dress Corporate Tartan Tartan Number: 2171. Earliest known date: 1994 Chris Aitken designed the new 'dress' version of the Rangers F.C. tartan in 1994 to complement the existing corporate tartan which was slightly modified at the same time. The Rangers football club first introduced their clubs tartan in 1989. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBWBRBWBKBKBWBRBWBKB](/stripes/kbwbrbwbkbkbwbrbwbkb/) · **Stripes:** [K DB W DB R DB W DB K DB K DB W DB R DB W DB K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB W DB R DB W DB K DB K DB W DB R DB W DB K DB</span></span>
+In pattern [BKBWBRBWBKBKBWBRBWBK](/stripes/bkbwbrbwbkbkbwbrbwbk/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2171
 

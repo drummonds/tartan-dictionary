@@ -2,10 +2,9 @@
 title: "Georgian Bay, Waters of"
 date: 2023-03-18
 ---
-**Bands:** [RGBBWB](/stripes/rgbbwb/) · **Stripes:** [O DG T DB W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">O DG T DB W DB</span></span>
+In pattern [BWBBGR](/stripes/bwbbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10550
 

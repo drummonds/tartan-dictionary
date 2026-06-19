@@ -2,10 +2,9 @@
 title: "Collister Personal Tartan Tartan Number: 6757. Earliest known date: 2005 To commemorate the wedding of Laura Jenkins and Gary Collister in October 2005. Organised through The House of Tartan, Comrie, Perthshire and woven by D C Dalgliesh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBWBBYBBWBKBKB](/stripes/kbkbkbwbbybbwbkbkb/) · **Stripes:** [K N K N K N W N DT LO DT N W N K N K N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N K N W N DT LO DT N W N K N K N</span></span>
+In pattern [BKBKBWBBYBBWBKBKBK](/stripes/bkbkbwbbybbwbkbkbk/).
 
-
-This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6757
 

@@ -2,10 +2,9 @@
 title: "MacEwen (Clans Originaux)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKBKBKBKBKGKRKGKBKBKBKGKY](/stripes/kgkbkbkbkbkbkgkrkgkbkbkbkgky/) · **Stripes:** [K G K DB K DB K DB K DB K DB K G K R K G K DB K DB K DB K G K LY](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K G K DB K DB K DB K DB K DB K G K R K G K DB K DB K DB K G K LY</span></span>
+In pattern [KGKBKBKBKBKBKGKRKGKBKBKBKGKY](/stripes/kgkbkbkbkbkbkgkrkgkbkbkbkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2427
 

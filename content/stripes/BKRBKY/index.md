@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkrbky/
 ---
-BKRBKY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/db9k9r3db9k9ly1~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BKRBKY
+
+{{< pat "BKRBKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K DB R K DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K DB R K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Old Brigade](/setts/s6/db9k9r3db9k9ly1~x4/)|
 |![Old Brigade example sett](/setts/s6/db9k9r3db9k9ly1~x4/sett.png)|
-

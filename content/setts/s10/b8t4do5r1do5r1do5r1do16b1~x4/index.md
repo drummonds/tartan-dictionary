@@ -2,10 +2,9 @@
 title: "Flowers of the Forest, The"
 date: 2023-03-18
 ---
-**Bands:** [BBRBRBRBBB](/stripes/bbrbrbrbbb/) · **Stripes:** [B DO R DO R DO R DO T B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B DO R DO R DO R DO T B</span></span>
+In pattern [BBBRBRBRBB](/stripes/bbbrbrbrbb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10895
 

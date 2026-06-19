@@ -2,10 +2,9 @@
 title: "McAleavy (2014)"
 date: 2023-03-18
 ---
-**Bands:** [RGWWWYWYYWG](/stripes/rgwwwywyywg/) · **Stripes:** [R Y W LB W LY W LY LY LB Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y W LB W LY W LY LY LB Y</span></span>
+In pattern [GWYYWYWWWGR](/stripes/gwyywywwwgr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11170/
 

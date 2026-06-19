@@ -2,10 +2,9 @@
 title: "Gordon Dress (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [WBWBWKYKYKBKBKBKWBWBW](/stripes/wbwbwkykykbkbkbkwbwbw/) · **Stripes:** [W DB W DB W K LY K LY K DB K DB K DB K W DB W DB W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB W K LY K LY K DB K DB K DB K W DB W DB W</span></span>
+In pattern [WBWBWKBKBKBKYKYKWBWBW](/stripes/wbwbwkbkbkbkykykwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1782/
 

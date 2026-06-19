@@ -2,10 +2,9 @@
 title: "Evans of Wales"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKRKBKRKBKBKBKR](/stripes/kbkbkbkrkbkrkbkbkbkr/) · **Stripes:** [K DT K DT K DT K R K T K R K DT K DT K DT K R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DT K DT K DT K R K T K R K DT K DT K DT K R</span></span>
+In pattern [KBKBKBKRKBKRKBKBKBKR](/stripes/kbkbkbkrkbkrkbkbkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4842
 

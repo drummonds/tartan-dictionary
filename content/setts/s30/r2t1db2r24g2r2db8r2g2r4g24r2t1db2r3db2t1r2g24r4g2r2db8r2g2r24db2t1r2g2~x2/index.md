@@ -2,10 +2,9 @@
 title: "Stewart/Stuart of Appin #2"
 date: 2023-03-18
 ---
-**Bands:** [RBBRGRBRGRGRBBRBBRGRGRBRGRBBRG](/stripes/rbbrgrbrgrgrbbrbbrgrgrbrgrbbrg/) · **Stripes:** [R T DB R G R DB R G R G R T DB R DB T R G R G R DB R G R DB T R G](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R T DB R G R DB R G R G R T DB R DB T R G R G R DB R G R DB T R G</span></span>
+In pattern [GRBBRGRBRGRGRBBRBBRGRGRBRGRBBR](/stripes/grbbrgrbrgrgrbbrbbrgrgrbrgrbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3949
 

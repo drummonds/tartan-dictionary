@@ -2,10 +2,9 @@
 title: "Royal Scottish Agricultural Benevolent Institution"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGGBBGB](/stripes/gbgbggbbgb/) · **Stripes:** [Y DO Y DO Y G DO DB G DO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">Y DO Y DO Y G DO DB G DO</span></span>
+In pattern [BGBBGGBGBG](/stripes/bgbbggbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3607
 

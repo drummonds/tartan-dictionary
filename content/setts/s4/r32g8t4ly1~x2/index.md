@@ -2,10 +2,9 @@
 title: "MacLaine of Lochbuie"
 date: 2023-03-18
 ---
-**Bands:** [RGBY](/stripes/rgby/) · **Stripes:** [R G T LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G T LY</span></span>
+In pattern [RGBY](/stripes/rgby/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

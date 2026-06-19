@@ -2,10 +2,9 @@
 title: "Sibbald Blue (2014)"
 date: 2023-03-18
 ---
-**Bands:** [GBBWBWBBW](/stripes/gbbwbwbbw/) · **Stripes:** [DG DB DT W DB W DP DT W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG DB DT W DB W DP DT W</span></span>
+In pattern [GBBWBWBBW](/stripes/gbbwbwbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11024
 

@@ -18,7 +18,6 @@ date: 2023-03-18
 
 ## Families
 
-- [Drummond of Fingask](/families/drummond-of-fingask/)
 - [Drummond of Megginch](/families/drummond-of-megginch/) — seat: Megginch Castle
 - [Drummond of Perth](/families/drummond-of-perth/)
 - [Drummond of Strathallan](/families/drummond-of-strathallan/)

@@ -2,10 +2,9 @@
 title: "MacDonell of Glengarry"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRKGRGRGW](/stripes/brbrbrkgrgrgw/) · **Stripes:** [DB R DB R DB R K G R G R G W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB R DB R K G R G R G W</span></span>
+In pattern [BRBRBRKGRGRGW](/stripes/brbrbrkgrgrgw/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

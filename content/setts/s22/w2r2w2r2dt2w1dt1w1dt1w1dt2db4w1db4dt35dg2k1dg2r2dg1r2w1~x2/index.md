@@ -2,10 +2,9 @@
 title: "ASF Official (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/) · **Stripes:** [W R DG R DG K DG DT DB W DB DT W DT W DT W DT R W R W](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R DG R DG K DG DT DB W DB DT W DT W DT W DT R W R W</span></span>
+In pattern [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11223/
 

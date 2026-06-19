@@ -2,10 +2,9 @@
 title: "NHK Asaichi"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBRBRBRB](/stripes/ybbbbrbrbrb/) · **Stripes:** [LY B DR B DP R DP R DP R DR](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="seq">LY B DR B DP R DP R DP R DR</span></span>
+In pattern [BRBRBRBBBBY](/stripes/brbrbrbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11135
 

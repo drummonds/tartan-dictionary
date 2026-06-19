@@ -2,10 +2,9 @@
 title: "Kilkenny, County (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGYBRGB](/stripes/rgybrgb/) · **Stripes:** [O DG LO DB O DG DR](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">O DG LO DB O DG DR</span></span>
+In pattern [BGRBYGR](/stripes/bgrbygr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2280/
 

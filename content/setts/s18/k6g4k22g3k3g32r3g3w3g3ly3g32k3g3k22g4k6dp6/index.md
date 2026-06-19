@@ -2,10 +2,9 @@
 title: "Campbell, Marquis of Lorne"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGRGWGYGKGKGKB](/stripes/kgkgkgrgwgygkgkgkb/) · **Stripes:** [K G K G K G R G W G LY G K G K G K DP](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G K G K G R G W G LY G K G K G K DP</span></span>
+In pattern [BKGKGKGYGWGRGKGKGK](/stripes/bkgkgkgygwgrgkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=533
 

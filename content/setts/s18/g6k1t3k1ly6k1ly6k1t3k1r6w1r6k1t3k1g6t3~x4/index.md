@@ -2,10 +2,9 @@
 title: "Buchanan Old Clan Tartan Tartan Number: 1948. Earliest known date: pre 2003 The asymetrical version of Logan's count. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GKBKYKYKBKRWRKBKGB](/stripes/gkbkykykbkrwrkbkgb/) · **Stripes:** [G K T K LY K LY K T K R W R K T K G T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G K T K LY K LY K T K R W R K T K G T</span></span>
+In pattern [BGKBKRWRKBKYKYKBKG](/stripes/bgkbkrwrkbkykykbkg/).
 
-
-This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1948
 

@@ -2,10 +2,9 @@
 title: "MacPherson of Pitmain"
 date: 2023-03-18
 ---
-**Bands:** [BRKRBRWRB](/stripes/brkrbrwrb/) · **Stripes:** [DB R K R DB R W R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R K R DB R W R DB</span></span>
+In pattern [BRKRBRWRB](/stripes/brkrbrwrb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5222
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5222](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5222)
 - Scottish Tartans Authority (ITI): 3558
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson](/setts/s9/db1r1k8r1db1r1w8r1db1~x6/)
-
 
 ## Thread count
 DB/4 DR4 K32 DR4 DB4 DR4 LN32 DR4 DB/4

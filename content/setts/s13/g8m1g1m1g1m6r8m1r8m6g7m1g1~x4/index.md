@@ -2,10 +2,9 @@
 title: "MacNab (Logan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRRRRRGRGRG](/stripes/grgrrrrrgrgrg/) · **Stripes:** [G M G M R M R M G M G M G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G M G M R M R M G M G M G</span></span>
+In pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2669
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2669](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2669)
 - Scottish Tartans Authority (ITI): 857
 - Scottish Tartans World Register: 857
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNab Clan Tartan Tartan Number: 857. Earliest known date: c.1816 The structure of the MacNab is identical with that of the Black Watch; but, by a translation of colours, the most subdued of tartans becomes one of the most striking. D.C.Stewart suggests looking at the pattern through a green filter to see the effect. James Logan recorded ths pattern in his book, 'The Scottish Gael' in 1831, despite receiving a different sett from the largest weaving company of the time, William Wilson and Company, Bannockburn. Wilson's MacNab survives as an alternative tartan for the clan. James Charles MacNab of MacNab, Wester Kilmany, Fife, was recognised as chief in 1970. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/g8m1g1m1g1m6r8m1r8m6g7m1g1~x2/)
-
 
 ## Thread count
 G/32 R4 G4 R4 G4 R24 Ra32 R4 Ra32 R24 G28 R4 G/4

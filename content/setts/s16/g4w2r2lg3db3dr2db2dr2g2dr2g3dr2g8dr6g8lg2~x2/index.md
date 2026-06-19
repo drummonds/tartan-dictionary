@@ -2,10 +2,9 @@
 title: "Missouri (Proposed)"
 date: 2023-03-18
 ---
-**Bands:** [YGBGBGBGBBBBYRWG](/stripes/ygbgbgbgbbbbyrwg/) · **Stripes:** [LG G DR G DR G DR G DR DB DR DB LG R W G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LG G DR G DR G DR G DR DB DR DB LG R W G</span></span>
+In pattern [GWRYBBBBGBGBGBGY](/stripes/gwrybbbbgbgbgbgy/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8435/
 

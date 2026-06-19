@@ -2,10 +2,9 @@
 title: "Anderson, Old"
 date: 2023-03-18
 ---
-**Bands:** [RGKRKGBRKYKYKWBKRKBR](/stripes/rgkrkgbrkykykwbkrkbr/) · **Stripes:** [R G K R K G T R K LY K LY K W T K R K T R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K R K G T R K LY K LY K W T K R K T R</span></span>
+In pattern [RBKRKBWKYKYKRBGKRKGR](/stripes/rbkrkbwkykykrbgkrkgr/).
 
-
-This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

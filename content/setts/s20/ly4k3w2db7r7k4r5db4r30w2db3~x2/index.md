@@ -2,10 +2,9 @@
 title: "Hart (Texas) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWBRKRBRWBWRBRKRBWKY](/stripes/kwbrkrbrwbwrbrkrbwky/) · **Stripes:** [K W DB R K R DB R W DB W R DB R K R DB W K LY](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W DB R K R DB R W DB W R DB R K R DB W K LY</span></span>
+In pattern [KWBRKRBRWBWRBRKRBWKY](/stripes/kwbrkrbrwbwrbrkrbwky/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5345
 

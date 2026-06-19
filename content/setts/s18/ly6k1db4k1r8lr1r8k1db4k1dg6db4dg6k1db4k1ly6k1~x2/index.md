@@ -2,10 +2,9 @@
 title: "Buchanan (a)"
 date: 2023-03-18
 ---
-**Bands:** [KYKBKGBGKBKRYRKBKY](/stripes/kykbkgbgkbkryrkbky/) · **Stripes:** [K LY K DB K DG DB DG K DB K R LR R K DB K LY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY K DB K DG DB DG K DB K R LR R K DB K LY</span></span>
+In pattern [KYKBKGBGKBKRYRKBKY](/stripes/kykbkgbgkbkryrkbky/).
 
-
-This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

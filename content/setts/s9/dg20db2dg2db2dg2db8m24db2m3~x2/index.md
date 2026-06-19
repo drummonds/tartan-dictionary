@@ -2,10 +2,9 @@
 title: "Lindsay Clan Tartan Tartan Number: 704. Earliest known date: 1842 The Lindsay tartan is often first recognised by its colour, which is unusual as the precise shade of tartan colours is normally left to the discretion of the weaver. The sett is similar to Stewart of Athol, but for the black, rendered in Lindsay as dark blue. The name Lindsay first appeared in the Borders of Scotland in the 12th century. Border Clan tartans were not generally named until the publication of the romantic fiction known as the Vestiarium Scoticum. (1842). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBRBGBGBG](/stripes/rbrbgbgbg/) · **Stripes:** [M DB M DB DG DB DG DB DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">M DB M DB DG DB DG DB DG</span></span>
+In pattern [GBGBGBRBR](/stripes/gbgbgbrbr/).
 
-
-This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=704
 
@@ -14,13 +13,6 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 This cloth is also recorded under:
 
 - Lindsay
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lindsay MINI Design Tartan Tartan Number: 7111. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 704 Lindsay. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dg20db2dg2db2dg2db8m24db2m3/)
-
 
 ## Thread count
 DG/40 DB4 DG4 DB4 DG4 DB16 R48 DB4 R/6

@@ -2,10 +2,9 @@
 title: "Langara College"
 date: 2023-03-18
 ---
-**Bands:** [YWGWGYGWGWYWYYYW](/stripes/ywgwgygwgwywyyyw/) · **Stripes:** [LR W Y W Y LO Y W Y W LR W LR LO LR W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR W Y W Y LO Y W Y W LR W LR LO LR W</span></span>
+In pattern [WYYYWYWGWGYGWGWY](/stripes/wyyywywgwgygwgwy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10847
 

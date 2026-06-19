@@ -2,10 +2,9 @@
 title: "Cockburn"
 date: 2023-03-18
 ---
-**Bands:** [RKGKYKBKYKBKGKGKG](/stripes/rkgkykbkykbkgkgkg/) · **Stripes:** [R K DG K LY K DB K LR K DB K DG K DG K DG](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K DG K LY K DB K LR K DB K DG K DG K DG</span></span>
+In pattern [GKGKGKBKYKBKYKGKR](/stripes/gkgkgkbkykbkykgkr/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cockburn](/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2/)
-
 
 ## Thread count
 DG/72 K2 DG2 K2 DG2 K2 DB24 K2 N2 K2 DB24 K2 LG2 K2 DG24 K4 DR/4

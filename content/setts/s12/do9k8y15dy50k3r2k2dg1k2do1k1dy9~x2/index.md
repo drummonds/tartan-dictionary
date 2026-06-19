@@ -2,10 +2,9 @@
 title: "Tomatin Distillery"
 date: 2023-03-18
 ---
-**Bands:** [GKBKGKRKGGKB](/stripes/gkbkgkrkggkb/) · **Stripes:** [DY K DO K DG K R K DY Y K DO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">DY K DO K DG K R K DY Y K DO</span></span>
+In pattern [BKGGKRKGKBKG](/stripes/bkggkrkgkbkg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11480
 

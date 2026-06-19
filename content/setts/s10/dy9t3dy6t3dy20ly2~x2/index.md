@@ -2,10 +2,9 @@
 title: "Oman, Sultanate of / Oliver dress"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGYGBGB](/stripes/gbgbgygbgb/) · **Stripes:** [DY T DY T DY LY DY T DY T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">DY T DY T DY LY DY T DY T</span></span>
+In pattern [BGBGYGBGBG](/stripes/bgbgygbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3245
 

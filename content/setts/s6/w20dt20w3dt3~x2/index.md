@@ -2,10 +2,9 @@
 title: "Barbie's Moss Plaid (Blue & White)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBW](/stripes/bwbwbw/) · **Stripes:** [DT W DT W DT W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT W DT W DT W</span></span>
+In pattern [BWBWBW](/stripes/bwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=211
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [211](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=211)
 - Scottish Tartans Authority (ITI): 630
 - Scottish Tartans World Register: 630
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacMugen](/setts/s6/dt3w16dt4w3dt12w2~x3/)
-
 
 ## Thread count
 DB/6 W6 DB40 W40 DB40 W/6

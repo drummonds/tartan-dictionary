@@ -2,10 +2,9 @@
 title: "Covington, Christopher (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKBKWKBKBWB](/stripes/kwkbkwkbkbwb/) · **Stripes:** [K W K DB K W K DB K DB LT DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K DB K W K DB K DB LT DB</span></span>
+In pattern [BWBKBKWKBKWK](/stripes/bwbkbkwkbkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11017
 

@@ -2,10 +2,9 @@
 title: "New York Caledonian Club Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRKWRWBR](/stripes/rbrbrkwrwbr/) · **Stripes:** [R DB R DB R K LB R LB DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB R K LB R LB DB R</span></span>
+In pattern [RBRBRKWRWBR](/stripes/rbrbrkwrwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11281
 

@@ -2,10 +2,9 @@
 title: "Skene N"
 date: 2023-03-18
 ---
-**Bands:** [KRGKGKGKRKBK](/stripes/krgkgkgkrkbk/) · **Stripes:** [K R DG K Y K DG K R K DB K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K R DG K Y K DG K R K DB K</span></span>
+In pattern [KBKRKGKGKGRK](/stripes/kbkrkgkgkgrk/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Skene N](/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4/)
-
 
 ## Thread count
 K/8 DB48 K8 DR6 K8 DG48 K8 T6 K8 DG48 DR6 K/8

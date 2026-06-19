@@ -2,10 +2,9 @@
 title: "Banatherton Union"
 date: 2023-03-18
 ---
-**Bands:** [YYYWWYYYWW](/stripes/yyywwyyyww/) · **Stripes:** [LG LR LY LB W LG LR LY LB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG LR LY LB W LG LR LY LB W</span></span>
+In pattern [WWYYYWWYYY](/stripes/wwyyywwyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11088
 

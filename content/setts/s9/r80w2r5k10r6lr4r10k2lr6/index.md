@@ -2,10 +2,9 @@
 title: "Hampden-Sydney College"
 date: 2023-03-18
 ---
-**Bands:** [RWRKRYRKY](/stripes/rwrkryrky/) · **Stripes:** [R W R K R LR R K LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R W R K R LR R K LR</span></span>
+In pattern [RWRKRYRKY](/stripes/rwrkryrky/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10868
 

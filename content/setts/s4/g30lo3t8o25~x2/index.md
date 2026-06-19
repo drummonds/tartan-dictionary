@@ -2,10 +2,9 @@
 title: "Dohmen Family (Zuid-Nederland)"
 date: 2023-03-18
 ---
-**Bands:** [RBYG](/stripes/rbyg/) · **Stripes:** [O T LO G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O T LO G</span></span>
+In pattern [GYBR](/stripes/gybr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10665
 

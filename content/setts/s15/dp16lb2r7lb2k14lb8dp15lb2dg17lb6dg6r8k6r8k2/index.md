@@ -2,10 +2,9 @@
 title: "Huntly Old"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGWGWBWKWRWB](/stripes/krkrgwgwbwkwrwb/) · **Stripes:** [K R K R DG LB DG LB DP LB K LB R LB DP](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K R K R DG LB DG LB DP LB K LB R LB DP</span></span>
+In pattern [BWRWKWBWGWGRKRK](/stripes/bwrwkwbwgwgrkrk/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

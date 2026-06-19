@@ -2,10 +2,9 @@
 title: "Sutherland of Duffus"
 date: 2023-03-18
 ---
-**Bands:** [YYYKYKYWRWYKYKYYYY](/stripes/yyykykywrwykykyyyy/) · **Stripes:** [LO LY LO K LO K LO LB R LB LO K LO K LO LY LO LY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LO LY LO K LO K LO LB R LB LO K LO K LO LY LO LY</span></span>
+In pattern [YYYKYKYWRWYKYKYYYY](/stripes/yyykykywrwykykyyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5355
 

@@ -2,10 +2,9 @@
 title: "MacLachlan Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KGKGBRBRBKGKGKG](/stripes/kgkgbrbrbkgkgkg/) · **Stripes:** [K G K G DB R DB R DB K G K G K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G DB R DB R DB K G K G K G</span></span>
+In pattern [GKGKGKBRBRBGKGK](/stripes/gkgkgkbrbrbgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2588
 

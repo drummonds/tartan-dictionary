@@ -2,10 +2,9 @@
 title: "Wcwm 9275-1626"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBBRGRB](/stripes/grbrbbrgrb/) · **Stripes:** [Y R DO R B DO R Y R DO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">Y R DO R B DO R Y R DO</span></span>
+In pattern [BRGRBBRBRG](/stripes/brgrbbrbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4574
 

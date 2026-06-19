@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gygwgr/
 ---
-GYGWGR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/g2lo1g12lb6g12r1~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GYGWGR
+
+{{< pat "GYGWGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R G LB G LO G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G LB G LO G</span></span>
 
 | Tartans |
 |---------------|
 | [City of Vancouver (Commemorative)](/setts/s6/g2lo1g12lb6g12r1~x4/)|
 |![City of Vancouver (Commemorative) example sett](/setts/s6/g2lo1g12lb6g12r1~x4/sett.png)|
-

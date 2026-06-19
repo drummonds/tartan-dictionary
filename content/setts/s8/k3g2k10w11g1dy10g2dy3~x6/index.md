@@ -2,10 +2,9 @@
 title: "Dalveen (1981)"
 date: 2023-03-18
 ---
-**Bands:** [KGKWGGGG](/stripes/kgkwgggg/) · **Stripes:** [K G K W G DY G DY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K G K W G DY G DY</span></span>
+In pattern [GGGGWKGK](/stripes/ggggwkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=882
 

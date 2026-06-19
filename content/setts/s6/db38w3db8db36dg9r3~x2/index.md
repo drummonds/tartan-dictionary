@@ -2,10 +2,9 @@
 title: "Waters of Georgian Bay (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGBBWB](/stripes/rgbbwb/) · **Stripes:** [R DG DB DB W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG DB DB W DB</span></span>
+In pattern [BWBBGR](/stripes/bwbbgr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10550/
 

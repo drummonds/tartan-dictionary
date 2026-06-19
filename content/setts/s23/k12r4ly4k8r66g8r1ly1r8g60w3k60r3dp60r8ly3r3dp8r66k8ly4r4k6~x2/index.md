@@ -2,10 +2,9 @@
 title: "Hay"
 date: 2023-03-18
 ---
-**Bands:** [KRYKRGRYRGWKRBRYRBRKYRK](/stripes/krykrgryrgwkrbryrbrkyrk/) · **Stripes:** [K R LY K R G R LY R G W K R DP R LY R DP R K LY R K](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R LY K R G R LY R G W K R DP R LY R DP R K LY R K</span></span>
+In pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
 
-
-This was sourced from logan-1831.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from logan-1831.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,13 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Hay** name adjusted Logan's counts: [Hay](/setts/s14/r6g4y2g17r2g2r2g8r26g6r4k2r4w6~g285800-k101010-rc80000-we0e0e0-yd8b000~x2/); [Hay & Leith #2](/setts/s42/k7r3y2r60g7r2y2r7g50w2k50r2b50r7y2r2b7r60k7y2r3k7r3y2k7r60b7r2y2r7b50r2k50w2g50r7y2r2g7r60y2r3~b003c64-g006818-k101010-rc80000-wfcfcfc-ye8c000/); [Hay or Leith](/setts/s22/b41r2k42w2g41r3y2r3g3r31k3y2r3k5r3y2k3r31b3r3y2r3~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/); [Hay or Stewart](/setts/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~g285800-k101010-rc80000-we0e0e0-ye8c000~x2/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hay or Leith Clan Tartan Tartan Number: 1215. Earliest known date: 1810-15 Also recorded by Logan and Wilson in the Wilson's pattern books. The Hay Leith connection is believed to have come about through a marriage between the two families. At Delgattie Castle, Turriff, there is a Clan Hay centre and Leith Hall, home of the Leith-Hays, is owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s23/k3r1ly1k2r16dp2r1ly1r2dp15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/)
-
 
 ## Thread count
 K/24 R8 Y8 K16 R132 G16 R2 Y2 R16 G120 LN6 K120 R6 P120 R16 Y6 R6 P16 R132 K16 Y8 R8 K/12

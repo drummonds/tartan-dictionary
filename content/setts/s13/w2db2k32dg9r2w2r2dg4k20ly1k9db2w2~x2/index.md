@@ -2,10 +2,9 @@
 title: "Nova Scotia Medical Examiner Service"
 date: 2023-03-18
 ---
-**Bands:** [WBKYKGRWRGKBW](/stripes/wbkykgrwrgkbw/) · **Stripes:** [W DB K LY K DG R W R DG K DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB K LY K DG R W R DG K DB W</span></span>
+In pattern [WBKGRWRGKYKBW](/stripes/wbkgrwrgkykbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11375
 

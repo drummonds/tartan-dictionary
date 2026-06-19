@@ -2,10 +2,9 @@
 title: "Heart of Alba"
 date: 2023-03-18
 ---
-**Bands:** [RRGBBKGRRGBBKG](/stripes/rrgbbkgrrgbbkg/) · **Stripes:** [R O DG T DB K DG O R DG T DB K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R O DG T DB K DG O R DG T DB K DG</span></span>
+In pattern [GKBBGRRGKBBGRR](/stripes/gkbbgrrgkbbgrr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11507
 

@@ -2,10 +2,9 @@
 title: "Wcwm 1586"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBWKRKRKRWRWRWB](/stripes/brbwbwkrkrkrwrwrwb/) · **Stripes:** [B O B W B W K O K O K O W O W O W B](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B O B W B W K O K O K O W O W O W B</span></span>
+In pattern [BRBWBWKRKRKRWRWRWB](/stripes/brbwbwkrkrkrwrwrwb/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4534
 

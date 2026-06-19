@@ -2,10 +2,9 @@
 title: "Unidentified, Phyllis Gordon"
 date: 2023-03-18
 ---
-**Bands:** [KGRGYGWGRGKBKGKWKGKB](/stripes/kgrgygwgrgkbkgkwkgkb/) · **Stripes:** [K G R G LY G W G R G K DP K G K W K G K DP](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G R G LY G W G R G K DP K G K W K G K DP</span></span>
+In pattern [BKGKWKGKBKGRGWGYGRGK](/stripes/bkgkwkgkbkgrgwgygrgk/).
 
-
-This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

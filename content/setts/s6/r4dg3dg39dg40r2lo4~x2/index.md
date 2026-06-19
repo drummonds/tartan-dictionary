@@ -2,10 +2,9 @@
 title: "McGeorge (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGGGRY](/stripes/rgggry/) · **Stripes:** [R DG DG DG R LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R DG DG DG R LO</span></span>
+In pattern [RGGGRY](/stripes/rgggry/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2884
 

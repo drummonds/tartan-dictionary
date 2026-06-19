@@ -2,10 +2,9 @@
 title: "Braemar Castle"
 date: 2023-03-18
 ---
-**Bands:** [RKYYBKRKY](/stripes/rkyybkrky/) · **Stripes:** [R K LY LO DO K R K LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K LY LO DO K R K LY</span></span>
+In pattern [RKYYBKRKY](/stripes/rkyybkrky/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=333
 

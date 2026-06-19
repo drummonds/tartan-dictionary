@@ -2,10 +2,9 @@
 title: "Colin Wesley Webster"
 date: 2023-03-18
 ---
-**Bands:** [KKKKKKKKKK](/stripes/kkkkkkkkkk/) · **Stripes:** [K K K K K K K K K K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">K K K K K K K K K K</span></span>
+In pattern [KKKKKKKKKK](/stripes/kkkkkkkkkk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10119
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10119
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10119](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10119)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [City of Armadale Australian District Tartan Tartan Number: 5868. Earliest known date: pre 2003 No details known. City of Armadale is in Western Australia. Strictly speaking this should not be categorised as District without documented authorisation from a local government or business body for the area concerned. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k21k2k2k2k3k15k29k2k2k4~x2/)
-
 
 ## Thread count
 K/200 P10 K8 P6 K4 G2 K4 P4 K8 P/10

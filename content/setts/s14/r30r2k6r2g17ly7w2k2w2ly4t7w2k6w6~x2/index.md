@@ -2,10 +2,9 @@
 title: "Dundee"
 date: 2023-03-18
 ---
-**Bands:** [RRKRGYWKWYBWKW](/stripes/rrkrgywkwybwkw/) · **Stripes:** [R R K R G LY W K W LY T W K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R R K R G LY W K W LY T W K W</span></span>
+In pattern [RRKRGYWKWYBWKW](/stripes/rrkrgywkwybwkw/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

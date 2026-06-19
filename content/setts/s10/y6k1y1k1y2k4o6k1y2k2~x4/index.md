@@ -2,10 +2,9 @@
 title: "Tyndrum"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKGKGKG](/stripes/kgkrkgkgkg/) · **Stripes:** [K Y K O K Y K Y K Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y K O K Y K Y K Y</span></span>
+In pattern [GKGKGKRKGK](/stripes/gkgkgkrkgk/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

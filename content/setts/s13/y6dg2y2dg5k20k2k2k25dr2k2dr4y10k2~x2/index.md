@@ -2,10 +2,9 @@
 title: "Strathtay District Tartan Tartan Number: 10115. Earliest known date: 26/11/2009 Strathtay, the valley of the River Tay, Scotland’s longest river, cuts its way majestically through from the Highlands down into Central Scotland, finally passing through Perth and Dundee, and flowing out into the North Sea. The tartan is influenced by the dramatic autumn colours of the wooded banks in the upper reaches of the river valley, with the olive greens and reds of the leaves cut by the silver blue and the green of the river as it flows swiftly through to the more pastoral waters of the estuary. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGBKBKKKKGGGG](/stripes/kgbkbkkkkgggg/) · **Stripes:** [K Y DR K DR K K K K DG Y DG Y](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y DR K DR K K K K DG Y DG Y</span></span>
+In pattern [GGGGKKKKBKBGK](/stripes/ggggkkkkbkbgk/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10115
 

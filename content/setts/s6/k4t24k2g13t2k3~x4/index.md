@@ -2,10 +2,9 @@
 title: "Vance (Family Association) Corporate Family Tartan Tartan Number: 2208. Earliest known date: December 1994 Designed and Copyrighted in the US by Mark W. Vance. Details from Vance Family Association website. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKGBK](/stripes/kbkgbk/) · **Stripes:** [K T K G T K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K T K G T K</span></span>
+In pattern [KBGKBK](/stripes/kbgkbk/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2208
 

@@ -2,10 +2,9 @@
 title: "Mounth, The"
 date: 2023-03-18
 ---
-**Bands:** [GRBWBWBGB](/stripes/grbwbwbgb/) · **Stripes:** [G O B W B W B G DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G O B W B W B G DP</span></span>
+In pattern [BGBWBWBRG](/stripes/bgbwbwbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3032
 

@@ -2,10 +2,9 @@
 title: "Chattan"
 date: 2023-03-18
 ---
-**Bands:** [RKWGWYRKRYWGWKRY](/stripes/rkwgwyrkrywgwkry/) · **Stripes:** [R K W G W LY R K R LY W G W K R LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K W G W LY R K R LY W G W K R LY</span></span>
+In pattern [RKWGWYRKRYWGWKRY](/stripes/rkwgwyrkrywgwkry/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

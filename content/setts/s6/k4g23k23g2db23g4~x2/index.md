@@ -2,10 +2,9 @@
 title: "MacKay (Logan)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGBG](/stripes/kgkgbg/) · **Stripes:** [K G K G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G DB G</span></span>
+In pattern [GBGKGK](/stripes/gbgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2500
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2500](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2500)
 - Scottish Tartans Authority (ITI): 703
 - Scottish Tartans World Register: 703
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKay](/setts/s6/k3g14k14g2db14g3~x2/)
-
 
 ## Thread count
 K/8 G46 K46 G4 DB46 G/8

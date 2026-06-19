@@ -2,10 +2,9 @@
 title: "Swankie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBGGKRB](/stripes/kbggkrb/) · **Stripes:** [K B DY Y K R B](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B DY Y K R B</span></span>
+In pattern [BRKGGBK](/stripes/brkggbk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2481/
 

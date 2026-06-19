@@ -2,10 +2,9 @@
 title: "King George VI (Green Stewart)"
 date: 2023-03-18
 ---
-**Bands:** [GBKYKWKGRKRWRKRGKWKYKB](/stripes/gbkykwkgrkrwrkrgkwkykb/) · **Stripes:** [G B K LY K W K G R K R W R K R G K W K LY K B](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G B K LY K W K G R K R W R K R G K W K LY K B</span></span>
+In pattern [BKYKWKGRKRWRKRGKWKYKBG](/stripes/bkykwkgrkrwrkrgkwkykbg/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1985
 

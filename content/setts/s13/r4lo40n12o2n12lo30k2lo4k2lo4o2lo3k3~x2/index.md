@@ -2,10 +2,9 @@
 title: "Bartlett (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYRYKYKYBRBYR](/stripes/kyrykykybrbyr/) · **Stripes:** [K LO O LO K LO K LO N O N LO R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LO O LO K LO K LO N O N LO R</span></span>
+In pattern [KYRYKYKYBRBYR](/stripes/kyrykykybrbyr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10553/
 

@@ -2,10 +2,9 @@
 title: "Highland Granite"
 date: 2023-03-18
 ---
-**Bands:** [BGBKBKBKBB](/stripes/bgbkbkbkbb/) · **Stripes:** [DO Y DO K N K N K N DO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="seq">DO Y DO K N K N K N DO</span></span>
+In pattern [BBKBKBKBGB](/stripes/bbkbkbkbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1709
 

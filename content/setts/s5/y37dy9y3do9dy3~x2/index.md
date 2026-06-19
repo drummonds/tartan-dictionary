@@ -2,10 +2,9 @@
 title: "Glen Boig Trade Tartan Tartan Number: 915. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GGGBG](/stripes/gggbg/) · **Stripes:** [Y DY Y DO DY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">Y DY Y DO DY</span></span>
+In pattern [GBGGG](/stripes/gbggg/).
 
-
-This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=915
 

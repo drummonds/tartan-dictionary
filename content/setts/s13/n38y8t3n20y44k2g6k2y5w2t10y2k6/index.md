@@ -2,10 +2,9 @@
 title: "Giants Causeway, The"
 date: 2023-03-18
 ---
-**Bands:** [KGBWGKGKGBBGB](/stripes/kgbwgkgkgbbgb/) · **Stripes:** [K Y T W Y K G K Y N T Y N](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="seq">K Y T W Y K G K Y N T Y N</span></span>
+In pattern [BGBBGKGKGWBGK](/stripes/bgbbgkgkgwbgk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10430
 

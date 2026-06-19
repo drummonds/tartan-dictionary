@@ -2,10 +2,9 @@
 title: "Stevens #4"
 date: 2023-03-18
 ---
-**Bands:** [BYKYKWKRBKBW](/stripes/bykykwkrbkbw/) · **Stripes:** [P LY K LO K W K O P K P W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">P LY K LO K W K O P K P W</span></span>
+In pattern [BYKYKWKRBKBW](/stripes/bykykwkrbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3923
 

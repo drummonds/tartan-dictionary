@@ -2,10 +2,9 @@
 title: "C-Tec N.I. Ltd"
 date: 2023-03-18
 ---
-**Bands:** [KBWY](/stripes/kbwy/) · **Stripes:** [K DB W LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K DB W LY</span></span>
+In pattern [KBWY](/stripes/kbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11419
 

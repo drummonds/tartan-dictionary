@@ -2,10 +2,9 @@
 title: "Stuart/Stewart - Prince Charles Edward"
 date: 2023-03-18
 ---
-**Bands:** [RYBYBWBYRBRWRBRYBWBYBY](/stripes/rybybwbyrbrwrbrybwbyby/) · **Stripes:** [R LG DT LY DT W DT LG R DT R W R DT R LG DT W DT LY DT LG](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#82D67A"></span><span class="seq">R LG DT LY DT W DT LG R DT R W R DT R LG DT W DT LY DT LG</span></span>
+In pattern [RYBYBWBYRBRWRBRYBWBYBY](/stripes/rybybwbyrbrwrbrybwbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3991
 

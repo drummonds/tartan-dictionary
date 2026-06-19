@@ -2,10 +2,9 @@
 title: "Meiji Rugby 1923"
 date: 2023-03-18
 ---
-**Bands:** [BWBBWBWBWBBBW](/stripes/bwbbwbwbwbbbw/) · **Stripes:** [P W P DB W DB W DB W DB P DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">P W P DB W DB W DB W DB P DB W</span></span>
+In pattern [BWBBWBWBWBBBW](/stripes/bwbbwbwbwbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10037
 

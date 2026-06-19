@@ -2,10 +2,9 @@
 title: "Baird (Modern)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGBGB](/stripes/bkbkgbgb/) · **Stripes:** [DB K DB K G DP G DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB K DB K G DP G DP</span></span>
+In pattern [BGBGKBKB](/stripes/bgbgkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=168
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [168](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=168)
 - Scottish Tartans Authority (ITI): 104
 - Scottish Tartans World Register: 104
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Baird Clan Tartan Tartan Number: 104. Earliest known date: 1906 This tartan is first recorded in Johnston's work of 1906, and the sample from the Highland Society of London probably dates from the same period. In both these early references the triple stripes are rendered in red. Today, however, they are generally woven in purple. The name originates from 'bard' meaning poet. The Bairds owned estates in Aberdeenshire which were later purchased by the Gordons. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db3k2db8k8g8dp1g1dp3~x2/)
-
 
 ## Thread count
 DB/12 K8 DB32 K32 G32 P4 G4 P/12

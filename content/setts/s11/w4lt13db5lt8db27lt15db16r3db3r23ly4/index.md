@@ -2,10 +2,9 @@
 title: "Shanghai Scottish"
 date: 2023-03-18
 ---
-**Bands:** [YRBRBWBWBWW](/stripes/yrbrbwbwbww/) · **Stripes:** [LY R DB R DB LT DB LT DB LT W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R DB R DB LT DB LT DB LT W</span></span>
+In pattern [WWBWBWBRBRY](/stripes/wwbwbwbrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10688
 

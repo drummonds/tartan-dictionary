@@ -2,10 +2,9 @@
 title: "West Point"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRYR](/stripes/krkrkryr/) · **Stripes:** [K O K O K O LY O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K O K O LY O</span></span>
+In pattern [KRKRKRYR](/stripes/krkrkryr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4604
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4604](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4604)
 - Scottish Tartans Authority (ITI): 1130
 - Scottish Tartans World Register: 1130
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [West Point Military Academy (Mil.)](/setts/s8/k10o1k2o1k4o10ly1o2~x4/)
-
 
 ## Thread count
 K/78 N6 K6 N6 K24 N60 Y6 N/6

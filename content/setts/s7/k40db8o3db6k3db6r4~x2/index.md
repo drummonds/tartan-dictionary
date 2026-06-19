@@ -2,10 +2,9 @@
 title: "Edinburgh and Lothian Tourist Board"
 date: 2023-03-18
 ---
-**Bands:** [KBRBKBR](/stripes/kbrbkbr/) · **Stripes:** [K DB O DB K DB R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB O DB K DB R</span></span>
+In pattern [KBRBKBR](/stripes/kbrbkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1076
 

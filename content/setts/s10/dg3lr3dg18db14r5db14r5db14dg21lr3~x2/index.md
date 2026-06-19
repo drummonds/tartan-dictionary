@@ -2,10 +2,9 @@
 title: "Hamilton of Clayton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGBRBRBGYG](/stripes/ygbrbrbgyg/) · **Stripes:** [LR DG DB R DB R DB DG LR DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">LR DG DB R DB R DB DG LR DG</span></span>
+In pattern [GYGBRBRBGY](/stripes/gygbrbrbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1580
 

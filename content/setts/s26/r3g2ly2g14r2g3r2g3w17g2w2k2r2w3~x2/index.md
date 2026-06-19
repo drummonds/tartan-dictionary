@@ -2,10 +2,9 @@
 title: "Hay, White Dress"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRGRGWGWKRWRKWGWGRGRGYG](/stripes/rgygrgrgwgwkrwrkwgwgrgrgyg/) · **Stripes:** [R G LY G R G R G W G W K R W R K W G W G R G R G LY G](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G LY G R G R G W G W K R W R K W G W G R G R G LY G</span></span>
+In pattern [GYGRGRGWGWKRWRKWGWGRGRGYGR](/stripes/gygrgrgwgwkrwrkwgwgrgrgygr/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1635
 

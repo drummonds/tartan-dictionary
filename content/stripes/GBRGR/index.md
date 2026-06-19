@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/gbrgr/
 ---
-GBRGR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/r5dg3r18db18dg3~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GBRGR
+
+{{< pat "GBRGR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R DG R DB DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DB DG</span></span>
 
 | Tartans |
 |---------------|
 | [Wotherspoon](/setts/s5/r5dg3r18db18dg3~x4/)|
 |![Wotherspoon example sett](/setts/s5/r5dg3r18db18dg3~x4/sett.png)|
-
-### R G R DB G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R DB G</span></span>
-
-| Tartans |
-|---------------|
 | [Wotherspoon](/setts/s5/r12g8r54db45g6/)|
 |![Wotherspoon example sett](/setts/s5/r12g8r54db45g6/sett.png)|
-

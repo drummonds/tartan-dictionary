@@ -2,10 +2,9 @@
 title: "MacGregor of Cardney"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKW](/stripes/rgrgkw/) · **Stripes:** [M G M G K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M G M G K W</span></span>
+In pattern [RGRGKW](/stripes/rgrgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2457
 

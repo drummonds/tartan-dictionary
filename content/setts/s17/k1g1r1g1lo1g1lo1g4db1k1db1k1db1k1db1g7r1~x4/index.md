@@ -2,10 +2,9 @@
 title: "Myron"
 date: 2023-03-18
 ---
-**Bands:** [KGRGYGYGBKBKBKBGR](/stripes/kgrgygygbkbkbkbgr/) · **Stripes:** [K G R G LO G LO G DB K DB K DB K DB G R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G R G LO G LO G DB K DB K DB K DB G R</span></span>
+In pattern [KGRGYGYGBKBKBKBGR](/stripes/kgrgygygbkbkbkbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086
 

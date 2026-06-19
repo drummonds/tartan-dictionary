@@ -2,10 +2,9 @@
 title: "Buglass"
 date: 2023-03-18
 ---
-**Bands:** [YGYGRGRGRGYGW](/stripes/ygygrgrgrgygw/) · **Stripes:** [LO G LO G O G O G O DG LY DG W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO G LO G O G O G O DG LY DG W</span></span>
+In pattern [WGYGRGRGRGYGY](/stripes/wgygrgrgrgygy/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Renton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBBKGKBBKGKGKRKRGR](/stripes/kbbkgkbbkgkgkrkrgr/) · **Stripes:** [K DT N K DY K N DT K DY K DY K R K O DY O](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K DT N K DY K N DT K DY K DY K R K O DY O</span></span>
+In pattern [KBBKGKBBKGKGKRKRGR](/stripes/kbbkgkbbkgkgkrkrgr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7192/
 

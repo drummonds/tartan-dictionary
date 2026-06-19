@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbybbrb/
 ---
-BBBYBBRB
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/db9b2db2ly1b7db2r1b4~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BBBYBBRB
+
+{{< pat "BBBYBBRB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### B R DB B LY DB B DB <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B R DB B LY DB B DB</span></span>
 
 | Tartans |
 |---------------|
 | [Mercer, Charles](/setts/s8/db9b2db2ly1b7db2r1b4~x4/)|
 |![Mercer, Charles example sett](/setts/s8/db9b2db2ly1b7db2r1b4~x4/sett.png)|
-

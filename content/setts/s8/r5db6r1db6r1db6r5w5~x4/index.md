@@ -2,10 +2,9 @@
 title: "U.S. Coast Guard"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRW](/stripes/rbrbrbrw/) · **Stripes:** [R DB R DB R DB R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB R DB R DB R W</span></span>
+In pattern [RBRBRBRW](/stripes/rbrbrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4184
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4184](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4184)
 - Scottish Tartans Authority (ITI): 4068
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hamilton](/setts/s8/r15db8r2db8r2db8r15w2~x4/)
-
 
 ## Thread count
 R/20 DB24 R4 DB24 R4 DB24 R20 LN/20

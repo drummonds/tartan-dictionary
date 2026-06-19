@@ -2,10 +2,9 @@
 title: "Anglicare"
 date: 2023-03-18
 ---
-**Bands:** [BWBKBKBBWWRW](/stripes/bwbkbkbbwwrw/) · **Stripes:** [DB W DB K DB K DB DB LT W R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB K DB K DB DB LT W R W</span></span>
+In pattern [BWBKBKBBWWRW](/stripes/bwbkbkbbwwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10485
 

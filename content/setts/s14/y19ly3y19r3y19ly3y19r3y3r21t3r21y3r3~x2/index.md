@@ -2,10 +2,9 @@
 title: "Burnett of Powis (Modern) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRGRGYGRGYG](/stripes/rgrbrgrgygrgyg/) · **Stripes:** [R Y R T R Y R Y LY Y R Y LY Y](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y R T R Y R Y LY Y R Y LY Y</span></span>
+In pattern [GYGRGYGRGRBRGR](/stripes/gygrgygrgrbrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4948
 

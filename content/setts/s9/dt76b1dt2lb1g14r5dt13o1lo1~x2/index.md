@@ -2,10 +2,9 @@
 title: "Royal Canadian Mounted Police"
 date: 2023-03-18
 ---
-**Bands:** [YRBRGWBBB](/stripes/yrbrgwbbb/) · **Stripes:** [LO O DT R G LB DT B DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="seq">LO O DT R G LB DT B DT</span></span>
+In pattern [BBBWGRBRY](/stripes/bbbwgrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3594
 

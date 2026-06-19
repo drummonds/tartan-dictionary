@@ -2,10 +2,9 @@
 title: "Calgary, University of (Estimated Threadcount)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRKRKRY](/stripes/rkrkrkrkrkry/) · **Stripes:** [R K R K R K R K R K R LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K R K R K R K R K R LY</span></span>
+In pattern [RKRKRKRKRKRY](/stripes/rkrkrkrkrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [478](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478)
 - Scottish Tartans Authority (ITI): 4004
 - Scottish Tartans World Register: 2725
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [German National (US) (Fashion)](/setts/s12/r16k2r2k2r13k12r2k12r13k13r2ly2~x2/)
-
 
 ## Thread count
 R/16 K2 R2 K10 R2 K2 R16 K2 R2 K60 R2 Y/4

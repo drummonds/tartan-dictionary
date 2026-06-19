@@ -2,19 +2,11 @@
 title: "Gordon of Esselmont (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGYGYGKBKBKB](/stripes/bkbkgygygygkbkbkb/) · **Stripes:** [DB K DB K G LY G LY G LY G K DB K DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G LY G LY G LY G K DB K DB K DB</span></span>
+In pattern [BKBKBKGYGYGYGKBKB](/stripes/bkbkbkgygygygkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/215/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gordon, Ancient](/setts/s17/db28k1db1k1db3k12g24ly1g1ly2g1ly1g24k12db18k1db4~x2/)
-
 
 ## Thread count
 DB/30 K4 DB4 K4 DB4 K28 G28 Y4 G4 Y8 G4 Y4 G28 K28 DB28 K4 DB/4

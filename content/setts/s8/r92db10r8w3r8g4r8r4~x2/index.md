@@ -2,10 +2,9 @@
 title: "Burnett of Leys Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RRGRWRBR](/stripes/rrgrwrbr/) · **Stripes:** [R R G R W R DB R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R G R W R DB R</span></span>
+In pattern [RBRWRGRR](/stripes/rbrwrgrr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=445
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [445](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=445)
 - Scottish Tartans Authority (ITI): 1657
 - Scottish Tartans World Register: 1657
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Burnett of Leys Htg (Clan)](/setts/s8/r75db6r6w2r6g2r6r2~x2/)
-
 
 ## Thread count
 DR/184 DB20 DR16 W6 DR16 G8 DR16 R/8

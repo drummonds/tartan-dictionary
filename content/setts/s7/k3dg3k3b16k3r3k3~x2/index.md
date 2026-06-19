@@ -2,10 +2,9 @@
 title: "Eglinton"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKGK](/stripes/krkbkgk/) · **Stripes:** [K R K B K DG K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K B K DG K</span></span>
+In pattern [KGKBKRK](/stripes/kgkbkrk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Eglinton](/setts/s7/k3dg3k3b16k3r3k3/)
-
 
 ## Thread count
 K/6 DR6 K6 B32 K6 DG6 K/6

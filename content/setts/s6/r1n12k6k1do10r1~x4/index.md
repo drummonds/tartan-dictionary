@@ -2,10 +2,9 @@
 title: "Andover"
 date: 2023-03-18
 ---
-**Bands:** [RBKKBR](/stripes/rbkkbr/) · **Stripes:** [R DO K K N R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DO K K N R</span></span>
+In pattern [RBKKBR](/stripes/rbkkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5256
 

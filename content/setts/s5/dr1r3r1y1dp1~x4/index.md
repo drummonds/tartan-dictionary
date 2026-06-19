@@ -2,10 +2,9 @@
 title: "Blairgowrie Berries and Cherries"
 date: 2023-03-18
 ---
-**Bands:** [BRRGB](/stripes/brrgb/) · **Stripes:** [DR R R Y DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DR R R Y DP</span></span>
+In pattern [BGRRB](/stripes/bgrrb/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11150
 

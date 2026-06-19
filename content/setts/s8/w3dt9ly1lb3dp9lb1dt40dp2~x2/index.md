@@ -2,10 +2,9 @@
 title: "Parkin"
 date: 2023-03-18
 ---
-**Bands:** [BBWBWYBW](/stripes/bbwbwybw/) · **Stripes:** [DP DT LB DP LB LY DT W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DT LB DP LB LY DT W</span></span>
+In pattern [BBWBWYBW](/stripes/bbwbwybw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295
 

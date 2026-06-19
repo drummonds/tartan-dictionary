@@ -2,10 +2,9 @@
 title: "Glen Feshie Check"
 date: 2023-03-18
 ---
-**Bands:** [RWKWKWKW](/stripes/rwkwkwkw/) · **Stripes:** [R W K W K W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W K W K W K W</span></span>
+In pattern [RWKWKWKW](/stripes/rwkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1378
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1378](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1378)
 - Scottish Tartans Authority (ITI): 5008
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Masai Shuka 14 (Artefact)](/setts/s8/r40w40k5w2k6w2k5w6~x2/)
-
 
 ## Thread count
 R/8 W8 K6 W8 K8 W8 K8 W/8

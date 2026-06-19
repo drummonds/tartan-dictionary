@@ -2,10 +2,9 @@
 title: "Lumsden Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KBGBGBKRBRBRGBKBG](/stripes/kbgbgbkrbrbrgbkbg/) · **Stripes:** [K DB DG DB DG DB K R DB R DB R DG DB K DB DG](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">K DB DG DB DG DB K R DB R DB R DG DB K DB DG</span></span>
+In pattern [GBKBGRBRBRKBGBGBK](/stripes/gbkbgrbrbrkbgbgbk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2245
 

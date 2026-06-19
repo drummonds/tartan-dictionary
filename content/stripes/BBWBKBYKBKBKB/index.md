@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bbwbkbykbkbkb/
 ---
-BBWBKBYKBKBKB
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-BBWBKBYKBKBKB
+
+{{< pat "BBWBKBYKBKBKB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DB K DB K DB K LY DB K T W T DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K LY DB K T W T DB</span></span>
 
 | Tartans |
 |---------------|
 | [Silverton Family (Basingstoke)](/setts/s13/db4t1w1t1k29db3ly1k4db20k2db1k3db3~x2/)|
 |![Silverton Family (Basingstoke) example sett](/setts/s13/db4t1w1t1k29db3ly1k4db20k2db1k3db3~x2/sett.png)|
-

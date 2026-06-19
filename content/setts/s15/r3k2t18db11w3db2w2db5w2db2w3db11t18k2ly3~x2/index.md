@@ -2,10 +2,9 @@
 title: "Citadel Military Academy Regimental Tartan Tartan Number: 1572. Earliest known date: 1980 Submitted to STS Monitoring Committee March 1982. South Carolina Military School. Ludovic Grant-Alexander possibly designer (Bob Marton) at that time, head of the Citadel Piping School. Woven by Dalgleish, 1980. Changed background to azure in 2007 following advice from C Adams. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKBBWBWBWBWBBKY](/stripes/rkbbwbwbwbwbbky/) · **Stripes:** [R K T DB W DB W DB W DB W DB T K LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K T DB W DB W DB W DB W DB T K LY</span></span>
+In pattern [RKBBWBWBWBWBBKY](/stripes/rkbbwbwbwbwbbky/).
 
-
-This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1572
 

@@ -2,10 +2,9 @@
 title: "Balmoral"
 date: 2023-03-18
 ---
-**Bands:** [RWKWGWGWKGWRW](/stripes/rwkwgwgwkgwrw/) · **Stripes:** [R LB K LB Y LB Y LB K Y LB R LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB K LB Y LB Y LB K Y LB R LB</span></span>
+In pattern [RWKWGWGWKGWRW](/stripes/rwkwgwgwkgwrw/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

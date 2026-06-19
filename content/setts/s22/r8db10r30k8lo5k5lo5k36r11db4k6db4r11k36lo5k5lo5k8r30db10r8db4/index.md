@@ -2,10 +2,9 @@
 title: "Johnnie Walker (2003)"
 date: 2023-03-18
 ---
-**Bands:** [RBRKYKYKRBKBRKYKYKRBRB](/stripes/rbrkykykrbkbrkykykrbrb/) · **Stripes:** [R DB R K LO K LO K R DB K DB R K LO K LO K R DB R DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R K LO K LO K R DB K DB R K LO K LO K R DB R DB</span></span>
+In pattern [BRBRKYKYKRBKBRKYKYKRBR](/stripes/brbrkykykrbkbrkykykrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1895
 

@@ -2,10 +2,9 @@
 title: "Rooney (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGKGKRKYKGKGGGGW](/stripes/ggggkgkrkykgkggggw/) · **Stripes:** [Y G Y G K G K R K LY K G K G Y G Y W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y G Y G K G K R K LY K G K G Y G Y W</span></span>
+In pattern [GGGGKGKRKYKGKGGGGW](/stripes/ggggkgkrkykgkggggw/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7517/
 

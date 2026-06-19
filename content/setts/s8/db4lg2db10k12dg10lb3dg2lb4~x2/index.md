@@ -2,10 +2,9 @@
 title: "Business Air"
 date: 2023-03-18
 ---
-**Bands:** [BYBKGWGW](/stripes/bybkgwgw/) · **Stripes:** [DB LG DB K DG LB DG LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB LG DB K DG LB DG LB</span></span>
+In pattern [BYBKGWGW](/stripes/bybkgwgw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=454
 

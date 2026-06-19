@@ -2,10 +2,9 @@
 title: "Cree"
 date: 2023-03-18
 ---
-**Bands:** [YGBKYKWKGRKRW](/stripes/ygbkykwkgrkrw/) · **Stripes:** [LY DY DB K LY K W K G R K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DY DB K LY K W K G R K R W</span></span>
+In pattern [WRKRGKWKYKBGY](/stripes/wrkrgkwkykbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=801
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [801](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=801)
 - Scottish Tartans Authority (ITI): 1856
 - Scottish Tartans World Register: 1856
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cree (Fashion)](/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/)
-
 
 ## Thread count
 Y/60 T40 DB4 K12 Y6 K4 W6 K4 G12 R12 K6 R6 W/6

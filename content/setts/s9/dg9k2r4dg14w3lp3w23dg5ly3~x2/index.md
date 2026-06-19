@@ -2,10 +2,9 @@
 title: "Taylor Dress #2"
 date: 2023-03-18
 ---
-**Bands:** [YGWWWGRKG](/stripes/ygwwwgrkg/) · **Stripes:** [LY DG W LP W DG R K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG W LP W DG R K DG</span></span>
+In pattern [GKRGWWWGY](/stripes/gkrgwwwgy/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4081
 

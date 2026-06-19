@@ -2,10 +2,9 @@
 title: "Caledonian Society, Ancient"
 date: 2023-03-18
 ---
-**Bands:** [RGYKBWBW](/stripes/rgykbwbw/) · **Stripes:** [R G LY K T W DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G LY K T W DB W</span></span>
+In pattern [RGYKBWBW](/stripes/rgykbwbw/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

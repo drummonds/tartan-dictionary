@@ -2,10 +2,9 @@
 title: "McGrane (2014)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGGGGWYWG](/stripes/ggggggggwywg/) · **Stripes:** [G DY G DY G DY G DY W LY W G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DY G DY G DY G DY W LY W G</span></span>
+In pattern [GGGGGGGGWYWG](/stripes/ggggggggwywg/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11076/
 

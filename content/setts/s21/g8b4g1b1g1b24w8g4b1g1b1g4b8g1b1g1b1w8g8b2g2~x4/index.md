@@ -2,10 +2,9 @@
 title: "Matheson Hunting (Crowe 1974) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBWGBGBGBGBGBWGBG](/stripes/gbgbgbwgbgbgbgbgbwgbg/) · **Stripes:** [G B G B G B W G B G B G B G B G B W G B G](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G B G B G B W G B G B G B G B G B W G B G</span></span>
+In pattern [GBGBGBWGBGBGBGBGBWGBG](/stripes/gbgbgbwgbgbgbgbgbwgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856
 

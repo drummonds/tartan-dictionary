@@ -2,10 +2,9 @@
 title: "Staves (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRWB](/stripes/rgrwb/) · **Stripes:** [R DG R W T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG R W T</span></span>
+In pattern [BWRGR](/stripes/bwrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3910
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3910](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3910)
 - Scottish Tartans Authority (ITI): 6611
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Staves (Personal)](/setts/s5/r10dg4r1w1t1~x6/)
-
 
 ## Thread count
 R/20 G8 DR2 W2 B/2

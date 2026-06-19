@@ -2,10 +2,9 @@
 title: "Pride of the Forth"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKB](/stripes/kbkbkb/) · **Stripes:** [K N K N K T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K N K N K T</span></span>
+In pattern [BKBKBK](/stripes/bkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11060
 

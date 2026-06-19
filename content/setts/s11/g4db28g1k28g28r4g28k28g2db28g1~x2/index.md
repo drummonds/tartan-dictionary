@@ -2,10 +2,9 @@
 title: "Gunn"
 date: 2023-03-18
 ---
-**Bands:** [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/) · **Stripes:** [G DB G K G R G K G DB G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB G K G R G K G DB G</span></span>
+In pattern [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/).
 
-
-This was sourced from logan-1831.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link /posts/logans-scottish-gael/
 

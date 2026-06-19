@@ -2,10 +2,9 @@
 title: "Harmon Family Tartan Tartan Number: 7792. Earliest known date: 2006 The original design had no black stripe though the red. Mr Harmon designed the tartan because, as he said, there does not appear to be any Harmon tartan, nor do the Harmons in Scotland appear to have any historical clan affiliation. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KKYKYKBGBKRKRGRGRY](/stripes/kkykykbgbkrkrgrgry/) · **Stripes:** [K K LY K LY K N DG N K R K R DG R DG R LY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K K LY K LY K N DG N K R K R DG R DG R LY</span></span>
+In pattern [KKYKYKBGBKRKRGRGRY](/stripes/kkykykbgbkrkrgrgry/).
 
-
-This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7792
 

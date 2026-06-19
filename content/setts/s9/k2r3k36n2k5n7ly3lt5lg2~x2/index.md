@@ -2,10 +2,9 @@
 title: "Victory"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKBYWY](/stripes/krkbkbywy/) · **Stripes:** [K R K N K N LY LT LG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="seq">K R K N K N LY LT LG</span></span>
+In pattern [KRKBKBYWY](/stripes/krkbkbywy/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10235
 

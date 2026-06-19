@@ -2,10 +2,9 @@
 title: "Campbell, 42nd dress"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKWBWKW](/stripes/bkbkgkgkwbwkw/) · **Stripes:** [DB K DB K G K G K W DB W K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K G K G K W DB W K W</span></span>
+In pattern [BKBKGKGKWBWKW](/stripes/bkbkgkgkwbwkw/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

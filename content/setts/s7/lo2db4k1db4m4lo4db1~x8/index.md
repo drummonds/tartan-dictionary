@@ -2,10 +2,9 @@
 title: "Isle of Gigha (District)"
 date: 2023-03-18
 ---
-**Bands:** [YBKBRYB](/stripes/ybkbryb/) · **Stripes:** [LO DB K DB M LO DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB K DB M LO DB</span></span>
+In pattern [BYRBKBY](/stripes/byrbkby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3085/
 

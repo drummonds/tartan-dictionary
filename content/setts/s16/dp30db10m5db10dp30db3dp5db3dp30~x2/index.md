@@ -2,10 +2,9 @@
 title: "Meanwood McMain Personal Tartan Tartan Number: 6813. Earliest known date: 2005 December This was a gift from her colleagues to Dr. McMain from the meanwood Group Practice in Leeds on the occasion of her relocation to Australia after 16 years in Leeds. Designed by Maxine Scott of the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BRBBBBBBBBBBBRBB](/stripes/brbbbbbbbbbbbrbb/) · **Stripes:** [DB M DB DP DB DP DB DP DB DP DB DP DB M DB DP](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB M DB DP DB DP DB DP DB DP DB DP DB M DB DP</span></span>
+In pattern [BBRBBBBBBBBBBBRB](/stripes/bbrbbbbbbbbbbbrb/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6813
 

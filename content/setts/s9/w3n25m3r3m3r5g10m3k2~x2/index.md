@@ -2,10 +2,9 @@
 title: "Edinburgh District (District)"
 date: 2023-03-18
 ---
-**Bands:** [KRGRRRRBW](/stripes/krgrrrrbw/) · **Stripes:** [K M G R M R M N W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K M G R M R M N W</span></span>
+In pattern [KRGRRRRBW](/stripes/krgrrrrbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1163/
 

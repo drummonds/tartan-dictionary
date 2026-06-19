@@ -2,10 +2,9 @@
 title: "Elphinstone Check (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GBGB](/stripes/gbgb/) · **Stripes:** [G DP G DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP G DP</span></span>
+In pattern [BGBG](/stripes/bgbg/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/115/
 
@@ -14,14 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/115/
 This cloth is also recorded under:
 
 - Elphinstone
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Elphinstone](/setts/s4/g6dp2g1~x4/)
-- [Elphinstone Clan Tartan Tartan Number: 115. Earliest known date: 1842 The village of Elphinstone is next to Tranent near Edinburgh in East Lothian. Sir Henry Elphinstone of Pittendriech in Midlothian was created Baron Elphinstone in 1509 and fell at Flodden Field. The Elphinstone tartan first appeared in the text of the Vestiarium Scoticum (1842). It is similar to some extent with the Montgomerie tartan and to the Montgomerie Hunting sett, suggesting a link to an early provenance. D.W. Stewart (1893) maintained that he could date the Montgomerie of Eglinton to 1707. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/g28dp10g3~x2/)
-
 
 ## Thread count
 G/120 DP40 G20 DP/40

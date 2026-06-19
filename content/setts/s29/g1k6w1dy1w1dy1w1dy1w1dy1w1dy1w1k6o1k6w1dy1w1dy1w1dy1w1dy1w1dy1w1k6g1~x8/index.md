@@ -2,10 +2,9 @@
 title: "Alliance of Border Scots"
 date: 2023-03-18
 ---
-**Bands:** [GKWGWGWGWGWGWKRKWGWGWGWGWGWKG](/stripes/gkwgwgwgwgwgwkrkwgwgwgwgwgwkg/) · **Stripes:** [G K W DY W DY W DY W DY W DY W K O K W DY W DY W DY W DY W DY W K G](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K W DY W DY W DY W DY W DY W K O K W DY W DY W DY W DY W DY W K G</span></span>
+In pattern [GKWGWGWGWGWGWKRKWGWGWGWGWGWKG](/stripes/gkwgwgwgwgwgwkrkwgwgwgwgwgwkg/).
 
-
-This was sourced from register-of-tartans.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5079
 

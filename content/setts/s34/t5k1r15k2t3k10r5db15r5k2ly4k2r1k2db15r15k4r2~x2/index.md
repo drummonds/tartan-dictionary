@@ -2,10 +2,9 @@
 title: "Grand Lodge of Canada (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKRBRKYKRKBRKRKRBKRKYKRBRKBKRKB](/stripes/krkbkrbrkykrkbrkrkrbkrkykrbrkbkrkb/) · **Stripes:** [K R K T K R DB R K LY K R K DB R K R K R DB K R K LY K R DB R K T K R K T](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R K T K R DB R K LY K R K DB R K R K R DB K R K LY K R DB R K T K R K T</span></span>
+In pattern [BKRKBKRBRKYKRKBRKRKRBKRKYKRBRKBKRK](/stripes/bkrkbkrbrkykrkbrkrkrbkrkykrbrkbkrk/).
 
-
-This was sourced from tartans-authority.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6353/
 

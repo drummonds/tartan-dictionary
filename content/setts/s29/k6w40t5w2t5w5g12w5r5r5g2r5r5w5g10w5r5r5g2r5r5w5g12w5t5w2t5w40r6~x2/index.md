@@ -2,10 +2,9 @@
 title: "MacBean, Meta (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWBWBWGWRRGRRWGWRRGRRWGWBWBWR](/stripes/kwbwbwgwrrgrrwgwrrgrrwgwbwbwr/) · **Stripes:** [K W T W T W G W R R G R R W G W R R G R R W G W T W T W R](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W T W T W G W R R G R R W G W R R G R R W G W T W T W R</span></span>
+In pattern [KWBWBWGWRRGRRWGWRRGRRWGWBWBWR](/stripes/kwbwbwgwrrgrrwgwrrgrrwgwbwbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294
 

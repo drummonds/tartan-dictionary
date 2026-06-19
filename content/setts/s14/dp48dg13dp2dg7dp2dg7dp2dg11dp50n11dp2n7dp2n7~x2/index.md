@@ -2,10 +2,9 @@
 title: "Unidentified Plaid 2"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGBBBBBB](/stripes/bgbgbgbgbbbbbb/) · **Stripes:** [DP DG DP DG DP DG DP DG DP N DP N DP N](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="seq">DP DG DP DG DP DG DP DG DP N DP N DP N</span></span>
+In pattern [BBBBBBGBGBGBGB](/stripes/bbbbbbgbgbgbgb/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

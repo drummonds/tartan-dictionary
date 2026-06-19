@@ -2,10 +2,9 @@
 title: "Riddick Furya"
 date: 2023-03-18
 ---
-**Bands:** [YKRW](/stripes/ykrw/) · **Stripes:** [LY K R W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K R W</span></span>
+In pattern [WRKY](/stripes/wrky/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11548
 
@@ -14,15 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11548
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11548](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11548)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Connel](/setts/s4/w1r8k8ly1~x2/)
-- [Connel (Clan)](/setts/s4/w1r8k8ly1~x4/)
-- [Masai Shuka 18 (Artefact)](/setts/s4/ly6k3r40w3~x2/)
-
 
 ## Thread count
 Y/8 K12 DR124 W/4

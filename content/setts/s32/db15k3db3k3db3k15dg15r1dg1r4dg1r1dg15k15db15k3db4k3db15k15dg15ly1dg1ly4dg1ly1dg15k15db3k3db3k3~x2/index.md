@@ -2,10 +2,9 @@
 title: "Gordon #4"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGYGYGYGKBKBKBKGRGRGRGKBKBKB](/stripes/kbkbkgygygygkbkbkbkgrgrgrgkbkbkb/) · **Stripes:** [K DB K DB K DG LY DG LY DG LY DG K DB K DB K DB K DG R DG R DG R DG K DB K DB K DB](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DG LY DG LY DG LY DG K DB K DB K DB K DG R DG R DG R DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGRGRGRGKBKBKBKGYGYGYGKBKBK](/stripes/bkbkbkgrgrgrgkbkbkbkgygygygkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1452
 

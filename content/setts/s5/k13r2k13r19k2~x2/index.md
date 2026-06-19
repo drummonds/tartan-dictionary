@@ -2,10 +2,9 @@
 title: "MacLeod of Raasay (Highland Society of London)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRK](/stripes/krkrk/) · **Stripes:** [K R K R K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R K</span></span>
+In pattern [KRKRK](/stripes/krkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2641
 
@@ -23,16 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2641)
 - Scottish Tartans Authority (ITI): 1172
 - Scottish Tartans World Register: 1172
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLeod of Raasay](/setts/s5/k6r1k6r9k1~x4/)
-- [Romsdal Tresfjord](/setts/s5/k2r4k7r1k2~x2/)
-- [Romsdal, Tresfjord](/setts/s5/k2r4k7r1k1~x2/)
-- [Unidentified Kirtle](/setts/s5/k55r18k4r18k38/)
-
 
 ## Thread count
 K/26 R4 K26 R38 K/4

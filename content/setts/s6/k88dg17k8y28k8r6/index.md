@@ -2,10 +2,9 @@
 title: "Childers (Gurkha Rifles) (Military)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKR](/stripes/kgkgkr/) · **Stripes:** [K DG K Y K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG K Y K R</span></span>
+In pattern [KGKGKR](/stripes/kgkgkr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1090/
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bybgbggr/
 ---
-BYBGBGGR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/m13dg16dg4dp4dg4dp34lo1dp1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BYBGBGGR
+
+{{< pat "BYBGBGGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### M DG DG DP DG DP LO DP <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">M DG DG DP DG DP LO DP</span></span>
 
 | Tartans |
 |---------------|
 | [Heather Mead (Personal)](/setts/s8/m13dg16dg4dp4dg4dp34lo1dp1~x2/)|
 |![Heather Mead (Personal) example sett](/setts/s8/m13dg16dg4dp4dg4dp34lo1dp1~x2/sett.png)|
-

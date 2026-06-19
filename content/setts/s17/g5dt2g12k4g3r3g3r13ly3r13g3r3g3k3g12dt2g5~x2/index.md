@@ -2,10 +2,9 @@
 title: "Lowland Donnelly (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBGKGRGRYRGRGKGBG](/stripes/gbgkgrgryrgrgkgbg/) · **Stripes:** [G DT G K G R G R LY R G R G K G DT G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DT G K G R G R LY R G R G K G DT G</span></span>
+In pattern [GBGKGRGRYRGRGKGBG](/stripes/gbgkgrgryrgrgkgbg/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10114/
 

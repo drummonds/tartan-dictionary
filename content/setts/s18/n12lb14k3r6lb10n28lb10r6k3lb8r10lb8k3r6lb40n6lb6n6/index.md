@@ -2,10 +2,9 @@
 title: "Miyuki #3 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BWKRWBWRKWRWKRWBWB](/stripes/bwkrwbwrkwrwkrwbwb/) · **Stripes:** [N LB K R LB N LB R K LB R LB K R LB N LB N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">N LB K R LB N LB R K LB R LB K R LB N LB N</span></span>
+In pattern [BWBWRKWRWKRWBWRKWB](/stripes/bwbwrkwrwkrwbwrkwb/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2606/
 

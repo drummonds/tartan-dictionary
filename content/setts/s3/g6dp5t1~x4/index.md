@@ -2,10 +2,9 @@
 title: "Wilson's No.055"
 date: 2023-03-18
 ---
-**Bands:** [GBB](/stripes/gbb/) · **Stripes:** [G DP T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">G DP T</span></span>
+In pattern [BBG](/stripes/bbg/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4659
 

@@ -2,19 +2,11 @@
 title: "Erskine, Lt Blue (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBW](/stripes/bwbwbw/) · **Stripes:** [T W T W T W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T W T W T W</span></span>
+In pattern [BWBWBW](/stripes/bwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4820/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine Blue Dress Clan Tartan Tartan Number: 4820. Earliest known date: 1971 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/t5w2t25w25t2w5~x2/)
-
 
 ## Thread count
 B/12 W4 B58 W58 B4 W/12

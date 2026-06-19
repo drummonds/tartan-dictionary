@@ -2,10 +2,9 @@
 title: "Hyndman Family Tartan Tartan Number: 2133. Earliest known date: 1992 The tartan was designed for Mr C.P.Hyndman, the first Hyndman to record arms in the Lyon Register since 1672. The colours reflect the armorial bearings and a long family connection with the Royal Inneskillin Fusiliers. The pattern is based on the teritorial origins of the name - Paisley and later Ulster. Mr Hyndman stated in his petition for accreditation that he wished the tartan to be available to \"all Hyndmans irrespective of family connections who were born in Northern Ireland.\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YRBRBKGYGBRBRB](/stripes/yrbrbkgygbrbrb/) · **Stripes:** [LR R DB R DB K DG LO DG DB R DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LR R DB R DB K DG LO DG DB R DB R DB</span></span>
+In pattern [BRBRBGYGKBRBRY](/stripes/brbrbgygkbrbry/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2133
 

@@ -2,10 +2,9 @@
 title: "CBS (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKRBKBKBKBKBRBB](/stripes/rkrbkbkbkbkbrbb/) · **Stripes:** [O K O N K N K N K N K N O N DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="seq">O K O N K N K N K N K N O N DB</span></span>
+In pattern [BBRBKBKBKBKBRKR](/stripes/bbrbkbkbkbkbrkr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8061/
 

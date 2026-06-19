@@ -2,10 +2,9 @@
 title: "Bannockbane, Dark Tan"
 date: 2023-03-18
 ---
-**Bands:** [BYBYWBYB](/stripes/bybywbyb/) · **Stripes:** [DR LY DR LY W T LY T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">DR LY DR LY W T LY T</span></span>
+In pattern [BYBWYBYB](/stripes/bybwybyb/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

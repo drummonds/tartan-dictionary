@@ -2,10 +2,9 @@
 title: "Unidentified Phyllis Gordon"
 date: 2023-03-18
 ---
-**Bands:** [KGRGYGWGRGKBKGKWKGKB](/stripes/kgrgygwgrgkbkgkwkgkb/) · **Stripes:** [K DG R DG LY DG W DG R DG K DP K DG K W K DG K DP](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DG R DG LY DG W DG R DG K DP K DG K W K DG K DP</span></span>
+In pattern [BKGKWKGKBKGRGWGYGRGK](/stripes/bkgkwkgkbkgrgwgygrgk/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4340
 

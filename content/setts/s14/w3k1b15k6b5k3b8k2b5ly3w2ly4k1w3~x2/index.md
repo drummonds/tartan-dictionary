@@ -2,10 +2,9 @@
 title: "Avalon - Carroll House"
 date: 2023-03-18
 ---
-**Bands:** [WKYWYBKBKBKBKW](/stripes/wkywybkbkbkbkw/) · **Stripes:** [W K LY W LY B K B K B K B K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K LY W LY B K B K B K B K W</span></span>
+In pattern [WKBKBKBKBYWYKW](/stripes/wkbkbkbkbywykw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=145
 

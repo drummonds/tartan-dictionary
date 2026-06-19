@@ -2,10 +2,9 @@
 title: "Royal Stuart/Stewart (Variant)"
 date: 2023-03-18
 ---
-**Bands:** [RWRGBYKWKWRBRBRB](/stripes/rwrgbykwkwrbrbrb/) · **Stripes:** [R W R DG DB LY K W K W R DB R DB R DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R DG DB LY K W K W R DB R DB R DB</span></span>
+In pattern [BRBRBRWKWKYBGRWR](/stripes/brbrbrwkwkybgrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3613
 

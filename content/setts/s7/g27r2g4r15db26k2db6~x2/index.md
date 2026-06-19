@@ -2,10 +2,9 @@
 title: "Bailies of Bennachie (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRBKB](/stripes/grgrbkb/) · **Stripes:** [G R G R DB K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R DB K DB</span></span>
+In pattern [BKBRGRG](/stripes/bkbrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3628/
 

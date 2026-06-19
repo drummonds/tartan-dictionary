@@ -2,10 +2,9 @@
 title: "Turnberry"
 date: 2023-03-18
 ---
-**Bands:** [BYBRBRKBW](/stripes/bybrbrkbw/) · **Stripes:** [N LG N O N O K N LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N LG N O N O K N LB</span></span>
+In pattern [BYBRBRKBW](/stripes/bybrbrkbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11112/
 

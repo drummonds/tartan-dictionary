@@ -2,10 +2,9 @@
 title: "Lennox Dress #2"
 date: 2023-03-18
 ---
-**Bands:** [RRRRWBW](/stripes/rrrrwbw/) · **Stripes:** [R R R R W DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R R R R W DB W</span></span>
+In pattern [RRRRWBW](/stripes/rrrrwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2098
 

@@ -2,10 +2,9 @@
 title: "Corps Suevia Heidelburg (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYWYKYKWYKYWKY](/stripes/kykywykykwykywky/) · **Stripes:** [K LY K LY LB LY K LY K LB LY K LY LB K LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY K LY LB LY K LY K LB LY K LY LB K LY</span></span>
+In pattern [KYKYWYKYKWYKYWKY](/stripes/kykywykykwykywky/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4123/
 

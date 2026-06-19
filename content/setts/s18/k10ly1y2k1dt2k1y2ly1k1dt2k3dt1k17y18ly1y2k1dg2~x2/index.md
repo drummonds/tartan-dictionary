@@ -2,10 +2,9 @@
 title: "Raznotravie"
 date: 2023-03-18
 ---
-**Bands:** [KYGKBKGYKBKBKGYGKG](/stripes/kygkbkgykbkbkgygkg/) · **Stripes:** [K LY Y K DT K Y LY K DT K DT K Y LY Y K DG](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LY Y K DT K Y LY K DT K DT K Y LY Y K DG</span></span>
+In pattern [GKGYGKBKBKYGKBKGYK](/stripes/gkgygkbkbkygkbkgyk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10771
 

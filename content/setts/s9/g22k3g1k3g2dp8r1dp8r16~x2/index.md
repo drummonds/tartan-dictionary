@@ -2,10 +2,9 @@
 title: "Queen of Scots (Commemorative))"
 date: 2023-03-18
 ---
-**Bands:** [RBRBGKGKG](/stripes/rbrbgkgkg/) · **Stripes:** [R DP R DP G K G K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DP R DP G K G K G</span></span>
+In pattern [GKGKGBRBR](/stripes/gkgkgbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2627/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/2627/
 This cloth is also recorded under:
 
 - Queen of Scots
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Queen of Scots](/setts/s9/r34dp4r1dp4g2k3g1k3g22~x2/)
-
 
 ## Thread count
 G/44 K6 G2 K6 G4 P16 DR2 P16 DR/32

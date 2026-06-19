@@ -2,10 +2,9 @@
 title: "All Ireland Red"
 date: 2023-03-18
 ---
-**Bands:** [RGBRGRGRGRGRGBR](/stripes/rgbrgrgrgrgrgbr/) · **Stripes:** [R Y DB R G R G R G R G R Y DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R Y DB R G R G R G R G R Y DB R</span></span>
+In pattern [RBGRGRGRGRGRBGR](/stripes/rbgrgrgrgrgrbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=54
 

@@ -2,10 +2,9 @@
 title: "Poulter SG 105 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YYYYYYWGWYYYY](/stripes/yyyyyywgwyyyy/) · **Stripes:** [LG LO LG LO LG LO W G W LO LG LO LG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LG LO LG LO LG LO W G W LO LG LO LG</span></span>
+In pattern [YYYYWGWYYYYYY](/stripes/yyyywgwyyyyyy/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7718/
 

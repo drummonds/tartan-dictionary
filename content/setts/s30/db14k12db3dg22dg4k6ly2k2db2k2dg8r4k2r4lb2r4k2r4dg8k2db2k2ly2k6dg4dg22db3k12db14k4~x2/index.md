@@ -2,10 +2,9 @@
 title: "Stewart"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGGKYKBKGRKRWRKRGKBKYKGGBKB](/stripes/kbkbggkykbkgrkrwrkrgkbkykggbkb/) · **Stripes:** [K DB K DB DG DG K LY K DB K DG R K R LB R K R DG K DB K LY K DG DG DB K DB](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB DG DG K LY K DB K DG R K R LB R K R DG K DB K LY K DG DG DB K DB</span></span>
+In pattern [BKBGGKYKBKGRKRWRKRGKBKYKGGBKBK](/stripes/bkbggkykbkgrkrwrkrgkbkykggbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3928
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rbbbggr/
 ---
-RBBBGGR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/r5do8dp13dt21dg34dg55r3/tartan.png)
 
 
 
 ## Colour Sequence
-RBBBGGR
+
+{{< pat "RBBBGGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG DG DT DP DO R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG DG DT DP DO R</span></span>
 
 | Tartans |
 |---------------|
 | [Uitwaaien Papi (Personal)](/setts/s7/r5do8dp13dt21dg34dg55r3/)|
 |![Uitwaaien Papi (Personal) example sett](/setts/s7/r5do8dp13dt21dg34dg55r3/sett.png)|
-

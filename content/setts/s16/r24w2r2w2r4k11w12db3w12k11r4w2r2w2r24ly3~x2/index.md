@@ -2,10 +2,9 @@
 title: "Heart of Midlothian Football Club"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRKWBWKRWRWRY](/stripes/rwrwrkwbwkrwrwry/) · **Stripes:** [R W R W R K W DB W K R W R W R LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W R W R K W DB W K R W R W R LY</span></span>
+In pattern [RWRWRKWBWKRWRWRY](/stripes/rwrwrkwbwkrwrwry/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1641
 

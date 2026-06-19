@@ -2,10 +2,9 @@
 title: "Bruce of Crionaich (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGBGBGY](/stripes/rgbgbgbgbgy/) · **Stripes:** [R DG DB DG DB DG DB DG DB DG LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG DB DG DB DG DB DG DB DG LY</span></span>
+In pattern [RGBGBGBGBGY](/stripes/rgbgbgbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10370
 

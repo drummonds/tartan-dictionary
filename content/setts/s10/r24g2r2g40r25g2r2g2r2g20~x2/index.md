@@ -2,10 +2,9 @@
 title: "Donachie"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRG](/stripes/rgrgrgrgrg/) · **Stripes:** [R G R G R G R G R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G R G R G</span></span>
+In pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=947
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [947](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=947)
 - Scottish Tartans Authority (ITI): 6138
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Livingstone](/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/)
-
 
 ## Thread count
 R/48 G4 R4 G80 R50 G4 R4 G4 R4 G/40

@@ -2,10 +2,9 @@
 title: "Lyon, Jeffrey M (Hunting) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGBYRGBBBB](/stripes/bgbyrgbbbb/) · **Stripes:** [DT DY DT LO R G DT T DT T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">DT DY DT LO R G DT T DT T</span></span>
+In pattern [BBBBGRYBGB](/stripes/bbbbgrybgb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10952
 

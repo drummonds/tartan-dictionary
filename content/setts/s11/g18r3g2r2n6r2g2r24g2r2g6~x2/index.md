@@ -2,10 +2,9 @@
 title: "MacDonald of Vallay (Uist) (?)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRBRGRG](/stripes/grgrgrbrgrg/) · **Stripes:** [G R G R G R N R G R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G R G R N R G R G</span></span>
+In pattern [GRGRBRGRGRG](/stripes/grgrbrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/856/
 

@@ -2,10 +2,9 @@
 title: "Day (2016)"
 date: 2023-03-18
 ---
-**Bands:** [KYGBRWRBGYRKR](/stripes/kygbrwrbgyrkr/) · **Stripes:** [K LY DG DB R LB R DB DG LY R K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LY DG DB R LB R DB DG LY R K R</span></span>
+In pattern [KYGBRWRBGYRKR](/stripes/kygbrwrbgyrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11561
 

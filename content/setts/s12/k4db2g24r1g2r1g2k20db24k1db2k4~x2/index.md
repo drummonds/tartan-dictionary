@@ -2,10 +2,9 @@
 title: "Jedforest"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGRGRGBK](/stripes/kbkbkgrgrgbk/) · **Stripes:** [K DB K DB K G R G R G DB K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K G R G R G DB K</span></span>
+In pattern [KBGRGRGKBKBK](/stripes/kbgrgrgkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1888
 

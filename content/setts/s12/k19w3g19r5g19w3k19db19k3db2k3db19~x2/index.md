@@ -2,10 +2,9 @@
 title: "Fruin Colquhoun"
 date: 2023-03-18
 ---
-**Bands:** [KWGRGWKBKBKB](/stripes/kwgrgwkbkbkb/) · **Stripes:** [K W G R G W K DB K DB K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W G R G W K DB K DB K DB</span></span>
+In pattern [BKBKBKWGRGWK](/stripes/bkbkbkwgrgwk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1285
 

@@ -2,10 +2,9 @@
 title: "Scottish Register of Tartans Corporate Tartan Tartan Number: 10000. Earliest known date: Jun. 2008 Designed to celebrate the launch of the first Scottish Register of Tartans in November 2008. The colours are those associated with the Matheson Dome, the National Archives' major repository of books very many of which are covered with dark brown leather (buckram) and with red and gold labelling. The light parchment colour represents the parchment paper in the books and the black relates to the book shelves. Permission of the Keeper of the Scottish Register of Tartans must be sought before this tartan can be reproduced in any form. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBYBKBKBYBBBBWB](/stripes/kbybkbkbybbbbwb/) · **Stripes:** [K DR LO DR K DO K DO LO DO DR DO DR W DR](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="seq">K DR LO DR K DO K DO LO DO DR DO DR W DR</span></span>
+In pattern [BWBBBBYBKBKBYBK](/stripes/bwbbbbybkbkbybk/).
 
-
-This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10000
 

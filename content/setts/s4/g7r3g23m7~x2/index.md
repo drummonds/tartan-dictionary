@@ -2,10 +2,9 @@
 title: "Highland Spring (Green)"
 date: 2023-03-18
 ---
-**Bands:** [RGRG](/stripes/rgrg/) · **Stripes:** [M G R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M G R G</span></span>
+In pattern [GRGR](/stripes/grgr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

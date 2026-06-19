@@ -2,10 +2,9 @@
 title: "Clergy"
 date: 2023-03-18
 ---
-**Bands:** [WKWRWKRKRKWKWRWKW](/stripes/wkwrwkrkrkwkwrwkw/) · **Stripes:** [W K W O W K O K O K W K W O W K W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W O W K O K O K W K W O W K W</span></span>
+In pattern [WKWRWKRKRKWKWRWKW](/stripes/wkwrwkrkrkwkwrwkw/).
 
-
-This was sourced from logan-1831.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link /posts/logans-scottish-gael/
 

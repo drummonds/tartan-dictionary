@@ -2,10 +2,9 @@
 title: "Silverton Family (Basingstoke)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKYBKBWBB](/stripes/bkbkbkybkbwbb/) · **Stripes:** [DB K DB K DB K LY DB K T W T DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K LY DB K T W T DB</span></span>
+In pattern [BBWBKBYKBKBKB](/stripes/bbwbkbykbkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10275
 

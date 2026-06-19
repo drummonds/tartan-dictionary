@@ -2,20 +2,11 @@
 title: "Drummond of Megginch - 2023 BertieLexa"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRGRBRWRBRBR](/stripes/rbrgrgrbrwrbrbr/) · **Stripes:** [R DB R G R G R DB R LB R DB R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R G R G R DB R LB R DB R DB R</span></span>
+In pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
-
-This was sourced from research.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://tartandictionary.org/posts/drummondsofmegginch/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Grant D](/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/)
-- [Grant and Drummond](/setts/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/)
-
 
 ## Thread count
 R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12

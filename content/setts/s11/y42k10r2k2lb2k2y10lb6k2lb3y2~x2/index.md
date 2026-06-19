@@ -2,10 +2,9 @@
 title: "Laggen Dress"
 date: 2023-03-18
 ---
-**Bands:** [GKRKWKGWKWG](/stripes/gkrkwkgwkwg/) · **Stripes:** [Y K R K LB K Y LB K LB Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y K R K LB K Y LB K LB Y</span></span>
+In pattern [GKRKWKGWKWG](/stripes/gkrkwkgwkwg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2023
 

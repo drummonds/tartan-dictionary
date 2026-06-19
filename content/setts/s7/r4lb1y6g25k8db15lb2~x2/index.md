@@ -2,10 +2,9 @@
 title: "Jones (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RWGGKBW](/stripes/rwggkbw/) · **Stripes:** [R LB Y G K DB LB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB Y G K DB LB</span></span>
+In pattern [RWGGKBW](/stripes/rwggkbw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2476/
 

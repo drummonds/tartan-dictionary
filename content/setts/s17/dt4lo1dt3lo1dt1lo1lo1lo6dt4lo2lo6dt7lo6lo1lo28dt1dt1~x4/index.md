@@ -2,10 +2,9 @@
 title: "Agincourt (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBYYYBYYBYYYBB](/stripes/bybybyyybyybyyybb/) · **Stripes:** [DT LO DT LO DT LO LO LO DT LO LO DT LO LO LO DT DT](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="seq">DT LO DT LO DT LO LO LO DT LO LO DT LO LO LO DT DT</span></span>
+In pattern [BBYYYBYYBYYYBYBYB](/stripes/bbyyybyybyyybybyb/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3023/
 

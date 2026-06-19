@@ -2,10 +2,9 @@
 title: "Wilson-Blyth Name Tartan Tartan Number: 11127. Earliest known date: 23/08/2014 The Wilson-Blyth tartan takes the set of the Clan Wilson tartan and uses the colours of the Clan Blyth (Tweedside District) tartan. It was designed for the marriage of Prof. Nancy J Devlin (nee Wilson) to Mr David R Blyth, in Rushden, Hertfordshire on 23rd August 2014, wherein both will take the new name Wilson-Blyth. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWKBGKGKGKGKGKGBGBGBWB](/stripes/kwkbgkgkgkgkgkgbgbgbwb/) · **Stripes:** [K LB K DT DG K DG K DG K DG K DG K DG DT DG DT DG DT LB DT](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="seq">K LB K DT DG K DG K DG K DG K DG K DG DT DG DT DG DT LB DT</span></span>
+In pattern [BWBGBGBGKGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgkgbkwk/).
 
-
-This was sourced from house-of-tartan.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11127
 

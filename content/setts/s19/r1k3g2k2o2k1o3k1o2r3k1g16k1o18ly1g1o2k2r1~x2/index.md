@@ -2,19 +2,11 @@
 title: "Craig Family Tartan Tartan Number: 1574. Earliest known date: 1957 MacGregor Hastie wrote, \"This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks.\" The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKRGYRKGKRRKRKRKGKR](/stripes/rkrgyrkgkrrkrkrkgkr/) · **Stripes:** [R K O G LY O K G K R O K O K O K G K R](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K O G LY O K G K R O K O K O K G K R</span></span>
+In pattern [RKGKRKRKRRKGKRYGRKR](/stripes/rkgkrkrkrrkgkrygrkr/).
 
-
-This was sourced from house-of-tartan.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1574
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Craig](/setts/s19/r1k2o2g1ly1o17k1g14k1r2o2k1o2k1o2k2g2k2r1~x4/)
-
 
 ## Thread count
 R/2 K6 G4 K4 N4 K2 N6 K2 N4 R6 K2 G32 K2 N36 Y2 G2 N4 K4 R/2

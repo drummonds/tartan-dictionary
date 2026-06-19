@@ -2,10 +2,9 @@
 title: "Dundas #2"
 date: 2023-03-18
 ---
-**Bands:** [KGRGKBK](/stripes/kgrgkbk/) · **Stripes:** [K G R G K DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G R G K DB K</span></span>
+In pattern [KBKGRGK](/stripes/kbkgrgk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1027
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1027](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1027)
 - Scottish Tartans Authority (ITI): 1041
 - Scottish Tartans World Register: 1041
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dundas Clan Tartan Tartan Number: 1041. Earliest known date: 1842 The Dundas tartan originated in the Vestiarium Scoticum (1842). The design has the traditional green, black, blue background of the Highland military tartans with twin red stripes on the green. Dundas's played an important role in restoring the Highland way of life after the penalties imposed as a result of the '45 rebellion. It was Henry Dundas, who in 1784, introduced the bill to parliament restoring estates forfieted to the Crown after the uprising, following the repeal on the wearing of tartan in 1782. The Chief today is Sir David Dundas of Dundas, Bart. Appears in Edgars 'Old and Rare' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k4db16k12g24r1g2k2~x2/)
-- [MacCallum](/setts/s7/k6g6r1g6k6db6k1~x2/)
-
 
 ## Thread count
 K/8 DB32 K24 G24 R2 G4 K/4

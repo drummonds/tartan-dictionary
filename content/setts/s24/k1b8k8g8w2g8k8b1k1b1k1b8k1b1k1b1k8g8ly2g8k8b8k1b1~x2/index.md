@@ -2,10 +2,9 @@
 title: "Campbell of Argyll (no guards)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGWGKBKBKBKBKBKGYGKBKB](/stripes/kbkgwgkbkbkbkbkbkgygkbkb/) · **Stripes:** [K B K G W G K B K B K B K B K B K G LY G K B K B](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B K G W G K B K B K B K B K B K G LY G K B K B</span></span>
+In pattern [BKBKGYGKBKBKBKBKBKGWGKBK](/stripes/bkbkgygkbkbkbkbkbkgwgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=513
 

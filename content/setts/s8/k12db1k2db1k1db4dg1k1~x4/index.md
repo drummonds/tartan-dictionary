@@ -2,10 +2,9 @@
 title: "Scottish Funereal Association"
 date: 2023-03-18
 ---
-**Bands:** [KGBKBKBK](/stripes/kgbkbkbk/) · **Stripes:** [K DG DB K DB K DB K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG DB K DB K DB K</span></span>
+In pattern [KBKBKBGK](/stripes/kbkbkbgk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3718
 

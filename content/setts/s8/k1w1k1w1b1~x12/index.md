@@ -2,12 +2,17 @@
 title: "Haig Check (Estate Check)"
 date: 2023-03-18
 ---
-**Bands:** [BWKWKWKW](/stripes/bwkwkwkw/) · **Stripes:** [B W K W K W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B W K W K W K W</span></span>
+In pattern [BWKWKWKW](/stripes/bwkwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6244/
+
+## Related setts
+
+Setts a curator has related to this one.
+
+- **derived-from**: [Shepherd or Falkirk](/tartans/k1ly1/) — The Haig estate check is a coloured elaboration of the black-and-white Shepherd's Check — the Border check — with a blue overcheck added. It was designed in 1908 by the Colonel of the 4th Battalion King's Own Scottish Borderers for the regiment's pipers and later taken up by Earl Haig's family of Bemersyde in the Scottish Borders.
 
 ## Thread count
 B/12 W12 K12 W12 K12 W12 K12 W/12

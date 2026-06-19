@@ -2,10 +2,9 @@
 title: "Abergavenny"
 date: 2023-03-18
 ---
-**Bands:** [WKWRKWWKRWWRKWWKW](/stripes/wkwrkwwkrwwrkwwkw/) · **Stripes:** [LB K LB O K LB LB K O LB LB O K LB LB K LB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB K LB O K LB LB K O LB LB O K LB LB K LB</span></span>
+In pattern [WKWRKWWKRWWRKWWKW](/stripes/wkwrkwwkrwwrkwwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4885
 

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wkrkgkbkrkgy/
 ---
-WKRKGKBKRKGY
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-WKRKGKBKRKGY
+
+{{< pat "WKRKGKBKRKGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY G K R K B K G K R K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G K R K B K G K R K W</span></span>
 
 | Tartans |
 |---------------|
 | [Tait #2](/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/)|
 |![Tait #2 example sett](/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/sett.png)|
-

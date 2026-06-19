@@ -2,10 +2,9 @@
 title: "Bumbee #2 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKGKRKGKRKGKR](/stripes/krkrkrkgkrkgkrkgkr/) · **Stripes:** [K R K R K R K DY K R K DY K R K DY K R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R K R K DY K R K DY K R K DY K R</span></span>
+In pattern [KRKRKRKGKRKGKRKGKR](/stripes/krkrkrkgkrkgkrkgkr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3765/
 

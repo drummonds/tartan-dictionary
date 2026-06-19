@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/kbrbgk/
 ---
-KBRBGK
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/k6t1r18db6dg18k2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-KBRBGK
+
+{{< pat "KBRBGK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K DG DB R T K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG DB R T K</span></span>
 
 | Tartans |
 |---------------|
 | [Eachaidh (Personal)](/setts/s6/k6t1r18db6dg18k2~x2/)|
 |![Eachaidh (Personal) example sett](/setts/s6/k6t1r18db6dg18k2~x2/sett.png)|
-

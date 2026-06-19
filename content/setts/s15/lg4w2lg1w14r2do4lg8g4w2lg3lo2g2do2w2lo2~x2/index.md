@@ -2,10 +2,9 @@
 title: "Highlands of Haliburton Dress (Dist."
 date: 2023-03-18
 ---
-**Bands:** [YWYWRBYGWYYGBWY](/stripes/ywywrbygwyygbwy/) · **Stripes:** [LG W LG W R DO LG G W LG LO G DO W LO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LG W LG W R DO LG G W LG LO G DO W LO</span></span>
+In pattern [YWBGYYWGYBRWYWY](/stripes/ywbgyywgybrwywy/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10474/
 

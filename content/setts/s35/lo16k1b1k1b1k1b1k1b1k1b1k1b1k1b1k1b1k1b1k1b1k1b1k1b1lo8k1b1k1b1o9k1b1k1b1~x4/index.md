@@ -2,10 +2,9 @@
 title: "Coulin"
 date: 2023-03-18
 ---
-**Bands:** [YKBKBKBKBKBKBKBKBKBKBKBKBYKBKBRKBKB](/stripes/ykbkbkbkbkbkbkbkbkbkbkbkbykbkbrkbkb/) · **Stripes:** [LO K B K B K B K B K B K B K B K B K B K B K B K B LO K B K B O K B K B](/stripes/stripes35/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO K B K B K B K B K B K B K B K B K B K B K B K B LO K B K B O K B K B</span></span>
+In pattern [BKBKRBKBKYBKBKBKBKBKBKBKBKBKBKBKBKY](/stripes/bkbkrbkbkybkbkbkbkbkbkbkbkbkbkbkbky/).
 
-
-This was sourced from register-of-tartans.  It is a [35 band tartan](/bands/bands35/).
+This was sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775
 

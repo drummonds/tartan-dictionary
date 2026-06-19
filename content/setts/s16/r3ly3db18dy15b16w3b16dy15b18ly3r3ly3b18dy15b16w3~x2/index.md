@@ -2,10 +2,9 @@
 title: "Hirter Karo (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYBGBWBGBYRYBGBW](/stripes/rybgbwbgbyrybgbw/) · **Stripes:** [R LY DB DY B W B DY B LY R LY B DY B W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY DB DY B W B DY B LY R LY B DY B W</span></span>
+In pattern [RYBGBWBGBYRYBGBW](/stripes/rybgbwbgbyrybgbw/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3907/
 

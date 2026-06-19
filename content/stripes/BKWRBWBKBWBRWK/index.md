@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkwrbwbkbwbrwk/
 ---
-BKWRBWBKBWBRWK
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-BKWRBWBKBWBRWK
+
+{{< pat "BKWRBWBKBWBRWK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K W O T W T K T W T O W K T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K W O T W T K T W T O W K T</span></span>
 
 | Tartans |
 |---------------|
 | [Conquergood](/setts/s14/k4t2w11t5o5w2k1t2~x2/)|
 |![Conquergood example sett](/setts/s14/k4t2w11t5o5w2k1t2~x2/sett.png)|
-

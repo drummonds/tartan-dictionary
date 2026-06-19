@@ -2,10 +2,9 @@
 title: "MacRae of Ardentoul"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRGKWBYBBR](/stripes/rkrkrkrgkwbybbr/) · **Stripes:** [R K R K R K R DG K W DB LY DB T R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K R DG K W DB LY DB T R</span></span>
+In pattern [RBBYBWKGRKRKRKR](/stripes/rbbybwkgrkrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2747
 

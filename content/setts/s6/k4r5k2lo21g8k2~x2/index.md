@@ -2,10 +2,9 @@
 title: "MacDuck #2"
 date: 2023-03-18
 ---
-**Bands:** [KRKYGK](/stripes/krkygk/) · **Stripes:** [K R K LO G K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K LO G K</span></span>
+In pattern [KGYKRK](/stripes/kgykrk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2412
 

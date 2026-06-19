@@ -2,10 +2,9 @@
 title: "Sorbie (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKW](/stripes/rbkbkw/) · **Stripes:** [R B K B K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R B K B K W</span></span>
+In pattern [RBKBKW](/stripes/rbkbkw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6313/
 

@@ -2,10 +2,9 @@
 title: "Berwick-upon-Tweed (symmetric)"
 date: 2023-03-18
 ---
-**Bands:** [RRGRGRBKGKGKRW](/stripes/rrgrgrbkgkgkrw/) · **Stripes:** [R R DG R DG R N K DG K DG K R LB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R R DG R DG R N K DG K DG K R LB</span></span>
+In pattern [RRGRGRBKGKGKRW](/stripes/rrgrgrbkgkgkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5380
 

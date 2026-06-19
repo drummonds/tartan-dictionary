@@ -2,10 +2,9 @@
 title: "Blairlogie or Blair Athol"
 date: 2023-03-18
 ---
-**Bands:** [KRBGBGKGWGKGBGBRB](/stripes/krbgbgkgwgkgbgbrb/) · **Stripes:** [K R DB G DB G K G W G K G DB G DB R DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB G DB G K G W G K G DB G DB R DB</span></span>
+In pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=293
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=293)
 - Scottish Tartans Authority (ITI): 443
 - Scottish Tartans World Register: 443
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Blairlogie, or Blair Athol](/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/)
-
 
 ## Thread count
 K/112 R4 DB32 G8 DB16 G76 K8 G4 LN8 G4 K4 G76 DB16 G8 DB32 R8 DB/12

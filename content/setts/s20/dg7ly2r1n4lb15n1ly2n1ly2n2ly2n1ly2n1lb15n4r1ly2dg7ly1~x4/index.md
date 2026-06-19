@@ -2,10 +2,9 @@
 title: "Hutt #1 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGYRBWBYBYBYBYBWBRYG](/stripes/ygyrbwbybybybybwbryg/) · **Stripes:** [LY DG LY R N LB N LY N LY N LY N LY N LB N R LY DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG LY R N LB N LY N LY N LY N LY N LB N R LY DG</span></span>
+In pattern [GYRBWBYBYBYBYBWBRYGY](/stripes/gyrbwbybybybybwbrygy/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1800
 

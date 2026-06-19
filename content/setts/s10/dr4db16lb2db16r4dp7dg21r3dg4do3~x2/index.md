@@ -2,10 +2,9 @@
 title: "Scottish Lion (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BGRGBRBWBB](/stripes/bgrgbrbwbb/) · **Stripes:** [DO DG R DG DP R DB LB DB DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">DO DG R DG DP R DB LB DB DR</span></span>
+In pattern [BBWBRBGRGB](/stripes/bbwbrbgrgb/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3184/
 

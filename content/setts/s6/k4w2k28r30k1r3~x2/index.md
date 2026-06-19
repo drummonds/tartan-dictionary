@@ -2,10 +2,9 @@
 title: "Ramsay of Dalhousie"
 date: 2023-03-18
 ---
-**Bands:** [KWKRKR](/stripes/kwkrkr/) · **Stripes:** [K W K R K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K R K R</span></span>
+In pattern [KWKRKR](/stripes/kwkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3455
 
@@ -893,14 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hakkarain (Personal)](/setts/s6/k37w18k37r2k2r2~x2/)
-- [Knights Breton](/setts/s6/r19k8r18k50w14k6/)
-
 
 ## Thread count
 K/8 LN4 K56 R60 K2 R/6

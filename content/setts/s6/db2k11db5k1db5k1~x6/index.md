@@ -2,10 +2,9 @@
 title: "Gagetown (School)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKB](/stripes/kbkbkb/) · **Stripes:** [K DB K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB</span></span>
+In pattern [BKBKBK](/stripes/bkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7557/
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5585](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5585)
 - Scottish Tartans Authority (ITI): 7557
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Atlin (Fashion)](/setts/s6/k14db14k14db40k3db2~x2/)
-
 
 ## Thread count
 B/12 K66 B30 K6 B30 K/6

@@ -2,19 +2,11 @@
 title: "Black Isle Corporate Tartan Tartan Number: 6183. Earliest known date: 15/07/2003 Designed for Black Isle Pewter Limited by Robert Howarth Guibal of Black Isle Pewter. Threadcount taken from a Marton Mills swatch book. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKR](/stripes/krkrkr/) · **Stripes:** [K O K O K O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K O K O</span></span>
+In pattern [KRKRKR](/stripes/krkrkr/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6183
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Isle](/setts/s6/k53o22k10o10k2o4~x2/)
-
 
 ## Thread count
 K/96 N44 K20 N20 K4 N/8

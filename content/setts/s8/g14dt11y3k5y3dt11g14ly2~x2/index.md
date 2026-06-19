@@ -2,10 +2,9 @@
 title: "Wilson's No.122"
 date: 2023-03-18
 ---
-**Bands:** [YGBGKGBG](/stripes/ygbgkgbg/) · **Stripes:** [LY G DT Y K Y DT G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G DT Y K Y DT G</span></span>
+In pattern [GBGKGBGY](/stripes/gbgkgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4687
 

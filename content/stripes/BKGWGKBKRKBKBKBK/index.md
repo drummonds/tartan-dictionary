@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkgwgkbkrkbkbkbk/
 ---
-BKGWGKBKRKBKBKBK
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-BKGWGKBKRKBKBKBK
+
+{{< pat "BKGWGKBKRKBKBKBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K T K T K T K R K T K DG W DG K T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T K T K T K R K T K DG W DG K T</span></span>
 
 | Tartans |
 |---------------|
 | [Rankin, John (Personal)](/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/)|
 |![Rankin, John (Personal) example sett](/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/sett.png)|
-

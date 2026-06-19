@@ -2,10 +2,9 @@
 title: "Loch Tay (District)"
 date: 2023-03-18
 ---
-**Bands:** [YGRGKBKGRGW](/stripes/ygrgkbkgrgw/) · **Stripes:** [LO Y R Y K DB K Y R Y LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO Y R Y K DB K Y R Y LB</span></span>
+In pattern [WGRGKBKGRGY](/stripes/wgrgkbkgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10384/
 

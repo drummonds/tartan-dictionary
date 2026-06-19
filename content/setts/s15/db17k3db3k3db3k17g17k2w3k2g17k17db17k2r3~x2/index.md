@@ -2,21 +2,11 @@
 title: "Cumbernauld District Tartan Tartan Number: 1566. Earliest known date: 1987 The Cumbernauld tartan is the same as the MacKenzie, except for a change in the colour scheme. Ancient green was incorporated with modern blue, black and red to represent a new thriving community, proud of its heritage. Cumbernauld is one of Scotlands new towns. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKWKGKBKBKB](/stripes/rkbkgkwkgkbkbkb/) · **Stripes:** [R K DB K G K W K G K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K G K W K G K DB K DB K DB</span></span>
+In pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
 
-
-This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1566
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKenzie Clan Tartan Tartan Number: 267. Earliest known date: 1778 The MacKenzie is the regimental tartan of the Seaforth Highlanders, who were raised by MacKenzie, Earl of Seaforth, in 1778. The clan held lands in Ross-shire and around Muir of Ord, but in the 12th century, they were removed to Wester Ross, (Kintail). The chiefly line of Kintail died out (as prophecisied by the Brahan Seer) and the MacKenzies of Cromarty were recognised as Chiefs of the Clan. Wilson's 1819 pattern book records various widths and weights of cloth suitable for the different ranks in the regiment. The 'hard' tartan of the period was known to cut the legs of the private soldiers. There is a certified sample in the Highland Society of London collection signed by Mrs MacKenzie of Seaforth (1816). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/)
-- [MacKenzie Hunting (Green)](/setts/s15/db12k2db2k2db2k12g12k1w2k1g12k12db12k1r2~x2/)
-- [MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/)
-
 
 ## Thread count
 DB/34 K6 DB6 K6 DB6 K34 G34 K4 LN6 K4 G34 K34 DB34 K4 R/6

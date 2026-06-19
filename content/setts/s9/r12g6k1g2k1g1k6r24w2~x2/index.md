@@ -2,10 +2,9 @@
 title: "Stuart/Stewart of Bute"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKGKRW](/stripes/rgkgkgkrw/) · **Stripes:** [R G K G K G K R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G K G K G K R W</span></span>
+In pattern [RGKGKGKRW](/stripes/rgkgkgkrw/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stuart of Bute, The Htg (Clan)](/setts/s9/r12g6k1g2k1g1k6r24w2~x4/)
-
 
 ## Thread count
 R/24 G12 K2 G4 K2 G2 K12 R48 LN/4

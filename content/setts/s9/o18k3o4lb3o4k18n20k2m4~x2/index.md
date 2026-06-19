@@ -2,10 +2,9 @@
 title: "Heart of the Highlands"
 date: 2023-03-18
 ---
-**Bands:** [RKRWRKBKR](/stripes/rkrwrkbkr/) · **Stripes:** [O K O LB O K N K M](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="seq">O K O LB O K N K M</span></span>
+In pattern [RKBKRWRKR](/stripes/rkbkrwrkr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11275/
 

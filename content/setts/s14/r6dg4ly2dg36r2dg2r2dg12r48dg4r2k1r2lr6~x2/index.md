@@ -2,10 +2,9 @@
 title: "Hay"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRGRGRGRKRY](/stripes/rgygrgrgrgrkry/) · **Stripes:** [R DG LY DG R DG R DG R DG R K R LR](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DG LY DG R DG R DG R DG R K R LR</span></span>
+In pattern [RGYGRGRGRGRKRY](/stripes/rgygrgrgrgrkry/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

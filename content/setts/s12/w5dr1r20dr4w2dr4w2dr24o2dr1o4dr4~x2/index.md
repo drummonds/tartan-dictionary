@@ -2,10 +2,9 @@
 title: "Chrysanthemum (Japanese Four Seasons)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBWBWBRBW](/stripes/brbrbwbwbrbw/) · **Stripes:** [DR O DR O DR W DR W DR R DR W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DR O DR O DR W DR W DR R DR W</span></span>
+In pattern [BRBRBWBWBRBW](/stripes/brbrbwbwbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5901
 

@@ -2,10 +2,9 @@
 title: "Chartered Institute of Bankers"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGWGWYWGWGKGKGKY](/stripes/kgkgkgwgwywgwgkgkgky/) · **Stripes:** [K Y K Y K Y LB Y LB LY LB Y LB Y K Y K Y K LY](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K Y K Y K Y LB Y LB LY LB Y LB Y K Y K Y K LY</span></span>
+In pattern [KGKGKGWGWYWGWGKGKGKY](/stripes/kgkgkgwgwywgwgkgkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=617
 

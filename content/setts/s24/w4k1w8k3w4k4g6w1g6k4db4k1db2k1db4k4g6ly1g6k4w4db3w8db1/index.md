@@ -2,10 +2,9 @@
 title: "Campbell, dress"
 date: 2023-03-18
 ---
-**Bands:** [BWBWKGYGKBKBKBKGWGKWKWKW](/stripes/bwbwkgygkbkbkbkgwgkwkwkw/) · **Stripes:** [DB W DB W K G LY G K DB K DB K DB K G W G K W K W K W](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB W K G LY G K DB K DB K DB K G W G K W K W K W</span></span>
+In pattern [BWBWKGYGKBKBKBKGWGKWKWKW](/stripes/bwbwkgygkbkbkbkgwgkwkwkw/).
 
-
-This was sourced from weddslist.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

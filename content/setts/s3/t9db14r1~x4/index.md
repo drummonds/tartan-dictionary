@@ -2,10 +2,9 @@
 title: "Stakis Hotels (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBB](/stripes/rbb/) · **Stripes:** [R DB T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DB T</span></span>
+In pattern [BBR](/stripes/bbr/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4169/
 

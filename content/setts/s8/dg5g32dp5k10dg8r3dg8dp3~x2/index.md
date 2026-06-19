@@ -2,10 +2,9 @@
 title: "Scottish Power (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GGBKGRGB](/stripes/ggbkgrgb/) · **Stripes:** [DG G DP K DG R DG DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG G DP K DG R DG DP</span></span>
+In pattern [BGRGKBGG](/stripes/bgrgkbgg/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2435/
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3739](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3739)
 - Scottish Tartans Authority (ITI): 2435
 - Scottish Tartans World Register: 2435
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Womens Rural Institute](/setts/s8/dg4g24dp4k6dg4r3dg4dp3~x2/)
-
 
 ## Thread count
 Ga/10 G64 P10 K20 Ga16 DR6 Ga16 P/6

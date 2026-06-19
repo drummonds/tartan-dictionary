@@ -2,10 +2,9 @@
 title: "Unidentified, pattern"
 date: 2023-03-18
 ---
-**Bands:** [YBG](/stripes/ybg/) · **Stripes:** [LY DB G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB G</span></span>
+In pattern [GBY](/stripes/gby/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

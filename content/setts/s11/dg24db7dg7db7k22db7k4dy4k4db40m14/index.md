@@ -2,10 +2,9 @@
 title: "Brethwe Powys"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKBKBGBG](/stripes/rbkgkbkbgbg/) · **Stripes:** [M DB K DY K DB K DB DG DB DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">M DB K DY K DB K DB DG DB DG</span></span>
+In pattern [GBGBKBKGKBR](/stripes/gbgbkbkgkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5846
 

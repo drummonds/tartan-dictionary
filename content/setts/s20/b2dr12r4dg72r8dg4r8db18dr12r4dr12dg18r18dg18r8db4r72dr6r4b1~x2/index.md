@@ -2,10 +2,9 @@
 title: "MacDougall"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRGRGBRBBRGRGRBB](/stripes/brbrbrgrgbrbbrgrgrbb/) · **Stripes:** [B R DR R DB R DG R DG DR R DR DB R DG R DG R DR B](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B R DR R DB R DG R DG DR R DR DB R DG R DG R DR B</span></span>
+In pattern [BBRGRGRBBRBGRGRBRBRB](/stripes/bbrgrgrbbrbgrgrbrbrb/).
 
-
-This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

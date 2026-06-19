@@ -2,10 +2,9 @@
 title: "Daughters of the American Revolution"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBBBBBRWRW](/stripes/bwbwbbbbbrwrw/) · **Stripes:** [B W B W B B B B DB R W R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B W B W B B B B DB R W R W</span></span>
+In pattern [BWBWBBBBBRWRW](/stripes/bwbwbbbbbrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11129
 

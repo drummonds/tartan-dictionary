@@ -2,10 +2,9 @@
 title: "Stuart of Bute, The Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKGKRW](/stripes/rgkgkgkrw/) · **Stripes:** [R G K G K G K R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G K G K G K R W</span></span>
+In pattern [RGKGKGKRW](/stripes/rgkgkgkrw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1485/
 
@@ -15,13 +14,6 @@ This cloth is also recorded under:
 
 - Stuart of Bute, The Htg
 - Stuart/Stewart of Bute
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stuart/Stewart of Bute](/setts/s9/r12g6k1g2k1g1k6r24w2~x2/)
-
 
 ## Thread count
 R/48 G24 K4 G8 K4 G4 K24 R96 LN/8

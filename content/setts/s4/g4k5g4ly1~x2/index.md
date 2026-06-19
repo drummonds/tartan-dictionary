@@ -2,10 +2,9 @@
 title: "Wilson's No.053 #2"
 date: 2023-03-18
 ---
-**Bands:** [YGKG](/stripes/ygkg/) · **Stripes:** [LY G K G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G K G</span></span>
+In pattern [GKGY](/stripes/gkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4658
 

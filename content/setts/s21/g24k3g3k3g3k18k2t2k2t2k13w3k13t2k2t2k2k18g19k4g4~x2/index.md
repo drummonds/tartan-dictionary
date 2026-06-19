@@ -2,10 +2,9 @@
 title: "Dorris"
 date: 2023-03-18
 ---
-**Bands:** [GKGKKBKBKWKBKBKKGKGKG](/stripes/gkgkkbkbkwkbkbkkgkgkg/) · **Stripes:** [G K G K K T K T K W K T K T K K G K G K G](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K K T K T K W K T K T K K G K G K G</span></span>
+In pattern [GKGKGKKBKBKWKBKBKKGKG](/stripes/gkgkgkkbkbkwkbkbkkgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=953
 

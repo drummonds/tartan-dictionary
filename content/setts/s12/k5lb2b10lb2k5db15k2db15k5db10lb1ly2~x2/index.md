@@ -2,10 +2,9 @@
 title: "Goodwin, Robert Richard (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWBWKBKBKBWY](/stripes/kwbwkbkbkbwy/) · **Stripes:** [K LB B LB K DB K DB K DB LB LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LB B LB K DB K DB K DB LB LY</span></span>
+In pattern [KWBWKBKBKBWY](/stripes/kwbwkbkbkbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11512
 

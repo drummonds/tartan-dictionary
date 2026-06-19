@@ -2,19 +2,11 @@
 title: "Skene of Cromar - 1950 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KRGBRBRK](/stripes/krgbrbrk/) · **Stripes:** [K R G DB R DB R K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R G DB R DB R K</span></span>
+In pattern [KRBRBGRK](/stripes/krbrbgrk/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1136/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Skene, of Cromar](/setts/s8/k4r37db37r2db37g37r37k4/)
-
 
 ## Thread count
 K/8 R74 DB74 R4 DB74 G74 R74 K/8

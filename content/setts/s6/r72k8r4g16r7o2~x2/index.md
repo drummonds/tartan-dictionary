@@ -2,10 +2,9 @@
 title: "MacAndrew Dress (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RKRGRR](/stripes/rkrgrr/) · **Stripes:** [R K R G R O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R K R G R O</span></span>
+In pattern [RKRGRR](/stripes/rkrgrr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7608/
 

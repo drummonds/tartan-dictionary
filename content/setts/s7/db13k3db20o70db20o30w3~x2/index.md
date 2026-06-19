@@ -2,10 +2,9 @@
 title: "Unidentified 21"
 date: 2023-03-18
 ---
-**Bands:** [BKBRBRW](/stripes/bkbrbrw/) · **Stripes:** [DB K DB O DB O W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB O DB O W</span></span>
+In pattern [BKBRBRW](/stripes/bkbrbrw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

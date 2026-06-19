@@ -2,10 +2,9 @@
 title: "Glen Stewart"
 date: 2023-03-18
 ---
-**Bands:** [RBKYKBKRKRW](/stripes/rbkykbkrkrw/) · **Stripes:** [R DB K LY K B K R K R LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB K LY K B K R K R LB</span></span>
+In pattern [RBKYKBKRKRW](/stripes/rbkykbkrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1398
 

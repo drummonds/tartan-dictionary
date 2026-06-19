@@ -2,10 +2,9 @@
 title: "Gillies"
 date: 2023-03-18
 ---
-**Bands:** [KBKGRGKYKGRGKB](/stripes/kbkgrgkykgrgkb/) · **Stripes:** [K DB K G R G K LY K G R G K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K G R G K LY K G R G K DB</span></span>
+In pattern [BKGRGKYKGRGKBK](/stripes/bkgrgkykgrgkbk/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,16 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gillies](/setts/s14/db88k15g9r12g20k3ly8k6g20r12g9k15db24k36/)
-- [MacClellan](/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/)
-- [MacLellan](/setts/s14/db15k8g3r3g5k2ly2k2g5r3g3k8db8k8~x4/)
-- [MacLellan Clan Tartan Tartan Number: 323. Earliest known date: pre 2003 Very similar to MacLaren See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db29k15g5r5g8k4ly4k4g8r5g5k15db7k15~x2/)
-
 
 ## Thread count
 B/176 K30 G18 R24 G40 K6 Y16 K6 G40 R24 G18 K30 B48 K/72

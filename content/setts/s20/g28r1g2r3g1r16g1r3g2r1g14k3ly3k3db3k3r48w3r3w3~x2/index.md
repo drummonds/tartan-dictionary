@@ -2,10 +2,9 @@
 title: "Moray Plaid Artifact Tartan Tartan Number: 991. Earliest known date: 1820 Early 19thC. MacGregor-Hastie's list of unknowns. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRGRGKYKBKRWRW](/stripes/grgrgrgrgrgkykbkrwrw/) · **Stripes:** [G R G R G R G R G R G K LY K DB K R W R W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R G R G R G R G R G K LY K DB K R W R W</span></span>
+In pattern [GRGRGRGRGRGKYKBKRWRW](/stripes/grgrgrgrgrgkykbkrwrw/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=991
 

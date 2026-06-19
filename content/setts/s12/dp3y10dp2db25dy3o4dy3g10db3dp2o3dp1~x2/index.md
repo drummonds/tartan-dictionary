@@ -2,10 +2,9 @@
 title: "Bowhunter (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBBGGRGBBGB](/stripes/brbbggrgbbgb/) · **Stripes:** [DP O DP DB G DY O DY DB DP Y DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP O DP DB G DY O DY DB DP Y DP</span></span>
+In pattern [BGBBGRGGBBRB](/stripes/bgbbgrggbbrb/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10267/
 

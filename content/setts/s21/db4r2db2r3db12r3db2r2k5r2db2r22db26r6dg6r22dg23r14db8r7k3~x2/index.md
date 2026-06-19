@@ -2,10 +2,9 @@
 title: "Murray of Tullibardine"
 date: 2023-03-18
 ---
-**Bands:** [KRBRGRGRBRBRKRBRBRBRB](/stripes/krbrgrgrbrbrkrbrbrbrb/) · **Stripes:** [K R DB R DG R DG R DB R DB R K R DB R DB R DB R DB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB R DG R DG R DB R DB R K R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3070
 
@@ -21,14 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3070](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3070)
 - Scottish Tartans World Register: 440
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Murray of Tullibardine](/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1/)
-- [Murray of Tullibardine #2](/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1~x2/)
-
 
 ## Thread count
 B/8 R4 B4 R6 B24 R6 B4 R4 K10 R4 B4 R44 B52 R12 G12 R44 G46 R28 B16 R14 K/6

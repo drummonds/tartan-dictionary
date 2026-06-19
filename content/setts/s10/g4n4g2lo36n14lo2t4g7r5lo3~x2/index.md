@@ -2,10 +2,9 @@
 title: "Rikaco Eve (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YRGBYBYGBG](/stripes/yrgbybygbg/) · **Stripes:** [LO R G T LO N LO G N G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO R G T LO N LO G N G</span></span>
+In pattern [GBGYBYBGRY](/stripes/gbgybybgry/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10439/
 

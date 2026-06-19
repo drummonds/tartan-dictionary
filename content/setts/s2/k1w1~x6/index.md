@@ -2,10 +2,9 @@
 title: "Shepherd Check (Universal)"
 date: 2023-03-18
 ---
-**Bands:** [KW](/stripes/kw/) · **Stripes:** [K W](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W</span></span>
+In pattern [KW](/stripes/kw/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1253/
 
@@ -23,15 +22,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 - 260 AD — Shepherd Check (Universal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1253/))
 - 260 AD — Northumberland (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6765/))
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Falkirk Tartan](/setts/s2/k1w1~x24/)
-- [Shepherd](/setts/s2/k1w1~x15/)
-- [Shepherd Check](/setts/s2/k1w1~x28/)
-
 
 ## Thread count
 K/6 LN/6

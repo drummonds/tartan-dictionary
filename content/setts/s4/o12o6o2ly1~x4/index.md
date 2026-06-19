@@ -2,10 +2,9 @@
 title: "Loch Garth"
 date: 2023-03-18
 ---
-**Bands:** [RRRY](/stripes/rrry/) · **Stripes:** [O O O LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O O O LY</span></span>
+In pattern [RRRY](/stripes/rrry/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

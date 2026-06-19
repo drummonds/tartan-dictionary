@@ -2,19 +2,11 @@
 title: "Watertown Library Assoc. (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKG](/stripes/kgkgkgkg/) · **Stripes:** [K Y K Y K Y K Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y K Y K Y K Y</span></span>
+In pattern [GKGKGKGK](/stripes/gkgkgkgk/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6268/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Douglas VS](/setts/s8/k16y1k1y1k8y16k1y2~x2/)
-
 
 ## Thread count
 K/8 LG4 K54 LG4 K16 LG62 K4 LG/8

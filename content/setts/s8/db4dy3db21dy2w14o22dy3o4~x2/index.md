@@ -2,10 +2,9 @@
 title: "Bannock Bane M.407"
 date: 2023-03-18
 ---
-**Bands:** [RGRWGBGB](/stripes/rgrwgbgb/) · **Stripes:** [O DY O W DY DB DY DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">O DY O W DY DB DY DB</span></span>
+In pattern [BGBGWRGR](/stripes/bgbgwrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=194
 

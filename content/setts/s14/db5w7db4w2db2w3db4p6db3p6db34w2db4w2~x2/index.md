@@ -2,10 +2,9 @@
 title: "Majewski-White (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/) · **Stripes:** [DB W DB W DB W DB P DB P DB W DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB W DB W DB P DB P DB W DB W</span></span>
+In pattern [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10823
 

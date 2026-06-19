@@ -2,10 +2,9 @@
 title: "Kenya"
 date: 2023-03-18
 ---
-**Bands:** [RWRKRKWRWGKBKW](/stripes/rwrkrkwrwgkbkw/) · **Stripes:** [R W R K R K W R W DG K DB K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R K R K W R W DG K DB K W</span></span>
+In pattern [RWRKRKWRWGKBKW](/stripes/rwrkrkwrwgkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5920
 

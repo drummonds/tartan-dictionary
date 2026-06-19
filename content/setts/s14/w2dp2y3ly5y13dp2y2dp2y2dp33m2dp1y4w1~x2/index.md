@@ -2,10 +2,9 @@
 title: "Scottish Bakers"
 date: 2023-03-18
 ---
-**Bands:** [WGBRBGBGBGYGBW](/stripes/wgbrbgbgbgygbw/) · **Stripes:** [W Y DP M DP Y DP Y DP Y LY Y DP W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W Y DP M DP Y DP Y DP Y LY Y DP W</span></span>
+In pattern [WBGYGBGBGBRBGW](/stripes/wbgygbgbgbrbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11513
 

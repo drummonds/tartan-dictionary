@@ -2,19 +2,11 @@
 title: "Dunbar, John Telfer (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKR](/stripes/rkrkrkr/) · **Stripes:** [O K O K O K O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K O K O</span></span>
+In pattern [RKRKRKR](/stripes/rkrkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4745/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scott Black & Grey (Corporate)](/setts/s7/o8k3o17k13o6k3o4~x2/)
-
 
 ## Thread count
 R/10 K4 R56 K20 R52 K8 R/8

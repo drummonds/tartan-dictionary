@@ -2,10 +2,9 @@
 title: "Pavelka Limited"
 date: 2023-03-18
 ---
-**Bands:** [WKYWYGGW](/stripes/wkywyggw/) · **Stripes:** [W K LO W LO G G LT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">W K LO W LO G G LT</span></span>
+In pattern [WGGYWYKW](/stripes/wggywykw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11144
 

@@ -2,19 +2,11 @@
 title: "Wombles 3 (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [WBRBGBWBW](/stripes/wbrbgbwbw/) · **Stripes:** [W DB R DB G DB W DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB R DB G DB W DB W</span></span>
+In pattern [WBRBGBWBW](/stripes/wbrbgbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1773/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Womble](/setts/s9/w4db8w1db1g6db3r6db1w4~x2/)
-
 
 ## Thread count
 W/16 DB32 W4 DBa4 G24 DBa12 R24 DBa4 W/16

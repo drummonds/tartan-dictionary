@@ -2,10 +2,9 @@
 title: "Ramsay"
 date: 2023-03-18
 ---
-**Bands:** [KWKRBR](/stripes/kwkrbr/) · **Stripes:** [K W K R DP R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K R DP R</span></span>
+In pattern [KWKRBR](/stripes/kwkrbr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ramsay (Red)](/setts/s6/k4w1k28r30dp1r3~x2/)
-
 
 ## Thread count
 K/8 LN4 K56 R60 DP2 R/6

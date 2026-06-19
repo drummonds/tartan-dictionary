@@ -2,10 +2,9 @@
 title: "Scotland’s Golf Coast"
 date: 2023-03-18
 ---
-**Bands:** [YGBBBBBWY](/stripes/ygbbbbbwy/) · **Stripes:** [LO DG DB DP DB DP DB W LG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LO DG DB DP DB DP DB W LG</span></span>
+In pattern [YGBBBBBWY](/stripes/ygbbbbbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11297
 

@@ -2,10 +2,9 @@
 title: "Lachine Historic"
 date: 2023-03-18
 ---
-**Bands:** [RYWKBYW](/stripes/rywkbyw/) · **Stripes:** [R LY W K T LG W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY W K T LG W</span></span>
+In pattern [RYWKBYW](/stripes/rywkbyw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020
 

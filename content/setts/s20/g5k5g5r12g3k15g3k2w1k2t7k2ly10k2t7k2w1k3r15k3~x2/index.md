@@ -2,10 +2,9 @@
 title: "Jones, Melnyk (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKWKBKYKBKWKGKGRGKG](/stripes/krkwkbkykbkwkgkgrgkg/) · **Stripes:** [K R K W K T K LY K T K W K G K G R G K G](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R K W K T K LY K T K W K G K G R G K G</span></span>
+In pattern [GKGRGKGKWKBKYKBKWKRK](/stripes/gkgrgkgkwkbkykbkwkrk/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7785/
 

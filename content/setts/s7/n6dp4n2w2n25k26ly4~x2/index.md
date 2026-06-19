@@ -2,10 +2,9 @@
 title: "New York State Troopers"
 date: 2023-03-18
 ---
-**Bands:** [YKBWBBB](/stripes/ykbwbbb/) · **Stripes:** [LY K N W N DP N](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="seq">LY K N W N DP N</span></span>
+In pattern [BBBWBKY](/stripes/bbbwbky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3123
 

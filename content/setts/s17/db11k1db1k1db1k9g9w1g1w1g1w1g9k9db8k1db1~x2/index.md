@@ -2,10 +2,9 @@
 title: "Baillie of Polkemett Family Tartan Tartan Number: 206. Earliest known date: 1937 This sett was designed by Mr A.W. Geddes of Messrs William Anderson of Edinburgh in 1937. It is based on the MacKenzie tartan substituting three fine white lines on the green in place of the single stripe. It was designed for the Baillies of Polkemett. Geddes also produced a red sett for the Baillies around the same period. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGWGWGWGKBKBKB](/stripes/bkbkgwgwgwgkbkbkb/) · **Stripes:** [DB K DB K G W G W G W G K DB K DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G W G W G W G K DB K DB K DB</span></span>
+In pattern [BKBKBKGWGWGWGKBKB](/stripes/bkbkbkgwgwgwgkbkb/).
 
-
-This was sourced from house-of-tartan.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=206
 
@@ -15,13 +14,6 @@ This cloth is also recorded under:
 
 - Baillie of Polkemett, Green
 - Baillie of Polkemmet
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Baillie of Polkemmet](/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/)
-
 
 ## Thread count
 DB/22 K2 DB2 K2 DB2 K18 G18 LN2 G2 LN2 G2 LN2 G18 K18 DB16 K2 DB/2

@@ -2,10 +2,9 @@
 title: "Kerry, County"
 date: 2023-03-18
 ---
-**Bands:** [YBGBGBGBGBGBGBY](/stripes/ybgbgbgbgbgbgby/) · **Stripes:** [LO DT DY DT Y DT DY DT Y DT DY DT Y DT LO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DT DY DT Y DT DY DT Y DT DY DT Y DT LO</span></span>
+In pattern [YBGBGBGBGBGBGBY](/stripes/ybgbgbgbgbgbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1956
 

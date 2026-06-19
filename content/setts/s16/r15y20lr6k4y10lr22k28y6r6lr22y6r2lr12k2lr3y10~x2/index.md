@@ -2,10 +2,9 @@
 title: "Alexander Brothers - 1993 (Corp.)"
 date: 2023-03-18
 ---
-**Bands:** [RGYKGYKGRYGRYKYG](/stripes/rgykgykgrygrykyg/) · **Stripes:** [R Y LR K Y LR K Y R LR Y R LR K LR Y](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y LR K Y LR K Y R LR Y R LR K LR Y</span></span>
+In pattern [GYKYRGYRGKYGKYGR](/stripes/gykyrgyrgkygkygr/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3050/
 

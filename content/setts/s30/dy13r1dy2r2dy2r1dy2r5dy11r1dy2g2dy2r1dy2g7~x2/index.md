@@ -2,10 +2,9 @@
 title: "Sarna (Town)"
 date: 2023-03-18
 ---
-**Bands:** [GRGGGRGRGRGRGRGRGRGRGRGRGGGRGG](/stripes/grgggrgrgrgrgrgrgrgrgrgrgggrgg/) · **Stripes:** [DY R DY G DY R DY R DY R DY R DY R DY R DY R DY R DY R DY R DY G DY R DY G](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DY R DY G DY R DY R DY R DY R DY R DY R DY R DY R DY R DY R DY G DY R DY G</span></span>
+In pattern [GGRGGGRGRGRGRGRGRGRGRGRGRGGGRG](/stripes/ggrgggrgrgrgrgrgrgrgrgrgrgggrg/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3655
 

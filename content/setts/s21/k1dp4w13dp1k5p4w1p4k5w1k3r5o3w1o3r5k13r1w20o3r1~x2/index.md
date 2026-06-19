@@ -2,10 +2,9 @@
 title: "Aberdeen Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KBWBKBWBKWKRRWRRKRWRR](/stripes/kbwbkbwbkwkrrwrrkrwrr/) · **Stripes:** [K DP W DP K P W P K W K R O W O R K R W O R](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DP W DP K P W P K W K R O W O R K R W O R</span></span>
+In pattern [KBWBKBWBKWKRRWRRKRWRR](/stripes/kbwbkbwbkwkrrwrrkrwrr/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3008/
 

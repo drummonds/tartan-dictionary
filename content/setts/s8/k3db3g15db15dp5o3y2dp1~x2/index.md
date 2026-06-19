@@ -2,10 +2,9 @@
 title: "Young"
 date: 2023-03-18
 ---
-**Bands:** [KBGBBRGB](/stripes/kbgbbrgb/) · **Stripes:** [K DB G DB DP O Y DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DB G DB DP O Y DP</span></span>
+In pattern [BGRBBGBK](/stripes/bgrbbgbk/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

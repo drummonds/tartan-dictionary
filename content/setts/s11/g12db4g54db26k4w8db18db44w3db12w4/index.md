@@ -2,10 +2,9 @@
 title: "Scottish Motor Trade Association"
 date: 2023-03-18
 ---
-**Bands:** [GBGBKWBBWBW](/stripes/gbgbkwbbwbw/) · **Stripes:** [G DB G DB K W DB DB W DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G DB G DB K W DB DB W DB W</span></span>
+In pattern [GBGBKWBBWBW](/stripes/gbgbkwbbwbw/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

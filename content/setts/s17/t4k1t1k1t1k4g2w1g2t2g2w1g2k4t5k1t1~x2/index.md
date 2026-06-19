@@ -2,10 +2,9 @@
 title: "Arbuthnott"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGWGBGWGKBKBKB](/stripes/bkbkgwgbgwgkbkbkb/) · **Stripes:** [T K T K G W G T G W G K T K T K T](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T K G W G T G W G K T K T K T</span></span>
+In pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=106
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [106](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=106)
 - Scottish Tartans Authority (ITI): 204
 - Scottish Tartans World Register: 204
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Arbuthnott (Clan)](/setts/s17/t15k2t2k2t2k14g12w2g4t4g4w2g12k14t15k2t2~x2/)
-
 
 ## Thread count
 B/8 K2 B2 K2 B2 K8 G4 LN2 G4 B4 G4 LN2 G4 K8 B10 K2 B/2

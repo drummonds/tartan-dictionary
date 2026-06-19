@@ -2,10 +2,9 @@
 title: "London Scottish Rugby Club"
 date: 2023-03-18
 ---
-**Bands:** [KGKWKR](/stripes/kgkwkr/) · **Stripes:** [K G K W K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K W K R</span></span>
+In pattern [KGKWKR](/stripes/kgkwkr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

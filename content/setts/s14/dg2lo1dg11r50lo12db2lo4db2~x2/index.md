@@ -2,10 +2,9 @@
 title: "Slessor (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGRYBYBYBYRGYG](/stripes/ygrybybybyrgyg/) · **Stripes:** [LO DG R LO DB LO DB LO DB LO R DG LO DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG R LO DB LO DB LO DB LO R DG LO DG</span></span>
+In pattern [GYGRYBYBYBYRGY](/stripes/gygrybybybyrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3818
 

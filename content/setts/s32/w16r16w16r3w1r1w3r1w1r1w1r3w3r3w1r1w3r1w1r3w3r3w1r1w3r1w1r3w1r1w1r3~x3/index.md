@@ -2,10 +2,9 @@
 title: "Boy Scouts of Canada (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW](/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/) · **Stripes:** [R W R W R W R W R W R W R W R W R W R W R W R W R W R W R W R W](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R W R W R W R W R W R W R W R W R W R W R W R W R W R W R W</span></span>
+In pattern [RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW](/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8023/
 

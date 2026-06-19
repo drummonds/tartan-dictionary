@@ -2,10 +2,9 @@
 title: "Orlando Police Department (Corporate"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBYB](/stripes/ybbbbbbyb/) · **Stripes:** [LY DB T DB T DB T LY DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB T DB T DB T LY DB</span></span>
+In pattern [BYBBBBBBY](/stripes/bybbbbbby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6054/
 

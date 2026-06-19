@@ -2,10 +2,9 @@
 title: "Unknown U.S. kilt"
 date: 2023-03-18
 ---
-**Bands:** [KGKRYKYRKGKRKY](/stripes/kgkrykyrkgkrky/) · **Stripes:** [K Y K R LY K LY R K Y K R K LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K Y K R LY K LY R K Y K R K LY</span></span>
+In pattern [KGKRYKYRKGKRKY](/stripes/kgkrykyrkgkrky/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4406
 

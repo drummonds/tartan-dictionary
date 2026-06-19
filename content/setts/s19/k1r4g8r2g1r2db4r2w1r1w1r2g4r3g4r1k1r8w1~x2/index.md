@@ -2,10 +2,9 @@
 title: "MacDougal 5"
 date: 2023-03-18
 ---
-**Bands:** [KRGRGRBRWRWRGRGRKRW](/stripes/krgrgrbrwrwrgrgrkrw/) · **Stripes:** [K R G R G R DB R W R W R G R G R K R W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R G R G R DB R W R W R G R G R K R W</span></span>
+In pattern [KRGRGRBRWRWRGRGRKRW](/stripes/krgrgrbrwrwrgrgrkrw/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

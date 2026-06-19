@@ -2,10 +2,9 @@
 title: "Forbes - 1880 (Clans Originaux)"
 date: 2023-03-18
 ---
-**Bands:** [WGKWKWBW](/stripes/wgkwkwbw/) · **Stripes:** [W G K W K W DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G K W K W DB W</span></span>
+In pattern [WBWKWKGW](/stripes/wbwkwkgw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3490/
 

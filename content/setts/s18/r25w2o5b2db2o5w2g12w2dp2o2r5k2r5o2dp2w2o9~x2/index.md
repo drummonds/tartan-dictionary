@@ -2,10 +2,9 @@
 title: "Campbell, New Louden"
 date: 2023-03-18
 ---
-**Bands:** [RWRBBRWGWBRRKRRBWR](/stripes/rwrbbrwgwbrrkrrbwr/) · **Stripes:** [R W O B DB O W G W DP O R K R O DP W O](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R W O B DB O W G W DP O R K R O DP W O</span></span>
+In pattern [RWBRRKRRBWGWRBBRWR](/stripes/rwbrrkrrbwgwrbbrwr/).
 
-
-This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

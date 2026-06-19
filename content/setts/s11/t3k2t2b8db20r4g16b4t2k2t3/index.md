@@ -2,10 +2,9 @@
 title: "Unnamed, No 20"
 date: 2023-03-18
 ---
-**Bands:** [BKBBGRBBBKB](/stripes/bkbbgrbbbkb/) · **Stripes:** [T K T B G R DB B T K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T B G R DB B T K T</span></span>
+In pattern [BKBBBRGBBKB](/stripes/bkbbbrgbbkb/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

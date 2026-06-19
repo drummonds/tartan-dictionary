@@ -2,10 +2,9 @@
 title: "MacGregor, Black (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKW](/stripes/rkrkw/) · **Stripes:** [R K R K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K R K W</span></span>
+In pattern [RKRKW](/stripes/rkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2461
 
@@ -15,14 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2461](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2461)
 - Scottish Tartans Authority (ITI): 6988
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hopkins (Name)](/setts/s5/r36k18r4k7w2~x2/)
-- [Masai Shuka 15 (Artefact)](/setts/s5/r20k2r2k15w1~x2/)
-
 
 ## Thread count
 R/82 K38 R14 K18 W/6

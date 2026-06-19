@@ -2,10 +2,9 @@
 title: "Burnett's & Struth (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YKBBB](/stripes/ykbbb/) · **Stripes:** [LO K DT B DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="seq">LO K DT B DT</span></span>
+In pattern [BBBKY](/stripes/bbbky/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4085/
 

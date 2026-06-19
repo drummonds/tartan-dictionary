@@ -2,10 +2,9 @@
 title: "MacLaine of Lochbuie, hunting"
 date: 2023-03-18
 ---
-**Bands:** [YKBRB](/stripes/ykbrb/) · **Stripes:** [LY K DB R DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K DB R DB</span></span>
+In pattern [BRBKY](/stripes/brbky/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -935,13 +934,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLaine of Lochbuie Hunting](/setts/s5/db32r3db4k1ly3/)
-
 
 ## Thread count
 B/64 R6 B8 K2 Y/6

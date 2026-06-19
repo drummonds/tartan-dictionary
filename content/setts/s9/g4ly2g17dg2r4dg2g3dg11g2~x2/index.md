@@ -2,10 +2,9 @@
 title: "Armagh"
 date: 2023-03-18
 ---
-**Bands:** [GYGGRGGGG](/stripes/gyggrgggg/) · **Stripes:** [G LY G DG R DG G DG G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY G DG R DG G DG G</span></span>
+In pattern [GGGGRGGYG](/stripes/ggggrggyg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

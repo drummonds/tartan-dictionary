@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/grkwkykgrk/
 ---
-GRKWKYKGRK
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GRKWKYKGRK
+
+{{< pat "GRKWKYKGRK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K R DG K LY K W K R DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K R DG K LY K W K R DG</span></span>
 
 | Tartans |
 |---------------|
 | [Palmer, Arnold](/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/)|
 |![Palmer, Arnold example sett](/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/sett.png)|
-

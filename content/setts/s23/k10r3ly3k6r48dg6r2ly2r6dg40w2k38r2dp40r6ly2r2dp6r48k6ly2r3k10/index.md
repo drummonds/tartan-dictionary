@@ -2,10 +2,9 @@
 title: "Hay & Leith - 1800 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KRYKRGRYRGWKRBRYRBRKYRK](/stripes/krykrgryrgwkrbryrbrkyrk/) · **Stripes:** [K R LY K R DG R LY R DG W K R DP R LY R DP R K LY R K](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R LY K R DG R LY R DG W K R DP R LY R DP R K LY R K</span></span>
+In pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
 
-
-This was sourced from tartans-authority.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1215/
 

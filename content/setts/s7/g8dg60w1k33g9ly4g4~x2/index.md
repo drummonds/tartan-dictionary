@@ -2,10 +2,9 @@
 title: "Duffy"
 date: 2023-03-18
 ---
-**Bands:** [GYGKWGG](/stripes/gygkwgg/) · **Stripes:** [G LY G K W DG G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY G K W DG G</span></span>
+In pattern [GGWKGYG](/stripes/ggwkgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008
 

@@ -2,10 +2,9 @@
 title: "Waugh (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBB](/stripes/rbkbb/) · **Stripes:** [R T K T DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R T K T DB</span></span>
+In pattern [BBKBR](/stripes/bbkbr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10028/
 

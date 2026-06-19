@@ -2,10 +2,9 @@
 title: "Wcwm 9275-1333-1"
 date: 2023-03-18
 ---
-**Bands:** [KBKB](/stripes/kbkb/) · **Stripes:** [K DP K DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K DP</span></span>
+In pattern [BKBK](/stripes/bkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4558
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4558](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4558)
 - Scottish Tartans Authority (ITI): 4393
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Leonard Hunting (Name)](/setts/s4/k30dp5k10dp9~x4/)
-
 
 ## Thread count
 K/40 DP6 K40 DP/40

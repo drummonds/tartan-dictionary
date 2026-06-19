@@ -2,10 +2,9 @@
 title: "Unidentified Lindley #3"
 date: 2023-03-18
 ---
-**Bands:** [KGYWBWBWBWYBYWBWBWBWYG](/stripes/kgywbwbwbwybywbwbwbwyg/) · **Stripes:** [K G LO W DB W DB W DB W LY DB LY W DB W DB W DB W LO G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G LO W DB W DB W DB W LY DB LY W DB W DB W DB W LO G</span></span>
+In pattern [GYWBWBWBWYBYWBWBWBWYGK](/stripes/gywbwbwbwybywbwbwbwygk/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4305
 

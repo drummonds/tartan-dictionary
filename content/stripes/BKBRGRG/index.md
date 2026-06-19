@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbrgrg/
 ---
-BKBRGRG
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/g27r2g4r15db26k2db6~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BKBRGRG
+
+{{< pat "BKBRGRG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G R G R DB K DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Bailies of Bennachie (Corporate)](/setts/s7/g27r2g4r15db26k2db6~x2/)|
 |![Bailies of Bennachie (Corporate) example sett](/setts/s7/g27r2g4r15db26k2db6~x2/sett.png)|
-

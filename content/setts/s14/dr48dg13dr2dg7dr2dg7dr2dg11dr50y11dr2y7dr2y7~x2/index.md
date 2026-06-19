@@ -2,10 +2,9 @@
 title: "Unidentified Plaid"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBGBGBGBGB](/stripes/gbgbgbgbgbgbgb/) · **Stripes:** [Y DR Y DR Y DR DG DR DG DR DG DR DG DR](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">Y DR Y DR Y DR DG DR DG DR DG DR DG DR</span></span>
+In pattern [BGBGBGBGBGBGBG](/stripes/bgbgbgbgbgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4342
 

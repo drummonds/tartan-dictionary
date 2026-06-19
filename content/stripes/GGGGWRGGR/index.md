@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/ggggwrggr/
 ---
-GGGGWRGGR
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-GGGGWRGGR
+
+{{< pat "GGGGWRGGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### O DG G O W DG G DG G <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O DG G O W DG G DG G</span></span>
 
 | Tartans |
 |---------------|
 | [MacDonald of Kingsburgh -1746 (Clan)](/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/)|
 |![MacDonald of Kingsburgh -1746 (Clan) example sett](/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/sett.png)|
-

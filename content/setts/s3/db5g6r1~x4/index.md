@@ -2,10 +2,9 @@
 title: "Wilson's No 84, Ferguson"
 date: 2023-03-18
 ---
-**Bands:** [RGB](/stripes/rgb/) · **Stripes:** [R G DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R G DB</span></span>
+In pattern [BGR](/stripes/bgr/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,15 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Agnew](/setts/s3/db53g42r14~x2/)
-- [Agnew](/setts/s3/db53g42r14/)
-- [Ferguson](/setts/s3/db6g5r1~x4/)
-
 
 ## Thread count
 B/20 G24 R/4

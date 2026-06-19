@@ -2,10 +2,9 @@
 title: "Asahi (Estimated threadcount)"
 date: 2023-03-18
 ---
-**Bands:** [WBWBW](/stripes/wbwbw/) · **Stripes:** [W B W B W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W B W B W</span></span>
+In pattern [WBWBW](/stripes/wbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=121
 

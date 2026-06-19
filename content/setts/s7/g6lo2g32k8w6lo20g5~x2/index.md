@@ -2,19 +2,11 @@
 title: "Pollock (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GYGKWYG](/stripes/gygkwyg/) · **Stripes:** [G LO G K W LO G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LO G K W LO G</span></span>
+In pattern [GYGKWYG](/stripes/gygkwyg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/867/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Pollock](/setts/s7/g3lo16w4k6g28lo1g3~x4/)
-
 
 ## Thread count
 G/12 O4 G64 K16 W12 O40 G/10

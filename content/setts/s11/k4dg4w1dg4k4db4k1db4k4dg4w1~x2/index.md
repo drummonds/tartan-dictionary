@@ -2,10 +2,9 @@
 title: "Graham of Montrose #3"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKBKBKGW](/stripes/kgwgkbkbkgw/) · **Stripes:** [K DG W DG K DB K DB K DG W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DG W DG K DB K DB K DG W</span></span>
+In pattern [KGWGKBKBKGW](/stripes/kgwgkbkbkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1486
 

@@ -2,10 +2,9 @@
 title: "Vetoclock"
 date: 2023-03-18
 ---
-**Bands:** [BBWRWBWRWB](/stripes/bbwrwbwrwb/) · **Stripes:** [N DP LP O W DP W O LP N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#636363"></span><span class="seq">N DP LP O W DP W O LP N</span></span>
+In pattern [BBWRWBWRWB](/stripes/bbwrwbwrwb/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10885/
 

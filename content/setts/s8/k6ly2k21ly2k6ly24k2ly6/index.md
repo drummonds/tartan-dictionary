@@ -2,10 +2,9 @@
 title: "MacLachlan VS"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKYKY](/stripes/kykykyky/) · **Stripes:** [K LY K LY K LY K LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY K LY K LY K LY</span></span>
+In pattern [KYKYKYKY](/stripes/kykykyky/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -47,13 +46,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLachlan (Chief's Dress)](/setts/s8/k6ly2k21ly2k6ly24k2ly6~x2/)
-
 
 ## Thread count
 K/6 Y2 K21 Y2 K6 Y24 K2 Y/6

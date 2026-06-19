@@ -2,10 +2,9 @@
 title: "MacColl Hunting Clan Tartan Tartan Number: 1637. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RRRBRRWRBRWRRGRGRR](/stripes/rrrbrrwrbrwrrgrgrr/) · **Stripes:** [R M R DB R M W R DB R W M R Y R Y R M](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="seq">R M R DB R M W R DB R W M R Y R Y R M</span></span>
+In pattern [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/).
 
-
-This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1637
 

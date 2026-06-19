@@ -2,10 +2,9 @@
 title: "Ulster (Peat) (District"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKGKGKG](/stripes/krkgkgkgkg/) · **Stripes:** [K R K DY K Y K Y K Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K R K DY K Y K Y K Y</span></span>
+In pattern [GKGKGKGKRK](/stripes/gkgkgkgkrk/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1196/
 

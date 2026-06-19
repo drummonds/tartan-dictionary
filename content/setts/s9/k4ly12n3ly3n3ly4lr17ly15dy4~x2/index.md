@@ -2,10 +2,9 @@
 title: "Cotswolds Distillery"
 date: 2023-03-18
 ---
-**Bands:** [KYBYBYYYG](/stripes/kybybyyyg/) · **Stripes:** [K LY N LY N LY LR LY DY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K LY N LY N LY LR LY DY</span></span>
+In pattern [GYYYBYBYK](/stripes/gyyybybyk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11130
 

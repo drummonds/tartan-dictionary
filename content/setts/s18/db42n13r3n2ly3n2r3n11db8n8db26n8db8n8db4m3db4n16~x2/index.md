@@ -2,10 +2,9 @@
 title: "Cordiner (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BBRBYBRBBBBBBBBRBB](/stripes/bbrbybrbbbbbbbbrbb/) · **Stripes:** [DB N R N LY N R N DB N DB N DB N DB M DB N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">DB N R N LY N R N DB N DB N DB N DB M DB N</span></span>
+In pattern [BBRBBBBBBBBRBYBRBB](/stripes/bbrbbbbbbbbrbybrbb/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10721/
 

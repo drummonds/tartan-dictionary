@@ -2,10 +2,9 @@
 title: "Ross, Wedding dress"
 date: 2023-03-18
 ---
-**Bands:** [KWKWBRGWGWBBRWRBBWRBBWBB](/stripes/kwkwbrgwgwbbrwrbbwrbbwbb/) · **Stripes:** [K W K W T R G W G W DB T O W O T DB W R DB T W T DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K W T R G W G W DB T O W O T DB W R DB T W T DB</span></span>
+In pattern [BBWBBRWBBRWRBBWGWGRBWKWK](/stripes/bbwbbrwbbrwrbbwgwgrbwkwk/).
 
-
-This was sourced from weddslist.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

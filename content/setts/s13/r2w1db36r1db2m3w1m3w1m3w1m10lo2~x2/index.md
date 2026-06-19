@@ -2,10 +2,9 @@
 title: "ESPRAS (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWBRBRWRWRWRY](/stripes/rwbrbrwrwrwry/) · **Stripes:** [R W DB R DB M W M W M W M LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R W DB R DB M W M W M W M LO</span></span>
+In pattern [RWBRBRWRWRWRY](/stripes/rwbrbrwrwrwry/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8809/
 

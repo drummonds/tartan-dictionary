@@ -2,10 +2,9 @@
 title: "Williams, Edmund (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBGGKW](/stripes/bbggkw/) · **Stripes:** [DP DP G DG K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DP G DG K W</span></span>
+In pattern [BBGGKW](/stripes/bbggkw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10872/
 

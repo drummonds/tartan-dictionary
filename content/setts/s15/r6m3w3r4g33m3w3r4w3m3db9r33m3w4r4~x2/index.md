@@ -2,10 +2,9 @@
 title: "MacDougall 10"
 date: 2023-03-18
 ---
-**Bands:** [RRWRGRWRWRBRRWR](/stripes/rrwrgrwrwrbrrwr/) · **Stripes:** [R M W R G M W R W M DB R M W R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R M W R G M W R W M DB R M W R</span></span>
+In pattern [RRWRGRWRWRBRRWR](/stripes/rrwrgrwrwrbrrwr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

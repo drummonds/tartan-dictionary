@@ -2,10 +2,9 @@
 title: "Abbotsford Check"
 date: 2023-03-18
 ---
-**Bands:** [KGWGRGKWKWKWKWKWKBYKWKG](/stripes/kgwgrgkwkwkwkwkwkbykwkg/) · **Stripes:** [K G W G R G K W K W K W K W K W K DB LY K W K G](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G W G R G K W K W K W K W K W K DB LY K W K G</span></span>
+In pattern [GKWKYBKWKWKWKWKWKGRGWGK](/stripes/gkwkybkwkwkwkwkwkgrgwgk/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=9
 

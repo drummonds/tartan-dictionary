@@ -2,10 +2,9 @@
 title: "Allen, Christopher Holler"
 date: 2023-03-18
 ---
-**Bands:** [GRGKBRBKBKBKBKBYBKGRG](/stripes/grgkbrbkbkbkbkbybkgrg/) · **Stripes:** [G R G K DB R DB K DB K DB K DB K DB LY DB K G R G](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G K DB R DB K DB K DB K DB K DB LY DB K G R G</span></span>
+In pattern [GRGKBRBKBKBKBKBYBKGRG](/stripes/grgkbrbkbkbkbkbybkgrg/).
 
-
-This was sourced from weddslist.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

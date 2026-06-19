@@ -2,10 +2,9 @@
 title: "Delta Lambda Phi"
 date: 2023-03-18
 ---
-**Bands:** [YKYGWGWGWGKY](/stripes/ykygwgwgwgky/) · **Stripes:** [LY K LY G W G W G W G K LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K LY G W G W G W G K LY</span></span>
+In pattern [YKGWGWGWGYKY](/stripes/ykgwgwgwgyky/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10511
 

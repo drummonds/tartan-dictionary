@@ -2,10 +2,9 @@
 title: "Agincourt"
 date: 2023-03-18
 ---
-**Bands:** [YKYBYBKYBKYKBY](/stripes/ykybybkybkykby/) · **Stripes:** [LO K LO DT LO DT K LO DT K LO K DT LO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO K LO DT LO DT K LO DT K LO K DT LO</span></span>
+In pattern [YBKYKBYKBYBYKY](/stripes/ybkykbykbybyky/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5276
 

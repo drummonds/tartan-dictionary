@@ -2,10 +2,9 @@
 title: "Sekai Fushigi Hakken"
 date: 2023-03-18
 ---
-**Bands:** [RGRWRWGWRGRWGWRW](/stripes/rgrwrwgwrgrwgwrw/) · **Stripes:** [R DG R W R W DG W R DG R W DG W R W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG R W R W DG W R DG R W DG W R W</span></span>
+In pattern [RGRWRWGWRGRWGWRW](/stripes/rgrwrwgwrgrwgwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3758
 

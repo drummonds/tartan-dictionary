@@ -2,10 +2,9 @@
 title: "World Youth Congress"
 date: 2023-03-18
 ---
-**Bands:** [RBYBWGBWBWBWBGWBYB](/stripes/rbybwgbwbwbwbgwbyb/) · **Stripes:** [R DB LY DB W G DB W DB W DB W DB G W DB LY DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LY DB W G DB W DB W DB W DB G W DB LY DB</span></span>
+In pattern [BYBWGBWBWBWBGWBYBR](/stripes/bybwgbwbwbwbgwbybr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4783
 

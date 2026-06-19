@@ -2,10 +2,9 @@
 title: "Dixon, Clyde (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRYGGGGGYB](/stripes/grgrgrgrygggggyb/) · **Stripes:** [Y R Y R Y R Y R LY DG Y DG DG DG LY T](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">Y R Y R Y R Y R LY DG Y DG DG DG LY T</span></span>
+In pattern [BYGGGGGYRGRGRGRG](/stripes/bygggggyrgrgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10966
 

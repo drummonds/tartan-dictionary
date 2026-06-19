@@ -2,10 +2,9 @@
 title: "Copar a'Beannichte Dress Family Tartan Tartan Number: 6484. Earliest known date: 2004 The name of the tartan is constructed in Gaelic from the Dutch van Koperen and the French Benoist to mean the Blessed Copper, a tribute to Mrs Y Ch van Koperen-Benoist. The green represents oxidised copper of the Koperens and blue the Benoist family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GGGWBWBRBRBRBWBW](/stripes/gggwbwbrbrbrbwbw/) · **Stripes:** [G G G W DT W DT O DT R DT O DT W DT W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G G G W DT W DT O DT R DT O DT W DT W</span></span>
+In pattern [GGGWBWBRBRBRBWBW](/stripes/gggwbwbrbrbrbwbw/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6484
 

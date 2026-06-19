@@ -2,19 +2,11 @@
 title: "Gyle (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGB](/stripes/rgb/) · **Stripes:** [R DG T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG T</span></span>
+In pattern [BGR](/stripes/bgr/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2692/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's No.061](/setts/s3/r4dg7t4~x2/)
-
 
 ## Thread count
 B/160 DG20 DR/40

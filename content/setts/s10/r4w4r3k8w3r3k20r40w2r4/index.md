@@ -2,10 +2,9 @@
 title: "South Carolina, University of"
 date: 2023-03-18
 ---
-**Bands:** [RWRKRWKRWR](/stripes/rwrkrwkrwr/) · **Stripes:** [R W R K R W K R W R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R W R K R W K R W R</span></span>
+In pattern [RWRKRWKRWR](/stripes/rwrkrwkrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10998
 

@@ -2,10 +2,9 @@
 title: "Stenhousemuir Football Club"
 date: 2023-03-18
 ---
-**Bands:** [BRBRYRKRKRYRBRBW](/stripes/brbryrkrkryrbrbw/) · **Stripes:** [DB R DB R LY R K R K R LY R DB R DB W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB R LY R K R K R LY R DB R DB W</span></span>
+In pattern [BRBRYRKRKRYRBRBW](/stripes/brbryrkrkryrbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3914
 

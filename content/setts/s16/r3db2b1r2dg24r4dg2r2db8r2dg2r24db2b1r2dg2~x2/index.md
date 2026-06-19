@@ -2,10 +2,9 @@
 title: "Stewart of Appin"
 date: 2023-03-18
 ---
-**Bands:** [RBBRGRGRBRGRBBRG](/stripes/rbbrgrgrbrgrbbrg/) · **Stripes:** [R DB B R DG R DG R DB R DG R DB B R DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB B R DG R DG R DB R DG R DB B R DG</span></span>
+In pattern [GRBBRGRBRGRGRBBR](/stripes/grbbrgrbrgrgrbbr/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

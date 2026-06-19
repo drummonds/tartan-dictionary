@@ -2,10 +2,9 @@
 title: "Unidentified (Pahls)"
 date: 2023-03-18
 ---
-**Bands:** [YGBGWBGYGB](/stripes/ygbgwbgygb/) · **Stripes:** [LO G DB G W DB G LO G DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LO G DB G W DB G LO G DB</span></span>
+In pattern [BGYGBWGBGY](/stripes/bgygbwgbgy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8574/
 

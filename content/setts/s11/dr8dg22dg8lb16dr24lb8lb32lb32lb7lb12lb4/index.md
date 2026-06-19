@@ -2,10 +2,9 @@
 title: "Manderson #1 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGGWBWWWWWW](/stripes/bggwbwwwwww/) · **Stripes:** [DR DG DG LB DR LB LB LB LB LB LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DR DG DG LB DR LB LB LB LB LB LB</span></span>
+In pattern [BGGWBWWWWWW](/stripes/bggwbwwwwww/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2230/
 

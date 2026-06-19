@@ -2,10 +2,9 @@
 title: "Rob Roy (Film)"
 date: 2023-03-18
 ---
-**Bands:** [BRGBGB](/stripes/brgbgb/) · **Stripes:** [T R DG T DG T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R DG T DG T</span></span>
+In pattern [BGBGRB](/stripes/bgbgrb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3515
 

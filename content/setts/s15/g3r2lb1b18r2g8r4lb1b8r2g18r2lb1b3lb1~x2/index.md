@@ -2,10 +2,9 @@
 title: "Glenorchy #2"
 date: 2023-03-18
 ---
-**Bands:** [GRWBRGRWBRGRWBW](/stripes/grwbrgrwbrgrwbw/) · **Stripes:** [G R LB B R G R LB B R G R LB B LB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">G R LB B R G R LB B R G R LB B LB</span></span>
+In pattern [GRWBRGRWBRGRWBW](/stripes/grwbrgrwbrgrwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1434
 

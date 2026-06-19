@@ -2,19 +2,11 @@
 title: "Charlotte Fire Department"
 date: 2023-03-18
 ---
-**Bands:** [KRGYBW](/stripes/krgybw/) · **Stripes:** [K R G LY DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R G LY DB W</span></span>
+In pattern [KRGYBW](/stripes/krgybw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10881/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Turnbull of Thornton (Personal)](/setts/s6/k6r3g30ly10db30w3~x2/)
-
 
 ## Thread count
 K/150 R20 G14 Y6 DB4 W/10

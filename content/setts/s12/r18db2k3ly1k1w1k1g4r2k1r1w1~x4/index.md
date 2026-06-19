@@ -2,10 +2,9 @@
 title: "Royal Stewart Royal Family Tartan Tartan Number: 1370. Earliest known date: 1831 The best known of all Scottish tartans, the Royal Stewart is the tartan of the Royal House of Stewart and the personal tartan of Her Majesty the Queen. In the same way that clansmen wear the tartan of their chief, it is appropriate for all subjects of the Queen to wear the Royal Stewart tartan. The pattern was first published by James Logan in his book, 'The Scottish Gael' in 1831, but references indicate that the sett was known at the end of the 18th century. Early samples show blue as a light 'azure'. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/) · **Stripes:** [R DB K LY K W K G R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K LY K W K G R K R W</span></span>
+In pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1370
 
@@ -14,17 +13,6 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 This cloth is also recorded under:
 
 - Royal Stewart Royal
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Royal Stewart - 1819](/setts/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/)
-- [Royal Stewart MINI Design Tartan Tartan Number: 11370. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 1370 Royal Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x2/)
-- [Stewart/Stuart, Royal](/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/)
-- [Stewart/Stuart, Royal #2](/setts/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x8/)
-- [TIlted Kilt](/setts/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/)
-
 
 ## Thread count
 R/72 DB8 K12 Y4 K4 LN4 K4 G16 R8 K4 R4 LN/4

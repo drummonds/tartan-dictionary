@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbrwy/
 ---
-BKBRWY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/t15k10dt30o11w3lg5~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BKBRWY
+
+{{< pat "BKBRWY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LG W O DT K T <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">LG W O DT K T</span></span>
 
 | Tartans |
 |---------------|
 | [McHale, Barry](/setts/s6/t15k10dt30o11w3lg5~x2/)|
 |![McHale, Barry example sett](/setts/s6/t15k10dt30o11w3lg5~x2/sett.png)|
-

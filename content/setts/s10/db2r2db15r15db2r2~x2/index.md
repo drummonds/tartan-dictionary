@@ -2,10 +2,9 @@
 title: "Hebrides #7"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRB](/stripes/rbrbrbrbrb/) · **Stripes:** [R DB R DB R DB R DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRBR](/stripes/brbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1663
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1663)
 - Scottish Tartans Authority (ITI): 451
 - Scottish Tartans World Register: 451
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Masai Shuka 23 (Artefact)](/setts/s10/r15db4r1db1r1db1r1db1r1db1~x4/)
-- [Prince Charles Edward](/setts/s10/db40r40db44r2db2r40db2r2db2r7~x2/)
-
 
 ## Thread count
 DB/4 R4 DB30 R30 DB4 R4 DB4 R30 DB30 R/4

@@ -2,10 +2,9 @@
 title: "Mull Millenium Tartan"
 date: 2023-03-18
 ---
-**Bands:** [GYKBRBWG](/stripes/gykbrbwg/) · **Stripes:** [G LY K N R DT W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY K N R DT W G</span></span>
+In pattern [GWBRBKYG](/stripes/gwbrbkyg/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

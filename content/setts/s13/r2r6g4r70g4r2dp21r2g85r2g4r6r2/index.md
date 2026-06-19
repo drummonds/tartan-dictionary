@@ -2,10 +2,9 @@
 title: "Crieff"
 date: 2023-03-18
 ---
-**Bands:** [RRGRGRBRGRGRR](/stripes/rrgrgrbrgrgrr/) · **Stripes:** [R R G R G R DP R G R G R R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R G R G R DP R G R G R R</span></span>
+In pattern [RRGRGRBRGRGRR](/stripes/rrgrgrbrgrgrr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=803
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [803](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=803)
 - Scottish Tartans Authority (ITI): 1636
 - Scottish Tartans World Register: 1636
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Crieff District Tartan Tartan Number: 1636. Earliest known date: 1793 Wilson's accounts of 1793 mention the Crieff tartan with no details. A manuscript dated 1800 gives details of colour but it is not until the publication of the Key Pattern Book of 1819 that this sett is revealed in full. Crieff in Perthshire was the most famous of the cattle drovers 'trysts' prior to 1700. It is a very large sett which has been proportionately reduced for this illustration. The full threadcount: Light Red 4, Red 12, Green 8, R 140, G 8, R 4, Purple 42, R 4, G 170, R 4, G 8, R 12, LR 4. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/r4r10g7r70g7r4dp21r4g85r4g7r10r4/)
-
 
 ## Thread count
 R/2 Ra6 G4 Ra70 G4 Ra2 P21 Ra2 G85 Ra2 G4 Ra6 R/2

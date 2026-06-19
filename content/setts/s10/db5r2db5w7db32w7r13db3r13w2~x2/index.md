@@ -2,10 +2,9 @@
 title: "America (Eagle version)"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBWRBRW](/stripes/brbwbwrbrw/) · **Stripes:** [DB R DB W DB W R DB R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB W DB W R DB R W</span></span>
+In pattern [BRBWBWRBRW](/stripes/brbwbwrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=65
 

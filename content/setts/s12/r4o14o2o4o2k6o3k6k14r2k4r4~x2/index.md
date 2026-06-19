@@ -2,10 +2,9 @@
 title: "Kinloch Anderson Limited"
 date: 2023-03-18
 ---
-**Bands:** [RKRKKRKRRRRR](/stripes/rkrkkrkrrrrr/) · **Stripes:** [R K R K K O K O O O O R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K K O K O O O O R</span></span>
+In pattern [RKRKKRKRRRRR](/stripes/rkrkkrkrrrrr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

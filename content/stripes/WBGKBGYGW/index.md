@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wbgkbgygw/
 ---
-WBGKBGYGW
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-WBGKBGYGW
+
+{{< pat "WBGKBGYGW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### W G LY G DB K DG DB W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G LY G DB K DG DB W</span></span>
 
 | Tartans |
 |---------------|
 | [Armagh County Crest (Fashion)](/setts/s9/w3db4dg8k5db20g3ly13g4w2~x2/)|
 |![Armagh County Crest (Fashion) example sett](/setts/s9/w3db4dg8k5db20g3ly13g4w2~x2/sett.png)|
-

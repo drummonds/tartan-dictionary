@@ -2,10 +2,9 @@
 title: "Ben Dubh (The Black Mount)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKB](/stripes/kbkbkb/) · **Stripes:** [K DT K DT K DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">K DT K DT K DT</span></span>
+In pattern [BKBKBK](/stripes/bkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5881
 

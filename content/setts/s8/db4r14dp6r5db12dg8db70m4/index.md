@@ -2,10 +2,9 @@
 title: "Loretto School"
 date: 2023-03-18
 ---
-**Bands:** [RBGBRBRB](/stripes/rbgbrbrb/) · **Stripes:** [M DB DG DB R DP R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">M DB DG DB R DP R DB</span></span>
+In pattern [BRBRBGBR](/stripes/brbrbgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11334
 

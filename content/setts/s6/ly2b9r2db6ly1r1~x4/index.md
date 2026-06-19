@@ -2,10 +2,9 @@
 title: "Lauder Primary School"
 date: 2023-03-18
 ---
-**Bands:** [RYBRBY](/stripes/rybrby/) · **Stripes:** [R LY DB R B LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LY DB R B LY</span></span>
+In pattern [RYBRBY](/stripes/rybrby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10307
 

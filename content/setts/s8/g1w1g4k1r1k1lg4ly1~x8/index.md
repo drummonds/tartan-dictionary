@@ -2,10 +2,9 @@
 title: "Dunedin (NZ)"
 date: 2023-03-18
 ---
-**Bands:** [YYKRKGWG](/stripes/yykrkgwg/) · **Stripes:** [LY LG K R K G W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY LG K R K G W G</span></span>
+In pattern [GWGKRKYY](/stripes/gwgkrkyy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1041
 

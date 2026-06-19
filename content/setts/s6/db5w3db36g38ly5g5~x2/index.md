@@ -2,10 +2,9 @@
 title: "St. Andrew Society, Sao Paulo (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [GYGBWB](/stripes/gygbwb/) · **Stripes:** [G LY G DB W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY G DB W DB</span></span>
+In pattern [BWBGYG](/stripes/bwbgyg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8121/
 

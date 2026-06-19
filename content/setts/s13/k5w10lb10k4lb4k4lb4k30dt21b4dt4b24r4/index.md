@@ -2,10 +2,9 @@
 title: "Anderson-Moffat (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWWKWKWKBBBBR](/stripes/kwwkwkwkbbbbr/) · **Stripes:** [K W LB K LB K LB K DT B DT B R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W LB K LB K LB K DT B DT B R</span></span>
+In pattern [KWWKWKWKBBBBR](/stripes/kwwkwkwkbbbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11504
 

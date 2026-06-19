@@ -2,10 +2,9 @@
 title: "PeachyKeen"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYYYY](/stripes/yryryyyy/) · **Stripes:** [LY R LY R LG LY LG LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY R LY R LG LY LG LY</span></span>
+In pattern [YRYRYYYY](/stripes/yryryyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3307
 

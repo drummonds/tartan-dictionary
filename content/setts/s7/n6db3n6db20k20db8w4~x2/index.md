@@ -2,10 +2,9 @@
 title: "Allianz Deutschland 2012"
 date: 2023-03-18
 ---
-**Bands:** [BBBBKBW](/stripes/bbbbkbw/) · **Stripes:** [N DB N DB K DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N DB N DB K DB W</span></span>
+In pattern [BBBBKBW](/stripes/bbbbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684
 

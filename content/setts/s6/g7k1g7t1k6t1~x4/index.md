@@ -2,10 +2,9 @@
 title: "Innes, Georgina (Portrait)"
 date: 2023-03-18
 ---
-**Bands:** [GKGBKB](/stripes/gkgbkb/) · **Stripes:** [G K G T K T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G K G T K T</span></span>
+In pattern [BKBGKG](/stripes/bkbgkg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/235/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/235/
 This cloth is also recorded under:
 
 - Innes, Georgina
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Innes](/setts/s6/g7k1g7t1k6t1~x2/)
-
 
 ## Thread count
 G/28 K4 G28 B4 K24 B/4

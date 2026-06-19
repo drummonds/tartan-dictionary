@@ -2,10 +2,9 @@
 title: "Fraser of Stratherrick"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRGRGBRB](/stripes/brbrgrgrgbrb/) · **Stripes:** [DB R DB R G R G R G DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R G R G R G DB R DB</span></span>
+In pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1248
 
@@ -29,15 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1248](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1248)
 - Scottish Tartans Authority (ITI): 392
 - Scottish Tartans World Register: 392
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fraser, Stewart of Athol](/setts/s12/db16r1db1r1g12r16g2r16g12db12r1db1~x2/)
-- [Fraser, Stewart of Athol](/setts/s12/db28r3db3r3g20r30g4r30g20db22r3db3~x2/)
-- [Inverness, Fencibles](/setts/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/)
-
 
 ## Thread count
 DB/40 R4 DB4 R4 G38 R36 G4 R36 G38 DB38 R4 DB/4

@@ -2,10 +2,9 @@
 title: "Anderson of Kinneddar Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRGKWKYKYKRBRBRBR](/stripes/rgrkrgkwkykykrbrbrbr/) · **Stripes:** [R G R K R G K W K LY K LY K R DB R T R T R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R K R G K W K LY K LY K R DB R T R T R</span></span>
+In pattern [RBRBRBRKYKYKWKGRKRGR](/stripes/rbrbrbrkykykwkgrkrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=86
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [86](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=86)
 - Scottish Tartans Authority (ITI): 1396
 - Scottish Tartans World Register: 1396
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Anderson of Kinnedar, hunting](/setts/s20/r8t10r4t14r8db10r5k9ly4k4ly4k7w8k8g36r2k4r2g8r6/)
-
 
 ## Thread count
 R/8 B10 R4 B14 R8 DB10 R6 K10 Y4 K6 Y4 K8 LN8 K8 G36 R2 K4 R2 G8 R/6

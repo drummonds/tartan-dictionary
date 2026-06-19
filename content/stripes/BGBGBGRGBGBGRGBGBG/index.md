@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbgbgrgbgbgrgbgbg/
 ---
-BGBGBGRGBGBGRGBGBG
-
-It is a 18 band tartan.
+It is a 18 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBGBGRGBGBGRGBGBG
+
+{{< pat "BGBGBGRGBGBGRGBGBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G DB G DB G R G DT G DT G R G DB G DB G DT <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">G DB G DB G R G DT G DT G R G DB G DB G DT</span></span>
 
 | Tartans |
 |---------------|
 | [Owen of Wales](/setts/s18/g18db2g2db3g3r1g2dt1g3dt1g2r1g3db3g2db2g18dt2~x2/)|
 |![Owen of Wales example sett](/setts/s18/g18db2g2db3g3r1g2dt1g3dt1g2r1g3db3g2db2g18dt2~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Crook"
 date: 2023-03-18
 ---
-**Bands:** [KRBGRKRBG](/stripes/krbgrkrbg/) · **Stripes:** [K M B Y M K M B Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K M B Y M K M B Y</span></span>
+In pattern [GBRKRGBRK](/stripes/gbrkrgbrk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=811
 

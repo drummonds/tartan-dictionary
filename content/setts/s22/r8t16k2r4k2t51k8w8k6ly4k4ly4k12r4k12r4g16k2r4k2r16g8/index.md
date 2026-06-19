@@ -2,10 +2,9 @@
 title: "Anderson 7"
 date: 2023-03-18
 ---
-**Bands:** [RBKRKBKWKYKYKRKRGKRKRG](/stripes/rbkrkbkwkykykrkrgkrkrg/) · **Stripes:** [R T K R K T K W K LY K LY K R K R G K R K R G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R T K R K T K W K LY K LY K R K R G K R K R G</span></span>
+In pattern [GRKRKGRKRKYKYKWKBKRKBR](/stripes/grkrkgrkrkykykwkbkrkbr/).
 
-
-This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

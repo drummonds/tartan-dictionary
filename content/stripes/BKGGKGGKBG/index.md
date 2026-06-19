@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkggkggkbg/
 ---
-BKGGKGGKBG
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BKGGKGGKBG
+
+{{< pat "BKGGKGGKBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DG DP K Y DG K DG Y K DP <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DP K Y DG K DG Y K DP</span></span>
 
 | Tartans |
 |---------------|
 | [Wilson's No.231](/setts/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2/)|
 |![Wilson's No.231 example sett](/setts/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2/sett.png)|
-

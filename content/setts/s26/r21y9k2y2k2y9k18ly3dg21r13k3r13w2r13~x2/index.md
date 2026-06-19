@@ -2,10 +2,9 @@
 title: "Wilson's No.155"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKGKYGRKRWRWRKRGYKGKGKG](/stripes/rgkgkgkygrkrwrwrkrgykgkgkg/) · **Stripes:** [R Y K Y K Y K LY DG R K R W R W R K R DG LY K Y K Y K Y](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y K Y K Y K LY DG R K R W R W R K R DG LY K Y K Y K Y</span></span>
+In pattern [GKGKGKYGRKRWRWRKRGYKGKGKGR](/stripes/gkgkgkygrkrwrwrkrgykgkgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4699
 

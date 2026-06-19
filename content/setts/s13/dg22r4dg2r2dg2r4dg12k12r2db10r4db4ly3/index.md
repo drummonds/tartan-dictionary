@@ -2,10 +2,9 @@
 title: "Cochrane LC"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRKGRGRGRG](/stripes/ybrbrkgrgrgrg/) · **Stripes:** [LY DB R DB R K DG R DG R DG R DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DB R DB R K DG R DG R DG R DG</span></span>
+In pattern [GRGRGRGKRBRBY](/stripes/grgrgrgkrbrby/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -40,13 +39,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cochrane (1974)](/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3~x2/)
-
 
 ## Thread count
 G/22 R4 G2 R2 G2 R4 G12 K12 R2 DB10 R4 DB4 Y/3

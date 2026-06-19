@@ -2,10 +2,9 @@
 title: "McCann of Castlecraig (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGBKRGY](/stripes/kgbkrgy/) · **Stripes:** [K Y N K O Y LR](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K Y N K O Y LR</span></span>
+In pattern [KGBKRGY](/stripes/kgbkrgy/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8279/
 

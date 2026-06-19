@@ -2,10 +2,9 @@
 title: "Woolmark Plaid, The"
 date: 2023-03-18
 ---
-**Bands:** [GBGBBRBRBBGBGBBRBRBB](/stripes/gbgbbrbrbbgbgbbrbrbb/) · **Stripes:** [Y DB Y DT DB R DB R DB DT Y DB Y DT DB R DB R DB DT](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">Y DB Y DT DB R DB R DB DT Y DB Y DT DB R DB R DB DT</span></span>
+In pattern [BBRBRBBGBGBBRBRBBGBG](/stripes/bbrbrbbgbgbbrbrbbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4781
 

@@ -2,10 +2,9 @@
 title: "Club World"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRGRKRWRGKGKGKGKG](/stripes/rkrkrgrkrwrgkgkgkgkg/) · **Stripes:** [R K R K R G R K R W R G K G K G K G K G](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K R K R G R K R W R G K G K G K G K G</span></span>
+In pattern [GKGKGKGKGRWRKRGRKRKR](/stripes/gkgkgkgkgrwrkrgrkrkr/).
 
-
-This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

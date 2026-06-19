@@ -2,10 +2,9 @@
 title: "Snowbird"
 date: 2023-03-18
 ---
-**Bands:** [RBYRYBRW](/stripes/rbyrybrw/) · **Stripes:** [R B LG R LG B R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R B LG R LG B R W</span></span>
+In pattern [RBYRYBRW](/stripes/rbyrybrw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3829
 

@@ -2,20 +2,11 @@
 title: "Black Shadow Fashion Tartan Tartan Number: 3193. Earliest known date: 01/01/2007 Designed as a combination of two shades of black, shown here as black and dark grey to illustrate the sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/) · **Stripes:** [DO K DO K DO K DO K DO K DO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">DO K DO K DO K DO K DO K DO</span></span>
+In pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3193
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Shadow](/setts/s11/do18k5do34k12do8k8do24k5do24k5do14/)
-- [Bute Heather, Black (Fashion)](/setts/s11/do13k2do38k13do28k8do17k2do17k4do11/)
-
 
 ## Thread count
 DN/18 K6 DN34 K12 DN8 K8 DN24 K6 DN24 K6 DN/14

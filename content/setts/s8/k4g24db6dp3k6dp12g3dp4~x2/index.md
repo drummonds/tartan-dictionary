@@ -2,10 +2,9 @@
 title: "Gary/Garry (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KGBBKBGB](/stripes/kgbbkbgb/) · **Stripes:** [K G DB DP K DP G DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G DB DP K DP G DP</span></span>
+In pattern [BGBKBBGK](/stripes/bgbkbbgk/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4189/
 

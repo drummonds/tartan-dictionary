@@ -2,10 +2,9 @@
 title: "City of Barrie"
 date: 2023-03-18
 ---
-**Bands:** [BRBKRKYKRWRB](/stripes/brbkrkykrwrb/) · **Stripes:** [B R B K O K LY K R W R B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B R B K O K LY K R W R B</span></span>
+In pattern [BRBKRKYKRWRB](/stripes/brbkrkykrwrb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=655
 

@@ -2,10 +2,9 @@
 title: "Kumikyoku - Wind of Thistle"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBWBRBWBRBWBRBWBRBRBRBR](/stripes/rbrbrbrbwbrbwbrbwbrbwbrbrbrbr/) · **Stripes:** [O DB O DB O DB M DB LB DB O DB W DB O DB LP DB M DB LB DB M DB O DB O DB O](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DB O DB O DB M DB LB DB O DB W DB O DB LP DB M DB LB DB M DB O DB O DB O</span></span>
+In pattern [RBRBRBRBWBRBWBRBWBRBWBRBRBRBR](/stripes/rbrbrbrbwbrbwbrbwbrbwbrbrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11284/
 

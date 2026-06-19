@@ -2,10 +2,9 @@
 title: "Freger (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YWBKYKBKYWYKBKYKWKBWYW](/stripes/ywbkykbkywykbkykwkbwyw/) · **Stripes:** [LY W DP K LY K DP K LY W LY K DP K LY K W K DP W LY W](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY W DP K LY K DP K LY W LY K DP K LY K W K DP W LY W</span></span>
+In pattern [WYWBKWKYKBKYWYKBKYKBWY](/stripes/wywbkwkykbkywykbkykbwy/).
 
-
-This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7531/
 

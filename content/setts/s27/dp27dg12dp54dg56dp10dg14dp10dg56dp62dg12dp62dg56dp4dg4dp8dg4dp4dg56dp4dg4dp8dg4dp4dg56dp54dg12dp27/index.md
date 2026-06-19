@@ -2,20 +2,11 @@
 title: "Rae (Wilsons) (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/) · **Stripes:** [DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP</span></span>
+In pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
 
-
-This was sourced from tartans-authority.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/100/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacRae (Rae)](/setts/s27/dp14dg3dp14dg14dp3dg3dp3dg14dp16dg3dp16dg14dp1dg1dp2dg1dp1dg14dp1dg1dp2dg1dp1dg14dp14dg3dp14~x2/)
-- [MacRae/Rae](/setts/s27/dp27dg6dp27dg28dp5dg7dp5dg28dp31dg6dp31dg28dp2dg2dp4dg2dp2dg28dp2dg2dp4dg2dp2dg28dp27dg6dp27~x2/)
-
 
 ## Thread count
 DP/27 G12 DP54 G56 DP10 G14 DP10 G56 DP62 G12 DP62 G56 DP4 G4 DP8 G4 DP4 G56 DP4 G4 DP8 G4 DP4 G56 DP54 G12 DP/27

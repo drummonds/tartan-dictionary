@@ -2,10 +2,9 @@
 title: "Ferrari (Coldrerio)"
 date: 2023-03-18
 ---
-**Bands:** [YBKBKBKBKBYBYBKBYBY](/stripes/ybkbkbkbkbybybkbyby/) · **Stripes:** [LO N K N K N K N K N LO N LO N K N LY N LY](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LO N K N K N K N K N LO N LO N K N LY N LY</span></span>
+In pattern [YBKBKBKBKBYBYBKBYBY](/stripes/ybkbkbkbkbybybkbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10790
 

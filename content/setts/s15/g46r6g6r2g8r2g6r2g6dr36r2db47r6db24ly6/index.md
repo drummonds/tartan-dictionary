@@ -2,10 +2,9 @@
 title: "Cochrane Hunting"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRBGRGRGRGRG](/stripes/ybrbrbgrgrgrgrg/) · **Stripes:** [LY DB R DB R DR G R G R G R G R G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB R DB R DR G R G R G R G R G</span></span>
+In pattern [GRGRGRGRGBRBRBY](/stripes/grgrgrgrgbrbrby/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11165/
 

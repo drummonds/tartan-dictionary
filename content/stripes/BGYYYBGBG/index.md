@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgyyybgbg/
 ---
-BGYYYBGBG
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BGYYYBGBG
+
+{{< pat "BGYYYBGBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### Y P Y P LY LR LY Y P <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">Y P Y P LY LR LY Y P</span></span>
 
 | Tartans |
 |---------------|
 | [Organic](/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/)|
 |![Organic example sett](/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Afghanistan Memorial"
 date: 2023-03-18
 ---
-**Bands:** [BKGKGKRGBKGKW](/stripes/bkgkgkrgbkgkw/) · **Stripes:** [DT K Y K Y K R Y DT K Y K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT K Y K Y K R Y DT K Y K W</span></span>
+In pattern [BKGKGKRGBKGKW](/stripes/bkgkgkrgbkgkw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10425/
 

@@ -2,10 +2,9 @@
 title: "Tamer of Wolves"
 date: 2023-03-18
 ---
-**Bands:** [BBGBGBGBW](/stripes/bbgbgbgbw/) · **Stripes:** [DB N DY N DY N DY DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB N DY N DY N DY DB W</span></span>
+In pattern [BBGBGBGBW](/stripes/bbgbgbgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10762
 

@@ -2,10 +2,9 @@
 title: "Disciples of Christ Motorcycle Ministry (Switzerland)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGBRW](/stripes/kgkgbrw/) · **Stripes:** [K G K G T O W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K G K G T O W</span></span>
+In pattern [KGKGBRW](/stripes/kgkgbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11103
 

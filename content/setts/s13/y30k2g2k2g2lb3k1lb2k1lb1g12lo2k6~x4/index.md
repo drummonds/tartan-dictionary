@@ -2,10 +2,9 @@
 title: "Lomond (1983)"
 date: 2023-03-18
 ---
-**Bands:** [KYGWKWKWGKGKG](/stripes/kygwkwkwgkgkg/) · **Stripes:** [K LO G LB K LB K LB G K G K Y](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K LO G LB K LB K LB G K G K Y</span></span>
+In pattern [GKGKGWKWKWGYK](/stripes/gkgkgwkwkwgyk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2192
 

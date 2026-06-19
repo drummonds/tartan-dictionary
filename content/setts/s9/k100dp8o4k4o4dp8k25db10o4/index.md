@@ -2,10 +2,9 @@
 title: "CI (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBRKRBKBR](/stripes/kbrkrbkbr/) · **Stripes:** [K DP O K O DP K DB O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K DP O K O DP K DB O</span></span>
+In pattern [KBRKRBKBR](/stripes/kbrkrbkbr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7862/
 
@@ -22,14 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5812](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5812)
 - Scottish Tartans Authority (ITI): 7862
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clan Inebriated](/setts/s9/k21dp2o1k1o1dp2k6db2o1~x4/)
-- [Clan Inebriated (Corporate)](/setts/s9/k75dp6o2k2o2dp6k12db2o2~x2/)
-
 
 ## Thread count
 K/100 DP8 N4 K4 N4 DP8 K25 DB10 N/4

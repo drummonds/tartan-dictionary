@@ -2,10 +2,9 @@
 title: "American Society of Travel Agents, The (2001)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBRBGBGW](/stripes/bgbgbrbgbgw/) · **Stripes:** [DB Y DB Y DB M DB DG DB DG W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB Y DB Y DB M DB DG DB DG W</span></span>
+In pattern [BGBGBRBGBGW](/stripes/bgbgbrbgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5983
 

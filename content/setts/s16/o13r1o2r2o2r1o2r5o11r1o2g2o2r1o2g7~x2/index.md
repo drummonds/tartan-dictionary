@@ -2,10 +2,9 @@
 title: "Sarna"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRRRRRRRGRRRG](/stripes/rrrrrrrrrrrgrrrg/) · **Stripes:** [O R O R O R O R O R O G O R O G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O R O R O R O R O R O G O R O G</span></span>
+In pattern [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

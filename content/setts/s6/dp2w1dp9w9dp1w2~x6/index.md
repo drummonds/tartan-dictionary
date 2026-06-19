@@ -2,10 +2,9 @@
 title: "Erskine Purple (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBW](/stripes/bwbwbw/) · **Stripes:** [DP W DP W DP W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W DP W DP W</span></span>
+In pattern [BWBWBW](/stripes/bwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1128
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1128)
 - Scottish Tartans Authority (ITI): 6534
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine Purple (Dance) Fashion Tartan Tartan Number: 6534. Earliest known date: 01/01/1980 A dancers' tartan now woven by D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dp6w2dp29w29dp2w6~x2/)
-
 
 ## Thread count
 P/12 W6 P54 W54 P6 W/12

@@ -2,10 +2,9 @@
 title: "Lossiemouth/Hersbruck"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBW](/stripes/gkgkbw/) · **Stripes:** [DG K DG K DP W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG K DG K DP W</span></span>
+In pattern [GKGKBW](/stripes/gkgkbw/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

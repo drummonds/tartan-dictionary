@@ -2,10 +2,9 @@
 title: "Unidentified Cant #10"
 date: 2023-03-18
 ---
-**Bands:** [YGRGKRKGKWKGKRKGRGYG](/stripes/ygrgkrkgkwkgkrkgrgyg/) · **Stripes:** [LY DG R DG K M K DG K W K DG K M K DG R DG LY DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG R DG K M K DG K W K DG K M K DG R DG LY DG</span></span>
+In pattern [GYGRGKRKGKWKGKRKGRGY](/stripes/gygrgkrkgkwkgkrkgrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5267
 

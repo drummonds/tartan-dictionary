@@ -2,10 +2,9 @@
 title: "Graham of Montrose"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKBKBKGW](/stripes/kgwgkbkbkgw/) · **Stripes:** [K G W G K DB K DB K G W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K G W G K DB K DB K G W</span></span>
+In pattern [KGWGKBKBKGW](/stripes/kgwgkbkbkgw/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

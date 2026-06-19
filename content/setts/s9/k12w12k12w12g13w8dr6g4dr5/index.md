@@ -2,10 +2,9 @@
 title: "Burns Heritage Check"
 date: 2023-03-18
 ---
-**Bands:** [KWKWGWBGB](/stripes/kwkwgwbgb/) · **Stripes:** [K W K W G W DR G DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="seq">K W K W G W DR G DR</span></span>
+In pattern [BGBWGWKWK](/stripes/bgbwgwkwk/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

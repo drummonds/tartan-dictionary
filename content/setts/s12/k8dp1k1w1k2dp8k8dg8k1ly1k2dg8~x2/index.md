@@ -2,10 +2,9 @@
 title: "Unidentified #32"
 date: 2023-03-18
 ---
-**Bands:** [KBKWKBKGKYKG](/stripes/kbkwkbkgkykg/) · **Stripes:** [K DP K W K DP K DG K LY K DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DP K W K DP K DG K LY K DG</span></span>
+In pattern [GKYKGKBKWKBK](/stripes/gkykgkbkwkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4233
 

@@ -2,10 +2,9 @@
 title: "Dundas (Red)"
 date: 2023-03-18
 ---
-**Bands:** [GRBKRKBRBRBKRGRBKB](/stripes/grbkrkbrbrbkrgrbkb/) · **Stripes:** [DG R DP K R K T R DB R T K R DG R DP K T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG R DP K R K T R DB R T K R DG R DP K T</span></span>
+In pattern [BKBRGRKBRBRBKRKBRG](/stripes/bkbrgrkbrbrbkrkbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1028
 

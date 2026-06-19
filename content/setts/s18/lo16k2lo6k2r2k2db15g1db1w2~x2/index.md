@@ -2,10 +2,9 @@
 title: "Otago"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKBGBWBGBKRKYKY](/stripes/kykrkbgbwbgbkrkyky/) · **Stripes:** [K LO K R K DB G DB W DB G DB K R K LO K LO](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO K R K DB G DB W DB G DB K R K LO K LO</span></span>
+In pattern [KYKRKBGBWBGBKRKYKY](/stripes/kykrkbgbwbgbkrkyky/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3275
 

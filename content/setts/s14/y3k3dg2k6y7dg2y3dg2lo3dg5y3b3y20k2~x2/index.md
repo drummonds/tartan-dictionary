@@ -2,10 +2,9 @@
 title: "Stewart Camel Fashion Tartan Tartan Number: 4038. Earliest known date: 01/01/1999 No Details See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGBGGYGGGGKGKG](/stripes/kgbggyggggkgkg/) · **Stripes:** [K Y B Y DG LO DG Y DG Y K DG K Y](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y B Y DG LO DG Y DG Y K DG K Y</span></span>
+In pattern [GKGKGGGGYGGBGK](/stripes/gkgkggggyggbgk/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4038
 

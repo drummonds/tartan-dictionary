@@ -2,10 +2,9 @@
 title: "Martin, Robert N (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWG](/stripes/rwrwg/) · **Stripes:** [R W R W DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">R W R W DG</span></span>
+In pattern [GWRWR](/stripes/gwrwr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10481/
 

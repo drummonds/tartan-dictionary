@@ -2,10 +2,9 @@
 title: "Murtaugh Hunting Tartan Tartan Number: 5818. Earliest known date: 2003 After original Murtaugh by Don Smith, Heraldic Graphics See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KRWKBKWGKGKWBYBWBYBKR](/stripes/krwkbkwgkgkwbybwbybkr/) · **Stripes:** [K R W K N K W G K G K W N LY N W N LY N K R](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R W K N K W G K G K W N LY N W N LY N K R</span></span>
+In pattern [KRWKBKWGKGKWBYBWBYBKR](/stripes/krwkbkwgkgkwbybwbybkr/).
 
-
-This was sourced from house-of-tartan.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5818
 

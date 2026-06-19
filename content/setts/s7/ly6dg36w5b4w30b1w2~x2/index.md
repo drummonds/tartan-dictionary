@@ -2,10 +2,9 @@
 title: "Pearce Scotch Plaid 4 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGWBWBW](/stripes/ygwbwbw/) · **Stripes:** [LY DG W B W B W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DG W B W B W</span></span>
+In pattern [WBWBWGY](/stripes/wbwbwgy/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8096/
 

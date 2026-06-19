@@ -2,10 +2,9 @@
 title: "Jewel Look JTB (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGRRRRRWRRG](/stripes/ygrgrgrrrrrwrrg/) · **Stripes:** [LY G O G O G O M R O R W R O G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G O G O G O M R O R W R O G</span></span>
+In pattern [GRRWRRRRRGRGRGY](/stripes/grrwrrrrrgrgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5730/
 

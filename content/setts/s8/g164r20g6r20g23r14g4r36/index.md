@@ -2,20 +2,11 @@
 title: "Aukland & District Pipe Band (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRG](/stripes/rgrgrgrg/) · **Stripes:** [R G R G R G R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G R G</span></span>
+In pattern [GRGRGRGR](/stripes/grgrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8268/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kyle Green (Name)](/setts/s8/r54g6r5g6r10g3r2g18~x2/)
-- [Menzies](/setts/s8/g48r4g2r4g6r2g3r9~x2/)
-
 
 ## Thread count
 G/164 R20 G6 R20 G23 R14 G4 R/36

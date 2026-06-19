@@ -2,10 +2,9 @@
 title: "Pearson"
 date: 2023-03-18
 ---
-**Bands:** [YBBBG](/stripes/ybbbg/) · **Stripes:** [LY DB DO DB Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY DB DO DB Y</span></span>
+In pattern [GBBBY](/stripes/gbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3310
 

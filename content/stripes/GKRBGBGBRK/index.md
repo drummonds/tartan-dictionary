@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gkrbgbgbrk/
 ---
-GKRBGBGBRK
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GKRBGBGBRK
+
+{{< pat "GKRBGBGBRK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K R DO DY DO DY DO R K DY <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K R DO DY DO DY DO R K DY</span></span>
 
 | Tartans |
 |---------------|
 | [Ferguson Britt](/setts/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6/)|
 |![Ferguson Britt example sett](/setts/s10/k12r1do12dy12do2dy12do12r1k12dy2~x6/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Man, Isle of"
 date: 2023-03-18
 ---
-**Bands:** [RBGYGYGYGBYBY](/stripes/rbgygygygbyby/) · **Stripes:** [R DB DY LR DG LY DG LR DG DP LY DP LR](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DB DY LR DG LY DG LR DG DP LY DP LR</span></span>
+In pattern [RBGYGYGYGBYBY](/stripes/rbgygygygbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2799
 

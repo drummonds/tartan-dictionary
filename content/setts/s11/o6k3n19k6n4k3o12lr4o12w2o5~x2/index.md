@@ -2,10 +2,9 @@
 title: "Scotland Forever Antique (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKBKRYRWR](/stripes/rkbkbkryrwr/) · **Stripes:** [O K N K N K O LR O W O](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K N K N K O LR O W O</span></span>
+In pattern [RKBKBKRYRWR](/stripes/rkbkbkryrwr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8276/
 

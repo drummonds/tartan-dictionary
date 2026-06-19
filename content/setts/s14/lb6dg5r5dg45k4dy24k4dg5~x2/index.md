@@ -2,10 +2,9 @@
 title: "O'Neill Clan/Family Tartan Tartan Number: 4135. Earliest known date: 1999 Designed by Linda Clifford, USA for a Timothy O'Neill but may be used by anyone of the name O'Neill and its variants. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGKGRGWGRGKGKG](/stripes/kgkgrgwgrgkgkg/) · **Stripes:** [K DY K DG R DG LB DG R DG K DY K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DY K DG R DG LB DG R DG K DY K DG</span></span>
+In pattern [GKGKGRGWGRGKGK](/stripes/gkgkgrgwgrgkgk/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4135
 

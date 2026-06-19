@@ -2,10 +2,9 @@
 title: "Jones Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GGBGBKBBBBBBBKBGBG](/stripes/ggbgbkbbbbbbbkbgbg/) · **Stripes:** [G G DP G DP K T DP T DP T DP T K DP G DP G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G G DP G DP K T DP T DP T DP T K DP G DP G</span></span>
+In pattern [GBGBKBBBBBBBKBGBGG](/stripes/gbgbkbbbbbbbkbgbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5241
 

@@ -2,10 +2,9 @@
 title: "MacHatters of the Old Pueblo"
 date: 2023-03-18
 ---
-**Bands:** [BRRRBRKRKRW](/stripes/brrrbrkrkrw/) · **Stripes:** [DP M R R DP R K R K R LP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">DP M R R DP R K R K R LP</span></span>
+In pattern [BRRRBRKRKRW](/stripes/brrrbrkrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2469
 

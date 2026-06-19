@@ -2,10 +2,9 @@
 title: "Ochiltree"
 date: 2023-03-18
 ---
-**Bands:** [GKBKBKGRKYKRBKGKGKB](/stripes/gkbkbkgrkykrbkgkgkb/) · **Stripes:** [G K DB K DB K G R K LY K R DB K G K G K DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K DB K G R K LY K R DB K G K G K DB</span></span>
+In pattern [BKGKGKBRKYKRGKBKBKG](/stripes/bkgkgkbrkykrgkbkbkg/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ochiltree (Name)](/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x4/)
-
 
 ## Thread count
 G/24 K2 B4 K2 B4 K2 G24 R4 K24 Y2 K24 R4 B24 K2 G4 K2 G4 K2 B/24

@@ -2,10 +2,9 @@
 title: "Macallan (1980s) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGGYYBYBYB](/stripes/ggggggyybybyb/) · **Stripes:** [G G G G G G LO LO B LO B LO B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G G G G G G LO LO B LO B LO B</span></span>
+In pattern [BYBYBYYGGGGGG](/stripes/bybybyygggggg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3258/
 

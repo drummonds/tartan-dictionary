@@ -2,20 +2,11 @@
 title: "Matheson (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRBGRGRGRGRGRBGRG](/stripes/grgrgrbgrgrgrgrgrbgrg/) · **Stripes:** [DG R DG R DG R DB DG R DG R DG R DG R DG R DB DG R DG](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG R DG R DB DG R DG R DG R DG R DG R DB DG R DG</span></span>
+In pattern [GRGBRGRGRGRGRGBRGRGRG](/stripes/grgbrgrgrgrgrgbrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/860/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Matheson](/setts/s21/dg8r4dg1r1dg1r24db8dg4r1dg1r1dg4r8dg1r1dg1r1db8dg8r2dg4/)
-- [Matheson](/setts/s21/dg8r4dg1r1dg1r24db8dg4r1dg1r1dg4r8dg1r1dg1r1db8dg8r2dg4~x2/)
-
 
 ## Thread count
 G/32 R16 G4 R4 G4 R56 DB32 G16 R4 G4 R4 G16 R32 G4 R4 G4 R4 DB32 G32 R8 G/16

@@ -2,10 +2,9 @@
 title: "Cumming, and Glenorchy"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBBRGRBGRBBRGRBRBB](/stripes/rbrgrbbrgrbgrbbrgrbrbb/) · **Stripes:** [R DB R G R T DB R G R DB G R DB T R G R DB R DB T](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DB R G R T DB R G R DB G R DB T R G R DB R DB T</span></span>
+In pattern [BBRBRGRBBRGBRGRBBRGRBR](/stripes/bbrbrgrbbrgbrgrbbrgrbr/).
 
-
-This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

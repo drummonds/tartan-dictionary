@@ -2,10 +2,9 @@
 title: "Ottawa"
 date: 2023-03-18
 ---
-**Bands:** [RGWGWGBGBGBGWGWGWGBGBGBG](/stripes/rgwgwgbgbgbgwgwgwgbgbgbg/) · **Stripes:** [R Y W Y W Y DB Y DB Y DB Y W Y W Y W Y T Y T Y T Y](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y W Y W Y DB Y DB Y DB Y W Y W Y W Y T Y T Y T Y</span></span>
+In pattern [GBGBGBGWGWGWGBGBGBGWGWGR](/stripes/gbgbgbgwgwgwgbgbgbgwgwgr/).
 
-
-This was sourced from weddslist.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

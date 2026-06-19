@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/rkwrkbkbkyrwbw/
 ---
-RKWRKBKBKYRWBW
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-RKWRKBKBKYRWBW
+
+{{< pat "RKWRKBKBKYRWBW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K W R K DB K DB K LY O W DB W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W R K DB K DB K LY O W DB W</span></span>
 
 | Tartans |
 |---------------|
 | [MacInnes Ancient Hunting](/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/)|
 |![MacInnes Ancient Hunting example sett](/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/sett.png)|
-

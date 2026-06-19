@@ -2,10 +2,9 @@
 title: "Leslie Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KGYKBR](/stripes/kgykbr/) · **Stripes:** [K DG LR K DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG LR K DB R</span></span>
+In pattern [KGYKBR](/stripes/kgykbr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1/)
-
 
 ## Thread count
 DR/4 DB16 K16 N2 DG16 K/2

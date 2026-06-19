@@ -2,10 +2,9 @@
 title: "Tweedside, hunting"
 date: 2023-03-18
 ---
-**Bands:** [KGWGWGKGB](/stripes/kgwgwgkgb/) · **Stripes:** [K G W G W G K G DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K G W G W G K G DB</span></span>
+In pattern [BGKGWGWGK](/stripes/bgkgwgwgk/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Tweedside Hunting](/setts/s9/db18g2k2g5w2g2w2g2k2~x4/)
-
 
 ## Thread count
 B/42 G10 K10 G30 LN6 G10 LN6 G10 K/6

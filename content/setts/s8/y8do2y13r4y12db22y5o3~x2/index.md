@@ -2,10 +2,9 @@
 title: "Kildare, County (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGRGBG](/stripes/rgbgrgbg/) · **Stripes:** [O Y DB Y R Y DO Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O Y DB Y R Y DO Y</span></span>
+In pattern [GBGRGBGR](/stripes/gbgrgbgr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2262/
 

@@ -2,10 +2,9 @@
 title: "Pride of New Zealand"
 date: 2023-03-18
 ---
-**Bands:** [KWKB](/stripes/kwkb/) · **Stripes:** [K W K N](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K W K N</span></span>
+In pattern [BKWK](/stripes/bkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3373
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3373](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3373)
 - Scottish Tartans Authority (ITI): 2632
 - Scottish Tartans World Register: 2632
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Pride of New Zealand, The](/setts/s4/n124k60w1k2~x2/)
-
 
 ## Thread count
 N/124 K60 W2 K/2

@@ -2,10 +2,9 @@
 title: "Burns 250th Anniversary (Commem.)"
 date: 2023-03-18
 ---
-**Bands:** [KWKGGGGGKRRR](/stripes/kwkgggggkrrr/) · **Stripes:** [K W K DY G DY G DY K R O R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K DY G DY G DY K R O R</span></span>
+In pattern [KWKGGGGGKRRR](/stripes/kwkgggggkrrr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7701/
 

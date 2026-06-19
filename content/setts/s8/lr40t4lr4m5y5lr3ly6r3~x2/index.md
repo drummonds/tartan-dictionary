@@ -2,10 +2,9 @@
 title: "Miller Hargreaves (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYYGRYBY](/stripes/ryygryby/) · **Stripes:** [R LY LR Y M LR T LR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R LY LR Y M LR T LR</span></span>
+In pattern [RYYGRYBY](/stripes/ryygryby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11252
 

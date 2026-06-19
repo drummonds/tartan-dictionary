@@ -2,10 +2,9 @@
 title: "Hamilton, Red (Fashion?)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRR](/stripes/rrrrr/) · **Stripes:** [R O R O R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R O R O R</span></span>
+In pattern [RRRRR](/stripes/rrrrr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4043/
 

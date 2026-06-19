@@ -2,10 +2,9 @@
 title: "Pride of Lorient"
 date: 2023-03-18
 ---
-**Bands:** [RYBYBYBYBBBBBBBBW](/stripes/rybybybybbbbbbbbw/) · **Stripes:** [R LR N LR N LR N LR N DT N DT N DT N DT W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LR N LR N LR N LR N DT N DT N DT N DT W</span></span>
+In pattern [RYBYBYBYBBBBBBBBW](/stripes/rybybybybbbbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10787
 

@@ -2,10 +2,9 @@
 title: "Sabrettes (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKWRKWKRKRWKWRWG](/stripes/rkwrkwkrkrwkwrwg/) · **Stripes:** [R K W O K W K R K O W K W R W G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K W O K W K R K O W K W R W G</span></span>
+In pattern [GWRWKWRKRKWKRWKR](/stripes/gwrwkwrkrkwkrwkr/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2200/
 

@@ -2,10 +2,9 @@
 title: "Wilding, Michael John (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRWRKRKRKYBKW](/stripes/krwrkrkrkybkw/) · **Stripes:** [K R W R K R K R K LY T K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R W R K R K R K LY T K W</span></span>
+In pattern [KRWRKRKRKYBKW](/stripes/krwrkrkrkybkw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11274
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11274
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11274](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11274)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilding, Michael John (Personal)](/setts/s13/w2k2t2ly2k2r7k1r12k2r6w1r23k1~x2/)
-
 
 ## Thread count
 W/4 K4 B4 Y4 K4 DR12 K2 DR24 K4 DR12 W2 DR46 K/2

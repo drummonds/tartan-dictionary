@@ -2,10 +2,9 @@
 title: "McCurrach (2014)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGGKGKGW](/stripes/krkggkgkgw/) · **Stripes:** [K R K G DY K DY K DY W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R K G DY K DY K DY W</span></span>
+In pattern [KRKGGKGKGW](/stripes/krkggkgkgw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11021/
 

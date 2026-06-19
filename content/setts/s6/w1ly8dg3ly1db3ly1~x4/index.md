@@ -2,10 +2,9 @@
 title: "Fraser Yellow #2"
 date: 2023-03-18
 ---
-**Bands:** [YBYGYW](/stripes/ybygyw/) · **Stripes:** [LY DB LY DG LY W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LY DG LY W</span></span>
+In pattern [WYGYBY](/stripes/wygyby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1269
 

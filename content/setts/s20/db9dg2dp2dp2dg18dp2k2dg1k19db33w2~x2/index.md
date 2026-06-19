@@ -2,10 +2,9 @@
 title: "Highland Pride of Scotland"
 date: 2023-03-18
 ---
-**Bands:** [GBBGBKGKBWBKGKBGBBGB](/stripes/gbbgbkgkbwbkgkbgbbgb/) · **Stripes:** [DG DP DP DG DP K DG K DB W DB K DG K DP DG DP DP DG DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DP DP DG DP K DG K DB W DB K DG K DP DG DP DP DG DB</span></span>
+In pattern [BGBBGBKGKBWBKGKBGBBG](/stripes/bgbbgbkgkbwbkgkbgbbg/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1715
 

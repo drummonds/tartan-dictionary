@@ -2,19 +2,11 @@
 title: "Beatrice Princess.. (Hunting) Royal Family Tartan Tartan Number: 545. Earliest known date: pre 2003 Reduced by 1/6th to display. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YGKGKGBGBGRGRB](/stripes/ygkgkgbgbgrgrb/) · **Stripes:** [LY G K G K G DB G DB G R G R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G K G K G DB G DB G R G R DB</span></span>
+In pattern [BRGRGBGBGKGKGY](/stripes/brgrgbgbgkgkgy/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=545
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Princess Beatrice Hunting (MacKinlay strip)](/setts/s14/db6r3g3r3g36db6g6db40g3k3g3k3g8ly6~x2/)
-
 
 ## Thread count
 Y/10 G13 K5 G5 K5 G5 DB67 G10 DBa13 G60 R5 G5 R5 DBa/10

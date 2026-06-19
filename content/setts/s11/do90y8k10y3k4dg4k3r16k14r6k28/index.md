@@ -2,10 +2,9 @@
 title: "Father’s Pride, The"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKGKGKGB](/stripes/krkrkgkgkgb/) · **Stripes:** [K R K R K DG K Y K Y DO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="seq">K R K R K DG K Y K Y DO</span></span>
+In pattern [BGKGKGKRKRK](/stripes/bgkgkgkrkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10976
 

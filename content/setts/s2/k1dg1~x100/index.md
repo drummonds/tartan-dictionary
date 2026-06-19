@@ -2,10 +2,9 @@
 title: "Robin Hood/Wilson no.224/Rob Roy Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KG](/stripes/kg/) · **Stripes:** [K DG](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG</span></span>
+In pattern [GK](/stripes/gk/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3537
 

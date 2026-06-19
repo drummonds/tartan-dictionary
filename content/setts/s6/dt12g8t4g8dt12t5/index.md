@@ -2,10 +2,9 @@
 title: "Sheffield High School"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBB](/stripes/bgbgbb/) · **Stripes:** [DT G T G DT T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">DT G T G DT T</span></span>
+In pattern [BBGBGB](/stripes/bbgbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5063
 

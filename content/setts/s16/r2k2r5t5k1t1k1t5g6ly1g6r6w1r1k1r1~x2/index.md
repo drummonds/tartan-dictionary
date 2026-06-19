@@ -2,10 +2,9 @@
 title: "Unnamed, No 3"
 date: 2023-03-18
 ---
-**Bands:** [RKRBKBKBGYGRWRKR](/stripes/rkrbkbkbgygrwrkr/) · **Stripes:** [R K R T K T K T G LY G R W R K R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R T K T K T G LY G R W R K R</span></span>
+In pattern [RKRBKBKBGYGRWRKR](/stripes/rkrbkbkbgygrwrkr/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

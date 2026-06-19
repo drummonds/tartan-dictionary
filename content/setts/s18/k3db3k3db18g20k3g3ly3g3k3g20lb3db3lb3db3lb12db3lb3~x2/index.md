@@ -2,10 +2,9 @@
 title: "Johnston Dress (Clan?)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGKGYGKGWBWBWBW](/stripes/kbkbgkgygkgwbwbwbw/) · **Stripes:** [K DB K DB G K G LY G K G LB DB LB DB LB DB LB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K DB K DB G K G LY G K G LB DB LB DB LB DB LB</span></span>
+In pattern [KBKBGKGYGKGWBWBWBW](/stripes/kbkbgkgygkgwbwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5308/
 

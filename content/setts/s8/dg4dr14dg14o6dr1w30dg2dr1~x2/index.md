@@ -2,10 +2,9 @@
 title: "British Columbia #2"
 date: 2023-03-18
 ---
-**Bands:** [GBGRBWGB](/stripes/gbgrbwgb/) · **Stripes:** [DG DR DG O DR W DG DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG DR DG O DR W DG DR</span></span>
+In pattern [BGWBRGBG](/stripes/bgwbrgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5077
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5077](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5077)
 - Scottish Tartans Authority (ITI): 3730
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [National Trust](/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/)
-
 
 ## Thread count
 G/8 DR28 G28 LG12 DR2 W60 G4 DR/2

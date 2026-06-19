@@ -2,10 +2,9 @@
 title: "Shaw"
 date: 2023-03-18
 ---
-**Bands:** [BKRBRGRB](/stripes/bkrbrgrb/) · **Stripes:** [B K R N R DG R N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">B K R N R DG R N</span></span>
+In pattern [BKRBRGRB](/stripes/bkrbrgrb/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Shaw](/setts/s8/b5k1r30n15r8dg30r8n2~x2/)
-
 
 ## Thread count
 B/5 K1 DR30 N15 DR8 DG30 DR8 N/2

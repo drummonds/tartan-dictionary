@@ -2,10 +2,9 @@
 title: "Leung (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKRBKWGKY](/stripes/rkrbkwgky/) · **Stripes:** [M K M DB K W G K LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">M K M DB K W G K LY</span></span>
+In pattern [RKRBKWGKY](/stripes/rkrbkwgky/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6206/
 

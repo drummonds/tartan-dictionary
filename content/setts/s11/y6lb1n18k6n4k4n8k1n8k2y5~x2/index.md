@@ -2,10 +2,9 @@
 title: "Bute Heather, Grey"
 date: 2023-03-18
 ---
-**Bands:** [GKBKBKBKBWG](/stripes/gkbkbkbkbwg/) · **Stripes:** [Y K N K N K N K N LB Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y K N K N K N K N LB Y</span></span>
+In pattern [GKBKBKBKBWG](/stripes/gkbkbkbkbwg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5952
 

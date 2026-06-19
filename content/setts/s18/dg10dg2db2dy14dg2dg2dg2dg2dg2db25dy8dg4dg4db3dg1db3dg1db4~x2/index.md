@@ -2,10 +2,9 @@
 title: "Nova Scotia"
 date: 2023-03-18
 ---
-**Bands:** [GGBGGGGGGBGGGBGBGB](/stripes/ggbggggggbgggbgbgb/) · **Stripes:** [DG DG DB DY DG DG DG DG DG DB DY DG DG DB DG DB DG DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DG DB DY DG DG DG DG DG DB DY DG DG DB DG DB DG DB</span></span>
+In pattern [BGBGBGGGBGGGGGGBGG](/stripes/bgbgbgggbggggggbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3200
 

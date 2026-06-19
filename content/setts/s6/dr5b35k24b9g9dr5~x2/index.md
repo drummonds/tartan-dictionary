@@ -2,10 +2,9 @@
 title: "Notre Dame Marching Guard (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [BGBKBB](/stripes/bgbkbb/) · **Stripes:** [DR G B K B DR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR G B K B DR</span></span>
+In pattern [BBKBGB](/stripes/bbkbgb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5542/
 

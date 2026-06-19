@@ -2,10 +2,9 @@
 title: "MacNab WI2"
 date: 2023-03-18
 ---
-**Bands:** [GRBW](/stripes/grbw/) · **Stripes:** [DG R DP LB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG R DP LB</span></span>
+In pattern [GRBW](/stripes/grbw/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

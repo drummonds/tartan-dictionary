@@ -2,10 +2,9 @@
 title: "Ferguson Britt Red (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RRRBR](/stripes/rrrbr/) · **Stripes:** [R R R DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R DB R</span></span>
+In pattern [RBRRR](/stripes/rbrrr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8122/
 

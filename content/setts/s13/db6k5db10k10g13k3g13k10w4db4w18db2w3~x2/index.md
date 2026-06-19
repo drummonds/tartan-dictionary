@@ -2,10 +2,9 @@
 title: "Sutherland, dress"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/) · **Stripes:** [DB K DB K G K G K W DB W DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K G K G K W DB W DB W</span></span>
+In pattern [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Watch Dress (Symmetrical)](/setts/s13/db1k1db3k3g4k1g4k3w1db1w6db1w1~x4/)
-
 
 ## Thread count
 B/12 K10 B20 K20 G26 K6 G26 K20 LN8 B8 LN36 B4 LN/6

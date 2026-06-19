@@ -2,10 +2,9 @@
 title: "Manderson #2"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKRBRBW](/stripes/krkgkrbrbw/) · **Stripes:** [K O K DG K R T R T W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K O K DG K R T R T W</span></span>
+In pattern [KRKGKRBRBW](/stripes/krkgkrbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802
 

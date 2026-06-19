@@ -2,10 +2,9 @@
 title: "U.S. 2001 Air Force"
 date: 2023-03-18
 ---
-**Bands:** [RKGBGKRBBBBB](/stripes/rkgbgkrbbbbb/) · **Stripes:** [R K G DB G K R B DB B DB B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K G DB G K R B DB B DB B</span></span>
+In pattern [BBBBBRKGBGKR](/stripes/bbbbbrkgbgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4179
 

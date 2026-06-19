@@ -2,10 +2,9 @@
 title: "Carmen Lau (Hong Kong) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKBBWGB](/stripes/ykbbwgb/) · **Stripes:** [LY K T DO W G DO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">LY K T DO W G DO</span></span>
+In pattern [BGWBBKY](/stripes/bgwbbky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10340
 

@@ -2,10 +2,9 @@
 title: "Kyle (Green)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRGRGRG](/stripes/rgrgrgrgrgrgrg/) · **Stripes:** [R G R G R G R G R G R G R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G R G R G R G R G</span></span>
+In pattern [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4996
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4996](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4996)
 - Scottish Tartans Authority (ITI): 3615
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Robertson - 1746 (Artefact)](/setts/s14/g15r1g1r1g1r18g24r1g1r18g1r1g1r3~x2/)
-
 
 ## Thread count
 G/36 R4 G6 R20 G12 R10 G12 R108 G12 R10 G12 R20 G6 R/4

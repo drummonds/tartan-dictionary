@@ -2,10 +2,9 @@
 title: "Debbie Munro Memorial (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KWBWB](/stripes/kwbwb/) · **Stripes:** [K LP DB LP DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="seq">K LP DB LP DB</span></span>
+In pattern [BWBWK](/stripes/bwbwk/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7638/
 

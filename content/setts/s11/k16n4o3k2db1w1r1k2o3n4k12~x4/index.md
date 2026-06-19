@@ -2,10 +2,9 @@
 title: "Iron Horse Clan Tartan Tartan Number: 3820. Earliest known date: 2002 Designed for members of the Iron Horse 'Clan' (used in the loose sense) a group of American motorcycle enthusiasts wishing to express their identity and heritage through their own tartan. Only for members of the Iron Horse group and their families. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBRKRWBKRBK](/stripes/kbrkrwbkrbk/) · **Stripes:** [K N O K R W DB K O N K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">K N O K R W DB K O N K</span></span>
+In pattern [KBRKBWRKRBK](/stripes/kbrkbwrkrbk/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3820
 

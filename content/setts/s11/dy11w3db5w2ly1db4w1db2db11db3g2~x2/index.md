@@ -2,10 +2,9 @@
 title: "Scottish Bear (Mathan Albannach)"
 date: 2023-03-18
 ---
-**Bands:** [GBBBWBYWBWG](/stripes/gbbbwbywbwg/) · **Stripes:** [G DB DB DB W DB LY W DB W DY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">G DB DB DB W DB LY W DB W DY</span></span>
+In pattern [GBBBWBYWBWG](/stripes/gbbbwbywbwg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11602
 

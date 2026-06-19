@@ -2,10 +2,9 @@
 title: "Cairngorm"
 date: 2023-03-18
 ---
-**Bands:** [BWYRBW](/stripes/bwyrbw/) · **Stripes:** [N W LY O N W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N W LY O N W</span></span>
+In pattern [BWYRBW](/stripes/bwyrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=462
 

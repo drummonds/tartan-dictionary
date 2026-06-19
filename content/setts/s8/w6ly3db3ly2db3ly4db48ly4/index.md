@@ -2,19 +2,11 @@
 title: "Morris Welsh Name Tartan Tartan Number: 5749. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Meyrick, Meurig, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBYW](/stripes/ybybybyw/) · **Stripes:** [LY DB LY DB LY DB LY W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LY DB LY DB LY W</span></span>
+In pattern [WYBYBYBY](/stripes/wybybyby/).
 
-
-This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5749
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Morris of Wales](/setts/s8/w4ly3db3ly2db3ly4db48ly4/)
-
 
 ## Thread count
 LN/6 Y3 DB3 Y2 DB3 Y4 DB48 Y/4

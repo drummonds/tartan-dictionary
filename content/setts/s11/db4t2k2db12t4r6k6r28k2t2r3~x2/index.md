@@ -2,10 +2,9 @@
 title: "Hudson (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBKRKRBBKBB](/stripes/rbkrkrbbkbb/) · **Stripes:** [R T K R K R T DB K T DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R T K R K R T DB K T DB</span></span>
+In pattern [BBKBBRKRKBR](/stripes/bbkbbrkrkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1776
 

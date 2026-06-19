@@ -2,10 +2,9 @@
 title: "Greater Victoria Police PB (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWBW](/stripes/rbrbwbw/) · **Stripes:** [R DT R DT W DT W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DT R DT W DT W</span></span>
+In pattern [RBRBWBW](/stripes/rbrbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6429/
 

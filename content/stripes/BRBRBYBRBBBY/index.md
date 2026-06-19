@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brbrbybrbbby/
 ---
-BRBRBYBRBBBY
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-BRBRBYBRBBBY
+
+{{< pat "BRBRBYBRBBBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LR B N B R N LR N O N R N <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">LR B N B R N LR N O N R N</span></span>
 
 | Tartans |
 |---------------|
 | [Gabrielle](/setts/s12/n48r4n6o2n2lr2n2r10b6n2b3lr2~x2/)|
 |![Gabrielle example sett](/setts/s12/n48r4n6o2n2lr2n2r10b6n2b3lr2~x2/sett.png)|
-

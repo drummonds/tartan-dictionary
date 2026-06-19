@@ -2,10 +2,9 @@
 title: "Bennet"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRBR](/stripes/rbrbrbrbrbr/) · **Stripes:** [M DB M DB M DB M T M T M](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M DB M DB M DB M T M T M</span></span>
+In pattern [RBRBRBRBRBR](/stripes/rbrbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4949
 

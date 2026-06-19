@@ -2,10 +2,9 @@
 title: "Tulchan Estate Check (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/gwgwgwgwgwgwgwgwgwgwgwgwgw/) · **Stripes:** [G W DY W DY W DY W DY W DY W DY W DY W DY W DY W DY W DY W DY W](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G W DY W DY W DY W DY W DY W DY W DY W DY W DY W DY W DY W DY W</span></span>
+In pattern [GWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/gwgwgwgwgwgwgwgwgwgwgwgwgw/).
 
-
-This was sourced from tartans-authority.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7925/
 

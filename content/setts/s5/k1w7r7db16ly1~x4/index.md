@@ -2,10 +2,9 @@
 title: "Prehospital EMS Tartan (USA)"
 date: 2023-03-18
 ---
-**Bands:** [KWRBY](/stripes/kwrby/) · **Stripes:** [K W R DB LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W R DB LY</span></span>
+In pattern [KWRBY](/stripes/kwrby/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10182
 

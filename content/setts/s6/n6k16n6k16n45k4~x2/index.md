@@ -2,22 +2,11 @@
 title: "Grey Spirit Fashion Tartan Tartan Number: 6594. Earliest known date: 01/03/2005 A fashion tartan from ACS Clothing of Glasgow for use in their kilt hire business. Woven by Lochcarron. The grey is actually a grey/black marl (mixture) which can't be shown graphically. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKB](/stripes/kbkbkb/) · **Stripes:** [K N K N K N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N K N</span></span>
+In pattern [BKBKBK](/stripes/bkbkbk/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6594
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Freedom of Scotland](/setts/s6/k15n7k6n11k50n4~x2/)
-- [Grey Spirit (Fashion)](/setts/s6/n6k17n6k17n45k4~x2/)
-- [Silver Mist (Corporate)](/setts/s6/k13n2k13n31k1n1~x4/)
-- [Slanj, Grey (Corporate)](/setts/s6/k3n25k3n3k21n3~x2/)
-
 
 ## Thread count
 N/12 K32 N12 K32 N90 K/8

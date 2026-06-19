@@ -2,10 +2,9 @@
 title: "Ferrazza in Guidonia, Rome (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKBKYKRBKYKGKGKGKGKGKB](/stripes/kwkbkykrbkykgkgkgkgkgkb/) · **Stripes:** [K W K DB K LY K R DB K LY K DG K DG K DG K DG K DG K DB](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K DB K LY K R DB K LY K DG K DG K DG K DG K DG K DB</span></span>
+In pattern [BKGKGKGKGKGKYKBRKYKBKWK](/stripes/bkgkgkgkgkgkykbrkykbkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10471
 

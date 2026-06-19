@@ -2,10 +2,9 @@
 title: "Iberia Dress, Blue (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YRWGRWB](/stripes/yrwgrwb/) · **Stripes:** [LY R W DG R W DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R W DG R W DB</span></span>
+In pattern [BWRGWRY](/stripes/bwrgwry/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6973/
 

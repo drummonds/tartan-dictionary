@@ -2,10 +2,9 @@
 title: "Carrick"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBR](/stripes/rgrgrgrbr/) · **Stripes:** [R G M G M G R DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G M G M G R DB R</span></span>
+In pattern [RBRGRGRGR](/stripes/rbrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=575
 

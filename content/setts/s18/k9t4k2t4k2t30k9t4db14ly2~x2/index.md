@@ -2,10 +2,9 @@
 title: "Hannay Blue"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKBBYBBKBKBKB](/stripes/kbkbkbkbbybbkbkbkb/) · **Stripes:** [K T K T K T K T DB LY DB T K T K T K T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T K T K T K T DB LY DB T K T K T K T</span></span>
+In pattern [BKBKBKBBYBBKBKBKBK](/stripes/bkbkbkbbybbkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1588
 

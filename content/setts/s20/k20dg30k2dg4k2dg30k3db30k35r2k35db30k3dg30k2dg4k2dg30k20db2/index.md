@@ -2,10 +2,9 @@
 title: "Phillips of Wales"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKBKRKBKGKGKGKB](/stripes/kgkgkgkbkrkbkgkgkgkb/) · **Stripes:** [K DG K DG K DG K DB K R K DB K DG K DG K DG K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DG K DG K DG K DB K R K DB K DG K DG K DG K DB</span></span>
+In pattern [BKGKGKGKBKRKBKGKGKGK](/stripes/bkgkgkgkbkrkbkgkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3332
 

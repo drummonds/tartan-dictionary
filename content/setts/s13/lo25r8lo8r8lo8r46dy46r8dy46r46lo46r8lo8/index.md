@@ -2,10 +2,9 @@
 title: "Poulter SG 101 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYRGRGRYRY](/stripes/yryryrgrgryry/) · **Stripes:** [LO R LO R LO R DY R DY R LO R LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO R LO R LO R DY R DY R LO R LO</span></span>
+In pattern [YRYRGRGRYRYRY](/stripes/yryrgrgryryry/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7716/
 

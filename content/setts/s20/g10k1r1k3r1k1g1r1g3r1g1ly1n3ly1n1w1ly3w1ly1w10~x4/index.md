@@ -2,10 +2,9 @@
 title: "Spice of Life (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GKRKRKGRGRGYBYBWYWYW](/stripes/gkrkrkgrgrgybybwywyw/) · **Stripes:** [G K R K R K G R G R G LY N LY N W LY W LY W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G K R K R K G R G R G LY N LY N W LY W LY W</span></span>
+In pattern [GKRKRKGRGRGYBYBWYWYW](/stripes/gkrkrkgrgrgybybwywyw/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10165/
 

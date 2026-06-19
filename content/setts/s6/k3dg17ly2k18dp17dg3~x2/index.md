@@ -2,10 +2,9 @@
 title: "Wilson's No.100"
 date: 2023-03-18
 ---
-**Bands:** [KGYKBG](/stripes/kgykbg/) · **Stripes:** [K DG LY K DP DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG LY K DP DG</span></span>
+In pattern [GBKYGK](/stripes/gbkygk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4674
 

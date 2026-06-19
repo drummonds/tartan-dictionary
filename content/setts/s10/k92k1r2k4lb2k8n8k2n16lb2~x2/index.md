@@ -2,10 +2,9 @@
 title: "Wcwm 1669-3"
 date: 2023-03-18
 ---
-**Bands:** [KKRKWKBKBW](/stripes/kkrkwkbkbw/) · **Stripes:** [K K R K LB K N K N LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K K R K LB K N K N LB</span></span>
+In pattern [KKRKWKBKBW](/stripes/kkrkwkbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4538
 

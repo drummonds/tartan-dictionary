@@ -2,10 +2,9 @@
 title: "Lochinvar Marine Harvest (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBBBKGKGKGKGKGKBBBKGKG](/stripes/kgkbbbkgkgkgkgkgkbbbkgkg/) · **Stripes:** [K G K DB DP DB K G K G K G K G K G K DB DP DB K G K G](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K DB DP DB K G K G K G K G K G K DB DP DB K G K G</span></span>
+In pattern [GKGKBBBKGKGKGKGKGKBBBKGK](/stripes/gkgkbbbkgkgkgkgkgkbbbkgk/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2102/
 

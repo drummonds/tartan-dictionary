@@ -2,10 +2,9 @@
 title: "Balmoral (Lavender) (Royal)"
 date: 2023-03-18
 ---
-**Bands:** [RRKRRRRRKRRRR](/stripes/rrkrrrrrkrrrr/) · **Stripes:** [R O K O M O M O K M O R O](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O K O M O M O K M O R O</span></span>
+In pattern [RRKRRRRRKRRRR](/stripes/rrkrrrrrkrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=184
 

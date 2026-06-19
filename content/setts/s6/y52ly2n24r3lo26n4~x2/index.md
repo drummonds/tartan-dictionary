@@ -2,10 +2,9 @@
 title: "Outlander #1"
 date: 2023-03-18
 ---
-**Bands:** [GYBRYB](/stripes/gybryb/) · **Stripes:** [Y LY N R LO N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="seq">Y LY N R LO N</span></span>
+In pattern [BYRBYG](/stripes/byrbyg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11113
 

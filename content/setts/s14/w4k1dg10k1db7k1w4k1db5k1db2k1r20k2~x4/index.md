@@ -2,10 +2,9 @@
 title: "Unnamed - C19th (Annie Oakley)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKBKWKBKGKW](/stripes/krkbkbkwkbkgkw/) · **Stripes:** [K R K DB K DB K W K DB K DG K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R K DB K DB K W K DB K DG K W</span></span>
+In pattern [KRKBKBKWKBKGKW](/stripes/krkbkbkwkbkgkw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8722/
 

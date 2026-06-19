@@ -2,10 +2,9 @@
 title: "MacDonald Dress #3"
 date: 2023-03-18
 ---
-**Bands:** [KWRWBWBWRWKGRGRGRGRGKRKRBRBRBRB](/stripes/kwrwbwbwrwkgrgrgrgrgkrkrbrbrbrb/) · **Stripes:** [K W R W B W B W R W K DG R DG R DG R DG R DG K R K R DB R DB R DB R DB](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K W R W B W B W R W K DG R DG R DG R DG R DG K R K R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRKRKGRGRGRGRGKWRWBWBWRWK](/stripes/brbrbrbrkrkgrgrgrgrgkwrwbwbwrwk/).
 
-
-This was sourced from register-of-tartans.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2345
 

@@ -2,10 +2,9 @@
 title: "MacGiboney / MacGibboney"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKGKYKGKGWGK](/stripes/kgwgkgkykgkgwgk/) · **Stripes:** [K DG W DG K Y K LY K Y K G W G K](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG W DG K Y K LY K Y K G W G K</span></span>
+In pattern [KGWGKGKYKGKGWGK](/stripes/kgwgkgkykgkgwgk/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

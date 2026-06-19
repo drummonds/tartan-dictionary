@@ -2,10 +2,9 @@
 title: "Leeds, University of (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGW](/stripes/grgrgrgw/) · **Stripes:** [G M G M G M G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G M G M G M G W</span></span>
+In pattern [GRGRGRGW](/stripes/grgrgrgw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/980/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/980/
 This cloth is also recorded under:
 
 - Leeds, University of #1
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Leeds University Corporate Tartan Tartan Number: 980. Earliest known date: pre 2003 Leeds University Scottish Country Dance Club. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g9m2g2m2g2m8g11w2~x4/)
-
 
 ## Thread count
 G/68 R8 G8 R8 G8 R24 G40 LN/10

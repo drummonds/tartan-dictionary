@@ -2,10 +2,9 @@
 title: "Taggart (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGKRKGBRKRKRBBKRKBR](/stripes/rgkrkgbrkrkrbbkrkbr/) · **Stripes:** [R DG K R K DG DB R K R K R DB N K R K N R](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K R K DG DB R K R K R DB N K R K N R</span></span>
+In pattern [RBKRKBBRKRKRBGKRKGR](/stripes/rbkrkbbrkrkrbgkrkgr/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10003/
 

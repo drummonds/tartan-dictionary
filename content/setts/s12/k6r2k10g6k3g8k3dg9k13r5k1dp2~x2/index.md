@@ -2,10 +2,9 @@
 title: "Ross (Musselburgh) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKGKGKRKB](/stripes/krkgkgkgkrkb/) · **Stripes:** [K R K G K G K DG K R K DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K R K G K G K DG K R K DP</span></span>
+In pattern [BKRKGKGKGKRK](/stripes/bkrkgkgkgkrk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8698/
 

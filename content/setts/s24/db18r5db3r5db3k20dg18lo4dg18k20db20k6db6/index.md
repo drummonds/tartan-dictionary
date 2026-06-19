@@ -2,10 +2,9 @@
 title: "Keith District District Tartan Tartan Number: 5782. Earliest known date: 2003 Designed by Councillor Linda Gorn of Keith who was instrumental in having a tartan museum established in Keith circa 1998 under the auspices of the Scottish Tartans Society. Keith is also home to Macnaughton Group's weaving mill (Isla Mill). The House of Edgar who formalised this design is also part of the same group. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKGYGKBKBKBKGYGKBRBRB](/stripes/rbrbkgygkbkbkbkgygkbrbrb/) · **Stripes:** [R DB R DB K DG LO DG K DB K DB K DB K DG LO DG K DB R DB R DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB K DG LO DG K DB K DB K DB K DG LO DG K DB R DB R DB</span></span>
+In pattern [BRBRBKGYGKBKBKBKGYGKBRBR](/stripes/brbrbkgygkbkbkbkgygkbrbr/).
 
-
-This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5782
 

@@ -2,10 +2,9 @@
 title: "Leando Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBRGWGWGBBGBW](/stripes/bbrgwgwgbbgbw/) · **Stripes:** [B DO M DY W DY W DY DO B DY B W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B DO M DY W DY W DY DO B DY B W</span></span>
+In pattern [BBRGWGWGBBGBW](/stripes/bbrgwgwgbbgbw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10369/
 

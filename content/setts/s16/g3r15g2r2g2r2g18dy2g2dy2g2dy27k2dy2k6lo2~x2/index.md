@@ -2,10 +2,9 @@
 title: "Strathmore (District)"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGGGGGGRGRGRG](/stripes/ykgkggggggrgrgrg/) · **Stripes:** [LO K DY K DY G DY G DY G R G R G R G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO K DY K DY G DY G DY G R G R G R G</span></span>
+In pattern [GRGRGRGGGGGGKGKY](/stripes/grgrgrggggggkgky/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10118/
 

@@ -2,10 +2,9 @@
 title: "Hodgkinson"
 date: 2023-03-18
 ---
-**Bands:** [BYBGBRBW](/stripes/bybgbrbw/) · **Stripes:** [T LY DB G DB R DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T LY DB G DB R DB W</span></span>
+In pattern [BYBGBRBW](/stripes/bybgbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4795
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4795](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4795)
 - Scottish Tartans Authority (ITI): 670
 - Scottish Tartans World Register: 670
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Yorkshire, C.C.C.](/setts/s8/t5ly5db12g1db1r1db1w2~x2/)
-
 
 ## Thread count
 B/20 Y20 DB48 Ga4 DB4 R4 DB4 LN/8

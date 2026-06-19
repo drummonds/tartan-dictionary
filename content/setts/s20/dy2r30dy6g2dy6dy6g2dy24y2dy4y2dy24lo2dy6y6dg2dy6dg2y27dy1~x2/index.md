@@ -2,10 +2,9 @@
 title: "Ebronen (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGGGGGGGGGGYGGGGGGG](/stripes/grggggggggggyggggggg/) · **Stripes:** [DY R DY G DY DY G DY Y DY Y DY LO DY Y DG DY DG Y DY](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY R DY G DY DY G DY Y DY Y DY LO DY Y DG DY DG Y DY</span></span>
+In pattern [GGGGGGGYGGGGGGGGGGRG](/stripes/gggggggyggggggggggrg/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1070
 

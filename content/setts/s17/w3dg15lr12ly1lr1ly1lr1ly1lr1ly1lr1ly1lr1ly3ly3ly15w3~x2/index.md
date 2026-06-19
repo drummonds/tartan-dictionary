@@ -2,10 +2,9 @@
 title: "Green Thistle"
 date: 2023-03-18
 ---
-**Bands:** [WYYYYYYYYYYYYYYGW](/stripes/wyyyyyyyyyyyyyygw/) · **Stripes:** [W LY LY LY LR LY LR LY LR LY LR LY LR LY LR DG W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W LY LY LY LR LY LR LY LR LY LR LY LR LY LR DG W</span></span>
+In pattern [WGYYYYYYYYYYYYYYW](/stripes/wgyyyyyyyyyyyyyyw/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11322
 

@@ -2,10 +2,9 @@
 title: "Robert Wiseman Dairies, Golden Jubilee"
 date: 2023-03-18
 ---
-**Bands:** [RWGWGWGWKWBWB](/stripes/rwgwgwgwkwbwb/) · **Stripes:** [M W G W G W G W K W B W B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">M W G W G W G W K W B W B</span></span>
+In pattern [BWBWKWGWGWGWR](/stripes/bwbwkwgwgwgwr/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

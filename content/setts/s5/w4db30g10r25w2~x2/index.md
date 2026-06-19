@@ -2,10 +2,9 @@
 title: "Highland Spring Dress (2004) (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [WRGBW](/stripes/wrgbw/) · **Stripes:** [W R G DB W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R G DB W</span></span>
+In pattern [WBGRW](/stripes/wbgrw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6140/
 

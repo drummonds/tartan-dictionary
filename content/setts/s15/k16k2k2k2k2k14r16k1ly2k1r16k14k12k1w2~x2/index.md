@@ -2,10 +2,9 @@
 title: "Bogle (2015)"
 date: 2023-03-18
 ---
-**Bands:** [KKKKKKRKYKRKKKW](/stripes/kkkkkkrkykrkkkw/) · **Stripes:** [K K K K K K R K LY K R K K K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K K K K K K R K LY K R K K K W</span></span>
+In pattern [KKKKKKRKYKRKKKW](/stripes/kkkkkkrkykrkkkw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11349
 

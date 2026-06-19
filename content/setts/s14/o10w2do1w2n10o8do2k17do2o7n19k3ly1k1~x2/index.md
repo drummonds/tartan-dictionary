@@ -2,10 +2,9 @@
 title: "Scottish Wildcat"
 date: 2023-03-18
 ---
-**Bands:** [KYKBRBKBRBWBWR](/stripes/kykbrbkbrbwbwr/) · **Stripes:** [K LY K N O DO K DO O N W DO W O](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K LY K N O DO K DO O N W DO W O</span></span>
+In pattern [KYKBRBKBRBWBWR](/stripes/kykbrbkbrbwbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11196
 

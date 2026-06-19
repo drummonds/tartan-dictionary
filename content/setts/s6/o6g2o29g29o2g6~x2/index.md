@@ -2,10 +2,9 @@
 title: "Harmony, 11"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRG](/stripes/rgrgrg/) · **Stripes:** [O G O G O G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O G O G O G</span></span>
+In pattern [GRGRGR](/stripes/grgrgr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

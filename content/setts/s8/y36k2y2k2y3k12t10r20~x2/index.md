@@ -2,10 +2,9 @@
 title: "Georgia, State of (District)"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKGKG](/stripes/rbkgkgkg/) · **Stripes:** [R T K Y K Y K Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R T K Y K Y K Y</span></span>
+In pattern [GKGKGKBR](/stripes/gkgkgkbr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/794/
 

@@ -2,10 +2,9 @@
 title: "Niagara Falls"
 date: 2023-03-18
 ---
-**Bands:** [RGYBGBGGGBGB](/stripes/rgybgbgggbgb/) · **Stripes:** [R DY LY DT G DT G DY G DT G DT](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">R DY LY DT G DT G DY G DT G DT</span></span>
+In pattern [BGBGGGBGBYGR](/stripes/bgbgggbgbygr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3132
 

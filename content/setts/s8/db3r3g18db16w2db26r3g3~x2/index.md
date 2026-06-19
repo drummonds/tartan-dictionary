@@ -2,10 +2,9 @@
 title: "MacHardy"
 date: 2023-03-18
 ---
-**Bands:** [GRBWBGRB](/stripes/grbwbgrb/) · **Stripes:** [G R DB W DB G R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB W DB G R DB</span></span>
+In pattern [BRGBWBRG](/stripes/brgbwbrg/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacHardy, Blue](/setts/s8/db6r3g26db26w4db26r5g5~x2/)
-
 
 ## Thread count
 G/6 R6 B52 LN4 B32 G36 R6 B/6

@@ -2,10 +2,9 @@
 title: "Kingennie Sunrise"
 date: 2023-03-18
 ---
-**Bands:** [RWYBBRWKGRW](/stripes/rwybbrwkgrw/) · **Stripes:** [M LB LR T B M LP K G M W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M LB LR T B M LP K G M W</span></span>
+In pattern [RWYBBRWKGRW](/stripes/rwybbrwkgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11467
 

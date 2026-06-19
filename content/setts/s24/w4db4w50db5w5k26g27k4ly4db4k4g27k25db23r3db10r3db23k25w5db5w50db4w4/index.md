@@ -2,10 +2,9 @@
 title: "Malcolm, dress"
 date: 2023-03-18
 ---
-**Bands:** [WBWBWKGKYBKGKBRBRBKWBWBW](/stripes/wbwbwkgkybkgkbrbrbkwbwbw/) · **Stripes:** [W DB W DB W K G K LY DB K G K DB R DB R DB K W DB W DB W](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB W K G K LY DB K G K DB R DB R DB K W DB W DB W</span></span>
+In pattern [WBWBWKBRBRBKGKBYKGKWBWBW](/stripes/wbwbwkbrbrbkgkbykgkwbwbw/).
 
-
-This was sourced from weddslist.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

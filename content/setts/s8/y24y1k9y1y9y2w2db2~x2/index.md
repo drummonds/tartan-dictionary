@@ -2,10 +2,9 @@
 title: "Gairloch"
 date: 2023-03-18
 ---
-**Bands:** [GGKGGGWB](/stripes/ggkgggwb/) · **Stripes:** [Y Y K Y Y Y W DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">Y Y K Y Y Y W DB</span></span>
+In pattern [BWGGGKGG](/stripes/bwgggkgg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5102
 

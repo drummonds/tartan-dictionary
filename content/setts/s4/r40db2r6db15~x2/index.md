@@ -2,19 +2,11 @@
 title: "Masai Shuka 21 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RBRB](/stripes/rbrb/) · **Stripes:** [R DB R DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB</span></span>
+In pattern [BRBR](/stripes/brbr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7281/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Elliott](/setts/s4/db16r4db3r1~x2/)
-
 
 ## Thread count
 R/80 DB4 R12 DB/30

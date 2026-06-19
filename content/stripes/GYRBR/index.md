@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/gyrbr/
 ---
-GYRBR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/dg60ly16m8t2o3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GYRBR
+
+{{< pat "GYRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### O T M LY DG <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">O T M LY DG</span></span>
 
 | Tartans |
 |---------------|
 | [Isle of Raasay](/setts/s5/dg60ly16m8t2o3~x2/)|
 |![Isle of Raasay example sett](/setts/s5/dg60ly16m8t2o3~x2/sett.png)|
-
-### R T R LY G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R T R LY G</span></span>
-
-| Tartans |
-|---------------|
 | [Wilson's, No 179](/setts/s5/g6ly1r1t2r2~x4/)|
 |![Wilson's, No 179 example sett](/setts/s5/g6ly1r1t2r2~x4/sett.png)|
-

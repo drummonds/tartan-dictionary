@@ -2,10 +2,9 @@
 title: "Murray #2"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGRGKBKBKB](/stripes/bkbkgrgkbkbkb/) · **Stripes:** [DB K DB K G R G K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G R G K DB K DB K DB</span></span>
+In pattern [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057
 
@@ -33,13 +32,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3057](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057)
 - Scottish Tartans Authority (ITI): 219
 - Scottish Tartans World Register: 219
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [New South Wales Scottish Rifles](/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/)
-
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 R8 G24 K24 DB24 K4 DB/8

@@ -2,10 +2,9 @@
 title: "Oilmens (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKY](/stripes/krkrkrky/) · **Stripes:** [K R K R K R K LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R K R K R K LY</span></span>
+In pattern [KRKRKRKY](/stripes/krkrkrky/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3843/
 
@@ -900,14 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Royal Army PTC Assoc. (Military)](/setts/s8/k59r3k6r3k8r15k2ly3~x2/)
-- [Royal Army Physical Training Corps Association (Scotland)](/setts/s8/k94r3k6r3k8r15k2ly3~x2/)
-
 
 ## Thread count
 Y/16 K4 R120 K60 R96 K8 R16 K/4

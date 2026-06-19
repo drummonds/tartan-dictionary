@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/ybygy/
 ---
-YBYGY
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/lo40g13lo6db13lo22~x2/tartan.png)
 
 
 
 ## Colour Sequence
-YBYGY
+
+{{< pat "YBYGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO G LO DB LO <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO G LO DB LO</span></span>
 
 | Tartans |
 |---------------|
 | [Burt's Highlanders (Fashion)](/setts/s5/lo40g13lo6db13lo22~x2/)|
 |![Burt's Highlanders (Fashion) example sett](/setts/s5/lo40g13lo6db13lo22~x2/sett.png)|
-

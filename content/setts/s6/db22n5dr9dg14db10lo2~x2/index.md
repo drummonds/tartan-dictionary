@@ -2,10 +2,9 @@
 title: "Belfrage"
 date: 2023-03-18
 ---
-**Bands:** [YBGBBB](/stripes/ybgbbb/) · **Stripes:** [LO DB DG DR N DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB DG DR N DB</span></span>
+In pattern [BBBGBY](/stripes/bbbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5408
 

@@ -2,10 +2,9 @@
 title: "Poulain League (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBY](/stripes/kby/) · **Stripes:** [K T LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K T LY</span></span>
+In pattern [KBY](/stripes/kby/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2539/
 
@@ -23,14 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3365](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3365)
 - Scottish Tartans Authority (ITI): 2539
 - Scottish Tartans World Register: 2539
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Westwater (Edinburgh, 2012)](/setts/s3/k62t33ly1~x2/)
-- [Wilson's, No 118](/setts/s3/k5t4ly1~x2/)
-
 
 ## Thread count
 Y/12 B76 K/6

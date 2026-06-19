@@ -2,10 +2,9 @@
 title: "Greyhound Grenadiers #2"
 date: 2023-03-18
 ---
-**Bands:** [KRRRKRKRRRKB](/stripes/krrrkrkrrrkb/) · **Stripes:** [K O R O K O K O R O K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K O R O K O K O R O K DB</span></span>
+In pattern [BKRRRKRKRRRK](/stripes/bkrrrkrkrrrk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1545
 

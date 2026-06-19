@@ -2,10 +2,9 @@
 title: "Open Championship, The"
 date: 2023-03-18
 ---
-**Bands:** [YBBBG](/stripes/ybbbg/) · **Stripes:** [LY DB DB DB DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DB DB DB DG</span></span>
+In pattern [GBBBY](/stripes/gbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3258
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3258](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3258)
 - Scottish Tartans World Register: 2803
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Open Championship (2000)](/setts/s5/dg1db2db5db10ly1~x8/)
-
 
 ## Thread count
 Y/4 DB44 B20 DB8 G/4

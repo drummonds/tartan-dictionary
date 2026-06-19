@@ -2,10 +2,9 @@
 title: "Kilgour (Asymmetrical)"
 date: 2023-03-18
 ---
-**Bands:** [YBKGKRKB](/stripes/ybkgkrkb/) · **Stripes:** [LY DB K G K R K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB K G K R K DB</span></span>
+In pattern [BKRKGKBY](/stripes/bkrkgkby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1968
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1968](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1968)
 - Scottish Tartans Authority (ITI): 5348
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [St. Clement of Rome (Corporate)](/setts/s8/db18k5r26k5g25k5db18ly2~x2/)
-
 
 ## Thread count
 DBa/24 K12 R56 K12 G56 K12 DBa24 Y/4

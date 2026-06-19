@@ -2,10 +2,9 @@
 title: "Princess Mary (Royal)"
 date: 2023-03-18
 ---
-**Bands:** [RRKRKRRRRYRYR](/stripes/rrkrkrrrryryr/) · **Stripes:** [R R K R K R R R R LR R LR R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R K R K R R R R LR R LR R</span></span>
+In pattern [RRKRKRRRRYRYR](/stripes/rrkrkrrrryryr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5449/
 

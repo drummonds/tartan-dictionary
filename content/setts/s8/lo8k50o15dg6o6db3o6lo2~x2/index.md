@@ -2,19 +2,11 @@
 title: "Royal College of G.P.s (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YKRGRBRY](/stripes/ykrgrbry/) · **Stripes:** [LO K O DG O DB O LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO K O DG O DB O LO</span></span>
+In pattern [YKRGRBRY](/stripes/ykrgrbry/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3175/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Royal College of General Practitioners](/setts/s8/lo11k66o32dg11o10db6o10lo4/)
-
 
 ## Thread count
 O/16 K100 N30 DG12 N12 DB6 N12 O/4

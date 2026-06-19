@@ -2,10 +2,9 @@
 title: "Harmon (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KRYRYRBGBRRKRGRGRY](/stripes/kryryrbgbrrkrgrgry/) · **Stripes:** [K R LO R LO R DT G DT R R K R G R G R LO](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K R LO R LO R DT G DT R R K R G R G R LO</span></span>
+In pattern [KRYRYRBGBRRKRGRGRY](/stripes/kryryrbgbrrkrgrgry/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7792/
 

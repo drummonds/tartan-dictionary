@@ -2,10 +2,9 @@
 title: "Currie of Balilone (Variant Franklin)"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKWKYGKG](/stripes/kwkwkwkwkygkg/) · **Stripes:** [K W K W K W K W K LO DG K DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K W K W K W K W K LO DG K DG</span></span>
+In pattern [GKGYKWKWKWKWK](/stripes/gkgykwkwkwkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=855
 

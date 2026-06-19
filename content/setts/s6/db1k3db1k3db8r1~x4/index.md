@@ -2,20 +2,11 @@
 title: "Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKB](/stripes/rbkbkb/) · **Stripes:** [R DB K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K DB K DB</span></span>
+In pattern [BKBKBR](/stripes/bkbkbr/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=264
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Largan (?)](/setts/s6/db8k39db8k39db87r6/)
-- [MacKay V](/setts/s6/db2k6db2k6db16r1~x2/)
-
 
 ## Thread count
 DB/4 K12 DB4 K12 DB32 R/4

@@ -2,10 +2,9 @@
 title: "Salaberry-de-Valleyfield Traditional"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWRYKYYWKW](/stripes/bwbwbwrykyywkw/) · **Stripes:** [DB W DB W DB W R LG K LG LY W K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB W DB W R LG K LG LY W K W</span></span>
+In pattern [BWBWBWRYKYYWKW](/stripes/bwbwbwrykyywkw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10414
 

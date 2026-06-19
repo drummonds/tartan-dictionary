@@ -2,10 +2,9 @@
 title: "Glenbarr"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKRKG](/stripes/kgkgkrkg/) · **Stripes:** [K G K G K R K G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G K R K G</span></span>
+In pattern [GKRKGKGK](/stripes/gkrkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1405
 

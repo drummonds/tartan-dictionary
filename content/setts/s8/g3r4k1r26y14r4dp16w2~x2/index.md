@@ -2,10 +2,9 @@
 title: "MacQueen of Dalmagarry (Clan?)"
 date: 2023-03-18
 ---
-**Bands:** [GRKRGRBW](/stripes/grkrgrbw/) · **Stripes:** [G R K R Y R DP W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R K R Y R DP W</span></span>
+In pattern [GRKRGRBW](/stripes/grkrgrbw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8892/
 

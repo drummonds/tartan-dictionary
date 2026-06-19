@@ -2,10 +2,9 @@
 title: "Nocken (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKWKW](/stripes/bkbkbkwkw/) · **Stripes:** [N K DB K DB K LB K LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N K DB K DB K LB K LB</span></span>
+In pattern [BKBKBKWKW](/stripes/bkbkbkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10745/
 

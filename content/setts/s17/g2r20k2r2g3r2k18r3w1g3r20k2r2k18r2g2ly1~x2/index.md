@@ -2,10 +2,9 @@
 title: "Unidentified Scarlett #8"
 date: 2023-03-18
 ---
-**Bands:** [YGRKRKRGWRKRGRKRG](/stripes/ygrkrkrgwrkrgrkrg/) · **Stripes:** [LY G R K R K R G W R K R G R K R G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G R K R K R G W R K R G R K R G</span></span>
+In pattern [GRKRGRKRWGRKRKRGY](/stripes/grkrgrkrwgrkrkrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4381
 

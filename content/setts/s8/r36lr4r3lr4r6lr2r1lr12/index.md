@@ -2,10 +2,9 @@
 title: "Menzies Dress"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYRY](/stripes/ryryryry/) · **Stripes:** [R LR R LR R LR R LR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R LR R LR R LR R LR</span></span>
+In pattern [RYRYRYRY](/stripes/ryryryry/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Menzies Dress](/setts/s8/r36lr4r3lr4r6lr2r1lr12~x2/)
-
 
 ## Thread count
 DR/36 N4 DR3 N4 DR6 N2 DR1 N/12

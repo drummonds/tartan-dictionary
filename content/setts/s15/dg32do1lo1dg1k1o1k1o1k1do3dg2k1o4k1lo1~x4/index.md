@@ -2,10 +2,9 @@
 title: "Anderson Green"
 date: 2023-03-18
 ---
-**Bands:** [YKRKGBKRKRKGYBG](/stripes/ykrkgbkrkrkgybg/) · **Stripes:** [LO K O K DG DO K O K O K DG LO DO DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="seq">LO K O K DG DO K O K O K DG LO DO DG</span></span>
+In pattern [GBYGKRKRKBGKRKY](/stripes/gbygkrkrkbgkrky/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4887
 

@@ -2,10 +2,9 @@
 title: "Shawn Jones Afghan Memorial, The"
 date: 2023-03-18
 ---
-**Bands:** [RYBKGR](/stripes/rybkgr/) · **Stripes:** [R LY DR K G R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY DR K G R</span></span>
+In pattern [RGKBYR](/stripes/rgkbyr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10900/
 

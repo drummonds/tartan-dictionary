@@ -2,10 +2,9 @@
 title: "Mercer Blue Personal Tartan Tartan Number: 5880. Earliest known date: 2001 Designed by Dr P{hil Smith of TECA for Charles Mercer of Rocky Mount, North Carolina. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBYBBRBRBBYBBB](/stripes/bbybbrbrbbybbb/) · **Stripes:** [B DB LY B DB R B R DB B LY DB B DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B DB LY B DB R B R DB B LY DB B DB</span></span>
+In pattern [BBBYBBRBRBBYBB](/stripes/bbbybbrbrbbybb/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5880
 

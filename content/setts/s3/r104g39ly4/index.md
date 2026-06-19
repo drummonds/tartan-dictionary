@@ -2,10 +2,9 @@
 title: "Scottish Watch"
 date: 2023-03-18
 ---
-**Bands:** [RGY](/stripes/rgy/) · **Stripes:** [R G LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G LY</span></span>
+In pattern [RGY](/stripes/rgy/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Saltcoats (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YKRKBKRKBKWB](/stripes/ykrkbkrkbkwb/) · **Stripes:** [LY K R K B K R K B K W DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY K R K B K R K B K W DP</span></span>
+In pattern [BWKBKRKBKRKY](/stripes/bwkbkrkbkrky/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3980/
 

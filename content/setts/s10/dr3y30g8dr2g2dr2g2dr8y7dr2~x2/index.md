@@ -2,10 +2,9 @@
 title: "Gray"
 date: 2023-03-18
 ---
-**Bands:** [BGGBGBGBGB](/stripes/bggbgbgbgb/) · **Stripes:** [DR Y G DR G DR G DR Y DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR Y G DR G DR G DR Y DR</span></span>
+In pattern [BGBGBGBGGB](/stripes/bgbgbgbggb/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

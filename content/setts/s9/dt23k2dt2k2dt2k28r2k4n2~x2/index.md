@@ -2,10 +2,9 @@
 title: "Trotter (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKRKBKBKB](/stripes/bkrkbkbkb/) · **Stripes:** [N K R K DT K DT K DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">N K R K DT K DT K DT</span></span>
+In pattern [BKBKBKRKB](/stripes/bkbkbkrkb/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7758/
 

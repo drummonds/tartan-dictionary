@@ -2,10 +2,9 @@
 title: "Oban Grey District Tartan Tartan Number: 1237. Earliest known date: pre 2003 Not an official district but a name chosen by the weavers. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWKRR](/stripes/kwkrr/) · **Stripes:** [K W K O R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K O R</span></span>
+In pattern [KWKRR](/stripes/kwkrr/).
 
-
-This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1237
 
@@ -14,13 +13,6 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 This cloth is also recorded under:
 
 - Oban, Grey
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Burberry, Check](/setts/s5/k6w6k6o21r2~x4/)
-
 
 ## Thread count
 K/16 LN12 K16 N36 R/4

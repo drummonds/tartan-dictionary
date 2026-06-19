@@ -2,10 +2,9 @@
 title: "Queens University of Ontario Corporate Tartan Tartan Number: 2103. Earliest known date: 1966 The sett of this tartan weaves together the colours of six Queen's academic hoods: blue (Medicine), red (Arts & Science), gold (Applied Science), white (Nursing Science), green (Commerce & MBA), and Purple (Theology). Among Queen's other Scottish Traditions, inherited from its Presbyterian founders and the University of Edinburgh, are its coat of arms, its Gaelic yell, kilted Queens Bands with pipers and highland dancers, the posts of Principal and Rector, and tams for freshmen. It is marketed exclusively by the Alumni Association in support of Queen's community projects. The tartan is accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBWBRBYGW](/stripes/bybybwbrbygw/) · **Stripes:** [DB LY DB LY DP W DP R DB LY G W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LY DB LY DP W DP R DB LY G W</span></span>
+In pattern [BYBYBWBRBYGW](/stripes/bybybwbrbygw/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2103
 

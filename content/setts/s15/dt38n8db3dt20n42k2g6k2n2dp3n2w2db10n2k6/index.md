@@ -2,10 +2,9 @@
 title: "Causeway, The (District)"
 date: 2023-03-18
 ---
-**Bands:** [KBBWBBBKGKBBBBB](/stripes/kbbwbbbkgkbbbbb/) · **Stripes:** [K N DB W N DP N K G K N DT DB N DT](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="seq">K N DB W N DP N K G K N DT DB N DT</span></span>
+In pattern [BBBBBKGKBBBWBBK](/stripes/bbbbbkgkbbbwbbk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10508/
 

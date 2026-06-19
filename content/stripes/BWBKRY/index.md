@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bwbkry/
 ---
-BWBKRY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/db40w7db60k10r25ly4/tartan.png)
 
 
 
 ## Colour Sequence
-BWBKRY
+
+{{< pat "BWBKRY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY R K DB W DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R K DB W DB</span></span>
 
 | Tartans |
 |---------------|
 | [Stradling (Name)](/setts/s6/db40w7db60k10r25ly4/)|
 |![Stradling (Name) example sett](/setts/s6/db40w7db60k10r25ly4/sett.png)|
-

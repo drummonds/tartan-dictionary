@@ -2,10 +2,9 @@
 title: "Mundigl"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKRKBKBKBKB](/stripes/bkbkbkrkbkbkbkb/) · **Stripes:** [B K B K B K R K B K B K B K B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K B K R K B K B K B K B</span></span>
+In pattern [BKBKBKBKRKBKBKB](/stripes/bkbkbkbkrkbkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3046
 

@@ -2,10 +2,9 @@
 title: "Puffin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKWGWGWR](/stripes/kwkwgwgwr/) · **Stripes:** [K W K W G W G W O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K W K W G W G W O</span></span>
+In pattern [KWKWGWGWR](/stripes/kwkwgwgwr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3419](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419)
 - Scottish Tartans Authority (ITI): 2374
 - Scottish Tartans World Register: 2374
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Puffin](/setts/s9/k3w1k1w6g1w1g1w1o3~x4/)
-
 
 ## Thread count
 K/16 W4 K4 W36 G4 W4 G4 W4 T/16

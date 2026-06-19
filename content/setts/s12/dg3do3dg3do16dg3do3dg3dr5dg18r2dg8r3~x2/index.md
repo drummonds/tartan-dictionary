@@ -2,10 +2,9 @@
 title: "Dublin, County"
 date: 2023-03-18
 ---
-**Bands:** [RGRGBGBGBGBG](/stripes/rgrgbgbgbgbg/) · **Stripes:** [R DG R DG DR DG DO DG DO DG DO DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG DR DG DO DG DO DG DO DG</span></span>
+In pattern [GBGBGBGBGRGR](/stripes/gbgbgbgbgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=999
 

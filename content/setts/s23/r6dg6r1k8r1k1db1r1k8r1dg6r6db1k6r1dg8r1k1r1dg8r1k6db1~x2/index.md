@@ -2,10 +2,9 @@
 title: "Cumming/Comyn/Buchan"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRKBRKRGRBKRGRKRGRKB](/stripes/rgrkrkbrkrgrbkrgrkrgrkb/) · **Stripes:** [R DG R K R K DB R K R DG R DB K R DG R K R DG R K DB](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG R K R K DB R K R DG R DB K R DG R K R DG R K DB</span></span>
+In pattern [BKRGRKRGRKBRGRKRBKRKRGR](/stripes/bkrgrkrgrkbrgrkrbkrkrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=841
 

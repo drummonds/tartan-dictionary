@@ -2,10 +2,9 @@
 title: "Rob Roy, Black & Tan (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KG](/stripes/kg/) · **Stripes:** [K Y](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y</span></span>
+In pattern [GK](/stripes/gk/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3154/
 

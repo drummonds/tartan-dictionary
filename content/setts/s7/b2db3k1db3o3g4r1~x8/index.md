@@ -2,10 +2,9 @@
 title: "New York City"
 date: 2023-03-18
 ---
-**Bands:** [RGRBKBB](/stripes/rgrbkbb/) · **Stripes:** [R G O DB K DB B](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R G O DB K DB B</span></span>
+In pattern [BBKBRGR](/stripes/bbkbrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5085
 

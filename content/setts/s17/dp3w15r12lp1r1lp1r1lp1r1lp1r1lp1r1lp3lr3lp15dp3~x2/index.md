@@ -2,10 +2,9 @@
 title: "Purple Thistle"
 date: 2023-03-18
 ---
-**Bands:** [BWRWRWRWRWRWRWYWB](/stripes/bwrwrwrwrwrwrwywb/) · **Stripes:** [DP W R LP R LP R LP R LP R LP R LP LR LP DP](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP W R LP R LP R LP R LP R LP R LP LR LP DP</span></span>
+In pattern [BWRWRWRWRWRWRWYWB](/stripes/bwrwrwrwrwrwrwywb/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11321
 

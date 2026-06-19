@@ -2,10 +2,9 @@
 title: "MacDonald of Prince Edward Island"
 date: 2023-03-18
 ---
-**Bands:** [RBKGRGRGKYKGRGRGKBKWKBKB](/stripes/rbkgrgrgkykgrgrgkbkwkbkb/) · **Stripes:** [R DB K G R G R G K LY K G R G R G K DB K W K DB K DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K G R G R G K LY K G R G R G K DB K W K DB K DB</span></span>
+In pattern [BKBKWKBKGRGRGKYKGRGRGKBR](/stripes/bkbkwkbkgrgrgkykgrgrgkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2366
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald of Pr Edward Island Tartan Tartan Number: 1973. Earliest known date: 1772 Estimated count from Coulson Bonner drawing. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/r12db6k8g6r1g6r2g3k1ly2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/)
-
 
 ## Thread count
 R/48 DB12 K16 G12 R2 G12 R4 G6 K2 Y4 K2 G2 R2 G4 R2 G14 K18 DB22 K2 W4 K2 DB22 K18 DB/16

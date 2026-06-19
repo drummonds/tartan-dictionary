@@ -2,10 +2,9 @@
 title: "Mowbray (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRB](/stripes/brbrb/) · **Stripes:** [N R N R T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">N R N R T</span></span>
+In pattern [BRBRB](/stripes/brbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3037
 

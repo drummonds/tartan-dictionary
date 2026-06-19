@@ -2,10 +2,9 @@
 title: "Merola (2016)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYYK](/stripes/kykyyk/) · **Stripes:** [K LY K LY LR K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="seq">K LY K LY LR K</span></span>
+In pattern [KYKYYK](/stripes/kykyyk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11543
 

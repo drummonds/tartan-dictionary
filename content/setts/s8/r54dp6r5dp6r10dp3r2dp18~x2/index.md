@@ -2,10 +2,9 @@
 title: "Kyle Blue (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRB](/stripes/rbrbrbrb/) · **Stripes:** [R DP R DP R DP R DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP R DP R DP R DP</span></span>
+In pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3616/
 

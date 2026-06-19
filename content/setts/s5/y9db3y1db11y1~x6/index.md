@@ -2,10 +2,9 @@
 title: "MacCallum, High School"
 date: 2023-03-18
 ---
-**Bands:** [GBGBG](/stripes/gbgbg/) · **Stripes:** [Y DB Y DB Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y DB Y DB Y</span></span>
+In pattern [GBGBG](/stripes/gbgbg/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

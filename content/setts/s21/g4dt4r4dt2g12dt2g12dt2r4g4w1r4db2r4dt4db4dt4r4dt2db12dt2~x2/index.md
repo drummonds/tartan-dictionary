@@ -2,10 +2,9 @@
 title: "Otago Peninsula Corporate Tartan Tartan Number: 2110. Earliest known date: 1990 Otago Peninsula Trust was set up to look after a large house and gardens in Dunedin which is open to visitors. The colours chosen are to represent the wildlife e.g. Salmon pink and Kingfisher blue. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GBRBGBGBRGWRBRBBBRBBB](/stripes/gbrbgbgbrgwrbrbbbrbbb/) · **Stripes:** [G DT R DT G DT G DT R G W R DB R DT DB DT R DT DB DT](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">G DT R DT G DT G DT R G W R DB R DT DB DT R DT DB DT</span></span>
+In pattern [BBBRBBBRBRWGRBGBGBRBG](/stripes/bbbrbbbrbrwgrbgbgbrbg/).
 
-
-This was sourced from house-of-tartan.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2110
 

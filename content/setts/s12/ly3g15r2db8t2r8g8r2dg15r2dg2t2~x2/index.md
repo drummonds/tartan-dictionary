@@ -2,10 +2,9 @@
 title: "Gordonstoun"
 date: 2023-03-18
 ---
-**Bands:** [YGRBBRGRGRGB](/stripes/ygrbbrgrgrgb/) · **Stripes:** [LY G R DB T R G R DG R DG T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY G R DB T R G R DG R DG T</span></span>
+In pattern [BGRGRGRBBRGY](/stripes/bgrgrgrbbrgy/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

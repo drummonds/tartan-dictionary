@@ -2,10 +2,9 @@
 title: "Jrgensen of Taasingee (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRBGBRGRBRBGBRBRGBG](/stripes/yrbgbrgrbrbgbrbrgbg/) · **Stripes:** [LR R DT DG DT R G R DT R DT DG DT R DT R G DT G](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR R DT DG DT R G R DT R DT DG DT R DT R G DT G</span></span>
+In pattern [GBGRBRBGBRBRGRBGBRY](/stripes/gbgrbrbgbrbrgrbgbry/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1909
 

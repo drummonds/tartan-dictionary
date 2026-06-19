@@ -2,10 +2,9 @@
 title: "Veron"
 date: 2023-03-18
 ---
-**Bands:** [WRGWGYGWGWRGW](/stripes/wrgwgygwgwrgw/) · **Stripes:** [W O DG W DG LY DG W DG W O DG W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O DG W DG LY DG W DG W O DG W</span></span>
+In pattern [WGRWGWGYGWGRW](/stripes/wgrwgwgygwgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4451
 

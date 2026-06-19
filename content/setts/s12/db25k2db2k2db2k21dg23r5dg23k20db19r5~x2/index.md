@@ -2,10 +2,9 @@
 title: "Murray of Atholl #2"
 date: 2023-03-18
 ---
-**Bands:** [RBKGRGKBKBKB](/stripes/rbkgrgkbkbkb/) · **Stripes:** [R DB K DG R DG K DB K DB K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K DG R DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGRGKBR](/stripes/bkbkbkgrgkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3062
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3062](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3062)
 - Scottish Tartans World Register: 265
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glenalmond College](/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/)
-
 
 ## Thread count
 B/50 K4 B4 K4 B4 K42 G46 R10 G46 K40 B38 R/10

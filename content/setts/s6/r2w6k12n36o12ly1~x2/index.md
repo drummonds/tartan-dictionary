@@ -2,10 +2,9 @@
 title: "Stone, Alan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWKBRY](/stripes/rwkbry/) · **Stripes:** [R W K N O LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W K N O LY</span></span>
+In pattern [RWKBRY](/stripes/rwkbry/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10133/
 

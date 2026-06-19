@@ -2,10 +2,9 @@
 title: "Kirkcaldy Tartan Army"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBWBYBWBRBRBRBRB](/stripes/rbrbrbrbwbybwbrbrbrbrb/) · **Stripes:** [R DT R DT R DB R DB W DB LO DB W DB R DB R DT R DT R DT](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT R DT R DB R DB W DB LO DB W DB R DB R DT R DT R DT</span></span>
+In pattern [BRBRBRBRBWBYBWBRBRBRBR](/stripes/brbrbrbrbwbybwbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2005
 

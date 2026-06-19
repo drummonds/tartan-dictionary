@@ -2,10 +2,9 @@
 title: "Help for Heroes Corporate Tartan Tartan Number: 10561. Earliest known date: 20/01/2012 The use of the tartan is restricted in line with a legal agreement between Help for Heroes and Lochcarron of Scotland. Woven by Lochcarron of Scotland This tartan was inspired by William McGregor and George Neil of G B Tailoring, and has been produced to raise funds for Help for Heroes. The colours represent the UK Army, Navy and Airforce See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWBBBBBBBBBBBBWB](/stripes/rwbbbbbbbbbbbbwb/) · **Stripes:** [R LT DT DB DT DB DT DB DT DB DT DB DT DB LB DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">R LT DT DB DT DB DT DB DT DB DT DB DT DB LB DB</span></span>
+In pattern [BWBBBBBBBBBBBBWR](/stripes/bwbbbbbbbbbbbbwr/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10561
 

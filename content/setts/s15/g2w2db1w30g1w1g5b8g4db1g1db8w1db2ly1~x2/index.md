@@ -2,10 +2,9 @@
 title: "Borderland Dress (Estimated threadcount)"
 date: 2023-03-18
 ---
-**Bands:** [YBWBGBGBGWGWBWG](/stripes/ybwbgbgbgwgwbwg/) · **Stripes:** [LY DB W DB G DB G B G W G W DB W G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB W DB G DB G B G W G W DB W G</span></span>
+In pattern [GWBWGWGBGBGBWBY](/stripes/gwbwgwgbgbgbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=314
 

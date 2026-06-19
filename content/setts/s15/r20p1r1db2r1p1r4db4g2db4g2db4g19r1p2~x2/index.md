@@ -2,10 +2,9 @@
 title: "Ladybird"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBGBGBGRB](/stripes/rbrbrbrbgbgbgrb/) · **Stripes:** [R P R DB R P R DB G DB G DB G R P](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R P R DB R P R DB G DB G DB G R P</span></span>
+In pattern [BRGBGBGBRBRBRBR](/stripes/brgbgbgbrbrbrbr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

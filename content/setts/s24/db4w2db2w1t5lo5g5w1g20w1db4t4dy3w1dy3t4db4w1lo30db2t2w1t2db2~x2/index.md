@@ -2,10 +2,9 @@
 title: "Stewart (Silk Fragment)"
 date: 2023-03-18
 ---
-**Bands:** [BBWBBYWBBGWGBBWGWGYBWBWB](/stripes/bbwbbywbbgwgbbwgwgybwbwb/) · **Stripes:** [DB T W T DB LO W DB T DY W DY T DB W G W G LO T W DB W DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB T W T DB LO W DB T DY W DY T DB W G W G LO T W DB W DB</span></span>
+In pattern [BBWBBYWBBGWGBBWGWGYBWBWB](/stripes/bbwbbywbbgwgbbwgwgybwbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3931
 

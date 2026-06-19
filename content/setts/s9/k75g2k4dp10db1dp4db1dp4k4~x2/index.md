@@ -2,10 +2,9 @@
 title: "Laird (Restricted)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBBBBBK](/stripes/kgkbbbbbk/) · **Stripes:** [K G K DP DB DP DB DP K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K DP DB DP DB DP K</span></span>
+In pattern [KBBBBBKGK](/stripes/kbbbbbkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5807
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5807](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5807)
 - Scottish Tartans Authority (ITI): 7856
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Laird (Name)](/setts/s9/k53g5k5dp13db5dp5db5dp5k5~x2/)
-
 
 ## Thread count
 K/150 G4 K8 P20 DB2 P8 DB2 P8 K/8

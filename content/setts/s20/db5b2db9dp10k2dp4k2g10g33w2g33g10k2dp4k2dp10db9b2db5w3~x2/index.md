@@ -2,10 +2,9 @@
 title: "Inverclyde Green"
 date: 2023-03-18
 ---
-**Bands:** [BBBBKBKGGWGGKBKBBBBW](/stripes/bbbbkbkggwggkbkbbbbw/) · **Stripes:** [DB B DB DP K DP K G G W G G K DP K DP DB B DB W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB B DB DP K DP K G G W G G K DP K DP DB B DB W</span></span>
+In pattern [BBBBKBKGGWGGKBKBBBBW](/stripes/bbbbkbkggwggkbkbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1839
 

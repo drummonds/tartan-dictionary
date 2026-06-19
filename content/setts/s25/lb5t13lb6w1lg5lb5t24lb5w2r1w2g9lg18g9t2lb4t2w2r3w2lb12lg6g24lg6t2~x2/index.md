@@ -2,10 +2,9 @@
 title: "Morddyn (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BYGYWWRWBWBGYGWRWWBWYWWBW](/stripes/bygywwrwbwbgygwrwwbwywwbw/) · **Stripes:** [T LG G LG LB W R W T LB T G LG G W R W LB T LB LG W LB T LB](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">T LG G LG LB W R W T LB T G LG G W R W LB T LB LG W LB T LB</span></span>
+In pattern [BYGYWWRWBWBGYGWRWWBWYWWBW](/stripes/bygywwrwbwbgygwrwwbwywwbw/).
 
-
-This was sourced from tartans-authority.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10317/
 

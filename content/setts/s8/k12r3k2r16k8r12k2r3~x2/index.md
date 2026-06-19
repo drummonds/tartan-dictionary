@@ -2,10 +2,9 @@
 title: "MacLeod #2"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKR](/stripes/krkrkrkr/) · **Stripes:** [K R K R K R K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R K R K R</span></span>
+In pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2627
 
@@ -15,14 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2627](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2627)
 - Scottish Tartans World Register: 1183
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Menzies Hunting](/setts/s8/k48r4k2r4k6r2k3r9~x2/)
-- [Murray of Ochtertyre #2](/setts/s8/k30r3k2r3k2r27k30r4~x2/)
-
 
 ## Thread count
 K/24 R6 K4 R32 K16 R24 K4 R/6

@@ -2,10 +2,9 @@
 title: "West Lothian/Linlithgowshire"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGRGBG](/stripes/gkgkgrgbg/) · **Stripes:** [G K G K G M G T G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G M G T G</span></span>
+In pattern [GBGRGKGKG](/stripes/gbgrgkgkg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

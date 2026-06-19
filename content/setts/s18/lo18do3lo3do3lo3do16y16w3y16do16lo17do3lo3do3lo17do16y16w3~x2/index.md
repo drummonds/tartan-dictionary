@@ -2,10 +2,9 @@
 title: "Lamont Heather"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBGWGBYBYBYBGW](/stripes/ybybybgwgbybybybgw/) · **Stripes:** [LO DO LO DO LO DO Y W Y DO LO DO LO DO LO DO Y W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO DO LO DO LO DO Y W Y DO LO DO LO DO LO DO Y W</span></span>
+In pattern [WGBYBYBYBGWGBYBYBY](/stripes/wgbybybybgwgbybyby/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2037
 

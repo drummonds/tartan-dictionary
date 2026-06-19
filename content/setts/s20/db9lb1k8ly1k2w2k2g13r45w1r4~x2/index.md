@@ -2,10 +2,9 @@
 title: "Unidentified Scarlett #16"
 date: 2023-03-18
 ---
-**Bands:** [BWKYKWKGRWRWRGKWKYKW](/stripes/bwkykwkgrwrwrgkwkykw/) · **Stripes:** [DB LB K LY K W K G R W R W R G K W K LY K LB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB LB K LY K W K G R W R W R G K W K LY K LB</span></span>
+In pattern [BWKYKWKGRWRWRGKWKYKW](/stripes/bwkykwkgrwrwrgkwkykw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4372
 

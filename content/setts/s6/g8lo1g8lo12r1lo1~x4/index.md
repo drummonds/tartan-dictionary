@@ -2,10 +2,9 @@
 title: "Forget Family (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRYGYG](/stripes/yrygyg/) · **Stripes:** [LO R LO G LO G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO R LO G LO G</span></span>
+In pattern [GYGYRY](/stripes/gygyry/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10694/
 

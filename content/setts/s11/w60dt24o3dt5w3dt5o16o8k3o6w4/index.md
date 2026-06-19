@@ -2,10 +2,9 @@
 title: "Glenmore Pink"
 date: 2023-03-18
 ---
-**Bands:** [WRKRRBWBRBW](/stripes/wrkrrbwbrbw/) · **Stripes:** [W O K O O DT W DT O DT W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O K O O DT W DT O DT W</span></span>
+In pattern [WBRBWBRRKRW](/stripes/wbrbwbrrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1429
 

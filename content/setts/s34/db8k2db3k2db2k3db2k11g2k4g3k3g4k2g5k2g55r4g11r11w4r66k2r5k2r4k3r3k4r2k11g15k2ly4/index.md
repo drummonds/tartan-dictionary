@@ -2,10 +2,9 @@
 title: "Paisley Fancy Reduced"
 date: 2023-03-18
 ---
-**Bands:** [YKGKRKRKRKRKRWRGRGKGKGKGKGKBKBKBKB](/stripes/ykgkrkrkrkrkrwrgrgkgkgkgkgkbkbkbkb/) · **Stripes:** [LY K G K R K R K R K R K R W R G R G K G K G K G K G K DB K DB K DB K DB](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G K R K R K R K R K R W R G R G K G K G K G K G K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKY](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgky/).
 
-
-This was sourced from weddslist.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

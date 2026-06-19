@@ -2,10 +2,9 @@
 title: "Strathtummel"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKWKKKBKB](/stripes/kgkgkgkwkkkbkb/) · **Stripes:** [K DG K DG K DG K W K K K DB K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DG K DG K DG K W K K K DB K DB</span></span>
+In pattern [BKBKKKWKGKGKGK](/stripes/bkbkkkwkgkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10116
 

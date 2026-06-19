@@ -2,10 +2,9 @@
 title: "Teallach"
 date: 2023-03-18
 ---
-**Bands:** [YRGWGGGBG](/stripes/yrgwgggbg/) · **Stripes:** [LY R DY W Y Y DY N DY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY R DY W Y Y DY N DY</span></span>
+In pattern [GBGGGWGRY](/stripes/gbgggwgry/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Moffat (1950)"
 date: 2023-03-18
 ---
-**Bands:** [KRBRGRBRBR](/stripes/krbrgrbrbr/) · **Stripes:** [K R DB R G R DB R DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R DB R G R DB R DB R</span></span>
+In pattern [KRBRGRBRBR](/stripes/krbrgrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2974
 

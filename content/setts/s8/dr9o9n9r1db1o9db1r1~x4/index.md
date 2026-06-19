@@ -2,10 +2,9 @@
 title: "Jardine, of Castlemilk"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRB](/stripes/rbrbrbrb/) · **Stripes:** [R DB O DB R N O DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DB O DB R N O DR</span></span>
+In pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

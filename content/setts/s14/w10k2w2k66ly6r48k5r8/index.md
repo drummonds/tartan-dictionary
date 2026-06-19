@@ -2,10 +2,9 @@
 title: "Sutherland de Albergaria (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKYRKRKRYKWKW](/stripes/kwkyrkrkrykwkw/) · **Stripes:** [K W K LY R K R K R LY K W K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K LY R K R K R LY K W K W</span></span>
+In pattern [KWKYRKRKRYKWKW](/stripes/kwkyrkrkrykwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4045
 

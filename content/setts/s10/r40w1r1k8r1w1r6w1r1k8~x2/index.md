@@ -2,10 +2,9 @@
 title: "Miyuki, Check Red, 1002A"
 date: 2023-03-18
 ---
-**Bands:** [KRWRWRKRWR](/stripes/krwrwrkrwr/) · **Stripes:** [K R W R W R K R W R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R W R W R K R W R</span></span>
+In pattern [KRWRWRKRWR](/stripes/krwrwrkrwr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

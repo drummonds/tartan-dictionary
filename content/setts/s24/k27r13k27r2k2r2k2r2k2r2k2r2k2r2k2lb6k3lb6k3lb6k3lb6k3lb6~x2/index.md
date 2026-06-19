@@ -2,10 +2,9 @@
 title: "Angus, Red (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKRKRKRKRKWKWKWKWKW](/stripes/krkrkrkrkrkrkrkwkwkwkwkw/) · **Stripes:** [K R K R K R K R K R K R K R K LB K LB K LB K LB K LB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K R K R K R K R K R K R K R K LB K LB K LB K LB K LB</span></span>
+In pattern [KRKRKRKRKRKRKRKWKWKWKWKW](/stripes/krkrkrkrkrkrkrkwkwkwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1199/
 

@@ -2,10 +2,9 @@
 title: "Common Ground Dress (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBWRW](/stripes/ybwrw/) · **Stripes:** [LO DB W R W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO DB W R W</span></span>
+In pattern [WRWBY](/stripes/wrwby/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10579/
 

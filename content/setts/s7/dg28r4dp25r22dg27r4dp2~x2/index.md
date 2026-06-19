@@ -2,19 +2,11 @@
 title: "Glasgow, Ciity of (District)"
 date: 2023-03-18
 ---
-**Bands:** [GRBRGRB](/stripes/grbrgrb/) · **Stripes:** [DG R DP R DG R DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG R DP R DG R DP</span></span>
+In pattern [BRGRBRG](/stripes/brgrbrg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/515/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Madder](/setts/s7/dg28r4dp27r27dg28r5dp2~x2/)
-
 
 ## Thread count
 G/56 R8 DP50 R44 G54 R8 DP/4

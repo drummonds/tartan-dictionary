@@ -2,22 +2,11 @@
 title: "MacFarlane B/W or Lendrum Clan Tartan Tartan Number: 1251. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWKW](/stripes/kwkw/) · **Stripes:** [K W K W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K W</span></span>
+In pattern [KWKW](/stripes/kwkw/).
 
-
-This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1251
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Covenanter](/setts/s4/w30k1w1k2~x2/)
-- [Lendrum (B&W)](/setts/s4/k7w6k1~x4/)
-- [MacPhee (Black and White)](/setts/s4/k22w3k3w22~x2/)
-- [Shepherd or Falkirk](/setts/s4/k1w1~x6/)
-
 
 ## Thread count
 K/14 LN12 K2 LN/12

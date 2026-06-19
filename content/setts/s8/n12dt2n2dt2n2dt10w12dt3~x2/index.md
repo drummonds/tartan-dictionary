@@ -2,10 +2,9 @@
 title: "Grey Watch Dress (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBWB](/stripes/bbbbbbwb/) · **Stripes:** [N DT N DT N DT W DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">N DT N DT N DT W DT</span></span>
+In pattern [BBBBBBWB](/stripes/bbbbbbwb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1286/
 

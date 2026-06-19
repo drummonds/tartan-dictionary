@@ -2,10 +2,9 @@
 title: "Stephen F Austin State University"
 date: 2023-03-18
 ---
-**Bands:** [BWKBKRBW](/stripes/bwkbkrbw/) · **Stripes:** [DP W K DP K O DP W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W K DP K O DP W</span></span>
+In pattern [BWKBKRBW](/stripes/bwkbkrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10894
 

@@ -2,10 +2,9 @@
 title: "Clunie (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YKRKBW](/stripes/ykrkbw/) · **Stripes:** [LY K O K DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K O K DB W</span></span>
+In pattern [WBKRKY](/stripes/wbkrky/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6708/
 
@@ -15,13 +14,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 - pre 2005 — Clunie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6708/))
 - undated — Clunie Name Tartan Tartan Number: 6708. Earliest known date: 2005 Designed by David McGill of International Tartans for a John and Ben Clunie from Aberdeen and Edinburgh respectively but it can be worn by all of the name. The colours are from the Clunie coat of arms. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6708))
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clunie (Personal)](/setts/s6/w12db48k13o22k3ly6/)
-
 
 ## Thread count
 Y/12 K4 N22 K14 DB48 W/12

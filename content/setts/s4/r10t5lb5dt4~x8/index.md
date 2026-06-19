@@ -2,10 +2,9 @@
 title: "Haggis Hostels"
 date: 2023-03-18
 ---
-**Bands:** [RBWB](/stripes/rbwb/) · **Stripes:** [R T LB DT](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="seq">R T LB DT</span></span>
+In pattern [BWBR](/stripes/bwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11035
 

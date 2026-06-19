@@ -2,10 +2,9 @@
 title: "MacBean, MacVean"
 date: 2023-03-18
 ---
-**Bands:** [RWBBBWBBBWKGKWRRRGRRRWG](/stripes/rwbbbwbbbwkgkwrrrgrrrwg/) · **Stripes:** [R W DB DB T W T DB DB W K G K W M R R G R R M W G](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB DB T W T DB DB W K G K W M R R G R R M W G</span></span>
+In pattern [GWRRRGRRRWKGKWBBBWBBBWR](/stripes/gwrrrgrrrwkgkwbbbwbbbwr/).
 
-
-This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

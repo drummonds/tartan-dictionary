@@ -2,10 +2,9 @@
 title: "Justus Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYRYYYB](/stripes/byryyyb/) · **Stripes:** [B LR R LR LO LR B](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B LR R LR LO LR B</span></span>
+In pattern [BYRYYYB](/stripes/byryyyb/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2500/
 

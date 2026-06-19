@@ -2,10 +2,9 @@
 title: "Glasgow (Error)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRGRBRGRB](/stripes/brgrgrbrgrb/) · **Stripes:** [DB R G R G R DB R G R DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R G R G R DB R G R DB</span></span>
+In pattern [BRGRBRGRGRB](/stripes/brgrbrgrgrb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1350
 

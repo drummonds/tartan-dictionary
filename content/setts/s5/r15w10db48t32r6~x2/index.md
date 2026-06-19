@@ -2,10 +2,9 @@
 title: "Lands of Liberty (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBBWR](/stripes/rbbwr/) · **Stripes:** [R T DB W R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T DB W R</span></span>
+In pattern [RBBWR](/stripes/rbbwr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10928/
 

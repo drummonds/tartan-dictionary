@@ -2,10 +2,9 @@
 title: "Normandy (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [WKRYKWKYRYKW](/stripes/wkrykwkyrykw/) · **Stripes:** [W K R LY K W K LY R LY K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K R LY K W K LY R LY K W</span></span>
+In pattern [WKRYKWKYRYKW](/stripes/wkrykwkyrykw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3148
 

@@ -2,10 +2,9 @@
 title: "Montrose (1983)"
 date: 2023-03-18
 ---
-**Bands:** [GYGKBW](/stripes/gygkbw/) · **Stripes:** [DG LY DG K N LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG LY DG K N LB</span></span>
+In pattern [GYGKBW](/stripes/gygkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2997
 

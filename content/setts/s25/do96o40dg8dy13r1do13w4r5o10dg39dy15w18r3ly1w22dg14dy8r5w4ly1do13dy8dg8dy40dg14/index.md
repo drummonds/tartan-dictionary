@@ -2,10 +2,9 @@
 title: "Wirth, Iwan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGBYWRGGWYRWGGRRWBRGGRB](/stripes/ggggbywrggwyrwggrrwbrggrb/) · **Stripes:** [DG DY DG DY DO LY W R DY DG W LY R W DY DG O R W DO R DY DG O DO](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">DG DY DG DY DO LY W R DY DG W LY R W DY DG O R W DO R DY DG O DO</span></span>
+In pattern [BRGGRBWRRGGWRYWGGRWYBGGGG](/stripes/brggrbwrrggwrywggrwybgggg/).
 
-
-This was sourced from tartans-authority.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10963/
 

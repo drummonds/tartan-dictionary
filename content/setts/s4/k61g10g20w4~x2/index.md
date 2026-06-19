@@ -2,10 +2,9 @@
 title: "Wesley Owen 2010 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGGW](/stripes/kggw/) · **Stripes:** [K G G W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K G G W</span></span>
+In pattern [KGGW](/stripes/kggw/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8505/
 

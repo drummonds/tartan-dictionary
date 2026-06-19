@@ -2,10 +2,9 @@
 title: "Saltcoats"
 date: 2023-03-18
 ---
-**Bands:** [BWKBKRKBKRKYKRKBKRKBKW](/stripes/bwkbkrkbkrkykrkbkrkbkw/) · **Stripes:** [DP W K B K R K B K R K LY K R K B K R K B K W](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W K B K R K B K R K LY K R K B K R K B K W</span></span>
+In pattern [BWKBKRKBKRKYKRKBKRKBKW](/stripes/bwkbkrkbkrkykrkbkrkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3645
 

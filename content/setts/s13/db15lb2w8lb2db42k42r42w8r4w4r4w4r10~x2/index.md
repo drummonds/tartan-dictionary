@@ -2,10 +2,9 @@
 title: "American St Andrews Societies"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRWRKBWWWB](/stripes/rwrwrwrkbwwwb/) · **Stripes:** [R W R W R W R K DB LB W LB DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R W R W R K DB LB W LB DB</span></span>
+In pattern [BWWWBKRWRWRWR](/stripes/bwwwbkrwrwrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5167
 

@@ -2,10 +2,9 @@
 title: "Coca Cola"
 date: 2023-03-18
 ---
-**Bands:** [RGWGW](/stripes/rgwgw/) · **Stripes:** [R DY W DY W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DY W DY W</span></span>
+In pattern [RGWGW](/stripes/rgwgw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5562
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5562](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5562)
 - Scottish Tartans Authority (ITI): 7525
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Coca Cola (Corporate)](/setts/s5/w15dy15w15dy80r6/)
-
 
 ## Thread count
 LN/14 T14 LN14 T80 R/6

@@ -2,10 +2,9 @@
 title: "House of Bruar"
 date: 2023-03-18
 ---
-**Bands:** [BBGBGBGBBB](/stripes/bbgbgbgbbb/) · **Stripes:** [DO DT G DT Y DT G DT DO DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="seq">DO DT G DT Y DT G DT DO DR</span></span>
+In pattern [BBBGBGBGBB](/stripes/bbbgbgbgbb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1771
 

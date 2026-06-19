@@ -2,10 +2,9 @@
 title: "Munster Ancestry"
 date: 2023-03-18
 ---
-**Bands:** [YBBYBBBB](/stripes/ybbybbbb/) · **Stripes:** [LY DO T LO T DO T DO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="seq">LY DO T LO T DO T DO</span></span>
+In pattern [BBBBYBBY](/stripes/bbbbybby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10799
 

@@ -2,10 +2,9 @@
 title: "Moffat"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGR](/stripes/kgkgkgr/) · **Stripes:** [K Y K Y K Y R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">K Y K Y K Y R</span></span>
+In pattern [KGKGKGR](/stripes/kgkgkgr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

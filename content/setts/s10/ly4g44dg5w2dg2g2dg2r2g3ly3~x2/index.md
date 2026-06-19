@@ -2,10 +2,9 @@
 title: "Oxford University dress"
 date: 2023-03-18
 ---
-**Bands:** [YGRGGGWGGY](/stripes/ygrgggwggy/) · **Stripes:** [LY G R DG G DG W DG G LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY G R DG G DG W DG G LY</span></span>
+In pattern [YGGWGGGRGY](/stripes/yggwgggrgy/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

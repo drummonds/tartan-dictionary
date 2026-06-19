@@ -2,10 +2,9 @@
 title: "Black Shadow"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/) · **Stripes:** [DO K DO K DO K DO K DO K DO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">DO K DO K DO K DO K DO K DO</span></span>
+In pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5931
 
@@ -15,14 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5931](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5931)
 - Scottish Tartans World Register: 3193
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Shadow Fashion Tartan Tartan Number: 3193. Earliest known date: 01/01/2007 Designed as a combination of two shades of black, shown here as black and dark grey to illustrate the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/do9k3do17k6do4k4do12k3do12k3do7~x2/)
-- [Bute Heather, Black (Fashion)](/setts/s11/do13k2do38k13do28k8do17k2do17k4do11/)
-
 
 ## Thread count
 N/18 K5 N34 K12 N8 K8 N24 K5 N24 K5 N/14

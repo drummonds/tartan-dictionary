@@ -2,10 +2,9 @@
 title: "MacNab"
 date: 2023-03-18
 ---
-**Bands:** [GRBB](/stripes/grbb/) · **Stripes:** [DG R DB T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG R DB T</span></span>
+In pattern [BBRG](/stripes/bbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2664
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2664](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2664)
 - Scottish Tartans World Register: 69
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unidentified #4](/setts/s4/dg14r3db9t2~x2/)
-
 
 ## Thread count
 G/30 R6 DB22 B/4

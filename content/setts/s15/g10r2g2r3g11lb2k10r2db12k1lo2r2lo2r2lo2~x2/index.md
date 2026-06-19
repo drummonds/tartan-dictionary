@@ -2,10 +2,9 @@
 title: "Esteba-Quer (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYKBRKWGRGRG](/stripes/yryrykbrkwgrgrg/) · **Stripes:** [LO R LO R LO K DB R K LB G R G R G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO R LO R LO K DB R K LB G R G R G</span></span>
+In pattern [GRGRGWKRBKYRYRY](/stripes/grgrgwkrbkyryry/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4117/
 

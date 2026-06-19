@@ -2,10 +2,9 @@
 title: "Westmeath"
 date: 2023-03-18
 ---
-**Bands:** [RBBGBBRGYBYBRBYBYGRBBGBBRG](/stripes/rbbgbbrgybybrbybygrbbgbbrg/) · **Stripes:** [R DT DO G DO DT R G LO DO LO DT R DT LO DO LO G R DT DO G DO DT R G](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DT DO G DO DT R G LO DO LO DT R DT LO DO LO G R DT DO G DO DT R G</span></span>
+In pattern [GRBBGBBRGYBYBRBYBYGRBBGBBR](/stripes/grbbgbbrgybybrbybygrbbgbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4608
 

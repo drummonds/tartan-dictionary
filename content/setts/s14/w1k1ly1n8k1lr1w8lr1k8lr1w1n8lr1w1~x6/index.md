@@ -2,10 +2,9 @@
 title: "Praetorian, Blue (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [WKYBKYWYKYWBYW](/stripes/wkybkywykywbyw/) · **Stripes:** [W K LY N K LR W LR K LR W N LR W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K LY N K LR W LR K LR W N LR W</span></span>
+In pattern [WKYBKYWYKYWBYW](/stripes/wkybkywykywbyw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7837/
 

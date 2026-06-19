@@ -2,10 +2,9 @@
 title: "Klymson (Chicago) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYWR](/stripes/kywr/) · **Stripes:** [K LO LT R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LO LT R</span></span>
+In pattern [KYWR](/stripes/kywr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10801
 

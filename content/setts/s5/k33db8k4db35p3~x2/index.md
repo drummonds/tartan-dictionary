@@ -2,10 +2,9 @@
 title: "Fenston/Morris (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBB](/stripes/kbkbb/) · **Stripes:** [K DB K DB P](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K DB K DB P</span></span>
+In pattern [BBKBK](/stripes/bbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1158
 

@@ -2,10 +2,9 @@
 title: "Bracken (WCWM)"
 date: 2023-03-18
 ---
-**Bands:** [GKGRYRKRBKB](/stripes/gkgryrkrbkb/) · **Stripes:** [DY K DY R LO O K O N K N](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">DY K DY R LO O K O N K N</span></span>
+In pattern [BKBRKRYRGKG](/stripes/bkbrkryrgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=331
 

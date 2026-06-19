@@ -2,10 +2,9 @@
 title: "Robertson of Kindeace"
 date: 2023-03-18
 ---
-**Bands:** [YKBKGKRKGKBKBKB](/stripes/ykbkgkrkgkbkbkb/) · **Stripes:** [LR K DB K DG K R K DG K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LR K DB K DG K R K DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGKRKGKBKY](/stripes/bkbkbkgkrkgkbky/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

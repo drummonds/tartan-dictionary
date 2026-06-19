@@ -2,10 +2,9 @@
 title: "Letter Dress (2014)"
 date: 2023-03-18
 ---
-**Bands:** [KWKRYGYKW](/stripes/kwkrygykw/) · **Stripes:** [K W K R LO DG LO K LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K W K R LO DG LO K LB</span></span>
+In pattern [KWKRYGYKW](/stripes/kwkrygykw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11178
 

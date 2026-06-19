@@ -2,20 +2,11 @@
 title: "Gipsy (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRWRBRK](/stripes/krkrwrbrk/) · **Stripes:** [K R K R W R DB R K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R W R DB R K</span></span>
+In pattern [KRBRWRKRK](/stripes/krbrwrkrk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1137/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gipsy](/setts/s9/k2r2k8r2w1r2db8r2k2~x2/)
-- [Gipsy](/setts/s9/k1r1k5r1w1r1db5r1k1~x2/)
-
 
 ## Thread count
 K/8 R8 K32 R8 W4 R8 DB32 R8 K/8

@@ -2,10 +2,9 @@
 title: "MacPherson Dress"
 date: 2023-03-18
 ---
-**Bands:** [YKYKYRY](/stripes/ykykyry/) · **Stripes:** [LY K LR K LR R LR](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY K LR K LR R LR</span></span>
+In pattern [YKYKYRY](/stripes/ykykyry/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1~x2/)
-
 
 ## Thread count
 N/3 DR1 N30 K20 N3 K9 LG/1

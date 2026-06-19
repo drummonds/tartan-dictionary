@@ -2,10 +2,9 @@
 title: "Strath Halladale (Sutherland)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGRGB](/stripes/gkgkgrgb/) · **Stripes:** [DG K DG K DG R DG B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG K DG K DG R DG B</span></span>
+In pattern [BGRGKGKG](/stripes/bgrgkgkg/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

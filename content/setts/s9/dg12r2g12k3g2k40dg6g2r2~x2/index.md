@@ -2,10 +2,9 @@
 title: "Lordship of Greencastle (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGGKGKGRG](/stripes/rggkgkgrg/) · **Stripes:** [R G DG K G K G R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R G DG K G K G R DG</span></span>
+In pattern [GRGKGKGGR](/stripes/grgkgkggr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8524/
 

@@ -2,10 +2,9 @@
 title: "Pride (Wales)"
 date: 2023-03-18
 ---
-**Bands:** [KBBBKBKBKBRBKBKBKBBBKG](/stripes/kbbbkbkbkbrbkbkbkbbbkg/) · **Stripes:** [K DB T DB K DB K DB K DB R DB K DB K DB K DB T DB K G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB T DB K DB K DB K DB R DB K DB K DB K DB T DB K G</span></span>
+In pattern [GKBBBKBKBKBRBKBKBKBBBK](/stripes/gkbbbkbkbkbrbkbkbkbbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3370
 

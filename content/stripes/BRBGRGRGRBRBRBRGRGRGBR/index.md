@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brbgrgrgrbrbrbrgrgrgbr/
 ---
-BRBGRGRGRBRBRBRGRGRGBR
-
-It is a 22 band tartan.
+It is a 22 stripe tartan.
 
 
 
 ## Colour Sequence
-BRBGRGRGRBRBRBRGRGRGBR
+
+{{< pat "BRBGRGRGRBRBRBRGRGRGBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DB G R G R G R DB R DB R DB R G R G R G DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB G R G R G R DB R DB R DB R G R G R G DB R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Inverness Fencibles](/setts/s22/db10r1db1r1g10r13g2r13g10db10r1db1~x2/)|
 |![Inverness Fencibles example sett](/setts/s22/db10r1db1r1g10r13g2r13g10db10r1db1~x2/sett.png)|
-

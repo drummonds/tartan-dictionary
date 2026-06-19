@@ -2,10 +2,9 @@
 title: "Haughey (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRGRGWGGBGBW](/stripes/brbrbrgrgwggbgbw/) · **Stripes:** [DB R DB R DB R DG R DG W DG DY DP DG DP W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB R DB R DG R DG W DG DY DP DG DP W</span></span>
+In pattern [BRBRBRGRGWGGBGBW](/stripes/brbrbrgrgwggbgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5958
 

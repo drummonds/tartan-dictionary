@@ -2,10 +2,9 @@
 title: "Royal Naval Association"
 date: 2023-03-18
 ---
-**Bands:** [BKRKBKRWRKBKRKBW](/stripes/bkrkbkrwrkbkrkbw/) · **Stripes:** [DB K R K DB K R W R K DB K R K DB W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K R K DB K R W R K DB K R K DB W</span></span>
+In pattern [BKRKBKRWRKBKRKBW](/stripes/bkrkbkrwrkbkrkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3604
 

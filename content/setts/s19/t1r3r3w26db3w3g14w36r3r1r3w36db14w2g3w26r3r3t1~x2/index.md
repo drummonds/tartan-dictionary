@@ -2,19 +2,11 @@
 title: "McDougall, Miss Anne (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRRWGWBWRRRWGWBWRRB](/stripes/brrwgwbwrrrwgwbwrrb/) · **Stripes:** [T R R W G W DB W R R R W G W DB W R R T](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R R W G W DB W R R R W G W DB W R R T</span></span>
+In pattern [BRRWBWGWRRRWBWGWRRB](/stripes/brrwbwgwrrrwbwgwrrb/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/568/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLeod, Arisaid](/setts/s19/t1r3r3w20db3w3g12w18r3r1r3w18db12w3g3w20r3r3t1~x2/)
-
 
 ## Thread count
 B/2 DR6 R6 LN52 DB6 LN6 G28 LN72 R6 DR2 R6 LN72 DB28 LN4 G6 LN52 DR6 R6 B/2

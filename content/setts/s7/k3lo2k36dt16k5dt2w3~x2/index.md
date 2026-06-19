@@ -2,10 +2,9 @@
 title: "Pride of Nova Scotia (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KYKBKBW](/stripes/kykbkbw/) · **Stripes:** [K LO K DT K DT W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LO K DT K DT W</span></span>
+In pattern [KYKBKBW](/stripes/kykbkbw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7881/
 

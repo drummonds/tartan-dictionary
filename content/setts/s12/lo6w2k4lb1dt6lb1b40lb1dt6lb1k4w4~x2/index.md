@@ -2,10 +2,9 @@
 title: "Moskyok-Collins (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YWKWBWBWBWKW](/stripes/ywkwbwbwbwkw/) · **Stripes:** [LO W K LB DT LB B LB DT LB K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO W K LB DT LB B LB DT LB K W</span></span>
+In pattern [WKWBWBWBWKWY](/stripes/wkwbwbwbwkwy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10992
 

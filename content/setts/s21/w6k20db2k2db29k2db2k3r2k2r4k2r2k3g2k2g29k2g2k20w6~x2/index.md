@@ -2,10 +2,9 @@
 title: "Genet of An Gwylvos (Montana)"
 date: 2023-03-18
 ---
-**Bands:** [WKGKGKGKRKRKRKBKBKBKW](/stripes/wkgkgkgkrkrkrkbkbkbkw/) · **Stripes:** [W K G K G K G K R K R K R K DB K DB K DB K W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K G K G K G K R K R K R K DB K DB K DB K W</span></span>
+In pattern [WKBKBKBKRKRKRKGKGKGKW](/stripes/wkbkbkbkrkrkrkgkgkgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10318
 

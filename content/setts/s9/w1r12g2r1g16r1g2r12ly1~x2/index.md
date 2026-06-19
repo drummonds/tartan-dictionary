@@ -2,10 +2,9 @@
 title: "MacPhee, MacFie"
 date: 2023-03-18
 ---
-**Bands:** [YRGRGRGRW](/stripes/yrgrgrgrw/) · **Stripes:** [LY R G R G R G R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R G R G R G R W</span></span>
+In pattern [WRGRGRGRY](/stripes/wrgrgrgry/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPhie/Macfie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/)
-
 
 ## Thread count
 Y/2 R24 G4 R2 G32 R2 G4 R24 LN/2

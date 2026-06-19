@@ -2,10 +2,9 @@
 title: "Granger"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGW](/stripes/gkgkgw/) · **Stripes:** [DG K DG K DG W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG K DG K DG W</span></span>
+In pattern [GKGKGW](/stripes/gkgkgw/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

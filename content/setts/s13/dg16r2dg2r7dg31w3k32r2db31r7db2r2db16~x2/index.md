@@ -2,10 +2,9 @@
 title: "MacDonald of Clanranald #2"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGWKRBRBRB](/stripes/grgrgwkrbrbrb/) · **Stripes:** [DG R DG R DG W K R DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DG R DG W K R DB R DB R DB</span></span>
+In pattern [BRBRBRKWGRGRG](/stripes/brbrbrkwgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2353
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2353](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2353)
 - Scottish Tartans World Register: 426
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12w1k12r1db12r3db2r1db8~x2/)
-
 
 ## Thread count
 G/32 R4 G4 R14 G62 LN6 K64 R4 B62 R14 B4 R4 B/32

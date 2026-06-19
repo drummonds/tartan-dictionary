@@ -2,10 +2,9 @@
 title: "Black Watch Dress (Symmetrical)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/) · **Stripes:** [DB K DB K G K G K W DB W DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K G K G K W DB W DB W</span></span>
+In pattern [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4935
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4935](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4935)
 - Scottish Tartans Authority (ITI): 3094
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sutherland, dress](/setts/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/)
-
 
 ## Thread count
 DB/4 K4 DB12 K12 G16 K4 G16 K12 W4 DB4 W24 DB4 W/4

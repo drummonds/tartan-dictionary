@@ -2,10 +2,9 @@
 title: "MacRae of Conchra"
 date: 2023-03-18
 ---
-**Bands:** [RWBY](/stripes/rwby/) · **Stripes:** [R W DT LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W DT LY</span></span>
+In pattern [RWBY](/stripes/rwby/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

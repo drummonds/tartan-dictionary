@@ -2,19 +2,11 @@
 title: "Hay - 1842 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/) · **Stripes:** [R DG LY DG R DG R DG R DG R K R W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG LY DG R DG R DG R DG R K R W</span></span>
+In pattern [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1555/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hay](/setts/s14/r6dg4ly2dg17r2dg2r2dg8r26dg6r4k2r4w6~x2/)
-
 
 ## Thread count
 R/6 G4 Y2 G36 R2 G2 R2 G12 R48 G4 R2 K2 R2 LN/6

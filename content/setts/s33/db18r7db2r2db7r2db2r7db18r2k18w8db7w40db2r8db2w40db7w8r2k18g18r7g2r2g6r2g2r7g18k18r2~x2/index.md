@@ -2,10 +2,9 @@
 title: "MacDonald, dress"
 date: 2023-03-18
 ---
-**Bands:** [RKGRGRGRGRGKRWBWBRBWBWKRBRBRBRBRB](/stripes/rkgrgrgrgrgkrwbwbrbwbwkrbrbrbrbrb/) · **Stripes:** [R K G R G R G R G R G K R W DB W DB R DB W DB W K R DB R DB R DB R DB R DB](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K G R G R G R G R G K R W DB W DB R DB W DB W K R DB R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRBRKWBWBRBWBWRKGRGRGRGRGKR](/stripes/brbrbrbrbrkwbwbrbwbwrkgrgrgrgrgkr/).
 
-
-This was sourced from weddslist.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

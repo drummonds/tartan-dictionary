@@ -2,19 +2,11 @@
 title: "Roxburgh, Green (District)"
 date: 2023-03-18
 ---
-**Bands:** [BRGBWBWB](/stripes/brgbwbwb/) · **Stripes:** [DB R G DB W DB W DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R G DB W DB W DB</span></span>
+In pattern [BRGBWBWB](/stripes/brgbwbwb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/500/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Roxburgh](/setts/s8/db16w1db1w1db8g16r1db2~x2/)
-
 
 ## Thread count
 DB/92 W4 DB4 W4 DB32 G88 R4 DB/12

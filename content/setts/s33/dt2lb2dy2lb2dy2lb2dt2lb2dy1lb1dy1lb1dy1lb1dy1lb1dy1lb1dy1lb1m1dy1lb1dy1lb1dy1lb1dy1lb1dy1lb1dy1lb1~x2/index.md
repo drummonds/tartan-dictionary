@@ -2,10 +2,9 @@
 title: "Invermark"
 date: 2023-03-18
 ---
-**Bands:** [BWGWGWBWGWGWGWGWGWGWRGWGWGWGWGWGW](/stripes/bwgwgwbwgwgwgwgwgwgwrgwgwgwgwgwgw/) · **Stripes:** [DT LB DY LB DY LB DT LB DY LB DY LB DY LB DY LB DY LB DY LB M DY LB DY LB DY LB DY LB DY LB DY LB](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DT LB DY LB DY LB DT LB DY LB DY LB DY LB DY LB DY LB DY LB M DY LB DY LB DY LB DY LB DY LB DY LB</span></span>
+In pattern [BWGWGWBWGWGWGWGWGWGWRGWGWGWGWGWGW](/stripes/bwgwgwbwgwgwgwgwgwgwrgwgwgwgwgwgw/).
 
-
-This was sourced from tartans-authority.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8682/
 

@@ -2,10 +2,9 @@
 title: "Finzean's Fancy Artifact Tartan Tartan Number: 1860. Earliest known date: c.1805-15 Archibald Farquharson of Finzean (pronounced fingin) designed this sett to promote his claim to the chiefship of Clan Farquharson c. 1805-15. He based his design on the Chattan Chief's sett, making clear his political alignment and possibly his aspirations. A complete tartan outfit including a tartan jacket can be seen at the Stonehaven Museum. There is a sample woven in 1986 in the collection of the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WRRKWGYRKRYBKRYW](/stripes/wrrkwgyrkrybkryw/) · **Stripes:** [W M R K W G LY R K R LY T K R LY W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W M R K W G LY R K R LY T K R LY W</span></span>
+In pattern [WRRKWGYRKRYBKRYW](/stripes/wrrkwgyrkrybkryw/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1860
 

@@ -2,10 +2,9 @@
 title: "Benyon of Wales"
 date: 2023-03-18
 ---
-**Bands:** [KYGBYBGBGBKBGKB](/stripes/kygbybgbgbkbgkb/) · **Stripes:** [K LY DG DB LY DB DG DB DG DB K DB DG K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LY DG DB LY DB DG DB DG DB K DB DG K DB</span></span>
+In pattern [BKGBKBGBGBYBGYK](/stripes/bkgbkbgbgbybgyk/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=251
 
@@ -15,14 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [251](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=251)
 - Scottish Tartans Authority (ITI): 5735
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Benyon of Wales (Name)](/setts/s15/db22k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4~x2/)
-- [Beynon](/setts/s15/db11k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4/)
-
 
 ## Thread count
 DB/22 K1 G3 DB6 K1 DB6 G3 DB4 G7 DB11 Y1 DB11 G7 Y2 K/6

@@ -2,10 +2,9 @@
 title: "Wilson"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGB](/stripes/grgrgb/) · **Stripes:** [DG R DG R DG DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DG R DG DB</span></span>
+In pattern [BGRGRG](/stripes/bgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4632
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4632](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4632)
 - Scottish Tartans World Register: 179
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson #2](/setts/s6/db48dg14r3dg2r3dg2~x2/)
-
 
 ## Thread count
 B/64 G20 R4 G3 R4 G/3

@@ -2,10 +2,9 @@
 title: "Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKWKRR](/stripes/rkwkrr/) · **Stripes:** [R K W K O R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K O R</span></span>
+In pattern [RKWKRR](/stripes/rkwkrr/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1611
 
@@ -22,14 +21,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 - undated — Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1611))
 - undated — Thompson Grey Small Tartan Tartan Number: 16111. Earliest known date: pre 2003 Threadcount similar as Thompson Grey 1611. This form applies to "present" the tartans SMALL version. Thompson Grey Small design available in polyvis fabric. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=16111))
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Downside (Corporate)](/setts/s6/r4o41k5w14k18r4~x2/)
-- [Thompson Grey Dress](/setts/s6/r1o6k1w3k3r1~x8/)
-
 
 ## Thread count
 R/4 N40 K10 LN20 K20 R/4

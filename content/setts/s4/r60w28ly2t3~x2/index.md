@@ -2,10 +2,9 @@
 title: "Willis, H Graham"
 date: 2023-03-18
 ---
-**Bands:** [RWYB](/stripes/rwyb/) · **Stripes:** [R W LY T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W LY T</span></span>
+In pattern [BYWR](/stripes/bywr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11283
 

@@ -2,10 +2,9 @@
 title: "Munro"
 date: 2023-03-18
 ---
-**Bands:** [RYBRGRBYRBRYBRGRGRGR](/stripes/rybrgrbyrbrybrgrgrgr/) · **Stripes:** [R LY DB R G R DB LY R DB R LY DB R G R G R G R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY DB R G R DB LY R DB R LY DB R G R G R G R</span></span>
+In pattern [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/).
 
-
-This was sourced from logan-1831.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from logan-1831.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,13 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Munro** name adjusted Logan's counts: [Munro](/setts/s17/r24y1b1r3g16r3b1y1r3b6r3y1b1r16g2ra2g2~b2c2c80-g006818-rc80000-racc4438-ye8c000~x4/); [Munro (Black and Red)](/setts/s5/k18r4k18r32w3~k101010-rc80000-wfcfcfc~x2/); [Munro (Culloden)](/setts/s14/b6r8b1r2y5r5b5r5y1r2b1r2b1r6~b202060-rc80000-ye8c000~x2/); [Munro (Logan)](/setts/s17/r19y1b1r2g18r2b1y1r2b4r2y1b1r19g2r2g2~b2c2c80-g006818-rc80000-ye8c000~x2/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Munro](/setts/s20/r20g2r2g2r2g2r19db1ly1r2db4r2ly1db1r2g18r2db1ly1r19~x2/)
-
 
 ## Thread count
 R/104 G12 R12 G12 R12 G12 R104 DB4 Y4 R12 DB24 R12 Y4 DB4 R12 G104 R12 DB4 Y4 R/52

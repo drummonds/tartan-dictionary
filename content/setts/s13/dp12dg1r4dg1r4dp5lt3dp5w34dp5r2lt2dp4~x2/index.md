@@ -2,10 +2,9 @@
 title: "Fyvie, Magenta (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BGRGRBWBWBRWB](/stripes/bgrgrbwbwbrwb/) · **Stripes:** [DP DG R DG R DP LT DP W DP R LT DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DG R DG R DP LT DP W DP R LT DP</span></span>
+In pattern [BGRGRBWBWBRWB](/stripes/bgrgrbwbwbrwb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7577/
 

@@ -2,10 +2,9 @@
 title: "Cornish Pascoe, The"
 date: 2023-03-18
 ---
-**Bands:** [WKYKYKYBYBYBYBYKW](/stripes/wkykykybybybybykw/) · **Stripes:** [W K LY K LY K LY DT LR DT LR DT LR DT LR K W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K LY K LY K LY DT LR DT LR DT LR DT LR K W</span></span>
+In pattern [WKYBYBYBYBYKYKYKW](/stripes/wkybybybybykykykw/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10189
 

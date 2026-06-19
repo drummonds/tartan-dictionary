@@ -2,10 +2,9 @@
 title: "Inchforth (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRBGGW](/stripes/rgrbrbggw/) · **Stripes:** [O DG O N O N G DG W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O DG O N O N G DG W</span></span>
+In pattern [RGRBRBGGW](/stripes/rgrbrbggw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10575/
 

@@ -2,10 +2,9 @@
 title: "Cockburn (Old Pattern)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKYKBKWKBKGKGKGKGKGKBKW](/stripes/rkgkykbkwkbkgkgkgkgkgkbkw/) · **Stripes:** [R K G K LY K DB K W K DB K G K G K G K G K G K DB K W](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K G K LY K DB K W K DB K G K G K G K G K G K DB K W</span></span>
+In pattern [RKGKYKBKWKBKGKGKGKGKGKBKW](/stripes/rkgkykbkwkbkgkgkgkgkgkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=703
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [703](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=703)
 - Scottish Tartans Authority (ITI): 1578
 - Scottish Tartans World Register: 1578
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cockburn, Old pattern](/setts/s25/r6k1g34k2ly4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/)
-
 
 ## Thread count
 R/6 K1 G34 K2 Y4 K5 DB5 K1 W5 K1 DB34 K5 G2 K2 G2 K2 G86 K2 G2 K2 G2 K5 DB34 K1 W/5

@@ -2,10 +2,9 @@
 title: "LS Curling (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBBBBBKBKBKBB](/stripes/bkbkbkbbbbbkbkbkbb/) · **Stripes:** [DB K DB K DB K DB DB DB DB DB K DB K DB K DB DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K DB DB DB DB DB K DB K DB K DB DB</span></span>
+In pattern [BBKBKBKBBBBBKBKBKB](/stripes/bbkbkbkbbbbbkbkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4041/
 

@@ -2,10 +2,9 @@
 title: "Grant D"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRGRBRWRBRBR](/stripes/rbrgrgrbrwrbrbr/) · **Stripes:** [R DB R G R G R DB R LB R DB R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R G R G R DB R LB R DB R DB R</span></span>
+In pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -30,14 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Drummond of Megginch - 2023 BertieLexa](/setts/s15/r7db1r2db2r35lb2r2db10r2g2r2g37r3db2r6~x2/)
-- [Grant and Drummond](/setts/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/)
-
 
 ## Thread count
 R/6 DB2 R2 G20 R2 G2 R2 DB6 R2 N2 R24 DB2 R2 DB2 R/6

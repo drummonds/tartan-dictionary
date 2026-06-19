@@ -2,10 +2,9 @@
 title: "Scottish Netball Association (1987)"
 date: 2023-03-18
 ---
-**Bands:** [GBBBRBBB](/stripes/gbbbrbbb/) · **Stripes:** [G DP DB DP R DP DB DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP DB DP R DP DB DP</span></span>
+In pattern [BBBRBBBG](/stripes/bbbrbbbg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3734
 

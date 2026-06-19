@@ -2,10 +2,9 @@
 title: "Letham Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BKGKKKKGKBKKGKB](/stripes/bkgkkkkgkbkkgkb/) · **Stripes:** [DP K DG K K K K DG K DB K K DG K DP](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP K DG K K K K DG K DB K K DG K DP</span></span>
+In pattern [BKGKKBKGKKKKGKB](/stripes/bkgkkbkgkkkkgkb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10025
 

@@ -2,10 +2,9 @@
 title: "Watertown Library Assoc."
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKGKGKGKG](/stripes/kgkgkgkgkgkgkg/) · **Stripes:** [K Y K Y K Y K Y K Y K Y K Y](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y K Y K Y K Y K Y K Y K Y</span></span>
+In pattern [GKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4500
 

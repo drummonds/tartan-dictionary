@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgybybybybybybybybybyrb/
 ---
-BGYBYBYBYBYBYBYBYBYBYRB
-
-It is a 23 band tartan.
+It is a 23 stripe tartan.
 
 
 
 ## Colour Sequence
-BGYBYBYBYBYBYBYBYBYBYRB
+
+{{< pat "BGYBYBYBYBYBYBYBYBYBYRB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### N R LY N LY N LY N LY N LY N LY N LY N LY N LY N LY DY N <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">N R LY N LY N LY N LY N LY N LY N LY N LY N LY N LY DY N</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified Plaid #13](/setts/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dy130n10/)|
 |![Unidentified Plaid #13 example sett](/setts/s23/n126r3ly16n20ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4n4ly4dy130n10/sett.png)|
-

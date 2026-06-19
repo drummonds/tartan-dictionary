@@ -2,10 +2,9 @@
 title: "Montrose (Macnaughton variation)"
 date: 2023-03-18
 ---
-**Bands:** [BKRGKBRKB](/stripes/bkrgkbrkb/) · **Stripes:** [DB K R G K DB R K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K R G K DB R K DB</span></span>
+In pattern [BKRBKGRKB](/stripes/bkrbkgrkb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2998
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2998](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2998)
 - Scottish Tartans Authority (ITI): 5667
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Montrose](/setts/s9/db1k1r12g12k6db5r12k1db1~x2/)
-
 
 ## Thread count
 DB/4 K4 DR48 G48 K24 DB20 DR48 K4 DB/4

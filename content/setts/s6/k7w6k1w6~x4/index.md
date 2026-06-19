@@ -2,10 +2,9 @@
 title: "Wallace Dress"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKW](/stripes/kwkwkw/) · **Stripes:** [K W K W K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K W K W</span></span>
+In pattern [KWKWKW](/stripes/kwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4485
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4485](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4485)
 - Scottish Tartans Authority (ITI): 1251
 - Scottish Tartans World Register: 1251
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine (Black and White)](/setts/s6/k2w1k9w9k1w2~x6/)
-- [Erskine BW MINI Design Tartan Tartan Number: 12466. Earliest known date: Generated for display purposes. Reduced copy of the original 1246 Erskine BW. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k2w1k9w9k1w2~x3/)
-
 
 ## Thread count
 K/28 W24 K4 W24 K4 W/24

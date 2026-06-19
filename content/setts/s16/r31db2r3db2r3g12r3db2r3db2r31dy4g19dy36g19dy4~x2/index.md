@@ -2,10 +2,9 @@
 title: "O'Brian #1 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRGRBRBRGGGGG](/stripes/rbrbrgrbrbrggggg/) · **Stripes:** [R DB R DB R G R DB R DB R DY G DY G DY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DB R DB R G R DB R DB R DY G DY G DY</span></span>
+In pattern [GGGGGRBRBRGRBRBR](/stripes/gggggrbrbrgrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4047/
 

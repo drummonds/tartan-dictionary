@@ -2,10 +2,9 @@
 title: "Davidson of Tulloch #2"
 date: 2023-03-18
 ---
-**Bands:** [RBKGW](/stripes/rbkgw/) · **Stripes:** [R DB K DG W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K DG W</span></span>
+In pattern [RBKGW](/stripes/rbkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=894
 

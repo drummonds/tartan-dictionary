@@ -2,10 +2,9 @@
 title: "Stutterheim"
 date: 2023-03-18
 ---
-**Bands:** [KYKBYK](/stripes/kykbyk/) · **Stripes:** [K LY K N LY K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">K LY K N LY K</span></span>
+In pattern [KYBKYK](/stripes/kybkyk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10572
 

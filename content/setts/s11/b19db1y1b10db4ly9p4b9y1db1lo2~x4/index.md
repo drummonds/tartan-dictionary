@@ -2,19 +2,11 @@
 title: "Cian of Ely (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBBYBBGBB](/stripes/ybgbbybbgbb/) · **Stripes:** [LO DB Y B P LY DB B Y DB B](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO DB Y B P LY DB B Y DB B</span></span>
+In pattern [BBGBBYBBGBY](/stripes/bbgbbybbgby/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/43/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cian of Ely](/setts/s11/b38db4y4b19db8ly18p8b18y4db4lo4~x2/)
-
 
 ## Thread count
 B/76 DB4 LGa4 B40 DB16 LG36 P16 B36 LGa4 DB4 DY/8

@@ -2,10 +2,9 @@
 title: "Stewart of Appin Dress"
 date: 2023-03-18
 ---
-**Bands:** [RKWRGRGRBRGWKWWG](/stripes/rkwrgrgrbrgwkwwg/) · **Stripes:** [R K LT R DG R DG R DP R DG W K LT W DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">R K LT R DG R DG R DP R DG W K LT W DG</span></span>
+In pattern [GWWKWGRBRGRGRWKR](/stripes/gwwkwgrbrgrgrwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3935
 

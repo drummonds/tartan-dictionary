@@ -2,10 +2,9 @@
 title: "Martha De Laurentiis Name Tartan Tartan Number: 10651. Earliest known date: 05/07/2012 Designed for Martha De Laurentiis. Colours taken from the Italian and American flags to symbolise her American Italian family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBWBWBRBRBWBWBRBRWKB](/stripes/rbwbwbrbrbwbwbrbrwkb/) · **Stripes:** [R DB W DB W DB R DB R DB W DB W DB R DB R W K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB W DB W DB R DB R DB W DB W DB R DB R W K DB</span></span>
+In pattern [BKWRBRBWBWBRBRBWBWBR](/stripes/bkwrbrbwbwbrbrbwbwbr/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10651
 

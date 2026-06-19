@@ -2,10 +2,9 @@
 title: "Shaw of Carolina (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBRBWBKBKGKGWBRGKG](/stripes/kbkbrbwbkbkgkgwbrgkg/) · **Stripes:** [K DB K DB R DB W DB K DB K G K G W DB R G K G](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K DB R DB W DB K DB K G K G W DB R G K G</span></span>
+In pattern [GKGRBWGKGKBKBWBRBKBK](/stripes/gkgrbwgkgkbkbwbrbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3777
 

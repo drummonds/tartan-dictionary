@@ -2,10 +2,9 @@
 title: "MacNiel of Colonsay"
 date: 2023-03-18
 ---
-**Bands:** [KBKGYGB](/stripes/kbkgygb/) · **Stripes:** [K DB K DG LR DG DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DG LR DG DB</span></span>
+In pattern [BGYGKBK](/stripes/bgygkbk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

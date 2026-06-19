@@ -2,10 +2,9 @@
 title: "Unidentified (Woven sample)"
 date: 2023-03-18
 ---
-**Bands:** [RWYWRBGRGRG](/stripes/rwywrbgrgrg/) · **Stripes:** [R LT LY LT R DP G R G R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LT LY LT R DP G R G R G</span></span>
+In pattern [GRGRGBRWYWR](/stripes/grgrgbrwywr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5862/
 

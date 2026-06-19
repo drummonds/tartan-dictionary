@@ -2,19 +2,11 @@
 title: "Braveheart Commemorative Tartan Tartan Number: 2185. Earliest known date: 1995 Braveheart tartan commemorates the making of the film by the same name, which tells the story of one of Scotland's greatest heros, William Wallace. Originally designed for Ronnie Watt. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/) · **Stripes:** [K DB K DP K DP K DG R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB K DP K DP K DG R K R W</span></span>
+In pattern [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2185
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Braveheart Warrior (Universal)](/setts/s12/k24db2k3dp1k1dp2k1dg5r2k1r2w1~x4/)
-
 
 ## Thread count
 K/60 DB6 K8 P4 K4 P4 K4 DG20 R12 K4 R6 LN/4

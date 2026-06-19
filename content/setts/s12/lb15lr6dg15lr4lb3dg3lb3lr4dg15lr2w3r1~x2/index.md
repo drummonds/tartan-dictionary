@@ -2,10 +2,9 @@
 title: "Bouguet, Adrian Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWYGYWGWYGYW](/stripes/rwygywgwygyw/) · **Stripes:** [R W LR DG LR LB DG LB LR DG LR LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R W LR DG LR LB DG LB LR DG LR LB</span></span>
+In pattern [RWYGYWGWYGYW](/stripes/rwygywgwygyw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11264
 

@@ -2,10 +2,9 @@
 title: "Marie Curie Fields Of Hope"
 date: 2023-03-18
 ---
-**Bands:** [GYGKBYBYB](/stripes/gygkbybyb/) · **Stripes:** [G LO G K B LO B LO B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G LO G K B LO B LO B</span></span>
+In pattern [BYBYBKGYG](/stripes/bybybkgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2833
 

@@ -2,10 +2,9 @@
 title: "Louth, County"
 date: 2023-03-18
 ---
-**Bands:** [RRBRGBRBYBBB](/stripes/rrbrgbrbybbb/) · **Stripes:** [R R B R DG B R B LR B DP B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R R B R DG B R B LR B DP B</span></span>
+In pattern [BBBYBRBGRBRR](/stripes/bbbybrbgrbrr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2234
 

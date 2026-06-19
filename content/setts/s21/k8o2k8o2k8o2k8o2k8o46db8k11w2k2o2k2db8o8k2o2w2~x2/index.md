@@ -2,10 +2,9 @@
 title: "Hood (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKRKRBKWKRKBRKRW](/stripes/krkrkrkrkrbkwkrkbrkrw/) · **Stripes:** [K O K O K O K O K O DB K W K O K DB O K O W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K O K O K O K O K O DB K W K O K DB O K O W</span></span>
+In pattern [KRKRKRKRKRBKWKRKBRKRW](/stripes/krkrkrkrkrbkwkrkbrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6480/
 

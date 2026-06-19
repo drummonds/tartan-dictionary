@@ -2,21 +2,11 @@
 title: "Rangers F. C. Corporate Tartan Tartan Number: 2062. Earliest known date: 1989 First of a new range of football club tartans designed by the Glasgow kiltmakers, Messrs John MacGregor, who formed a new company, Tartan Sportswear, to develop the idea. The Glasgow Rangers Tartan was launched at September first's game with Ally McCoist in full Highland Dress. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/) · **Stripes:** [R DB K DB K DB K DB K DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB K DB K DB K DB K DB R</span></span>
+In pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2062
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Impulse](/setts/s11/r2db10k9db13k7db3k2db3k2db3r2~x2/)
-- [Rangers Football Club](/setts/s11/r3db16k12db34k12db2k2db2k2db7r3~x2/)
-- [Rangers Football Club #2](/setts/s11/r3db14k12db40k12db2k2db2k2db7r3~x2/)
-
 
 ## Thread count
 R/3 DB12 K12 DBa32 K12 DB2 K2 DB2 K2 DB4 R/3

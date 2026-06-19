@@ -2,10 +2,9 @@
 title: "Sheffield, City of"
 date: 2023-03-18
 ---
-**Bands:** [RBGKRGRGRGRKGB](/stripes/rbgkrgrgrgrkgb/) · **Stripes:** [R T G K O G O G O G O K G T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T G K O G O G O G O K G T</span></span>
+In pattern [BGKRGRGRGRKGBR](/stripes/bgkrgrgrgrkgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5150
 

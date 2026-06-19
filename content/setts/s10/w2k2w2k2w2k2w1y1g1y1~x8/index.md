@@ -2,10 +2,9 @@
 title: "Burns Check"
 date: 2023-03-18
 ---
-**Bands:** [GGGWKWKWKW](/stripes/gggwkwkwkw/) · **Stripes:** [Y G Y W K W K W K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y G Y W K W K W K W</span></span>
+In pattern [GGGWKWKWKW](/stripes/gggwkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=449
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [449](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=449)
 - Scottish Tartans Authority (ITI): 1736
 - Scottish Tartans World Register: 1736
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Burns Check (District)](/setts/s10/w6k6w6k6w6k6w4y3g2y2~x3/)
-
 
 ## Thread count
 Wa/16 K16 Wa16 K16 Wa16 K16 Wa8 Ta8 Ga8 Ta/8

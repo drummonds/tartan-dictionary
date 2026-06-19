@@ -2,10 +2,9 @@
 title: "MacLachlan #2"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKBGBKRKR](/stripes/rkrkrkbgbkrkr/) · **Stripes:** [R K R K R K DB DG DB K R K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K DB DG DB K R K R</span></span>
+In pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2582
 
@@ -64,13 +63,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLachlan](/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2/)
-
 
 ## Thread count
 R/32 K4 R4 K4 R4 K32 B32 G6 B32 K32 R32 K4 R/4

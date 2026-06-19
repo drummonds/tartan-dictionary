@@ -2,10 +2,9 @@
 title: "Federal Memorial"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBWBRBWBBBYB](/stripes/brbrbwbrbwbbbyb/) · **Stripes:** [DB R DB R DB W DB R DB W DB T DB LY DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R DB W DB R DB W DB T DB LY DB</span></span>
+In pattern [BRBRBWBRBWBBBYB](/stripes/brbrbwbrbwbbbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1156
 

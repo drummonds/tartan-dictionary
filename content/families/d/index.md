@@ -3,7 +3,7 @@ title: "Families & clans — D"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-76 clans and families beginning with D. [Back to the A–Z](/families/).
+75 clans and families beginning with D. [Back to the A–Z](/families/).
 
 ## Da
 
@@ -75,7 +75,6 @@ background: /bg/clans.png
 - [Driver, RC](/setts/s6/g11w11k3ly3dg36r7~x2/)
 - [Druid](/setts/s16/db3t2db3ly2w4ly2k8ly2w4ly2r8ly2w20ly2w62ly2/)
 - [Drummond (Duke of Perth)](/clan/drummond/) — clan
-- [Drummond of Fingask](/families/drummond-of-fingask/)
 - [Drummond of Megginch](/families/drummond-of-megginch/)
 - [Drummond of Perth](/families/drummond-of-perth/)
 - [Drummond of Strathallan](/families/drummond-of-strathallan/)

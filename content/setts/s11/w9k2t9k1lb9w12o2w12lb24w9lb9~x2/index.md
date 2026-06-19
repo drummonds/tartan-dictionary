@@ -2,10 +2,9 @@
 title: "Tricotisse"
 date: 2023-03-18
 ---
-**Bands:** [WKBKWWRWWWW](/stripes/wkbkwwrwwww/) · **Stripes:** [W K T K LB W O W LB W LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W K T K LB W O W LB W LB</span></span>
+In pattern [WKBKWWRWWWW](/stripes/wkbkwwrwwww/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11613
 

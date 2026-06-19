@@ -2,10 +2,9 @@
 title: "B & Q (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBRWYYWYYWRWYYWYYWRYYBW](/stripes/rbrwyywyywrwyywyywryybw/) · **Stripes:** [R N R W LO LY W LY LO W R W LO LY W LY LO W R LO LY N W](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R N R W LO LY W LY LO W R W LO LY W LY LO W R LO LY N W</span></span>
+In pattern [RBRWYYWYYWRWYYWYYWRYYBW](/stripes/rbrwyywyywrwyywyywryybw/).
 
-
-This was sourced from tartans-authority.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8806/
 

@@ -2,10 +2,9 @@
 title: "Hackett, William (Coatbridge) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWRWGWGG](/stripes/kwrwgwgg/) · **Stripes:** [K W R W DG W DG G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K W R W DG W DG G</span></span>
+In pattern [GGWGWRWK](/stripes/ggwgwrwk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10530
 

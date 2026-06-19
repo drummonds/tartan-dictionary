@@ -2,10 +2,9 @@
 title: "Redgate (Connecticut) #2"
 date: 2023-03-18
 ---
-**Bands:** [GKGBGKWKBBBKB](/stripes/gkgbgkwkbbbkb/) · **Stripes:** [DG K DG DR DG K W K N DR N K N](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">DG K DG DR DG K W K N DR N K N</span></span>
+In pattern [BKBBBKWKGBGKG](/stripes/bkbbbkwkgbgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10791
 

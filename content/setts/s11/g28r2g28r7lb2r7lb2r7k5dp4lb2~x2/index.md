@@ -2,10 +2,9 @@
 title: "Hynde (Sir John)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRWRWRKBW](/stripes/grgrwrwrkbw/) · **Stripes:** [G R G R LB R LB R K DP LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">G R G R LB R LB R K DP LB</span></span>
+In pattern [GRGRWRWRKBW](/stripes/grgrwrwrkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1806
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1806](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1806)
 - Scottish Tartans Authority (ITI): 976
 - Scottish Tartans World Register: 976
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hynde (Sir John) (Artefact)](/setts/s11/g14r1g14r7lb1r7lb1r7k5dp3lb1~x4/)
-
 
 ## Thread count
 G/56 DR4 G56 DR14 N4 DR14 N4 DR14 K10 P8 N/4

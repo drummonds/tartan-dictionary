@@ -2,10 +2,9 @@
 title: "Robin Hood / Rob Roy hunting"
 date: 2023-03-18
 ---
-**Bands:** [KG](/stripes/kg/) · **Stripes:** [K G](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G</span></span>
+In pattern [GK](/stripes/gk/).
 
-
-This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,14 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKillen Hunting](/setts/s2/k1g1~x168/)
-- [Robin Hood Fancy Tartan Tartan Number: 785. Earliest known date: 1819 In 1815, members of the Highland Society of London resolved to request of each of the Highland chiefs, a sample of their clan tartan. The swatches were to be signed and sealed in the chief's own hand. This sett is one of those delivered to the Society between 1815 and 1822. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/g9k8~x2/)
-
 
 ## Thread count
 K/66 G/66

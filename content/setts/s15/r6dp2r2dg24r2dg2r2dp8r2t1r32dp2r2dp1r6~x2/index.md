@@ -2,10 +2,9 @@
 title: "Drummond - 1819 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRGRBRBRBRBR](/stripes/rbrgrgrbrbrbrbr/) · **Stripes:** [R DP R DG R DG R DP R T R DP R DP R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DP R DG R DG R DP R T R DP R DP R</span></span>
+In pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/457/
 

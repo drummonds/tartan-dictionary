@@ -2,10 +2,9 @@
 title: "Junor"
 date: 2023-03-18
 ---
-**Bands:** [KRBGBGYGR](/stripes/krbgbgygr/) · **Stripes:** [K R B G B G LY G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R B G B G LY G R</span></span>
+In pattern [KRBGBGYGR](/stripes/krbgbgygr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

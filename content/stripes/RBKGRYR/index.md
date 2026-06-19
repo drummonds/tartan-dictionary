@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/rbkgryr/
 ---
-RBKGRYR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/r52b16k16g22r16lo3r16~x2/tartan.png)
 
 
 
 ## Colour Sequence
-RBKGRYR
+
+{{< pat "RBKGRYR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R LO R G K B R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LO R G K B R</span></span>
-
-| Tartans |
-|---------------|
-| [Sturrock, Blue/Black (Clan)](/setts/s7/r52b16k16g22r16lo3r16~x2/)|
-|![Sturrock, Blue/Black (Clan) example sett](/setts/s7/r52b16k16g22r16lo3r16~x2/sett.png)|
-
-### R LY R G K DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R G K DB R</span></span>
 
 | Tartans |
 |---------------|
 | [Sturrock](/setts/s7/r52db16k16g22r16ly3r16/)|
 |![Sturrock example sett](/setts/s7/r52db16k16g22r16ly3r16/sett.png)|
-
+| [Sturrock, Blue/Black (Clan)](/setts/s7/r52b16k16g22r16lo3r16~x2/)|
+|![Sturrock, Blue/Black (Clan) example sett](/setts/s7/r52b16k16g22r16lo3r16~x2/sett.png)|

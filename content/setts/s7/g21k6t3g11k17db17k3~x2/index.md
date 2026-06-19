@@ -2,10 +2,9 @@
 title: "MacCallum"
 date: 2023-03-18
 ---
-**Bands:** [KBKGBKG](/stripes/kbkgbkg/) · **Stripes:** [K DB K G T K G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K G T K G</span></span>
+In pattern [GKBGKBK](/stripes/gkbgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2306
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2306](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2306)
 - Scottish Tartans Authority (ITI): 767
 - Scottish Tartans World Register: 767
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacCallum](/setts/s7/g8k2t1g4k6db6k1~x2/)
-
 
 ## Thread count
 G/42 K12 B6 G22 K34 DB34 K/6

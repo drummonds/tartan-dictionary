@@ -2,10 +2,9 @@
 title: "First Special Service Force"
 date: 2023-03-18
 ---
-**Bands:** [RKRYRKRWRKRBR](/stripes/rkryrkrwrkrbr/) · **Stripes:** [R K R LY R K R W R K R B R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R LY R K R W R K R B R</span></span>
+In pattern [RBRKRWRKRYRKR](/stripes/rbrkrwrkryrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11160
 

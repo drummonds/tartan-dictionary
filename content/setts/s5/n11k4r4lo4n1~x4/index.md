@@ -2,10 +2,9 @@
 title: "Ikelman #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKRYB](/stripes/bkryb/) · **Stripes:** [N K R LO N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="seq">N K R LO N</span></span>
+In pattern [BKRYB](/stripes/bkryb/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1812
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1812](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1812)
 - Scottish Tartans Authority (ITI): 2211
 - Scottish Tartans World Register: 2211
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ikelman #3a (Personal)](/setts/s5/n11k4r4lo4n11~x4/)
-
 
 ## Thread count
 N/44 K16 DR16 DY16 N/4

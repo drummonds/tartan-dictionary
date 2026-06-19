@@ -2,10 +2,9 @@
 title: "Chan (Name?)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKBKY](/stripes/rgrgkbky/) · **Stripes:** [R DG R DG K DT K LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG R DG K DT K LY</span></span>
+In pattern [RGRGKBKY](/stripes/rgrgkbky/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6423/
 

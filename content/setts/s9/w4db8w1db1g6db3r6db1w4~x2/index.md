@@ -2,10 +2,9 @@
 title: "Womble"
 date: 2023-03-18
 ---
-**Bands:** [WBRBGBWBW](/stripes/wbrbgbwbw/) · **Stripes:** [W DB R DB G DB W DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB R DB G DB W DB W</span></span>
+In pattern [WBRBGBWBW](/stripes/wbrbgbwbw/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wombles 3 (Corporate)](/setts/s9/w4db8w1db1g6db3r6db1w4~x4/)
-
 
 ## Thread count
 LN/8 B16 LN2 DB2 G12 DB6 R12 DB2 LN/8

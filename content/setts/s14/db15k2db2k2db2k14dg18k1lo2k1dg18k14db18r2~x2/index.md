@@ -2,10 +2,9 @@
 title: "Bonner (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKYKGKBKBKB](/stripes/rbkgkykgkbkbkb/) · **Stripes:** [R DB K DG K LO K DG K DB K DB K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K DG K LO K DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGKYKGKBR](/stripes/bkbkbkgkykgkbr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4121/
 

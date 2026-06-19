@@ -2,10 +2,9 @@
 title: "Madder"
 date: 2023-03-18
 ---
-**Bands:** [GRBRGRB](/stripes/grbrgrb/) · **Stripes:** [DG R DP R DG R DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG R DP R DG R DP</span></span>
+In pattern [BRGRBRG](/stripes/brgrbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2778
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2778](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2778)
 - Scottish Tartans Authority (ITI): 5693
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glasgow, Ciity of (District)](/setts/s7/dg28r4dp25r22dg27r4dp2~x2/)
-
 
 ## Thread count
 DG/56 DR8 DP54 DR54 DG56 DR10 DP/4

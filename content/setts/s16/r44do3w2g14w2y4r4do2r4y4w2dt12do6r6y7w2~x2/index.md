@@ -2,10 +2,9 @@
 title: "North West Mounted Police"
 date: 2023-03-18
 ---
-**Bands:** [RBWGWGRBRGWBBRGW](/stripes/rbwgwgrbrgwbbrgw/) · **Stripes:** [R DO W G W Y R DO R Y W DT DO R Y W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DO W G W Y R DO R Y W DT DO R Y W</span></span>
+In pattern [RBWGWGRBRGWBBRGW](/stripes/rbwgwgrbrgwbbrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3157
 

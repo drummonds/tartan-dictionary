@@ -2,10 +2,9 @@
 title: "Diamond Jubilee"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBKBKBKWKW](/stripes/brbrbkbkbkwkw/) · **Stripes:** [N M N M N K N K N K W K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N M N M N K N K N K W K W</span></span>
+In pattern [BRBRBKBKBKWKW](/stripes/brbrbkbkbkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10426
 

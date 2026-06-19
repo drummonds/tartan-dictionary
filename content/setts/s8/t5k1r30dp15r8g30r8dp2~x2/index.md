@@ -2,19 +2,11 @@
 title: "Shaw Red of Tordarroch Dress (Clan 2"
 date: 2023-03-18
 ---
-**Bands:** [BKRBRGRB](/stripes/bkrbrgrb/) · **Stripes:** [T K R DP R G R DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">T K R DP R G R DP</span></span>
+In pattern [BKRBRGRB](/stripes/bkrbrgrb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/352/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Shaw of Tordarroch Clan Tartan Tartan Number: 352. Earliest known date: 1969 When Major C.J. Shaw of Tordarroch, matriculated and became the first chief of the Clan for some 400 years, he had a new tartan designed, which reflects the Clan's Mackintosh ancestry. He specifically states that the old design is still perfectly acceptable and approves its continued use by all members of the Clan. Donald Stewart, who designed the new sett, is the author of 'The Setts of the Scottish Tartans', the first comprehensive record of tartan patterns, published in 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/t5k1r30dp15r8g30r8dp2/)
-
 
 ## Thread count
 B/10 K2 R60 DP30 R16 G60 R16 DP/4

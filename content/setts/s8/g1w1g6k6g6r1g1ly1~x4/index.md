@@ -2,10 +2,9 @@
 title: "Vermont"
 date: 2023-03-18
 ---
-**Bands:** [YGRGKGWG](/stripes/ygrgkgwg/) · **Stripes:** [LY G R G K G W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G R G K G W G</span></span>
+In pattern [GWGKGRGY](/stripes/gwgkgrgy/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

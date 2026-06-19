@@ -2,10 +2,9 @@
 title: "Balmoral Hotel Edinburgh"
 date: 2023-03-18
 ---
-**Bands:** [YYYGGGGGGBGBG](/stripes/yyyggggggbgbg/) · **Stripes:** [LY LY LY DG Y DG Y DG Y DP Y DP Y](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY LY LY DG Y DG Y DG Y DP Y DP Y</span></span>
+In pattern [GBGBGGGGGGYYY](/stripes/gbgbggggggyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11616
 

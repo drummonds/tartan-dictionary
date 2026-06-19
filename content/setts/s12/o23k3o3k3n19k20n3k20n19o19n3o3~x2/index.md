@@ -2,10 +2,9 @@
 title: "Monarch of Argyll (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKBKBKBRBR](/stripes/rkrkbkbkbrbr/) · **Stripes:** [O K O K N K N K N O N O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K N K N K N O N O</span></span>
+In pattern [RBRBKBKBKRKR](/stripes/rbrbkbkbkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8042/
 

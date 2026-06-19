@@ -2,10 +2,9 @@
 title: "UPS No.2"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBWBWBWBWYW](/stripes/bwbwbwbwbwbwbwyw/) · **Stripes:** [DO W DO W DO W DO W DO W DO W DO W LO W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DO W DO W DO W DO W DO W DO W DO W LO W</span></span>
+In pattern [BWBWBWBWBWBWBWYW](/stripes/bwbwbwbwbwbwbwyw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10024
 

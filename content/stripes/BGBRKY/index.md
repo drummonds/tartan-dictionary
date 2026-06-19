@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbrky/
 ---
-BGBRKY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/dp2g18dp15r24k1ly2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BGBRKY
+
+{{< pat "BGBRKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K R DP G DP <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY K R DP G DP</span></span>
 
 | Tartans |
 |---------------|
 | [Miller, Reverend Ian (Personal](/setts/s6/dp2g18dp15r24k1ly2~x2/)|
 |![Miller, Reverend Ian (Personal example sett](/setts/s6/dp2g18dp15r24k1ly2~x2/sett.png)|
-

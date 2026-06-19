@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/ggbgbbbrbr/
 ---
-GGBGBBBRBR
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GGBGBBBRBR
+
+{{< pat "GGBGBBBRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DB R DB DR DB G DB G Y <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R DB R DB DR DB G DB G Y</span></span>
 
 | Tartans |
 |---------------|
 | [Donegal](/setts/s10/y3g17db3g3db3dr5db18r2db8r2~x2/)|
 |![Donegal example sett](/setts/s10/y3g17db3g3db3dr5db18r2db8r2~x2/sett.png)|
-

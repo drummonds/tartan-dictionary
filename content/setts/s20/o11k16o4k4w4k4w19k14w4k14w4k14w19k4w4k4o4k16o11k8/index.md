@@ -2,10 +2,9 @@
 title: "Stewart/Stuart Royal (B,W. & Grey)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKWKWKWKWKWKWKRKR](/stripes/krkrkwkwkwkwkwkwkrkr/) · **Stripes:** [K O K O K W K W K W K W K W K W K O K O](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K O K W K W K W K W K W K W K O K O</span></span>
+In pattern [KRKRKWKWKWKWKWKWKRKR](/stripes/krkrkwkwkwkwkwkwkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3955
 

@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/brgrbrk/
 ---
-BRGRBRK
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/k2r12db6r3dg12r4db1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BRGRBRK
+
+{{< pat "BRGRBRK" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### K R DB R DG R DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB R DG R DB</span></span>
-
-| Tartans |
-|---------------|
-| [MacBean/MacElvain](/setts/s7/k2r12db6r3dg12r4db1~x2/)|
-|![MacBean/MacElvain example sett](/setts/s7/k2r12db6r3dg12r4db1~x2/sett.png)|
-
-### K R DB R G R DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB R G R DB</span></span>
 
 | Tartans |
 |---------------|
 | [MacBean, MacElvain](/setts/s7/k2r12db6r3g12r4db1~x2/)|
 |![MacBean, MacElvain example sett](/setts/s7/k2r12db6r3g12r4db1~x2/sett.png)|
-
+| [MacBean/MacElvain](/setts/s7/k2r12db6r3dg12r4db1~x2/)|
+|![MacBean/MacElvain example sett](/setts/s7/k2r12db6r3dg12r4db1~x2/sett.png)|

@@ -2,10 +2,9 @@
 title: "Afternoon Tea / Mint Tea"
 date: 2023-03-18
 ---
-**Bands:** [YBBBYW](/stripes/ybbbyw/) · **Stripes:** [LY DT B DT LG W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DT B DT LG W</span></span>
+In pattern [WYBBBY](/stripes/wybbby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11451
 

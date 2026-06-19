@@ -2,10 +2,9 @@
 title: "Gleneagles (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGBG](/stripes/gggggbg/) · **Stripes:** [DY DG Y DG DY DT DY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY DG Y DG DY DT DY</span></span>
+In pattern [GBGGGGG](/stripes/gbggggg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2107/
 

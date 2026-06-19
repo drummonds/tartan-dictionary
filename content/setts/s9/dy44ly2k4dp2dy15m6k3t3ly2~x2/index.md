@@ -2,10 +2,9 @@
 title: "Inches of Perth (District or Clan)"
 date: 2023-03-18
 ---
-**Bands:** [YBKRGBKYG](/stripes/ybkrgbkyg/) · **Stripes:** [LY T K M DY DP K LY DY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY T K M DY DP K LY DY</span></span>
+In pattern [GYKBGRKBY](/stripes/gykbgrkby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1753/
 

@@ -2,10 +2,9 @@
 title: "Berwick (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GBKBBKGKBKBGB](/stripes/gbkbbkgkbkbgb/) · **Stripes:** [G DO K DO N K G K DR K N G DO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">G DO K DO N K G K DR K N G DO</span></span>
+In pattern [BGBKBKGKBBKBG](/stripes/bgbkbkgkbbkbg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3686/
 

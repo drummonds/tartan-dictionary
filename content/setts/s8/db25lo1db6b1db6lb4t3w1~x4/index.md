@@ -2,10 +2,9 @@
 title: "PSN Test"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBWBW](/stripes/bybbbwbw/) · **Stripes:** [DB LO DB B DB LB T W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LO DB B DB LB T W</span></span>
+In pattern [BYBBBWBW](/stripes/bybbbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3418
 

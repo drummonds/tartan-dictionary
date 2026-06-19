@@ -2,10 +2,9 @@
 title: "Macintosh, Charles Rennie (Commem)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKB](/stripes/kbkbkb/) · **Stripes:** [K N K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K N K DB K DB</span></span>
+In pattern [BKBKBK](/stripes/bkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10047/
 

@@ -2,10 +2,9 @@
 title: "Unnamed No 14"
 date: 2023-03-18
 ---
-**Bands:** [RBBYRWGBY](/stripes/rbbyrwgby/) · **Stripes:** [R T DB LY R W G DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R T DB LY R W G DB LY</span></span>
+In pattern [RBBYRWGBY](/stripes/rbbyrwgby/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

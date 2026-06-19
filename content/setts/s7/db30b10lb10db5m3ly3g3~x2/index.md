@@ -2,10 +2,9 @@
 title: "Wrigglesworth (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GYRBWBB](/stripes/gyrbwbb/) · **Stripes:** [G LY M DB LB B DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY M DB LB B DB</span></span>
+In pattern [BBWBRYG](/stripes/bbwbryg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10374/
 

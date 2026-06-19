@@ -2,10 +2,9 @@
 title: "Clark (Crook)"
 date: 2023-03-18
 ---
-**Bands:** [KBWKBKBWBKB](/stripes/kbwkbkbwbkb/) · **Stripes:** [K T LP K T K T LP T K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T LP K T K T LP T K T</span></span>
+In pattern [BKBWBKBKWBK](/stripes/bkbwbkbkwbk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8967/
 

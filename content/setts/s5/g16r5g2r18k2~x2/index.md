@@ -2,10 +2,9 @@
 title: "MacDonald, Lord of The Isles (Artef)"
 date: 2023-03-18
 ---
-**Bands:** [KRGRG](/stripes/krgrg/) · **Stripes:** [K R G R G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R G R G</span></span>
+In pattern [GRGRK](/stripes/grgrk/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/873/
 
@@ -906,13 +905,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Murray, Lord George (Hose)](/setts/s5/k1r5g10r5g1~x4/)
-
 
 ## Thread count
 G/32 R10 G4 R36 K/4

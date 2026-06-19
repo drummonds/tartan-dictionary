@@ -2,10 +2,9 @@
 title: "Texas Blue Bonnet"
 date: 2023-03-18
 ---
-**Bands:** [YWBWBWRWBRG](/stripes/ywbwbwrwbrg/) · **Stripes:** [LY W T W T W R W DB R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY W T W T W R W DB R G</span></span>
+In pattern [GRBWRWBWBWY](/stripes/grbwrwbwbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4098
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4098](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4098)
 - Scottish Tartans Authority (ITI): 852
 - Scottish Tartans World Register: 852
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Texas Bluebonnet District Tartan Tartan Number: 852. Earliest known date: 1983 The colours of the Texas Bluebonnet district tartan owe their selection to the bluebonnet flower, a member of the lupin family, which is widespread in many parts of Texas. The flower changes colour with the passing of time, the 'brim' becoming flecked with wine red. The tartan was adopted as the Sequicentennial Tartan and Accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/g4r1db8w1r1w1t8w1t8w1ly1~x4/)
-
 
 ## Thread count
 G/20 R4 DB40 LN4 R4 LN4 B40 LN4 B40 LN4 Y/4

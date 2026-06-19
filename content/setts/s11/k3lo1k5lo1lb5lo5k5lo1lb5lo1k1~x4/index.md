@@ -2,10 +2,9 @@
 title: "Dundee United Football Club"
 date: 2023-03-18
 ---
-**Bands:** [KYKYWYKYWYK](/stripes/kykywykywyk/) · **Stripes:** [K LO K LO LB LO K LO LB LO K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO K LO LB LO K LO LB LO K</span></span>
+In pattern [KYKYWYKYWYK](/stripes/kykywykywyk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1038
 

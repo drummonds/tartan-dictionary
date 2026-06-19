@@ -2,10 +2,9 @@
 title: "MacNiven"
 date: 2023-03-18
 ---
-**Bands:** [GGBRWBWRW](/stripes/ggbrwbwrw/) · **Stripes:** [G G DB R LB DB LB R LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">G G DB R LB DB LB R LB</span></span>
+In pattern [GGBRWBWRW](/stripes/ggbrwbwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2693
 

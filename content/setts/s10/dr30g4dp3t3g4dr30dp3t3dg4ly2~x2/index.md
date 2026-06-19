@@ -2,10 +2,9 @@
 title: "Islay Whisky Club (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YGBBBGBBGB](/stripes/ygbbbgbbgb/) · **Stripes:** [LY DG T DP DR G T DP G DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="seq">LY DG T DP DR G T DP G DR</span></span>
+In pattern [BGBBGBBBGY](/stripes/bgbbgbbbgy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3818/
 

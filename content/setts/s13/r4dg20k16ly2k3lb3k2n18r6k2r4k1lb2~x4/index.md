@@ -2,10 +2,9 @@
 title: "Tilley, Sir Samuel Leonard"
 date: 2023-03-18
 ---
-**Bands:** [RGKYKWKBRKRKW](/stripes/rgkykwkbrkrkw/) · **Stripes:** [R DG K LY K LB K N R K R K LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DG K LY K LB K N R K R K LB</span></span>
+In pattern [RGKYKWKBRKRKW](/stripes/rgkykwkbrkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4126
 

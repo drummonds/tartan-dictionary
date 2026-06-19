@@ -2,10 +2,9 @@
 title: "Blais (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRKRKRKBGYB](/stripes/rrkrkrkbgyb/) · **Stripes:** [R O K R K O K DB DY LY DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R O K R K O K DB DY LY DB</span></span>
+In pattern [BYGBKRKRKRR](/stripes/bygbkrkrkrr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=295
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [295](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=295)
 - Scottish Tartans Authority (ITI): 2321
 - Scottish Tartans World Register: 2321
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/)
-
 
 ## Thread count
 DB/40 Y2 T2 DB6 K2 N4 K2 R20 K2 N4 R/8

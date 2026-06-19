@@ -2,10 +2,9 @@
 title: "Kinloch Anderson Thistle"
 date: 2023-03-18
 ---
-**Bands:** [BBGBGKBKBBBB](/stripes/bbgbgkbkbbbb/) · **Stripes:** [P DP G DP G K DP K DB B DB B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">P DP G DP G K DP K DB B DB B</span></span>
+In pattern [BBBBKBKGBGBB](/stripes/bbbbkbkgbgbb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10146
 

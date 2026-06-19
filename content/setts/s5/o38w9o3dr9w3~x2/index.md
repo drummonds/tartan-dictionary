@@ -2,10 +2,9 @@
 title: "Loch Tummel"
 date: 2023-03-18
 ---
-**Bands:** [RWRBW](/stripes/rwrbw/) · **Stripes:** [O W O DR W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O W O DR W</span></span>
+In pattern [RWRBW](/stripes/rwrbw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,19 +2,11 @@
 title: "Highland Spring (1988) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBGB](/stripes/rbgb/) · **Stripes:** [R DP G DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP G DP</span></span>
+In pattern [BGBR](/stripes/bgbr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/130/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Highland Spring Corporate Tartan Tartan Number: 130. Earliest known date: 1987 Highland Spring manufacture bottled drinking water at Blackford in Perthshire, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/dp5g2dp19r5~x2/)
-
 
 ## Thread count
 DP/12 G4 DP36 R/12

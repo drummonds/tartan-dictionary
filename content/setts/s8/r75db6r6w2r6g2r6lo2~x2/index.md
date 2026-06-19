@@ -2,19 +2,11 @@
 title: "Burnett of Leys (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RBRWRGRY](/stripes/rbrwrgry/) · **Stripes:** [R DB R W R G R LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R DB R W R G R LO</span></span>
+In pattern [RBRWRGRY](/stripes/rbrwrgry/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1430/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Burnett of Leys](/setts/s8/r92db10r8w3r8g4r8lo3~x2/)
-
 
 ## Thread count
 R/150 DB12 R12 W4 R12 G4 R12 DY/4

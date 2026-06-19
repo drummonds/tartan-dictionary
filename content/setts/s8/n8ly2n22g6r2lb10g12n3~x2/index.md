@@ -2,10 +2,9 @@
 title: "Bahamas (District)"
 date: 2023-03-18
 ---
-**Bands:** [BYBGRWGB](/stripes/bybgrwgb/) · **Stripes:** [N LY N G R LB G N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="seq">N LY N G R LB G N</span></span>
+In pattern [BGWRGBYB](/stripes/bgwrgbyb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2089/
 

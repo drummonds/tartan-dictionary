@@ -2,10 +2,9 @@
 title: "Scotch Tape 2 (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGKY](/stripes/kgky/) · **Stripes:** [K G K LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K G K LY</span></span>
+In pattern [KGKY](/stripes/kgky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7783/
 
@@ -28,14 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5752](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5752)
 - Scottish Tartans Authority (ITI): 7783
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wallace Htg (Clan)](/setts/s4/k1g8k8ly1~x4/)
-- [Wallace, hunting](/setts/s4/k4g33k33ly4~x2/)
-
 
 ## Thread count
 K/6 G30 K40 Y/6

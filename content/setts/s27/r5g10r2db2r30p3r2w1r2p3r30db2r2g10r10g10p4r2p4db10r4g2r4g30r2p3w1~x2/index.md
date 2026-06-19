@@ -2,10 +2,9 @@
 title: "MacDougall 9"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/) · **Stripes:** [R G R DB R P R W R P R DB R G R G P R P DB R G R G R P W](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R DB R P R W R P R DB R G R G P R P DB R G R G R P W</span></span>
+In pattern [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/).
 
-
-This was sourced from weddslist.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

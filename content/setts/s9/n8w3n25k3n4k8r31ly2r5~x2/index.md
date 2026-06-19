@@ -2,10 +2,9 @@
 title: "Caledon (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYRKBKBWB](/stripes/ryrkbkbwb/) · **Stripes:** [R LY R K N K N W N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">R LY R K N K N W N</span></span>
+In pattern [BWBKBKRYR](/stripes/bwbkbkryr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7731/
 

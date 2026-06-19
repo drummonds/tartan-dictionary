@@ -2,10 +2,9 @@
 title: "South Canterbury Jubillee (Corporate"
 date: 2023-03-18
 ---
-**Bands:** [BBGWRWRW](/stripes/bbgwrwrw/) · **Stripes:** [T DB G W R W R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DB G W R W R W</span></span>
+In pattern [BBGWRWRW](/stripes/bbgwrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2431/
 

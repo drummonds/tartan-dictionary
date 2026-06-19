@@ -2,10 +2,9 @@
 title: "Celtic 2009 (Sports)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGG](/stripes/ggggg/) · **Stripes:** [G DG G DG G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DG G DG G</span></span>
+In pattern [GGGGG](/stripes/ggggg/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7990/
 

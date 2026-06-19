@@ -2,10 +2,9 @@
 title: "Cumming"
 date: 2023-03-18
 ---
-**Bands:** [BKBKYGRWRWRGYKBKB](/stripes/bkbkygrwrwrgykbkb/) · **Stripes:** [T K T K LO G R W R W R G LO K T K T](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T K LO G R W R W R G LO K T K T</span></span>
+In pattern [BKBKYGRWRWRGYKBKB](/stripes/bkbkygrwrwrgykbkb/).
 
-
-This was sourced from logan-1831.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link /posts/logans-scottish-gael/
 

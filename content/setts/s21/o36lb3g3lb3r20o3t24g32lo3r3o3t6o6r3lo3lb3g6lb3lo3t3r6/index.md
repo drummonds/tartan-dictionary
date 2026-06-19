@@ -2,10 +2,9 @@
 title: "Victoria, County of (District)"
 date: 2023-03-18
 ---
-**Bands:** [RBYWGWYRRBRRYGBRRWGWR](/stripes/rbywgwyrrbrrygbrrwgwr/) · **Stripes:** [R T LO LB G LB LO R O T O R LO G T O R LB G LB O](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R T LO LB G LB LO R O T O R LO G T O R LB G LB O</span></span>
+In pattern [RBYWGWYRRBRRYGBRRWGWR](/stripes/rbywgwyrrbrrygbrrwgwr/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4343/
 

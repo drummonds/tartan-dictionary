@@ -2,10 +2,9 @@
 title: "Timespan, (MacKay)"
 date: 2023-03-18
 ---
-**Bands:** [GRKRG](/stripes/grkrg/) · **Stripes:** [Y R K R G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">Y R K R G</span></span>
+In pattern [GRKRG](/stripes/grkrg/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

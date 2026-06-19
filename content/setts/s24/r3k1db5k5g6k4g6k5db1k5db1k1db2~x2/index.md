@@ -2,10 +2,9 @@
 title: "Norwich No.007"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKGKBKBKBKBKBKGKGKBKR](/stripes/kbkgkgkbkbkbkbkbkgkgkbkr/) · **Stripes:** [K DB K G K G K DB K DB K DB K DB K DB K G K G K DB K R](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB K G K G K DB K DB K DB K DB K DB K G K G K DB K R</span></span>
+In pattern [KBKGKGKBKBKBKBKBKGKGKBKR](/stripes/kbkgkgkbkbkbkbkbkgkgkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3171
 

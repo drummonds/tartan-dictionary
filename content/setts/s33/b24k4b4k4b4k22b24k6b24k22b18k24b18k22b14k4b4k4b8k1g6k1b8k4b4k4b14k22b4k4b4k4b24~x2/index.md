@@ -2,10 +2,9 @@
 title: "MacDonald, Flora (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBKBKGKBKBKBKBKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkgkbkbkbkbkbkbkbkbkbkb/) · **Stripes:** [B K B K B K B K B K B K G K B K B K B K B K B K B K B K B K B K B](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K B K B K B K B K G K B K B K B K B K B K B K B K B K B K B</span></span>
+In pattern [BKBKBKBKBKBKBKBKBKBKGKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkbkbkbkbkgkbkbkbkbkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/217/
 

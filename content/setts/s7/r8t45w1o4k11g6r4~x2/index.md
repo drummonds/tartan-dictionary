@@ -2,10 +2,9 @@
 title: "Ascension Island Heritage Trust"
 date: 2023-03-18
 ---
-**Bands:** [RGKRWBR](/stripes/rgkrwbr/) · **Stripes:** [R G K O W T R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K O W T R</span></span>
+In pattern [RBWRKGR](/stripes/rbwrkgr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11137/
 

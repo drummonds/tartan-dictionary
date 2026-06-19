@@ -2,10 +2,9 @@
 title: "Bryson (1988) (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YRBBW](/stripes/yrbbw/) · **Stripes:** [LR R T DB LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LR R T DB LB</span></span>
+In pattern [WBBRY](/stripes/wbbry/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3746/
 

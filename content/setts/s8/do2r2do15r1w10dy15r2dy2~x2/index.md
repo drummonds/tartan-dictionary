@@ -2,10 +2,9 @@
 title: "Bannockbane Brown #1"
 date: 2023-03-18
 ---
-**Bands:** [GRGWRBRB](/stripes/grgwrbrb/) · **Stripes:** [DY R DY W R DO R DO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">DY R DY W R DO R DO</span></span>
+In pattern [BRBRWGRG](/stripes/brbrwgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=196
 

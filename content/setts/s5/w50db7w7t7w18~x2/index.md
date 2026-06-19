@@ -2,10 +2,9 @@
 title: "Sephardim (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [WBWBW](/stripes/wbwbw/) · **Stripes:** [W DB W T W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W T W</span></span>
+In pattern [WBWBW](/stripes/wbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8135/
 

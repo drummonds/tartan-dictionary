@@ -2,20 +2,11 @@
 title: "Algarve (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KBKB](/stripes/kbkb/) · **Stripes:** [K DB K DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB</span></span>
+In pattern [BKBK](/stripes/bkbk/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4202/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Auchincloss (Personal)](/setts/s4/k34db13k7db14~x2/)
-- [Loevenstein Castle 2 (Artefact)](/setts/s4/k20db1k4db3~x4/)
-
 
 ## Thread count
 DB/20 K20 DBa20 G/20

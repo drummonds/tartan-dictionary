@@ -2,10 +2,9 @@
 title: "L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy"
 date: 2023-03-18
 ---
-**Bands:** [YKGWGWRW](/stripes/ykgwgwrw/) · **Stripes:** [LY K DG LT DG LT R LT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LY K DG LT DG LT R LT</span></span>
+In pattern [WRWGWGKY](/stripes/wrwgwgky/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11614
 

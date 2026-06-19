@@ -2,10 +2,9 @@
 title: "St. Patrick"
 date: 2023-03-18
 ---
-**Bands:** [GWGWGWGWGYGWGWGWGW](/stripes/gwgwgwgwgygwgwgwgw/) · **Stripes:** [DG W DG W DG W DG W DG LY DG W DG W DG W DG W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG W DG W DG W DG W DG LY DG W DG W DG W DG W</span></span>
+In pattern [GWGWGWGWGYGWGWGWGW](/stripes/gwgwgwgwgygwgwgwgw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3902
 

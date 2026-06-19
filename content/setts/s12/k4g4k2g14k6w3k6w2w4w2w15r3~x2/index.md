@@ -2,10 +2,9 @@
 title: "Hayama Shirt Honten, The"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKWKWWWWR](/stripes/kgkgkwkwwwwr/) · **Stripes:** [K G K G K W K W W W W R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K G K W K W W W W R</span></span>
+In pattern [KGKGKWKWWWWR](/stripes/kgkgkwkwwwwr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10916
 

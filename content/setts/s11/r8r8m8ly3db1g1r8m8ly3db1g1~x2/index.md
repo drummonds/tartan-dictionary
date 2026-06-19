@@ -2,10 +2,9 @@
 title: "Kreutz, Arthur (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRRYBGRRYBG](/stripes/rrrybgrrybg/) · **Stripes:** [R R M LY DB G R M LY DB G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R R M LY DB G R M LY DB G</span></span>
+In pattern [GBYRRGBYRRR](/stripes/gbyrrgbyrrr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10977/
 

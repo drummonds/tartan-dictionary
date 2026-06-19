@@ -2,10 +2,9 @@
 title: "Arkansas"
 date: 2023-03-18
 ---
-**Bands:** [GKGRGWG](/stripes/gkgrgwg/) · **Stripes:** [G K G R G W G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G R G W G</span></span>
+In pattern [GKGRGWG](/stripes/gkgrgwg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=112
 

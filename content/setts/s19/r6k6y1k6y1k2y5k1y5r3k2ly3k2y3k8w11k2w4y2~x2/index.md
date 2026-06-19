@@ -2,10 +2,9 @@
 title: "Douglas, Ancient dress"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKGKGRKYKGKWKWG](/stripes/rkgkgkgkgrkykgkwkwg/) · **Stripes:** [R K Y K Y K Y K Y R K LY K Y K W K W Y](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R K Y K Y K Y K Y R K LY K Y K W K W Y</span></span>
+In pattern [GWKWKGKYKRGKGKGKGKR](/stripes/gwkwkgkykrgkgkgkgkr/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

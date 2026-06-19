@@ -2,10 +2,9 @@
 title: "Spirit of Riverside"
 date: 2023-03-18
 ---
-**Bands:** [KYWW](/stripes/kyww/) · **Stripes:** [K LY W LB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LY W LB</span></span>
+In pattern [KYWW](/stripes/kyww/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5818
 

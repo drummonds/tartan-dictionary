@@ -2,10 +2,9 @@
 title: "Grant"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRBRKRGRGRKR](/stripes/rkrkrbrkrgrgrkr/) · **Stripes:** [R K R K R T R K R DG R DG R K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R T R K R DG R DG R K R</span></span>
+In pattern [RKRGRGRKRBRKRKR](/stripes/rkrgrgrkrbrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1497
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1497](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1497)
 - Scottish Tartans World Register: 2902
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unidentified No 3 #2](/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/)
-
 
 ## Thread count
 R/16 K6 R6 G46 R6 G5 R6 K12 R6 B6 R48 K6 R6 K6 R/16

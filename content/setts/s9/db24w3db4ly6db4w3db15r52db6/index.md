@@ -2,10 +2,9 @@
 title: "Mercer, James (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBYBWB](/stripes/brbwbybwb/) · **Stripes:** [DB R DB W DB LY DB W DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB W DB LY DB W DB</span></span>
+In pattern [BRBWBYBWB](/stripes/brbwbybwb/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6839/
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [5438](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5438)
 - Scottish Tartans Authority (ITI): 6839
 - Scottish Tartans World Register: 3019
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mercer Personal Tartan Tartan Number: 3019. Earliest known date: 2004 Sent to House of Tartan by the owner. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db16w2db3ly4db3w2db10r35db4~x2/)
-
 
 ## Thread count
 DB/24 W3 DB4 Y6 DB4 W3 DB15 R52 DB/6

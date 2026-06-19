@@ -2,10 +2,9 @@
 title: "Lotus Elan (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKGKWBKWKY](/stripes/kykykgkwbkwky/) · **Stripes:** [K LY K LY K G K W B K W K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY K LY K G K W B K W K LY</span></span>
+In pattern [KYKYKGKWBKWKY](/stripes/kykykgkwbkwky/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8921/
 

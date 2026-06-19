@@ -2,10 +2,9 @@
 title: "Fleming /Frisken/Flanders"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/) · **Stripes:** [DB K DB K DB K DB K LY K DB K DB K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K DB K DB K LY K DB K DB K W</span></span>
+In pattern [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fleming/Frisken/Flanders](/setts/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/)
-
 
 ## Thread count
 B/32 K6 B6 K6 B6 K32 B33 K4 Y8 K4 B33 K32 B34 K4 LN/8

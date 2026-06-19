@@ -2,20 +2,11 @@
 title: "Erskine BW MINI Design Tartan Tartan Number: 12466. Earliest known date: Generated for display purposes. Reduced copy of the original 1246 Erskine BW. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKW](/stripes/kwkwkw/) · **Stripes:** [K W K W K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K W K W</span></span>
+In pattern [KWKWKW](/stripes/kwkwkw/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=12466
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine (Black and White)](/setts/s6/k2w1k9w9k1w2~x6/)
-- [Wallace Dress](/setts/s6/k7w6k1w6~x4/)
-
 
 ## Thread count
 K/6 LN3 K27 LN27 K3 LN/6

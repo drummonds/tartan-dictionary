@@ -2,10 +2,9 @@
 title: "Johore Regiment (Military)"
 date: 2023-03-18
 ---
-**Bands:** [KYBKB](/stripes/kybkb/) · **Stripes:** [K LO DB K DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LO DB K DB</span></span>
+In pattern [BKBYK](/stripes/bkbyk/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/260/
 

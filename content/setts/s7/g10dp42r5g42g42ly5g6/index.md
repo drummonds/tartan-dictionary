@@ -2,10 +2,9 @@
 title: "New Mexico (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GYGGRBG](/stripes/gyggrbg/) · **Stripes:** [G LY G G R DP G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY G G R DP G</span></span>
+In pattern [GBRGGYG](/stripes/gbrggyg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2530/
 

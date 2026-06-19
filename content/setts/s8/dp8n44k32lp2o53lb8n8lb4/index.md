@@ -2,10 +2,9 @@
 title: "Silver Wedding (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BBKWRWBW](/stripes/bbkwrwbw/) · **Stripes:** [DP N K LP O LB N LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DP N K LP O LB N LB</span></span>
+In pattern [BBKWRWBW](/stripes/bbkwrwbw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8956/
 

@@ -2,10 +2,9 @@
 title: "Serco Caledonian Sleeper"
 date: 2023-03-18
 ---
-**Bands:** [BRRGWRWB](/stripes/brrgwrwb/) · **Stripes:** [DB O R G LB R W DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB O R G LB R W DP</span></span>
+In pattern [BRRGWRWB](/stripes/brrgwrwb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11233/
 

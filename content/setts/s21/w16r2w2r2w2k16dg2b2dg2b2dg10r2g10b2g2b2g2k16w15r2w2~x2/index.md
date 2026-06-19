@@ -2,10 +2,9 @@
 title: "Cherry Valley New York (District)"
 date: 2023-03-18
 ---
-**Bands:** [WRWKGBGBGRGBGBGKWRWRW](/stripes/wrwkgbgbgrgbgbgkwrwrw/) · **Stripes:** [W R W K G B G B G R DG B DG B DG K W R W R W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R W K G B G B G R DG B DG B DG K W R W R W</span></span>
+In pattern [WRWKGBGBGRGBGBGKWRWRW](/stripes/wrwkgbgbgrgbgbgkwrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4500/
 

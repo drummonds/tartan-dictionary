@@ -2,19 +2,11 @@
 title: "Hackston or Halkerston Family Tartan Tartan Number: 907. Earliest known date: 1987 Taken from a portrait (c. 1746) Red pivot reduced by half for display. Should read R112. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWKYRYRG](/stripes/rwkyryrg/) · **Stripes:** [R W K LY R LY R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W K LY R LY R G</span></span>
+In pattern [GRYRYKWR](/stripes/gryrykwr/).
 
-
-This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=907
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hackston, or Halkerston](/setts/s8/r56w2k12ly3r12ly3r12g3~x2/)
-
 
 ## Thread count
 R/56 LN4 K24 Y6 R24 Y6 R24 G/6

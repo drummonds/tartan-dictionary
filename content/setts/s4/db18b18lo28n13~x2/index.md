@@ -2,10 +2,9 @@
 title: "Gold Country (District)"
 date: 2023-03-18
 ---
-**Bands:** [BYBB](/stripes/bybb/) · **Stripes:** [N LO B DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">N LO B DB</span></span>
+In pattern [BBYB](/stripes/bbyb/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10489/
 

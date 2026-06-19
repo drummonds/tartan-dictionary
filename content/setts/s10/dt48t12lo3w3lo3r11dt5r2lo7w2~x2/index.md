@@ -2,10 +2,9 @@
 title: "Holyrood Golden Jubilee II (Commemo)"
 date: 2023-03-18
 ---
-**Bands:** [BBYWYRBRYW](/stripes/bbywyrbryw/) · **Stripes:** [DT T LO W LO R DT R LO W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT T LO W LO R DT R LO W</span></span>
+In pattern [BBYWYRBRYW](/stripes/bbywyrbryw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6405/
 

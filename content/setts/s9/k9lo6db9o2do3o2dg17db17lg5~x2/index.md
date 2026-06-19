@@ -2,10 +2,9 @@
 title: "Coats (New Zealand)"
 date: 2023-03-18
 ---
-**Bands:** [KYBRBRGBY](/stripes/kybrbrgby/) · **Stripes:** [K LO DB O DO O DG DB LG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="seq">K LO DB O DO O DG DB LG</span></span>
+In pattern [KYBRBRGBY](/stripes/kybrbrgby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10871/
 

@@ -2,10 +2,9 @@
 title: "Matheson"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRBGRGRGRGRGRBGRG](/stripes/grgrgrbgrgrgrgrgrbgrg/) · **Stripes:** [DG R DG R DG R DB DG R DG R DG R DG R DG R DB DG R DG](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG R DG R DB DG R DG R DG R DG R DG R DB DG R DG</span></span>
+In pattern [GRGBRGRGRGRGRGBRGRGRG](/stripes/grgbrgrgrgrgrgbrgrgrg/).
 
-
-This was sourced from weddslist.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -40,14 +39,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Matheson](/setts/s21/dg8r4dg1r1dg1r24db8dg4r1dg1r1dg4r8dg1r1dg1r1db8dg8r2dg4~x2/)
-- [Matheson (Clan)](/setts/s21/dg8r4dg1r1dg1r14db8dg4r1dg1r1dg4r8dg1r1dg1r1db8dg8r2dg4~x4/)
-
 
 ## Thread count
 G/8 R4 G1 R1 G1 R24 DB8 G4 R1 G1 R1 G4 R8 G1 R1 G1 R1 DB8 G8 R2 G/4

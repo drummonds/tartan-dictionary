@@ -2,10 +2,9 @@
 title: "Torridon, Cherry (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [RRBRWBW](/stripes/rrbrwbw/) · **Stripes:** [R R DB R W DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R R DB R W DB W</span></span>
+In pattern [RRBRWBW](/stripes/rrbrwbw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7573/
 

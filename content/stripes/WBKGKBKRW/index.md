@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wbkgkbkrw/
 ---
-WBKGKBKRW
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-WBKGKBKRW
+
+{{< pat "WBKGKBKRW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### W R K N K G K B W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K N K G K B W</span></span>
 
 | Tartans |
 |---------------|
 | [Scotland's Charity Air Ambulance](/setts/s9/w2b27k1g3k1n10k1r24w2~x2/)|
 |![Scotland's Charity Air Ambulance example sett](/setts/s9/w2b27k1g3k1n10k1r24w2~x2/sett.png)|
-

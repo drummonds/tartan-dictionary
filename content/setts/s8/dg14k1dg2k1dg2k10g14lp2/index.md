@@ -2,10 +2,9 @@
 title: "Manor (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKGW](/stripes/gkgkgkgw/) · **Stripes:** [DG K DG K DG K G LP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">DG K DG K DG K G LP</span></span>
+In pattern [GKGKGKGW](/stripes/gkgkgkgw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8075/
 

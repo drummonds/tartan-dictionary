@@ -2,10 +2,9 @@
 title: "Dijkgraaf, Markus Jack (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWBWBWRWKW](/stripes/kwbwbwrwkw/) · **Stripes:** [K LB DP W DP W R W K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LB DP W DP W R W K W</span></span>
+In pattern [KWBWBWRWKW](/stripes/kwbwbwrwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11353
 

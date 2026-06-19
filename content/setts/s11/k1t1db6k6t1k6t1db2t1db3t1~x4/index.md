@@ -2,10 +2,9 @@
 title: "Clergy (Smith)"
 date: 2023-03-18
 ---
-**Bands:** [KBBKBKBBBBB](/stripes/kbbkbkbbbbb/) · **Stripes:** [K T DB K T K T DB T DB T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T DB K T K T DB T DB T</span></span>
+In pattern [BBBBBKBKBBK](/stripes/bbbbbkbkbbk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/39/
 
@@ -14,15 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/39/
 This cloth is also recorded under:
 
 - Clergy 1
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clark (Clerke/Clergy/Priest)](/setts/s11/k4t4db14k15t4k15t4db7t4db10t4~x2/)
-- [Clergy (Smith)](/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x2/)
-- [Clergy Blue Tartan Tartan Number: 2195. Earliest known date: 1819 tba See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k2t2db10k10t2k10t2db3t2db5t2~x2/)
-
 
 ## Thread count
 K/4 B4 DB24 K24 B4 K24 B4 DB8 B4 DB12 B/4

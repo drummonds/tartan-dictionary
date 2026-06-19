@@ -2,10 +2,9 @@
 title: "Unnamed C18/19th - Antigonish (A) #2"
 date: 2023-03-18
 ---
-**Bands:** [RBRWGBWRWBRGRBRGRBWRWBRGWRBRB](/stripes/rbrwgbwrwbrgrbrgrbwrwbrgwrbrb/) · **Stripes:** [R DT R W Y DT W R W DT R Y R DT R Y R DT W R W DT R Y W R DT R DT](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT R W Y DT W R W DT R Y R DT R Y R DT W R W DT R Y W R DT R DT</span></span>
+In pattern [BRBRWGRBWRWBRGRBRGRBWRWBGWRBR](/stripes/brbrwgrbwrwbrgrbrgrbwrwbgwrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4413
 

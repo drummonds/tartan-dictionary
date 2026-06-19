@@ -2,10 +2,9 @@
 title: "Fyvie"
 date: 2023-03-18
 ---
-**Bands:** [YGYGKBKBKBGBKBKBKGKW](/stripes/ygygkbkbkbgbkbkbkgkw/) · **Stripes:** [LY DG LY DG K DB K DB K DB DG DB K DB K DB K DG K W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DG LY DG K DB K DB K DB DG DB K DB K DB K DG K W</span></span>
+In pattern [WKGKBKBKBGBKBKBKGYGY](/stripes/wkgkbkbkbgbkbkbkgygy/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6001
 

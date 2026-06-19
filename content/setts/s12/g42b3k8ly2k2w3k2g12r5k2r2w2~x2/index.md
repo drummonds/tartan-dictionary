@@ -2,10 +2,9 @@
 title: "King George VI (Royal)"
 date: 2023-03-18
 ---
-**Bands:** [GBKYKWKGRKRW](/stripes/gbkykwkgrkrw/) · **Stripes:** [G B K LY K W K G R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G B K LY K W K G R K R W</span></span>
+In pattern [GBKYKWKGRKRW](/stripes/gbkykwkgrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5845/
 

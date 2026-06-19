@@ -2,10 +2,9 @@
 title: "Milne Purple Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [RWBWRWBW](/stripes/rwbwrwbw/) · **Stripes:** [R W DB W M W DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W DB W M W DB W</span></span>
+In pattern [RWBWRWBW](/stripes/rwbwrwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2956
 

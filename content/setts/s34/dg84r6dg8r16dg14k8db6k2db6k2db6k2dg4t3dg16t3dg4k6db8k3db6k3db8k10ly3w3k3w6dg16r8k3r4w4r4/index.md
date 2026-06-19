@@ -2,10 +2,9 @@
 title: "Duke of Edinburgh (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWRKRGWKWYKBKBKBKGBGBGKBKBKBKGRGRG](/stripes/rwrkrgwkwykbkbkbkgbgbgkbkbkbkgrgrg/) · **Stripes:** [R W R K R DG W K W LY K DB K DB K DB K DG T DG T DG K DB K DB K DB K DG R DG R DG](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R W R K R DG W K W LY K DB K DB K DB K DG T DG T DG K DB K DB K DB K DG R DG R DG</span></span>
+In pattern [GRGRGKBKBKBKGBGBGKBKBKBKYWKWGRKRWR](/stripes/grgrgkbkbkbkgbgbgkbkbkbkywkwgrkrwr/).
 
-
-This was sourced from tartans-authority.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3983/
 

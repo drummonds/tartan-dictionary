@@ -2,10 +2,9 @@
 title: "Salem Scottish Dancers (Dance) #2"
 date: 2023-03-18
 ---
-**Bands:** [BBBWBBWBWBBWBB](/stripes/bbbwbbwbwbbwbb/) · **Stripes:** [DT B DT W DT B W DT W B DT W DT B](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DT B DT W DT B W DT W B DT W DT B</span></span>
+In pattern [BBBWBBWBWBBWBB](/stripes/bbbwbbwbwbbwbb/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641
 

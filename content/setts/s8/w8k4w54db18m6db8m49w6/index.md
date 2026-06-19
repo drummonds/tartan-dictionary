@@ -2,10 +2,9 @@
 title: "Merida Dance"
 date: 2023-03-18
 ---
-**Bands:** [WKWBRBRW](/stripes/wkwbrbrw/) · **Stripes:** [W K W DB M DB M W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W DB M DB M W</span></span>
+In pattern [WKWBRBRW](/stripes/wkwbrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11142
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11142
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11142](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11142)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Meridia Dance](/setts/s8/w8k6w54db16m6db8m49w6/)
-
 
 ## Thread count
 LY/8 K4 LY54 DB18 LR6 DB8 LR49 LY/6

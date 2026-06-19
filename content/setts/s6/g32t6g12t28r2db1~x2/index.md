@@ -2,10 +2,9 @@
 title: "Palm Beach Gardens Police"
 date: 2023-03-18
 ---
-**Bands:** [GBGBRB](/stripes/gbgbrb/) · **Stripes:** [G T G T R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G T G T R DB</span></span>
+In pattern [BRBGBG](/stripes/brbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3286
 

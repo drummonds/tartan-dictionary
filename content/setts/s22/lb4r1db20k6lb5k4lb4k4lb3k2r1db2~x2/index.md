@@ -2,10 +2,9 @@
 title: "Scottish Knights Templar St. Andrews"
 date: 2023-03-18
 ---
-**Bands:** [RKWKWKWKBRWRBKWKWKWKRB](/stripes/rkwkwkwkbrwrbkwkwkwkrb/) · **Stripes:** [R K LB K LB K LB K DB R LB R DB K LB K LB K LB K R DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K LB K LB K LB K DB R LB R DB K LB K LB K LB K R DB</span></span>
+In pattern [BRKWKWKWKBRWRBKWKWKWKR](/stripes/brkwkwkwkbrwrbkwkwkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3728
 

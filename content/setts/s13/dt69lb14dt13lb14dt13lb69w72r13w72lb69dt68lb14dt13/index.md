@@ -2,10 +2,9 @@
 title: "Poulter Sonic"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWWRWWBWB](/stripes/bwbwbwwrwwbwb/) · **Stripes:** [DT LB DT LB DT LB W R W LB DT LB DT](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="seq">DT LB DT LB DT LB W R W LB DT LB DT</span></span>
+In pattern [BWBWBWWRWWBWB](/stripes/bwbwbwwrwwbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11242
 

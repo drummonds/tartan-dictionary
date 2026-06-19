@@ -2,10 +2,9 @@
 title: "Aguilar Pardo, Luis Alejandro (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWWWYRYG](/stripes/kwwwyryg/) · **Stripes:** [K LB W LB LY R LY G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LB W LB LY R LY G</span></span>
+In pattern [GYRYWWWK](/stripes/gyrywwwk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11147
 

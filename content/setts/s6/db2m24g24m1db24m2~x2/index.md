@@ -2,10 +2,9 @@
 title: "Mar Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRB](/stripes/rbrgrb/) · **Stripes:** [M DB M G M DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">M DB M G M DB</span></span>
+In pattern [BRGRBR](/stripes/brgrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2828
 

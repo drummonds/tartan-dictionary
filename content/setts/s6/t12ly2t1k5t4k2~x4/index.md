@@ -2,10 +2,9 @@
 title: "Rea"
 date: 2023-03-18
 ---
-**Bands:** [KBKBYB](/stripes/kbkbyb/) · **Stripes:** [K T K T LY T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T K T LY T</span></span>
+In pattern [BYBKBK](/stripes/bybkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3470
 

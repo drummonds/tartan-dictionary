@@ -2,10 +2,9 @@
 title: "Heartlands"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBGBGRBRGBGBBBBBB](/stripes/bbbbbgbgrbrgbgbbbbbb/) · **Stripes:** [B DT DB DT DB DG DB DG M DP M DG DB DG DB DT DB DT B DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B DT DB DT DB DG DB DG M DP M DG DB DG DB DT DB DT B DB</span></span>
+In pattern [BBBBBBGBGRBRGBGBBBBB](/stripes/bbbbbbgbgrbrgbgbbbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1645
 

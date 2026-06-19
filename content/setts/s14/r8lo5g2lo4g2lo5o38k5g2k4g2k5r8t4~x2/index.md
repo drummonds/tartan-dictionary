@@ -2,10 +2,9 @@
 title: "Berwick District Tartan Tartan Number: 2011. Earliest known date: 1981 Marygate Weavers of Berwick upon Tweed organised a competition to design a tartan to commemorate the historic past of the town. Alison Wilkinson from Wooler, Northumberland, a pupil in the third form at Berwick High School, won the prize of £50. The tartan is also produced in a symetrical form. (STS archives) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RYGYGYRKGKGKRB](/stripes/rygygyrkgkgkrb/) · **Stripes:** [R LO G LO G LO O K G K G K R T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R LO G LO G LO O K G K G K R T</span></span>
+In pattern [BRKGKGKRYGYGYR](/stripes/brkgkgkrygygyr/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2011
 

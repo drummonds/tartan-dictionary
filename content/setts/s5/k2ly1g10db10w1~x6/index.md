@@ -2,10 +2,9 @@
 title: "Turnbull Hunting (1983) #2"
 date: 2023-03-18
 ---
-**Bands:** [KYGBW](/stripes/kygbw/) · **Stripes:** [K LY G DB W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LY G DB W</span></span>
+In pattern [KYGBW](/stripes/kygbw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4163
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4163](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4163)
 - Scottish Tartans Authority (ITI): 1265
 - Scottish Tartans World Register: 1265
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Turnbull, hunting](/setts/s5/k7ly3g28db28w3~x2/)
-
 
 ## Thread count
 K/12 Y6 G60 DB60 W/6

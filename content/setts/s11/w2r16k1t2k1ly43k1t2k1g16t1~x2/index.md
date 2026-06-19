@@ -2,19 +2,11 @@
 title: "Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BGKBKYKBKRW](/stripes/bgkbkykbkrw/) · **Stripes:** [T G K T K LY K T K R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T G K T K LY K T K R W</span></span>
+In pattern [BGKBKYKBKRW](/stripes/bgkbkykbkrw/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=175
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Baxter of Balgavies](/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/)
-
 
 ## Thread count
 LN/4 R32 K2 B4 K2 Y86 K2 B4 K2 G32 B/2

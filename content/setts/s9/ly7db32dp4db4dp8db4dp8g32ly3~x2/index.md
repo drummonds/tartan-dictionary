@@ -2,10 +2,9 @@
 title: "Children 1st (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YGBBBBBBY](/stripes/ygbbbbbby/) · **Stripes:** [LY G DP DB DP DB DP DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY G DP DB DP DB DP DB LY</span></span>
+In pattern [YBBBBBBGY](/stripes/ybbbbbbgy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6707/
 

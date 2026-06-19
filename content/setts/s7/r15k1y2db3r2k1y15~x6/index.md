@@ -2,10 +2,9 @@
 title: "Scrymgeour"
 date: 2023-03-18
 ---
-**Bands:** [RKGBRKG](/stripes/rkgbrkg/) · **Stripes:** [R K Y DB R K Y](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R K Y DB R K Y</span></span>
+In pattern [GKRBGKR](/stripes/gkrbgkr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Ottawa (District)"
 date: 2023-03-18
 ---
-**Bands:** [RYWYWYBYBYBYWYWYWYBYBYBY](/stripes/rywywybybybywywywybybyby/) · **Stripes:** [R LO W LO W LO DB LO DB LO DB LO W LO W LO W LO B LO B LO B LO](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LO W LO W LO DB LO DB LO DB LO W LO W LO W LO B LO B LO B LO</span></span>
+In pattern [RYWYWYBYBYBYWYWYWYBYBYBY](/stripes/rywywybybybywywywybybyby/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2021/
 

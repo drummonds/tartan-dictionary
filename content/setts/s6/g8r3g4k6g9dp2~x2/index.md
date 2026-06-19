@@ -2,10 +2,9 @@
 title: "Milton"
 date: 2023-03-18
 ---
-**Bands:** [GRGKGB](/stripes/grgkgb/) · **Stripes:** [G R G K G DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G R G K G DP</span></span>
+In pattern [BGKGRG](/stripes/bgkgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2959
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2959](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2959)
 - Scottish Tartans Authority (ITI): 4176
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Milton (Name?)](/setts/s6/g8r3g4k6g9dp2~x4/)
-
 
 ## Thread count
 G/16 DR6 G8 K12 G18 P/4

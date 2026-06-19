@@ -2,10 +2,9 @@
 title: "Fitzpatrick"
 date: 2023-03-18
 ---
-**Bands:** [WKBKBGWYWYW](/stripes/wkbkbgwywyw/) · **Stripes:** [W K B K B G W LY W LY W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K B K B G W LY W LY W</span></span>
+In pattern [WKBKBGWYWYW](/stripes/wkbkbgwywyw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1199
 

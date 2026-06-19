@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkgrgkgk/
 ---
-GKGRGKGK
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/k8g3k4g20r3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GKGRGKGK
+
+{{< pat "GKGRGKGK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K G K G R G K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G R G K G</span></span>
 
 | Tartans |
 |---------------|
 | [MacArthur-Fox (Personal)](/setts/s8/k8g3k4g20r3~x2/)|
 |![MacArthur-Fox (Personal) example sett](/setts/s8/k8g3k4g20r3~x2/sett.png)|
-

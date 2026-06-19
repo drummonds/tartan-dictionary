@@ -2,10 +2,9 @@
 title: "Midnight Sunrise"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBBKBBBBKBB](/stripes/ybbbbbbbkbbbbkbb/) · **Stripes:** [LO DB DP B DP DB B DB K B DB DP DB K DB DP](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO DB DP B DP DB B DB K B DB DP DB K DB DP</span></span>
+In pattern [BBKBBBBKBBBBBBBY](/stripes/bbkbbbbkbbbbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11638
 

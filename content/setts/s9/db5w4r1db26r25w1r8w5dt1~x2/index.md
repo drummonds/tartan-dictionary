@@ -2,10 +2,9 @@
 title: "Boring and Dull"
 date: 2023-03-18
 ---
-**Bands:** [BWRBRWRWB](/stripes/bwrbrwrwb/) · **Stripes:** [DB W R DB R W R W DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">DB W R DB R W R W DT</span></span>
+In pattern [BWRBRWRWB](/stripes/bwrbrwrwb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11186
 

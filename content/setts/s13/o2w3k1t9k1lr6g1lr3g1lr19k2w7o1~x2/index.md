@@ -2,10 +2,9 @@
 title: "Cahaba Memorial (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [RWKYGYGYKBKWR](/stripes/rwkygygykbkwr/) · **Stripes:** [O W K LR G LR G LR K T K W O](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O W K LR G LR G LR K T K W O</span></span>
+In pattern [RWKBKYGYGYKWR](/stripes/rwkbkygygykwr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10324/
 

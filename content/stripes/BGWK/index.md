@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bgwk/
 ---
-BGWK
-
-It is a 4 band tartan.
+It is a 4 stripe tartan.
 
 ![Woven sample](/setts/s4/k7w1g7t1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BGWK
+
+{{< pat "BGWK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K W G T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K W G T</span></span>
 
 | Tartans |
 |---------------|
 | [Wilson's No.079](/setts/s4/k7w1g7t1~x2/)|
 |![Wilson's No.079 example sett](/setts/s4/k7w1g7t1~x2/sett.png)|
-

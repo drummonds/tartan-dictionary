@@ -2,10 +2,9 @@
 title: "MacDonald of Ardnamurchan (Clan?)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKY](/stripes/rkrkrky/) · **Stripes:** [R K R K R K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K R K R K LY</span></span>
+In pattern [RKRKRKY](/stripes/rkrkrky/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3275/
 
@@ -31,14 +30,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5217](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5217)
 - Scottish Tartans Authority (ITI): 3275
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacIain](/setts/s7/r4k8r4k8r12k1ly2~x2/)
-- [MacKeane (Clan?)](/setts/s7/r4k8r4k8r12k1ly1~x2/)
-
 
 ## Thread count
 R/16 K32 R16 K32 R48 K4 Y/8

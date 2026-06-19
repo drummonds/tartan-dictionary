@@ -2,10 +2,9 @@
 title: "Pike Personal Weavers Tartan Tartan Number: 3229. Earliest known date: 2/4/02 Darker version, final design See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKBKGKGKGKBKGKGKG](/stripes/kgkgkbkgkgkgkbkgkgkg/) · **Stripes:** [K G K G K DP K G K G K G K DP K G K G K G](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G K DP K G K G K G K DP K G K G K G</span></span>
+In pattern [GKGKGKBKGKGKGKBKGKGK](/stripes/gkgkgkbkgkgkgkbkgkgk/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3229
 

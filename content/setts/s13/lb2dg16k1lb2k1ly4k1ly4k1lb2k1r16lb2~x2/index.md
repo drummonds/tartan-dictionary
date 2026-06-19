@@ -2,10 +2,9 @@
 title: "Buchanan D"
 date: 2023-03-18
 ---
-**Bands:** [WRKWKYKYKWKGW](/stripes/wrkwkykykwkgw/) · **Stripes:** [LB R K LB K LY K LY K LB K DG LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB R K LB K LY K LY K LB K DG LB</span></span>
+In pattern [WGKWKYKYKWKRW](/stripes/wgkwkykykwkrw/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

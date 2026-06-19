@@ -2,10 +2,9 @@
 title: "Murray"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGRGKBKBKB](/stripes/bkbkgrgkbkbkb/) · **Stripes:** [DB K DB K DG R DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG R DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -50,14 +49,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Murray](/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2~x2/)
-- [Westwood Gordon Pink (Fashion)](/setts/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/)
-
 
 ## Thread count
 DB/6 K1 DB1 K1 DB1 K6 G6 R2 G6 K6 DB6 K1 DB/2

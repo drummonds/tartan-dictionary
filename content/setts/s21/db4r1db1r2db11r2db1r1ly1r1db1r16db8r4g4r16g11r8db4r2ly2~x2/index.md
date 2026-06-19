@@ -2,10 +2,9 @@
 title: "MacLeod Red"
 date: 2023-03-18
 ---
-**Bands:** [YRBRGRGRBRBRYRBRBRBRB](/stripes/yrbrgrgrbrbryrbrbrbrb/) · **Stripes:** [LY R DB R G R G R DB R DB R LY R DB R DB R DB R DB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R DB R G R G R DB R DB R LY R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRYRBRBRGRGRBRY](/stripes/brbrbrbryrbrbrgrgrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2643
 

@@ -2,10 +2,9 @@
 title: "Gorman Blue (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WBYBBWBW](/stripes/wbybbwbw/) · **Stripes:** [W N LY N DT W DT W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W N LY N DT W DT W</span></span>
+In pattern [WBWBBYBW](/stripes/wbwbbybw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10390
 

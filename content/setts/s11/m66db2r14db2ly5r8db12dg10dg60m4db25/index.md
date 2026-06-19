@@ -2,10 +2,9 @@
 title: "Dundee Carers Centre"
 date: 2023-03-18
 ---
-**Bands:** [RBRBYRBGGRB](/stripes/rbrbyrbggrb/) · **Stripes:** [M DB R DB LY R DB DG DG M DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">M DB R DB LY R DB DG DG M DB</span></span>
+In pattern [BRGGBRYBRBR](/stripes/brggbrybrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11084
 

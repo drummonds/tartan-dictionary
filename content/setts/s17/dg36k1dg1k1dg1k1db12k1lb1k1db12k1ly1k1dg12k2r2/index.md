@@ -2,10 +2,9 @@
 title: "Cockburn"
 date: 2023-03-18
 ---
-**Bands:** [RKGKYKBKWKBKGKGKG](/stripes/rkgkykbkwkbkgkgkg/) · **Stripes:** [R K DG K LY K DB K LB K DB K DG K DG K DG](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K DG K LY K DB K LB K DB K DG K DG K DG</span></span>
+In pattern [GKGKGKBKWKBKYKGKR](/stripes/gkgkgkbkwkbkykgkr/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

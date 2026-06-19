@@ -2,10 +2,9 @@
 title: "Shepherd, Derek (Piping)"
 date: 2023-03-18
 ---
-**Bands:** [KYGYGW](/stripes/kygygw/) · **Stripes:** [K LY DY LY DY W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LY DY LY DY W</span></span>
+In pattern [KYGYGW](/stripes/kygygw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10160
 

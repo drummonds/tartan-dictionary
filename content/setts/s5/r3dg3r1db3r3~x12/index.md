@@ -2,21 +2,11 @@
 title: "Gow (Portrait)"
 date: 2023-03-18
 ---
-**Bands:** [RGRBR](/stripes/rgrbr/) · **Stripes:** [R DG R DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DB R</span></span>
+In pattern [RBRGR](/stripes/rbrgr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1390/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gow](/setts/s5/r4dg4r1db4r4~x2/)
-- [Gow](/setts/s5/r4dg4r1db4r4~x4/)
-- [Gow](/setts/s5/r4dg4r1db4r4/)
-
 
 ## Thread count
 R/36 DB36 R12 G36 R/36

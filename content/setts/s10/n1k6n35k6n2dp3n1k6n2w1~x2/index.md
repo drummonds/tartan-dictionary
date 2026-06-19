@@ -2,10 +2,9 @@
 title: "Melrose Newbigging Grey (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBBBKBW](/stripes/bkbkbbbkbw/) · **Stripes:** [N K N K N DP N K N W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N K N K N DP N K N W</span></span>
+In pattern [BKBKBBBKBW](/stripes/bkbkbbbkbw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10500/
 

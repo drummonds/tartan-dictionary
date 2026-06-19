@@ -2,10 +2,9 @@
 title: "MacKenzie Blue"
 date: 2023-03-18
 ---
-**Bands:** [RKBKWKWKWKBKBKB](/stripes/rkbkwkwkwkbkbkb/) · **Stripes:** [R K DB K LT K W K LT K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K LT K W K LT K DB K DB K DB</span></span>
+In pattern [BKBKBKWKWKWKBKR](/stripes/bkbkbkwkwkwkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6028
 

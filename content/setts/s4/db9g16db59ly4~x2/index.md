@@ -2,10 +2,9 @@
 title: "Oxford University (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YBGB](/stripes/ybgb/) · **Stripes:** [LY DB G DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB G DB</span></span>
+In pattern [BGBY](/stripes/bgby/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2652/
 

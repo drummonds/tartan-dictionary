@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbrkgwgkrbgbk/
 ---
-BGBRKGWGKRBGBK
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBRKGWGKRBGBK
+
+{{< pat "BGBRKGWGKRBGBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K B G B R K DY W DY K R B G B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B G B R K DY W DY K R B G B</span></span>
 
 | Tartans |
 |---------------|
 | [Lambert Dress (Personal)](/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/)|
 |![Lambert Dress (Personal) example sett](/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/sett.png)|
-

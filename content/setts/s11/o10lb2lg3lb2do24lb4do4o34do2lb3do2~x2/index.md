@@ -2,10 +2,9 @@
 title: "Fort William (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWYWBWBRBWB](/stripes/rwywbwbrbwb/) · **Stripes:** [O LB LG LB DO LB DO O DO LB DO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="seq">O LB LG LB DO LB DO O DO LB DO</span></span>
+In pattern [BWBRBWBWYWR](/stripes/bwbrbwbwywr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4902/
 

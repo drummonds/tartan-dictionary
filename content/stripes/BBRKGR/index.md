@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/bbrkgr/
 ---
-BBRKGR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/r1dg14k14r2db14t1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BBRKGR
+
+{{< pat "BBRKGR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R DG K R DB T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG K R DB T</span></span>
 
 | Tartans |
 |---------------|
 | [Wilson's No.221](/setts/s6/r1dg14k14r2db14t1~x2/)|
 |![Wilson's No.221 example sett](/setts/s6/r1dg14k14r2db14t1~x2/sett.png)|
-
-### R G K R DB T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G K R DB T</span></span>
-
-| Tartans |
-|---------------|
 | [Wilson's, No 221](/setts/s6/r1g14k14r2db14t1~x2/)|
 |![Wilson's, No 221 example sett](/setts/s6/r1g14k14r2db14t1~x2/sett.png)|
-

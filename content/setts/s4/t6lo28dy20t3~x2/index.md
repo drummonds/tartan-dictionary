@@ -2,10 +2,9 @@
 title: "Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BYGB](/stripes/bygb/) · **Stripes:** [T LO DY T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">T LO DY T</span></span>
+In pattern [BGYB](/stripes/bgyb/).
 
-
-This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=389
 

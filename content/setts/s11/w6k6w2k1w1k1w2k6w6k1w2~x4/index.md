@@ -2,10 +2,9 @@
 title: "Scott - 1850 B & W (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/) · **Stripes:** [W K W K W K W K W K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K W K W K W K W</span></span>
+In pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1826/
 
@@ -21,15 +20,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 - 1850 — Scott - 1850 B & W (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1826/))
 - undated — Scott Black and White Personal Tartan Tartan Number: 1826. Earliest known date: 1822 Smibert (1850) publishes this design which he says, "..was produced for his own use by Sir Walter Scott in 1822, and that he wore it in private, in the form of a Lowland shepherd's plaid." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1826))
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLean (Black and White)](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/)
-- [MacLean, Black & White](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16/)
-- [Scott, Sir Walter](/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/)
-
 
 ## Thread count
 W/24 K24 W8 K4 W4 K4 W8 K24 W24 K4 W/8

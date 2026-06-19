@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/ggbwr/
 ---
-GGBWR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/g15dg18db23w4r8~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GGBWR
+
+{{< pat "GGBWR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R W DB DG G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB DG G</span></span>
 
 | Tartans |
 |---------------|
 | [Friebe (2014)](/setts/s5/g15dg18db23w4r8~x2/)|
 |![Friebe (2014) example sett](/setts/s5/g15dg18db23w4r8~x2/sett.png)|
-
-### R W DT DG G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DT DG G</span></span>
-
-| Tartans |
-|---------------|
 | [Friebe (2014)](/setts/s5/g15dg18dt23w4r8~x2/)|
 |![Friebe (2014) example sett](/setts/s5/g15dg18dt23w4r8~x2/sett.png)|
-

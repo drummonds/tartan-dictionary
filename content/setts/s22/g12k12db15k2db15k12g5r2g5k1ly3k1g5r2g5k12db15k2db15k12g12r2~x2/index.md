@@ -2,10 +2,9 @@
 title: "Paterson Clan/Family Weavers Tartan Tartan Number: 3886. Earliest known date: pre 2002 Dalgliesh variation. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGKBKBKGRGKYKGRGKBKBKG](/stripes/rgkbkbkgrgkykgrgkbkbkg/) · **Stripes:** [R G K DB K DB K G R G K LY K G R G K DB K DB K G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K DB K DB K G R G K LY K G R G K DB K DB K G</span></span>
+In pattern [GKBKBKGRGKYKGRGKBKBKGR](/stripes/gkbkbkgrgkykgrgkbkbkgr/).
 
-
-This was sourced from house-of-tartan.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3886
 

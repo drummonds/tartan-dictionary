@@ -2,10 +2,9 @@
 title: "Schneidersohne Centenary (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBRKBKRKGKBKRW](/stripes/kbrkbkrkgkbkrw/) · **Stripes:** [K T R K T K R K G K T K R W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K T R K T K R K G K T K R W</span></span>
+In pattern [KBRKBKRKGKBKRW](/stripes/kbrkbkrkgkbkrw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4533/
 

@@ -2,10 +2,9 @@
 title: "Ferguson Dress Blue (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KWRWKBKWRWKW](/stripes/kwrwkbkwrwkw/) · **Stripes:** [K W R W K T K W R W K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R W K T K W R W K W</span></span>
+In pattern [KWRWKBKWRWKW](/stripes/kwrwkbkwrwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1163
 

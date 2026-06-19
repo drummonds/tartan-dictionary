@@ -2,10 +2,9 @@
 title: "Williams, Jodi (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRBR](/stripes/rgrgrbr/) · **Stripes:** [R G R G R DB O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R G R G R DB O</span></span>
+In pattern [RBRGRGR](/stripes/rbrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10110/
 

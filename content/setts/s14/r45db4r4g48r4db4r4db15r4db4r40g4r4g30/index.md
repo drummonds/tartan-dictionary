@@ -2,10 +2,9 @@
 title: "Bruce, Old"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRBRBRGRG](/stripes/rbrgrbrbrbrgrg/) · **Stripes:** [R DB R G R DB R DB R DB R G R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R G R DB R DB R DB R G R G</span></span>
+In pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,15 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacColl](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/)
-- [MacColl](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/)
-- [MacDonald of Aird & Valley (Clan?)](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/)
-
 
 ## Thread count
 R/45 B4 R4 G48 R4 B4 R4 B15 R4 B4 R40 G4 R4 G/30

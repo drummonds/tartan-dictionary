@@ -2,10 +2,9 @@
 title: "Hose (Dunmore)"
 date: 2023-03-18
 ---
-**Bands:** [RKW](/stripes/rkw/) · **Stripes:** [R K LB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R K LB</span></span>
+In pattern [RKW](/stripes/rkw/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1769
 

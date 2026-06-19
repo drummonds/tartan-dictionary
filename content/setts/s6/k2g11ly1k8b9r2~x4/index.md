@@ -2,10 +2,9 @@
 title: "Forsyth (1795)"
 date: 2023-03-18
 ---
-**Bands:** [KGYKBR](/stripes/kgykbr/) · **Stripes:** [K G LY K B R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G LY K B R</span></span>
+In pattern [KGYKBR](/stripes/kgykbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1236
 

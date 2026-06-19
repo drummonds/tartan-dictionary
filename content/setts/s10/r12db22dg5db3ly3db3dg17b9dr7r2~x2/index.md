@@ -2,10 +2,9 @@
 title: "Royal Dornoch Golf Club, The"
 date: 2023-03-18
 ---
-**Bands:** [RBGBYBGBBR](/stripes/rbgbybgbbr/) · **Stripes:** [R DB DG DB LY DB DG B DR R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB DG DB LY DB DG B DR R</span></span>
+In pattern [RBBGBYBGBR](/stripes/rbbgbybgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10968
 

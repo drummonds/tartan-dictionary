@@ -2,10 +2,9 @@
 title: "Williams, Edmund (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBGGKW](/stripes/bbggkw/) · **Stripes:** [DB DP G DG K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DP G DG K W</span></span>
+In pattern [BBGGKW](/stripes/bbggkw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10872
 

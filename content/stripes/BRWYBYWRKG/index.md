@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brwybywrkg/
 ---
-BRWYBYWRKG
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BRWYBYWRKG
+
+{{< pat "BRWYBYWRKG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G K R W LY DP LY W R DP <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G K R W LY DP LY W R DP</span></span>
 
 | Tartans |
 |---------------|
 | [McMuldroch (2014)](/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/)|
 |![McMuldroch (2014) example sett](/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/sett.png)|
-

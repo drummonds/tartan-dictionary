@@ -2,10 +2,9 @@
 title: "Fife, Duchess of.."
 date: 2023-03-18
 ---
-**Bands:** [KBKGKG](/stripes/kbkgkg/) · **Stripes:** [K DB K G K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K G K G</span></span>
+In pattern [GKGKBK](/stripes/gkgkbk/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Duchess of Fife #2](/setts/s6/g70k26g12k14db3k16~x2/)
-
 
 ## Thread count
 G/60 K24 G12 K12 B4 K/10

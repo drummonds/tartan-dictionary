@@ -2,10 +2,9 @@
 title: "Trew 40th (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKBBBKWKGKGKBR](/stripes/rgkbbbkwkgkgkbr/) · **Stripes:** [R DG K DO DB DO K W K DG K DG K DO R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K DO DB DO K W K DG K DG K DO R</span></span>
+In pattern [RBKGKGKWKBBBKGR](/stripes/rbkgkgkwkbbbkgr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10033/
 

@@ -2,10 +2,9 @@
 title: "Dixon, Clyde (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRRRYGRGGGYY](/stripes/rrrrrrrygrgggyy/) · **Stripes:** [R O R O R O R LY G O G DG G LY LG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="seq">R O R O R O R LY G O G DG G LY LG</span></span>
+In pattern [RRRRRRRYGRGGGYY](/stripes/rrrrrrrygrgggyy/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10966/
 

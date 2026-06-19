@@ -2,10 +2,9 @@
 title: "MacNaughton"
 date: 2023-03-18
 ---
-**Bands:** [KBRGKBRBKBRBKGRBK](/stripes/kbrgkbrbkbrbkgrbk/) · **Stripes:** [K T R G K T R T K T R T K G R T K](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K T R G K T R T K T R T K G R T K</span></span>
+In pattern [KBRGKBRBKBRBKGRBK](/stripes/kbrgkbrbkbrbkgrbk/).
 
-
-This was sourced from logan-1831.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link /posts/logans-scottish-gael/
 

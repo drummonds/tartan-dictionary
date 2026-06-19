@@ -2,10 +2,9 @@
 title: "Jardine of Castlemilk"
 date: 2023-03-18
 ---
-**Bands:** [RGYKRBYBR](/stripes/rgykrbybr/) · **Stripes:** [R DY LY K R DB LY DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DY LY K R DB LY DB R</span></span>
+In pattern [RBYBRKYGR](/stripes/rbybrkygr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1884
 

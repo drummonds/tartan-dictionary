@@ -2,10 +2,9 @@
 title: "Northfield Academy"
 date: 2023-03-18
 ---
-**Bands:** [RBBBRBBRRBBBBBW](/stripes/rbbbrbbrrbbbbbw/) · **Stripes:** [O DT B DT R B DT R R DT B DT B DT W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O DT B DT R B DT R R DT B DT B DT W</span></span>
+In pattern [RBBBRBBRRBBBBBW](/stripes/rbbbrbbrrbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11490
 

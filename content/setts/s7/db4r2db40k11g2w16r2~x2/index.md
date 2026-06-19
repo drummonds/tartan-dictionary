@@ -2,19 +2,11 @@
 title: "Sinclair, Blue (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWGKBRB](/stripes/rwgkbrb/) · **Stripes:** [R W G K DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W G K DB R DB</span></span>
+In pattern [BRBKGWR](/stripes/brbkgwr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2047/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sinclair, The Jack](/setts/s7/db4r2db39k11g2w16r2~x2/)
-
 
 ## Thread count
 DB/8 DR4 DB80 K22 G4 W32 DR/4

@@ -2,10 +2,9 @@
 title: "MacPhail Hunting #2"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKW](/stripes/rbkgkw/) · **Stripes:** [R DB K G K LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB K G K LB</span></span>
+In pattern [RBKGKW](/stripes/rbkgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2698
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2698](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2698)
 - Scottish Tartans Authority (ITI): 2158
 - Scottish Tartans World Register: 2158
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Naysmith (Name)](/setts/s6/r6db32k18g28k1lb2~x2/)
-
 
 ## Thread count
 R/8 DB48 K24 G28 K8 N/6

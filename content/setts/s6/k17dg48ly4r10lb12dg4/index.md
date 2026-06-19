@@ -2,10 +2,9 @@
 title: "Asheville Firefighters, The"
 date: 2023-03-18
 ---
-**Bands:** [KGYRWG](/stripes/kgyrwg/) · **Stripes:** [K DG LY R LB DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG LY R LB DG</span></span>
+In pattern [GWRYGK](/stripes/gwrygk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10866
 

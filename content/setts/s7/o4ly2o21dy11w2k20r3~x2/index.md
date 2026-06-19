@@ -2,19 +2,11 @@
 title: "Barbour - Classic"
 date: 2023-03-18
 ---
-**Bands:** [RKWGRYR](/stripes/rkwgryr/) · **Stripes:** [R K W DY O LY O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R K W DY O LY O</span></span>
+In pattern [RKWGRYR](/stripes/rkwgryr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2489/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barbour](/setts/s7/r3k20w2dy11o21ly2o2~x2/)
-
 
 ## Thread count
 LT/8 Y4 LT42 T22 W4 K40 R/6

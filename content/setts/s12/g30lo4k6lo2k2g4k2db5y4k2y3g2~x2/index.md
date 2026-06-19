@@ -2,10 +2,9 @@
 title: "Bottle Green (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GYKYKGKBGKGG](/stripes/gykykgkbgkgg/) · **Stripes:** [G LO K LO K G K DB Y K Y G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LO K LO K G K DB Y K Y G</span></span>
+In pattern [GGKGBKGKYKYG](/stripes/ggkgbkgkykyg/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3865/
 

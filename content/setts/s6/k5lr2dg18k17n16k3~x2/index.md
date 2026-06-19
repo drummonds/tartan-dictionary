@@ -2,10 +2,9 @@
 title: "Melville"
 date: 2023-03-18
 ---
-**Bands:** [KYGKBK](/stripes/kygkbk/) · **Stripes:** [K LR DG K N K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">K LR DG K N K</span></span>
+In pattern [KBKGYK](/stripes/kbkgyk/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Melville](/setts/s6/k5lr2dg18k17n16k3/)
-
 
 ## Thread count
 K/10 Na4 DG36 K34 N32 K/6

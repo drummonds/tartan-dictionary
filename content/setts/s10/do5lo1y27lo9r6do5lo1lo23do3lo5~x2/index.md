@@ -2,10 +2,9 @@
 title: "Satisfashion Argyll (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YBYYBRYGYB](/stripes/ybyybrygyb/) · **Stripes:** [LO DO LO LO DO R LO Y LO DO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO LO LO DO R LO Y LO DO</span></span>
+In pattern [BYGYRBYYBY](/stripes/bygyrbyyby/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6516/
 

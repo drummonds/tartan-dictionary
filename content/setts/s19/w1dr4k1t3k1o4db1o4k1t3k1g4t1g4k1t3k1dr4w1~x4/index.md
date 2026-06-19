@@ -2,10 +2,9 @@
 title: "Caribou (District)"
 date: 2023-03-18
 ---
-**Bands:** [WBKBKRBRKBKGBGKBKBW](/stripes/wbkbkrbrkbkgbgkbkbw/) · **Stripes:** [W DR K T K O DB O K T K G T G K T K DR W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DR K T K O DB O K T K G T G K T K DR W</span></span>
+In pattern [WBKBKGBGKBKRBRKBKBW](/stripes/wbkbkgbgkbkrbrkbkbw/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2056/
 

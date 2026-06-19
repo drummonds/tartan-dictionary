@@ -2,10 +2,9 @@
 title: "Wilson's No.094"
 date: 2023-03-18
 ---
-**Bands:** [RGKG](/stripes/rgkg/) · **Stripes:** [R G K G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K G</span></span>
+In pattern [GKGR](/stripes/gkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4672
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4672](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4672)
 - Scottish Tartans Authority (ITI): 1107
 - Scottish Tartans World Register: 1107
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kincaid of Kincaid](/setts/s4/g16k11g16r2~x4/)
-
 
 ## Thread count
 Ga/8 K10 Ga8 R/4

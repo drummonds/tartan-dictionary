@@ -2,10 +2,9 @@
 title: "MacGiboney Clan Tartan Tartan Number: 3839. Earliest known date: 1999 Designed by Greg McGibonney from Fremont, California. The sett shown here was submitted as a woven sample by Greg McGibboney. Colours here are from the woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GWBWYWBWGW](/stripes/gwbwywbwgw/) · **Stripes:** [G LB T LB LY LB T LB G W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G LB T LB LY LB T LB G W</span></span>
+In pattern [GWBWYWBWGW](/stripes/gwbwywbwgw/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3839
 
@@ -14,13 +13,6 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 This cloth is also recorded under:
 
 - MacGiboney Dress
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGiboney Dress](/setts/s10/g5lb5t1lb1ly1lb1t1lb5g5w1~x8/)
-
 
 ## Thread count
 G/20 Na20 B4 Na4 Y4 Na4 B4 Na20 G20 LN/4

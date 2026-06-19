@@ -2,10 +2,9 @@
 title: "Westwood Gordon Pink (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGRGKBKBKB](/stripes/bkbkgrgkbkbkb/) · **Stripes:** [DB K DB K DG R DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG R DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7491/
 
@@ -22,14 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5532)
 - Scottish Tartans Authority (ITI): 7491
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Murray](/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2/)
-- [Murray](/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2~x2/)
-
 
 ## Thread count
 DB/42 K6 DB6 K6 DB6 K40 G36 LR6 G36 K40 DB36 K6 DB/6

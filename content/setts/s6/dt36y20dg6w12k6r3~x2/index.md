@@ -2,10 +2,9 @@
 title: "Sirens & Swords"
 date: 2023-03-18
 ---
-**Bands:** [RKWGGB](/stripes/rkwggb/) · **Stripes:** [R K W DG Y DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">R K W DG Y DT</span></span>
+In pattern [BGGWKR](/stripes/bggwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11641
 

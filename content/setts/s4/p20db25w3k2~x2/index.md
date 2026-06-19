@@ -2,10 +2,9 @@
 title: "Murdoch, Ellis (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWBB](/stripes/kwbb/) · **Stripes:** [K W DB P](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K W DB P</span></span>
+In pattern [BBWK](/stripes/bbwk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5368
 

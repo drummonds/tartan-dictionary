@@ -2,10 +2,9 @@
 title: "Linden"
 date: 2023-03-18
 ---
-**Bands:** [BKGBGKBW](/stripes/bkgbgkbw/) · **Stripes:** [DT K G DP DG K DT LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DT K G DP DG K DT LB</span></span>
+In pattern [BKGBGKBW](/stripes/bkgbgkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2114
 

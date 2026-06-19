@@ -2,19 +2,11 @@
 title: "Innes of Cowie (Clan?)"
 date: 2023-03-18
 ---
-**Bands:** [GKRKRKRWRGRKGKRWRKGKRGRWRKRKRKB](/stripes/gkrkrkrwrgrkgkrwrkgkrgrwrkrkrkb/) · **Stripes:** [G K R K R K R W R G R K G K R W R K G K R G R W R K R K R K DB](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K R K R K R W R G R K G K R W R K G K R G R W R K R K R K DB</span></span>
+In pattern [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKG](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkg/).
 
-
-This was sourced from tartans-authority.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/353/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Innes, of Cowie](/setts/s31/db1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~x2/)
-
 
 ## Thread count
 DB/4 K24 DR4 K4 DR4 K4 DR24 W4 DR8 G12 DR8 K4 G20 K4 DR8 W4 DR8 K4 G20 K4 DR8 G12 DR8 W4 DR24 K4 DR4 K4 DR4 K24 G/4

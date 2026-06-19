@@ -2,10 +2,9 @@
 title: "Connaught"
 date: 2023-03-18
 ---
-**Bands:** [YGYRYGYGYGW](/stripes/ygyrygygygw/) · **Stripes:** [LO G LO R LO G LO DY LO DY W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO G LO R LO G LO DY LO DY W</span></span>
+In pattern [WGYGYGYRYGY](/stripes/wgygygyrygy/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=741
 

@@ -2,10 +2,9 @@
 title: "Malcolm (1840)"
 date: 2023-03-18
 ---
-**Bands:** [KRKYKKGKGKGKGKG](/stripes/krkykkgkgkgkgkg/) · **Stripes:** [K R K LR K K DG K DG K DG K DG K DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K R K LR K K DG K DG K DG K DG K DG</span></span>
+In pattern [GKGKGKGKGKKYKRK](/stripes/gkgkgkgkgkkykrk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6470/
 

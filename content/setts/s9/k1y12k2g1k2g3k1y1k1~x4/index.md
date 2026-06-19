@@ -2,10 +2,9 @@
 title: "Glen Carron (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKGK](/stripes/kgkgkgkgk/) · **Stripes:** [K Y K G K G K Y K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">K Y K G K G K Y K</span></span>
+In pattern [KGKGKGKGK](/stripes/kgkgkgkgk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3851/
 

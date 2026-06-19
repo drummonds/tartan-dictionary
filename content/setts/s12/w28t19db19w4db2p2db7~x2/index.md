@@ -2,10 +2,9 @@
 title: "St. Andrews Dress, Earl of"
 date: 2023-03-18
 ---
-**Bands:** [BBBWBBWBBWBB](/stripes/bbbwbbwbbwbb/) · **Stripes:** [DB P DB W DB T W T DB W DB P](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">DB P DB W DB T W T DB W DB P</span></span>
+In pattern [BBBWBBWBBWBB](/stripes/bbbwbbwbbwbb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3878
 

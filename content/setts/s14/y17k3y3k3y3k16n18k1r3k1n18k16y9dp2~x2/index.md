@@ -2,10 +2,9 @@
 title: "Fleming of Castle Carrick (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBKRKBKGB](/stripes/gkgkgkbkrkbkgb/) · **Stripes:** [Y K Y K Y K N K R K N K Y DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">Y K Y K Y K N K R K N K Y DP</span></span>
+In pattern [BGKBKRKBKGKGKG](/stripes/bgkbkrkbkgkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8086/
 

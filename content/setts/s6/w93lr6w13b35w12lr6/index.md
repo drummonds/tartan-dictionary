@@ -2,10 +2,9 @@
 title: "Butties"
 date: 2023-03-18
 ---
-**Bands:** [YWBWYW](/stripes/ywbwyw/) · **Stripes:** [LR W B W LR W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR W B W LR W</span></span>
+In pattern [WYWBWY](/stripes/wywbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10955
 

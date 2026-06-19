@@ -2,19 +2,11 @@
 title: "Ballindalloch (Estate Check)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKG](/stripes/kgkgkgkg/) · **Stripes:** [K DG K DG K DG K DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K DG K DG</span></span>
+In pattern [GKGKGKGK](/stripes/gkgkgkgk/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3641/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Menzies Green](/setts/s8/k19dg10k6dg10k12dg6k4dg14~x2/)
-
 
 ## Thread count
 K/8 G8 K8 G8 K8 G8 K8 Ga/8

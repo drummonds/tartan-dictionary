@@ -2,10 +2,9 @@
 title: "Kidd"
 date: 2023-03-18
 ---
-**Bands:** [RKWRBKBKBKYGRBR](/stripes/rkwrbkbkbkygrbr/) · **Stripes:** [R K W R T K T K T K LY G R T R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W R T K T K T K LY G R T R</span></span>
+In pattern [RBRGYKBKBKBRWKR](/stripes/rbrgykbkbkbrwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1957
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1957](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1957)
 - Scottish Tartans Authority (ITI): 1409
 - Scottish Tartans World Register: 1409
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson #5](/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/)
-
 
 ## Thread count
 R/28 B6 R24 G32 Y4 K22 B14 K4 B4 K4 B14 R24 LN6 K6 R/8

@@ -2,10 +2,9 @@
 title: "Dunans Rising"
 date: 2023-03-18
 ---
-**Bands:** [GGRBB](/stripes/ggrbb/) · **Stripes:** [G Y M T T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#00879F"></span><span class="seq">G Y M T T</span></span>
+In pattern [BBRGG](/stripes/bbrgg/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10821
 

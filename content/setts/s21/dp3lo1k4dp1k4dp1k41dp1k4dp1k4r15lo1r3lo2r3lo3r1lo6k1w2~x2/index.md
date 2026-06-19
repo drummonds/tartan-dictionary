@@ -2,10 +2,9 @@
 title: "New Star (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BYKBKBKBKBKRYRYRYRYKW](/stripes/bykbkbkbkbkryryryrykw/) · **Stripes:** [DP LO K DP K DP K DP K DP K R LO R LO R LO R LO K W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP LO K DP K DP K DP K DP K R LO R LO R LO R LO K W</span></span>
+In pattern [BYKBKBKBKBKRYRYRYRYKW](/stripes/bykbkbkbkbkryryryrykw/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10144/
 

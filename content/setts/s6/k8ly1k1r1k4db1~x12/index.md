@@ -2,10 +2,9 @@
 title: "Justus"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKB](/stripes/kykrkb/) · **Stripes:** [K LY K R K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LY K R K DB</span></span>
+In pattern [BKRKYK](/stripes/bkrkyk/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

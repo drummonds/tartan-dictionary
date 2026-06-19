@@ -2,10 +2,9 @@
 title: "Drumlithie"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBGBRRBR](/stripes/rrbrbgbrrbr/) · **Stripes:** [R R DP R DP G DP R R DP R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R DP R DP G DP R R DP R</span></span>
+In pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=979
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [979](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=979)
 - Scottish Tartans Authority (ITI): 1414
 - Scottish Tartans World Register: 1414
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Drumlithie Rock and Wheel Tartan Tartan Number: 1414. Earliest known date: pre 2003 tba See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r2dp3r2r15dp3g19dp20r15dp3r2r2~x2/)
-
 
 ## Thread count
 R/4 P6 DO4 R30 P4 G40 P40 R30 P6 DO4 R/4

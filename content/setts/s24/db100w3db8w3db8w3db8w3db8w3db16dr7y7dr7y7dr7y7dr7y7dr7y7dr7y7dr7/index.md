@@ -2,10 +2,9 @@
 title: "Old Glory (1824)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGBGBGBBWBWBWBWBWB](/stripes/bgbgbgbgbgbgbbwbwbwbwbwb/) · **Stripes:** [DR Y DR Y DR Y DR Y DR Y DR Y DR DB W DB W DB W DB W DB W DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DR Y DR Y DR Y DR Y DR Y DR Y DR DB W DB W DB W DB W DB W DB</span></span>
+In pattern [BGBGBGBGBGBGBBWBWBWBWBWB](/stripes/bgbgbgbgbgbgbbwbwbwbwbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11557
 

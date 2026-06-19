@@ -2,10 +2,9 @@
 title: "Carstairs"
 date: 2023-03-18
 ---
-**Bands:** [YWGWBKBKBKBWYG](/stripes/ywgwbkbkbkbwyg/) · **Stripes:** [LO W G W DB K DB K DB K DB W LO G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO W G W DB K DB K DB K DB W LO G</span></span>
+In pattern [GYWBKBKBKBWGWY](/stripes/gywbkbkbkbwgwy/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=581
 

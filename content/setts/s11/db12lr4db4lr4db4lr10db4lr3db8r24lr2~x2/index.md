@@ -2,10 +2,9 @@
 title: "Wcwm 9285 4906-2"
 date: 2023-03-18
 ---
-**Bands:** [YRBYBYBYBYB](/stripes/yrbybybybyb/) · **Stripes:** [LR R DB LR DB LR DB LR DB LR DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">LR R DB LR DB LR DB LR DB LR DB</span></span>
+In pattern [BYBYBYBYBRY](/stripes/bybybybybry/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4576
 

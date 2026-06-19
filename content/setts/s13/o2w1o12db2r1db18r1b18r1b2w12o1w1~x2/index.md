@@ -2,10 +2,9 @@
 title: "International Council for Commercial Arbitration"
 date: 2023-03-18
 ---
-**Bands:** [RWRBRBRBRBWRW](/stripes/rwrbrbrbrbwrw/) · **Stripes:** [O W O DB R DB R B R B W O W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O W O DB R DB R B R B W O W</span></span>
+In pattern [RWRBRBRBRBWRW](/stripes/rwrbrbrbrbwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11554
 

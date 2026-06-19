@@ -2,10 +2,9 @@
 title: "Dewi Sant"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGW](/stripes/grgrgw/) · **Stripes:** [DG R DG R DG W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DG R DG W</span></span>
+In pattern [GRGRGW](/stripes/grgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5904
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5904)
 - Scottish Tartans World Register: 3108
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [St. David's Welsh District Tartan Tartan Number: 5746. Earliest known date: 2002 Representing the colours of Wales, this national tartan is recognised in Wales as The Brithwe Dewi Sant, or The Saint Davids Tartan, exclusively woven in Wales by The Cambrian Woollen Mill, in Llanwrtyd Wells, Powys. Launched at Cardiff Castle in honour of the Welsh Patron Saint, and worn by Welsh folk around the world for special occasions including St Davids Day, March 1st. A differing warp and weft create a vertical stripe in these Welsh Tartans. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dg60r2dg8r1dg5w2/)
-
 
 ## Thread count
 DG/30 DR2 DG8 DR1 DG5 LN/2

@@ -2,10 +2,9 @@
 title: "MacQuarrie 7"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRG](/stripes/rgrgrg/) · **Stripes:** [R DG R DG R DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG R DG</span></span>
+In pattern [GRGRGR](/stripes/grgrgr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -936,15 +935,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine](/setts/s6/dg6r1dg24r28dg1r4~x2/)
-- [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12/)
-- [Unidentified NW Highlands](/setts/s6/dg2r2dg15r16dg2r2~x2/)
-
 
 ## Thread count
 R/32 DG2 R2 DG2 R8 DG/24

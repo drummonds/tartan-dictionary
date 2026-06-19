@@ -2,10 +2,9 @@
 title: "Royal Highland Society (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YGKBKBRB](/stripes/ygkbkbrb/) · **Stripes:** [LY DG K DT K DT R DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">LY DG K DT K DT R DT</span></span>
+In pattern [BRBKBKGY](/stripes/brbkbkgy/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2054/
 

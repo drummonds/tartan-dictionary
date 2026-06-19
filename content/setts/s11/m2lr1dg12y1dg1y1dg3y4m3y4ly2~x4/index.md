@@ -2,10 +2,9 @@
 title: "Tasmanian"
 date: 2023-03-18
 ---
-**Bands:** [RYGGGGGGRGY](/stripes/ryggggggrgy/) · **Stripes:** [M LR DG Y DG Y DG Y M Y LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">M LR DG Y DG Y DG Y M Y LY</span></span>
+In pattern [RYGGGGGGRGY](/stripes/ryggggggrgy/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

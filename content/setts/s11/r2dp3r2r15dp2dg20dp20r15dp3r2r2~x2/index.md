@@ -2,10 +2,9 @@
 title: "Drumlithie - 1790 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBGBRRBR](/stripes/rrbrbgbrrbr/) · **Stripes:** [R R DP R DP DG DP R R DP R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R DP R DP DG DP R R DP R</span></span>
+In pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1414/
 

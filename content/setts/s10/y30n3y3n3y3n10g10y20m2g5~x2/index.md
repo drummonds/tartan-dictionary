@@ -2,10 +2,9 @@
 title: "Roddy's Highland Spirit (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GRGGBGBGBG](/stripes/grggbgbgbg/) · **Stripes:** [G M Y G N Y N Y N Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">G M Y G N Y N Y N Y</span></span>
+In pattern [GBGBGBGGRG](/stripes/gbgbgbggrg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7959/
 

@@ -2,10 +2,9 @@
 title: "Wilson's No.213"
 date: 2023-03-18
 ---
-**Bands:** [RGRYRBRYRGRY](/stripes/rgryrbryrgry/) · **Stripes:** [R DG R LY R DP R LY R DG R LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG R LY R DP R LY R DG R LY</span></span>
+In pattern [RGRYRBRYRGRY](/stripes/rgryrbryrgry/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4744
 

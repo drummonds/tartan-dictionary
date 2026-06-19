@@ -2,10 +2,9 @@
 title: "Birral (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RWBBWBBWGWRRBRRWB](/stripes/rwbbwbbwgwrrbrrwb/) · **Stripes:** [R W DP T W T DP W G W R R DP R R W DP](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R W DP T W T DP W G W R R DP R R W DP</span></span>
+In pattern [BWRRBRRWGWBBWBBWR](/stripes/bwrrbrrwgwbbwbbwr/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/658/
 

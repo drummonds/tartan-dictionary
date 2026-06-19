@@ -2,10 +2,9 @@
 title: "Jones of Wales"
 date: 2023-03-18
 ---
-**Bands:** [GGBGBGBBBBBBBGBGBG](/stripes/ggbgbgbbbbbbbgbgbg/) · **Stripes:** [DG DG DB DG DB DG T DB T DB T DB T DG DB DG DB DG](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DG DG DB DG DB DG T DB T DB T DB T DG DB DG DB DG</span></span>
+In pattern [GBGBGBBBBBBBGBGBGG](/stripes/gbgbgbbbbbbbgbgbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1905
 

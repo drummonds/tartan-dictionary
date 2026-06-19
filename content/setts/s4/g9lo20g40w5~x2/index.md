@@ -2,10 +2,9 @@
 title: "O'Neill"
 date: 2023-03-18
 ---
-**Bands:** [GYGW](/stripes/gygw/) · **Stripes:** [G LO G W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G LO G W</span></span>
+In pattern [GYGW](/stripes/gygw/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

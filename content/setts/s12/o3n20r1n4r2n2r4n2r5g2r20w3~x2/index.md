@@ -2,10 +2,9 @@
 title: "Ryutokukan High School (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRGRW](/stripes/rbrbrbrbrgrw/) · **Stripes:** [O N R N R N R N R G R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O N R N R N R N R G R W</span></span>
+In pattern [RBRBRBRBRGRW](/stripes/rbrbrbrbrgrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10646/
 

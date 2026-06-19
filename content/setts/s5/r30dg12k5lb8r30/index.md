@@ -2,10 +2,9 @@
 title: "Sinclair"
 date: 2023-03-18
 ---
-**Bands:** [RGKWR](/stripes/rgkwr/) · **Stripes:** [R DG K LB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K LB R</span></span>
+In pattern [RGKWR](/stripes/rgkwr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sinclair Dress](/setts/s5/r28dg16k4lb7r28/)
-
 
 ## Thread count
 R/30 G12 K5 N8 R/30

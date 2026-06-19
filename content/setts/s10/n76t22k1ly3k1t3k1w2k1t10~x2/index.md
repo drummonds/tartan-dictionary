@@ -2,10 +2,9 @@
 title: "Canberra, City of"
 date: 2023-03-18
 ---
-**Bands:** [BKWKBKYKBB](/stripes/bkwkbkykbb/) · **Stripes:** [T K W K T K LY K T N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="seq">T K W K T K LY K T N</span></span>
+In pattern [BBKYKBKWKB](/stripes/bbkykbkwkb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=551
 

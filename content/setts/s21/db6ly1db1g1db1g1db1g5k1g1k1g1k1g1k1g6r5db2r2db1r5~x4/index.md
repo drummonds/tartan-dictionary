@@ -2,10 +2,9 @@
 title: "Recovery"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRGKGKGKGKGBGBGBYB](/stripes/rbrbrgkgkgkgkgbgbgbyb/) · **Stripes:** [R DB R DB R G K G K G K G K G DB G DB G DB LY DB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R G K G K G K G K G DB G DB G DB LY DB</span></span>
+In pattern [BYBGBGBGKGKGKGKGRBRBR](/stripes/bybgbgbgkgkgkgkgrbrbr/).
 
-
-This was sourced from weddslist.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

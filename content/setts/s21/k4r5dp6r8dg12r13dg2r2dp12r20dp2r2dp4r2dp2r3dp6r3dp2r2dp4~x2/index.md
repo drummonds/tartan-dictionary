@@ -2,10 +2,9 @@
 title: "Murray of Tullibardine #3"
 date: 2023-03-18
 ---
-**Bands:** [KRBRGRGRBRBRBRBRBRBRB](/stripes/krbrgrgrbrbrbrbrbrbrb/) · **Stripes:** [K R DP R DG R DG R DP R DP R DP R DP R DP R DP R DP](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K R DP R DG R DG R DP R DP R DP R DP R DP R DP R DP</span></span>
+In pattern [BRBRBRBRBRBRBRGRGRBRK](/stripes/brbrbrbrbrbrbrgrgrbrk/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3073
 

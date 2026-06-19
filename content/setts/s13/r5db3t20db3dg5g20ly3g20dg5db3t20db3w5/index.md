@@ -2,10 +2,9 @@
 title: "Hosey"
 date: 2023-03-18
 ---
-**Bands:** [RBBBGGYGGBBBW](/stripes/rbbbggyggbbbw/) · **Stripes:** [R DB T DB DG G LY G DG DB T DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB T DB DG G LY G DG DB T DB W</span></span>
+In pattern [RBBBGGYGGBBBW](/stripes/rbbbggyggbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1770
 

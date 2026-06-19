@@ -2,10 +2,9 @@
 title: "Gleneagles, Hotel"
 date: 2023-03-18
 ---
-**Bands:** [KGKGWGK](/stripes/kgkgwgk/) · **Stripes:** [K Y K Y W Y K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">K Y K Y W Y K</span></span>
+In pattern [KGKGWGK](/stripes/kgkgwgk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "MacPherson Dress Clan Tartan Tartan Number: 3246. Earliest known date: 1842 This version was recorded in the STS Sindex without the suffix, 'Dress', and with red in place of purple. Manufacturers have constistantly produced a MacPherson Dress with double purple stripes. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWKWKYKWKWRW](/stripes/rwkwkykwkwrw/) · **Stripes:** [M W K W K LY K W K W M W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M W K W K LY K W K W M W</span></span>
+In pattern [RWKWKYKWKWRW](/stripes/rwkwkykwkwrw/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3246
 

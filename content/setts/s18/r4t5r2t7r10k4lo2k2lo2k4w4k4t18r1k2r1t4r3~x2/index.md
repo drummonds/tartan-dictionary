@@ -2,10 +2,9 @@
 title: "Anderson Red (Westwood) (Estimated threadcount)"
 date: 2023-03-18
 ---
-**Bands:** [RBRKRBKWKYKYKRBRBR](/stripes/rbrkrbkwkykykrbrbr/) · **Stripes:** [R T R K R T K W K LO K LO K R T R T R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T R K R T K W K LO K LO K R T R T R</span></span>
+In pattern [RBRBRKYKYKWKBRKRBR](/stripes/rbrbrkykykwkbrkrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5145
 

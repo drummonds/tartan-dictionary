@@ -2,10 +2,9 @@
 title: "Mull"
 date: 2023-03-18
 ---
-**Bands:** [KGB](/stripes/kgb/) · **Stripes:** [K G T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K G T</span></span>
+In pattern [BGK](/stripes/bgk/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3043
 
@@ -901,15 +900,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glen Lyon (District)](/setts/s3/k5g4t3~x2/)
-- [Glen Lyon, or Mull (No.53)](/setts/s3/k5g3t2~x2/)
-- [Wilson's No.050](/setts/s3/k5g6t1~x4/)
-
 
 ## Thread count
 K/10 G8 B/4

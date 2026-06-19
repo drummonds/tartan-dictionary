@@ -2,10 +2,9 @@
 title: "Apache North Sea Commemorative Tartan Tartan Number: 6447. Earliest known date: 2004 50th Anniversary tartan of Apache North Sea Ltd, Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YBYBRKKBRKRBKBRKRBKKRBYB](/stripes/ybybrkkbrkrbkbrkrbkkrbyb/) · **Stripes:** [LY DP LY DT O K K DT O K O DT K DT O K O DT K K O DT LY DP](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY DP LY DT O K K DT O K O DT K DT O K O DT K K O DT LY DP</span></span>
+In pattern [BYBRKKBRKRBKBRKRBKKRBYBY](/stripes/bybrkkbrkrbkbrkrbkkrbyby/).
 
-
-This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6447
 

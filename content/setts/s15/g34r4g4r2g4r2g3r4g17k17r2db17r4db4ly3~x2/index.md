@@ -2,20 +2,11 @@
 title: "Cochrane (1984) Clan Tartan Tartan Number: 978. Earliest known date: 1984 Lord Dundonald originally registered a version missing a red and a green stripe in 1974. There is a story that a fragment of this design was discovered in the foundations of a Perthshire house in 1934. Around that time, a count was recorded from the sample books of Messrs William Anderson. The red and green have been restored in this version, which is now the 'approved' tartan, and appears in the 'Appendix' of the Lyon Court Books dated 12th November 1984. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRKGRGRGRGRG](/stripes/ybrbrkgrgrgrgrg/) · **Stripes:** [LY DB R DB R K G R G R G R G R G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB R DB R K G R G R G R G R G</span></span>
+In pattern [GRGRGRGRGKRBRBY](/stripes/grgrgrgrgkrbrby/).
 
-
-This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cochrane](/setts/s15/g34r4g3r2g4r2g3r4g17k17r2db17r4db4ly3~x2/)
-- [Cochrane](/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/)
-
 
 ## Thread count
 G/68 R8 G8 R4 G8 R4 G6 R8 G34 K34 R4 DB34 R8 DB8 Y/6

@@ -2,10 +2,9 @@
 title: "MacDougall (Kinloch Anderson)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRKRRRRRGRRRR](/stripes/rrrrkrrrrrgrrrr/) · **Stripes:** [R R R R K R R R R R DG R R R R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R K R R R R R DG R R R R</span></span>
+In pattern [RRRRGRRRRRKRRRR](/stripes/rrrrgrrrrrkrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2393
 

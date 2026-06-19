@@ -2,10 +2,9 @@
 title: "Tupper., Sir Charles.."
 date: 2023-03-18
 ---
-**Bands:** [RGRBRGRYRB](/stripes/rgrbrgryrb/) · **Stripes:** [O G O DB O G O LY O DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">O G O DB O G O LY O DB</span></span>
+In pattern [BRYRGRBRGR](/stripes/bryrgrbrgr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

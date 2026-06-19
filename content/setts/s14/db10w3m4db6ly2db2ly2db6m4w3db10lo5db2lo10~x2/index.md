@@ -2,10 +2,9 @@
 title: "Denver Broncos (Sports)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBWRBYBYBRWB](/stripes/ybybwrbybybrwb/) · **Stripes:** [LO DB LO DB W M DB LY DB LY DB M W DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB LO DB W M DB LY DB LY DB M W DB</span></span>
+In pattern [BWRBYBYBRWBYBY](/stripes/bwrbybybrwbyby/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8221/
 

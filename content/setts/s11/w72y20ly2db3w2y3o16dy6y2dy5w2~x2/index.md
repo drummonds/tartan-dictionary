@@ -2,10 +2,9 @@
 title: "Stewart Blue Dress Clan Tartan Tartan Number: 1794. Earliest known date: 1977 May have originated at Peter MacArthurs in the 1970s, but was very popular at Kinloch Andersons shop in Leith. Information from Colin Hutcheson. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WGYBWGRGGGW](/stripes/wgybwgrgggw/) · **Stripes:** [W Y LY DB W Y O DY Y DY W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W Y LY DB W Y O DY Y DY W</span></span>
+In pattern [WGGGRGWBYGW](/stripes/wgggrgwbygw/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1794
 

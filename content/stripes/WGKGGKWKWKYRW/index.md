@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wgkggkwkwkyrw/
 ---
-WGKGGKWKWKYRW
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-WGKGGKWKWKYRW
+
+{{< pat "WGKGGKWKWKYRW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### W O LY K W K W K G Y K Y W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O LY K W K W K G Y K Y W</span></span>
 
 | Tartans |
 |---------------|
 | [O'Farrell](/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/)|
 |![O'Farrell example sett](/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/sett.png)|
-

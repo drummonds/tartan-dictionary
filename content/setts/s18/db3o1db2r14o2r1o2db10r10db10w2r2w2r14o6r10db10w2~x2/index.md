@@ -2,10 +2,9 @@
 title: "Ensemble Pour L'Avenir"
 date: 2023-03-18
 ---
-**Bands:** [BRBRRRRBRBWRWRRRBW](/stripes/brbrrrrbrbwrwrrrbw/) · **Stripes:** [DB O DB R O R O DB R DB W R W R O R DB W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB O DB R O R O DB R DB W R W R O R DB W</span></span>
+In pattern [BRBRRRRBRBWRWRRRBW](/stripes/brbrrrrbrbwrwrrrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1113
 

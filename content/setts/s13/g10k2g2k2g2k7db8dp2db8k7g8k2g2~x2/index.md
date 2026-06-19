@@ -2,10 +2,9 @@
 title: "Lochinvar Marine Harvest"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBBBKGKG](/stripes/gkgkgkbbbkgkg/) · **Stripes:** [G K G K G K DB DP DB K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G K DB DP DB K G K G</span></span>
+In pattern [GKGKBBBKGKGKG](/stripes/gkgkbbbkgkgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2174
 

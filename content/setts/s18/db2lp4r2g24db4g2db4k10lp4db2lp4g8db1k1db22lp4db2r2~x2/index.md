@@ -2,10 +2,9 @@
 title: "Couper of Gogar"
 date: 2023-03-18
 ---
-**Bands:** [RBWBKBGWBWKBGBGRWB](/stripes/rbwbkbgwbwkbgbgrwb/) · **Stripes:** [R DB LP DB K DB G LP DB LP K DB G DB G R LP DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LP DB K DB G LP DB LP K DB G DB G R LP DB</span></span>
+In pattern [BWRGBGBKWBWGBKBWBR](/stripes/bwrgbgbkwbwgbkbwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=778
 

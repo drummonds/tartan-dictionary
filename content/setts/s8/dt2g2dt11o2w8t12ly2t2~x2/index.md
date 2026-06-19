@@ -2,10 +2,9 @@
 title: "Elora (District)"
 date: 2023-03-18
 ---
-**Bands:** [BYBWRBGB](/stripes/bybwrbgb/) · **Stripes:** [T LY T W O DT G DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">T LY T W O DT G DT</span></span>
+In pattern [BGBRWBYB](/stripes/bgbrwbyb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8812/
 

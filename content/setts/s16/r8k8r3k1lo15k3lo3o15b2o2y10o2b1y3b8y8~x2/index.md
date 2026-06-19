@@ -2,10 +2,9 @@
 title: "Du Lion"
 date: 2023-03-18
 ---
-**Bands:** [RKRKYKYRBRGRBGBG](/stripes/rkrkykyrbrgrbgbg/) · **Stripes:** [R K R K LO K LO O B O Y O B Y B Y](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R K R K LO K LO O B O Y O B Y B Y</span></span>
+In pattern [GBGBRGRBRYKYKRKR](/stripes/gbgbrgrbrykykrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10905
 

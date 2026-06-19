@@ -2,10 +2,9 @@
 title: "Laird Abdullah (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKRKR](/stripes/kbkbkrkr/) · **Stripes:** [K N K N K R K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K N K N K R K R</span></span>
+In pattern [KBKBKRKR](/stripes/kbkbkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2029
 

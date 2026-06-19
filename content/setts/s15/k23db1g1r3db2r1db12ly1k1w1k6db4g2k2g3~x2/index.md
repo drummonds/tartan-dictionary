@@ -2,10 +2,9 @@
 title: "Astrobiology"
 date: 2023-03-18
 ---
-**Bands:** [KBGRBRBYKWKBGKG](/stripes/kbgrbrbykwkbgkg/) · **Stripes:** [K DB G R DB R DB LY K W K DB G K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB G R DB R DB LY K W K DB G K G</span></span>
+In pattern [GKGBKWKYBRBRGBK](/stripes/gkgbkwkybrbrgbk/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11657
 

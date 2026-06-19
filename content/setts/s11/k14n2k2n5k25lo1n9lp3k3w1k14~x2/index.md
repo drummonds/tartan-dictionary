@@ -2,10 +2,9 @@
 title: "Springbank"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKYBWKWK](/stripes/kbkbkybwkwk/) · **Stripes:** [K N K N K LO N LP K W K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K N K N K LO N LP K W K</span></span>
+In pattern [KBKBKYBWKWK](/stripes/kbkbkybwkwk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8611/
 

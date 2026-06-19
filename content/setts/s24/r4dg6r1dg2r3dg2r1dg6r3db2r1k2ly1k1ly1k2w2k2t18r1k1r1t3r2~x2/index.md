@@ -2,10 +2,9 @@
 title: "Anderson (MacGregor-Hastie #4)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRBRKYKYKWKBRKRBR](/stripes/rgrgrgrgrbrkykykwkbrkrbr/) · **Stripes:** [R DG R DG R DG R DG R DB R K LY K LY K W K T R K R T R](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DG R DG R DB R K LY K LY K W K T R K R T R</span></span>
+In pattern [RBRKRBKWKYKYKRBRGRGRGRGR](/stripes/rbrkrbkwkykykrbrgrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=83
 

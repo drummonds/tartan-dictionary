@@ -2,10 +2,9 @@
 title: "Livingstone"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRG](/stripes/rgrgrgrgrg/) · **Stripes:** [R DG R DG R DG R DG R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG R DG R DG R DG</span></span>
+In pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2134
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2134](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2134)
 - Scottish Tartans World Register: 895
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Donachie of Brockloch (Clan)](/setts/s10/r24dg2r2dg20r25dg2r2dg2r2dg20~x2/)
-
 
 ## Thread count
 G/28 R8 G4 R4 G4 R8 G38 R60 G4 R/18

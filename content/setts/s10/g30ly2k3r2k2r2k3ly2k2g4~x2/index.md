@@ -2,10 +2,9 @@
 title: "Forde"
 date: 2023-03-18
 ---
-**Bands:** [GKYKRKRKYG](/stripes/gkykrkrkyg/) · **Stripes:** [G K LY K R K R K LY G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K LY K R K R K LY G</span></span>
+In pattern [GKYKRKRKYG](/stripes/gkykrkrkyg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1228
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1228](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1228)
 - Scottish Tartans Authority (ITI): 829
 - Scottish Tartans World Register: 829
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Forde Irish Family Tartan Tartan Number: 829. Earliest known date: c1890 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19thC See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g16ly1k2r1k1r1k2ly1k1g1~x4/)
-
 
 ## Thread count
 G/60 Y4 K6 R4 K4 R4 K6 Y4 K4 G/8

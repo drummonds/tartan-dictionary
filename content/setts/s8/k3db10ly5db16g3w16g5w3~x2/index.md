@@ -2,19 +2,11 @@
 title: "Ship Hector, The (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [KBYBGWGW](/stripes/kbybgwgw/) · **Stripes:** [K DB LY DB G W G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB LY DB G W G W</span></span>
+In pattern [KBYBGWGW](/stripes/kbybgwgw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2597/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ship Hector](/setts/s8/k4db9ly6db22g4w20g6w4/)
-
 
 ## Thread count
 K/6 DB20 Y10 DB32 G6 W32 G10 W/6

@@ -2,10 +2,9 @@
 title: "Sligo County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YKYKYKWRGKY](/stripes/ykykykwrgky/) · **Stripes:** [LO K LR K LR K W R Y K LR](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LO K LR K LR K W R Y K LR</span></span>
+In pattern [YKGRWKYKYKY](/stripes/ykgrwkykyky/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7431/
 

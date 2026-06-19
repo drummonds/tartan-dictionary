@@ -2,10 +2,9 @@
 title: "MacKellar, dress"
 date: 2023-03-18
 ---
-**Bands:** [RWRYRWRBGWG](/stripes/rwryrwrbgwg/) · **Stripes:** [O W O LY O W O DR Y W Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O W O LY O W O DR Y W Y</span></span>
+In pattern [GWGBRWRYRWR](/stripes/gwgbrwryrwr/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

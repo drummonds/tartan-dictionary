@@ -2,10 +2,9 @@
 title: "Welly (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWRBRWWBWWBBWRBWBW](/stripes/rwrbrwwbwwbbwrbwbw/) · **Stripes:** [O LP O B O W LP B W LP B DP LP O N LP B W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O LP O B O W LP B W LP B DP LP O N LP B W</span></span>
+In pattern [RWRBRWWBWWBBWRBWBW](/stripes/rwrbrwwbwwbbwrbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10413/
 

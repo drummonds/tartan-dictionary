@@ -2,10 +2,9 @@
 title: "Pitlochry (District)"
 date: 2023-03-18
 ---
-**Bands:** [YGBGBGYGBGBGBGB](/stripes/ygbgbgygbgbgbgb/) · **Stripes:** [LO DG DP DG DB DG LR DG DB DG DP DG DP DG DP](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO DG DP DG DB DG LR DG DB DG DP DG DP DG DP</span></span>
+In pattern [BGBGBGBGYGBGBGY](/stripes/bgbgbgbgygbgbgy/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10172/
 

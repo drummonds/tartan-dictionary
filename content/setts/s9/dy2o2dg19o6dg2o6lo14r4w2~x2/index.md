@@ -2,19 +2,11 @@
 title: "Royal Pharmaceutical Society (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRYRW](/stripes/grgrgryrw/) · **Stripes:** [DY O DG O DG O LO R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DY O DG O DG O LO R W</span></span>
+In pattern [GRGRGRYRW](/stripes/grgrgryrw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2091/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Royal Pharmaceutical Society](/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/)
-
 
 ## Thread count
 T/4 N4 DG38 N12 DG4 N12 LT28 DR8 LN/4

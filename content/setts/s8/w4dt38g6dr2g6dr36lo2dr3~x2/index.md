@@ -2,10 +2,9 @@
 title: "Scotland 2000"
 date: 2023-03-18
 ---
-**Bands:** [BYBGBGBW](/stripes/bybgbgbw/) · **Stripes:** [DR LO DR G DR G DT W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DR LO DR G DR G DT W</span></span>
+In pattern [BYBGBGBW](/stripes/bybgbgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3677
 

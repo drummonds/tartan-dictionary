@@ -2,10 +2,9 @@
 title: "Un-named fashion (2013)"
 date: 2023-03-18
 ---
-**Bands:** [KWKBRBWBRBRKRKRBRKW](/stripes/kwkbrbwbrbrkrkrbrkw/) · **Stripes:** [K W K DP O DP LB DP O DP O K O K O DP O K W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K DP O DP LB DP O DP O K O K O DP O K W</span></span>
+In pattern [KWKBRBWBRBRKRKRBRKW](/stripes/kwkbrbwbrbrkrkrbrkw/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8692/
 

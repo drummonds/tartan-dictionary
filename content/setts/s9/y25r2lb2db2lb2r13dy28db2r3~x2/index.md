@@ -2,10 +2,9 @@
 title: "Brousseau (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGRWBWRG](/stripes/rbgrwbwrg/) · **Stripes:** [R DB DY R LB DB LB R Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R DB DY R LB DB LB R Y</span></span>
+In pattern [GRWBWRGBR](/stripes/grwbwrgbr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8907/
 

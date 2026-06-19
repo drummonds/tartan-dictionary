@@ -2,10 +2,9 @@
 title: "Allen (1996)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGRGWG](/stripes/kbkbkgrgwg/) · **Stripes:** [K DB K DB K G R G W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K DB K G R G W G</span></span>
+In pattern [GWGRGKBKBK](/stripes/gwgrgkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=55
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [55](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=55)
 - Scottish Tartans Authority (ITI): 2519
 - Scottish Tartans World Register: 2519
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Allon/Allan](/setts/s10/g8w1g1r1g4k4db8k1db1k1~x2/)
-
 
 ## Thread count
 G/32 W4 G4 DR4 G16 K16 DB32 K4 DB4 K/4

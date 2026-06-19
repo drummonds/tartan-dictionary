@@ -2,10 +2,9 @@
 title: "Dutch Friendship"
 date: 2023-03-18
 ---
-**Bands:** [KGRGRKGGKB](/stripes/kgrgrkggkb/) · **Stripes:** [K DY O DY O K Y Y K N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K DY O DY O K Y Y K N</span></span>
+In pattern [BKGGKRGRGK](/stripes/bkggkrgrgk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1056
 

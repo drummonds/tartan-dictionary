@@ -2,10 +2,9 @@
 title: "Thomson Camel"
 date: 2023-03-18
 ---
-**Bands:** [RYKWKW](/stripes/rykwkw/) · **Stripes:** [R LO K W K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LO K W K W</span></span>
+In pattern [RYKWKW](/stripes/rykwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4121
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4121](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4121)
 - Scottish Tartans Authority (ITI): 2421
 - Scottish Tartans World Register: 2421
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Thompson Camel Clan Tartan Tartan Number: 2421. Earliest known date: 1967 Designed by Scotty Thompson. It it a simple colour variation on the usual blue Thompson, but is often confused with the Burberry Check. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r2lo20k5w10k10w2~x2/)
-
 
 ## Thread count
 R/8 LT60 K12 LN26 K26 LN/6

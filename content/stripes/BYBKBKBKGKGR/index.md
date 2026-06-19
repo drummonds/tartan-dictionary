@@ -4,21 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/bybkbkbkgkgr/
 ---
-BYBKBKBKGKGR
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-BYBKBKBKGKGR
+
+{{< pat "BYBKBKBKGKGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG K DG K DB K DB K DB LR DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG K DG K DB K DB K DB LR DB</span></span>
 
 | Tartans |
 |---------------|
@@ -26,4 +21,3 @@ BYBKBKBKGKGR
 |![Urquhart example sett](/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2~x2/sett.png)|
 | [Urquhart](/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2/)|
 |![Urquhart example sett](/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Cascade Summers"
 date: 2023-03-18
 ---
-**Bands:** [KBRBKWKBGRYB](/stripes/kbrbkwkbgryb/) · **Stripes:** [K B O B K LB K B G O LG B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B O B K LB K B G O LG B</span></span>
+In pattern [BYRGBKWKBRBK](/stripes/byrgbkwkbrbk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=585
 

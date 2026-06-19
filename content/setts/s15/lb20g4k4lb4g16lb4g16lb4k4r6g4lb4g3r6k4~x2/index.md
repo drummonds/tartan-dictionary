@@ -2,10 +2,9 @@
 title: "Gayre"
 date: 2023-03-18
 ---
-**Bands:** [KRGWGRKWGWGWKGW](/stripes/krgwgrkwgwgwkgw/) · **Stripes:** [K R G LB G R K LB G LB G LB K G LB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K R G LB G R K LB G LB G LB K G LB</span></span>
+In pattern [KRGWGRKWGWGWKGW](/stripes/krgwgrkwgwgwkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1319
 

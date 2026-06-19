@@ -2,10 +2,9 @@
 title: "Finzean's Fancy"
 date: 2023-03-18
 ---
-**Bands:** [WYRKBYRKRYGWKRBW](/stripes/wyrkbyrkrygwkrbw/) · **Stripes:** [LB LO R K T LO R K R LO G LB K R DR LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB LO R K T LO R K R LO G LB K R DR LB</span></span>
+In pattern [WBRKWGYRKRYBKRYW](/stripes/wbrkwgyrkrybkryw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186
 

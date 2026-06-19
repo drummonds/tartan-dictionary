@@ -2,10 +2,9 @@
 title: "Fraser Dress"
 date: 2023-03-18
 ---
-**Bands:** [KWGRKR](/stripes/kwgrkr/) · **Stripes:** [K W DG R K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W DG R K R</span></span>
+In pattern [KWGRKR](/stripes/kwgrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1253
 

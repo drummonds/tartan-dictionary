@@ -2,19 +2,11 @@
 title: "Queen Alexandra (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYRGRG](/stripes/ryryryrgrg/) · **Stripes:** [R LR R LR R LR R DG R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R LR R LR R LR R DG R DG</span></span>
+In pattern [GRGRYRYRYR](/stripes/grgryryryr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/972/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Queen Alexandra](/setts/s10/dg4r2dg2r16lr2r3lr2r3lr8r3~x2/)
-
 
 ## Thread count
 G/16 R8 G8 R64 N8 R12 N8 R12 N32 R/12

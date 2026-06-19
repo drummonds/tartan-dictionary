@@ -2,10 +2,9 @@
 title: "MacDonald 4"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGKRBRBRB](/stripes/grgrgkrbrbrb/) · **Stripes:** [G R G R G K R DB R DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G K R DB R DB R DB</span></span>
+In pattern [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,19 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald](/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/)
-- [MacDonald 2](/setts/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/)
-- [MacDonald 3](/setts/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/)
-- [MacDonald 5](/setts/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/)
-- [MacDonald 7](/setts/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/)
-- [MacDonald 8](/setts/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/)
-- [MacDonald MINI Design Tartan Tartan Number: 4199. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 419 MacDonald. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db8r2db2r3db12r2k12g12r3g2r2g8/)
-
 
 ## Thread count
 G/34 R4 G4 R12 G64 K68 R4 B64 R12 B4 R4 B/34

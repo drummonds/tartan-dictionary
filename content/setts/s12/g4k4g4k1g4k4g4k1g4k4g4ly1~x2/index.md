@@ -2,10 +2,9 @@
 title: "Norwich No.039 (Mackinlay)"
 date: 2023-03-18
 ---
-**Bands:** [YGKGKGKGKGKG](/stripes/ygkgkgkgkgkg/) · **Stripes:** [LY G K G K G K G K G K G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G K G K G K G K G K G</span></span>
+In pattern [GKGKGKGKGKGY](/stripes/gkgkgkgkgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3183
 

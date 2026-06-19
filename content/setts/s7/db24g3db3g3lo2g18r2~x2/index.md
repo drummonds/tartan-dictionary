@@ -2,10 +2,9 @@
 title: "Greenways Marketing Intl (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGYGBGB](/stripes/rgygbgb/) · **Stripes:** [R G LO G DB G DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R G LO G DB G DB</span></span>
+In pattern [BGBGYGR](/stripes/bgbgygr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5116/
 

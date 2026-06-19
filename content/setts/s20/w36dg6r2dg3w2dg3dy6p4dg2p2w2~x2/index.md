@@ -2,10 +2,9 @@
 title: "Strathyre Dress District Tartan Tartan Number: 3227. Earliest known date: 1996 From Dalgleish May, 1996. Stewart Modern. Could be Dancers' Fancy. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGWGGBGBWBGBGGWGRGW](/stripes/grgwggbgbwbgbggwgrgw/) · **Stripes:** [DG R DG W DG DY P DG P W P DG P DY DG W DG R DG W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DG W DG DY P DG P W P DG P DY DG W DG R DG W</span></span>
+In pattern [GRGWGGBGBWBGBGGWGRGW](/stripes/grgwggbgbwbgbggwgrgw/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3227
 

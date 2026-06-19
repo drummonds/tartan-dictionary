@@ -2,10 +2,9 @@
 title: "Bog Myrtle Corner"
 date: 2023-03-18
 ---
-**Bands:** [BKGKBBWGWGWYKYKYB](/stripes/bkgkbbwgwgwykykyb/) · **Stripes:** [N K DG K N DB W DG W DG W LY K LY K LY DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">N K DG K N DB W DG W DG W LY K LY K LY DB</span></span>
+In pattern [BKGKBBWGWGWYKYKYB](/stripes/bkgkbbwgwgwykykyb/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11367
 

@@ -2,10 +2,9 @@
 title: "Golden Heather, The"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYRYYY](/stripes/ryryryryyy/) · **Stripes:** [R LY O LY R LO R LO LO LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LY O LY R LO R LO LO LY</span></span>
+In pattern [RYRYRYRYYY](/stripes/ryryryryyy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1445
 

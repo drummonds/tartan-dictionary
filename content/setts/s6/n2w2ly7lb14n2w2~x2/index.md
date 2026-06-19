@@ -2,10 +2,9 @@
 title: "Cairngorm"
 date: 2023-03-18
 ---
-**Bands:** [BWYWBW](/stripes/bwywbw/) · **Stripes:** [N W LY LB N W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N W LY LB N W</span></span>
+In pattern [BWYWBW](/stripes/bwywbw/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

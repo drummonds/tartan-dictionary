@@ -2,10 +2,9 @@
 title: "Campbell of Argyll #2"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKWKGKBKBKBKBKBKGKYKGKBKB](/stripes/kbkgkwkgkbkbkbkbkbkgkykgkbkb/) · **Stripes:** [K B K G K W K G K B K B K B K B K B K G K LY K G K B K B](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B K G K W K G K B K B K B K B K B K G K LY K G K B K B</span></span>
+In pattern [BKBKGKYKGKBKBKBKBKBKGKWKGKBK](/stripes/bkbkgkykgkbkbkbkbkbkgkwkgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=512
 

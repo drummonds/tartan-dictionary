@@ -2,10 +2,9 @@
 title: "Gillies, dress Red"
 date: 2023-03-18
 ---
-**Bands:** [YKRGRKWBWB](/stripes/ykrgrkwbwb/) · **Stripes:** [LY K R G R K W T W T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY K R G R K W T W T</span></span>
+In pattern [BWBWKRGRKY](/stripes/bwbwkrgrky/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

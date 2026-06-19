@@ -2,10 +2,9 @@
 title: "Monaghan, County (District)"
 date: 2023-03-18
 ---
-**Bands:** [YBRYBGRBY](/stripes/ybrybgrby/) · **Stripes:** [LO DO O LO DO DG O DO LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DO O LO DO DG O DO LO</span></span>
+In pattern [YBRGBYRBY](/stripes/ybrgbyrby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2267/
 

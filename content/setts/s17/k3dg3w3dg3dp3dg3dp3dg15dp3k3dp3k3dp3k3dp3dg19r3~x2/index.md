@@ -2,10 +2,9 @@
 title: "MacGlynn"
 date: 2023-03-18
 ---
-**Bands:** [KGWGBGBGBKBKBKBGR](/stripes/kgwgbgbgbkbkbkbgr/) · **Stripes:** [K DG W DG DP DG DP DG DP K DP K DP K DP DG R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG W DG DP DG DP DG DP K DP K DP K DP DG R</span></span>
+In pattern [KGWGBGBGBKBKBKBGR](/stripes/kgwgbgbgbkbkbkbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2447
 

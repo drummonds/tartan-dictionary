@@ -2,10 +2,9 @@
 title: "Snowy Owl"
 date: 2023-03-18
 ---
-**Bands:** [WKBKBBBBRBRWRW](/stripes/wkbkbbbbrbrwrw/) · **Stripes:** [W K DO K DO N DO N O N O W O W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K DO K DO N DO N O N O W O W</span></span>
+In pattern [WKBKBBBBRBRWRW](/stripes/wkbkbbbbrbrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10164
 

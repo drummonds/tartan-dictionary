@@ -2,19 +2,11 @@
 title: "Azabu Tailor (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/) · **Stripes:** [K DB K DB K DB K DB K DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K DB K DB K DB K</span></span>
+In pattern [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10994/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Azabu Tailor](/setts/s11/k17db39k20db4k2db3k4db3k2db4k3~x4/)
-
 
 ## Thread count
 K/66 DB155 K80 DB16 K8 DB12 K16 DB12 K8 DB16 K/12

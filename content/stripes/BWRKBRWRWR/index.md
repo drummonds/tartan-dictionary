@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bwrkbrwrwr/
 ---
-BWRKBRWRWR
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BWRKBRWRWR
+
+{{< pat "BWRKBRWRWR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### O W O W O B K O W B <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">O W O W O B K O W B</span></span>
 
 | Tartans |
 |---------------|
 | [City of Pointe-Claire](/setts/s10/b4w1o1k2b4o2w1o1w1o1~x4/)|
 |![City of Pointe-Claire example sett](/setts/s10/b4w1o1k2b4o2w1o1w1o1~x4/sett.png)|
-

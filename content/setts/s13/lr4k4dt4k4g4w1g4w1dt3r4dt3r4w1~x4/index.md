@@ -2,10 +2,9 @@
 title: "Stanners (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKBKGWGWBRBRW](/stripes/ykbkgwgwbrbrw/) · **Stripes:** [LR K DT K G W G W DT R DT R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR K DT K G W G W DT R DT R W</span></span>
+In pattern [WRBRBWGWGKBKY](/stripes/wrbrbwgwgkbky/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10096
 

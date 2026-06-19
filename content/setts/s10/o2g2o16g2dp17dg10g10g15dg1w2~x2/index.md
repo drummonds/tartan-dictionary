@@ -2,10 +2,9 @@
 title: "Grewar (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGBGGGGW](/stripes/rgrgbggggw/) · **Stripes:** [O G O G DP DG G G DG W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O G O G DP DG G G DG W</span></span>
+In pattern [RGRGBGGGGW](/stripes/rgrgbggggw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7675/
 

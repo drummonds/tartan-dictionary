@@ -2,10 +2,9 @@
 title: "MacIntosh"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRGRBR](/stripes/rbrgrbrgrbr/) · **Stripes:** [R DB R G R DB R G R DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R G R DB R G R DB R</span></span>
+In pattern [RBRGRBRGRBR](/stripes/rbrgrbrgrbr/).
 
-
-This was sourced from logan-1831.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link /posts/logans-scottish-gael/
 

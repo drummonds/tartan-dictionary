@@ -2,10 +2,9 @@
 title: "MacLean of Duart 1"
 date: 2023-03-18
 ---
-**Bands:** [KRBRGKWKYKB](/stripes/krbrgkwkykb/) · **Stripes:** [K R T R G K W K LY K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R T R G K W K LY K T</span></span>
+In pattern [BKYKWKGRBRK](/stripes/bkykwkgrbrk/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,15 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLean of Duart 2](/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/)
-- [MacLean of Duart 3](/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/)
-- [MacLean of Duart 4](/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/)
-
 
 ## Thread count
 B/26 K12 Y4 K6 LN8 K6 G44 R62 B6 R8 K/4

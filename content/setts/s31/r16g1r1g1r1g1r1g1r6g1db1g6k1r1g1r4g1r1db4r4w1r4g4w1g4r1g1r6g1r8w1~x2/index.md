@@ -2,10 +2,9 @@
 title: "MacDonald of Staffa (Smith's)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRGBGKRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrgbgkrgrgrbrwrgwgrgrgrw/) · **Stripes:** [R G R G R G R G R G DB G K R G R G R DB R W R G W G R G R G R W](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R G R G R G R G DB G K R G R G R DB R W R G W G R G R G R W</span></span>
+In pattern [RGRGRGRGRGBGKRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrgbgkrgrgrbrwrgwgrgrgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2373
 

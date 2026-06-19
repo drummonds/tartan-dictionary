@@ -2,10 +2,9 @@
 title: "Ayrshire"
 date: 2023-03-18
 ---
-**Bands:** [YGKBBBB](/stripes/ygkbbbb/) · **Stripes:** [LY G K DB T DB P](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY G K DB T DB P</span></span>
+In pattern [BBBBKGY](/stripes/bbbbkgy/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Renfrewshire Tartan](/setts/s7/p4db2t8db25k8g13ly4~x2/)
-
 
 ## Thread count
 P/22 B4 Ba8 B42 K32 G38 Y/8

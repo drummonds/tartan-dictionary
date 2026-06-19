@@ -2,10 +2,9 @@
 title: "Dark Lochnagar"
 date: 2023-03-18
 ---
-**Bands:** [RRRBRBBBRB](/stripes/rrrbrbbbrb/) · **Stripes:** [O R O N O DO N DO O DO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">O R O N O DO N DO O DO</span></span>
+In pattern [BRBBBRBRRR](/stripes/brbbbrbrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=890
 

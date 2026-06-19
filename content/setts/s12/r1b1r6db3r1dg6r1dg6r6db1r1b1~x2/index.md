@@ -2,10 +2,9 @@
 title: "MacQuarrie SM"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRGRGRBRB](/stripes/rbrbrgrgrbrb/) · **Stripes:** [R B R DB R DG R DG R DB R B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R B R DB R DG R DG R DB R B</span></span>
+In pattern [BRBRGRGRBRBR](/stripes/brbrgrgrbrbr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacQuarrie SM](/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1/)
-
 
 ## Thread count
 DR/2 B2 DR12 DB6 DR2 DG12 DR2 DG12 DR12 DB2 DR2 B/2

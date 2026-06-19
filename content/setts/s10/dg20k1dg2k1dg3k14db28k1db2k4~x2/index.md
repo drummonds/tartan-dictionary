@@ -2,10 +2,9 @@
 title: "Kerr Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGKGKG](/stripes/kbkbkgkgkg/) · **Stripes:** [K DB K DB K DG K DG K DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DB K DB K DG K DG K DG</span></span>
+In pattern [GKGKGKBKBK](/stripes/gkgkgkbkbk/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

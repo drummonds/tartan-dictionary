@@ -2,10 +2,9 @@
 title: "Alzheimer Scotland Action on Dementia"
 date: 2023-03-18
 ---
-**Bands:** [GBRWBBBYBRB](/stripes/gbrwbbbybrb/) · **Stripes:** [G DP M LB DP B DP LO DP M DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP M LB DP B DP LO DP M DP</span></span>
+In pattern [BRBYBBBWRBG](/stripes/brbybbbwrbg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11521
 

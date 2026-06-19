@@ -2,10 +2,9 @@
 title: "Cruikshank (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGRGBGY](/stripes/rgbgrgbgy/) · **Stripes:** [R G DB G R G DB G LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G DB G R G DB G LY</span></span>
+In pattern [RGBGRGBGY](/stripes/rgbgrgbgy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3853/
 

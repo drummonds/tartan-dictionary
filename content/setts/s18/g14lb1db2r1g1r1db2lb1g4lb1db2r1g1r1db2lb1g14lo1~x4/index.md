@@ -2,10 +2,9 @@
 title: "Seattle"
 date: 2023-03-18
 ---
-**Bands:** [YGWBRGRBWGWBRGRBWG](/stripes/ygwbrgrbwgwbrgrbwg/) · **Stripes:** [LO G LB DB R G R DB LB G LB DB R G R DB LB G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G LB DB R G R DB LB G LB DB R G R DB LB G</span></span>
+In pattern [GWBRGRBWGWBRGRBWGY](/stripes/gwbrgrbwgwbrgrbwgy/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3757
 

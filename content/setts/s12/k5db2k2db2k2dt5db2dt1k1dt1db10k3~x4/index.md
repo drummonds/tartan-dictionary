@@ -2,10 +2,9 @@
 title: "Hopkins (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBBBKBBK](/stripes/kbkbkbbbkbbk/) · **Stripes:** [K DB K DB K DT DB DT K DT DB K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K DT DB DT K DT DB K</span></span>
+In pattern [KBBKBBBKBKBK](/stripes/kbbkbbbkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3233/
 

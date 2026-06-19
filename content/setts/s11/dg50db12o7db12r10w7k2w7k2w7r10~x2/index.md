@@ -2,10 +2,9 @@
 title: "Norham and Ladykirk"
 date: 2023-03-18
 ---
-**Bands:** [RWKWKWRBRBG](/stripes/rwkwkwrbrbg/) · **Stripes:** [R W K W K W R DB O DB DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R W K W K W R DB O DB DG</span></span>
+In pattern [GBRBRWKWKWR](/stripes/gbrbrwkwkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3147
 

@@ -2,10 +2,9 @@
 title: "MacIntyre of Littleport"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRGRBRGRBRGRBRBB](/stripes/rbrgrbrgrbrgrbrgrbrbb/) · **Stripes:** [R DB R DG R DB R DG R DB R DG R DB R DG R DB R DB T](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DB R DG R DB R DG R DB R DG R DB R DG R DB R DB T</span></span>
+In pattern [BBRBRGRBRGRBRGRBRGRBR](/stripes/bbrbrgrbrgrbrgrbrgrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2486
 

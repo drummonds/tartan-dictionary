@@ -2,10 +2,9 @@
 title: "Coronation (1936) #2"
 date: 2023-03-18
 ---
-**Bands:** [BWRBRBW](/stripes/bwrbrbw/) · **Stripes:** [DB W R DB R DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W R DB R DB W</span></span>
+In pattern [BWRBRBW](/stripes/bwrbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=771
 
@@ -23,14 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [771](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=771)
 - Scottish Tartans Authority (ITI): 2082
 - Scottish Tartans World Register: 2082
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Coronation](/setts/s7/db7w1r7db4r2db4w2~x2/)
-- [Coronation](/setts/s7/db11w1r12db6r1db6w1~x2/)
-
 
 ## Thread count
 DB/44 W4 R48 DB24 R4 DB24 W/4

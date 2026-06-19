@@ -2,10 +2,9 @@
 title: "Highland Pride of Scotland (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGBBGBKGKBW](/stripes/bgbbgbkgkbw/) · **Stripes:** [DB DG DP DP DG DP K DG K DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DG DP DP DG DP K DG K DB W</span></span>
+In pattern [BGBBGBKGKBW](/stripes/bgbbgbkgkbw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6477/
 

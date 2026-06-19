@@ -2,19 +2,11 @@
 title: "Saks Fifth Avenue (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [WKWKWKW](/stripes/wkwkwkw/) · **Stripes:** [W K W K W K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K W K W</span></span>
+In pattern [WKWKWKW](/stripes/wkwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8525/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scott (Abbreviated)](/setts/s7/w2k1w6k6w2k1w1~x2/)
-
 
 ## Thread count
 W/48 K32 W2 K32 W6 K16 W/4

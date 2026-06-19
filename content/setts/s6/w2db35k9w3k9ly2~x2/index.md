@@ -2,10 +2,9 @@
 title: "Hannah (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKWKBW](/stripes/ykwkbw/) · **Stripes:** [LY K W K DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K W K DB W</span></span>
+In pattern [WBKWKY](/stripes/wbkwky/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7910/
 

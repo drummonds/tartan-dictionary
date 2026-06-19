@@ -2,10 +2,9 @@
 title: "Prickly Thistle (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GGYGWGWGWGWGWGWWG](/stripes/ggygwgwgwgwgwgwwg/) · **Stripes:** [G Y LY Y LP Y LP Y LP Y LP Y LP Y LP LB G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G Y LY Y LP Y LP Y LP Y LP Y LP Y LP LB G</span></span>
+In pattern [GGYGWGWGWGWGWGWWG](/stripes/ggygwgwgwgwgwgwwg/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10805/
 

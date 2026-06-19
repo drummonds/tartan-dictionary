@@ -2,10 +2,9 @@
 title: "Matheson"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRBGRGRGRGRGRBGRG](/stripes/grgrgrbgrgrgrgrgrbgrg/) · **Stripes:** [G R G R G R DB G R G R G R G R G R DB G R G](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G R G R DB G R G R G R G R G R DB G R G</span></span>
+In pattern [GRGBRGRGRGRGRGBRGRGRG](/stripes/grgbrgrgrgrgrgbrgrgrg/).
 
-
-This was sourced from weddslist.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Matheson (WCWM)](/setts/s21/g4r4g2r2g2r18db4g4r2g2r2g3r4g2r2g2r2db4g4r2g4~x2/)
-
 
 ## Thread count
 G/16 R8 G2 R2 G2 R48 B16 G8 R2 G2 R2 G8 R16 G2 R2 G2 R2 B16 G16 R4 G/8

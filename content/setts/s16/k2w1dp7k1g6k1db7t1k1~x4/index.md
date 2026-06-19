@@ -2,10 +2,9 @@
 title: "South Lanarkshire"
 date: 2023-03-18
 ---
-**Bands:** [KBBKGKBWKWBKGKBB](/stripes/kbbkgkbwkwbkgkbb/) · **Stripes:** [K T DB K G K DP W K W DP K G K DB T](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T DB K G K DP W K W DP K G K DB T</span></span>
+In pattern [BBKGKBWKWBKGKBBK](/stripes/bbkgkbwkwbkgkbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3843
 

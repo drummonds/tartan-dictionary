@@ -2,10 +2,9 @@
 title: "State Seal of Kentucky (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYRKBYKBKGW](/stripes/ryrkbykbkgw/) · **Stripes:** [O LO O K B LO K B K G LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">O LO O K B LO K B K G LB</span></span>
+In pattern [RYRKBYKBKGW](/stripes/ryrkbykbkgw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8913/
 

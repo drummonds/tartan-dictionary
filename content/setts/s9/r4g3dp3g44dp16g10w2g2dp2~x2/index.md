@@ -2,10 +2,9 @@
 title: "Glenfeshie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGWGB](/stripes/rgbgbgwgb/) · **Stripes:** [R G DP G DP G W G DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R G DP G DP G W G DP</span></span>
+In pattern [BGWGBGBGR](/stripes/bgwgbgbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1417
 

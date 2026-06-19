@@ -2,10 +2,9 @@
 title: "Cairn O'Mount (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRY](/stripes/rbrgry/) · **Stripes:** [R N R Y R LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R N R Y R LO</span></span>
+In pattern [RBRGRY](/stripes/rbrgry/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8123/
 

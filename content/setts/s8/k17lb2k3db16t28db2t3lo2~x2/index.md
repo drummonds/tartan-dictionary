@@ -2,10 +2,9 @@
 title: "Banff and Buchan"
 date: 2023-03-18
 ---
-**Bands:** [KWKBBBBY](/stripes/kwkbbbby/) · **Stripes:** [K LB K DB T DB T LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LB K DB T DB T LO</span></span>
+In pattern [KWKBBBBY](/stripes/kwkbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=190
 

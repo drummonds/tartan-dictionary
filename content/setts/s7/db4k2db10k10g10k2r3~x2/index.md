@@ -2,19 +2,11 @@
 title: "MacKinlay (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKBKB](/stripes/rkgkbkb/) · **Stripes:** [R K G K DB K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K G K DB K DB</span></span>
+In pattern [BKBKGKR](/stripes/bkbkgkr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/218/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Renfrew](/setts/s7/db6k2db18k18g18k3r2~x2/)
-
 
 ## Thread count
 DB/8 K4 DB20 K20 G20 K4 DR/6

@@ -2,10 +2,9 @@
 title: "Robbie (Stirling) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WYRBRGRBRBRYW](/stripes/wyrbrgrbrbryw/) · **Stripes:** [W LY R DB R G R DB R DB R LY W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W LY R DB R G R DB R DB R LY W</span></span>
+In pattern [WYRBRBRGRBRYW](/stripes/wyrbrbrgrbryw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10383
 

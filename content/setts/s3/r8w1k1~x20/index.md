@@ -2,10 +2,9 @@
 title: "International Karate Fed. (Corporat)"
 date: 2023-03-18
 ---
-**Bands:** [KWR](/stripes/kwr/) · **Stripes:** [K W R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W R</span></span>
+In pattern [KWR](/stripes/kwr/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7543/
 
@@ -28,14 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5577](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5577)
 - Scottish Tartans Authority (ITI): 7543
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dacre Estate Check](/setts/s3/k1w1r1~x14/)
-- [St Georges Check](/setts/s3/r35w94k6/)
-
 
 ## Thread count
 DR/160 LN20 K/20

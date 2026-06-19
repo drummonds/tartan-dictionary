@@ -2,10 +2,9 @@
 title: "Cairns of Finavon (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBRBYBRBGBGBGBRBRBRBGBGB](/stripes/gbgbgbrbybrbgbgbgbrbrbrbgbgb/) · **Stripes:** [G DB G DB G DB M DB LY DB M DB G DB G DB G DB M B M B M DB G DB G DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB G DB M DB LY DB M DB G DB G DB G DB M B M B M DB G DB G DB</span></span>
+In pattern [BGBGBRBRBRBGBGBGBRBYBRBGBGBG](/stripes/bgbgbrbrbrbgbgbgbrbybrbgbgbg/).
 
-
-This was sourced from tartans-authority.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7006/
 

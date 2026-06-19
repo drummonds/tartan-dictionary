@@ -2,10 +2,9 @@
 title: "U.S. Border Patrol (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YKBKG](/stripes/ykbkg/) · **Stripes:** [LY K B K G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K B K G</span></span>
+In pattern [GKBKY](/stripes/gkbky/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6182/
 

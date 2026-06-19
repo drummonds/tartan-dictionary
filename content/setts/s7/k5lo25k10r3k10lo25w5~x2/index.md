@@ -2,10 +2,9 @@
 title: "Richmond de Ellel (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKYW](/stripes/kykrkyw/) · **Stripes:** [K LO K R K LO W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LO K R K LO W</span></span>
+In pattern [KYKRKYW](/stripes/kykrkyw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510
 

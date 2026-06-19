@@ -2,10 +2,9 @@
 title: "Wedding Day"
 date: 2023-03-18
 ---
-**Bands:** [RWBRRRBWR](/stripes/rwbrrrbwr/) · **Stripes:** [O W DP R M R DP W O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O W DP R M R DP W O</span></span>
+In pattern [RWBRRRBWR](/stripes/rwbrrrbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10528
 

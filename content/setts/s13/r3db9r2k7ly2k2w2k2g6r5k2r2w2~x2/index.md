@@ -2,10 +2,9 @@
 title: "Prince Albert"
 date: 2023-03-18
 ---
-**Bands:** [RBRKYKWKGRKRW](/stripes/rbrkykwkgrkrw/) · **Stripes:** [R DB R K LY K W K G R K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB R K LY K W K G R K R W</span></span>
+In pattern [RBRKYKWKGRKRW](/stripes/rbrkykwkgrkrw/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Prince Albert #3](/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/)
-
 
 ## Thread count
 R/6 B18 R4 K14 Y4 K4 LN4 K4 G12 R10 K4 R4 LN/4

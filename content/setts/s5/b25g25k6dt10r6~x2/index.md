@@ -2,10 +2,9 @@
 title: "Breon (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBKGB](/stripes/rbkgb/) · **Stripes:** [R DT K G B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R DT K G B</span></span>
+In pattern [BGKBR](/stripes/bgkbr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10488/
 

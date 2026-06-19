@@ -2,10 +2,9 @@
 title: "Elliot Clan Tartan Tartan Number: 596. Earliest known date: pre 1906 The Elliot tartan was first recorded by H. Whyte in his book, 'The Tartans of the Clans and Septs of Scotland' (1906), along with many others in use at the time. The colouring is unique among traditional tartans, being described as maroon and blue. The Elliots are a 'Border Clan', founders of the Minto family. The Chiefship once belonged to to the Elliots of Redheugh but passed to the Elliots of Stobs near Hawick in Roxburghshire. The present Chief is Mrs Margaret Elliot of that Ilk. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBBB](/stripes/rbbb/) · **Stripes:** [R DB DR DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB DR DB</span></span>
+In pattern [BBBR](/stripes/bbbr/).
 
-
-This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=596
 
@@ -14,13 +13,6 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 This cloth is also recorded under:
 
 - Elliott
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Elliott](/setts/s4/db16dr4db3r1~x2/)
-
 
 ## Thread count
 DB/96 DR24 DB18 R/6

@@ -2,10 +2,9 @@
 title: "Prince of Denmark"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRWBWBW](/stripes/rgrgrwbwbw/) · **Stripes:** [R DY R DY R W DB W DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DY R DY R W DB W DB W</span></span>
+In pattern [RGRGRWBWBW](/stripes/rgrgrwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3393
 

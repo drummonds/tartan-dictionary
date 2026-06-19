@@ -2,10 +2,9 @@
 title: "State Seal of New Jersey (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGRKBKRKB](/stripes/ykgrgrkbkrkb/) · **Stripes:** [LO K DY O DY O K B K R K B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO K DY O DY O K B K R K B</span></span>
+In pattern [BKRKBKRGRGKY](/stripes/bkrkbkrgrgky/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8644/
 

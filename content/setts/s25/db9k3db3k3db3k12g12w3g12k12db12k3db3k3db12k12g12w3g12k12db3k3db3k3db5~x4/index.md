@@ -2,10 +2,9 @@
 title: "Lamont"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGWGKBKBKBKGWGKBKBKB](/stripes/bkbkbkgwgkbkbkbkgwgkbkbkb/) · **Stripes:** [DB K DB K DB K G W G K DB K DB K DB K G W G K DB K DB K DB](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G W G K DB K DB K DB K G W G K DB K DB K DB</span></span>
+In pattern [BKBKBKGWGKBKBKBKGWGKBKBKB](/stripes/bkbkbkgwgkbkbkbkgwgkbkbkb/).
 
-
-This was sourced from logan-1831.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from logan-1831.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link /posts/logans-scottish-gael/
 

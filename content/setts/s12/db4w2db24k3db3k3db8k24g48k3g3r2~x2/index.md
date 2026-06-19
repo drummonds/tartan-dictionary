@@ -2,19 +2,11 @@
 title: "Urquhart - 1842 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKBKBKBWB](/stripes/rgkgkbkbkbwb/) · **Stripes:** [R G K G K DB K DB K DB W DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R G K G K DB K DB K DB W DB</span></span>
+In pattern [BWBKBKBKGKGR](/stripes/bwbkbkbkgkgr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/623/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Urquhart, White Line](/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/)
-
 
 ## Thread count
 DB/8 LN4 DB48 K6 DB6 K6 DB16 K48 G96 K6 G6 R/4

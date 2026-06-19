@@ -2,10 +2,9 @@
 title: "Seaforth Estate Check Estate Check Weavers Tartan Tartan Number: 5344. Earliest known date: pre 1990 No details. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RRKRGRKRG](/stripes/rrkrgrkrg/) · **Stripes:** [R O K O Y O K O Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R O K O Y O K O Y</span></span>
+In pattern [GRKRGRKRR](/stripes/grkrgrkrr/).
 
-
-This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5344
 
@@ -15,13 +14,6 @@ This cloth is also recorded under:
 
 - Seaforth
 - Seaforth Estate Check Estate Check Weavers
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Seaforth (Estate Check)](/setts/s9/r1o1k1o1y1o1k1o1y1~x12/)
-
 
 ## Thread count
 DR/6 LT6 K6 LT6 T6 LT6 K6 LT6 T/6

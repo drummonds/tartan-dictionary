@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbgbkgkrkgkbgbgbg/
 ---
-BGBGBKGKRKGKBGBGBG
-
-It is a 18 band tartan.
+It is a 18 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBGBKGKRKGKBGBGBG
+
+{{< pat "BGBGBKGKRKGKBGBGBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DG DP DG DP DG DP K DG K O K DG K DP DG DP DG DP <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DP DG DP DG DP K DG K O K DG K DP DG DP DG DP</span></span>
 
 | Tartans |
 |---------------|
 | [Urbino](/setts/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/)|
 |![Urbino example sett](/setts/s18/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/sett.png)|
-

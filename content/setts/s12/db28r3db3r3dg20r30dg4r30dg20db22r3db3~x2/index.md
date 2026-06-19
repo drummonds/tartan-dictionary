@@ -2,10 +2,9 @@
 title: "Fraser Stewart of Athol"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRGRGBRB](/stripes/brbrgrgrgbrb/) · **Stripes:** [DB R DB R DG R DG R DG DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R DG R DG R DG DB R DB</span></span>
+In pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1267
 
@@ -21,14 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1267](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1267)
 - Scottish Tartans World Register: 393
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fraser](/setts/s12/db16r1db1r1dg12r16dg2r16dg12db12r1db1/)
-- [Fraser](/setts/s12/db16r1db1r1dg12r16dg2r16dg12db12r1db1~x2/)
-
 
 ## Thread count
 B/56 R6 B6 R6 G40 R60 G8 R60 G40 B44 R6 B/6

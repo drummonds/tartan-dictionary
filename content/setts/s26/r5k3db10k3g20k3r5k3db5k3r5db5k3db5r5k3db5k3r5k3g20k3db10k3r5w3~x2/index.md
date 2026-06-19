@@ -2,10 +2,9 @@
 title: "Schneidersohne Centenary"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKRKBKRBKBRKBKRKGKBKRW](/stripes/rkbkgkrkbkrbkbrkbkrkgkbkrw/) · **Stripes:** [R K DB K G K R K DB K R DB K DB R K DB K R K G K DB K R W](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K DB K G K R K DB K R DB K DB R K DB K R K G K DB K R W</span></span>
+In pattern [RKBKGKRKBKRBKBRKBKRKGKBKRW](/stripes/rkbkgkrkbkrbkbrkbkrkgkbkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3665
 

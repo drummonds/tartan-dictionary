@@ -2,10 +2,9 @@
 title: "Fiddes - 2007 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGBKBKGGB](/stripes/ggbkbkggb/) · **Stripes:** [G DG N K N K DG G N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="seq">G DG N K N K DG G N</span></span>
+In pattern [BGGKBKBGG](/stripes/bggkbkbgg/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7618/
 

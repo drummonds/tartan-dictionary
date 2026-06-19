@@ -2,10 +2,9 @@
 title: "Cercle de Fermières de Saint-Élie d'Orford"
 date: 2023-03-18
 ---
-**Bands:** [RYYRBYR](/stripes/ryyrbyr/) · **Stripes:** [R LY LG R B LY R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY LG R B LY R</span></span>
+In pattern [RYBRYYR](/stripes/rybryyr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10392
 

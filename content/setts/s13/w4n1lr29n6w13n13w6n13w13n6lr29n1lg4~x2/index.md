@@ -2,10 +2,9 @@
 title: "Delta Dental Association"
 date: 2023-03-18
 ---
-**Bands:** [YBYBWBWBWBYBW](/stripes/ybybwbwbwbybw/) · **Stripes:** [LG N LR N W N W N W N LR N W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG N LR N W N W N W N LR N W</span></span>
+In pattern [WBYBWBWBWBYBY](/stripes/wbybwbwbwbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10527
 

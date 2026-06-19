@@ -2,10 +2,9 @@
 title: "Cochrane Hunting"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRBGRGRGRGRG](/stripes/ygrgrbgrgrgrgrg/) · **Stripes:** [LO Y R Y R DO G R G R G R G R G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO Y R Y R DO G R G R G R G R G</span></span>
+In pattern [GRGRGRGRGBRGRGY](/stripes/grgrgrgrgbrgrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11165
 

@@ -2,20 +2,11 @@
 title: "Graham of Montrose - 1850 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKBK](/stripes/kgwgkbk/) · **Stripes:** [K G W G K DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G W G K DB K</span></span>
+In pattern [KBKGWGK](/stripes/kbkgwgk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1044/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Graham of Montrose](/setts/s7/k4g4w1g4k4db4k1~x4/)
-- [MacLaggan](/setts/s7/k7g6w1g6k7db7k1~x4/)
-
 
 ## Thread count
 K/18 G18 W4 G18 K18 DB18 K/6

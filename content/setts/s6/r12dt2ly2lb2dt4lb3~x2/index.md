@@ -2,10 +2,9 @@
 title: "Winnipeg Embroiders' Guild (Corp.)"
 date: 2023-03-18
 ---
-**Bands:** [RBYWBW](/stripes/rbywbw/) · **Stripes:** [R DT LY LB DT LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DT LY LB DT LB</span></span>
+In pattern [RBYWBW](/stripes/rbywbw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10758/
 

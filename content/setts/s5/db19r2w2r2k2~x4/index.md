@@ -2,10 +2,9 @@
 title: "Laing of Archiestown"
 date: 2023-03-18
 ---
-**Bands:** [KRWRB](/stripes/krwrb/) · **Stripes:** [K R W R DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R W R DB</span></span>
+In pattern [BRWRK](/stripes/brwrk/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Laing of Archiestown](/setts/s5/db8r1w1r1k1~x8/)
-
 
 ## Thread count
 B/76 R8 LN8 R8 K/8

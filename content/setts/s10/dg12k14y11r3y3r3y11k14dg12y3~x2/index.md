@@ -2,10 +2,9 @@
 title: "Wilson's No.112 (Light Blue)"
 date: 2023-03-18
 ---
-**Bands:** [GKGRGRGKGG](/stripes/gkgrgrgkgg/) · **Stripes:** [DG K Y R Y R Y K DG Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DG K Y R Y R Y K DG Y</span></span>
+In pattern [GGKGRGRGKG](/stripes/ggkgrgrgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4679
 

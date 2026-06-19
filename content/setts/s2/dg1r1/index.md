@@ -2,10 +2,9 @@
 title: "Moncreiffe"
 date: 2023-03-18
 ---
-**Bands:** [RG](/stripes/rg/) · **Stripes:** [R DG](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG</span></span>
+In pattern [GR](/stripes/gr/).
 
-
-This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -58,15 +57,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glenlyon (District)](/setts/s2/dg1r1~x80/)
-- [Wilson's No.099](/setts/s2/dg14r13~x2/)
-- [Wilson's No.134](/setts/s2/r3dg1~x14/)
-
 
 ## Thread count
 DR/1 DG/1

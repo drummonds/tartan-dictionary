@@ -2,10 +2,9 @@
 title: "Punky Princess (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKWKRK](/stripes/krkwkrk/) · **Stripes:** [K R K LB K R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K LB K R K</span></span>
+In pattern [KRKWKRK](/stripes/krkwkrk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10618/
 

@@ -2,10 +2,9 @@
 title: "Hannigan of Dirleton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYGGWGGB](/stripes/ryggwggb/) · **Stripes:** [R LY Y G W Y G DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R LY Y G W Y G DP</span></span>
+In pattern [BGGWGGYR](/stripes/bggwggyr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2685/
 

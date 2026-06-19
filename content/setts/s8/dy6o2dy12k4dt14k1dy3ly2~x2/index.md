@@ -2,10 +2,9 @@
 title: "Mica, Green (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGKBKGRG](/stripes/ygkbkgrg/) · **Stripes:** [LY DY K DT K DY O DY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY DY K DT K DY O DY</span></span>
+In pattern [GRGKBKGY](/stripes/grgkbkgy/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3472/
 

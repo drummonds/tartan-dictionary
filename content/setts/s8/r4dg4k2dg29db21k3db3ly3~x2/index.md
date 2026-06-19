@@ -2,10 +2,9 @@
 title: "Peter of Lee (Chief) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGBKBY](/stripes/rgkgbkby/) · **Stripes:** [R DG K DG DB K DB LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG K DG DB K DB LY</span></span>
+In pattern [RGKGBKBY](/stripes/rgkgbkby/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5507/
 

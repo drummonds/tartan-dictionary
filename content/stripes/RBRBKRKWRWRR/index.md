@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/rbrbkrkwrwrr/
 ---
-RBRBKRKWRWRR
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-RBRBKRKWRWRR
+
+{{< pat "RBRBKRKWRWRR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R O W O W K O K DB R DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R O W O W K O K DB R DB R</span></span>
 
 | Tartans |
 |---------------|
 | [Kinloch Anderson, dress](/setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/)|
 |![Kinloch Anderson, dress example sett](/setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/sett.png)|
-

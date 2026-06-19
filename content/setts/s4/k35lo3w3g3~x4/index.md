@@ -2,10 +2,9 @@
 title: "Dhillon (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYWG](/stripes/kywg/) · **Stripes:** [K LO W G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LO W G</span></span>
+In pattern [GWYK](/stripes/gwyk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=928
 

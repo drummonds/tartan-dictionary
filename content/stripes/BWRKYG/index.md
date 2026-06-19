@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/bwrkyg/
 ---
-BWRKYG
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/t53w27r5k19lo1dg11~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BWRKYG
+
+{{< pat "BWRKYG" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### DG LO K R W T <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG LO K R W T</span></span>
-
-| Tartans |
-|---------------|
-| [Crookstoun, James (West Lothian) (Personal)](/setts/s6/t53w27r5k19lo1dg11~x2/)|
-|![Crookstoun, James (West Lothian) (Personal) example sett](/setts/s6/t53w27r5k19lo1dg11~x2/sett.png)|
-
-### G LO K R W B <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G LO K R W B</span></span>
 
 | Tartans |
 |---------------|
 | [Crookstoun (Personal)](/setts/s6/b53w27r5k19lo1g11~x2/)|
 |![Crookstoun (Personal) example sett](/setts/s6/b53w27r5k19lo1g11~x2/sett.png)|
-
+| [Crookstoun, James (West Lothian) (Personal)](/setts/s6/t53w27r5k19lo1dg11~x2/)|
+|![Crookstoun, James (West Lothian) (Personal) example sett](/setts/s6/t53w27r5k19lo1dg11~x2/sett.png)|

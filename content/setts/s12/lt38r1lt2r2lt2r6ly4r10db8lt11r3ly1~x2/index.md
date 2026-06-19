@@ -2,10 +2,9 @@
 title: "Spirit of Dunkeld"
 date: 2023-03-18
 ---
-**Bands:** [YRWBRYRWRWRW](/stripes/yrwbryrwrwrw/) · **Stripes:** [LY R LT DB R LY R LT R LT R LT](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LY R LT DB R LY R LT R LT R LT</span></span>
+In pattern [WRWRWRYRBWRY](/stripes/wrwrwryrbwry/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10564
 

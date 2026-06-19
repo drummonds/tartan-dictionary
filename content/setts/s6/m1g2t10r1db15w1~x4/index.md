@@ -2,10 +2,9 @@
 title: "Oren Peterson"
 date: 2023-03-18
 ---
-**Bands:** [RGBRBW](/stripes/rgbrbw/) · **Stripes:** [M G T R DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M G T R DB W</span></span>
+In pattern [RGBRBW](/stripes/rgbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10127
 

@@ -2,10 +2,9 @@
 title: "Discover Islay (District)"
 date: 2023-03-18
 ---
-**Bands:** [BYBBGB](/stripes/bybbgb/) · **Stripes:** [DP LY DP DB G DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP LY DP DB G DP</span></span>
+In pattern [BGBBYB](/stripes/bgbbyb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7683/
 

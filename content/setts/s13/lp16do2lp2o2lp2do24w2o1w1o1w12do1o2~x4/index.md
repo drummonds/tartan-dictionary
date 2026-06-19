@@ -2,10 +2,9 @@
 title: "Fiona"
 date: 2023-03-18
 ---
-**Bands:** [RBWRWRWBWRWBW](/stripes/rbwrwrwbwrwbw/) · **Stripes:** [O DO W O W O W DO LP O LP DO LP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">O DO W O W O W DO LP O LP DO LP</span></span>
+In pattern [RBWRWRWBWRWBW](/stripes/rbwrwrwbwrwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1187
 

@@ -2,10 +2,9 @@
 title: "SYHA Hostelling Scotland"
 date: 2023-03-18
 ---
-**Bands:** [GRWRGWGRWRGW](/stripes/grwrgwgrwrgw/) · **Stripes:** [Y R W R Y LB DG R W R DG LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">Y R W R Y LB DG R W R DG LB</span></span>
+In pattern [GRWRGWGRWRGW](/stripes/grwrgwgrwrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11596
 

@@ -2,10 +2,9 @@
 title: "Unidentified Lindley #4"
 date: 2023-03-18
 ---
-**Bands:** [RWRKGBYBYBGKRW](/stripes/rwrkgbybybgkrw/) · **Stripes:** [O W O K G DB LY DB LY DB G K O W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O W O K G DB LY DB LY DB G K O W</span></span>
+In pattern [RWRKGBYBYBGKRW](/stripes/rwrkgbybybgkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4306
 

@@ -2,10 +2,9 @@
 title: "Forfar Farmington"
 date: 2023-03-18
 ---
-**Bands:** [GBKBGKYGRGWG](/stripes/gbkbgkygrgwg/) · **Stripes:** [DG DB K DB DG K LY DG R DG W DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DG DB K DB DG K LY DG R DG W DG</span></span>
+In pattern [GBKBGKYGRGWG](/stripes/gbkbgkygrgwg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1230
 

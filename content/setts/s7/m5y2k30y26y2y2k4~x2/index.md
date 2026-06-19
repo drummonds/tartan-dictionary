@@ -2,10 +2,9 @@
 title: "Milne-Murtagh (2009)"
 date: 2023-03-18
 ---
-**Bands:** [KGGGKGR](/stripes/kgggkgr/) · **Stripes:** [K Y Y Y K Y M](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="seq">K Y Y Y K Y M</span></span>
+In pattern [KGGGKGR](/stripes/kgggkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10066
 

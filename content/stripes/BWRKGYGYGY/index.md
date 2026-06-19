@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bwrkgygygy/
 ---
-BWRKGYGYGY
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BWRKGYGYGY
+
+{{< pat "BWRKGYGYGY" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### LO G LO G LO G K R W DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LO G LO G LO G K R W DB</span></span>
 
 | Tartans |
 |---------------|
 | [North West Territories](/setts/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/)|
 |![North West Territories example sett](/setts/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/sett.png)|
-
-### LY G LY G LY G K R W DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G LY G LY G K R W DB</span></span>
-
-| Tartans |
-|---------------|
 | [North West Territories](/setts/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/)|
 |![North West Territories example sett](/setts/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/sett.png)|
-

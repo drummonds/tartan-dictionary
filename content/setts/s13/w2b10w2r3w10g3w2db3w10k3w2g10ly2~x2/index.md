@@ -2,10 +2,9 @@
 title: "Morris of Balgonie Arisaid (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGWKWBWGWRWBW](/stripes/ygwkwbwgwrwbw/) · **Stripes:** [LY G W K W DB W G W R W B W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G W K W DB W G W R W B W</span></span>
+In pattern [WBWRWGWBWKWGY](/stripes/wbwrwgwbwkwgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3015
 

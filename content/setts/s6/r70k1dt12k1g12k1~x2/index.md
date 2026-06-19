@@ -2,10 +2,9 @@
 title: "Lawers Estate (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKR](/stripes/kgkbkr/) · **Stripes:** [K G K DT K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K DT K R</span></span>
+In pattern [KGKBKR](/stripes/kgkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5398/
 

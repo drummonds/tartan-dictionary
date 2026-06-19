@@ -2,19 +2,11 @@
 title: "Birch (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GBGKRKBKW](/stripes/gbgkrkbkw/) · **Stripes:** [G DP G K R K T K LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">G DP G K R K T K LB</span></span>
+In pattern [GBGKRKBKW](/stripes/gbgkrkbkw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2157/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Birch (Personal) (Estimated threadcount)](/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/)
-
 
 ## Thread count
 G/6 P4 G50 K12 DR4 K12 B40 K2 N/4

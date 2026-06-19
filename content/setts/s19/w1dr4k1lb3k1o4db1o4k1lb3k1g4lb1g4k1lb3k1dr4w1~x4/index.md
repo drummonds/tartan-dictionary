@@ -2,10 +2,9 @@
 title: "Caribou District Tartan Tartan Number: 2056. Earliest known date: 1982 Proposed by the Caribou Islands District Fire Hall (Ladies Auxilary). Among the suggestions for the symbolic meaning of the colours it says, \"Red for our sunsets, our lobsters, and our Fire Trucks\". Caribou is in Pictou County, Nova Scotia. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WBKWKRBRKWKGWGKWKBW](/stripes/wbkwkrbrkwkgwgkwkbw/) · **Stripes:** [W DR K LB K O DB O K LB K G LB G K LB K DR W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DR K LB K O DB O K LB K G LB G K LB K DR W</span></span>
+In pattern [WBKWKGWGKWKRBRKWKBW](/stripes/wbkwkgwgkwkrbrkwkbw/).
 
-
-This was sourced from house-of-tartan.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2056
 

@@ -2,10 +2,9 @@
 title: "Lake Superior Ice Water Mansion"
 date: 2023-03-18
 ---
-**Bands:** [BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW](/stripes/bbwbbbbbbbbbbbwbwbwbwbwbwbwbwbbbbw/) · **Stripes:** [DB B W DB B DB B DB B DB B DB B DB W DB W B W B W B W B W B W B W B DB B B W](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB B W DB B DB B DB B DB B DB B DB W DB W B W B W B W B W B W B W B DB B B W</span></span>
+In pattern [BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW](/stripes/bbwbbbbbbbbbbbwbwbwbwbwbwbwbwbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10198
 

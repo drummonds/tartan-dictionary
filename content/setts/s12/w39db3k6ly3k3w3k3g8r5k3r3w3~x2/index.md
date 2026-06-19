@@ -2,10 +2,9 @@
 title: "Stewart Dress (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [WRKRGKWKYKBW](/stripes/wrkrgkwkykbw/) · **Stripes:** [W R K R G K W K LY K DB W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K R G K W K LY K DB W</span></span>
+In pattern [WBKYKWKGRKRW](/stripes/wbkykwkgrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1765/
 
@@ -899,14 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/)
-- [Stewart dress](/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/)
-
 
 ## Thread count
 LY/78 DB6 K12 Y6 K6 LY6 K6 G16 R10 K6 R6 LY/6

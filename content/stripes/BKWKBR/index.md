@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkwkbr/
 ---
-BKWKBR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/db9k4lb1k4db9r1~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BKWKBR
+
+{{< pat "BKWKBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DB K LB K DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K LB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Scottish Nuclear](/setts/s6/db9k4lb1k4db9r1~x4/)|
 |![Scottish Nuclear example sett](/setts/s6/db9k4lb1k4db9r1~x4/sett.png)|
-

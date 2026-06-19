@@ -2,10 +2,9 @@
 title: "MacLean (Black and White)"
 date: 2023-03-18
 ---
-**Bands:** [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/) · **Stripes:** [W K W K W K W K W K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K W K W K W K W</span></span>
+In pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2602
 
@@ -29,15 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2602](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2602)
 - Scottish Tartans Authority (ITI): 1824
 - Scottish Tartans World Register: 1824
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLean, Black & White](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16/)
-- [Scott - 1850 B & W (Clan)](/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/)
-- [Scott, Sir Walter](/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/)
-
 
 ## Thread count
 W/40 K12 W18 K12 W12 K24 W12 K96 W16 K32 W/32

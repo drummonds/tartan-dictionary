@@ -2,10 +2,9 @@
 title: "Meaux (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYRB](/stripes/gyrb/) · **Stripes:** [DG LO R DT](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">DG LO R DT</span></span>
+In pattern [BRYG](/stripes/bryg/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10738/
 

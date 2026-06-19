@@ -2,10 +2,9 @@
 title: "Hummelt, Katherine (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGGBWBBW](/stripes/bggbwbbw/) · **Stripes:** [DB DG Y DB LT DB DP LT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">DB DG Y DB LT DB DP LT</span></span>
+In pattern [BGGBWBBW](/stripes/bggbwbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11591
 

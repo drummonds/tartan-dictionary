@@ -2,10 +2,9 @@
 title: "Unidentified #41"
 date: 2023-03-18
 ---
-**Bands:** [RWRRBWRRW](/stripes/rwrrbwrrw/) · **Stripes:** [R W R O DB W R O W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R O DB W R O W</span></span>
+In pattern [RWRRBWRRW](/stripes/rwrrbwrrw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4242
 

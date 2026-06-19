@@ -2,10 +2,9 @@
 title: "MacGillivray"
 date: 2023-03-18
 ---
-**Bands:** [RBBRBRBRGRBRB](/stripes/rbbrbrbrgrbrb/) · **Stripes:** [R B DB R B R DB R DG R B R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R B DB R B R DB R DG R B R DB</span></span>
+In pattern [BRBRGRBRBRBBR](/stripes/brbrgrbrbrbbr/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGillivray](/setts/s13/r4b1db1r32b2r2db12r2dg16r4b1r4db2~x2/)
-
 
 ## Thread count
 DR/4 B1 DB1 DR32 B2 DR2 DB12 DR2 DG16 DR4 B1 DR4 DB/2

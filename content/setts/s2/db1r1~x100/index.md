@@ -2,10 +2,9 @@
 title: "Rob Roy, Blue & Red (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RB](/stripes/rb/) · **Stripes:** [R DB](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB</span></span>
+In pattern [BR](/stripes/br/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3156/
 
@@ -22,14 +21,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 - pre 2002 — Rob Roy, Blue & Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3156/))
 - pre 2010 — Dice (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8114/))
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cairnbulg & Inverllocjy Fisher Plaid](/setts/s2/db1r1~x14/)
-- [Masai Shuka 02 (Artefact)](/setts/s2/db1r1~x20/)
-
 
 ## Thread count
 DR/100 DB/100

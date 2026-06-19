@@ -2,10 +2,9 @@
 title: "Stuart/Stewart variant"
 date: 2023-03-18
 ---
-**Bands:** [KGWKWBWKYKGRGRW](/stripes/kgwkwbwkykgrgrw/) · **Stripes:** [K DG W K W DB W K LY K DG R DG R W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DG W K W DB W K LY K DG R DG R W</span></span>
+In pattern [KGWKWBWKYKGRGRW](/stripes/kgwkwbwkykgrgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4027
 

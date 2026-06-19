@@ -2,10 +2,9 @@
 title: "Battle of Prestonpans (1745) Heritage Trust, The"
 date: 2023-03-18
 ---
-**Bands:** [BRGBW](/stripes/brgbw/) · **Stripes:** [DB R G DB W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R G DB W</span></span>
+In pattern [BRGBW](/stripes/brgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10841
 

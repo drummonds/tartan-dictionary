@@ -2,19 +2,11 @@
 title: "Loudoun's Highlanders - 1747 #2 (Mil"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGYGKBKBKB](/stripes/rkbkgygkbkbkb/) · **Stripes:** [R K DB K DG LY DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DG LY DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGYGKBKR](/stripes/bkbkbkgygkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8413/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLeod of Gesto](/setts/s13/db9k1db1k1db1k7dg8ly2dg8k7db8k1r2~x2/)
-
 
 ## Thread count
 DB/48 K4 DB4 K4 DB4 K40 DG40 Y6 DG40 K40 DB48 K4 DR/8

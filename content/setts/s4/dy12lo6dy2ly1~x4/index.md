@@ -2,10 +2,9 @@
 title: "Loch Garth Tartan Tartan Number: 1750. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YGYG](/stripes/ygyg/) · **Stripes:** [LY DY LO DY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY DY LO DY</span></span>
+In pattern [GYGY](/stripes/gygy/).
 
-
-This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1750
 

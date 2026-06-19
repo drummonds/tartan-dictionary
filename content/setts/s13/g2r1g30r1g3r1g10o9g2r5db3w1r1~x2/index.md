@@ -2,10 +2,9 @@
 title: "Hans, Jaswinder (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWBRGRGRGRGRG](/stripes/rwbrgrgrgrgrg/) · **Stripes:** [R W DB R G O G R G R G R G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB R G O G R G R G R G</span></span>
+In pattern [GRGRGRGRGRBWR](/stripes/grgrgrgrgrbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11541
 

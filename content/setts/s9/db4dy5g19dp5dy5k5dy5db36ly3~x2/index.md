@@ -2,10 +2,9 @@
 title: "Suzugamine (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YBGKGBGGB](/stripes/ybgkgbggb/) · **Stripes:** [LY DB DY K DY DP G DY DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB DY K DY DP G DY DB</span></span>
+In pattern [BGGBGKGBY](/stripes/bggbgkgby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4217/
 

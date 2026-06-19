@@ -2,10 +2,9 @@
 title: "Ellis Island American District Tartan Tartan Number: 10364. Earliest known date: 06/02/10 The Ellis Island tartan has been designed by Matt Newsome, curator of the Scottish Tartans Museum in Franklin, NC, primarily for use by all Americans with ancestors who came to America through Ellis Island regardless of ethnic origin and to commemorate the 10th annual observance of National Tartan Day at the Ellis Island Immigration Museum. It was commissioned by the Clan Currie Society who hold the copyright. Proceeds from the sale of the tartan will benefit the Save Ellis Island Foundation and the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKGBGBWGYGYGY](/stripes/rkgbgbwgygygy/) · **Stripes:** [R K G T G T W G LO G LO G LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K G T G T W G LO G LO G LO</span></span>
+In pattern [RKGBGBWGYGYGY](/stripes/rkgbgbwgygygy/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10364
 

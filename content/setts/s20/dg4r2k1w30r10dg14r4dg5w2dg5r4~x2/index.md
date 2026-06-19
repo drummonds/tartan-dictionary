@@ -2,10 +2,9 @@
 title: "Scott Dress"
 date: 2023-03-18
 ---
-**Bands:** [RKWRGRGWGRGWGRGRWKRG](/stripes/rkwrgrgwgrgwgrgrwkrg/) · **Stripes:** [R K W R DG R DG W DG R DG W DG R DG R W K R DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R K W R DG R DG W DG R DG W DG R DG R W K R DG</span></span>
+In pattern [GRKWRGRGWGRGWGRGRWKR](/stripes/grkwrgrgwgrgwgrgrwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3697
 

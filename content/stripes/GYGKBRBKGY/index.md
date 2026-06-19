@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gygkbrbkgy/
 ---
-GYGKBRBKGY
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GYGKBRBKGY
+
+{{< pat "GYGKBRBKGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LR DY K DO O DO K DY LR DY <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LR DY K DO O DO K DY LR DY</span></span>
 
 | Tartans |
 |---------------|
 | [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1~x4/)|
 |![Huntly #3 example sett](/setts/s10/dy2lr1dy5k4do5o1~x4/sett.png)|
-

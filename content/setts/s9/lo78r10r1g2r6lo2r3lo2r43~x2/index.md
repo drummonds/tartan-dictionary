@@ -2,10 +2,9 @@
 title: "Montreal Granate"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRGRRY](/stripes/ryryrgrry/) · **Stripes:** [R LO R LO R G R R LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LO R LO R G R R LO</span></span>
+In pattern [RYRYRGRRY](/stripes/ryryrgrry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2994
 

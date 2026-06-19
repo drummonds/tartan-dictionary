@@ -2,10 +2,9 @@
 title: "Perthshire Highland Society (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [KBRBKYGKBKGYKBWBKYGBK](/stripes/kbrbkygkbkgykbwbkygbk/) · **Stripes:** [K DB R DB K LY G K DB K G LY K DB W DB K LY G DB K](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB R DB K LY G K DB K G LY K DB W DB K LY G DB K</span></span>
+In pattern [KBGYKBWBKYGKBKGYKBRBK](/stripes/kbgykbwbkygkbkgykbrbk/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6372/
 

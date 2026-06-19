@@ -2,10 +2,9 @@
 title: "McLinden, Thomas (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGWKRBRBRBR](/stripes/rgwkrbrbrbr/) · **Stripes:** [R DG W K R B R DB R DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG W K R B R DB R DB R</span></span>
+In pattern [RBRBRBRKWGR](/stripes/rbrbrbrkwgr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11439
 

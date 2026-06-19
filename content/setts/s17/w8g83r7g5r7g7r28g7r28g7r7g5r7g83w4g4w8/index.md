@@ -2,10 +2,9 @@
 title: "Rothesay Hunting (District)"
 date: 2023-03-18
 ---
-**Bands:** [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/) · **Stripes:** [W G R G R G R G R G R G R G W G W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G R G R G R G R G R G R G W G W</span></span>
+In pattern [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1805/
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3574](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3574)
 - Scottish Tartans Authority (ITI): 1805
 - Scottish Tartans World Register: 1805
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rothesay, hunting](/setts/s17/w2g32r2g3r2g4r16g4r16g4r2g3r2g32w1g1w2~x2/)
-
 
 ## Thread count
 LN/8 G83 R7 G5 R7 G7 R28 G7 R28 G7 R7 G5 R7 G83 LN4 G4 LN/8

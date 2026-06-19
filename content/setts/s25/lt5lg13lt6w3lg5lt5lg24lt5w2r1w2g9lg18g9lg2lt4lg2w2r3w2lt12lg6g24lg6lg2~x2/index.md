@@ -2,10 +2,9 @@
 title: "Morddyn"
 date: 2023-03-18
 ---
-**Bands:** [YYGYWWRWYWYGYGWRWWYWYWWYW](/stripes/yygywwrwywygygwrwwywywwyw/) · **Stripes:** [LG LG G LG LT W R W LG LT LG G LG G W R W LT LG LT LG W LT LG LT](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LG LG G LG LT W R W LG LT LG G LG G W R W LT LG LT LG W LT LG LT</span></span>
+In pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10317
 

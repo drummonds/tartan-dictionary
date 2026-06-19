@@ -2,10 +2,9 @@
 title: "Britten-Norman"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKRKYKRKWKWKBWBWBWBWBWB](/stripes/kwkwkrkykrkwkwkbwbwbwbwbwb/) · **Stripes:** [K W K LB K R K LR K R K LB K W K DT W DT W DT W DT W DT W DT](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">K W K LB K R K LR K R K LB K W K DT W DT W DT W DT W DT W DT</span></span>
+In pattern [BWBWBWBWBWBKWKWKRKYKRKWKWK](/stripes/bwbwbwbwbwbkwkwkrkykrkwkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11604
 

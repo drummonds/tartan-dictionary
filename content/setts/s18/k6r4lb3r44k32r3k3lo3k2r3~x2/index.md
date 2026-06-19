@@ -2,10 +2,9 @@
 title: "Smeaton (Wedding) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKRWRKRWRKRKYKR](/stripes/kykrkrwrkrwrkrkykr/) · **Stripes:** [K LO K R K R LB R K R LB R K R K LO K R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LO K R K R LB R K R LB R K R K LO K R</span></span>
+In pattern [KYKRKRWRKRWRKRKYKR](/stripes/kykrkrwrkrwrkrkykr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5210
 

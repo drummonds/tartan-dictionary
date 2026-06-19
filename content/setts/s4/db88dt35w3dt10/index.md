@@ -2,10 +2,9 @@
 title: "Scottish Tourist Board (1990)"
 date: 2023-03-18
 ---
-**Bands:** [BBWB](/stripes/bbwb/) · **Stripes:** [DB DT W DT](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">DB DT W DT</span></span>
+In pattern [BBWB](/stripes/bbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3748
 

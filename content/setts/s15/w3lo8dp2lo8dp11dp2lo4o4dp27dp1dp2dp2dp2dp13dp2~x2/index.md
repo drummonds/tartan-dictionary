@@ -2,10 +2,9 @@
 title: "Strathdon"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBBRYBBYBYW](/stripes/bbbbbbbrybbybyw/) · **Stripes:** [DP DP DP DP DP DP DP O LO DP DP LO DP LO W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DP DP DP DP DP DP O LO DP DP LO DP LO W</span></span>
+In pattern [BBBBBBBRYBBYBYW](/stripes/bbbbbbbrybbybyw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10117
 

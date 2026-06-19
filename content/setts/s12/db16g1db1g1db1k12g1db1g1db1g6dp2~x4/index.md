@@ -2,10 +2,9 @@
 title: "Stephen-Mathieson"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBKGBGBGB](/stripes/bgbgbkgbgbgb/) · **Stripes:** [DB G DB G DB K G DB G DB G DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB G DB G DB K G DB G DB G DP</span></span>
+In pattern [BGBGBGKBGBGB](/stripes/bgbgbgkbgbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10108
 

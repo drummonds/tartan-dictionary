@@ -2,10 +2,9 @@
 title: "Moray of Abercairney"
 date: 2023-03-18
 ---
-**Bands:** [RRGRGB](/stripes/rrgrgb/) · **Stripes:** [R R G R G T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">R R G R G T</span></span>
+In pattern [BGRGRR](/stripes/bgrgrr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

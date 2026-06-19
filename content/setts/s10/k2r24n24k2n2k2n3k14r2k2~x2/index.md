@@ -2,10 +2,9 @@
 title: "Douglas (WCWM)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKBKBRK](/stripes/krkbkbkbrk/) · **Stripes:** [K R K N K N K N R K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K N K N K N R K</span></span>
+In pattern [KRBKBKBKRK](/stripes/krbkbkbkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=958
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [958](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=958)
 - Scottish Tartans Authority (ITI): 4706
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wcwm 1527](/setts/s10/k2r26n26k2n3k2n3k14r2k2~x2/)
-
 
 ## Thread count
 K/4 DR48 N48 K4 N4 K4 N6 K28 DR4 K/4

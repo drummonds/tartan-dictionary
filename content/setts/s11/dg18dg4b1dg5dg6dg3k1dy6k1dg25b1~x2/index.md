@@ -2,10 +2,9 @@
 title: "Mack of Stoneywood Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGBGGGKGKGB](/stripes/ggbgggkgkgb/) · **Stripes:** [DG DG B DG DG DG K DY K DG B](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG DG B DG DG DG K DY K DG B</span></span>
+In pattern [BGKGKGGGBGG](/stripes/bgkgkgggbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10763
 

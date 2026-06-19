@@ -2,10 +2,9 @@
 title: "Weir (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GKBKGKBKYKYKBKGKB](/stripes/gkbkgkbkykykbkgkb/) · **Stripes:** [DG K B K DG K DB K LY K LY K DB K DG K B](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG K B K DG K DB K LY K LY K DB K DG K B</span></span>
+In pattern [BKGKBKYKYKBKGKBKG](/stripes/bkgkbkykykbkgkbkg/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4254/
 

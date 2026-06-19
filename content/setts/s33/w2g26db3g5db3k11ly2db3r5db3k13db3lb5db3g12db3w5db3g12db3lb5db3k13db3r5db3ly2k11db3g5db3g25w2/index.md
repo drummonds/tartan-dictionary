@@ -2,10 +2,9 @@
 title: "Kumikyoku - Tone of Forest"
 date: 2023-03-18
 ---
-**Bands:** [WGBGBKYBRBKBWBGBWBGBWBKBRBYKBGBGW](/stripes/wgbgbkybrbkbwbgbwbgbwbkbrbykbgbgw/) · **Stripes:** [W G DB G DB K LY DB R DB K DB LB DB G DB W DB G DB LB DB K DB R DB LY K DB G DB G W](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G DB G DB K LY DB R DB K DB LB DB G DB W DB G DB LB DB K DB R DB LY K DB G DB G W</span></span>
+In pattern [WGBGBKYBRBKBWBGBWBGBWBKBRBYKBGBGW](/stripes/wgbgbkybrbkbwbgbwbgbwbkbrbykbgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11286
 

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wbybybwby/
 ---
-WBYBYBWBY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-WBYBYBWBY
+
+{{< pat "WBYBYBWBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LG DB LP DB LG DB LO DB W <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG DB LP DB LG DB LO DB W</span></span>
 
 | Tartans |
 |---------------|
 | [Centrica Energy](/setts/s9/w12db79lo6db53lg4db22lp10db24lg8/)|
 |![Centrica Energy example sett](/setts/s9/w12db79lo6db53lg4db22lp10db24lg8/sett.png)|
-

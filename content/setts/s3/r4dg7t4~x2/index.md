@@ -2,10 +2,9 @@
 title: "Wilson's No.061"
 date: 2023-03-18
 ---
-**Bands:** [RGB](/stripes/rgb/) · **Stripes:** [R DG T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG T</span></span>
+In pattern [BGR](/stripes/bgr/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4661
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4661](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4661)
 - Scottish Tartans Authority (ITI): 1932
 - Scottish Tartans World Register: 1932
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gyle (Corporate)](/setts/s3/t8dg1r2~x20/)
-
 
 ## Thread count
 R/8 DG14 B/8

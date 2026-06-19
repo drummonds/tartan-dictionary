@@ -2,10 +2,9 @@
 title: "Scottish Parliament Official (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RGBRBGRWBWRB](/stripes/rgbrbgrwbwrb/) · **Stripes:** [O G DB R DB G O W DP W O DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">O G DB R DB G O W DP W O DB</span></span>
+In pattern [BRWBWRGBRBGR](/stripes/brwbwrgbrbgr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10001/
 

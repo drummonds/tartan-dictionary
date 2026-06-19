@@ -2,10 +2,9 @@
 title: "Princess Beatrice Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KRGRWBWRKRKRKGKGKGY](/stripes/krgrwbwrkrkrkgkgkgy/) · **Stripes:** [K R G R W DB W R K R K R K G K G K G LY](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R G R W DB W R K R K R K G K G K G LY</span></span>
+In pattern [KRGRWBWRKRKRKGKGKGY](/stripes/krgrwbwrkrkrkgkgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3398
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3398](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3398)
 - Scottish Tartans Authority (ITI): 1169
 - Scottish Tartans World Register: 1169
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Princess Beatrice, dress](/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x2/)
-
 
 ## Thread count
 K/12 DR4 G8 DR8 W80 DB12 W12 DR28 K8 DR8 K8 DR8 K28 G8 K8 G8 K8 G32 Y/12

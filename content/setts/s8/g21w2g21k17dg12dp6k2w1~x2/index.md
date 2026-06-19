@@ -2,19 +2,11 @@
 title: "Hibernian F. C. (2004) (C orporate)"
 date: 2023-03-18
 ---
-**Bands:** [GWGKGBKW](/stripes/gwgkgbkw/) · **Stripes:** [G W G K DG DP K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G W G K DG DP K W</span></span>
+In pattern [GWGKGBKW](/stripes/gwgkgbkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6894/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hibernian Football Club](/setts/s8/g22w2g22k18dg12dp6k2w1~x2/)
-
 
 ## Thread count
 Ga/42 LN4 Ga42 K34 G24 P12 K4 LN/2

@@ -2,10 +2,9 @@
 title: "Barbecue Presbyterian Church (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRBYGRGRG](/stripes/grgrgrbygrgrg/) · **Stripes:** [DG R DG R DG R DB LY G R G R G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG R DG R DG R DB LY G R G R G</span></span>
+In pattern [GRGRGRBYGRGRG](/stripes/grgrgrbygrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7496/
 

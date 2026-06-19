@@ -2,10 +2,9 @@
 title: "Spirit of South Lanarkshire (Distric"
 date: 2023-03-18
 ---
-**Bands:** [YBRKBGB](/stripes/ybrkbgb/) · **Stripes:** [LO DT R K T G T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO DT R K T G T</span></span>
+In pattern [BGBKRBY](/stripes/bgbkrby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7507/
 

@@ -2,10 +2,9 @@
 title: "Commonwealth Games Scotland, Team Scotland 2014"
 date: 2023-03-18
 ---
-**Bands:** [GYBYRRRRRRRRRRRRRYB](/stripes/gybyrrrrrrrrrrrrryb/) · **Stripes:** [G LO DB LO R M R M R M R M R M R M R LO DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">G LO DB LO R M R M R M R M R M R M R LO DB</span></span>
+In pattern [BYRRRRRRRRRRRRRYBYG](/stripes/byrrrrrrrrrrrrrybyg/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10971
 

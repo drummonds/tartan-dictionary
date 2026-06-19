@@ -2,10 +2,9 @@
 title: "Stuart-Houghton Family Tartan Tartan Number: 5843. Earliest known date: 2001 Andrew Stuart-Houghton wrote, I have included a design for which I would like as my personal tartan. it should be called: Stuart-Houghton, Andrew Terlach Eideard Seumas. I would also like to have it restricted, if possible. I would like to have it produced in heavyweight in order to make a kilt. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GBGKWKWKRBKBWBKB](/stripes/gbgkwkwkrbkbwbkb/) · **Stripes:** [DG DT DG K W K W K R DT K DT W DT K DT](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">DG DT DG K W K W K R DT K DT W DT K DT</span></span>
+In pattern [BKBWBKBRKWKWKGBG](/stripes/bkbwbkbrkwkwkgbg/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5843
 

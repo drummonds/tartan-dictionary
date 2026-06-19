@@ -2,10 +2,9 @@
 title: "Barbour"
 date: 2023-03-18
 ---
-**Bands:** [RKWGRYR](/stripes/rkwgryr/) · **Stripes:** [R K W DY O LY O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R K W DY O LY O</span></span>
+In pattern [RKWGRYR](/stripes/rkwgryr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [212](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212)
 - Scottish Tartans Authority (ITI): 2489
 - Scottish Tartans World Register: 2489
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barbour - Classic](/setts/s7/o4ly2o21dy11w2k20r3~x2/)
-
 
 ## Thread count
 R/6 K40 W4 T22 LT42 Y4 LT/4

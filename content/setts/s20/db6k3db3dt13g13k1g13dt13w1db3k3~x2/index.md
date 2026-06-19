@@ -2,10 +2,9 @@
 title: "Wacker"
 date: 2023-03-18
 ---
-**Bands:** [KBBGKGBWBKBWBGKGBBKB](/stripes/kbbgkgbwbkbwbgkgbbkb/) · **Stripes:** [K DB DT G K G DT W DB K DB W DT G K G DT DB K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB DT G K G DT W DB K DB W DT G K G DT DB K DB</span></span>
+In pattern [BKBBGKGBWBKBWBGKGBBK](/stripes/bkbbgkgbwbkbwbgkgbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4472
 

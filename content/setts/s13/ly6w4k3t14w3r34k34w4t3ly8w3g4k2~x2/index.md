@@ -2,10 +2,9 @@
 title: "Mazarian"
 date: 2023-03-18
 ---
-**Bands:** [KGWYBWKRWBKWY](/stripes/kgwybwkrwbkwy/) · **Stripes:** [K G W LY T W K R W T K W LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K G W LY T W K R W T K W LY</span></span>
+In pattern [KGWYBWKRWBKWY](/stripes/kgwybwkrwbkwy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868
 

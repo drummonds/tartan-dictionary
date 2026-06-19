@@ -2,10 +2,9 @@
 title: "Manx National"
 date: 2023-03-18
 ---
-**Bands:** [BGRGBBW](/stripes/bgrgbbw/) · **Stripes:** [P G R Y DB B W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">P G R Y DB B W</span></span>
+In pattern [BGRGBBW](/stripes/bgrgbbw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Manx National](/setts/s7/p8g31r4y4db17b64w4/)
-
 
 ## Thread count
 P/4 G12 R2 LG2 DB6 B20 LN/2

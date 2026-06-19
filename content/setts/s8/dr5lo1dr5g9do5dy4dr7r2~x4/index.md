@@ -2,19 +2,11 @@
 title: "Leighton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBGBYB](/stripes/rbgbgbyb/) · **Stripes:** [R DR DY DO G DR LO DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DR DY DO G DR LO DR</span></span>
+In pattern [BYBGBGBR](/stripes/bybgbgbr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2483/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Leighton (Personal)](/setts/s8/dr20lo4dr20g35do20dy16dr28r8/)
-
 
 ## Thread count
 DR/20 DY4 DR20 G36 DRa20 T16 DR28 DRb/8

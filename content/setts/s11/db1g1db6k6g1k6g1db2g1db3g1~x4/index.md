@@ -2,10 +2,9 @@
 title: "Cargill"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGKGKBGB](/stripes/gbgbgkgkbgb/) · **Stripes:** [G DB G DB G K G K DB G DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB G K G K DB G DB</span></span>
+In pattern [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138
 
@@ -22,14 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5138](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138)
 - Scottish Tartans Authority (ITI): 3132
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clergy 2](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/)
-- [Clergy 3](/setts/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/)
-
 
 ## Thread count
 DB/4 G4 DB24 K24 G4 K24 G4 DB8 G4 DB12 G/4

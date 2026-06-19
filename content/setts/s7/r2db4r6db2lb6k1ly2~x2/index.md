@@ -2,10 +2,9 @@
 title: "Unidentified Printing"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWKY](/stripes/rbrbwky/) · **Stripes:** [R DB R DB LB K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB R DB LB K LY</span></span>
+In pattern [RBRBWKY](/stripes/rbrbwky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4359
 

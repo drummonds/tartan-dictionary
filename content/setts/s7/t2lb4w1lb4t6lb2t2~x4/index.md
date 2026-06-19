@@ -2,10 +2,9 @@
 title: "Langdons (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWWWB](/stripes/bwbwwwb/) · **Stripes:** [T LB T LB W LB T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="seq">T LB T LB W LB T</span></span>
+In pattern [BWBWWWB](/stripes/bwbwwwb/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10103/
 

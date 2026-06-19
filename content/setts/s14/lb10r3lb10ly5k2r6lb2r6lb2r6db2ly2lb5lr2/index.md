@@ -2,10 +2,9 @@
 title: "Ogilvy"
 date: 2023-03-18
 ---
-**Bands:** [YWYBRWRWRKYWRW](/stripes/ywybrwrwrkywrw/) · **Stripes:** [LR LB LY DB R LB R LB R K LY LB R LB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LR LB LY DB R LB R LB R K LY LB R LB</span></span>
+In pattern [WRWYKRWRWRBYWY](/stripes/wrwykrwrwrbywy/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

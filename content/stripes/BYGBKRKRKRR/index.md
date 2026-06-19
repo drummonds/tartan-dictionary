@@ -4,21 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/bygbkrkrkrr/
 ---
-BYGBKRKRKRR
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BYGBKRKRKRR
+
+{{< pat "BYGBKRKRKRR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R O K R K O K DB DY LY DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R O K R K O K DB DY LY DB</span></span>
 
 | Tartans |
 |---------------|
@@ -26,4 +21,3 @@ BYGBKRKRKRR
 |![Blais (Personal) example sett](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/sett.png)|
 | [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/)|
 |![Blais (Personal) example sett](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/sett.png)|
-

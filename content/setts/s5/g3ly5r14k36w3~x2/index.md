@@ -2,10 +2,9 @@
 title: "Papua New Guinea"
 date: 2023-03-18
 ---
-**Bands:** [GYRKW](/stripes/gyrkw/) · **Stripes:** [G LY R K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G LY R K W</span></span>
+In pattern [GYRKW](/stripes/gyrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5406
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5406](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5406)
 - Scottish Tartans Authority (ITI): 7235
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Papua New Guinea Pipes and Drums](/setts/s5/g3ly5r13k33w2~x2/)
-
 
 ## Thread count
 G/6 Y10 R28 K72 LN/6

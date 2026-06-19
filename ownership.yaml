@@ -45,7 +45,6 @@ generated:
   # content sections the weaver fills (item pages + their _index.md)
   - content/setts
   - content/stripes
-  - content/bands
   - content/clan
   - content/colour
   - content/families

@@ -2,10 +2,9 @@
 title: "Birral/Burrell"
 date: 2023-03-18
 ---
-**Bands:** [BBWGWRRBRRWBRWBBW](/stripes/bbwgwrrbrrwbrwbbw/) · **Stripes:** [T DP W G W R R DP R R W DP R W DP T W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DP W G W R R DP R R W DP R W DP T W</span></span>
+In pattern [BBWGWRRBRRWBRWBBW](/stripes/bbwgwrrbrrwbrwbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=264
 

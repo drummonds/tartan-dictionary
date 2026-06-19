@@ -2,10 +2,9 @@
 title: "Intergen (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYRY](/stripes/kykyry/) · **Stripes:** [K LG K LG R LG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="seq">K LG K LG R LG</span></span>
+In pattern [KYKYRY](/stripes/kykyry/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4092/
 

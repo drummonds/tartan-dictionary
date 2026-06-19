@@ -2,10 +2,9 @@
 title: "Highland Spring (1985)"
 date: 2023-03-18
 ---
-**Bands:** [RKRGYGBKBKBR](/stripes/rkrgygbkbkbr/) · **Stripes:** [R K R G LO G B K B K B R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R G LO G B K B K B R</span></span>
+In pattern [RBKBKBGYGRKR](/stripes/rbkbkbgygrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1719
 

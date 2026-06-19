@@ -2,10 +2,9 @@
 title: "Hibernian S3"
 date: 2023-03-18
 ---
-**Bands:** [YWG](/stripes/ywg/) · **Stripes:** [LO W G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO W G</span></span>
+In pattern [GWY](/stripes/gwy/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11043/
 

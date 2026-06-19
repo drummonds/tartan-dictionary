@@ -2,10 +2,9 @@
 title: "Unidentified Victorian fancy"
 date: 2023-03-18
 ---
-**Bands:** [RGRWRGRGWGRGBGGBGGBGGBGGBGGBGB](/stripes/rgrwrgrgwgrgbggbggbggbggbggbgb/) · **Stripes:** [R DY R W R DY R DG W DY R DY DB G DY DB G DY DB G DY DB G DY DB G DY DB G DB](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DY R W R DY R DG W DY R DY DB G DY DB G DY DB G DY DB G DY DB G DY DB G DB</span></span>
+In pattern [BGBGGBGGBGGBGGBGGBGRGWGRGRWRGR](/stripes/bgbggbggbggbggbggbgrgwgrgrwrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4391
 

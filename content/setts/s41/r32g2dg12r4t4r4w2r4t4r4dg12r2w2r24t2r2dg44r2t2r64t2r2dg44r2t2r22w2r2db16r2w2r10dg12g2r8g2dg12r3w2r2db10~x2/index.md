@@ -2,10 +2,9 @@
 title: "MacAlister (Logan 1831)"
 date: 2023-03-18
 ---
-**Bands:** [RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRB](/stripes/rggrbrwrbrgrwrbrgrbrbrgrbrwrbrwrggrggrwrb/) · **Stripes:** [R G DG R T R W R T R DG R W R T R DG R T R T R DG R T R W R DB R W R DG G R G DG R W R DB](/stripes/stripes41/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G DG R T R W R T R DG R W R T R DG R T R T R DG R T R W R DB R W R DG G R G DG R W R DB</span></span>
+In pattern [BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR](/stripes/brwrggrggrwrbrwrbrgrbrbrgrbrwrgrbrwrbrggr/).
 
-
-This was sourced from register-of-tartans.  It is a [41 band tartan](/bands/bands41/).
+This was sourced from register-of-tartans.  It is a [41 stripe tartan](/stripes/stripes41/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2263
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacAlister](/setts/s41/r16g2dg12r4t4r4w2r4t4r4dg12r2w1r24t1r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/)
-
 
 ## Thread count
 R/64 G4 DG24 R8 Ba8 R8 LN4 R8 Ba8 R8 DG24 R4 LN4 R48 Ba4 R4 DG88 R4 Ba4 R128 Ba4 R4 DG88 R4 Ba4 R44 LN4 R4 B32 R4 LN4 R20 DG24 G4 R16 G4 DG24 R6 LN4 R4 B/20

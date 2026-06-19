@@ -2,20 +2,11 @@
 title: "Mordente (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWGRGRWGWRGWRG](/stripes/rwgrgrwgwrgwrg/) · **Stripes:** [R W G R G R W G W R G W R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W G R G R W G W R G W R G</span></span>
+In pattern [GRWGRWGWRGRGWR](/stripes/grwgrwgwrgrgwr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1016/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mordente](/setts/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/)
-- [Mordente (Personal)](/setts/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/)
-
 
 ## Thread count
 R/8 W4 G4 R64 G28 R4 W4 G4 W4 R4 G28 W8 R4 G/8

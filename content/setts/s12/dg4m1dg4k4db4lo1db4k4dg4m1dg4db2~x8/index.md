@@ -2,10 +2,9 @@
 title: "Isle of Gigha"
 date: 2023-03-18
 ---
-**Bands:** [GRGKBYBKGRGB](/stripes/grgkbybkgrgb/) · **Stripes:** [DG M DG K DB LO DB K DG M DG DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG M DG K DB LO DB K DG M DG DB</span></span>
+In pattern [BGRGKBYBKGRG](/stripes/bgrgkbybkgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5111
 

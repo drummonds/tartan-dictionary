@@ -2,10 +2,9 @@
 title: "Marie Curie Fields of Hope"
 date: 2023-03-18
 ---
-**Bands:** [GYGKGYGYG](/stripes/gygkgygyg/) · **Stripes:** [G LY G K G LY G LY G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY G K G LY G LY G</span></span>
+In pattern [GYGKGYGYG](/stripes/gygkgygyg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

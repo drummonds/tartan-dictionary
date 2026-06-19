@@ -2,10 +2,9 @@
 title: "Nashotah House"
 date: 2023-03-18
 ---
-**Bands:** [RKBKWKWGWGRGY](/stripes/rkbkwkwgwgrgy/) · **Stripes:** [R K DP K W K LB G W G R G LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K DP K W K LB G W G R G LO</span></span>
+In pattern [RKBKWKWGWGRGY](/stripes/rkbkwkwgwgrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3095
 

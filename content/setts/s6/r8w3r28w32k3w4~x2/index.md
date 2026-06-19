@@ -2,10 +2,9 @@
 title: "Ailsa, Pink (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWKW](/stripes/rwrwkw/) · **Stripes:** [R W R W K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R W K W</span></span>
+In pattern [RWRWKW](/stripes/rwrwkw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7587/
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5611](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5611)
 - Scottish Tartans Authority (ITI): 7587
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gangs of New York Fashion Check Tartan Tartan Number: 8248. Earliest known date: 8th July 2010 The period was the 1860s, a rather attractive time for men, all frock coats and top hats. Narrow-leg trousers and checks were fashionable. I accentuated Daniel's height and slenderness by extending his top hat, making his trousers thinner and his shoes longer. The other members of his gang were dressed along the same lines but not so finely: no one had the same presence as Bill the Butcher. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w5k20w2r5w20r2~x2/)
-
 
 ## Thread count
 LR/16 W6 LR56 W64 K6 W/8

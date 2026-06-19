@@ -2,10 +2,9 @@
 title: "MacNab - 1800 (Portrait)"
 date: 2023-03-18
 ---
-**Bands:** [RGWGR](/stripes/rgwgr/) · **Stripes:** [R G LB G R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G LB G R</span></span>
+In pattern [RGWGR](/stripes/rgwgr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1451/
 

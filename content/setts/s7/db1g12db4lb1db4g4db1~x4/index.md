@@ -2,10 +2,9 @@
 title: "St. Dennis & Cranley School"
 date: 2023-03-18
 ---
-**Bands:** [BGBWBGB](/stripes/bgbwbgb/) · **Stripes:** [DB G DB LB DB G DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">DB G DB LB DB G DB</span></span>
+In pattern [BGBWBGB](/stripes/bgbwbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3888
 

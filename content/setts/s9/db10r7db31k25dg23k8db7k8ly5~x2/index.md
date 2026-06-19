@@ -2,10 +2,9 @@
 title: "MacCallum of Berwick"
 date: 2023-03-18
 ---
-**Bands:** [YKBKGKBRB](/stripes/ykbkgkbrb/) · **Stripes:** [LY K DB K DG K DB R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K DB K DG K DB R DB</span></span>
+In pattern [BRBKGKBKY](/stripes/brbkgkbky/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2309
 

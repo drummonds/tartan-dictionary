@@ -2,10 +2,9 @@
 title: "Coulter Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWGRGBKB](/stripes/rwgrgbkb/) · **Stripes:** [R W G O G T K T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W G O G T K T</span></span>
+In pattern [BKBGRGWR](/stripes/bkbgrgwr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=776
 

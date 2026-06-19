@@ -2,10 +2,9 @@
 title: "Hall"
 date: 2023-03-18
 ---
-**Bands:** [YRGRBRGRBRG](/stripes/yrgrbrgrbrg/) · **Stripes:** [LY R G R DB R G R DB R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R G R DB R G R DB R G</span></span>
+In pattern [GRBRGRBRGRY](/stripes/grbrgrbrgry/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hall (1994)](/setts/s11/g6r3db6r3g12r3db6r3g12r3ly2~x2/)
-
 
 ## Thread count
 G/12 R6 B12 R6 G24 R6 B12 R6 G24 R6 Y/3

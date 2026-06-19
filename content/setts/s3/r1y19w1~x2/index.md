@@ -2,10 +2,9 @@
 title: "Dunbar of Pitgaveny"
 date: 2023-03-18
 ---
-**Bands:** [RGW](/stripes/rgw/) · **Stripes:** [R Y W](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R Y W</span></span>
+In pattern [RGW](/stripes/rgw/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

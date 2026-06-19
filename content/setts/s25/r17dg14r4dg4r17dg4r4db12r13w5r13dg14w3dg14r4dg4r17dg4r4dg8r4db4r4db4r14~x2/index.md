@@ -2,10 +2,9 @@
 title: "Staffa (Silk)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBRWRGWGRGRGRGRBRBR](/stripes/rgrgrgrbrwrgwgrgrgrgrbrbr/) · **Stripes:** [R DG R DG R DG R DB R W R DG W DG R DG R DG R DG R DB R DB R](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DG R DB R W R DG W DG R DG R DG R DG R DB R DB R</span></span>
+In pattern [RBRBRGRGRGRGWGRWRBRGRGRGR](/stripes/rbrbrgrgrgrgwgrwrbrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3905
 

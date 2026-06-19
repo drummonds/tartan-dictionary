@@ -2,10 +2,9 @@
 title: "Myles, Lee"
 date: 2023-03-18
 ---
-**Bands:** [RKBKBKBRBR](/stripes/rkbkbkbrbr/) · **Stripes:** [M K N K N K N M N M](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M K N K N K N M N M</span></span>
+In pattern [RBRBKBKBKR](/stripes/rbrbkbkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10352
 

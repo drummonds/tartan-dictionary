@@ -2,10 +2,9 @@
 title: "Reece, Mathew"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBRW](/stripes/rrbrbrw/) · **Stripes:** [R O DT O DT O W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R O DT O DT O W</span></span>
+In pattern [RRBRBRW](/stripes/rrbrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10327
 

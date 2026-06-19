@@ -2,10 +2,9 @@
 title: "Trinity Bicycles (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWGWG](/stripes/rwgwg/) · **Stripes:** [R LB Y LB Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R LB Y LB Y</span></span>
+In pattern [GWGWR](/stripes/gwgwr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10177/
 

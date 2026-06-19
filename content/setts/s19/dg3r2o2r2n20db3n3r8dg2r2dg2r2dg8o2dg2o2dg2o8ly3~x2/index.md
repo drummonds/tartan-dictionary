@@ -2,10 +2,9 @@
 title: "Wcwm 1528"
 date: 2023-03-18
 ---
-**Bands:** [YRGRGRGRGRGRBBBRRRG](/stripes/yrgrgrgrgrgrbbbrrrg/) · **Stripes:** [LY O DG O DG O DG R DG R DG R N DB N R O R DG](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY O DG O DG O DG R DG R DG R N DB N R O R DG</span></span>
+In pattern [GRRRBBBRGRGRGRGRGRY](/stripes/grrrbbbrgrgrgrgrgry/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4527
 

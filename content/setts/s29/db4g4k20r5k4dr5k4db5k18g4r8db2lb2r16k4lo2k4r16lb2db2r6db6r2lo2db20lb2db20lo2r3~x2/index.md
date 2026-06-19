@@ -2,10 +2,9 @@
 title: "Hird (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYBWBYRBRBWRKYKRWBRGKBKBKRKGB](/stripes/rybwbyrbrbwrkykrwbrgkbkbkrkgb/) · **Stripes:** [R LO DB LB DB LO R DB R DB LB R K LO K R LB DB R G K DB K DR K R K G DB](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R LO DB LB DB LO R DB R DB LB R K LO K R LB DB R G K DB K DR K R K G DB</span></span>
+In pattern [BGKRKBKBKGRBWRKYKRWBRBRYBWBYR](/stripes/bgkrkbkbkgrbwrkykrwbrbrybwbyr/).
 
-
-This was sourced from register-of-tartans.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1735
 

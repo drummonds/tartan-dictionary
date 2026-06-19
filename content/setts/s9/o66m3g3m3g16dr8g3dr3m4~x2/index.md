@@ -2,10 +2,9 @@
 title: "Scottish National Htg (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RRGRGBGBR](/stripes/rrgrgbgbr/) · **Stripes:** [O M G M G DR G DR M](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#CA047B"></span><span class="seq">O M G M G DR G DR M</span></span>
+In pattern [RBGBGRGRR](/stripes/rbgbgrgrr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2240/
 

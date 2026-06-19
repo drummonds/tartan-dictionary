@@ -2,10 +2,9 @@
 title: "Wcwm 1310"
 date: 2023-03-18
 ---
-**Bands:** [RBBKGBRB](/stripes/rbbkgbrb/) · **Stripes:** [R DO DB K G DO R DO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">R DO DB K G DO R DO</span></span>
+In pattern [BRBGKBBR](/stripes/brbgkbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4520
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4520](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4520)
 - Scottish Tartans Authority (ITI): 4311
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDuff Hunting](/setts/s8/do10r2do10g17k12db9do9r2~x2/)
-
 
 ## Thread count
 DR/20 DRa6 DR20 G28 K24 DB24 DR28 DRa/8

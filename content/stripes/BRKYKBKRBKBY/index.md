@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brkykbkrbkby/
 ---
-BRKYKBKRBKBY
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-BRKYKBKRBKBY
+
+{{< pat "BRKYKBKRBKBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO DP K DP R K DP K LO K R DP <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO DP K DP R K DP K LO K R DP</span></span>
 
 | Tartans |
 |---------------|
 | [Bates-Dayton](/setts/s12/dp3r17k3lo3k3dp3k3r7dp8k3dp1lo3~x4/)|
 |![Bates-Dayton example sett](/setts/s12/dp3r17k3lo3k3dp3k3r7dp8k3dp1lo3~x4/sett.png)|
-

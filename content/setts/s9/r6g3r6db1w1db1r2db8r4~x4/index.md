@@ -2,10 +2,9 @@
 title: "Cameron of Locheil #2"
 date: 2023-03-18
 ---
-**Bands:** [RGRBWBRBR](/stripes/rgrbwbrbr/) · **Stripes:** [R G R DB W DB R DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R DB W DB R DB R</span></span>
+In pattern [RBRBWBRGR](/stripes/rbrbwbrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=498
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [498](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=498)
 - Scottish Tartans Authority (ITI): 1398
 - Scottish Tartans World Register: 1398
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cameron of Lochiel](/setts/s9/r6g3r6db1w1db1r2db8r4~x2/)
-
 
 ## Thread count
 R/24 G12 R24 DB4 W4 DB4 R8 DB32 R/16

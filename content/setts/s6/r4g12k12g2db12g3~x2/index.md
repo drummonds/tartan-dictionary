@@ -2,21 +2,11 @@
 title: "Gunn - 1810 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGBG](/stripes/rgkgbg/) · **Stripes:** [R G K G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K G DB G</span></span>
+In pattern [GBGKGR](/stripes/gbgkgr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/708/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gunn](/setts/s6/r2g12k12g1db12g2~x2/)
-- [Gunn](/setts/s6/r2g12k12g1db12g1~x2/)
-- [Lauder (Family)](/setts/s6/g3db8g3k4g15r2~x2/)
-
 
 ## Thread count
 R/8 G24 K24 G4 DB24 G/6

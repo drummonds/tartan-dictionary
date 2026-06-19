@@ -2,10 +2,9 @@
 title: "MacKenzie"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKYKGKBKBKB](/stripes/rkbkgkykgkbkbkb/) · **Stripes:** [R K DB K DG K LR K DG K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DG K LR K DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKenzie](/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/)
-
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 DG24 K2 N4 K2 DG24 K24 DB24 K2 DR/4

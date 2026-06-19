@@ -2,19 +2,11 @@
 title: "Atholl (District)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGRGKBKBKB](/stripes/rkbkgrgkbkbkb/) · **Stripes:** [R K B K G R G K B K B K B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K B K G R G K B K B K B</span></span>
+In pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2078/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Atholl](/setts/s13/b25k4b4k4b4k26g25r9g25k26b25k2r9~x2/)
-
 
 ## Thread count
 B/50 K8 B8 K8 B8 K52 G50 R12 G50 K52 B50 K4 R/12

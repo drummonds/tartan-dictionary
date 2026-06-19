@@ -2,10 +2,9 @@
 title: "New South Wales Waratah"
 date: 2023-03-18
 ---
-**Bands:** [RGGGGBBRBG](/stripes/rggggbbrbg/) · **Stripes:** [R Y DG Y DG DT DB R DB Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y DG Y DG DT DB R DB Y</span></span>
+In pattern [GBRBBGGGGR](/stripes/gbrbbggggr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3120
 

@@ -2,10 +2,9 @@
 title: "Gipsy"
 date: 2023-03-18
 ---
-**Bands:** [KRKRWRBRK](/stripes/krkrwrbrk/) · **Stripes:** [K R K R W R DB R K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R W R DB R K</span></span>
+In pattern [KRBRWRKRK](/stripes/krbrwrkrk/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,14 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gipsy](/setts/s9/k2r2k8r2w1r2db8r2k2~x2/)
-- [Gipsy (Fashion)](/setts/s9/k2r2k8r2w1r2db8r2k2~x4/)
-
 
 ## Thread count
 K/2 R2 K10 R2 LN2 R2 B10 R2 K/2

@@ -2,10 +2,9 @@
 title: "Hinnigan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRKGBGRGBGKRBB](/stripes/brkgbgrgbgkrbb/) · **Stripes:** [DB O K G DB G O G DB G K O DB B](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB O K G DB G O G DB G K O DB B</span></span>
+In pattern [BBRKGBGRGBGKRB](/stripes/bbrkgbgrgbgkrb/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1734
 

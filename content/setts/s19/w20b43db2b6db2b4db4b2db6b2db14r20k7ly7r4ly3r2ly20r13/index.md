@@ -2,10 +2,9 @@
 title: "Declaration of Scottish Independence, Arbroath 1320"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYKRBBBBBBBBBBW](/stripes/ryryrykrbbbbbbbbbbw/) · **Stripes:** [R LY R LY R LY K R DB B DB B DB B DB B DB B W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY R LY R LY K R DB B DB B DB B DB B DB B W</span></span>
+In pattern [RYRYRYKRBBBBBBBBBBW](/stripes/ryryrykrbbbbbbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11182
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11182
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11182](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11182)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Declaration of Scottish Independence](/setts/s19/w16b38db2b6db2b4db4b2db6b2db12r16k8ly8r4ly3r2ly16r10/)
-
 
 ## Thread count
 W/20 B43 DB2 B6 DB2 B4 DB4 B2 DB6 B2 DB14 DR20 K7 Y7 R4 Y3 R2 Y20 R/13

@@ -2,10 +2,9 @@
 title: "O Savanao (District)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBWBRBGBYB](/stripes/ybybwbrbgbyb/) · **Stripes:** [LY DB LY DB LB DB R DB G DB LY DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB LY DB LB DB R DB G DB LY DB</span></span>
+In pattern [BYBGBRBWBYBY](/stripes/bybgbrbwbyby/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7849/
 

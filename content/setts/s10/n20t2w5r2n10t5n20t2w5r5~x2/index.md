@@ -2,10 +2,9 @@
 title: "Mortell (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWBBBBRWBB](/stripes/rwbbbbrwbb/) · **Stripes:** [R W T N T N R W T N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="seq">R W T N T N R W T N</span></span>
+In pattern [BBWRBBBBWR](/stripes/bbwrbbbbwr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10192/
 

@@ -2,19 +2,11 @@
 title: "Sinclair Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [GWGKBRB](/stripes/gwgkbrb/) · **Stripes:** [G W G K DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G W G K DB R DB</span></span>
+In pattern [BRBKGWG](/stripes/brbkgwg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2434/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sinclair dress](/setts/s7/db2r1db16k5g2w11g1~x4/)
-
 
 ## Thread count
 B/8 R4 B62 K20 G8 LN42 G/4

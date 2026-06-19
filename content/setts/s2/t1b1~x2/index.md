@@ -2,10 +2,9 @@
 title: "Bruce Special 1985 XXX"
 date: 2023-03-18
 ---
-**Bands:** [BB](/stripes/bb/) · **Stripes:** [T B](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="seq">T B</span></span>
+In pattern [BB](/stripes/bb/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4832
 

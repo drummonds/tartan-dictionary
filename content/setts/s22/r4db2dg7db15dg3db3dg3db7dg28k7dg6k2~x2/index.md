@@ -2,10 +2,9 @@
 title: "Walker Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RBGBGBGBGKGKGKGBGBGBGB](/stripes/rbgbgbgbgkgkgkgbgbgbgb/) · **Stripes:** [R DB DG DB DG DB DG DB DG K DG K DG K DG DB DG DB DG DB DG DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB DG DB DG DB DG DB DG K DG K DG K DG DB DG DB DG DB DG DB</span></span>
+In pattern [BGBGBGBGKGKGKGBGBGBGBR](/stripes/bgbgbgbgkgkgkgbgbgbgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4477
 

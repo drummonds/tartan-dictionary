@@ -2,10 +2,9 @@
 title: "MacLean VS"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKYKG](/stripes/kgkgkykg/) · **Stripes:** [K DG K DG K LR K DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K LR K DG</span></span>
+In pattern [GKYKGKGK](/stripes/gkykgkgk/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

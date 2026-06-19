@@ -2,10 +2,9 @@
 title: "Hilton Hotel Hong Kong (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRG](/stripes/rgrgrgrgrg/) · **Stripes:** [M G M G M G M G M G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M G M G M G M G M G</span></span>
+In pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3940/
 

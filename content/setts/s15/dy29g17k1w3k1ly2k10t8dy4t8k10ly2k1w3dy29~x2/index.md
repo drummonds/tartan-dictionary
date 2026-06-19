@@ -2,10 +2,9 @@
 title: "Massie/Massey"
 date: 2023-03-18
 ---
-**Bands:** [GGKWKYKBGBKYKWG](/stripes/ggkwkykbgbkykwg/) · **Stripes:** [DY G K W K LY K T DY T K LY K W DY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY G K W K LY K T DY T K LY K W DY</span></span>
+In pattern [GGKWKYKBGBKYKWG](/stripes/ggkwkykbgbkykwg/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2852
 

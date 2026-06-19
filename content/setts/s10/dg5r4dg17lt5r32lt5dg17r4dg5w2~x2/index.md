@@ -2,10 +2,9 @@
 title: "Wilson's No.005"
 date: 2023-03-18
 ---
-**Bands:** [GRGWRWGRGW](/stripes/grgwrwgrgw/) · **Stripes:** [DG R DG LT R LT DG R DG W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DG LT R LT DG R DG W</span></span>
+In pattern [GRGWRWGRGW](/stripes/grgwrwgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4645
 

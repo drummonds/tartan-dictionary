@@ -2,10 +2,9 @@
 title: "Lumsden"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGYGRGWG](/stripes/grgrgrgrgrgrgrgrwrbrbrwrgrgrgrgrgygrgwg/) · **Stripes:** [G R G R G R G R G R G R G R G R W R DB R DB R W R G R G R G R G R G LY G R G W G](/stripes/stripes39/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G R G R G R G R G R G R G R W R DB R DB R W R G R G R G R G R G LY G R G W G</span></span>
+In pattern [GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGYGRGWG](/stripes/grgrgrgrgrgrgrgrwrbrbrwrgrgrgrgrgygrgwg/).
 
-
-This was sourced from register-of-tartans.  It is a [39 band tartan](/bands/bands39/).
+This was sourced from register-of-tartans.  It is a [39 stripe tartan](/stripes/stripes39/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6023
 
@@ -14,14 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6023
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [6023](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6023)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lumsden (Waistcoat)](/setts/s39/g21w2g20r8g6ly3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/)
-- [Lumsden Waistcoat](/setts/s39/g21w2g20r8g6ly3g6r8g10r9g11r22g3r9g3r21w2r10db26r6db26r10w2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20~x2/)
-
 
 ## Thread count
 G/18 R6 G18 R16 G2 R2 G6 R2 G2 R16 G2 R2 G6 R2 G2 R16 W2 R8 DB20 R6 DB20 R8 W2 R16 G4 R8 G4 R16 G10 R6 G10 R6 G10 Y2 G10 R10 G16 W2 G/16

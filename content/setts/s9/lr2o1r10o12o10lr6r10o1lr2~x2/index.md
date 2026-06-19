@@ -2,10 +2,9 @@
 title: "Unidentified, Sett"
 date: 2023-03-18
 ---
-**Bands:** [YRRRRYRRY](/stripes/yrrrryrry/) · **Stripes:** [LR O R O O LR R O LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LR O R O O LR R O LR</span></span>
+In pattern [YRRRRYRRY](/stripes/yrrrryrry/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

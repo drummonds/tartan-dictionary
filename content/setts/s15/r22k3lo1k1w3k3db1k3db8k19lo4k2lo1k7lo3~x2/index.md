@@ -2,10 +2,9 @@
 title: "Ruxton"
 date: 2023-03-18
 ---
-**Bands:** [RKYKWKBKBKYKYKY](/stripes/rkykwkbkbkykyky/) · **Stripes:** [R K LO K W K DB K DB K LO K LO K LO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K LO K W K DB K DB K LO K LO K LO</span></span>
+In pattern [RKYKWKBKBKYKYKY](/stripes/rkykwkbkbkykyky/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3625
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkwkgrgr/
 ---
-GKWKGRGR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/r36g18r4g6k1lb2k1g2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GKWKGRGR
+
+{{< pat "GKWKGRGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R G R G K LB K G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G K LB K G</span></span>
 
 | Tartans |
 |---------------|
 | [Strang (Personal)](/setts/s8/r36g18r4g6k1lb2k1g2~x2/)|
 |![Strang (Personal) example sett](/setts/s8/r36g18r4g6k1lb2k1g2~x2/sett.png)|
-

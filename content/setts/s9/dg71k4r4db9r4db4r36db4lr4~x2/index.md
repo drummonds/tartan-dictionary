@@ -2,10 +2,9 @@
 title: "Rattay"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRBRKG](/stripes/ybrbrbrkg/) · **Stripes:** [LR DB R DB R DB R K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LR DB R DB R DB R K DG</span></span>
+In pattern [GKRBRBRBY](/stripes/gkrbrbrby/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rattay](/setts/s9/dg71k4r4db9r4db4r36db4lr4/)
-
 
 ## Thread count
 DG/142 K8 DR8 DB18 DR8 DB8 DR72 DB8 N/8

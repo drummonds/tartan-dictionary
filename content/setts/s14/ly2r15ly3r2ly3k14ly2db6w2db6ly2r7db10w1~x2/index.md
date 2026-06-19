@@ -2,10 +2,9 @@
 title: "Dalrymple, of Castleton"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYKYBWBYRBW](/stripes/yryrykybwbyrbw/) · **Stripes:** [LY R LY R LY K LY DB W DB LY R DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R LY R LY K LY DB W DB LY R DB W</span></span>
+In pattern [WBRYBWBYKYRYRY](/stripes/wbrybwbykyryry/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

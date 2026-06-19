@@ -2,10 +2,9 @@
 title: "MacNeil 5"
 date: 2023-03-18
 ---
-**Bands:** [YKGKBW](/stripes/ykgkbw/) · **Stripes:** [LY K G K DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G K DB W</span></span>
+In pattern [WBKGKY](/stripes/wbkgky/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,14 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNeil 4](/setts/s6/w1db8k9g9k1ly1~x4/)
-- [MacNeil 6](/setts/s6/w3db14k12g12k2ly3~x2/)
-
 
 ## Thread count
 Y/4 K20 G48 K48 B48 LN/4

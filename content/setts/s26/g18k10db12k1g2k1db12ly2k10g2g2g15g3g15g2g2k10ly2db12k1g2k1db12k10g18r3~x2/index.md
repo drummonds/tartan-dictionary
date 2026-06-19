@@ -2,10 +2,9 @@
 title: "Leinster Irish District Tartan Tartan Number: 4062. Earliest known date: 1997 One of the collection of Irish tartans to acknowledge the early historical and cultural links between the Scots and the Irish. Dublin is the principal city of Leinster. Woven swatch. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGKBKGKBYKGGGGGGGKYBKGKBKG](/stripes/rgkbkgkbykgggggggkybkgkbkg/) · **Stripes:** [R G K DB K G K DB LY K G G G G G G G K LY DB K G K DB K G](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K DB K G K DB LY K G G G G G G G K LY DB K G K DB K G</span></span>
+In pattern [GKBKGKBYKGGGGGGGKYBKGKBKGR](/stripes/gkbkgkbykgggggggkybkgkbkgr/).
 
-
-This was sourced from house-of-tartan.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4062
 

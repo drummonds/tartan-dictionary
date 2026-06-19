@@ -2,10 +2,9 @@
 title: "Utah Valley University"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKGWK](/stripes/kgwgkgwk/) · **Stripes:** [K DG W DG K DG W K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG W DG K DG W K</span></span>
+In pattern [KGWGKGWK](/stripes/kgwgkgwk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11619
 

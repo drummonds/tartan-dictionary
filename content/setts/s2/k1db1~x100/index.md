@@ -2,10 +2,9 @@
 title: "Buffalo Plaid"
 date: 2023-03-18
 ---
-**Bands:** [KB](/stripes/kb/) · **Stripes:** [K DB](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB</span></span>
+In pattern [BK](/stripes/bk/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5286
 
@@ -15,14 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5286](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5286)
 - Scottish Tartans Authority (ITI): 3762
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Staines](/setts/s2/db12k1~x10/)
-- [Tartan Army](/setts/s2/db2k1~x4/)
-
 
 ## Thread count
 K/100 DB/100

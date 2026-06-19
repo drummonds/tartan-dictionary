@@ -2,10 +2,9 @@
 title: "Forbes"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKWKGKBKBKB](/stripes/bkbkgkwkgkbkbkb/) · **Stripes:** [DB K DB K G K W K G K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G K W K G K DB K DB K DB</span></span>
+In pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,14 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Forbes](/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/)
-- [Forbes](/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/)
-
 
 ## Thread count
 B/16 K2 B4 K2 B4 K12 G16 K2 LN4 K2 G16 K12 B16 K2 B/4

@@ -2,10 +2,9 @@
 title: "Stewart Dress, Purple (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [WBYBWGBBBW](/stripes/wbybwgbbbw/) · **Stripes:** [W DP LO DP W G DP DP DP W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DP LO DP W G DP DP DP W</span></span>
+In pattern [WBBBGWBYBW](/stripes/wbbbgwbybw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6551/
 

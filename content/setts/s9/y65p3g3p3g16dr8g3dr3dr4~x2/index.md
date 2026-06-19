@@ -2,10 +2,9 @@
 title: "Scottish National (hunting)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBGBB](/stripes/gbgbgbgbb/) · **Stripes:** [Y P G P G DR G DR DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="seq">Y P G P G DR G DR DR</span></span>
+In pattern [BBGBGBGBG](/stripes/bbgbgbgbg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

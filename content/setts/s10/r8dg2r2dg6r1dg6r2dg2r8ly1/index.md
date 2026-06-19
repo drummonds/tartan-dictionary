@@ -2,10 +2,9 @@
 title: "Bruce"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRY](/stripes/rgrgrgrgry/) · **Stripes:** [R DG R DG R DG R DG R LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG R DG R DG R DG R LY</span></span>
+In pattern [RGRGRGRGRY](/stripes/rgrgrgrgry/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

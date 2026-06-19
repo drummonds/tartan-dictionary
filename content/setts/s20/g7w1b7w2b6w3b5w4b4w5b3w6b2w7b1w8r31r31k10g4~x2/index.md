@@ -2,10 +2,9 @@
 title: "Gallacher, (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GKRRWBWBWBWBWBWBWBWG](/stripes/gkrrwbwbwbwbwbwbwbwg/) · **Stripes:** [G K R R W B W B W B W B W B W B W B W G](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K R R W B W B W B W B W B W B W B W G</span></span>
+In pattern [GKRRWBWBWBWBWBWBWBWG](/stripes/gkrrwbwbwbwbwbwbwbwg/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10053/
 

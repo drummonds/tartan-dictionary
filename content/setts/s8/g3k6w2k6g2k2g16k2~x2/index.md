@@ -2,10 +2,9 @@
 title: "MacLean of Duart Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKWKG](/stripes/kgkgkwkg/) · **Stripes:** [K G K G K W K G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G K W K G</span></span>
+In pattern [GKWKGKGK](/stripes/gkwkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2617](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617)
 - Scottish Tartans Authority (ITI): 824
 - Scottish Tartans World Register: 824
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLean of Duart, hunting](/setts/s8/g3k6w1k6g2k2g16k1~x2/)
-
 
 ## Thread count
 G/6 K12 LN4 K12 G4 K4 G32 K/4

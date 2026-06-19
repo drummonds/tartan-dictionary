@@ -2,10 +2,9 @@
 title: "MacLean of Duart Dress"
 date: 2023-03-18
 ---
-**Bands:** [GRRRWGWGYGRB](/stripes/grrrwgwgygrb/) · **Stripes:** [DY R O R W DY W DY LO DY O N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">DY R O R W DY W DY LO DY O N</span></span>
+In pattern [BRGYGWGWRRRG](/stripes/brgygwgwrrrg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2612
 

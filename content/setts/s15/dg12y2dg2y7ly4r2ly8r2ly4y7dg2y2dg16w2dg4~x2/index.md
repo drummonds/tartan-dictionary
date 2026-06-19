@@ -2,10 +2,9 @@
 title: "Confessore"
 date: 2023-03-18
 ---
-**Bands:** [GGGGYRYRYGGGGWG](/stripes/ggggyryryggggwg/) · **Stripes:** [DG Y DG Y LY R LY R LY Y DG Y DG W DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DG Y DG Y LY R LY R LY Y DG Y DG W DG</span></span>
+In pattern [GGGGYRYRYGGGGWG](/stripes/ggggyryryggggwg/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

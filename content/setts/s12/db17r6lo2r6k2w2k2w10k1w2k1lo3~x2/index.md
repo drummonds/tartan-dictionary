@@ -2,10 +2,9 @@
 title: "Chieftain, The"
 date: 2023-03-18
 ---
-**Bands:** [YKWKWKWKRYRB](/stripes/ykwkwkwkryrb/) · **Stripes:** [LO K W K W K W K R LO R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K W K W K W K R LO R DB</span></span>
+In pattern [BRYRKWKWKWKY](/stripes/bryrkwkwkwky/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=631
 

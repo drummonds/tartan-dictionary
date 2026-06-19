@@ -2,10 +2,9 @@
 title: "Gedling, Peter (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBBYBYBKB](/stripes/rbbybybkb/) · **Stripes:** [R DB DP LY DP LY DP K DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DB DP LY DP LY DP K DP</span></span>
+In pattern [BKBYBYBBR](/stripes/bkbybybbr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10957/
 

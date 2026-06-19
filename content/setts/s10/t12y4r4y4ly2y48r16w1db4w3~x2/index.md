@@ -2,10 +2,9 @@
 title: "Confederate Memorial"
 date: 2023-03-18
 ---
-**Bands:** [BGRGYGRWBW](/stripes/bgrgygrwbw/) · **Stripes:** [T Y R Y LY Y R W DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T Y R Y LY Y R W DB W</span></span>
+In pattern [BGRGYGRWBW](/stripes/bgrgygrwbw/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

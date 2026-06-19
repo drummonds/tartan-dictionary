@@ -2,10 +2,9 @@
 title: "Maitland"
 date: 2023-03-18
 ---
-**Bands:** [RYBYGKGBG](/stripes/rybygkgbg/) · **Stripes:** [R LY DB LY DG K DG DB DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R LY DB LY DG K DG DB DG</span></span>
+In pattern [GBGKGYBYR](/stripes/gbgkgybyr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Maitland](/setts/s9/dg3db9dg3k4dg8ly2db2ly2r2/)
-- [Maitland](/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2~x2/)
-
 
 ## Thread count
 DG/3 DB8 DG3 K4 DG9 LG2 DB2 LG2 DR/2

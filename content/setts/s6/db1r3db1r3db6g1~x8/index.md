@@ -2,10 +2,9 @@
 title: "Robbins"
 date: 2023-03-18
 ---
-**Bands:** [GBRBRB](/stripes/gbrbrb/) · **Stripes:** [G DB R DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB R DB R DB</span></span>
+In pattern [BRBRBG](/stripes/brbrbg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3517
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3517](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3517)
 - Scottish Tartans Authority (ITI): 412
 - Scottish Tartans World Register: 412
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Robbins](/setts/s6/db1r3db1r3db6g1~x4/)
-
 
 ## Thread count
 DB/8 DR24 DB8 DR24 DB48 G/8

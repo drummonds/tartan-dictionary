@@ -2,10 +2,9 @@
 title: "Casey Dress (Estimated threadcount)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRWRKRKRKWRWKWKWKWKWYW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwyw/) · **Stripes:** [K R K R K R W R K R K R K W R W K W K W K W K W LY W](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R K R K R W R K R K R K W R W K W K W K W K W LY W</span></span>
+In pattern [KRKRKRWRKRKRKWRWKWKWKWKWYW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwyw/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=589
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [589](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=589)
 - Scottish Tartans Authority (ITI): 6751
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Casey (Dress) Fashion Tartan Tartan Number: 6751. Earliest known date: 01/01/2005 One of a series of Irish name tartans designed by Scotch Corner of Gateshead, England. Estimated threadcount. n asymmetric tartan woven by Marton Mills (JR554T) for Naxos Fashion & Schoolwear of Wood Green, London. This tartan comes from Scotch Corner of Gateshead who have produced various Irish surname tartans over the years . See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s26/w14ly2w14k4w4k8w3k8w4k4w14r2w14k3r1k1r1k1r8w2r8k1r1k1r1k3~x2/)
-
 
 ## Thread count
 W/28 Y4 W28 K8 W8 K16 W6 K16 W8 K8 W28 R4 W28 K8 R2 K2 R2 K2 R16 W4 R16 K2 R2 K2 R2 K/8

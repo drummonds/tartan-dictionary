@@ -2,10 +2,9 @@
 title: "Lochcarron Camel"
 date: 2023-03-18
 ---
-**Bands:** [RRKWR](/stripes/rrkwr/) · **Stripes:** [R O K LB O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O K LB O</span></span>
+In pattern [RRKWR](/stripes/rrkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2168
 

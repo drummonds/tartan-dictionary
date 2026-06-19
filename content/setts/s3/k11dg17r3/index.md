@@ -2,10 +2,9 @@
 title: "Kincaid"
 date: 2023-03-18
 ---
-**Bands:** [KGR](/stripes/kgr/) · **Stripes:** [K DG R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG R</span></span>
+In pattern [KGR](/stripes/kgr/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -40,13 +39,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kincaid](/setts/s3/k11dg17r3~x2/)
-
 
 ## Thread count
 K/11 G17 R/3

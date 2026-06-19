@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbwk/
 ---
-BKBWK
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/k3w2n27k31p3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BKBWK
+
+{{< pat "BKBWK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K W N K P <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K W N K P</span></span>
 
 | Tartans |
 |---------------|
 | [Kelley Oliphint](/setts/s5/k3w2n27k31p3~x2/)|
 |![Kelley Oliphint example sett](/setts/s5/k3w2n27k31p3~x2/sett.png)|
-

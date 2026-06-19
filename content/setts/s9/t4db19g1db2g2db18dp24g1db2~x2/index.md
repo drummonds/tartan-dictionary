@@ -2,10 +2,9 @@
 title: "Spirit of Alba (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGBBGBGBB](/stripes/bgbbgbgbb/) · **Stripes:** [DB G DP DB G DB G DB T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB G DP DB G DB G DB T</span></span>
+In pattern [BBGBGBBGB](/stripes/bbgbgbbgb/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3904/
 

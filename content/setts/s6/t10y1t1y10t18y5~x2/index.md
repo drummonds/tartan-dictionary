@@ -2,10 +2,9 @@
 title: "Harmony 13"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGB](/stripes/gbgbgb/) · **Stripes:** [Y T Y T Y T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="seq">Y T Y T Y T</span></span>
+In pattern [BGBGBG](/stripes/bgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1615
 

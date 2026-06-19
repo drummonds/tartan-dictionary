@@ -2,10 +2,9 @@
 title: "Glenmorangie, Check"
 date: 2023-03-18
 ---
-**Bands:** [RRR](/stripes/rrr/) · **Stripes:** [R O O](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O O</span></span>
+In pattern [RRR](/stripes/rrr/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

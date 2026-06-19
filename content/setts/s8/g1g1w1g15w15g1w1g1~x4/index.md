@@ -2,19 +2,11 @@
 title: "Bundy, Dress Black Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGWGWGWG](/stripes/ggwgwgwg/) · **Stripes:** [G G W G W G W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G G W G W G W G</span></span>
+In pattern [GGWGWGWG](/stripes/ggwgwgwg/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/9000/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Jubilation Tartan](/setts/s8/g8w2g11w13g30w13g11g2~x2/)
-
 
 ## Thread count
 Ga/4 G4 W4 G60 W60 G4 W4 Ga/4

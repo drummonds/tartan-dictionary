@@ -2,10 +2,9 @@
 title: "Craig"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKGKGRKGKGYGGKR](/stripes/rkgkgkgkgrkgkgyggkr/) · **Stripes:** [R K G K Y K Y K Y R K G K Y LY G Y K R](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G K Y K Y K Y R K G K Y LY G Y K R</span></span>
+In pattern [RKGGYGKGKRGKGKGKGKR](/stripes/rkggygkgkrgkgkgkgkr/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

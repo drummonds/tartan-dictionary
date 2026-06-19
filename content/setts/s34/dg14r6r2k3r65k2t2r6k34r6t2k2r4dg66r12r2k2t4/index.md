@@ -2,10 +2,9 @@
 title: "Stuart/Stewart of Ardshiel"
 date: 2023-03-18
 ---
-**Bands:** [KRRGRKBRKRBKRKRRGRRKRKBRKRBKRGRRKB](/stripes/krrgrkbrkrbkrkrrgrrkrkbrkrbkrgrrkb/) · **Stripes:** [K R R DG R K T R K R T K R K R R DG R R K R K T R K R T K R DG R R K T](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R R DG R K T R K R T K R K R R DG R R K R K T R K R T K R DG R R K T</span></span>
+In pattern [BKRRGRKBRKRBKRKRRGRRKRKBRKRBKRGRRK](/stripes/bkrrgrkbrkrbkrkrrgrrkrkbrkrbkrgrrk/).
 
-
-This was sourced from register-of-tartans.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4017
 

@@ -2,10 +2,9 @@
 title: "Strange of Balcaskie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGBYGYBGGG](/stripes/ggggbygybggg/) · **Stripes:** [G DY G DY DB LY DY LY DB DY G DY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">G DY G DY DB LY DY LY DB DY G DY</span></span>
+In pattern [GGGBYGYBGGGG](/stripes/gggbygybgggg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3976
 

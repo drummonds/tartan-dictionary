@@ -2,10 +2,9 @@
 title: "Dundhuin Gold"
 date: 2023-03-18
 ---
-**Bands:** [RBYGWY](/stripes/rbygwy/) · **Stripes:** [O T LY DG W LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O T LY DG W LY</span></span>
+In pattern [RBYGWY](/stripes/rbygwy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10234
 

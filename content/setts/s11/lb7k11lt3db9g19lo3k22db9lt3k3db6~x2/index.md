@@ -2,10 +2,9 @@
 title: "Veere"
 date: 2023-03-18
 ---
-**Bands:** [BKWBKYGBWKW](/stripes/bkwbkygbwkw/) · **Stripes:** [DB K LT DB K LO G DB LT K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB K LT DB K LO G DB LT K LB</span></span>
+In pattern [BKWBKYGBWKW](/stripes/bkwbkygbwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4446
 

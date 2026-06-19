@@ -2,10 +2,9 @@
 title: "Lopatinsky (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBKBRWRWRB](/stripes/ybkbrwrwrb/) · **Stripes:** [LY B K DB R W R W R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY B K DB R W R W R DB</span></span>
+In pattern [BRWRWRBKBY](/stripes/brwrwrbkby/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7770/
 

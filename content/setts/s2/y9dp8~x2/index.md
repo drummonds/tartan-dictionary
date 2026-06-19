@@ -2,10 +2,9 @@
 title: "Wilson's No.116 (light)"
 date: 2023-03-18
 ---
-**Bands:** [GB](/stripes/gb/) · **Stripes:** [Y DP](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">Y DP</span></span>
+In pattern [BG](/stripes/bg/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4682
 

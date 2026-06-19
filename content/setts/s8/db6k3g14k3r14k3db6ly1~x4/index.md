@@ -2,10 +2,9 @@
 title: "Kilgour (Symmetrical)"
 date: 2023-03-18
 ---
-**Bands:** [YBKRKGKB](/stripes/ybkrkgkb/) · **Stripes:** [LY DB K R K G K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB K R K G K DB</span></span>
+In pattern [BKGKRKBY](/stripes/bkgkrkby/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5348/
 

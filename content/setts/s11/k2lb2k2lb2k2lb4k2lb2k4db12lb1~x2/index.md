@@ -2,10 +2,9 @@
 title: "Napier"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKWKBW](/stripes/kwkwkwkwkbw/) · **Stripes:** [K LB K LB K LB K LB K DB LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LB K LB K LB K LB K DB LB</span></span>
+In pattern [KWKWKWKWKBW](/stripes/kwkwkwkwkbw/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

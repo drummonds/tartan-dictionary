@@ -2,10 +2,9 @@
 title: "Carnegie Dress #1 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGKRWRWRW](/stripes/ygrgrgkrwrwrw/) · **Stripes:** [LY G R G R G K R W R W R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G R G R G K R W R W R W</span></span>
+In pattern [WRWRWRKGRGRGY](/stripes/wrwrwrkgrgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1869/
 
@@ -901,13 +900,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Valley of the Green #2](/setts/s13/w9r2w2r6w14r2k14g14r6g2r2g8ly3~x2/)
-
 
 ## Thread count
 W/16 R4 W4 R12 W26 R4 K26 G26 R12 G4 R4 G8 Y/6

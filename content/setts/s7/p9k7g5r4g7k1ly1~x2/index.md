@@ -2,10 +2,9 @@
 title: "MacLaren"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGKB](/stripes/ykgrgkb/) · **Stripes:** [LY K G R G K P](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY K G R G K P</span></span>
+In pattern [BKGRGKY](/stripes/bkgrgky/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Regent](/setts/s7/p18k7g5r4g7k1ly2~x2/)
-
 
 ## Thread count
 P/18 K14 G10 R8 G14 K2 Y/2

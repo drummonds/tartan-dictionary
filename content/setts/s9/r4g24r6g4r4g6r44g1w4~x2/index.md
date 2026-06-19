@@ -2,10 +2,9 @@
 title: "Baluch Regiment"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGW](/stripes/rgrgrgrgw/) · **Stripes:** [R G R G R G R G W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R G R G R G W</span></span>
+In pattern [RGRGRGRGW](/stripes/rgrgrgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=188
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [188](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=188)
 - Scottish Tartans Authority (ITI): 6046
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fitzgerald/Baluchistan](/setts/s9/r5g20r5g3r4g5r36g1w4~x2/)
-
 
 ## Thread count
 R/8 G48 R12 G8 R8 G12 R88 G2 Wa/8

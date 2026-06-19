@@ -2,10 +2,9 @@
 title: "Duke of Sussex (Earl of Inverness)"
 date: 2023-03-18
 ---
-**Bands:** [RYGYGWGR](/stripes/rygygwgr/) · **Stripes:** [R LY G LY G W G R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY G LY G W G R</span></span>
+In pattern [RGWGYGYR](/stripes/rgwgygyr/).
 
-
-This was sourced from logan-1831.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link /posts/logans-scottish-gael/
 

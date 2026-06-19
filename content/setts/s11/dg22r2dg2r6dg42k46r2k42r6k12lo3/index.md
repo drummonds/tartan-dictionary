@@ -2,10 +2,9 @@
 title: "79th Regiment (Military)"
 date: 2023-03-18
 ---
-**Bands:** [YKRKRKGRGRG](/stripes/ykrkrkgrgrg/) · **Stripes:** [LO K R K R K DG R DG R DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LO K R K R K DG R DG R DG</span></span>
+In pattern [GRGRGKRKRKY](/stripes/grgrgkrkrky/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3613/
 

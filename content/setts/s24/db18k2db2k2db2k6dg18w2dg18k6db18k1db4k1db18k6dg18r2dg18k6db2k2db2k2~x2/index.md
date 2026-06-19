@@ -2,10 +2,9 @@
 title: "MacKenzie (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGRGKBKBKBKGWGKBKBKB](/stripes/kbkbkgrgkbkbkbkgwgkbkbkb/) · **Stripes:** [K DB K DB K DG R DG K DB K DB K DB K DG W DG K DB K DB K DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DG R DG K DB K DB K DB K DG W DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGWGKBKBKBKGRGKBKBK](/stripes/bkbkbkgwgkbkbkbkgrgkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2523
 

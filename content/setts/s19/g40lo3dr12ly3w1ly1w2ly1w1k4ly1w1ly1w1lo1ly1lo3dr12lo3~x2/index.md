@@ -2,10 +2,9 @@
 title: "Tenon Tours"
 date: 2023-03-18
 ---
-**Bands:** [YBYYYWYWYKWYWYWYBYG](/stripes/ybyyywywykwywywybyg/) · **Stripes:** [LO DR LO LY LO W LY W LY K W LY W LY W LY DR LO G](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO DR LO LY LO W LY W LY K W LY W LY W LY DR LO G</span></span>
+In pattern [GYBYWYWYWKYWYWYYYBY](/stripes/gybywywywkywywyyyby/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10990
 

@@ -2,10 +2,9 @@
 title: "MacPherson"
 date: 2023-03-18
 ---
-**Bands:** [RKWRWKWKWKYGRWR](/stripes/rkwrwkwkwkygrwr/) · **Stripes:** [R K LB R LB K LB K LB K LY DG R LB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K LB R LB K LB K LB K LY DG R LB R</span></span>
+In pattern [RKWRWKWKWKYGRWR](/stripes/rkwrwkwkwkygrwr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

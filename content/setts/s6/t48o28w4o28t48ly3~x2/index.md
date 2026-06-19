@@ -2,10 +2,9 @@
 title: "McKerrell of Hillhouse Dress"
 date: 2023-03-18
 ---
-**Bands:** [YBRWRB](/stripes/ybrwrb/) · **Stripes:** [LY T O W O T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY T O W O T</span></span>
+In pattern [BRWRBY](/stripes/brwrby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2890
 

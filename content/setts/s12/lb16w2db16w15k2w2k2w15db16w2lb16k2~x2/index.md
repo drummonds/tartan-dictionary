@@ -2,10 +2,9 @@
 title: "Strathclyde (Official)"
 date: 2023-03-18
 ---
-**Bands:** [KWWBWKWKWBWW](/stripes/kwwbwkwkwbww/) · **Stripes:** [K LB W DB W K W K W DB W LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LB W DB W K W K W DB W LB</span></span>
+In pattern [KWWBWKWKWBWW](/stripes/kwwbwkwkwbww/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3980
 

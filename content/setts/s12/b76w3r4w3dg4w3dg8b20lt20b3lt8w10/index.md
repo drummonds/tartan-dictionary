@@ -2,10 +2,9 @@
 title: "Summerwood"
 date: 2023-03-18
 ---
-**Bands:** [BWRWGWGBWBWW](/stripes/bwrwgwgbwbww/) · **Stripes:** [B W R W DG W DG B LT B LT W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B W R W DG W DG B LT B LT W</span></span>
+In pattern [BWRWGWGBWBWW](/stripes/bwrwgwgbwbww/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5903
 

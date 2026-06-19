@@ -2,10 +2,9 @@
 title: "Van Ingelgem Htg (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGGGGGGGGGGGBGGGGB](/stripes/kgggggggggggbggggb/) · **Stripes:** [K DG DY DG DY DG DY Y DY Y DY Y DB Y DY Y DG DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DG DY DG DY DG DY Y DY Y DY Y DB Y DY Y DG DB</span></span>
+In pattern [BGGGGBGGGGGGGGGGGK](/stripes/bggggbgggggggggggk/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7798/
 

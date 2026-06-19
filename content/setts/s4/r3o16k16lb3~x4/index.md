@@ -2,10 +2,9 @@
 title: "Thompson, Dress (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RRKW](/stripes/rrkw/) · **Stripes:** [R O K LB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R O K LB</span></span>
+In pattern [RRKW](/stripes/rrkw/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3597/
 

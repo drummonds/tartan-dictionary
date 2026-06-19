@@ -2,10 +2,9 @@
 title: "Wilson's, No 205"
 date: 2023-03-18
 ---
-**Bands:** [BBGW](/stripes/bbgw/) · **Stripes:** [T DB G W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DB G W</span></span>
+In pattern [BBGW](/stripes/bbgw/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

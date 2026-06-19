@@ -2,10 +2,9 @@
 title: "St. Andrews University (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BYKYBGKGBB](/stripes/bykybgkgbb/) · **Stripes:** [DB LY K LY DB G K G DB DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LY K LY DB G K G DB DB</span></span>
+In pattern [BBGKGBYKYB](/stripes/bbgkgbykyb/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2398/
 

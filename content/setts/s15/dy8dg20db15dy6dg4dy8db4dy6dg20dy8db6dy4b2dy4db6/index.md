@@ -2,10 +2,9 @@
 title: "Unidentified Fragment #2"
 date: 2023-03-18
 ---
-**Bands:** [GGBGGGBGGGBGBGB](/stripes/ggbgggbgggbgbgb/) · **Stripes:** [DY DG DB DY DG DY DB DY DG DY DB DY B DY DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">DY DG DB DY DG DY DB DY DG DY DB DY B DY DB</span></span>
+In pattern [BGBGBGGGBGGGBGG](/stripes/bgbgbgggbgggbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4296
 

@@ -2,10 +2,9 @@
 title: "Pilette of Kinnear (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKGKGRYRWRGKGKGKRK](/stripes/krkgkgkgryrwrgkgkgkrk/) · **Stripes:** [K R K G K G K G R LO R LB R G K G K G K R K](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K G K G K G R LO R LB R G K G K G K R K</span></span>
+In pattern [KRKGKGKGRWRYRGKGKGKRK](/stripes/krkgkgkgrwryrgkgkgkrk/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2139/
 

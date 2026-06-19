@@ -2,10 +2,9 @@
 title: "Head of the Lakes"
 date: 2023-03-18
 ---
-**Bands:** [GWKGBWBWKB](/stripes/gwkgbwbwkb/) · **Stripes:** [G W K G P W P W K T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G W K G P W P W K T</span></span>
+In pattern [BKWBWBGKWG](/stripes/bkwbwbgkwg/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

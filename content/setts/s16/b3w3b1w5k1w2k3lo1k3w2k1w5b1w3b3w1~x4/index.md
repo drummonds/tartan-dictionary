@@ -2,10 +2,9 @@
 title: "Henderson Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWKWKYKWKWBWBW](/stripes/bwbwkwkykwkwbwbw/) · **Stripes:** [B W B W K W K LO K W K W B W B W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B W B W K W K LO K W K W B W B W</span></span>
+In pattern [BWBWKWKYKWKWBWBW](/stripes/bwbwkwkykwkwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1684
 

@@ -2,10 +2,9 @@
 title: "Shandon (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKYKWKGKBBBBB](/stripes/kgkykwkgkbbbbb/) · **Stripes:** [K G K LY K W K G K DP B DP B DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G K LY K W K G K DP B DP B DP</span></span>
+In pattern [BBBBBKGKWKYKGK](/stripes/bbbbbkgkwkykgk/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6229/
 

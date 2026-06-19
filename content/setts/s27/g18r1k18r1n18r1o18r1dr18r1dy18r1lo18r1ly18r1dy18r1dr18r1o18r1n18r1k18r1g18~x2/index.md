@@ -2,10 +2,9 @@
 title: "MacKay of Strathnaver Clan Tartan Tartan Number: 2037. Earliest known date: 1952 Designed circa 1952 for Wm Andersons of Edinburgh and Lord Reay. The tartan features the seasons of the year. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRKRBRRRBRGRYRYRGRBRRRBRKRG](/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/) · **Stripes:** [G R K R N R O R DR R DY R LO R LY R DY R DR R O R N R K R G](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R K R N R O R DR R DY R LO R LY R DY R DR R O R N R K R G</span></span>
+In pattern [GRKRBRRRBRGRYRYRGRBRRRBRKRG](/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/).
 
-
-This was sourced from house-of-tartan.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from house-of-tartan.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2037
 

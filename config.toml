@@ -73,20 +73,21 @@ pagerSize = 20
   weight = 2
     [[menu.main]]
     parent = "tartans"
-    name = "Bands"
-    url = "/bands/"
-    weight = 1
-    [[menu.main]]
-    parent = "tartans"
     name = "Stripes"
     url = "/stripes/"
-    weight = 2
+    weight = 1
     # Overstripes — "coming soon" holding page (layout: holding) until the real
     # content is built. See content/overstripes/.
     [[menu.main]]
     parent = "tartans"
     name = "Overstripes"
     url = "/overstripes/"
+    weight = 2
+    # Match a tartan to a logo or brand colours — the in-browser matcher at /logo/.
+    [[menu.main]]
+    parent = "tartans"
+    name = "Match a logo"
+    url = "/logo/"
     weight = 3
 
   # TTD (the tartan navigator) is its own top-level entry.

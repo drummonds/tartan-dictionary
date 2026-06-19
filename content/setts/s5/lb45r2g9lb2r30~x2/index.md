@@ -2,10 +2,9 @@
 title: "Malaysian Unknown (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RWGRW](/stripes/rwgrw/) · **Stripes:** [R LB G R LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB G R LB</span></span>
+In pattern [RWGRW](/stripes/rwgrw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8667/
 

@@ -2,10 +2,9 @@
 title: "Great Glen (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBBBYBWBBBRBRB](/stripes/brbrbbbybwbbbrbrb/) · **Stripes:** [DT O DT O N DT N LY N LB N DT N O DT O DT](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">DT O DT O N DT N LY N LB N DT N O DT O DT</span></span>
+In pattern [BRBRBBBWBYBBBRBRB](/stripes/brbrbbbwbybbbrbrb/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8957/
 

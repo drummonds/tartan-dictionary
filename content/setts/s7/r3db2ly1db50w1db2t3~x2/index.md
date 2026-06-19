@@ -2,10 +2,9 @@
 title: "Easton (2014)"
 date: 2023-03-18
 ---
-**Bands:** [RBYBWBB](/stripes/rbybwbb/) · **Stripes:** [R DB LY DB W DB T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DB LY DB W DB T</span></span>
+In pattern [BBWBYBR](/stripes/bbwbybr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11121
 

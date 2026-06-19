@@ -2,10 +2,9 @@
 title: "Saint John New Brunswick"
 date: 2023-03-18
 ---
-**Bands:** [GRBRWGWGWRBGB](/stripes/grbrwgwgwrbgb/) · **Stripes:** [G R T R W G W G W R T DY T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T R W G W G W R T DY T</span></span>
+In pattern [BGBRWGWGWRBRG](/stripes/bgbrwgwgwrbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10132
 

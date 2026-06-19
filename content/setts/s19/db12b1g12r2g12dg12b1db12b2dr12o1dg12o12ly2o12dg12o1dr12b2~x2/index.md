@@ -2,10 +2,9 @@
 title: "United Distillers, (Warp)"
 date: 2023-03-18
 ---
-**Bands:** [BBRGRYRGRBBBBGGRGBB](/stripes/bbrgryrgrbbbbggrgbb/) · **Stripes:** [B DR O DG O LY O DG O DR B DB B DG G R G B DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B DR O DG O LY O DG O DR B DB B DG G R G B DB</span></span>
+In pattern [BBGRGGBBBBRGRYRGRBB](/stripes/bbgrggbbbbrgryrgrbb/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

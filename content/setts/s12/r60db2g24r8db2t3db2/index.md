@@ -2,10 +2,9 @@
 title: "Unidentified Cant #12"
 date: 2023-03-18
 ---
-**Bands:** [RBGRBBBBBRGB](/stripes/rbgrbbbbbrgb/) · **Stripes:** [R DB G R DB T DB T DB R G DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB G R DB T DB T DB R G DB</span></span>
+In pattern [BGRBBBBBRGBR](/stripes/bgrbbbbbrgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4907
 

@@ -2,10 +2,9 @@
 title: "Waterford, County"
 date: 2023-03-18
 ---
-**Bands:** [RBBGYG](/stripes/rbbgyg/) · **Stripes:** [R DO DB Y LO DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">R DO DB Y LO DG</span></span>
+In pattern [GYGBBR](/stripes/gygbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4498
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4498](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4498)
 - Scottish Tartans Authority (ITI): 2255
 - Scottish Tartans World Register: 2255
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Waterford, County (District)](/setts/s6/dg24lo2y16db7do16r5~x2/)
-
 
 ## Thread count
 DG/84 DY4 G32 DB14 DR32 R/10

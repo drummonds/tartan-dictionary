@@ -2,10 +2,9 @@
 title: "Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKYKBKBKWKBKBKYKBKBKBKB](/stripes/kbkbkbkykbkbkwkbkbkykbkbkbkb/) · **Stripes:** [K DB K DB K DB K LY K DB K DB K W K DB K DB K LY K DB K DB K DB K DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB K LY K DB K DB K W K DB K DB K LY K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKYKBKBKWKBKBKYKBKBKBK](/stripes/bkbkbkbkykbkbkwkbkbkykbkbkbk/).
 
-
-This was sourced from house-of-tartan.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2531
 

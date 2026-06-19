@@ -2,10 +2,9 @@
 title: "Millennium (Langholm) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YGRBWBGBB](/stripes/ygrbwbgbb/) · **Stripes:** [LO G R DT LB DT DY DT DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO G R DT LB DT DY DT DP</span></span>
+In pattern [BBGBWBRGY](/stripes/bbgbwbrgy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3474/
 

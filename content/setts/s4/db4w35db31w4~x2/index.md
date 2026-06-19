@@ -2,10 +2,9 @@
 title: "Lewis, Navy (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BWBW](/stripes/bwbw/) · **Stripes:** [DB W DB W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB W</span></span>
+In pattern [BWBW](/stripes/bwbw/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7590/
 

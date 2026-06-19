@@ -2,10 +2,9 @@
 title: "Glenorchy, Lord (Portrait)"
 date: 2023-03-18
 ---
-**Bands:** [RWRYRYRWRRRWRRRWRRRWRWR](/stripes/rwryryrwrrrwrrrwrrrwrwr/) · **Stripes:** [R W R LO R LO R W R R R W R R R W R R R W R W R](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R W R LO R LO R W R R R W R R R W R R R W R W R</span></span>
+In pattern [RWRWRRRWRRRWRRRWRYRYRWR](/stripes/rwrwrrrwrrrwrrrwryryrwr/).
 
-
-This was sourced from tartans-authority.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7061/
 

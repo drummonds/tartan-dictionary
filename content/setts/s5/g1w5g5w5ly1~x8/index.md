@@ -2,10 +2,9 @@
 title: "Eastern Townshippers (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YWGWG](/stripes/ywgwg/) · **Stripes:** [LY W G W G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY W G W G</span></span>
+In pattern [GWGWY](/stripes/gwgwy/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7943/
 

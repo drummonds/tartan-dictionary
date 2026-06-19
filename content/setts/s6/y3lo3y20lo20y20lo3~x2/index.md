@@ -2,10 +2,9 @@
 title: "Barbie's Moss Plaid (Yellow & Green)"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYG](/stripes/ygygyg/) · **Stripes:** [LO Y LO Y LO Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y LO Y LO Y</span></span>
+In pattern [GYGYGY](/stripes/gygygy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=210
 

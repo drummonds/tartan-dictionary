@@ -2,10 +2,9 @@
 title: "Islander Dress"
 date: 2023-03-18
 ---
-**Bands:** [KWRWK](/stripes/kwrwk/) · **Stripes:** [K W M LB K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">K W M LB K</span></span>
+In pattern [KWRWK](/stripes/kwrwk/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10248
 

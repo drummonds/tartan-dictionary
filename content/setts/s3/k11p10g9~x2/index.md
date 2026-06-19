@@ -2,10 +2,9 @@
 title: "Wilson's, No 185"
 date: 2023-03-18
 ---
-**Bands:** [KBG](/stripes/kbg/) · **Stripes:** [K P G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K P G</span></span>
+In pattern [GBK](/stripes/gbk/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

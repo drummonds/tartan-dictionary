@@ -2,10 +2,9 @@
 title: "205 (Scottish) Field Hospital (Mil.)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKRR](/stripes/rkgkrr/) · **Stripes:** [R K DG K R O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R K DG K R O</span></span>
+In pattern [RKGKRR](/stripes/rkgkrr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8371/
 

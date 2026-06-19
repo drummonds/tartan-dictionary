@@ -2,10 +2,9 @@
 title: "Baseggio Name Tartan Tartan Number: 10628. Earliest known date: 23/05/2012 This tartan is for members of the Golden Bones branch of the Baseggio family, one of the oldest houses of the city of Venice, Italy, but it can be worn by anyone who likes the design. Colours: gold and blue are for the Baseggio coat of arms, the thick golden line represents the crown and the three thin golden lines are for the three bones; the green, white and red stripes represent the Italian Tricolore flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKYKYKBKRWGKB](/stripes/kykykykykbkrwgkb/) · **Stripes:** [K LO K LO K LO K LO K T K R W G K T](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LO K LO K LO K LO K T K R W G K T</span></span>
+In pattern [BKGWRKBKYKYKYKYK](/stripes/bkgwrkbkykykykyk/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10628
 

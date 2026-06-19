@@ -2,10 +2,9 @@
 title: "Swallow Hotels (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKBKBK](/stripes/kgkrkbkbk/) · **Stripes:** [K G K R K DB K DB K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K R K DB K DB K</span></span>
+In pattern [KBKBKRKGK](/stripes/kbkbkrkgk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6827/
 

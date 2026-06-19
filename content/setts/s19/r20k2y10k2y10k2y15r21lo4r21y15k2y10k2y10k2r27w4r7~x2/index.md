@@ -2,10 +2,9 @@
 title: "East Kilbride District Tartan Tartan Number: 2128. Earliest known date: 1990 East Kilbride district tartan was designed by Dr Gordon Teall, chairman of the Scottish Tartans Society, for the East Kilbride New Town Development Corporation. Prior to weaving the first bales of cloth, some modifications were made to the design to improve the appearance when woven in reproduction colours, taking the form of black guards and an addition black overcheck on the blue. (Blue appears dark gray or brown in reproduction colours). Both variations are represented in Dr Tealls book, District Tartans. Despite the very different appearance of the resulting fabric the sett design is essentially the same. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKGRYRGKGKGKRWR](/stripes/rkgkgkgryrgkgkgkrwr/) · **Stripes:** [R K Y K Y K Y R LO R Y K Y K Y K R W R](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K Y K Y K Y R LO R Y K Y K Y K R W R</span></span>
+In pattern [RKGKGKGRYRGKGKGKRWR](/stripes/rkgkgkgryrgkgkgkrwr/).
 
-
-This was sourced from house-of-tartan.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2128
 

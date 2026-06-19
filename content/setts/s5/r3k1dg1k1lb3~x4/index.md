@@ -2,10 +2,9 @@
 title: "Clark"
 date: 2023-03-18
 ---
-**Bands:** [RKGKW](/stripes/rkgkw/) · **Stripes:** [R K DG K LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R K DG K LB</span></span>
+In pattern [RKGKW](/stripes/rkgkw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

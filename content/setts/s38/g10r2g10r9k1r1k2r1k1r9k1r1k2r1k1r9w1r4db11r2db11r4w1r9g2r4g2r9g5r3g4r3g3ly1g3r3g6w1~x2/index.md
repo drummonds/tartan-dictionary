@@ -2,10 +2,9 @@
 title: "MacRae Prince's Own"
 date: 2023-03-18
 ---
-**Bands:** [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/) · **Stripes:** [G R G R K R K R K R K R K R K R W R DB R DB R W R G R G R G R G R G LY G R G W](/stripes/stripes38/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R G R K R K R K R K R K R K R W R DB R DB R W R G R G R G R G R G LY G R G W</span></span>
+In pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [38 band tartan](/bands/bands38/).
+This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2752
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2752](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2752)
 - Scottish Tartans Authority (ITI): 981
 - Scottish Tartans World Register: 981
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacRae The Princes Own Clan Tartan Tartan Number: 982. Earliest known date: c.1815 Two MacRae setts, of which this is one, are contained in the Highland Society collection and presumably sealed by the Chief around 1815. Unless he recognised both, perhaps one is the clan and the other the Chief's own See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s38/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20w2r9db26r5db28r9w2r22g3r8g3r22g8r6g8r6g5ly3g5r7g12w2~x2/)
-
 
 ## Thread count
 G/20 R4 G20 R18 K2 R2 K4 R2 K2 R18 K2 R2 K4 R2 K2 R18 LN2 R8 DB22 R4 DB22 R8 LN2 R18 G4 R8 G4 R18 G10 R6 G8 R6 G6 Y2 G6 R6 G12 LN/2

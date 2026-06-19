@@ -2,10 +2,9 @@
 title: "Ikelman #3a (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKRYB](/stripes/bkryb/) · **Stripes:** [N K R LO N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="seq">N K R LO N</span></span>
+In pattern [BKRYB](/stripes/bkryb/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2212/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/2212/
 This cloth is also recorded under:
 
 - Ikelman #3
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ikelman #2 (Personal)](/setts/s5/n11k4r4lo4n1~x4/)
-
 
 ## Thread count
 N/44 K16 DR16 DY16 N/44

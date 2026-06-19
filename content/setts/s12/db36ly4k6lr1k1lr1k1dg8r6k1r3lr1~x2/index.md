@@ -2,10 +2,9 @@
 title: "MacBeth"
 date: 2023-03-18
 ---
-**Bands:** [YRKRGKYKYKYB](/stripes/yrkrgkykykyb/) · **Stripes:** [LR R K R DG K LR K LR K LY DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LR R K R DG K LR K LR K LY DB</span></span>
+In pattern [BYKYKYKGRKRY](/stripes/bykykykgrkry/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacBeth](/setts/s12/db36ly4k6lr1k1lr1k1dg8r6k1r3lr1/)
-
 
 ## Thread count
 DB/72 LG8 K12 N2 K2 N2 K2 DG16 DR12 K2 DR6 N/2

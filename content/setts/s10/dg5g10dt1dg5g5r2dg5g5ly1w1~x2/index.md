@@ -2,10 +2,9 @@
 title: "Mississippi District Tartan Tartan Number: 6789. Earliest known date: 2005 Karen M Green of the Mississippi Gulf Coast Scottish Highland Games and Celtic Music Festival designed the tartan using the House of Tartan online tartan designer. She hopes to get the approval of the MS State Legislature to adopt the tartan as the Mississippi State tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GGBGGRGGYW](/stripes/ggbggrggyw/) · **Stripes:** [DG G DT DG G R DG G LY W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG G DT DG G R DG G LY W</span></span>
+In pattern [GGBGGRGGYW](/stripes/ggbggrggyw/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6789
 

@@ -2,10 +2,9 @@
 title: "Dorcas"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKBKGYGYG](/stripes/rbkbkbkgygyg/) · **Stripes:** [O DO K DO K DO K Y LR Y LR Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O DO K DO K DO K Y LR Y LR Y</span></span>
+In pattern [GYGYGKBKBKBR](/stripes/gygygkbkbkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4879
 

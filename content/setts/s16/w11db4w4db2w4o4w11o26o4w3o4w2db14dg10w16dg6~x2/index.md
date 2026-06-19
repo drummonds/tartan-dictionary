@@ -2,10 +2,9 @@
 title: "Stuart-Houghton Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GWGBWRWRRWRWBWBW](/stripes/gwgbwrwrrwrwbwbw/) · **Stripes:** [DG W DG DB W O W O O W O W DB W DB W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG W DG DB W O W O O W O W DB W DB W</span></span>
+In pattern [GWGBWRWRRWRWBWBW](/stripes/gwgbwrwrrwrwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11085/
 

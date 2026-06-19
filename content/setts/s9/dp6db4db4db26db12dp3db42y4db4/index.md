@@ -2,10 +2,9 @@
 title: "Goldblatt, Joe Jeff (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGBBBBBBB](/stripes/bgbbbbbbb/) · **Stripes:** [DB Y DB DP DB DB DB DB DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB Y DB DP DB DB DB DB DP</span></span>
+In pattern [BBBBBBBGB](/stripes/bbbbbbbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11231
 

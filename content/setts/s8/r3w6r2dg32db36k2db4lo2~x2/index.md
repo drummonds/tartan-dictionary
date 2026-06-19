@@ -2,10 +2,9 @@
 title: "Canadian Centennial"
 date: 2023-03-18
 ---
-**Bands:** [RWRGBKBY](/stripes/rwrgbkby/) · **Stripes:** [R W R DG DB K DB LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R W R DG DB K DB LO</span></span>
+In pattern [RWRGBKBY](/stripes/rwrgbkby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=543
 

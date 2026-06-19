@@ -2,10 +2,9 @@
 title: "Beck Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBWBKBWRWBK](/stripes/kbkbkbwbkbwrwbk/) · **Stripes:** [K T K T K T W T K T W R W T K](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K T K T K T W T K T W R W T K</span></span>
+In pattern [KBKBKBWBKBWRWBK](/stripes/kbkbkbwbkbwrwbk/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5436
 

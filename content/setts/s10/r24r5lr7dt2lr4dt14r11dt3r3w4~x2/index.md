@@ -2,10 +2,9 @@
 title: "MIT1951"
 date: 2023-03-18
 ---
-**Bands:** [RRYBYBRBRW](/stripes/rrybybrbrw/) · **Stripes:** [R R LR DT LR DT R DT R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R R LR DT LR DT R DT R W</span></span>
+In pattern [RRYBYBRBRW](/stripes/rrybybrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11622
 

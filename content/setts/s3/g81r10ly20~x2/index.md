@@ -2,10 +2,9 @@
 title: "McMoosie"
 date: 2023-03-18
 ---
-**Bands:** [YRG](/stripes/yrg/) · **Stripes:** [LY R G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R G</span></span>
+In pattern [GRY](/stripes/gry/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2899
 

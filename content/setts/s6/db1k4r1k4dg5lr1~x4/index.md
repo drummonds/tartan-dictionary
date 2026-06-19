@@ -2,10 +2,9 @@
 title: "Unidentified Dance"
 date: 2023-03-18
 ---
-**Bands:** [YGKRKB](/stripes/ygkrkb/) · **Stripes:** [LR DG K R K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DG K R K DB</span></span>
+In pattern [BKRKGY](/stripes/bkrkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4290
 

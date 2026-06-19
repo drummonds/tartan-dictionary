@@ -2,10 +2,9 @@
 title: "Hudson, Bay Company"
 date: 2023-03-18
 ---
-**Bands:** [RKWKGGGKGYGR](/stripes/rkwkgggkgygr/) · **Stripes:** [R K W K Y G Y K Y LY Y R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K Y G Y K Y LY Y R</span></span>
+In pattern [RGYGKGGGKWKR](/stripes/rgygkgggkwkr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

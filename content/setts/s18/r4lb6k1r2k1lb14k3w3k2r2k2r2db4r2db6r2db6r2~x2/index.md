@@ -2,10 +2,9 @@
 title: "Royal Canadian Air Force (Military)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRKRKWKWKRKWR](/stripes/rbrbrbrkrkwkwkrkwr/) · **Stripes:** [R DB R DB R DB R K R K W K LB K R K LB R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB R DB R K R K W K LB K R K LB R</span></span>
+In pattern [RBRBRBRKRKWKWKRKWR](/stripes/rbrbrbrkrkwkwkrkwr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1343/
 

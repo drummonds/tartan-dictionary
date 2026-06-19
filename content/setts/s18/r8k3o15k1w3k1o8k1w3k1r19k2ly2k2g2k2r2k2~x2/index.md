@@ -2,10 +2,9 @@
 title: "Canadian Dental Association (Corp.)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKYKRKWKRKWKRKR](/stripes/krkgkykrkwkrkwkrkr/) · **Stripes:** [K R K G K LY K R K W K O K W K O K R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K G K LY K R K W K O K W K O K R</span></span>
+In pattern [KRKGKYKRKWKRKWKRKR](/stripes/krkgkykrkwkrkwkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10403/
 

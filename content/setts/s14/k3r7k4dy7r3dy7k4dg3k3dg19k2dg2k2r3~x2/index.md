@@ -2,10 +2,9 @@
 title: "Anderson (Coulson Bonner #1)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGRGKGKGKGKR](/stripes/krkgrgkgkgkgkr/) · **Stripes:** [K R K DY R DY K DG K DG K DG K R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K DY R DY K DG K DG K DG K R</span></span>
+In pattern [KRKGRGKGKGKGKR](/stripes/krkgrgkgkgkgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=73
 

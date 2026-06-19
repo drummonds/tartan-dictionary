@@ -2,10 +2,9 @@
 title: "MacDougall D"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRBRYRBRBRGRGBRBBRGRGRBY](/stripes/rgrbrbryrbrbrgrgbrbbrgrgrby/) · **Stripes:** [R DG R DB R N R LR R N R DB R DG R DG N R N DB R DG R DG R N LR](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DG R DB R N R LR R N R DB R DG R DG N R N DB R DG R DG R N LR</span></span>
+In pattern [RGRBRBRYRBRBRGRGBRBBRGRGRBY](/stripes/rgrbrbryrbrbrgrgbrbbrgrgrby/).
 
-
-This was sourced from weddslist.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

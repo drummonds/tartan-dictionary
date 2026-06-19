@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbgrgbrb/
 ---
-BGBGRGBRB
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBGRGBRB
+
+{{< pat "BGBGRGBRB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DT R DT Y R Y DT Y DT <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">DT R DT Y R Y DT Y DT</span></span>
 
 | Tartans |
 |---------------|
 | [Hubbard (2016)](/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/)|
 |![Hubbard (2016) example sett](/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/sett.png)|
-

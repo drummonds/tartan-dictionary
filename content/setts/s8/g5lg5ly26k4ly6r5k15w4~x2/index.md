@@ -2,10 +2,9 @@
 title: "Cornish Christophers (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYYKYRKW](/stripes/gyykyrkw/) · **Stripes:** [G LG LY K LY R K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G LG LY K LY R K W</span></span>
+In pattern [GYYKYRKW](/stripes/gyykyrkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4044/
 

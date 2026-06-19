@@ -2,10 +2,9 @@
 title: "MacDonell of Keppoch"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBWRGRG](/stripes/rbrgrbwrgrg/) · **Stripes:** [R DB R G R DB W R G R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R G R DB W R G R G</span></span>
+In pattern [GRGRWBRGRBR](/stripes/grgrwbrgrbr/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

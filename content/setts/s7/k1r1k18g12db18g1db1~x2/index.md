@@ -2,10 +2,9 @@
 title: "Meoni (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGBGB](/stripes/krkgbgb/) · **Stripes:** [K R K G DB G DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K G DB G DB</span></span>
+In pattern [BGBGKRK](/stripes/bgbgkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2931
 

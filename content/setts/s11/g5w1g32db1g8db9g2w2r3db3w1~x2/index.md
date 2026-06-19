@@ -2,10 +2,9 @@
 title: "Portosalvo"
 date: 2023-03-18
 ---
-**Bands:** [GWGBGBGWRBW](/stripes/gwgbgbgwrbw/) · **Stripes:** [G W G DB G DB G W R DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G W G DB G DB G W R DB W</span></span>
+In pattern [GWGBGBGWRBW](/stripes/gwgbgbgwrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10328
 

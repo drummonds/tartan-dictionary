@@ -2,10 +2,9 @@
 title: "Forbes, of Druminnor"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBGGGWGGRGBRB](/stripes/brbrbgggwggrgbrb/) · **Stripes:** [DB O DB O DB DY G DY W DY G O DY DB O DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">DB O DB O DB DY G DY W DY G O DY DB O DB</span></span>
+In pattern [BRBGRGGWGGGBRBRB](/stripes/brbgrggwgggbrbrb/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

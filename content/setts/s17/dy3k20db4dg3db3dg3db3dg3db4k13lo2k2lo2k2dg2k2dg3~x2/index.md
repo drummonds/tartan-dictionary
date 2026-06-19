@@ -2,10 +2,9 @@
 title: "Fermanagh, County"
 date: 2023-03-18
 ---
-**Bands:** [GKGKYKYKBGBGBGBKG](/stripes/gkgkykykbgbgbgbkg/) · **Stripes:** [DG K DG K LO K LO K DB DG DB DG DB DG DB K DY](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DG K DG K LO K LO K DB DG DB DG DB DG DB K DY</span></span>
+In pattern [GKBGBGBGBKYKYKGKG](/stripes/gkbgbgbgbkykykgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1171
 

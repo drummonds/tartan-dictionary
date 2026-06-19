@@ -2,10 +2,9 @@
 title: "Glasgow, '88"
 date: 2023-03-18
 ---
-**Bands:** [RGRBGWYWGWGWBWGBRGRGRW](/stripes/rgrbgwywgwgwbwgbrgrgrw/) · **Stripes:** [R Y R DB Y W LY W Y W Y W T W Y DB R Y R Y R W](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R Y R DB Y W LY W Y W Y W T W Y DB R Y R Y R W</span></span>
+In pattern [RGRBGWYWGWGWBWGBRGRGRW](/stripes/rgrbgwywgwgwbwgbrgrgrw/).
 
-
-This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

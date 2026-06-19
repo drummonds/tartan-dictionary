@@ -2,10 +2,9 @@
 title: "Nicolson (McIan)"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRBRGRKRG](/stripes/rgrkrbrgrkrg/) · **Stripes:** [R G R K R T R G R K R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R K R T R G R K R G</span></span>
+In pattern [GRKRGRBRKRGR](/stripes/grkrgrbrkrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3136
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3136](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3136)
 - Scottish Tartans Authority (ITI): 1004
 - Scottish Tartans World Register: 1004
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Nicolson, MacNicol](/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/)
-
 
 ## Thread count
 R/36 G6 R36 K24 R6 B6 R6 G48 R36 K6 R36 G/6

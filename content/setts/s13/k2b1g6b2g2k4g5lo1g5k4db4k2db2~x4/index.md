@@ -2,10 +2,9 @@
 title: "Gordon Dress (US Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KBGBGKGYGKBKB](/stripes/kbgbgkgygkbkb/) · **Stripes:** [K B G B G K G LO G K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K B G B G K G LO G K DB K DB</span></span>
+In pattern [BKBKGYGKGBGBK](/stripes/bkbkgygkgbgbk/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3588/
 

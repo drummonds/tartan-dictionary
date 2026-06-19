@@ -2,10 +2,9 @@
 title: "Unidentified Scarlett #14"
 date: 2023-03-18
 ---
-**Bands:** [KWRRKGKRKYRRWRWRRYKRKGKRRWKR](/stripes/kwrrkgkrkyrrwrwrrykrkgkrrwkr/) · **Stripes:** [K W R O K G K O K LY O R W R W R O LY K O K G K O R W K R](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W R O K G K O K LY O R W R W R O LY K O K G K O R W K R</span></span>
+In pattern [KWRRKGKRKYRRWRWRRYKRKGKRRWKR](/stripes/kwrrkgkrkyrrwrwrrykrkgkrrwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4370
 

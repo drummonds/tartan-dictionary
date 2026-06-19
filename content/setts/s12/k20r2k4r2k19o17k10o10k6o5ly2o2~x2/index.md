@@ -2,10 +2,9 @@
 title: "Malt, The (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKRKRYR](/stripes/krkrkrkrkryr/) · **Stripes:** [K R K R K O K O K O LY O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K R K R K O K O K O LY O</span></span>
+In pattern [KRKRKRKRKRYR](/stripes/krkrkrkrkryr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10183/
 

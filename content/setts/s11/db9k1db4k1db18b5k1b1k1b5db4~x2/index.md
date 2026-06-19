@@ -2,10 +2,9 @@
 title: "Indigo Blue Works"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBBKBKBB](/stripes/bkbkbbkbkbb/) · **Stripes:** [DB K DB K DB B K B K B DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB B K B K B DB</span></span>
+In pattern [BBKBKBBKBKB](/stripes/bbkbkbbkbkb/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

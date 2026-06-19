@@ -2,10 +2,9 @@
 title: "Stone of Destiny"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRKBYB](/stripes/bkbkrkbyb/) · **Stripes:** [DB K DB K R K DB LY DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K R K DB LY DB</span></span>
+In pattern [BKBKRKBYB](/stripes/bkbkrkbyb/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

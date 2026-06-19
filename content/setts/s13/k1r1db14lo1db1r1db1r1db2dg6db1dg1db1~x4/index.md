@@ -2,10 +2,9 @@
 title: "Merchant Company, The"
 date: 2023-03-18
 ---
-**Bands:** [KRBYBRBRBGBGB](/stripes/krbybrbrbgbgb/) · **Stripes:** [K R DB LO DB R DB R DB DG DB DG DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB LO DB R DB R DB DG DB DG DB</span></span>
+In pattern [BGBGBRBRBYBRK](/stripes/bgbgbrbrbybrk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11128
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11128
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11128)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Merchant Company, The](/setts/s13/k1r1db14lo1db1r1db1r2db1dg6db1dg1db1~x4/)
-
 
 ## Thread count
 K/4 R4 DB56 O4 DB4 DR4 DB4 DR4 DB8 G24 DB4 G4 DB/4

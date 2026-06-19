@@ -2,10 +2,9 @@
 title: "Damson"
 date: 2023-03-18
 ---
-**Bands:** [YYBYGBYBGBGB](/stripes/yybygbybgbgb/) · **Stripes:** [LR LR DB LR G DB LR DB Y DB G DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LR LR DB LR G DB LR DB Y DB G DB</span></span>
+In pattern [BGBGBYBGYBYY](/stripes/bgbgbybgybyy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=887
 

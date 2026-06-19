@@ -2,10 +2,9 @@
 title: "Harmony (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BBGBBBYBWBBB](/stripes/bbgbbbybwbbb/) · **Stripes:** [DB T DG T DB DB LO DB W DB T DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB T DG T DB DB LO DB W DB T DB</span></span>
+In pattern [BBBWBYBBBGBB](/stripes/bbbwbybbbgbb/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/31/
 

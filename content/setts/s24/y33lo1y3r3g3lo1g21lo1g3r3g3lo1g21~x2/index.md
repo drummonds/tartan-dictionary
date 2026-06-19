@@ -2,10 +2,9 @@
 title: "Terry Clan/Family Weavers Tartan Tartan Number: 2204. Earliest known date: 1993 Designed by Thomas Terry of Geneseo, IL, USA. Registered with the Scottish Tartans Society 9-15-93. Info from Sue Miller, April 1995. With no evidence to the contrary it is assumed that all of the name 'Terry' can wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YGRGYGYGRGYGYGRGYGYGRGYG](/stripes/ygrgygygrgygygrgygygrgyg/) · **Stripes:** [LO G R G LO G LO G R Y LO Y LO Y R G LO G LO G R G LO G](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G R G LO G LO G R Y LO Y LO Y R G LO G LO G R G LO G</span></span>
+In pattern [GYGRGYGYGRGYGYGRGYGYGRGY](/stripes/gygrgygygrgygygrgygygrgy/).
 
-
-This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2204
 

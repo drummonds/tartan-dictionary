@@ -2,19 +2,11 @@
 title: "Thomson, Red (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRB](/stripes/bkbkrb/) · **Stripes:** [T K T K R T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T K R T</span></span>
+In pattern [BKBKRB](/stripes/bkbkrb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6155/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Thompson/Thomson/MacTavish #2](/setts/s6/t2r12k2t6k6t1~x2/)
-
 
 ## Thread count
 B/8 R56 K12 B24 K24 B/6

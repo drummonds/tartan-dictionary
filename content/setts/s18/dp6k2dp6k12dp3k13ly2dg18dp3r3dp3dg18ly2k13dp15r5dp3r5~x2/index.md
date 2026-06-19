@@ -2,10 +2,9 @@
 title: "Graham of Airth"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKYGBRBGYKBKBKB](/stripes/rbrbkygbrbgykbkbkb/) · **Stripes:** [R DP R DP K LY DG DP R DP DG LY K DP K DP K DP](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP R DP K LY DG DP R DP DG LY K DP K DP K DP</span></span>
+In pattern [BKBKBKYGBRBGYKBRBR](/stripes/bkbkbkygbrbgykbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1481
 

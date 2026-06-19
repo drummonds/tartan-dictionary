@@ -2,10 +2,9 @@
 title: "Gavin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBWBW](/stripes/bbbbwbw/) · **Stripes:** [DR DR DR DR W DR W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DR DR DR DR W DR W</span></span>
+In pattern [BBBBWBW](/stripes/bbbbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4960/
 

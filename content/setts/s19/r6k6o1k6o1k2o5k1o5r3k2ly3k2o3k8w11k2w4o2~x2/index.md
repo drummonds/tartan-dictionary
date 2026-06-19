@@ -2,10 +2,9 @@
 title: "Douglas Ancient Dress (WCWM)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRKRRKYKRKWKWR](/stripes/rkrkrkrkrrkykrkwkwr/) · **Stripes:** [R K O K O K O K O R K LY K O K W K W O](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R K O K O K O K O R K LY K O K W K W O</span></span>
+In pattern [RKRKRKRKRRKYKRKWKWR](/stripes/rkrkrkrkrrkykrkwkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=959
 

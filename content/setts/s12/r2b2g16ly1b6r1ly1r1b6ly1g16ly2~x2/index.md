@@ -2,10 +2,9 @@
 title: "Monroig, Eric (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGYBRYRBYGY](/stripes/rbgybryrbygy/) · **Stripes:** [R B G LY B R LY R B LY G LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R B G LY B R LY R B LY G LY</span></span>
+In pattern [RBGYBRYRBYGY](/stripes/rbgybryrbygy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11583
 

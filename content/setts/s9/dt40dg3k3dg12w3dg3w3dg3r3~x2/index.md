@@ -2,10 +2,9 @@
 title: "Todd"
 date: 2023-03-18
 ---
-**Bands:** [RGWGWGKGB](/stripes/rgwgwgkgb/) · **Stripes:** [R DG W DG W DG K DG DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="seq">R DG W DG W DG K DG DT</span></span>
+In pattern [BGKGWGWGR](/stripes/bgkgwgwgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4132
 

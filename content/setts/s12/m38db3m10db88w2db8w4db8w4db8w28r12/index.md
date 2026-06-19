@@ -2,10 +2,9 @@
 title: "St George"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWBWBWBWR](/stripes/rbrbwbwbwbwr/) · **Stripes:** [M DB M DB W DB W DB W DB W R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">M DB M DB W DB W DB W DB W R</span></span>
+In pattern [RBRBWBWBWBWR](/stripes/rbrbwbwbwbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5822
 

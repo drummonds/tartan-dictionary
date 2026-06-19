@@ -2,10 +2,9 @@
 title: "Connaught Irish District Tartan Tartan Number: 2064. Earliest known date: Not known A tartan from the West of Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGRBRB](/stripes/ygrgrgrbrb/) · **Stripes:** [LY G M G M G M DO M DO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#412714"></span><span class="seq">LY G M G M G M DO M DO</span></span>
+In pattern [BRBRGRGRGY](/stripes/brbrgrgrgy/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2064
 

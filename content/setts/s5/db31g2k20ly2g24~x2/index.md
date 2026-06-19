@@ -2,10 +2,9 @@
 title: "Landels (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYKGB](/stripes/gykgb/) · **Stripes:** [G LY K G DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY K G DB</span></span>
+In pattern [BGKYG](/stripes/bgkyg/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7370/
 

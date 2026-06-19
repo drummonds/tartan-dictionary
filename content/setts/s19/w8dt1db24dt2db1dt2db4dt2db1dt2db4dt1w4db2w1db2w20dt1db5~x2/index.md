@@ -2,10 +2,9 @@
 title: "Finnish"
 date: 2023-03-18
 ---
-**Bands:** [BBWBWBWBBBBBBBBBBBW](/stripes/bbwbwbwbbbbbbbbbbbw/) · **Stripes:** [DB DT W DB W DB W DT DB DT DB DT DB DT DB DT DB DT W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DT W DB W DB W DT DB DT DB DT DB DT DB DT DB DT W</span></span>
+In pattern [BBWBWBWBBBBBBBBBBBW](/stripes/bbwbwbwbbbbbbbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5897
 

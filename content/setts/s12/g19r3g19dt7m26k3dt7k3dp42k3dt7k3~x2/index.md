@@ -2,10 +2,9 @@
 title: "Tartan Spirit"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKRBGRG](/stripes/kbkbkbkrbgrg/) · **Stripes:** [K DT K DP K DT K M DT G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DT K DP K DT K M DT G R G</span></span>
+In pattern [GRGBRKBKBKBK](/stripes/grgbrkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6017
 

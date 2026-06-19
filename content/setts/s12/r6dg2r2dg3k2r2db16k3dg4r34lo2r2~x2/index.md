@@ -2,10 +2,9 @@
 title: "Methodist Church"
 date: 2023-03-18
 ---
-**Bands:** [RYRGKBRKGRGR](/stripes/ryrgkbrkgrgr/) · **Stripes:** [R LO R DG K DB R K DG R DG R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LO R DG K DB R K DG R DG R</span></span>
+In pattern [RGRGKRBKGRYR](/stripes/rgrgkrbkgryr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2941
 

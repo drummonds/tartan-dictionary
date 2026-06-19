@@ -2,10 +2,9 @@
 title: "Dundee Wallace Family Tartan Tartan Number: 1648. Earliest known date: 1819 Based on the design of a tartan Jacket said to have been worn by Prince Charles Edward Stuart at Culloden - earliest date 1746 - now preserved in the Scottish United Services Museum in Edinburgh Castle. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RRRKRBWBWBWBKYWKWYGWR](/stripes/rrrkrbwbwbwbkywkwygwr/) · **Stripes:** [R R R K R T W DP W DP W T K LY W K W LY G W R](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R K R T W DP W DP W T K LY W K W LY G W R</span></span>
+In pattern [RRRKRBWBWBWBKYWKWYGWR](/stripes/rrrkrbwbwbwbkywkwygwr/).
 
-
-This was sourced from house-of-tartan.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1648
 

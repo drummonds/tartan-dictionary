@@ -2,10 +2,9 @@
 title: "Glasgow Academy"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKB](/stripes/kbkbkbkb/) · **Stripes:** [K DP K DB K DB K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DP K DB K DB K DB</span></span>
+In pattern [BKBKBKBK](/stripes/bkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1351
 

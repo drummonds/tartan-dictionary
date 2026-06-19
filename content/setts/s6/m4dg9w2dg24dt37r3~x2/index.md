@@ -2,10 +2,9 @@
 title: "Hardie (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGWGBR](/stripes/rgwgbr/) · **Stripes:** [M DG W DG DT R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">M DG W DG DT R</span></span>
+In pattern [RBGWGR](/stripes/rbgwgr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3903/
 

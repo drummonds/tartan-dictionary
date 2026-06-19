@@ -2,10 +2,9 @@
 title: "Edinburgh Bus Tours"
 date: 2023-03-18
 ---
-**Bands:** [BYBKBRBBBBBW](/stripes/bybkbrbbbbbw/) · **Stripes:** [DT LO DT K DT R DT B DT B DT W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT LO DT K DT R DT B DT B DT W</span></span>
+In pattern [BYBKBRBBBBBW](/stripes/bybkbrbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11157
 

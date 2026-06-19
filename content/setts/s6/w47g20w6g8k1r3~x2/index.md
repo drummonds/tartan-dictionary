@@ -2,10 +2,9 @@
 title: "MacGregor, Green"
 date: 2023-03-18
 ---
-**Bands:** [RKGWGW](/stripes/rkgwgw/) · **Stripes:** [R K G W G W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K G W G W</span></span>
+In pattern [RKGWGW](/stripes/rkgwgw/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGregor - 1975 (Dance, Green)](/setts/s6/w52g22w6g8k1r3~x2/)
-
 
 ## Thread count
 LN/94 G40 LN12 G16 K2 R/6

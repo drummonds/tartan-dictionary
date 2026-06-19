@@ -2,10 +2,9 @@
 title: "Scottish Gas"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/) · **Stripes:** [T DT T DT T DT B DT T DT B DT T DT T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DT T DT T DT B DT T DT B DT T DT T</span></span>
+In pattern [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3719
 

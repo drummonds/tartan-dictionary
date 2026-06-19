@@ -2,10 +2,9 @@
 title: "Ferguson Red, George (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRRRRRRBR](/stripes/rrrrrrrrrrbr/) · **Stripes:** [R R R R R R R R R R DR R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R R R R R R R DR R</span></span>
+In pattern [RBRRRRRRRRRR](/stripes/rbrrrrrrrrrr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10276/
 

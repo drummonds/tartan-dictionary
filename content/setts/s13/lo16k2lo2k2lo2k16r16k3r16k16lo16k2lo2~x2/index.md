@@ -2,10 +2,9 @@
 title: "Unidentified (NZ)"
 date: 2023-03-18
 ---
-**Bands:** [YKYKRKRKYKYKY](/stripes/ykykrkrkykyky/) · **Stripes:** [LO K LO K R K R K LO K LO K LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO K LO K R K R K LO K LO K LO</span></span>
+In pattern [YKYKRKRKYKYKY](/stripes/ykykrkrkykyky/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8459/
 

@@ -2,10 +2,9 @@
 title: "Maxwell Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGKGRG](/stripes/grgkgrg/) · **Stripes:** [G R G K G R G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G K G R G</span></span>
+In pattern [GRGKGRG](/stripes/grgkgrg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/865/
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2863](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2863)
 - Scottish Tartans Authority (ITI): 865
 - Scottish Tartans World Register: 865
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Maxwell, hunting](/setts/s7/g3r16g4k6g28r1g3~x2/)
-- [Northcroft (Personal)](/setts/s7/g24r4g3k14g5r2g10~x2/)
-
 
 ## Thread count
 G/6 DR32 G8 K12 G56 DR4 G/6

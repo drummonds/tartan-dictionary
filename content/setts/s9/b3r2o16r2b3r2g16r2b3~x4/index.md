@@ -2,10 +2,9 @@
 title: "MacPherson Gathering 1996"
 date: 2023-03-18
 ---
-**Bands:** [BRRRBRGRB](/stripes/brrrbrgrb/) · **Stripes:** [B R O R B R G R B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B R O R B R G R B</span></span>
+In pattern [BRGRBRRRB](/stripes/brgrbrrrb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4860
 

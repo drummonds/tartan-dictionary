@@ -2,10 +2,9 @@
 title: "Mar Tribe"
 date: 2023-03-18
 ---
-**Bands:** [RKGKY](/stripes/rkgky/) · **Stripes:** [R K G K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K G K LY</span></span>
+In pattern [RKGKY](/stripes/rkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2829
 
@@ -16,15 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2829](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2829)
 - Scottish Tartans Authority (ITI): 1586
 - Scottish Tartans World Register: 1586
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mar, (Tribe of..)](/setts/s5/r2k4g45k3ly2/)
-- [Mar, Tribe of (Clan)](/setts/s5/r2k4g45k3ly2~x2/)
-- [Skene, or Tribe of Mar](/setts/s5/r1k2g16k2ly1~x2/)
-
 
 ## Thread count
 R/2 K3 G45 K3 Y/2

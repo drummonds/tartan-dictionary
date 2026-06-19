@@ -2,10 +2,9 @@
 title: "Wilson's, No 212"
 date: 2023-03-18
 ---
-**Bands:** [GRB](/stripes/grb/) · **Stripes:** [G R T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T</span></span>
+In pattern [BRG](/stripes/brg/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's, No 161](/setts/s3/g13r2t13~x2/)
-
 
 ## Thread count
 G/36 R8 B/8

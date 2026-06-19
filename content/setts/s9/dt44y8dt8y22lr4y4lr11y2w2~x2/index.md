@@ -2,10 +2,9 @@
 title: "Titanium"
 date: 2023-03-18
 ---
-**Bands:** [BGBGYGYGW](/stripes/bgbgygygw/) · **Stripes:** [DT Y DT Y LR Y LR Y W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT Y DT Y LR Y LR Y W</span></span>
+In pattern [BGBGYGYGW](/stripes/bgbgygygw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10818
 

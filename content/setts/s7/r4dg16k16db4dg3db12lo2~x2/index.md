@@ -2,10 +2,9 @@
 title: "Junior Chamber International (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RGKBGBY](/stripes/rgkbgby/) · **Stripes:** [R DG K DB DG DB LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R DG K DB DG DB LO</span></span>
+In pattern [RGKBGBY](/stripes/rgkbgby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2331/
 

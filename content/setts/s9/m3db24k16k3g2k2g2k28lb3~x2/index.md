@@ -2,10 +2,9 @@
 title: "Thistle of Scotland"
 date: 2023-03-18
 ---
-**Bands:** [RBKKGKGKW](/stripes/rbkkgkgkw/) · **Stripes:** [M DB K K G K G K LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">M DB K K G K G K LB</span></span>
+In pattern [RBKKGKGKW](/stripes/rbkkgkgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4104
 

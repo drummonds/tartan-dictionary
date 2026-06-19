@@ -2,10 +2,9 @@
 title: "Moorlands (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YKBKB](/stripes/ykbkb/) · **Stripes:** [LY K DP K DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY K DP K DP</span></span>
+In pattern [BKBKY](/stripes/bkbky/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8076/
 

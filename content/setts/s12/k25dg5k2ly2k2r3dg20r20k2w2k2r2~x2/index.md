@@ -2,10 +2,9 @@
 title: "Quebec, Plaid du"
 date: 2023-03-18
 ---
-**Bands:** [KGKYKRGRKWKR](/stripes/kgkykrgrkwkr/) · **Stripes:** [K DG K LY K R DG R K W K R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG K LY K R DG R K W K R</span></span>
+In pattern [KGKYKRGRKWKR](/stripes/kgkykrgrkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3423
 

@@ -2,10 +2,9 @@
 title: "German"
 date: 2023-03-18
 ---
-**Bands:** [WKBKBKBKWKYWYRWRWRW](/stripes/wkbkbkbkwkywyrwrwrw/) · **Stripes:** [W K DB K DB K DB K W K LY W LY R W R W R W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K DB K DB K DB K W K LY W LY R W R W R W</span></span>
+In pattern [WKBKBKBKWKYWYRWRWRW](/stripes/wkbkbkbkwkywyrwrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5900
 

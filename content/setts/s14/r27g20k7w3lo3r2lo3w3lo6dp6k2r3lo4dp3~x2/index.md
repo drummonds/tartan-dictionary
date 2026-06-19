@@ -2,10 +2,9 @@
 title: "Roman (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKWYRYWYBKRYB](/stripes/rgkwyrywybkryb/) · **Stripes:** [R G K W LO R LO W LO DP K R LO DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R G K W LO R LO W LO DP K R LO DP</span></span>
+In pattern [BYRKBYWYRYWKGR](/stripes/byrkbywyrywkgr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10740/
 

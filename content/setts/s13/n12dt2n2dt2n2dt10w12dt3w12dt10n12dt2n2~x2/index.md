@@ -2,10 +2,9 @@
 title: "Grey Watch Dress (1989)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/) · **Stripes:** [N DT N DT N DT W DT W DT N DT N](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">N DT N DT N DT W DT W DT N DT N</span></span>
+In pattern [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1543
 

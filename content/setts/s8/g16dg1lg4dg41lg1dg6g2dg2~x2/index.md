@@ -2,10 +2,9 @@
 title: "Semper"
 date: 2023-03-18
 ---
-**Bands:** [GGYGYGGG](/stripes/ggygyggg/) · **Stripes:** [G DG LG DG LG DG G DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">G DG LG DG LG DG G DG</span></span>
+In pattern [GGGYGYGG](/stripes/gggygygg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11007
 

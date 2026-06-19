@@ -2,10 +2,9 @@
 title: "MacNab WI 1"
 date: 2023-03-18
 ---
-**Bands:** [RGBGB](/stripes/rgbgb/) · **Stripes:** [R DG B DG DR](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DG B DG DR</span></span>
+In pattern [BGBGR](/stripes/bgbgr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

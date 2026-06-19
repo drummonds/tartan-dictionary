@@ -2,10 +2,9 @@
 title: "Grelloch"
 date: 2023-03-18
 ---
-**Bands:** [KRRBRBRRKR](/stripes/krrbrbrrkr/) · **Stripes:** [K R R T M T R R K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R R T M T R R K R</span></span>
+In pattern [KRRBRBRRKR](/stripes/krrbrbrrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1536
 

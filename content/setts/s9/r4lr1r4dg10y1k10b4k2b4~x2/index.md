@@ -2,10 +2,9 @@
 title: "Cumming LO"
 date: 2023-03-18
 ---
-**Bands:** [RYRGGKBKB](/stripes/ryrggkbkb/) · **Stripes:** [R LR R DG Y K B K B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R LR R DG Y K B K B</span></span>
+In pattern [BKBKGGRYR](/stripes/bkbkggryr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

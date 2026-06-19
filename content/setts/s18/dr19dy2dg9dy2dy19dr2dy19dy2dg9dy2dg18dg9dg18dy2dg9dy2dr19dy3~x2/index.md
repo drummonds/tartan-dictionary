@@ -2,10 +2,9 @@
 title: "Cuillins of Skye Fashion Tartan Tartan Number: 8421. Earliest known date: pre 2011 Asymmetric. Designed by Duncan MacDonald and Helen Marshall of Marton Mills. Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GBGGGGGGGGGGBGGGGB](/stripes/gbggggggggggbggggb/) · **Stripes:** [DY DR DY DG DY DG DG DG DY DG DY DY DR DY DY DG DY DR](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="seq">DY DR DY DG DY DG DG DG DY DG DY DY DR DY DY DG DY DR</span></span>
+In pattern [BGGGGBGGGGGGGGGGBG](/stripes/bggggbggggggggggbg/).
 
-
-This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8421
 

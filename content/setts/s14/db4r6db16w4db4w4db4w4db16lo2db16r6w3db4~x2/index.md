@@ -2,10 +2,9 @@
 title: "Parker (USA)"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBWBWBYBRWB](/stripes/brbwbwbwbybrwb/) · **Stripes:** [DB R DB W DB W DB W DB LO DB R W DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB W DB W DB W DB LO DB R W DB</span></span>
+In pattern [BRBWBWBWBYBRWB](/stripes/brbwbwbwbybrwb/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3292
 

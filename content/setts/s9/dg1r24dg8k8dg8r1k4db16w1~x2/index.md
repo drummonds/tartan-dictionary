@@ -2,10 +2,9 @@
 title: "Manson"
 date: 2023-03-18
 ---
-**Bands:** [GRGKGRKBW](/stripes/grgkgrkbw/) · **Stripes:** [DG R DG K DG R K DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DG K DG R K DB W</span></span>
+In pattern [GRGKGRKBW](/stripes/grgkgrkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2810
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2810](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2810)
 - Scottish Tartans Authority (ITI): 987
 - Scottish Tartans World Register: 987
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Manson (Name)](/setts/s9/dg1r11dg3k4dg4r1k2db11w1~x2/)
-
 
 ## Thread count
 G/2 R48 G16 K16 G16 R2 K8 DB32 LN/2

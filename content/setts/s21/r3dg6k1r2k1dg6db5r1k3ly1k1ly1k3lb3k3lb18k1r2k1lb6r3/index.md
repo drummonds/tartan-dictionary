@@ -2,10 +2,9 @@
 title: "Anderson P"
 date: 2023-03-18
 ---
-**Bands:** [RGKRKGBRKYKYKWKWKRKWR](/stripes/rgkrkgbrkykykwkwkrkwr/) · **Stripes:** [R DG K R K DG DB R K LY K LY K LB K LB K R K LB R](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K R K DG DB R K LY K LY K LB K LB K R K LB R</span></span>
+In pattern [RGKRKGBRKYKYKWKWKRKWR](/stripes/rgkrkgbrkykykwkwkrkwr/).
 
-
-This was sourced from weddslist.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

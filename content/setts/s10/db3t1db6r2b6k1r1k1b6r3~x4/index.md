@@ -2,10 +2,9 @@
 title: "Ballater"
 date: 2023-03-18
 ---
-**Bands:** [RBKRKBRBBB](/stripes/rbkrkbrbbb/) · **Stripes:** [R B K R K B R DB T DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R B K R K B R DB T DB</span></span>
+In pattern [BBBRBKRKBR](/stripes/bbbrbkrkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=179
 

@@ -2,10 +2,9 @@
 title: "Fiddes (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBRBRBGB](/stripes/grbrbrbrbgb/) · **Stripes:** [G R DB R DB R DB R DB G DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB R DB R DB R DB G DB</span></span>
+In pattern [BGBRBRBRBRG](/stripes/bgbrbrbrbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1177
 
@@ -894,13 +893,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fiddes](/setts/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/)
-
 
 ## Thread count
 DB/36 G10 DB12 R50 DB12 R10 DB10 R12 DB36 R24 G/32

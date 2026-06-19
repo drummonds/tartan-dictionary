@@ -2,10 +2,9 @@
 title: "Brinkie's Brae (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKRGRRBWGKRBRKWK](/stripes/kwkrgrrbwgkrbrkwk/) · **Stripes:** [K W K R G O R DB W G K O DB R K W K](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K R G O R DB W G K O DB R K W K</span></span>
+In pattern [KWKRBRKGWBRRGRKWK](/stripes/kwkrbrkgwbrrgrkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354
 

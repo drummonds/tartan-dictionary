@@ -2,10 +2,9 @@
 title: "Salvation Army Dress"
 date: 2023-03-18
 ---
-**Bands:** [RKYKRKBKRKYKRB](/stripes/rkykrkbkrkykrb/) · **Stripes:** [R K LY K R K DB K R K LY K R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K LY K R K DB K R K LY K R DB</span></span>
+In pattern [BRKYKRKBKRKYKR](/stripes/brkykrkbkrkykr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3647
 

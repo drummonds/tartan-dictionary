@@ -2,10 +2,9 @@
 title: "Campbell of Glenlyon Check (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GKBKB](/stripes/gkbkb/) · **Stripes:** [G K B K B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G K B K B</span></span>
+In pattern [BKBKG](/stripes/bkbkg/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/14/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/14/
 This cloth is also recorded under:
 
 - Campbell of Glenlyon Check
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell of Glenlyon](/setts/s5/g7k6b7k1b2~x2/)
-
 
 ## Thread count
 G/28 K24 B28 K4 B/8

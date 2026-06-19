@@ -2,10 +2,9 @@
 title: "Ayrton, Laoch"
 date: 2023-03-18
 ---
-**Bands:** [RGYGBGBGBR](/stripes/rgygbgbgbr/) · **Stripes:** [R G LY G DB G DB G DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G LY G DB G DB G DB R</span></span>
+In pattern [RBGBGBGYGR](/stripes/rbgbgbgygr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ayrton of Laoch (Personal)](/setts/s10/r2g12ly2g12db3g2db2g2db4r2~x2/)
-
 
 ## Thread count
 R/4 G24 Y4 G24 B4 G4 B4 G4 B8 R/4

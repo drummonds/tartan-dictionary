@@ -2,10 +2,9 @@
 title: "Cumming"
 date: 2023-03-18
 ---
-**Bands:** [GRBBRGRBRBBRBRGRBBRGRB](/stripes/grbbrgrbrbbrbrgrbbrgrb/) · **Stripes:** [DG R DB T R DG R DB R DB T R DB R DG R T DB R DG R DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DB T R DG R DB R DB T R DB R DG R T DB R DG R DB</span></span>
+In pattern [BRGRBBRGRBRBBRBRGRBBRG](/stripes/brgrbbrgrbrbbrbrgrbbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=834
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [834](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=834)
 - Scottish Tartans World Register: 508
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cumming of Glenorchy](/setts/s22/dg34r3db12t1r8dg12r3db20r3db3t1r3db20r3dg12r8t1db12r3dg22r3db3~x2/)
-
 
 ## Thread count
 G/20 R6 B24 Ba2 R20 G24 R6 B40 R6 B6 Ba2 R6 B40 R6 G24 R24 Ba2 B24 R6 G40 R6 B/6

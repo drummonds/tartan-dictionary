@@ -2,10 +2,9 @@
 title: "MacHinery Dress (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BYBWBRBBWBBWBW](/stripes/bybwbrbbwbbwbw/) · **Stripes:** [T LY T W T R DB T W T DB W DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T LY T W T R DB T W T DB W DB W</span></span>
+In pattern [BYBWBRBBWBBWBW](/stripes/bybwbrbbwbbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3389/
 

@@ -2,10 +2,9 @@
 title: "Anderson, Red (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RRRKRRKWKYKYKRRRGRGR](/stripes/rrrkrrkwkykykrrrgrgr/) · **Stripes:** [R R R K R R K W K LO K LO K R R R Y R Y R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R K R R K W K LO K LO K R R R Y R Y R</span></span>
+In pattern [RGRGRRRKYKYKWKRRKRRR](/stripes/rgrgrrrkykykwkrrkrrr/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3448/
 

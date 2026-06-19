@@ -2,10 +2,9 @@
 title: "Scottish Rugby Union (City of Nagasaki)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBBBBBKW](/stripes/gkgkbbbbbkw/) · **Stripes:** [G K G K DT P DT P DT K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">G K G K DT P DT P DT K LB</span></span>
+In pattern [GKGKBBBBBKW](/stripes/gkgkbbbbbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11651
 

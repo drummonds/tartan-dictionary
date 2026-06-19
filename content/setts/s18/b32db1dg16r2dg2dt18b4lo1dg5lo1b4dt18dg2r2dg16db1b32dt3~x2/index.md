@@ -2,10 +2,9 @@
 title: "Heriot Watt University"
 date: 2023-03-18
 ---
-**Bands:** [BBGRGBBYGYBBGRGBBB](/stripes/bbgrgbbygybbgrgbbb/) · **Stripes:** [B DB DG R DG DT B LO DG LO B DT DG R DG DB B DT](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="seq">B DB DG R DG DT B LO DG LO B DT DG R DG DB B DT</span></span>
+In pattern [BBBGRGBBYGYBBGRGBB](/stripes/bbbgrgbbygybbgrgbb/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1693
 

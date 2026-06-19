@@ -2,10 +2,9 @@
 title: "Unidentified pattern #2"
 date: 2023-03-18
 ---
-**Bands:** [YBG](/stripes/ybg/) · **Stripes:** [LY DB DG](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DB DG</span></span>
+In pattern [GBY](/stripes/gby/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4338
 

@@ -2,10 +2,9 @@
 title: "Unidentified, B'gowrie"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGKBRBKGYGYG](/stripes/gygygkbrbkgygyg/) · **Stripes:** [G LY G LY G K DB R DB K G LY G LY G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY G LY G K DB R DB K G LY G LY G</span></span>
+In pattern [GYGYGKBRBKGYGYG](/stripes/gygygkbrbkgygyg/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

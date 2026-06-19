@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkwgwgwkrkwywywk/
 ---
-BKWGWGWKRKWYWYWK
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-BKWGWGWKRKWYWYWK
+
+{{< pat "BKWGWGWKRKWYWYWK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LB LO LB LO LB K R K LB G LB G LB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LB LO LB LO LB K R K LB G LB G LB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Kinnieson (Personal)](/setts/s16/k64lb38lo4lb38lo4lb38k64r8k64lb38g4lb38g4lb38k65db8/)|
 |![Kinnieson (Personal) example sett](/setts/s16/k64lb38lo4lb38lo4lb38k64r8k64lb38g4lb38g4lb38k65db8/sett.png)|
-

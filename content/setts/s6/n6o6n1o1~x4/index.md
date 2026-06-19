@@ -2,10 +2,9 @@
 title: "Glen Burns (WCWM-2)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRB](/stripes/rbrbrb/) · **Stripes:** [O N O N O N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">O N O N O N</span></span>
+In pattern [BRBRBR](/stripes/brbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1368
 

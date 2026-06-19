@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/brkrgy/
 ---
-BRKRGY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/db18r3k9r3g23ly3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BRKRGY
+
+{{< pat "BRKRGY" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### LY DG R K R DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DG R K R DB</span></span>
-
-| Tartans |
-|---------------|
-| [Royal College of Physicians of Edinburgh](/setts/s6/db28r4k14r4dg33ly4~x2/)|
-|![Royal College of Physicians of Edinburgh example sett](/setts/s6/db28r4k14r4dg33ly4~x2/sett.png)|
-
-### LY G R K R DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G R K R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Royal College of Physicians (Corp)](/setts/s6/db18r3k9r3g23ly3~x2/)|
 |![Royal College of Physicians (Corp) example sett](/setts/s6/db18r3k9r3g23ly3~x2/sett.png)|
-
+| [Royal College of Physicians of Edinburgh](/setts/s6/db28r4k14r4dg33ly4~x2/)|
+|![Royal College of Physicians of Edinburgh example sett](/setts/s6/db28r4k14r4dg33ly4~x2/sett.png)|

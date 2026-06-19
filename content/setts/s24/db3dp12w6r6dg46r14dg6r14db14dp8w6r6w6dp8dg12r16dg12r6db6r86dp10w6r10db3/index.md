@@ -2,10 +2,9 @@
 title: "MacDougall Plaid"
 date: 2023-03-18
 ---
-**Bands:** [BRWBRBRGRGBWRWBBRGRGRWBB](/stripes/brwbrbrgrgbwrwbbrgrgrwbb/) · **Stripes:** [DB R W DP R DB R DG R DG DP W R W DP DB R DG R DG R W DP DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R W DP R DB R DG R DG DP W R W DP DB R DG R DG R W DP DB</span></span>
+In pattern [BBWRGRGRBBWRWBGRGRBRBWRB](/stripes/bbwrgrgrbbwrwbgrgrbrbwrb/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2409
 

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wkwwywkwygrkry/
 ---
-WKWWYWKWYGRKRY
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-WKWWYWKWYGRKRY
+
+{{< pat "WKWWYWKWYGRKRY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO R K R G LO W K W LO LB W K W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R K R G LO W K W LO LB W K W</span></span>
 
 | Tartans |
 |---------------|
 | [Dundee (2003)](/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/)|
 |![Dundee (2003) example sett](/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/sett.png)|
-

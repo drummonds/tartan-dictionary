@@ -2,10 +2,9 @@
 title: "Thorburn (Lochcarron)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBBB](/stripes/rbrbbb/) · **Stripes:** [R DT O DT T DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT O DT T DT</span></span>
+In pattern [BBBRBR](/stripes/bbbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4124
 

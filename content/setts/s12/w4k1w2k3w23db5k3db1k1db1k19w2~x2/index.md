@@ -2,10 +2,9 @@
 title: "Menzies Black Dress"
 date: 2023-03-18
 ---
-**Bands:** [WKBKBKBWKWKW](/stripes/wkbkbkbwkwkw/) · **Stripes:** [W K DB K DB K DB W K W K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K DB K DB K DB W K W K W</span></span>
+In pattern [WKBKBKBWKWKW](/stripes/wkbkbkbwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2925
 

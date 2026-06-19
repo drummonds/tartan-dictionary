@@ -2,10 +2,9 @@
 title: "Redgate (Connecticut) Dress"
 date: 2023-03-18
 ---
-**Bands:** [GGGBGKWKBBBWBW](/stripes/gggbgkwkbbbwbw/) · **Stripes:** [DY DG DY T DY K W K T DR T W T W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DY DG DY T DY K W K T DR T W T W</span></span>
+In pattern [GGGBGKWKBBBWBW](/stripes/gggbgkwkbbbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10779
 

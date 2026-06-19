@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/wkbrgky/
 ---
-WKBRGKY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/w3k1t25r7g12k1ly3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-WKBRGKY
+
+{{< pat "WKBRGKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K G R T K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G R T K W</span></span>
 
 | Tartans |
 |---------------|
 | [Caskie](/setts/s7/w3k1t25r7g12k1ly3~x2/)|
 |![Caskie example sett](/setts/s7/w3k1t25r7g12k1ly3~x2/sett.png)|
-

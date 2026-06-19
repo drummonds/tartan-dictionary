@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/ggyggyrgrgrgrgy/
 ---
-GGYGGYRGRGRGRGY
-
-It is a 15 band tartan.
+It is a 15 stripe tartan.
 
 
 
 ## Colour Sequence
-GGYGGYRGRGRGRGY
+
+{{< pat "GGYGGYRGRGRGRGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO G O G O G O G O LO G G LO G G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G O G O G O G O LO G G LO G G</span></span>
 
 | Tartans |
 |---------------|
 | [Prince David](/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/)|
 |![Prince David example sett](/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/sett.png)|
-

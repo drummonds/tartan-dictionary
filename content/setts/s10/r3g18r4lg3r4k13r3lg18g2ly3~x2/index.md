@@ -2,10 +2,9 @@
 title: "Stirling & Bannockburn (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGRYRKRYGY](/stripes/rgryrkrygy/) · **Stripes:** [R G R LG R K R LG G LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G R LG R K R LG G LY</span></span>
+In pattern [RGRYRKRYGY](/stripes/rgryrkrygy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1536/
 

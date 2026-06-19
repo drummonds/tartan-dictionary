@@ -2,10 +2,9 @@
 title: "Highland Greenford (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGYB](/stripes/ggyb/) · **Stripes:** [Y DY LY DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">Y DY LY DP</span></span>
+In pattern [BYGG](/stripes/bygg/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10498/
 

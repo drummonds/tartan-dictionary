@@ -2,10 +2,9 @@
 title: "Dauphinee (Trussville, Alabama) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKWKBYBKWKR](/stripes/rkwkbybkwkr/) · **Stripes:** [R K W K DT LY DT K W K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K DT LY DT K W K R</span></span>
+In pattern [RKWKBYBKWKR](/stripes/rkwkbybkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10648
 

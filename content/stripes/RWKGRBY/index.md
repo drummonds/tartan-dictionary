@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rwkgrby/
 ---
-RWKGRBY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/r3lb8k9g16r12n12lo3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-RWKGRBY
+
+{{< pat "RWKGRBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R LB K G R N LO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LB K G R N LO</span></span>
 
 | Tartans |
 |---------------|
 | [Alabama (Fashion)](/setts/s7/r3lb8k9g16r12n12lo3~x2/)|
 |![Alabama (Fashion) example sett](/setts/s7/r3lb8k9g16r12n12lo3~x2/sett.png)|
-

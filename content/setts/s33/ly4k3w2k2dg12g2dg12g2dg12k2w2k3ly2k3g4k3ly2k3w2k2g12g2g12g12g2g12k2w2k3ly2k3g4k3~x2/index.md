@@ -2,10 +2,9 @@
 title: "Hawick"
 date: 2023-03-18
 ---
-**Bands:** [KGKYKWKGGGGGGKWKYKGKYKWKGGGGGKWKY](/stripes/kgkykwkggggggkwkykgkykwkgggggkwky/) · **Stripes:** [K G K LY K W K G G G G G G K W K LY K G K LY K W K DG G DG G DG K W K LY](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K G K LY K W K G G G G G G K W K LY K G K LY K W K DG G DG G DG K W K LY</span></span>
+In pattern [KGKYKWKGGGGGGKWKYKGKYKWKGGGGGKWKY](/stripes/kgkykwkggggggkwkykgkykwkgggggkwky/).
 
-
-This was sourced from weddslist.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

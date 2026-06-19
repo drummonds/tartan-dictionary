@@ -2,10 +2,9 @@
 title: "Katsushika"
 date: 2023-03-18
 ---
-**Bands:** [YBYBGGGGGBYBYB](/stripes/ybybgggggbybyb/) · **Stripes:** [LY DB LY DB Y G Y G Y DB LY DB LY DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB LY DB Y G Y G Y DB LY DB LY DB</span></span>
+In pattern [BYBYBGGGGGBYBY](/stripes/bybybgggggbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1932
 

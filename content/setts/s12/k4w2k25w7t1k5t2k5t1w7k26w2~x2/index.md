@@ -2,10 +2,9 @@
 title: "Glasgow Caledonian University (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [KWKWBKBKBWKW](/stripes/kwkwbkbkbwkw/) · **Stripes:** [K W K W T K T K T W K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K W T K T K T W K W</span></span>
+In pattern [KWKWBKBKBWKW](/stripes/kwkwbkbkbwkw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2418/
 

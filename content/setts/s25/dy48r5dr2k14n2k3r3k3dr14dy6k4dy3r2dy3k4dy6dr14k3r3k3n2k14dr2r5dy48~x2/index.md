@@ -2,10 +2,9 @@
 title: "Berwick, Orange (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GRBKBKRKBGKGRGKGBKRKBKBRG](/stripes/grbkbkrkbgkgrgkgbkrkbkbrg/) · **Stripes:** [DY R DR K N K R K DR DY K DY R DY K DY DR K R K N K DR R DY](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY R DR K N K R K DR DY K DY R DY K DY DR K R K N K DR R DY</span></span>
+In pattern [GRBKBKRKBGKGRGKGBKRKBKBRG](/stripes/grbkbkrkbgkgrgkgbkrkbkbrg/).
 
-
-This was sourced from tartans-authority.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3687/
 

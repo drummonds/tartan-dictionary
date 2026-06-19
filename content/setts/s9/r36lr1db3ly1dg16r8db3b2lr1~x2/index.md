@@ -2,10 +2,9 @@
 title: "Drummond of Perth"
 date: 2023-03-18
 ---
-**Bands:** [RYBYGRBBY](/stripes/rybygrbby/) · **Stripes:** [R LR DB LY DG R DB B LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R LR DB LY DG R DB B LR</span></span>
+In pattern [RYBYGRBBY](/stripes/rybygrbby/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Drummond of Perth](/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/)
-
 
 ## Thread count
 DR/72 N2 DB6 LG2 DG32 DR16 DB6 B4 N/2

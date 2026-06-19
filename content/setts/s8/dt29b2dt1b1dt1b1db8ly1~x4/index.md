@@ -2,10 +2,9 @@
 title: "Marist School, The"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBB](/stripes/ybbbbbbb/) · **Stripes:** [LY DB B DT B DT B DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="seq">LY DB B DT B DT B DT</span></span>
+In pattern [BBBBBBBY](/stripes/bbbbbbby/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

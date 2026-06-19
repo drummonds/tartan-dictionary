@@ -2,10 +2,9 @@
 title: "Wicklow, County (District)"
 date: 2023-03-18
 ---
-**Bands:** [GBBBBBBGBB](/stripes/gbbbbbbgbb/) · **Stripes:** [G N DO N T DO N G N DO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="seq">G N DO N T DO N G N DO</span></span>
+In pattern [BBGBBBBBBG](/stripes/bbgbbbbbbg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2265/
 

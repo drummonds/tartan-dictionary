@@ -2,10 +2,9 @@
 title: "Clergy, or Priest"
 date: 2023-03-18
 ---
-**Bands:** [KBWKBKBWBKB](/stripes/kbwkbkbwbkb/) · **Stripes:** [K B LP K B K B LP B K B](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B LP K B K B LP B K B</span></span>
+In pattern [BKBWBKBKWBK](/stripes/bkbwbkbkwbk/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

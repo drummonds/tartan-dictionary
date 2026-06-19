@@ -4,21 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbbgbgbg/
 ---
-BBBBGBGBG
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BBBBGBGBG
+
+{{< pat "BBBBGBGBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DG DB DG DB DG DB DR DB DR <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG DB DG DB DG DB DR DB DR</span></span>
 
 | Tartans |
 |---------------|
@@ -26,4 +21,3 @@ BBBBGBGBG
 |![Lindsay example sett](/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3~x2/sett.png)|
 | [Lindsay](/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/)|
 |![Lindsay example sett](/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Lions Canadian Tartan Tartan Number: 93. Earliest known date: pre 2003 This is the official Canadian General File thread count. The Scottish Tartans Society cloth archive specimen differs slightly in the precise numbers of threads used to weave the sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBWKYBWYBKBBWBWBBBKW](/stripes/bbwkybwybkbbwbwbbbkw/) · **Stripes:** [DP T W K LY DP W LY DP K T DP W T W DP T DP K W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP T W K LY DP W LY DP K T DP W T W DP T DP K W</span></span>
+In pattern [BBWKYBWYBKBBWBWBBBKW](/stripes/bbwkybwybkbbwbwbbbkw/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=93
 

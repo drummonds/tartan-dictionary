@@ -2,10 +2,9 @@
 title: "Kennewell (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKBBGYBBKRBBRYGBB](/stripes/rkbbgybbkrbbrygbb/) · **Stripes:** [O K DB T G LO DB T K O T DB R LO G T DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">O K DB T G LO DB T K O T DB R LO G T DB</span></span>
+In pattern [BBGYRBBRKBBYGBBKR](/stripes/bbgyrbbrkbbygbbkr/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10039/
 

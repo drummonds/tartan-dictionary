@@ -2,10 +2,9 @@
 title: "Sutherland, 42nd"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKB](/stripes/kgkbkb/) · **Stripes:** [K G K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K DB K DB</span></span>
+In pattern [BKBKGK](/stripes/bkbkgk/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,15 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Watch (variation)](/setts/s6/k5g23k18db21k33db3~x2/)
-- [Campbell, the 42nd](/setts/s6/db6k6db18k18g22k5/)
-- [Wartley Htg (Fashion)](/setts/s6/db4k2db16k10g18k3~x2/)
-
 
 ## Thread count
 K/4 G12 K12 B12 K4 B/4

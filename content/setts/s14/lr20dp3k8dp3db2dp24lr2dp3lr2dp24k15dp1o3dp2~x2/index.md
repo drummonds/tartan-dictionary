@@ -2,10 +2,9 @@
 title: "Black Rose"
 date: 2023-03-18
 ---
-**Bands:** [YBKBBBYBYBKBRB](/stripes/ybkbbbybybkbrb/) · **Stripes:** [LR DP K DP DB DP LR DP LR DP K DP O DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LR DP K DP DB DP LR DP LR DP K DP O DP</span></span>
+In pattern [BRBKBYBYBBBKBY](/stripes/brbkbybybbbkby/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=276
 

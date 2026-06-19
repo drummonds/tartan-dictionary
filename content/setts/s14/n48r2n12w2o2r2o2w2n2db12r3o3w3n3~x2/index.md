@@ -2,10 +2,9 @@
 title: "Wcwm 1543"
 date: 2023-03-18
 ---
-**Bands:** [BRBWRRRWBBRRWB](/stripes/brbwrrrwbbrrwb/) · **Stripes:** [N R N W O R O W N DB R O W N](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">N R N W O R O W N DB R O W N</span></span>
+In pattern [BRBWRRRWBBRRWB](/stripes/brbwrrrwbbrrwb/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4530
 

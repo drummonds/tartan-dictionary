@@ -2,10 +2,9 @@
 title: "MacWhirter"
 date: 2023-03-18
 ---
-**Bands:** [BGKBKYKBKRWB](/stripes/bgkbkykbkrwb/) · **Stripes:** [T DG K T K LY K T K R W T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DG K T K LY K T K R W T</span></span>
+In pattern [BGKBKYKBKRWB](/stripes/bgkbkykbkrwb/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/158/
 

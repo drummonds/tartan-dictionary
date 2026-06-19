@@ -2,10 +2,9 @@
 title: "Unnamed C18th - Hynde Cotton Jacket"
 date: 2023-03-18
 ---
-**Bands:** [RBKRBBBRKRKRKRYGWY](/stripes/rbkrbbbrkrkrkrygwy/) · **Stripes:** [R P K R P DB P R K R K R K R LR DG LB LR](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R P K R P DB P R K R K R K R LR DG LB LR</span></span>
+In pattern [RBKRBBBRKRKRKRYGWY](/stripes/rbkrbbbrkrkrkrygwy/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8418/
 

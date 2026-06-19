@@ -2,10 +2,9 @@
 title: "Gunn 2011, Robert (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKB](/stripes/rgkb/) · **Stripes:** [R G K T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G K T</span></span>
+In pattern [BKGR](/stripes/bkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10460
 
@@ -14,15 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10460
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10460](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10460)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unnamed, No 28](/setts/s4/r6g5k5t1~x2/)
-- [Wilson's No.195](/setts/s4/r5g7k2t1~x4/)
-- [Wilson's No.196](/setts/s4/r9g9k10t2~x2/)
-
 
 ## Thread count
 B/40 K40 LG40 R/2

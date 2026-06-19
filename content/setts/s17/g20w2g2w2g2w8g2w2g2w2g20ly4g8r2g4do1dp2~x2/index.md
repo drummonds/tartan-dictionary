@@ -2,10 +2,9 @@
 title: "Bryant (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GWGWGWGWGWGYGRGBB](/stripes/gwgwgwgwgwgygrgbb/) · **Stripes:** [G W G W G W G W G W G LY G R G DO DP](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G W G W G W G W G W G LY G R G DO DP</span></span>
+In pattern [BBGRGYGWGWGWGWGWG](/stripes/bbgrgygwgwgwgwgwg/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3745/
 

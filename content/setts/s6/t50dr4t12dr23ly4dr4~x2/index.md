@@ -2,10 +2,9 @@
 title: "Sligo"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBB](/stripes/bybbbb/) · **Stripes:** [DR LY DR T DR T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="seq">DR LY DR T DR T</span></span>
+In pattern [BBBBYB](/stripes/bbbbyb/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

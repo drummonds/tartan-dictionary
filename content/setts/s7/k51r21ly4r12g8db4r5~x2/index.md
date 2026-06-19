@@ -2,10 +2,9 @@
 title: "Totté (from Hofstade de Baerebeeck) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRYRGBR](/stripes/kryrgbr/) · **Stripes:** [K R LY R G DB R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R LY R G DB R</span></span>
+In pattern [KRYRGBR](/stripes/kryrgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10770
 

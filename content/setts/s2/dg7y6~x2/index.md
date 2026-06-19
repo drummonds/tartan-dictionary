@@ -2,10 +2,9 @@
 title: "Wilson's No.219"
 date: 2023-03-18
 ---
-**Bands:** [GG](/stripes/gg/) · **Stripes:** [DG Y](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DG Y</span></span>
+In pattern [GG](/stripes/gg/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4747
 

@@ -4,17 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/gy/
 ---
-GY
-
-It is a 2 band tartan.
+It is a 2 stripe tartan.
 
 
 
 ## Colour Sequence
-GY
+
+{{< pat "GY" >}}
 
 
 ## Tartans with this colour sequence
 
-
-
+| Tartans |
+|---------------|

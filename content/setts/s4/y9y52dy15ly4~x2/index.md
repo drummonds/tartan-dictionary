@@ -2,10 +2,9 @@
 title: "McGuigan, Julia (St Monans, Fife) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGGG](/stripes/yggg/) · **Stripes:** [LY DY Y Y](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY DY Y Y</span></span>
+In pattern [GGGY](/stripes/gggy/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10605
 

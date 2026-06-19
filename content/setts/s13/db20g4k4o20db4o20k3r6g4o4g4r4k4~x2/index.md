@@ -2,10 +2,9 @@
 title: "Gayre Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KRGRGRKRBRKGB](/stripes/krgrgrkrbrkgb/) · **Stripes:** [K R G O G R K O DB O K G DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K R G O G R K O DB O K G DB</span></span>
+In pattern [BGKRBRKRGRGRK](/stripes/bgkrbrkrgrgrk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1324
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1324](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1324)
 - Scottish Tartans Authority (ITI): 165
 - Scottish Tartans World Register: 165
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gayre Hunting Clan Tartan Tartan Number: 165. Earliest known date: 1963 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db16g4k4o22db5o22k3r5g4o4g4r4k4~x2/)
-
 
 ## Thread count
 DB/40 G8 K8 N40 DB8 N40 K6 DR12 G8 N8 G8 DR8 K/8

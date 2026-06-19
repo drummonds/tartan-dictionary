@@ -2,10 +2,9 @@
 title: "Kintore"
 date: 2023-03-18
 ---
-**Bands:** [RBKBWBKBRB](/stripes/rbkbwbkbrb/) · **Stripes:** [R DP K DB LB DB K DP R DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP K DB LB DB K DP R DP</span></span>
+In pattern [BRBKBWBKBR](/stripes/brbkbwbkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2000
 

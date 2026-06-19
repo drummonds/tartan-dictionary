@@ -2,10 +2,9 @@
 title: "Lennox Dress, Purple (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBBBB](/stripes/gbgbbbb/) · **Stripes:** [G N G N T N T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="seq">G N G N T N T</span></span>
+In pattern [BBBBGBG](/stripes/bbbbgbg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8189/
 

@@ -2,10 +2,9 @@
 title: "Douglas"
 date: 2023-03-18
 ---
-**Bands:** [KWGBW](/stripes/kwgbw/) · **Stripes:** [K LB DG DB LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LB DG DB LB</span></span>
+In pattern [KWGBW](/stripes/kwgbw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Douglas Green](/setts/s5/k4lb2dg8db8lb1/)
-
 
 ## Thread count
 K/2 N2 G8 DB8 N/1

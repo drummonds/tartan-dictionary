@@ -2,20 +2,11 @@
 title: "Chattan Chief Clan Tartan Tartan Number: 1851. Earliest known date: 1816 Also known as Finzean's fancy. The record of the Lord Lyon states, 'Note - this tartan is specifically for the Chief of Clan Chattan and his immediate family.' Logan descibed this sett (without the chiefs extra white line) thus: 'The Chief also wears a particular tartan of a very showy pattern.' It is illustrated by Smith in 1850. Chief of the Clan Mackintosh Sir Aeneas Mackintosh of that Ilk, acknowledged this sett as the Clan tartan in 1816. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WRKWGWYRKRYWBKRYW](/stripes/wrkwgwyrkrywbkryw/) · **Stripes:** [W R K W G W LY R K R LY W T K R LY W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K W G W LY R K R LY W T K R LY W</span></span>
+In pattern [WRKWGWYRKRYWBKRYW](/stripes/wrkwgwyrkrywbkryw/).
 
-
-This was sourced from house-of-tartan.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1851
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Chattan, Chief](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/)
-- [Chattan, Chief of Clan](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2~x2/)
-
 
 ## Thread count
 LN/4 Y12 R8 K8 B32 LN4 Y7 R7 K2 R7 Y7 LN4 G32 LN2 K4 R60 LN/2

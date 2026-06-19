@@ -2,10 +2,9 @@
 title: "Keogh Hunting (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGGGGGGGGG](/stripes/ggggggggggggg/) · **Stripes:** [G DG G DG G DG G DG G DG G G G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DG G DG G DG G DG G DG G G G</span></span>
+In pattern [GGGGGGGGGGGGG](/stripes/ggggggggggggg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8430/
 

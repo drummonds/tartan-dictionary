@@ -2,10 +2,9 @@
 title: "Highfield Hunting (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBKGRGKB](/stripes/gkgkbkgrgkb/) · **Stripes:** [Y K DY K DO K G R G K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">Y K DY K DO K G R G K DB</span></span>
+In pattern [BKGRGKBKGKG](/stripes/bkgrgkbkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4182/
 

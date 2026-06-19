@@ -2,10 +2,9 @@
 title: "Ebdon-Muir (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBKGBGBGW](/stripes/bbkgbgbgw/) · **Stripes:** [DP DB K G DP G DP G W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DB K G DP G DP G W</span></span>
+In pattern [BBKGBGBGW](/stripes/bbkgbgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10175
 

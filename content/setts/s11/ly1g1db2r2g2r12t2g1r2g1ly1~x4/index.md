@@ -2,10 +2,9 @@
 title: "West Virginia Old Shawl"
 date: 2023-03-18
 ---
-**Bands:** [YGRGBRGRBGY](/stripes/ygrgbrgrbgy/) · **Stripes:** [LY G R G T R G R DB G LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY G R G T R G R DB G LY</span></span>
+In pattern [YGBRGRBGRGY](/stripes/ygbrgrbgrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4605
 

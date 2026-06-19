@@ -2,10 +2,9 @@
 title: "Yamaguchi Tsutomu"
 date: 2023-03-18
 ---
-**Bands:** [YKYKYKYKYKYKY](/stripes/ykykykykykyky/) · **Stripes:** [LY K LY K LY K LY K LY K LY K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K LY K LY K LY K LY K LY K LY</span></span>
+In pattern [YKYKYKYKYKYKY](/stripes/ykykykykykyky/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10622
 

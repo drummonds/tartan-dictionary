@@ -2,10 +2,9 @@
 title: "Stewart/Stuart C18th - Cf 1314 & 4454"
 date: 2023-03-18
 ---
-**Bands:** [RGBRGKRKGRBG](/stripes/rgbrgkrkgrbg/) · **Stripes:** [R G DB R G K R K G R DB G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DB R G K R K G R DB G</span></span>
+In pattern [GBRGKRKGRBGR](/stripes/gbrgkrkgrbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3945
 

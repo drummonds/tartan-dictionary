@@ -2,10 +2,9 @@
 title: "Baillie of Polkemmet"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGWGWGWGKBKBKB](/stripes/bkbkgwgwgwgkbkbkb/) · **Stripes:** [DB K DB K G W G W G W G K DB K DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G W G W G W G K DB K DB K DB</span></span>
+In pattern [BKBKBKGWGWGWGKBKB](/stripes/bkbkbkgwgwgwgkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=165
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [165](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=165)
 - Scottish Tartans Authority (ITI): 206
 - Scottish Tartans World Register: 206
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Baillie of Polkemett Family Tartan Tartan Number: 206. Earliest known date: 1937 This sett was designed by Mr A.W. Geddes of Messrs William Anderson of Edinburgh in 1937. It is based on the MacKenzie tartan substituting three fine white lines on the green in place of the single stripe. It was designed for the Baillies of Polkemett. Geddes also produced a red sett for the Baillies around the same period. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/)
-
 
 ## Thread count
 DB/44 K4 DB4 K4 DB4 K36 G36 LN4 G4 LN4 G4 LN4 G36 K36 DB32 K4 DB/4

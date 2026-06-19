@@ -2,10 +2,9 @@
 title: "Morrison LC"
 date: 2023-03-18
 ---
-**Bands:** [GRKRKRGWG](/stripes/grkrkrgwg/) · **Stripes:** [DG R K R K R DG LB DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R K R K R DG LB DG</span></span>
+In pattern [GRKRKRGWG](/stripes/grkrkrgwg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

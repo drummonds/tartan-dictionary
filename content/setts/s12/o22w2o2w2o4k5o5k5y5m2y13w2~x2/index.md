@@ -2,10 +2,9 @@
 title: "Glen Nevis"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRKRKGRGW](/stripes/rwrwrkrkgrgw/) · **Stripes:** [O W O W O K O K Y M Y W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O W O W O K O K Y M Y W</span></span>
+In pattern [RWRWRKRKGRGW](/stripes/rwrwrkrkgrgw/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

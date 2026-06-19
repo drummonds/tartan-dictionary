@@ -2,10 +2,9 @@
 title: "Feddinch Club, St Andrews Limited, The"
 date: 2023-03-18
 ---
-**Bands:** [RKKG](/stripes/rkkg/) · **Stripes:** [R K K DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K K DG</span></span>
+In pattern [GKKR](/stripes/gkkr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3879
 

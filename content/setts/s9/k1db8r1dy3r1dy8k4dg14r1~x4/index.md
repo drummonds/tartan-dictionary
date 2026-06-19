@@ -2,10 +2,9 @@
 title: "Wcwm 1873-5"
 date: 2023-03-18
 ---
-**Bands:** [KBRGRGKGR](/stripes/kbrgrgkgr/) · **Stripes:** [K DB R DY R DY K DG R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB R DY R DY K DG R</span></span>
+In pattern [KBRGRGKGR](/stripes/kbrgrgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4546
 

@@ -2,10 +2,9 @@
 title: "Toshach"
 date: 2023-03-18
 ---
-**Bands:** [GGGWGGGGWGWGRGGGGWGGGB](/stripes/gggwggggwgwgrggggwgggb/) · **Stripes:** [DG DG DG W DG DG DG DG W DG W DG R DG DG DG DG W DG DG DG B](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG DG DG W DG DG DG DG W DG W DG R DG DG DG DG W DG DG DG B</span></span>
+In pattern [BGGGWGGGGRGWGWGGGGWGGG](/stripes/bgggwggggrgwgwggggwggg/).
 
-
-This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Westwater (Edinburgh, 2012)"
 date: 2023-03-18
 ---
-**Bands:** [KBY](/stripes/kby/) · **Stripes:** [K T LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K T LY</span></span>
+In pattern [KBY](/stripes/kby/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10547
 
@@ -14,14 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10547
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10547](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10547)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Poulain League (Corporate)](/setts/s3/ly6t38k3~x2/)
-- [Wilson's, No 118](/setts/s3/k5t4ly1~x2/)
-
 
 ## Thread count
 K/124 B66 LY/2

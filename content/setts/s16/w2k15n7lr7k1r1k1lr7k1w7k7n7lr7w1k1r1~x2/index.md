@@ -2,10 +2,9 @@
 title: "Borders (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKWYBKWKYKRKYBKW](/stripes/rkwybkwkykrkybkw/) · **Stripes:** [R K W LR N K W K LR K R K LR N K W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W LR N K W K LR K R K LR N K W</span></span>
+In pattern [RKWYBKWKYKRKYBKW](/stripes/rkwybkwkykrkybkw/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8246/
 

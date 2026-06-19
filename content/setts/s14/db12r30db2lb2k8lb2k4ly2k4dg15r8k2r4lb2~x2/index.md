@@ -2,10 +2,9 @@
 title: "Brown of Castledean (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [BRBWKWKYKGRKRW](/stripes/brbwkwkykgrkrw/) · **Stripes:** [DB R DB LB K LB K LY K DG R K R LB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB R DB LB K LB K LY K DG R K R LB</span></span>
+In pattern [BRBWKWKYKGRKRW](/stripes/brbwkwkykgrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3738/
 

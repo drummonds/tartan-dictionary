@@ -2,10 +2,9 @@
 title: "Hueg Scottish Blue Thistle (Personal"
 date: 2023-03-18
 ---
-**Bands:** [RGKBGBYBWBGRKRW](/stripes/rgkbgbybwbgrkrw/) · **Stripes:** [R G K DP G DP LO DP LB DP G R K R LB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R G K DP G DP LO DP LB DP G R K R LB</span></span>
+In pattern [RGKBGBYBWBGRKRW](/stripes/rgkbgbybwbgrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10743/
 

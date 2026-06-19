@@ -2,10 +2,9 @@
 title: "Scotland's Grace"
 date: 2023-03-18
 ---
-**Bands:** [WYWBYWBYGYRBRBRBW](/stripes/wywbywbygyrbrbrbw/) · **Stripes:** [LB LG LB P LG LB P LG G LY R DP R DP R DP LB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB LG LB P LG LB P LG G LY R DP R DP R DP LB</span></span>
+In pattern [WBRBRBRYGYBWYBWYW](/stripes/wbrbrbrygybwybwyw/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11070/
 

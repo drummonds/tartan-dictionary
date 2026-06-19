@@ -2,10 +2,9 @@
 title: "Milne of Corstorphine #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBKYGRGYKBGBGB](/stripes/gbkygrgykbgbgb/) · **Stripes:** [G DT K LO G R G LO K DT G DT G DT](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">G DT K LO G R G LO K DT G DT G DT</span></span>
+In pattern [BGBGBKYGRGYKBG](/stripes/bgbgbkygrgykbg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2955
 

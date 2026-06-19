@@ -2,10 +2,9 @@
 title: "Peter Rabbit™"
 date: 2023-03-18
 ---
-**Bands:** [RWBWBWBWYY](/stripes/rwbwbwbwyy/) · **Stripes:** [R W B W B W B W LG LR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R W B W B W B W LG LR</span></span>
+In pattern [RWBWBWBWYY](/stripes/rwbwbwbwyy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10469
 

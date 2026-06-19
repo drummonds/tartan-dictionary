@@ -2,10 +2,9 @@
 title: "Weaving for Life"
 date: 2023-03-18
 ---
-**Bands:** [YBYRYWYW](/stripes/ybyrywyw/) · **Stripes:** [LR N LR M LR W LR W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR N LR M LR W LR W</span></span>
+In pattern [WYWYRYBY](/stripes/wywyryby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4040
 

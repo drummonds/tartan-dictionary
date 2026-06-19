@@ -2,10 +2,9 @@
 title: "Black Watch/Isetan Men's"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKGKBKBKB](/stripes/rkbkgkgkbkbkb/) · **Stripes:** [R K DB K DG K DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DG K DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGKGKBKR](/stripes/bkbkbkgkgkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11123
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11123
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11123](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11123)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Watch/Isetan Men's](/setts/s13/db16k2db2k2db2k12dg13k2dg13k12db12k2r1~x2/)
-
 
 ## Thread count
 DB/42 K4 DB4 K4 DB4 K32 DG32 K4 DG32 K32 DB32 K4 R/2

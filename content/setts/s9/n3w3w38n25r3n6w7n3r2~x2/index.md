@@ -2,10 +2,9 @@
 title: "Greater St. Louis Firefighters (Cor)"
 date: 2023-03-18
 ---
-**Bands:** [RBWBRBWWB](/stripes/rbwbrbwwb/) · **Stripes:** [R N W N R N W W N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">R N W N R N W W N</span></span>
+In pattern [BWWBRBWBR](/stripes/bwwbrbwbr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10336/
 

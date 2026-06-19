@@ -2,10 +2,9 @@
 title: "Urquhart (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKRKRKRWR](/stripes/rbkbkrkrkrwr/) · **Stripes:** [R N K N K O K O K O W O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R N K N K O K O K O W O</span></span>
+In pattern [RBKBKRKRKRWR](/stripes/rbkbkrkrkrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4432
 

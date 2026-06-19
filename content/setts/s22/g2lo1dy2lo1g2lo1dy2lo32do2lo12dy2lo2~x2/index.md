@@ -2,10 +2,9 @@
 title: "Houston (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYGYBYGYGYBYGYGYGYG](/stripes/ygygygybygygybygygygyg/) · **Stripes:** [LO DY LO G LO DY LO DO LO DY LO DY LO DO LO DY LO G LO DY LO G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO DY LO G LO DY LO DO LO DY LO DY LO DO LO DY LO G LO DY LO G</span></span>
+In pattern [GYGYGYGYBYGYGYBYGYGYGY](/stripes/gygygygybygygybygygygy/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1773
 

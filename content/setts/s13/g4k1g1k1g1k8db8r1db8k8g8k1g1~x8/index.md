@@ -2,10 +2,9 @@
 title: "Urquhart"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBRBKGKG](/stripes/gkgkgkbrbkgkg/) · **Stripes:** [G K G K G K DB R DB K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G K DB R DB K G K G</span></span>
+In pattern [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/).
 
-
-This was sourced from logan-1831.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,14 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Urquhart** name adjusted Logan's counts: [Urquhart (Brydone)](/setts/s14/g1k1g8k8b8r1b8k8g1k1g1k1g3w1~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/); [Urquhart (White Line)](/setts/s12/g4w2g24k3g3k3g8k24ga48k3ga3r2~g007800-ga006818-k101010-rc80000-we0e0e0~x2/); [Urquhart](/setts/s9/r3g6k1g1k1g1k6ga9k2~g007800-ga006818-k101010-rc80000~x2/); [Urquhart (Fashion)](/setts/s12/r9w2r18k3r3k3r3k12b30k6b6ra6~b5c5c5c-k101010-r888888-rac80000-we0e0e0/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Poulter SG 100 (Fashion)](/setts/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/)
-- [Urquhart (Logan)](/setts/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/)
-
 
 ## Thread count
 G/32 K8 G8 K8 G8 K64 DB64 R8 DB64 K64 G64 K8 G/8

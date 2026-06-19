@@ -2,10 +2,9 @@
 title: "Diana, Plaid dress"
 date: 2023-03-18
 ---
-**Bands:** [WRBRBWBYBWRW](/stripes/wrbrbwbybwrw/) · **Stripes:** [W O B O DR W DR LY DR W R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O B O DR W DR LY DR W R W</span></span>
+In pattern [WRBRBWBYBWRW](/stripes/wrbrbwbybwrw/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

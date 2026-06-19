@@ -2,10 +2,9 @@
 title: "Motherwell Football Club 1991"
 date: 2023-03-18
 ---
-**Bands:** [RYRKRKRRKW](/stripes/ryrkrkrrkw/) · **Stripes:** [R LY R K R K R R K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY R K R K R R K W</span></span>
+In pattern [RYRKRKRRKW](/stripes/ryrkrkrrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3026
 

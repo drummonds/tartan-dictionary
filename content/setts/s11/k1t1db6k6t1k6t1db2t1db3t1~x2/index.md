@@ -2,10 +2,9 @@
 title: "Clergy (Smith)"
 date: 2023-03-18
 ---
-**Bands:** [KBBKBKBBBBB](/stripes/kbbkbkbbbbb/) · **Stripes:** [K T DB K T K T DB T DB T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T DB K T K T DB T DB T</span></span>
+In pattern [BBBBBKBKBBK](/stripes/bbbbbkbkbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=682
 
@@ -899,15 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clark (Clerke/Clergy/Priest)](/setts/s11/k4t4db14k15t4k15t4db7t4db10t4~x2/)
-- [Clergy (Smith)](/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x4/)
-- [Clergy Blue Tartan Tartan Number: 2195. Earliest known date: 1819 tba See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k2t2db10k10t2k10t2db3t2db5t2~x2/)
-
 
 ## Thread count
 K/2 B2 DB12 K12 B2 K12 B2 DB4 B2 DB6 B/2

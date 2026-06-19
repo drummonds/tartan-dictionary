@@ -2,10 +2,9 @@
 title: "Graham of Montrose #2"
 date: 2023-03-18
 ---
-**Bands:** [KBKGWGKGWGKB](/stripes/kbkgwgkgwgkb/) · **Stripes:** [K DB K G W G K G W G K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K G W G K G W G K DB</span></span>
+In pattern [BKGWGKGWGKBK](/stripes/bkgwgkgwgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1485
 

@@ -2,10 +2,9 @@
 title: "Cuthill (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRBRBRBGRGRGB](/stripes/yrbrbrbgrgrgb/) · **Stripes:** [LY R DB R DB R DT G R G R G DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R DB R DB R DT G R G R G DB</span></span>
+In pattern [BGRGRGBRBRBRY](/stripes/bgrgrgbrbrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=859
 

@@ -2,10 +2,9 @@
 title: "Currens (2016)"
 date: 2023-03-18
 ---
-**Bands:** [GBRBB](/stripes/gbrbb/) · **Stripes:** [DG N R DB B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG N R DB B</span></span>
+In pattern [BBRBG](/stripes/bbrbg/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11607
 

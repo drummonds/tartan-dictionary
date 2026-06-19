@@ -2,10 +2,9 @@
 title: "O'Neill Pipe Band 1983 (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGYGY](/stripes/rgrgygy/) · **Stripes:** [O G O G LG G LG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="seq">O G O G LG G LG</span></span>
+In pattern [RGRGYGY](/stripes/rgrgygy/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5536/
 

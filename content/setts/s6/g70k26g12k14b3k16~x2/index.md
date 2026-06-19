@@ -2,10 +2,9 @@
 title: "Duchess of Fife"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKG](/stripes/kbkgkg/) · **Stripes:** [K B K G K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K B K G K G</span></span>
+In pattern [GKGKBK](/stripes/gkgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002
 

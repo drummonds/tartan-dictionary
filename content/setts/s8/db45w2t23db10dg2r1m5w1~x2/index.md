@@ -2,10 +2,9 @@
 title: "Hier Family, Kilcreggan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWBBGRRW](/stripes/bwbbgrrw/) · **Stripes:** [DB W T DB DG R M W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W T DB DG R M W</span></span>
+In pattern [BWBBGRRW](/stripes/bwbbgrrw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10531
 

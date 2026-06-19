@@ -2,10 +2,9 @@
 title: "Daks (House Check)"
 date: 2023-03-18
 ---
-**Bands:** [KWKWY](/stripes/kwkwy/) · **Stripes:** [K W K W LO](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K W K W LO</span></span>
+In pattern [KWKWY](/stripes/kwkwy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=869
 

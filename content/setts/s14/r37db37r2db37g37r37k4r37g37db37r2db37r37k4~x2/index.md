@@ -2,10 +2,9 @@
 title: "Skene of Cromar"
 date: 2023-03-18
 ---
-**Bands:** [KRBRBGRKRGBRBR](/stripes/krbrbgrkrgbrbr/) · **Stripes:** [K R DB R DB G R K R G DB R DB R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R DB R DB G R K R G DB R DB R</span></span>
+In pattern [KRBRBGRKRGBRBR](/stripes/krbrbgrkrgbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3805
 

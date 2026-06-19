@@ -2,10 +2,9 @@
 title: "Arnold (California)"
 date: 2023-03-18
 ---
-**Bands:** [BKYKBKBKBKBKBKBRBKBKBKBKW](/stripes/bkykbkbkbkbkbkbrbkbkbkbkw/) · **Stripes:** [DB K LO K DB K DB K DB K DB K DB K DB R DB K DP K DP K DB K W](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K LO K DB K DB K DB K DB K DB K DB R DB K DP K DP K DB K W</span></span>
+In pattern [BKYKBKBKBKBKBKBRBKBKBKBKW](/stripes/bkykbkbkbkbkbkbrbkbkbkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10751
 

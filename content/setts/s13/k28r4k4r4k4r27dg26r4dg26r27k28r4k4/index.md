@@ -2,10 +2,9 @@
 title: "42nd Regiment (Musicians) (Mil.)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRGRGRKRK](/stripes/krkrkrgrgrkrk/) · **Stripes:** [K R K R K R DG R DG R K R K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R K R DG R DG R K R K</span></span>
+In pattern [KRKRGRGRKRKRK](/stripes/krkrgrgrkrkrk/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5870/
 

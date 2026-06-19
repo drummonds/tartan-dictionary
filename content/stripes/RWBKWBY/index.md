@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rwbkwby/
 ---
-RWBKWBY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/r3w2db27k19w27dp2ly3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-RWBKWBY
+
+{{< pat "RWBKWBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R W DB K W DP LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W DB K W DP LY</span></span>
 
 | Tartans |
 |---------------|
 | [Christian Dress (Personal)](/setts/s7/r3w2db27k19w27dp2ly3~x2/)|
 |![Christian Dress (Personal) example sett](/setts/s7/r3w2db27k19w27dp2ly3~x2/sett.png)|
-

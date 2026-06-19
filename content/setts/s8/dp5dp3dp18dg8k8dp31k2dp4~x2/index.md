@@ -2,10 +2,9 @@
 title: "By Storm"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGBBB](/stripes/bkbkgbbb/) · **Stripes:** [DP K DP K DG DP DP DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP K DP K DG DP DP DP</span></span>
+In pattern [BBBGKBKB](/stripes/bbbgkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6018
 

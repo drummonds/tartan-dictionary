@@ -2,10 +2,9 @@
 title: "Bute Heather"
 date: 2023-03-18
 ---
-**Bands:** [BKBGBKBKBWB](/stripes/bkbgbkbkbwb/) · **Stripes:** [DB K DP DG DP K DT K DT W DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DP DG DP K DT K DT W DB</span></span>
+In pattern [BKBGBKBKBWB](/stripes/bkbgbkbkbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=455
 

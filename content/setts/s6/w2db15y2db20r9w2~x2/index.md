@@ -2,10 +2,9 @@
 title: "The Open Championship"
 date: 2023-03-18
 ---
-**Bands:** [WRBGBW](/stripes/wrbgbw/) · **Stripes:** [W R DB Y DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R DB Y DB W</span></span>
+In pattern [WBGBRW](/stripes/wbgbrw/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

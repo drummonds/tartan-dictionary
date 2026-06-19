@@ -2,10 +2,9 @@
 title: "Highland Park"
 date: 2023-03-18
 ---
-**Bands:** [YKBRKRBKW](/stripes/ykbrkrbkw/) · **Stripes:** [LO K DB R K R DB K LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO K DB R K R DB K LB</span></span>
+In pattern [WKBRKRBKY](/stripes/wkbrkrbky/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1713
 

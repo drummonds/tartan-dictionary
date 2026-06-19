@@ -2,10 +2,9 @@
 title: "De Baseggio (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBYBYBBBRWGBB](/stripes/bybybybybbbrwgbb/) · **Stripes:** [DT LO DT LO DT LO DT LO DT B DT R W G DT B](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DT LO DT LO DT LO DT LO DT B DT R W G DT B</span></span>
+In pattern [BBGWRBBBYBYBYBYB](/stripes/bbgwrbbbybybybyb/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10628/
 

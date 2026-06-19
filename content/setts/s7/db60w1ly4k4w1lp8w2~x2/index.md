@@ -2,10 +2,9 @@
 title: "Nunavut Territory (District)"
 date: 2023-03-18
 ---
-**Bands:** [BWYKWWW](/stripes/bwykwww/) · **Stripes:** [DB W LY K W LP W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W LY K W LP W</span></span>
+In pattern [BWYKWWW](/stripes/bwykwww/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7705/
 

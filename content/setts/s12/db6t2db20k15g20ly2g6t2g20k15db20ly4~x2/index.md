@@ -2,10 +2,9 @@
 title: "Scottish Women's Rural Institutes"
 date: 2023-03-18
 ---
-**Bands:** [YBKGBGYGKBBB](/stripes/ybkgbgygkbbb/) · **Stripes:** [LY DB K G T G LY G K DB T DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB K G T G LY G K DB T DB</span></span>
+In pattern [BBBKGYGBGKBY](/stripes/bbbkgygbgkby/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

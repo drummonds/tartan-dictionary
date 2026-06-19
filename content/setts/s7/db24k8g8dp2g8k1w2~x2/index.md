@@ -2,10 +2,9 @@
 title: "Alexander"
 date: 2023-03-18
 ---
-**Bands:** [BKGBGKW](/stripes/bkgbgkw/) · **Stripes:** [DB K G DP G K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K G DP G K W</span></span>
+In pattern [BKGBGKW](/stripes/bkgbgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=45
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [45](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=45)
 - Scottish Tartans Authority (ITI): 5686
 - Scottish Tartans World Register: 2722
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Alexander - 2000 (Name)](/setts/s7/db12k4g4dp1g4k1w1~x4/)
-
 
 ## Thread count
 DB/48 K16 G16 DP4 G16 K2 W/4

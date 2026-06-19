@@ -2,10 +2,9 @@
 title: "Service of Drymen (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBKRGWGWGKGKGRKBY](/stripes/rbkrgwgwgkgkgrkby/) · **Stripes:** [R DB K O G LB G LB G K G K G O K DB LO](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R DB K O G LB G LB G K G K G O K DB LO</span></span>
+In pattern [RBKRGWGWGKGKGRKBY](/stripes/rbkrgwgwgkgkgrkby/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1380/
 

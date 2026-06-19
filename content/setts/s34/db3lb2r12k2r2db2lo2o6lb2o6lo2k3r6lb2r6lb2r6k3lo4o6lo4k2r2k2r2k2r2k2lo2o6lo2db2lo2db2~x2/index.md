@@ -2,10 +2,9 @@
 title: "Ogilvie"
 date: 2023-03-18
 ---
-**Bands:** [BYBYRYKRKRKRKYRYKRWRWRKYRWRYBRKRWB](/stripes/bybyrykrkrkrkyrykrwrwrkyrwrybrkrwb/) · **Stripes:** [DB LO DB LO O LO K R K R K R K LO O LO K R LB R LB R K LO O LB O LO DB R K R LB DB](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LO DB LO O LO K R K R K R K LO O LO K R LB R LB R K LO O LB O LO DB R K R LB DB</span></span>
+In pattern [BWRKRBYRWRYKRWRWRKYRYKRKRKRKYRYBYB](/stripes/bwrkrbyrwrykrwrwrkyrykrkrkrkyrybyb/).
 
-
-This was sourced from register-of-tartans.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3222
 

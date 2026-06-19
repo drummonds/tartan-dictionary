@@ -2,10 +2,9 @@
 title: "Gammell (1978) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGKBRB](/stripes/grgkbrb/) · **Stripes:** [G R G K DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G K DB R DB</span></span>
+In pattern [BRBKGRG](/stripes/brbkgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1312
 
@@ -22,14 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1312](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1312)
 - Scottish Tartans Authority (ITI): 4970
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Blair](/setts/s7/db4r1db18k20g18r1g4~x2/)
-- [Blair](/setts/s7/db3r1db10k8g10r1g3~x4/)
-
 
 ## Thread count
 DB/6 R4 DB44 K22 G44 R4 G/6

@@ -2,10 +2,9 @@
 title: "Learmonth Family (Herts) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBBBYBBBWB](/stripes/ybbbybbbwb/) · **Stripes:** [LG DP P DB LG P DP P LP P](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LG DP P DB LG P DP P LP P</span></span>
+In pattern [BWBBBYBBBY](/stripes/bwbbbybbby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11430
 

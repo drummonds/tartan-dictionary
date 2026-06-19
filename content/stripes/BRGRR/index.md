@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/brgrr/
 ---
-BRGRR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/r8r1dg4r1db4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BRGRR
+
+{{< pat "BRGRR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R R DG R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R R DG R DB</span></span>
-
-| Tartans |
-|---------------|
-| [Moray of Abercairney #2](/setts/s5/r8r1dg4r1db4~x2/)|
-|![Moray of Abercairney #2 example sett](/setts/s5/r8r1dg4r1db4~x2/sett.png)|
-
-### R R G R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R R G R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Moray of Abercairney](/setts/s5/r8r1g4r1db4~x2/)|
 |![Moray of Abercairney example sett](/setts/s5/r8r1g4r1db4~x2/sett.png)|
-
+| [Moray of Abercairney #2](/setts/s5/r8r1dg4r1db4~x2/)|
+|![Moray of Abercairney #2 example sett](/setts/s5/r8r1dg4r1db4~x2/sett.png)|

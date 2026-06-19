@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gkgkgkryrk/
 ---
-GKGKGKRYRK
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GKGKGKRYRK
+
+{{< pat "GKGKGKRYRK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K R LO R K DG K DG K DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K R LO R K DG K DG K DG</span></span>
 
 | Tartans |
 |---------------|
 | [Bomb Disposal](/setts/s10/k28r3lo2r3k13dg28k1dg3k1dg16~x2/)|
 |![Bomb Disposal example sett](/setts/s10/k28r3lo2r3k13dg28k1dg3k1dg16~x2/sett.png)|
-

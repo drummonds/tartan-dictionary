@@ -2,10 +2,9 @@
 title: "Scottish Rugby Union"
 date: 2023-03-18
 ---
-**Bands:** [KKKKGWGWGKW](/stripes/kkkkgwgwgkw/) · **Stripes:** [K K K K G LP G LP G K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K K K K G LP G LP G K W</span></span>
+In pattern [KKKKGWGWGKW](/stripes/kkkkgwgwgkw/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

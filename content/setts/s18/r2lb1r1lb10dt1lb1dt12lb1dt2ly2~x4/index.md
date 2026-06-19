@@ -2,10 +2,9 @@
 title: "International Police Association"
 date: 2023-03-18
 ---
-**Bands:** [RWRWBWBWBYBWBWBWRW](/stripes/rwrwbwbwbybwbwbwrw/) · **Stripes:** [R LB R LB DT LB DT LB DT LY DT LB DT LB DT LB R LB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB R LB DT LB DT LB DT LY DT LB DT LB DT LB R LB</span></span>
+In pattern [RWRWBWBWBYBWBWBWRW](/stripes/rwrwbwbwbybwbwbwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1836
 

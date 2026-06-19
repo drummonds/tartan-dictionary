@@ -2,10 +2,9 @@
 title: "Rollo"
 date: 2023-03-18
 ---
-**Bands:** [KGRGKGYGKBKB](/stripes/kgrgkgygkbkb/) · **Stripes:** [K G R G K G LY G K DB K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G R G K G LY G K DB K DB</span></span>
+In pattern [BKBKGYGKGRGK](/stripes/bkbkgygkgrgk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3542
 

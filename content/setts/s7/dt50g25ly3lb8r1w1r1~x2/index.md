@@ -2,10 +2,9 @@
 title: "Wells (2014)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWYGB](/stripes/rwrwygb/) · **Stripes:** [R W R LB LY G DT](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">R W R LB LY G DT</span></span>
+In pattern [BGYWRWR](/stripes/bgywrwr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11106/
 

@@ -2,10 +2,9 @@
 title: "Hebridean Cairn"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRBRBRB](/stripes/rbrbrbrbrbrbrb/) · **Stripes:** [O N O N O N O N O N O N O N](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">O N O N O N O N O N O N O N</span></span>
+In pattern [BRBRBRBRBRBRBR](/stripes/brbrbrbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1652
 

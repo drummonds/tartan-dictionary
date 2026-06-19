@@ -2,10 +2,9 @@
 title: "Baillie (William Wilson)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKYKGKBKBKB](/stripes/rkbkgkykgkbkbkb/) · **Stripes:** [R K DB K G K LY K G K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K G K LY K G K DB K DB K DB</span></span>
+In pattern [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=163
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [163](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=163)
 - Scottish Tartans Authority (ITI): 278
 - Scottish Tartans World Register: 278
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Baillie](/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/)
-
 
 ## Thread count
 DBa/56 K8 DBa8 K8 DBa8 K56 G54 K6 Y10 K6 G54 K56 DBa54 K6 R/10

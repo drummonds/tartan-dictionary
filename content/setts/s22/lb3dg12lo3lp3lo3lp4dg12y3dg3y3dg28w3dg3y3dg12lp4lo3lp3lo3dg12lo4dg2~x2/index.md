@@ -2,10 +2,9 @@
 title: "Cox"
 date: 2023-03-18
 ---
-**Bands:** [GYGYWYWGGGWGGGGGWYWYGW](/stripes/gygywywgggwgggggwywygw/) · **Stripes:** [DG LO DG LO LP LO LP DG Y DG W DG Y DG Y DG LP LO LP LO DG LB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG LO DG LO LP LO LP DG Y DG W DG Y DG Y DG LP LO LP LO DG LB</span></span>
+In pattern [GYGYWYWGGGWGGGGGWYWYGW](/stripes/gygywywgggwgggggwywygw/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5941
 

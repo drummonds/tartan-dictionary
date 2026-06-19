@@ -2,10 +2,9 @@
 title: "Kennedy Dress, (Pendleton)"
 date: 2023-03-18
 ---
-**Bands:** [KGYGBGBGBKBKBKBWB](/stripes/kgygbgbgbkbkbkbwb/) · **Stripes:** [K G LO G DP G DP G DT K DT K DT K DT W DP](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G LO G DP G DP G DT K DT K DT K DT W DP</span></span>
+In pattern [BWBKBKBKBGBGBGYGK](/stripes/bwbkbkbkbgbgbgygk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1947
 

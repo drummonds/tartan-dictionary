@@ -2,10 +2,9 @@
 title: "McCandlish Arisaid, Grey (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YKWKBKBKBKW](/stripes/ykwkbkbkbkw/) · **Stripes:** [LO K W K N K N K N K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO K W K N K N K N K LB</span></span>
+In pattern [WKBKBKBKWKY](/stripes/wkbkbkbkwky/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8232/
 

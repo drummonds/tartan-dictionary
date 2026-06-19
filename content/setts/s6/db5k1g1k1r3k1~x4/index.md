@@ -2,10 +2,9 @@
 title: "Clerk"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKB](/stripes/krkgkb/) · **Stripes:** [K R K G K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K G K DB</span></span>
+In pattern [BKGKRK](/stripes/bkgkrk/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

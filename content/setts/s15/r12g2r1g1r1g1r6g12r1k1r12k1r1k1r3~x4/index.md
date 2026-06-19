@@ -2,10 +2,9 @@
 title: "MacDonell of Keppoch #3"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRGRGRGRGR](/stripes/rkrkrkrgrgrgrgr/) · **Stripes:** [R K R K R K R G R G R G R G R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K R G R G R G R G R</span></span>
+In pattern [RGRGRGRGRKRKRKR](/stripes/rgrgrgrgrkrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388)
 - Scottish Tartans Authority (ITI): 1506
 - Scottish Tartans World Register: 1506
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonell of Keppoch](/setts/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/)
-
 
 ## Thread count
 DR/48 G8 DR4 G4 DR4 G4 DR24 G48 DR4 K4 DR48 K4 DR4 K4 DR/12

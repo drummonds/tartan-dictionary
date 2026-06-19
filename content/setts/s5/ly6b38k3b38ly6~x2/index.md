@@ -2,10 +2,9 @@
 title: "The Poulain League"
 date: 2023-03-18
 ---
-**Bands:** [YBKBY](/stripes/ybkby/) · **Stripes:** [LY B K B LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY B K B LY</span></span>
+In pattern [YBKBY](/stripes/ybkby/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Highland Brewing Company"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKRBK](/stripes/kykrkrbk/) · **Stripes:** [K LY K R K R T K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K LY K R K R T K</span></span>
+In pattern [KBRKRKYK](/stripes/kbrkrkyk/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10939/
 

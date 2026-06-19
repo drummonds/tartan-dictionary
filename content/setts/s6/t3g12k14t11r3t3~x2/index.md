@@ -2,10 +2,9 @@
 title: "Wellington, or Waterloo"
 date: 2023-03-18
 ---
-**Bands:** [BRBKGB](/stripes/brbkgb/) · **Stripes:** [T R T K G T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R T K G T</span></span>
+In pattern [BGKBRB](/stripes/bgkbrb/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wellington, or Waterloo](/setts/s6/t3g6k6t4r1t1~x2/)
-
 
 ## Thread count
 B/6 G24 K28 B22 R6 B/6

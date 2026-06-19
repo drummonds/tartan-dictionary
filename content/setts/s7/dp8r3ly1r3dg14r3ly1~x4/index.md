@@ -2,10 +2,9 @@
 title: "Logan - 1819 (with yellow)"
 date: 2023-03-18
 ---
-**Bands:** [YRGRYRB](/stripes/yrgryrb/) · **Stripes:** [LY R DG R LY R DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY R DG R LY R DP</span></span>
+In pattern [BRYRGRY](/stripes/bryrgry/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/590/
 

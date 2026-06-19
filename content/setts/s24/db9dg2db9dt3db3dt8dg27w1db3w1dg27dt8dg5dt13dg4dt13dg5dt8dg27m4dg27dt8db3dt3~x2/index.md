@@ -2,10 +2,9 @@
 title: "Barony of Gartly (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGBBBBGWBWGBGBGBGBGRGBBB](/stripes/bgbbbbgwbwgbgbgbgbgrgbbb/) · **Stripes:** [DB DG DB DT DB DT DG W DB W DG DT DG DT DG DT DG DT DG M DG DT DB DT](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">DB DG DB DT DB DT DG W DB W DG DT DG DT DG DT DG DT DG M DG DT DB DT</span></span>
+In pattern [BBBGRGBGBGBGBGWBWGBBBBGB](/stripes/bbbgrgbgbgbgbgwbwgbbbbgb/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8410/
 

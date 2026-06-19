@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbkbkbkbk/
 ---
-BKBKBKBKBK
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BKBKBKBKBK
+
+{{< pat "BKBKBKBKBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K N K N K N K N K N <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N K N K N K N</span></span>
 
 | Tartans |
 |---------------|
 | [Grey Spirit](/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/)|
 |![Grey Spirit example sett](/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/sett.png)|
-

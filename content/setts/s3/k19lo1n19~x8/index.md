@@ -2,10 +2,9 @@
 title: "Wcwm 9275-1394"
 date: 2023-03-18
 ---
-**Bands:** [KYB](/stripes/kyb/) · **Stripes:** [K LO N](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="seq">K LO N</span></span>
+In pattern [BYK](/stripes/byk/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4560
 

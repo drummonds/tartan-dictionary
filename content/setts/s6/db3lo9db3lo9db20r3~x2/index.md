@@ -2,10 +2,9 @@
 title: "Latin"
 date: 2023-03-18
 ---
-**Bands:** [RBYBYB](/stripes/rbybyb/) · **Stripes:** [R DB LO DB LO DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LO DB LO DB</span></span>
+In pattern [BYBYBR](/stripes/bybybr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905
 

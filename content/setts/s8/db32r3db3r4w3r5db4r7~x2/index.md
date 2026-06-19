@@ -2,10 +2,9 @@
 title: "Edinburgh TIC (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBRWRBRB](/stripes/rbrwrbrb/) · **Stripes:** [R DB R W R DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R W R DB R DB</span></span>
+In pattern [BRBRWRBR](/stripes/brbrwrbr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3944/
 
@@ -22,14 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4980](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4980)
 - Scottish Tartans Authority (ITI): 3944
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Edinburgh Marketing](/setts/s8/db6r1db1r2w1r2db1r3~x4/)
-- [Edinburgh Marketing](/setts/s8/db38r6db6r9w5r12db8r16/)
-
 
 ## Thread count
 DB/64 R6 DB6 R8 LN6 R10 DB8 R/14

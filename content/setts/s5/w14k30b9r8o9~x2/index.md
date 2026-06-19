@@ -2,10 +2,9 @@
 title: "Heidrick Family (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRBKW](/stripes/rrbkw/) · **Stripes:** [O R B K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O R B K W</span></span>
+In pattern [RRBKW](/stripes/rrbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11403
 

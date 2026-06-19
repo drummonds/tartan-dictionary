@@ -2,10 +2,9 @@
 title: "The Trew 40th"
 date: 2023-03-18
 ---
-**Bands:** [RKKBBBKWKBKBKBR](/stripes/rkkbbbkwkbkbkbr/) · **Stripes:** [R K K DT DB DT K W K DT K DT K DT R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K K DT DB DT K W K DT K DT K DT R</span></span>
+In pattern [RBKBKBKWKBBBKKR](/stripes/rbkbkbkwkbbbkkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10033
 

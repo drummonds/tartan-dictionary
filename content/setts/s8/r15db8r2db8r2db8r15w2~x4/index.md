@@ -2,10 +2,9 @@
 title: "Hamilton"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRW](/stripes/rbrbrbrw/) · **Stripes:** [R DB R DB R DB R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB R DB R DB R W</span></span>
+In pattern [RBRBRBRW](/stripes/rbrbrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1576
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1576](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1576)
 - Scottish Tartans Authority (ITI): 477
 - Scottish Tartans World Register: 477
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [U.S. Coast Guard](/setts/s8/r5db6r1db6r1db6r5w5~x4/)
-
 
 ## Thread count
 R/60 DBa32 R8 DBa32 R8 DBa32 R60 LN/8

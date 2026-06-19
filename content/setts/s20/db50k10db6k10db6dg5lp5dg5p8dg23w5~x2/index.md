@@ -2,10 +2,9 @@
 title: "Scottish Hockey Union"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGWGBGWGBGWGBKBKB](/stripes/kbkbgwgbgwgbgwgbkbkb/) · **Stripes:** [K DB K DB DG LP DG P DG W DG P DG LP DG DB K DB K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB DG LP DG P DG W DG P DG LP DG DB K DB K DB</span></span>
+In pattern [BKBKBGWGBGWGBGWGBKBK](/stripes/bkbkbgwgbgwgbgwgbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3724
 

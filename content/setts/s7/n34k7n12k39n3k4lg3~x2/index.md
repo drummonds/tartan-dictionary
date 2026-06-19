@@ -2,10 +2,9 @@
 title: "Tartan Army Children's Charity (Corp"
 date: 2023-03-18
 ---
-**Bands:** [YKBKBKB](/stripes/ykbkbkb/) · **Stripes:** [LG K N K N K N](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">LG K N K N K N</span></span>
+In pattern [BKBKBKY](/stripes/bkbkbky/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8271/
 

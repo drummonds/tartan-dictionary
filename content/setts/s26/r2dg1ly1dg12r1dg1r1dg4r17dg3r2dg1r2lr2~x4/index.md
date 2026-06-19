@@ -2,10 +2,9 @@
 title: "Hayes"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRGRGRGRGRYRGRGRGRGRGYG](/stripes/rgygrgrgrgrgryrgrgrgrgrgyg/) · **Stripes:** [R DG LY DG R DG R DG R DG R DG R LR R DG R DG R DG R DG R DG LY DG](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG LY DG R DG R DG R DG R DG R LR R DG R DG R DG R DG R DG LY DG</span></span>
+In pattern [GYGRGRGRGRGRYRGRGRGRGRGYGR](/stripes/gygrgrgrgrgryrgrgrgrgrgygr/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1636
 

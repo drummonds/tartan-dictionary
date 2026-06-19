@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brbbkbgky/
 ---
-BRBBKBGKY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BRBBKBGKY
+
+{{< pat "BRBBKBGKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K G DB K DB DB O DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G DB K DB DB O DB</span></span>
 
 | Tartans |
 |---------------|
 | [Incorporation of Weavers (Glasgow)](/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/)|
 |![Incorporation of Weavers (Glasgow) example sett](/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/sett.png)|
-

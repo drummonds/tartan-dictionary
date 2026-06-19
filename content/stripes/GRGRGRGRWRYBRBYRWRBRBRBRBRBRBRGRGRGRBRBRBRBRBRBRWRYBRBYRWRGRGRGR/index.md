@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/grgrgrgrwrybrbyrwrbrbrbrbrbrbrgrgrgrbrbrbrbrbrbrwrybrbyrwrgrgrgr/
 ---
-GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR
-
-It is a 64 band tartan.
+It is a 64 stripe tartan.
 
 
 
 ## Colour Sequence
-GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR
+
+{{< pat "GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG R DG R DG R W R LY DP R DP LY R W R DP R DP R DP R DP R DP R DP R DG R DG R DG R DP R DP R DP R DP R DP R DP R W R LY DP R DP LY R W R DG R DG R DG R DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG R DG R W R LY DP R DP LY R W R DP R DP R DP R DP R DP R DP R DG R DG R DG R DP R DP R DP R DP R DP R DP R W R LY DP R DP LY R W R DG R DG R DG R DG</span></span>
 
 | Tartans |
 |---------------|
 | [Huntly](/setts/s64/dg8r2dg8r12dg2r3dg2r12w1r3ly1dp12r3dp12ly1r3w1r12dp1r1dp2r1dp1r12dp1r1dp2r1dp1r12dg8r2dg8~x2/)|
 |![Huntly example sett](/setts/s64/dg8r2dg8r12dg2r3dg2r12w1r3ly1dp12r3dp12ly1r3w1r12dp1r1dp2r1dp1r12dp1r1dp2r1dp1r12dg8r2dg8~x2/sett.png)|
-

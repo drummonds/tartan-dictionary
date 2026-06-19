@@ -2,10 +2,9 @@
 title: "Mississippi"
 date: 2023-03-18
 ---
-**Bands:** [KGBKGRKGYYYYW](/stripes/kgbkgrkgyyyyw/) · **Stripes:** [K G DB K G R K G LY LO LY LO W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K G DB K G R K G LY LO LY LO W</span></span>
+In pattern [KGBKGRKGYYYYW](/stripes/kgbkgrkgyyyyw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2965
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2965](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2965)
 - Scottish Tartans Authority (ITI): 6789
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mississippi (Fashion)](/setts/s13/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4~x2/)
-
 
 ## Thread count
 K/20 G40 DB4 K20 G20 R8 K20 G20 Y1 DY1 Y1 DY1 W/4

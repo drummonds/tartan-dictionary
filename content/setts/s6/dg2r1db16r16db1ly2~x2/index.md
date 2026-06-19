@@ -2,10 +2,9 @@
 title: "Galloway Dress (Yellow Line)"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRG](/stripes/ybrbrg/) · **Stripes:** [LY DB R DB R DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DB R DB R DG</span></span>
+In pattern [GRBRBY](/stripes/grbrby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1303
 

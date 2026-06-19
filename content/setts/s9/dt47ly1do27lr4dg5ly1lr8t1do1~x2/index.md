@@ -2,10 +2,9 @@
 title: "Brighton Mac Dermotte"
 date: 2023-03-18
 ---
-**Bands:** [BYBYGYYBB](/stripes/bybygyybb/) · **Stripes:** [DT LY DO LR DG LY LR T DO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="seq">DT LY DO LR DG LY LR T DO</span></span>
+In pattern [BBYYGYBYB](/stripes/bbyygybyb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10434
 

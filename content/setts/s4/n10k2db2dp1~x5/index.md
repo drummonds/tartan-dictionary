@@ -2,10 +2,9 @@
 title: "Lord Willy's (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BKBB](/stripes/bkbb/) · **Stripes:** [N K DB DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">N K DB DP</span></span>
+In pattern [BBKB](/stripes/bbkb/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10342/
 

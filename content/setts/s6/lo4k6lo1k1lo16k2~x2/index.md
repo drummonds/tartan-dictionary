@@ -2,10 +2,9 @@
 title: "Monoch Airline"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKY](/stripes/kykyky/) · **Stripes:** [K LO K LO K LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO K LO K LO</span></span>
+In pattern [KYKYKY](/stripes/kykyky/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2986
 
@@ -22,14 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2986](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2986)
 - Scottish Tartans Authority (ITI): 4213
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Justus #2 (Personal)](/setts/s6/k5lo1k1lo1~x20/)
-- [Schranz-Gritte (Corporate)](/setts/s6/lo24k5lo4k2lo3k2~x2/)
-
 
 ## Thread count
 DY/8 K12 DY2 K2 DY32 K/4

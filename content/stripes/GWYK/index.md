@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/gwyk/
 ---
-GWYK
-
-It is a 4 band tartan.
+It is a 4 stripe tartan.
 
 ![Woven sample](/setts/s4/k35lo3w3g3~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GWYK
+
+{{< pat "GWYK" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### K LO W G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LO W G</span></span>
 
 | Tartans |
 |---------------|
 | [Dhillon (Personal)](/setts/s4/k35lo3w3g3~x4/)|
 |![Dhillon (Personal) example sett](/setts/s4/k35lo3w3g3~x4/sett.png)|
-
-### K LY W G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY W G</span></span>
-
-| Tartans |
-|---------------|
 | [Hogan (2014)](/setts/s4/g10w7ly41k7~x2/)|
 |![Hogan (2014) example sett](/setts/s4/g10w7ly41k7~x2/sett.png)|
-

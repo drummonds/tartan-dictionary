@@ -2,10 +2,9 @@
 title: "Breckon"
 date: 2023-03-18
 ---
-**Bands:** [BRRRRRBRB](/stripes/brrrrrbrb/) · **Stripes:** [DB R O R O R DB O DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R O R O R DB O DB</span></span>
+In pattern [BRBRRRRRB](/stripes/brbrrrrrb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6003
 

@@ -2,10 +2,9 @@
 title: "Lambert Dark (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKGWGKRKGKB](/stripes/kgkrkgwgkrkgkb/) · **Stripes:** [K G K R K DY W DY K R K G K B](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G K R K DY W DY K R K G K B</span></span>
+In pattern [BKGKRKGWGKRKGK](/stripes/bkgkrkgwgkrkgk/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10669/
 

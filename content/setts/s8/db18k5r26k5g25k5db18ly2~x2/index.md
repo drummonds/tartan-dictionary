@@ -2,10 +2,9 @@
 title: "St. Clement of Rome (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YBKGKRKB](/stripes/ybkgkrkb/) · **Stripes:** [LY DB K G K R K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB K G K R K DB</span></span>
+In pattern [BKRKGKBY](/stripes/bkrkgkby/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6742/
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [5439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5439)
 - Scottish Tartans Authority (ITI): 6742
 - Scottish Tartans World Register: 3008
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kilgour (Asymmetrical)](/setts/s8/db6k3r14k3g14k3db6ly1~x4/)
-
 
 ## Thread count
 DB/36 K10 R52 K10 G50 K10 DB36 Y/4

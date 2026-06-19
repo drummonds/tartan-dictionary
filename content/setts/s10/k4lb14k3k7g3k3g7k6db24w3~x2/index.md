@@ -2,19 +2,11 @@
 title: "Kagame Personal Tartan Tartan Number: 7077. Earliest known date: 2006 Presented to President Kagame of Rwanda, by Tom Hunter, christmas 2006 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWKKGKGKBW](/stripes/kwkkgkgkbw/) · **Stripes:** [K LB K K G K G K DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LB K K G K G K DB W</span></span>
+In pattern [KWKKGKGKBW](/stripes/kwkkgkgkbw/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7077
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kagame (Personal)](/setts/s10/k5lb14k3k7g3k3g7k6db24w3~x2/)
-
 
 ## Thread count
 YY/8 LB28 K6 YY14 G6 K6 G14 K12 B48 LN/6

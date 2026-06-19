@@ -2,10 +2,9 @@
 title: "Cultoquhey Hotel"
 date: 2023-03-18
 ---
-**Bands:** [RBKGY](/stripes/rbkgy/) · **Stripes:** [R DB K G LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB K G LY</span></span>
+In pattern [RBKGY](/stripes/rbkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5133
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5133](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5133)
 - Scottish Tartans Authority (ITI): 3393
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sanix Modern](/setts/s5/r2db16k11g19ly2~x2/)
-
 
 ## Thread count
 R/6 DB44 K22 G64 Y/6

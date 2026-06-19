@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbggggbgbb/
 ---
-BBBGGGGBGBB
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BBBGGGGBGBB
+
+{{< pat "BBBGGGGBGBB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### P P Y P Y DG DG Y DP DP DP <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">P P Y P Y DG DG Y DP DP DP</span></span>
 
 | Tartans |
 |---------------|
 | [Fabric of Scotland (Prickly Thistle), The](/setts/s11/dp23dp8dp2y24dg19dg29y4p5y11p19p23~x2/)|
 |![Fabric of Scotland (Prickly Thistle), The example sett](/setts/s11/dp23dp8dp2y24dg19dg29y4p5y11p19p23~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Walk the Walk"
 date: 2023-03-18
 ---
-**Bands:** [YWYWYWYW](/stripes/ywywywyw/) · **Stripes:** [LR W LR W LR W LR W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR W LR W LR W LR W</span></span>
+In pattern [WYWYWYWY](/stripes/wywywywy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2013
 

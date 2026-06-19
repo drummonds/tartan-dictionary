@@ -2,10 +2,9 @@
 title: "Harry (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBRRBRB](/stripes/rrbrbrrbrb/) · **Stripes:** [O R DT R DT R O DT O DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">O R DT R DT R O DT O DT</span></span>
+In pattern [BRBRRBRBRR](/stripes/brbrrbrbrr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7679/
 

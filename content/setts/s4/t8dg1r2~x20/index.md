@@ -2,10 +2,9 @@
 title: "Gyle"
 date: 2023-03-18
 ---
-**Bands:** [RGBG](/stripes/rgbg/) · **Stripes:** [R DG T DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG T DG</span></span>
+In pattern [GBGR](/stripes/gbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1565
 

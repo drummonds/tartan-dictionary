@@ -2,10 +2,9 @@
 title: "Reid, Green"
 date: 2023-03-18
 ---
-**Bands:** [WRGRGKGBGRGRW](/stripes/wrgrgkgbgrgrw/) · **Stripes:** [W R G R G K G DB G R G R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R G R G K G DB G R G R W</span></span>
+In pattern [WRGRGBGKGRGRW](/stripes/wrgrgbgkgrgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3495
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3495](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3495)
 - Scottish Tartans Authority (ITI): 2066
 - Scottish Tartans World Register: 2066
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/)
-
 
 ## Thread count
 LN/4 R8 G40 R8 G8 K32 G8 DB32 G8 R8 G40 R8 LN/4

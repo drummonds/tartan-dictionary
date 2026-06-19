@@ -2,10 +2,9 @@
 title: "Daks - House Check, C.6700.03"
 date: 2023-03-18
 ---
-**Bands:** [KWKWR](/stripes/kwkwr/) · **Stripes:** [K W K W O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K W K W O</span></span>
+In pattern [KWKWR](/stripes/kwkwr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

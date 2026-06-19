@@ -2,10 +2,9 @@
 title: "Monarch of the Glen"
 date: 2023-03-18
 ---
-**Bands:** [BGYGBGBBRBGBRBBBBRBGBB](/stripes/bgygbgbbrbgbrbbbbrbgbb/) · **Stripes:** [DB G LO G DT G DP DT R DT G DT R DT DB DP DT R DT G DT DP](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB G LO G DT G DP DT R DT G DT R DT DB DP DT R DT G DT DP</span></span>
+In pattern [BBGBRBBBBRBGBRBBGBGYGB](/stripes/bbgbrbbbbrbgbrbbgbgygb/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2978
 

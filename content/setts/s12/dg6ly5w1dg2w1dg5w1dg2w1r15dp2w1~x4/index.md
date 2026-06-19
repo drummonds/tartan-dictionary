@@ -2,19 +2,11 @@
 title: "Dunblane (District)"
 date: 2023-03-18
 ---
-**Bands:** [GYWGWGWGWRBW](/stripes/gywgwgwgwrbw/) · **Stripes:** [DG LY W DG W DG W DG W R DP W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG LY W DG W DG W DG W R DP W</span></span>
+In pattern [GYWGWGWGWRBW](/stripes/gywgwgwgwrbw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1022/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dunblane](/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/)
-
 
 ## Thread count
 G/24 Y20 LN4 G8 LN4 G20 LN4 G8 LN4 R60 DP8 LN/4

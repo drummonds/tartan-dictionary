@@ -2,10 +2,9 @@
 title: "Lugo (2013)"
 date: 2023-03-18
 ---
-**Bands:** [RGYG](/stripes/rgyg/) · **Stripes:** [R DG LY DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG LY DG</span></span>
+In pattern [GYGR](/stripes/gygr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10946/
 

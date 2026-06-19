@@ -2,10 +2,9 @@
 title: "Oliver Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRBRWKWRBRGRGW](/stripes/grgrbrwkwrbrgrgw/) · **Stripes:** [G R G R DB R W K W R DB R G R G W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R G R DB R W K W R DB R G R G W</span></span>
+In pattern [GRGRBRWKWRBRGRGW](/stripes/grgrbrwkwrbrgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3238
 

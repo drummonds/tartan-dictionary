@@ -2,10 +2,9 @@
 title: "Raibert Check"
 date: 2023-03-18
 ---
-**Bands:** [GBGBWGGGGGGB](/stripes/gbgbwggggggb/) · **Stripes:** [DY DB DY DB W G DY G DY G DY DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">DY DB DY DB W G DY G DY G DY DB</span></span>
+In pattern [BGGGGGGWBGBG](/stripes/bggggggwbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3440
 

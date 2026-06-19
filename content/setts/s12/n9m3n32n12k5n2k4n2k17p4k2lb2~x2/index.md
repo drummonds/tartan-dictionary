@@ -2,10 +2,9 @@
 title: "Scottish Spirit"
 date: 2023-03-18
 ---
-**Bands:** [BRBBKBKBKBKW](/stripes/brbbkbkbkbkw/) · **Stripes:** [N M N N K N K N K P K LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N M N N K N K N K P K LB</span></span>
+In pattern [BRBBKBKBKBKW](/stripes/brbbkbkbkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10970
 

@@ -2,10 +2,9 @@
 title: "Clyde Valley HOG"
 date: 2023-03-18
 ---
-**Bands:** [KYKYRYKY](/stripes/kykyryky/) · **Stripes:** [K LR K LR O LO K LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LR K LR O LO K LY</span></span>
+In pattern [KYKYRYKY](/stripes/kykyryky/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=693
 

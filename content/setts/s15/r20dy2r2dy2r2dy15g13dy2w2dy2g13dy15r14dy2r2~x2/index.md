@@ -2,10 +2,9 @@
 title: "Mauthe Unidentified (Name?)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGGGWGGGRGR](/stripes/rgrgrgggwgggrgr/) · **Stripes:** [R DY R DY R DY G DY W DY G DY R DY R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DY R DY R DY G DY W DY G DY R DY R</span></span>
+In pattern [RGRGGGWGGGRGRGR](/stripes/rgrgggwgggrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6000/
 

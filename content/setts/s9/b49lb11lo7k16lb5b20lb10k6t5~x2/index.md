@@ -2,10 +2,9 @@
 title: "State Seal of Louisiana (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BKWBWKYWB](/stripes/bkwbwkywb/) · **Stripes:** [T K LB B LB K LO LB B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="seq">T K LB B LB K LO LB B</span></span>
+In pattern [BKWBWKYWB](/stripes/bkwbwkywb/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8632/
 

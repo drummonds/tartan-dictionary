@@ -2,10 +2,9 @@
 title: "Saskatchewan"
 date: 2023-03-18
 ---
-**Bands:** [YYRYRGKW](/stripes/yyryrgkw/) · **Stripes:** [LY LO R LO O DG K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY LO R LO O DG K W</span></span>
+In pattern [WKGRYRYY](/stripes/wkgryryy/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

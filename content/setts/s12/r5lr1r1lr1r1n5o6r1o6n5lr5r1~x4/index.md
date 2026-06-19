@@ -2,10 +2,9 @@
 title: "Lakin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRBRRRBYR](/stripes/ryryrbrrrbyr/) · **Stripes:** [R LR R LR R N O R O N LR R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LR R LR R N O R O N LR R</span></span>
+In pattern [RYBRRRBRYRYR](/stripes/rybrrrbryryr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7085/
 

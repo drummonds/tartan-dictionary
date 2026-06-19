@@ -2,10 +2,9 @@
 title: "Biskup (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYGRGKRBRB](/stripes/gygrgkrbrb/) · **Stripes:** [G LO G R G K R DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G LO G R G K R DB R DB</span></span>
+In pattern [BRBRKGRGYG](/stripes/brbrkgrgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=267
 

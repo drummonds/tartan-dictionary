@@ -2,10 +2,9 @@
 title: "Monaghan"
 date: 2023-03-18
 ---
-**Bands:** [YBRYBGRBY](/stripes/ybrybgrby/) · **Stripes:** [LO DR O LO DR G O DR LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DR O LO DR G O DR LO</span></span>
+In pattern [YBRGBYRBY](/stripes/ybrgbyrby/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Lanark"
 date: 2023-03-18
 ---
-**Bands:** [GYGKBB](/stripes/gygkbb/) · **Stripes:** [DG LY DG K DB T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG LY DG K DB T</span></span>
+In pattern [BBKGYG](/stripes/bbkgyg/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

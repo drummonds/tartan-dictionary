@@ -2,10 +2,9 @@
 title: "Caledonia No 3"
 date: 2023-03-18
 ---
-**Bands:** [RBRGYBBRB](/stripes/rbrgybbrb/) · **Stripes:** [R T R DG LY DP T R DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R T R DG LY DP T R DP</span></span>
+In pattern [BRBBYGRBR](/stripes/brbbygrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=468
 

@@ -2,10 +2,9 @@
 title: "Caledonian"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRB](/stripes/rbrgrb/) · **Stripes:** [R DP R DG R DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP R DG R DP</span></span>
+In pattern [BRGRBR](/stripes/brgrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=470
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [470](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=470)
 - Scottish Tartans World Register: 526
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lovat or Fraser #2](/setts/s6/r80dp19r8dg36r10dp2~x2/)
-
 
 ## Thread count
 R/120 P40 R16 G90 R16 P/4

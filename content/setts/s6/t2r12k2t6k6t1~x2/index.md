@@ -2,10 +2,9 @@
 title: "Thompson/Thomson/MacTavish #2"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRB](/stripes/bkbkrb/) · **Stripes:** [T K T K R T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T K R T</span></span>
+In pattern [BKBKRB](/stripes/bkbkrb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4115
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Thomson, Red (Name)](/setts/s6/t4r28k6t12k12t3~x2/)
-
 
 ## Thread count
 B/4 R24 K4 B12 K12 B/2

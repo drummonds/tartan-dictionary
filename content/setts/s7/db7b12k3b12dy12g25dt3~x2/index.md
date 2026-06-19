@@ -2,10 +2,9 @@
 title: "Scottish Odyssey (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGGBKBB](/stripes/bggbkbb/) · **Stripes:** [DT G DY B K B DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">DT G DY B K B DB</span></span>
+In pattern [BBKBGGB](/stripes/bbkbggb/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4071/
 

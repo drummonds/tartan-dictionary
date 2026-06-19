@@ -2,20 +2,11 @@
 title: "Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WRKRGKWKYKBW](/stripes/wrkrgkwkykbw/) · **Stripes:** [W R K R G K W K LY K DB W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K R G K W K LY K DB W</span></span>
+In pattern [WBKYKWKGRKRW](/stripes/wbkykwkgrkrw/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11790
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart Dress (Clan)](/setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/)
-- [Stewart dress](/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/)
-
 
 ## Thread count
 LN/30 DB4 K6 Y2 K2 LN2 K2 G6 R8 K2 R2 LN/2

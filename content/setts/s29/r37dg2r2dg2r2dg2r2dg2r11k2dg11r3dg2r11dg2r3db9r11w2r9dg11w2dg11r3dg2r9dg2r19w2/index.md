@@ -2,10 +2,9 @@
 title: "MacDonald of Staffa #4"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRKGRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrkgrgrgrbrwrgwgrgrgrw/) · **Stripes:** [R DG R DG R DG R DG R K DG R DG R DG R DB R W R DG W DG R DG R DG R W](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG R DG R DG R DG R K DG R DG R DG R DB R W R DG W DG R DG R DG R W</span></span>
+In pattern [RGRGRGRGRKGRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrkgrgrgrbrwrgwgrgrgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2371
 

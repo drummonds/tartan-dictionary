@@ -2,10 +2,9 @@
 title: "Simon and Friends (Hamburg) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKBYBKWKGKG](/stripes/kgkgkbybkwkgkg/) · **Stripes:** [K DG K DG K DO LO DO K W K DG K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K DO LO DO K W K DG K DG</span></span>
+In pattern [GKGKWKBYBKGKGK](/stripes/gkgkwkbybkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10848
 

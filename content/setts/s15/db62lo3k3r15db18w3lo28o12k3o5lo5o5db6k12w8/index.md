@@ -2,10 +2,9 @@
 title: "Clare County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BYKRBWYRKRYRBKW](/stripes/bykrbwyrkryrbkw/) · **Stripes:** [DB LO K R DB W LO O K O LO O DB K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LO K R DB W LO O K O LO O DB K W</span></span>
+In pattern [BYKRBWYRKRYRBKW](/stripes/bykrbwyrkryrbkw/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7444/
 

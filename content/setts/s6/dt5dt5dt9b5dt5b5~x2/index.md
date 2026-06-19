@@ -2,10 +2,9 @@
 title: "Charles Rennie Mackintosh"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBB](/stripes/bbbbbb/) · **Stripes:** [DT DT DT B DT B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DT DT DT B DT B</span></span>
+In pattern [BBBBBB](/stripes/bbbbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10047
 

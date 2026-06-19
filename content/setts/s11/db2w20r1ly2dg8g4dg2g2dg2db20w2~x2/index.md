@@ -2,10 +2,9 @@
 title: "Nova Scotia Dress"
 date: 2023-03-18
 ---
-**Bands:** [BWRYGGGGGBW](/stripes/bwrygggggbw/) · **Stripes:** [DB W R LY DG G DG G DG DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W R LY DG G DG G DG DB W</span></span>
+In pattern [BWRYGGGGGBW](/stripes/bwrygggggbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3203
 

@@ -2,10 +2,9 @@
 title: "Scottish Tourist Guides Assoc. (Corp"
 date: 2023-03-18
 ---
-**Bands:** [GBYBYBBBBBBYW](/stripes/gbybybbbbbbyw/) · **Stripes:** [DG DP LR DP LR DP DB DP DB DP DB LO W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG DP LR DP LR DP DB DP DB DP DB LO W</span></span>
+In pattern [GBYBYBBBBBBYW](/stripes/gbybybbbbbbyw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10138/
 

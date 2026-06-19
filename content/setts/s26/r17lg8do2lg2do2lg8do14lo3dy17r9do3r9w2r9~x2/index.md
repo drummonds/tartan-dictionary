@@ -2,10 +2,9 @@
 title: "Unidentified Scarlett #15"
 date: 2023-03-18
 ---
-**Bands:** [RWRBRGYBYBYBYRYBYBYBYGRBRW](/stripes/rwrbrgybybybyrybybybygrbrw/) · **Stripes:** [R W R DO R DY LO DO LG DO LG DO LG R LG DO LG DO LG DO LO DY R DO R W](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R DO R DY LO DO LG DO LG DO LG R LG DO LG DO LG DO LO DY R DO R W</span></span>
+In pattern [RWRBRGYBYBYBYRYBYBYBYGRBRW](/stripes/rwrbrgybybybyrybybybygrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4371
 

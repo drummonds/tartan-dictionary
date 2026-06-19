@@ -2,10 +2,9 @@
 title: "Braemar, Camel"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRKWR](/stripes/rkrkrkrkwr/) · **Stripes:** [O K O K O K O K W O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K O K O K W O</span></span>
+In pattern [RKRKRKRKWR](/stripes/rkrkrkrkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5394
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5394](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5394)
 - Scottish Tartans Authority (ITI): 3726
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Braemar, or Blair Atholl](/setts/s10/o1w2k5o3k1o5k1o11k1o1~x4/)
-
 
 ## Thread count
 T/4 W8 K20 T12 K4 LT16 K4 LT40 K4 LT/4

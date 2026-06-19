@@ -2,10 +2,9 @@
 title: "Pride of Scotland Silver"
 date: 2023-03-18
 ---
-**Bands:** [KRKBRBKRKKBR](/stripes/krkbrbkrkkbr/) · **Stripes:** [K O K N O N K R K K N R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">K O K N O N K R K K N R</span></span>
+In pattern [KRKBRBKRKKBR](/stripes/krkbrbkrkkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3381
 

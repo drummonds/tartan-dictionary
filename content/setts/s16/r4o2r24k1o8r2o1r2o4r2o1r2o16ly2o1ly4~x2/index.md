@@ -2,10 +2,9 @@
 title: "Brian Boru 1014 (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [RRRKRRRRRRRRRYRY](/stripes/rrrkrrrrrrrrryry/) · **Stripes:** [R O R K O R O R O R O R O LY O LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R O R K O R O R O R O R O LY O LY</span></span>
+In pattern [RRRKRRRRRRRRRYRY](/stripes/rrrkrrrrrrrrryry/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10607/
 

@@ -2,10 +2,9 @@
 title: "Herbage of Laggan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRRKG](/stripes/rrrkg/) · **Stripes:** [O R O K G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O R O K G</span></span>
+In pattern [GKRRR](/stripes/gkrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1690](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690)
 - Scottish Tartans Authority (ITI): 811
 - Scottish Tartans World Register: 811
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Herbage Family Tartan Tartan Number: 811. Earliest known date: 1983 Designed by the Scottish Tartans Society for Mr Herbage, Laggan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/g25k8o10r1o3~x4/)
-
 
 ## Thread count
 G/136 K44 N56 DR6 N/24

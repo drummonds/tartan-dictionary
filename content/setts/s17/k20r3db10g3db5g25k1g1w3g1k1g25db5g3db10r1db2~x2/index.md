@@ -2,10 +2,9 @@
 title: "Blairlogie, or Blair Athol"
 date: 2023-03-18
 ---
-**Bands:** [KRBGBGKGWGKGBGBRB](/stripes/krbgbgkgwgkgbgbrb/) · **Stripes:** [K R DB G DB G K G W G K G DB G DB R DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB G DB G K G W G K G DB G DB R DB</span></span>
+In pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Blairlogie or Blair Athol](/setts/s17/k28r1db8g2db4g19k2g1w2g1k1g19db4g2db8r2db3~x4/)
-
 
 ## Thread count
 K/40 R6 B20 G6 B10 G50 K2 G2 LN6 G2 K2 G50 B10 G6 B20 R2 B/4

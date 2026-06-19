@@ -2,10 +2,9 @@
 title: "Satisfashion Argyll"
 date: 2023-03-18
 ---
-**Bands:** [YBYYBRYGYBYGYRBYYB](/stripes/ybyybrygybygyrbyyb/) · **Stripes:** [LO DO LO LO DO R LO Y LO DO LO Y LO R DO LO LO DO](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO LO LO DO R LO Y LO DO LO Y LO R DO LO LO DO</span></span>
+In pattern [BYYBRYGYBYGYRBYYBY](/stripes/byybrygybygyrbyyby/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3658
 

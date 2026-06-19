@@ -2,10 +2,9 @@
 title: "Dalgliesh Dress"
 date: 2023-03-18
 ---
-**Bands:** [GKWKYKWKWKW](/stripes/gkwkykwkwkw/) · **Stripes:** [G K LB K LY K LB K LB K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">G K LB K LY K LB K LB K LB</span></span>
+In pattern [GKWKYKWKWKW](/stripes/gkwkykwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=876
 

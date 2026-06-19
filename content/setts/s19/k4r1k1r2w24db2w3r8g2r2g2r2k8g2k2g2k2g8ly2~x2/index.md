@@ -2,10 +2,9 @@
 title: "Princess Beatrice, dress"
 date: 2023-03-18
 ---
-**Bands:** [KRKRWBWRGRGRKGKGKGY](/stripes/krkrwbwrgrgrkgkgkgy/) · **Stripes:** [K R K R W DB W R G R G R K G K G K G LY](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R K R W DB W R G R G R K G K G K G LY</span></span>
+In pattern [KRKRWBWRGRGRKGKGKGY](/stripes/krkrwbwrgrgrkgkgkgy/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

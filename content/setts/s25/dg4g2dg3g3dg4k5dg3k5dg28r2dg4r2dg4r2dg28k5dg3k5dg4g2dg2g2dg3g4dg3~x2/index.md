@@ -2,10 +2,9 @@
 title: "Ross Hunting #2"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGKGKGRGRGRGKGKGGGGGGG](/stripes/gggggkgkgrgrgrgkgkggggggg/) · **Stripes:** [DG G DG G DG K DG K DG R DG R DG R DG K DG K DG G DG G DG G DG](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">DG G DG G DG K DG K DG R DG R DG R DG K DG K DG G DG G DG G DG</span></span>
+In pattern [GGGGGGGKGKGRGRGRGKGKGGGGG](/stripes/gggggggkgkgrgrgrgkgkggggg/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3561
 

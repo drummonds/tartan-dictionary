@@ -2,10 +2,9 @@
 title: "Greeven, Wolfgang H (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRWRGYBW](/stripes/grwrgybw/) · **Stripes:** [DG R W R G LO DT W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R W R G LO DT W</span></span>
+In pattern [GRWRGYBW](/stripes/grwrgybw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11425
 

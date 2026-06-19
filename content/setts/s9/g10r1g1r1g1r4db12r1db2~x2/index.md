@@ -2,10 +2,9 @@
 title: "Unidentified Portrait"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRBRB](/stripes/grgrgrbrb/) · **Stripes:** [G R G R G R DB R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G R DB R DB</span></span>
+In pattern [BRBRGRGRG](/stripes/brbrgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4358
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4358](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4358)
 - Scottish Tartans Authority (ITI): 4596
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lumsden 1797](/setts/s9/db1r5db4r1g1r1g4r5g1~x20/)
-
 
 ## Thread count
 G/20 DR2 G2 DR2 G2 DR8 DB24 DR2 DB/4

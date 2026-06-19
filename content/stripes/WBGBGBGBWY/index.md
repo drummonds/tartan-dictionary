@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wbgbgbgbwy/
 ---
-WBGBGBGBWY
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-WBGBGBGBWY
+
+{{< pat "WBGBGBGBWY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO W N Y DB Y DB Y N W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO W N Y DB Y DB Y N W</span></span>
 
 | Tartans |
 |---------------|
 | [Ballarat](/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/)|
 |![Ballarat example sett](/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/sett.png)|
-

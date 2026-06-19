@@ -2,10 +2,9 @@
 title: "Morrison Society"
 date: 2023-03-18
 ---
-**Bands:** [KGKGBR](/stripes/kgkgbr/) · **Stripes:** [K G K G B R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K G B R</span></span>
+In pattern [KGKGBR](/stripes/kgkgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3021
 

@@ -2,10 +2,9 @@
 title: "Herriot (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKBKBKGKGKGKY](/stripes/rbrbkbkbkgkgkgky/) · **Stripes:** [M DB M DB K DB K DB K G K G K G K LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">M DB M DB K DB K DB K G K G K G K LY</span></span>
+In pattern [RBRBKBKBKGKGKGKY](/stripes/rbrbkbkbkgkgkgky/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8491/
 

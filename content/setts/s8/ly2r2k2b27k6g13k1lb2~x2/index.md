@@ -2,10 +2,9 @@
 title: "German MacLeod"
 date: 2023-03-18
 ---
-**Bands:** [YRKBKGKW](/stripes/yrkbkgkw/) · **Stripes:** [LY R K B K G K LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY R K B K G K LB</span></span>
+In pattern [WKGKBKRY](/stripes/wkgkbkry/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1336
 

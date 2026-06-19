@@ -2,10 +2,9 @@
 title: "Swankie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGGBKBGGKRB](/stripes/rkggbkbggkrb/) · **Stripes:** [R K Y DY B K B DY Y K R B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K Y DY B K B DY Y K R B</span></span>
+In pattern [BRKGGBKBGGKR](/stripes/brkggbkbggkr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4055
 

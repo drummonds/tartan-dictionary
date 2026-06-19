@@ -2,10 +2,9 @@
 title: "Arduaine, Red (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BRWRWKW](/stripes/brwrwkw/) · **Stripes:** [DT R W R W K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT R W R W K W</span></span>
+In pattern [BRWRWKW](/stripes/brwrwkw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7572/
 

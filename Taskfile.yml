@@ -7,8 +7,26 @@ tasks:
     silent: true
 
   serve:
-    desc: Run Hugo development server
+    desc: |
+      Run the Hugo dev server (live reload). HEAVY — holds the full ~28k-page graph
+      resident in memory (~10GB). Best for layout/template work where you need live
+      template reload. For content/data work use `task preview` (caddy, ~30MB).
     cmd: hugo serve --bind 0.0.0.0
+
+  preview:build:
+    desc: Build public/ for LOCAL preview (localhost baseURL). Used by `task preview`.
+    cmd: hugo --minify --baseURL "http://localhost:1313/"
+
+  preview:
+    desc: |
+      Lightweight local preview: build the site once, then serve public/ with caddy
+      (~30MB) instead of `task serve`'s in-memory Hugo server (~10GB on this 28k-page
+      site). Caddy is a plain static file server — the build spikes briefly then exits,
+      releasing all memory. Use for content/data work.
+      To refresh after edits, re-run `task preview:build` in another terminal; caddy
+      keeps serving and picks up the new files live. Serves on http://localhost:1313/.
+    deps: [preview:build]
+    cmd: caddy file-server --root public --listen :1313
 
   build:
     desc: Build the site for production

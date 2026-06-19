@@ -2,10 +2,9 @@
 title: "Black Raven (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KBYGBBK](/stripes/kbygbbk/) · **Stripes:** [K DB LY DY B DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB LY DY B DB K</span></span>
+In pattern [KBBGYBK](/stripes/kbbgybk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10166/
 

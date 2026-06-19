@@ -2,10 +2,9 @@
 title: "MacDonnald of ye Ylis"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKGKGY](/stripes/rbkgkgkgy/) · **Stripes:** [R DB K DG K DG K DG LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DB K DG K DG K DG LR</span></span>
+In pattern [RBKGKGKGY](/stripes/rbkgkgkgy/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/)
-
 
 ## Thread count
 N/4 DG30 K1 DG1 K1 DG3 K12 DB10 DR/3

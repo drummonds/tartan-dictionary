@@ -2,10 +2,9 @@
 title: "Ville de Beauport"
 date: 2023-03-18
 ---
-**Bands:** [KRKYKYRKRKBKG](/stripes/krkykyrkrkbkg/) · **Stripes:** [K O K LY K LY R K O K DB K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K O K LY K LY R K O K DB K G</span></span>
+In pattern [GKBKRKRYKYKRK](/stripes/gkbkrkrykykrk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4461
 

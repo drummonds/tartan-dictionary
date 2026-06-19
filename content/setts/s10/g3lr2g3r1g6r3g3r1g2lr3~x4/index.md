@@ -2,19 +2,11 @@
 title: "Dundee, Green (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGRGYG](/stripes/ygrgrgrgyg/) · **Stripes:** [LR G R G R G R G LR G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR G R G R G R G LR G</span></span>
+In pattern [GYGRGRGRGY](/stripes/gygrgrgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2065/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dundee Green](/setts/s10/g3lr2g3r1g6r3g3r1g3lr2~x4/)
-
 
 ## Thread count
 N/12 G8 DR4 G12 DR12 G24 DR4 G12 N8 G/12

@@ -2,10 +2,9 @@
 title: "Sydney Academy"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRKWBKBKBKB](/stripes/rbrbrkwbkbkbkb/) · **Stripes:** [R N O DP O K W N K N K N K N](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">R N O DP O K W N K N K N K N</span></span>
+In pattern [BKBKBKBWKRBRBR](/stripes/bkbkbkbwkrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11245/
 

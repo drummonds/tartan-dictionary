@@ -2,10 +2,9 @@
 title: "Hector, James (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGB](/stripes/rgbgb/) · **Stripes:** [R DG DT DG DO](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="seq">R DG DT DG DO</span></span>
+In pattern [BGBGR](/stripes/bgbgr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2557/
 

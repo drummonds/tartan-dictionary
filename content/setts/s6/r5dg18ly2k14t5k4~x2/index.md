@@ -2,10 +2,9 @@
 title: "Unidentified No 79"
 date: 2023-03-18
 ---
-**Bands:** [KBKYGR](/stripes/kbkygr/) · **Stripes:** [K T K LY DG R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K T K LY DG R</span></span>
+In pattern [KBKYGR](/stripes/kbkygr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4333
 

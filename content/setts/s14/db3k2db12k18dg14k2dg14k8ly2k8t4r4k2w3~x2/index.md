@@ -2,10 +2,9 @@
 title: "Allison (MacBean and Bishop)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKYKBRKW](/stripes/bkbkgkgkykbrkw/) · **Stripes:** [DB K DB K DG K DG K LY K T R K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K DG K DG K LY K T R K W</span></span>
+In pattern [BKBKGKGKYKBRKW](/stripes/bkbkgkgkykbrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=59
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [59](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=59)
 - Scottish Tartans World Register: 2799
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Alison / Allison](/setts/s14/db3k3db12k18dg14k2dg14k8ly2k8t4r4k2w3~x2/)
-
 
 ## Thread count
 B/6 K4 B24 K36 G28 K4 G28 K16 Y4 K16 Ba8 R8 K4 LN/6

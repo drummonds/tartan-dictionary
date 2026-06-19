@@ -2,10 +2,9 @@
 title: "Longniddry (Fashion?)"
 date: 2023-03-18
 ---
-**Bands:** [KBBKBBBKBBKBKBKBBKB](/stripes/kbbkbbbkbbkbkbkbbkb/) · **Stripes:** [K DB DB K DB DB DB K DB DB K DB K DB K DB DB K DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB DB K DB DB DB K DB DB K DB K DB K DB DB K DB</span></span>
+In pattern [BKBBKBKBKBBKBBBKBBK](/stripes/bkbbkbkbkbbkbbbkbbk/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4394/
 

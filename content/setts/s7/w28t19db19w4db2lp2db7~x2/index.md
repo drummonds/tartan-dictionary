@@ -2,10 +2,9 @@
 title: "St Andrews, Earl of, dress"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBBW](/stripes/bwbwbbw/) · **Stripes:** [DB LP DB W DB T W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LP DB W DB T W</span></span>
+In pattern [BWBWBBW](/stripes/bwbwbbw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

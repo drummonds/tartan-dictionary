@@ -2,10 +2,9 @@
 title: "Kyle, Grape (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [YWKBYBKBYB](/stripes/ywkbybkbyb/) · **Stripes:** [LG W K DP LG DP K DP LG DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LG W K DP LG DP K DP LG DP</span></span>
+In pattern [BYBKBYBKWY](/stripes/bybkbybkwy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7585/
 

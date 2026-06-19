@@ -2,10 +2,9 @@
 title: "Philadelphia Police and Fire P&D"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRBRBBBYB](/stripes/ybrbrbrbbbyb/) · **Stripes:** [LY DB R T R T R DB T DB LY DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R T R T R DB T DB LY DB</span></span>
+In pattern [BYBBBRBRBRBY](/stripes/bybbbrbrbrby/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10950/
 

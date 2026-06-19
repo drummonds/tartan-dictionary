@@ -2,10 +2,9 @@
 title: "Hastings-Stephenson (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBGW](/stripes/gbgbgbgw/) · **Stripes:** [G DB G T G DB G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G DB G T G DB G W</span></span>
+In pattern [GBGBGBGW](/stripes/gbgbgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11398
 

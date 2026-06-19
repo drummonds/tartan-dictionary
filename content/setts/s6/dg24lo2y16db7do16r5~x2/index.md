@@ -2,19 +2,11 @@
 title: "Waterford, County (District)"
 date: 2023-03-18
 ---
-**Bands:** [RBBGYG](/stripes/rbbgyg/) · **Stripes:** [R DO DB Y LO DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">R DO DB Y LO DG</span></span>
+In pattern [GYGBBR](/stripes/gygbbr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2255/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Waterford, County](/setts/s6/dg42lo2y16db7do16r5~x2/)
-
 
 ## Thread count
 DG/48 DY4 G32 DB14 DR32 R/10

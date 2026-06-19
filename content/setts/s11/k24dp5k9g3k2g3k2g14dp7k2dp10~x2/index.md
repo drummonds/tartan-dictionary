@@ -2,10 +2,9 @@
 title: "Paxton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKGKGBKB](/stripes/kbkgkgkgbkb/) · **Stripes:** [K DP K G K G K G DP K DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K G K G K G DP K DP</span></span>
+In pattern [BKBGKGKGKBK](/stripes/bkbgkgkgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3304
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3304](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3304)
 - Scottish Tartans Authority (ITI): 6691
 - Scottish Tartans World Register: 2145
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Paxton (Personal)](/setts/s11/k48dp5k9g3k2g3k2g14dp7k2dp10~x2/)
-
 
 ## Thread count
 K/48 P10 K18 G6 K4 G6 K4 G28 P14 K4 P/20

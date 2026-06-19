@@ -2,10 +2,9 @@
 title: "Auld Lang Syne (Philip King Tailoring)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGKGW](/stripes/kbkbgkgw/) · **Stripes:** [K T K T Y K Y LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K T K T Y K Y LB</span></span>
+In pattern [KBKBGKGW](/stripes/kbkbgkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5313
 

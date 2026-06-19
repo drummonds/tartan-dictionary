@@ -2,10 +2,9 @@
 title: "Damson (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBBBGBBBB](/stripes/bgbgbbbgbbbb/) · **Stripes:** [DB G DB Y DB DB DB G DB DB DB DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB G DB Y DB DB DB G DB DB DB DB</span></span>
+In pattern [BBBBGBBBGBGB](/stripes/bbbbgbbbgbgb/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4658/
 

@@ -2,10 +2,9 @@
 title: "Dougles Green"
 date: 2023-03-18
 ---
-**Bands:** [KBGBY](/stripes/kbgby/) · **Stripes:** [K B DG DB LR](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K B DG DB LR</span></span>
+In pattern [KBGBY](/stripes/kbgby/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,15 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Douglas](/setts/s5/k2b2dg8db8lr1~x2/)
-- [Douglas](/setts/s5/k2b2dg8db8lr1/)
-- [Dougles Green](/setts/s5/k4b2dg8db8lr1/)
-
 
 ## Thread count
 K/8 B4 DG16 DB16 N/2

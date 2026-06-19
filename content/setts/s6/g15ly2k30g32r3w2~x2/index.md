@@ -2,10 +2,9 @@
 title: "Merwe"
 date: 2023-03-18
 ---
-**Bands:** [GYKGRW](/stripes/gykgrw/) · **Stripes:** [G LY K G R W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G LY K G R W</span></span>
+In pattern [GYKGRW](/stripes/gykgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2940
 

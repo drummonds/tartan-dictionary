@@ -2,10 +2,9 @@
 title: "Rose, Danny and Hanna (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRBBY](/stripes/krbby/) · **Stripes:** [K R DT DB LG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="seq">K R DT DB LG</span></span>
+In pattern [KRBBY](/stripes/krbby/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11219/
 

@@ -2,10 +2,9 @@
 title: "Wcwm 1572-1"
 date: 2023-03-18
 ---
-**Bands:** [BBYBRWRBYBBBBBRWB](/stripes/bbybrwrbybbbbbrwb/) · **Stripes:** [B DO LO DO R LB R DO LO DO B DB B DO R LB DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">B DO LO DO R LB R DO LO DO B DB B DO R LB DB</span></span>
+In pattern [BBYBRWRBYBBBBBRWB](/stripes/bbybrwrbybbbbbrwb/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4532
 

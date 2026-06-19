@@ -2,10 +2,9 @@
 title: "Brodie (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KRKYKR](/stripes/krkykr/) · **Stripes:** [K R K LY K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K LY K R</span></span>
+In pattern [KRKYKR](/stripes/krkykr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1193/
 
@@ -14,15 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/1193/
 This cloth is also recorded under:
 
 - Brodie
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Brodie](/setts/s6/k2r16k8ly1k8r2~x2/)
-- [Brodie (Clan)](/setts/s6/k3r15k11ly2k4r3~x2/)
-- [Brodie Dress](/setts/s6/k2r16k8ly1k8r2/)
-
 
 ## Thread count
 K/8 R64 K32 Y4 K32 R/8

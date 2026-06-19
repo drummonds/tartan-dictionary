@@ -2,10 +2,9 @@
 title: "Ploysongsang, Edward Thiravej (Pers"
 date: 2023-03-18
 ---
-**Bands:** [RBYBWR](/stripes/rbybwr/) · **Stripes:** [R T LY T W R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T LY T W R</span></span>
+In pattern [RBYBWR](/stripes/rbybwr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11034/
 

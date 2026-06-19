@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bybbbbbby/
 ---
-BYBBBBBBY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BYBBBBBBY
+
+{{< pat "BYBBBBBBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DB T DB T DB T LY DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB T DB T DB T LY DB</span></span>
 
 | Tartans |
 |---------------|
 | [Orlando Police Department (Corporate](/setts/s9/db12ly1t16db1t1db14t3db14ly1~x4/)|
 |![Orlando Police Department (Corporate example sett](/setts/s9/db12ly1t16db1t1db14t3db14ly1~x4/sett.png)|
-

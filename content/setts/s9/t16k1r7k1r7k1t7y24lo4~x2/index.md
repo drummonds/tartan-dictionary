@@ -2,10 +2,9 @@
 title: "Knockando Woolmill (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YGBKRKRKB](/stripes/ygbkrkrkb/) · **Stripes:** [LO Y T K R K R K T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO Y T K R K R K T</span></span>
+In pattern [BKRKRKBGY](/stripes/bkrkrkbgy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10256/
 

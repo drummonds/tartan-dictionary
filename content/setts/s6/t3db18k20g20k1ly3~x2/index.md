@@ -2,10 +2,9 @@
 title: "Smith, Sir William (?)"
 date: 2023-03-18
 ---
-**Bands:** [YKGKBB](/stripes/ykgkbb/) · **Stripes:** [LY K G K DB T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY K G K DB T</span></span>
+In pattern [BBKGKY](/stripes/bbkgky/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/65/
 

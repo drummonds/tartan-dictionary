@@ -2,10 +2,9 @@
 title: "Loch Monar (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBBRBBBB](/stripes/brbrbbrbbbb/) · **Stripes:** [DB R DB R DB DB R DB DB DB DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R DB DB R DB DB DB DB</span></span>
+In pattern [BBBBRBBRBRB](/stripes/bbbbrbbrbrb/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5448/
 

@@ -2,10 +2,9 @@
 title: "MacAlister of Glenbarr"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRGRBRGRGRG](/stripes/rbrbrgrbrgrgrg/) · **Stripes:** [O DB O DB O G O DB O G O G O G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O DB O DB O G O DB O G O G O G</span></span>
+In pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGillivray Htg (Clan)](/setts/s14/g8o5g5o5g5o6db1o2g8o2db1o24db4o6~x2/)
-
 
 ## Thread count
 G/8 LT4 G4 LT4 G4 LT6 B2 LT2 G8 LT2 B2 LT24 B4 LT/6

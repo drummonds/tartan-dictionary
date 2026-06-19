@@ -2,19 +2,11 @@
 title: "Blais (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRKRKRKBGYB](/stripes/rrkrkrkbgyb/) · **Stripes:** [R O K R K O K DB DY LY DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R O K R K O K DB DY LY DB</span></span>
+In pattern [BYGBKRKRKRR](/stripes/bygbkrkrkrr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2321/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/)
-
 
 ## Thread count
 DB/80 Y4 T4 DB12 K4 N8 K4 R40 K4 N8 R/16

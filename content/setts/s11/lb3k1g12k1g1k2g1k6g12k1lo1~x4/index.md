@@ -2,10 +2,9 @@
 title: "McCandlish Htg, Green (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGKGKGKW](/stripes/ykgkgkgkgkw/) · **Stripes:** [LO K G K G K G K G K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO K G K G K G K G K LB</span></span>
+In pattern [WKGKGKGKGKY](/stripes/wkgkgkgkgky/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3328/
 

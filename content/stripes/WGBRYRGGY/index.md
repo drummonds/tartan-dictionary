@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wgbryrggy/
 ---
-WGBRYRGGY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-WGBRYRGGY
+
+{{< pat "WGBRYRGGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY G DG R LY R DP DG W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G DG R LY R DP DG W</span></span>
 
 | Tartans |
 |---------------|
 | [Pienaar (Personal)](/setts/s9/ly3g6dg32r4ly2r2dp7dg2w2~x2/)|
 |![Pienaar (Personal) example sett](/setts/s9/ly3g6dg32r4ly2r2dp7dg2w2~x2/sett.png)|
-

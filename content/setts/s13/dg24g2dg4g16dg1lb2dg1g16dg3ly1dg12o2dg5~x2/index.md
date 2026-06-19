@@ -2,10 +2,9 @@
 title: "O'Neill (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGYGGGWGGGGG](/stripes/grgygggwggggg/) · **Stripes:** [DG O DG LY DG G DG LB DG G DG G DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">DG O DG LY DG G DG LB DG G DG G DG</span></span>
+In pattern [GGGGGWGGGYGRG](/stripes/gggggwgggygrg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5967/
 

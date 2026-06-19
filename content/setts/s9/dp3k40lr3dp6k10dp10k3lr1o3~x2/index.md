@@ -2,10 +2,9 @@
 title: "Midnight Glen (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYKBKBYKB](/stripes/rykbkbykb/) · **Stripes:** [O LR K DP K DP LR K DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">O LR K DP K DP LR K DP</span></span>
+In pattern [BKYBKBKYR](/stripes/bkybkbkyr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7612/
 

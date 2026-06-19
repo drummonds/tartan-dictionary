@@ -2,10 +2,9 @@
 title: "Abercrombie"
 date: 2023-03-18
 ---
-**Bands:** [GWGKBKBKB](/stripes/gwgkbkbkb/) · **Stripes:** [G W G K DB K DB K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G W G K DB K DB K DB</span></span>
+In pattern [BKBKBKGWG](/stripes/bkbkbkgwg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,14 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Abercrombie](/setts/s9/g14w1g7k7db2k2db2k2db7~x4/)
-- [Abercrombie](/setts/s9/db7k2db2k2db2k7g7w1g7~x4/)
-
 
 ## Thread count
 G/28 LN2 G14 K14 B4 K4 B4 K4 B/14

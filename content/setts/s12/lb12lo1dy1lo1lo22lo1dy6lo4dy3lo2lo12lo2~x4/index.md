@@ -2,10 +2,9 @@
 title: "Wcwm 969-2"
 date: 2023-03-18
 ---
-**Bands:** [YYYGYGYYYGYW](/stripes/yyygygyyygyw/) · **Stripes:** [LO LO LO DY LO DY LO LO LO DY LO LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO LO LO DY LO DY LO LO LO DY LO LB</span></span>
+In pattern [WYGYYYGYGYYY](/stripes/wygyyygygyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4577
 

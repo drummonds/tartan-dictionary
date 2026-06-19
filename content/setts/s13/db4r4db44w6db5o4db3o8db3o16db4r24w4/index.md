@@ -2,10 +2,9 @@
 title: "Largs (1981) (District)"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBRBRBRBRW](/stripes/brbwbrbrbrbrw/) · **Stripes:** [DB R DB W DB O DB O DB O DB R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB W DB O DB O DB O DB R W</span></span>
+In pattern [BRBWBRBRBRBRW](/stripes/brbwbrbrbrbrw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/478/
 

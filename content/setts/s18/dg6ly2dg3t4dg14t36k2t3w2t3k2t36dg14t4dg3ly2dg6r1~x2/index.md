@@ -2,10 +2,9 @@
 title: "Sarasota - Dunfermline District Tartan Tartan Number: 5897. Earliest known date: July 2003 This tartan for Robert Nicol of Dunfermline commemorates the twinning of the Scottish town of Dunfermline with Sarasota, Florida, USA.. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGYGBGBKBWBKBGBGYG](/stripes/rgygbgbkbwbkbgbgyg/) · **Stripes:** [R DG LY DG T DG T K T W T K T DG T DG LY DG](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG LY DG T DG T K T W T K T DG T DG LY DG</span></span>
+In pattern [GYGBGBKBWBKBGBGYGR](/stripes/gygbgbkbwbkbgbgygr/).
 
-
-This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5897
 

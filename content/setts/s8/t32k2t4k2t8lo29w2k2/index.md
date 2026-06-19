@@ -2,10 +2,9 @@
 title: "Southern Lakes"
 date: 2023-03-18
 ---
-**Bands:** [KWYBKBKB](/stripes/kwybkbkb/) · **Stripes:** [K W LO T K T K T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K W LO T K T K T</span></span>
+In pattern [BKBKBYWK](/stripes/bkbkbywk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11624
 

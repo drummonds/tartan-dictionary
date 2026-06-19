@@ -2,10 +2,9 @@
 title: "Chicago, University of.."
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/) · **Stripes:** [M K M K M K M R M K M K M K M W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M K M K M K M R M K M K M K M W</span></span>
+In pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

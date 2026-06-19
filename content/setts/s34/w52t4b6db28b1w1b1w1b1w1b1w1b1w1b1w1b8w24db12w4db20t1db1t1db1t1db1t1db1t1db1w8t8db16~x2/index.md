@@ -2,10 +2,9 @@
 title: "Lake Superior (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW](/stripes/bbwbbbbbbbbbbbwbwbwbwbwbwbwbwbbbbw/) · **Stripes:** [DB T W DB T DB T DB T DB T DB T DB W DB W B W B W B W B W B W B W B DB B T W](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB T W DB T DB T DB T DB T DB T DB W DB W B W B W B W B W B W B W B DB B T W</span></span>
+In pattern [BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW](/stripes/bbwbbbbbbbbbbbwbwbwbwbwbwbwbwbbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10198/
 

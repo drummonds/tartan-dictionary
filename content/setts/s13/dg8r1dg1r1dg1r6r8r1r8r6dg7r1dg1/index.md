@@ -2,10 +2,9 @@
 title: "MacNab"
 date: 2023-03-18
 ---
-**Bands:** [GRGRRRRRGRGRG](/stripes/grgrrrrrgrgrg/) · **Stripes:** [DG R DG R R R R R DG R DG R DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG R R R R R DG R DG R DG</span></span>
+In pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

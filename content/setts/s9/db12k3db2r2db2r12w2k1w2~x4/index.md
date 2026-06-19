@@ -2,10 +2,9 @@
 title: "Ainslie"
 date: 2023-03-18
 ---
-**Bands:** [BKBRBRWKW](/stripes/bkbrbrwkw/) · **Stripes:** [DB K DB R DB R W K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB R DB R W K W</span></span>
+In pattern [BKBRBRWKW](/stripes/bkbrbrwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=28
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [28](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=28)
 - Scottish Tartans Authority (ITI): 2187
 - Scottish Tartans World Register: 2187
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ainslie](/setts/s9/db23k4db4r4db4r25w4k4w4~x2/)
-
 
 ## Thread count
 DB/48 K12 DB8 R8 DB8 R48 W8 K4 W/8

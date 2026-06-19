@@ -2,22 +2,11 @@
 title: "Masai Shuka 26 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [KRKY](/stripes/krky/) · **Stripes:** [K R K LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R K LY</span></span>
+In pattern [KRKY](/stripes/krky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7286/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wallace](/setts/s4/k1r8k8ly1~x6/)
-- [Wallace](/setts/s4/k1r8k8ly1/)
-- [Wallace](/setts/s4/k1r8k8ly1~x2/)
-- [Wallace (Clan)](/setts/s4/k1r8k8ly1~x4/)
-
 
 ## Thread count
 Y/12 K8 R40 K/4

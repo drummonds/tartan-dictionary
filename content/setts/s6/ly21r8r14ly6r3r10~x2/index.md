@@ -2,19 +2,11 @@
 title: "Kozlosky (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRYRRY](/stripes/rryrry/) · **Stripes:** [R R LY R R LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R R LY R R LY</span></span>
+In pattern [RRYRRY](/stripes/rryrry/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2046/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kozlosky, Kilt](/setts/s6/ly42r15r28ly12r6r20/)
-
 
 ## Thread count
 Y/42 LR16 R28 Y12 LR6 R/20

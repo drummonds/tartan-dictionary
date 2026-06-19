@@ -2,10 +2,9 @@
 title: "Clergy (Grey)"
 date: 2023-03-18
 ---
-**Bands:** [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/) · **Stripes:** [N LB N K LB K LB N LB N LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N LB N K LB K LB N LB N LB</span></span>
+In pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=680
 

@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/grgygkywr/
 ---
-GRGYGKYWR
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-GRGYGKYWR
+
+{{< pat "GRGYGKYWR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R W LY K DG LY DG R DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R W LY K DG LY DG R DG</span></span>
 
 | Tartans |
 |---------------|
 | [Cates Hunting](/setts/s9/dg23r7dg25ly5dg17k5ly1w1r1~x2/)|
 |![Cates Hunting example sett](/setts/s9/dg23r7dg25ly5dg17k5ly1w1r1~x2/sett.png)|
-
-### R W LY K DG LY G R DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R W LY K DG LY G R DG</span></span>
-
-| Tartans |
-|---------------|
 | [Cates Hunting (Clan)](/setts/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/)|
 |![Cates Hunting (Clan) example sett](/setts/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/sett.png)|
-

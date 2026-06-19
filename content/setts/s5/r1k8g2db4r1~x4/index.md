@@ -2,10 +2,9 @@
 title: "Nairn"
 date: 2023-03-18
 ---
-**Bands:** [RKGBR](/stripes/rkgbr/) · **Stripes:** [R K G DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G DB R</span></span>
+In pattern [RBGKR](/stripes/rbgkr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Nairn](/setts/s5/r1k8g2db4r1~x8/)
-
 
 ## Thread count
 R/4 K32 G8 B16 R/4

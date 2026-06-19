@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wkwkbbbgbwbbbybrbbbkwkw/
 ---
-WKWKBBBGBWBBBYBRBBBKWKW
-
-It is a 23 band tartan.
+It is a 23 stripe tartan.
 
 
 
 ## Colour Sequence
-WKWKBBBGBWBBBYBRBBBKWKW
+
+{{< pat "WKWKBBBGBWBBBYBRBBBKWKW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### W K W K T DP T R T LY T DB T W T G T DP T K W K W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K T DP T R T LY T DB T W T G T DP T K W K W</span></span>
 
 | Tartans |
 |---------------|
 | [Progress Blue Lodge (Corporate)](/setts/s23/w4k4w4k2t12dp2t12r9t2ly6t2db11t2w6t2g9t12dp2t12k2w4k4w4~x2/)|
 |![Progress Blue Lodge (Corporate) example sett](/setts/s23/w4k4w4k2t12dp2t12r9t2ly6t2db11t2w6t2g9t12dp2t12k2w4k4w4~x2/sett.png)|
-

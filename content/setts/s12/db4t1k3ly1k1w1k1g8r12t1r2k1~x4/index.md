@@ -2,10 +2,9 @@
 title: "MacLean of Duart #6"
 date: 2023-03-18
 ---
-**Bands:** [KRBRGKWKYKBB](/stripes/krbrgkwkykbb/) · **Stripes:** [K R T R G K W K LY K T DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">K R T R G K W K LY K T DB</span></span>
+In pattern [BBKYKWKGRBRK](/stripes/bbkykwkgrbrk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2610
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2610](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2610)
 - Scottish Tartans Authority (ITI): 2125
 - Scottish Tartans World Register: 2125
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLean of Duart 5](/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/)
-
 
 ## Thread count
 DB/16 B4 K12 Y4 K4 LN4 K4 Ga32 R48 B4 R8 K/4

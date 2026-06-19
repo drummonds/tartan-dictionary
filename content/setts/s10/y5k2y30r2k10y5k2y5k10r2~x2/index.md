@@ -2,10 +2,9 @@
 title: "MacArthur-Fox 2000 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKRGKG](/stripes/rkgkgkrgkg/) · **Stripes:** [R K Y K Y K R Y K Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R K Y K Y K R Y K Y</span></span>
+In pattern [GKGRKGKGKR](/stripes/gkgrkgkgkr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8007/
 

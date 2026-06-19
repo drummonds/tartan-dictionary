@@ -2,10 +2,9 @@
 title: "Union Memorial Tartan"
 date: 2023-03-18
 ---
-**Bands:** [BBRBYBRWBB](/stripes/bbrbybrwbb/) · **Stripes:** [T T R T LY DB R LB DB DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">T T R T LY DB R LB DB DB</span></span>
+In pattern [BBRBYBRWBB](/stripes/bbrbybrwbb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4396
 

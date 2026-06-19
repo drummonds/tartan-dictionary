@@ -2,10 +2,9 @@
 title: "Urbino"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBKGKRKGKBGBGB](/stripes/gbgbgbkgkrkgkbgbgb/) · **Stripes:** [DG DP DG DP DG DP K DG K O K DG K DP DG DP DG DP](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DP DG DP DG DP K DG K O K DG K DP DG DP DG DP</span></span>
+In pattern [BGBGBKGKRKGKBGBGBG](/stripes/bgbgbkgkrkgkbgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4428
 

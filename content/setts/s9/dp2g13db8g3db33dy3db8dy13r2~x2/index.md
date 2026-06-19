@@ -2,10 +2,9 @@
 title: "Burt Family"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGBGB](/stripes/rgbgbgbgb/) · **Stripes:** [R DY DB DY DB G DB G DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DY DB DY DB G DB G DP</span></span>
+In pattern [BGBGBGBGR](/stripes/bgbgbgbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4923
 

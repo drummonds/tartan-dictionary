@@ -2,10 +2,9 @@
 title: "Stirling University (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YKBRGWRG](/stripes/ykbrgwrg/) · **Stripes:** [LY K T R G W R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K T R G W R G</span></span>
+In pattern [GRWGRBKY](/stripes/grwgrbky/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2297/
 

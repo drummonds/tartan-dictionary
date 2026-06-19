@@ -2,10 +2,9 @@
 title: "Unidentified #9"
 date: 2023-03-18
 ---
-**Bands:** [RGYGKBRBKB](/stripes/rgygkbrbkb/) · **Stripes:** [R DG LY DG K T R T K T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG LY DG K T R T K T</span></span>
+In pattern [BKBRBKGYGR](/stripes/bkbrbkgygr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4210
 

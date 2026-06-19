@@ -2,10 +2,9 @@
 title: "Lochcarron Hunting (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKGKGKGKG](/stripes/kgkgkgkgkgkgkg/) · **Stripes:** [K DG K DG K DG K DG K DG K DG K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K DG K DG K DG K DG K DG</span></span>
+In pattern [GKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgk/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5464/
 

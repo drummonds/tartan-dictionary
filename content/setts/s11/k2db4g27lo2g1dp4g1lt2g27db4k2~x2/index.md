@@ -2,10 +2,9 @@
 title: "Chapman-Smith, M & L (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBGYGBGWGBK](/stripes/kbgygbgwgbk/) · **Stripes:** [K DB G LO G DP G LT G DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB G LO G DP G LT G DB K</span></span>
+In pattern [KBGWGBGYGBK](/stripes/kbgwgbgygbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11518
 

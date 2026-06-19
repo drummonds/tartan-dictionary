@@ -2,20 +2,11 @@
 title: "Erskine Dress Burgandy Clan Tartan Tartan Number: 1972. Earliest known date: 1971 A popular Dress tartan for Scottish Highland Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRW](/stripes/rwrwrw/) · **Stripes:** [R W R W R W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R W R W</span></span>
+In pattern [RWRWRW](/stripes/rwrwrw/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1972
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine Red & White (Dance)](/setts/s6/r2w1r9w9r1w2~x6/)
-- [Erskine, Burgundy (Dance)](/setts/s6/r6w2r29w29r2w6~x2/)
-
 
 ## Thread count
 DR/10 LN4 DR50 LN50 DR4 LN/10

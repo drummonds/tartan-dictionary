@@ -2,10 +2,9 @@
 title: "Fort William"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKBKBYBG](/stripes/kbkgkbkbybg/) · **Stripes:** [K T K Y K T K T LY T Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K T K Y K T K T LY T Y</span></span>
+In pattern [GBYBKBKGKBK](/stripes/gbybkbkgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1237
 

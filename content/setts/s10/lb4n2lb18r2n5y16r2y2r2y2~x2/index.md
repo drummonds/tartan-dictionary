@@ -2,10 +2,9 @@
 title: "Clyde"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGBRWBW](/stripes/grgrgbrwbw/) · **Stripes:** [Y R Y R Y N R LB N LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">Y R Y R Y N R LB N LB</span></span>
+In pattern [GRGRGBRWBW](/stripes/grgrgbrwbw/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

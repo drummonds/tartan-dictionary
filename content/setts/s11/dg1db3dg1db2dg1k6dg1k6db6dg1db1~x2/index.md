@@ -2,10 +2,9 @@
 title: "Clergy"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGKGKBGB](/stripes/gbgbgkgkbgb/) · **Stripes:** [DG DB DG DB DG K DG K DB DG DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DB DG DB DG K DG K DB DG DB</span></span>
+In pattern [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=676
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [676](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=676)
 - Scottish Tartans World Register: 111
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clergy #2](/setts/s11/db4dg4db18k19dg4k19dg4db7dg4db12dg2~x2/)
-
 
 ## Thread count
 G/2 B6 G2 B4 G2 K12 G2 K12 B12 G2 B/2

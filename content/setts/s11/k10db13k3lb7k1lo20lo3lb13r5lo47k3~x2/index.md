@@ -2,10 +2,9 @@
 title: "State Seal of Georgia (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KYRWYYKWKBK](/stripes/kyrwyykwkbk/) · **Stripes:** [K LO R LB LO LO K LB K DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO R LB LO LO K LB K DB K</span></span>
+In pattern [KBKWKYYWRYK](/stripes/kbkwkyywryk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8624/
 

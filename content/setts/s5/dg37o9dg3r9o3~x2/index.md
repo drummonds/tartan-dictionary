@@ -2,10 +2,9 @@
 title: "Glen Trool"
 date: 2023-03-18
 ---
-**Bands:** [RRGRG](/stripes/rrgrg/) · **Stripes:** [O R DG O DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">O R DG O DG</span></span>
+In pattern [GRGRR](/stripes/grgrr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glen Trool (Fashion)](/setts/s5/dg42o10dg3r10o3~x2/)
-
 
 ## Thread count
 DG/74 LT18 DG6 R18 LT/6

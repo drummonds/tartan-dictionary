@@ -2,10 +2,9 @@
 title: "Brigid Mhairi (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBB](/stripes/ybbbbbb/) · **Stripes:** [LO DP DP DB DP T DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DP DP DB DP T DB</span></span>
+In pattern [BBBBBBY](/stripes/bbbbbby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10401/
 

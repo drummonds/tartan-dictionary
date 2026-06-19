@@ -2,10 +2,9 @@
 title: "Walker, Gauvin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGGBGBGBGBGY](/stripes/yggbgbgbgbgy/) · **Stripes:** [LY Y G DT Y DT G DP G DT Y LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY Y G DT Y DT G DP G DT Y LY</span></span>
+In pattern [YGBGBGBGBGGY](/stripes/ygbgbgbgbggy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10304
 

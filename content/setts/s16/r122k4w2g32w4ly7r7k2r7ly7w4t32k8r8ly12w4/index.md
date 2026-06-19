@@ -2,10 +2,9 @@
 title: "Chattan (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RKWGWYRKRYWBKRYW](/stripes/rkwgwyrkrywbkryw/) · **Stripes:** [R K W G W LY R K R LY W T K R LY W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W G W LY R K R LY W T K R LY W</span></span>
+In pattern [RKWGWYRKRYWBKRYW](/stripes/rkwgwyrkrywbkryw/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1851/
 

@@ -2,10 +2,9 @@
 title: "Dalrymple of Castleton"
 date: 2023-03-18
 ---
-**Bands:** [YRYBYKYBWBYRBW](/stripes/yrybykybwbyrbw/) · **Stripes:** [LO R LO DR LO K LO T W T LO R T W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R LO DR LO K LO T W T LO R T W</span></span>
+In pattern [WBRYBWBYKYBYRY](/stripes/wbrybwbykybyry/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=881
 

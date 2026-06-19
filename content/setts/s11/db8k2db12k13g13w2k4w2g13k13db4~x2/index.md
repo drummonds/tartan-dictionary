@@ -2,10 +2,9 @@
 title: "Melville Family Tartan Tartan Number: 1050. Earliest known date: 1847 There is a sample in the Moy Hall collection.(1848). This sett, also known as Oliphant and Melville, appears in one of Wilson's notebooks in 1847. It is mentioned in a letter dated June 1824 but without any means of identification. It is also to be found in the Scott Adie (London) collection and in the MacPherson Museum in Newtonmore. Wilson records the second pivot (between the white lines) as blue. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKGWKWGKBKB](/stripes/bkgwkwgkbkb/) · **Stripes:** [DB K G W K W G K DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K G W K W G K DB K DB</span></span>
+In pattern [BKBKGWKWGKB](/stripes/bkbkgwkwgkb/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1050
 

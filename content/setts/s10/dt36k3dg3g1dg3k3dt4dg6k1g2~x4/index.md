@@ -2,10 +2,9 @@
 title: "Verdon"
 date: 2023-03-18
 ---
-**Bands:** [GKGBKGGGKB](/stripes/gkgbkgggkb/) · **Stripes:** [G K DG DT K DG G DG K DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">G K DG DT K DG G DG K DT</span></span>
+In pattern [BKGGGKBGKG](/stripes/bkgggkbgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4448
 

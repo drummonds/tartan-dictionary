@@ -2,10 +2,9 @@
 title: "Asher Personal Tartan Tartan Number: 3840. Earliest known date: 2002 Designed by Robert Asher of London to recognise his family's Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBRBKGWGKBRBKG](/stripes/kbrbkgwgkbrbkg/) · **Stripes:** [K DB R DB K DG W DG K DB R DB K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DB R DB K DG W DG K DB R DB K DG</span></span>
+In pattern [GKBRBKGWGKBRBK](/stripes/gkbrbkgwgkbrbk/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3840
 

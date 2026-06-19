@@ -2,10 +2,9 @@
 title: "Buchanan, hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGRYRGKGKGRB](/stripes/rgryrgkgkgrb/) · **Stripes:** [O G O LY O G K G K G O T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="seq">O G O LY O G K G K G O T</span></span>
+In pattern [BRGKGKGRYRGR](/stripes/brgkgkgryrgr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

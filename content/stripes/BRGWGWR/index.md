@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/brgwgwr/
 ---
-BRGWGWR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/t16r1g16w1dy1w8m3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BRGWGWR
+
+{{< pat "BRGWGWR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### M W DY W G R T <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">M W DY W G R T</span></span>
 
 | Tartans |
 |---------------|
 | [Chambers, Christopher J (Personal)](/setts/s7/t16r1g16w1dy1w8m3~x2/)|
 |![Chambers, Christopher J (Personal) example sett](/setts/s7/t16r1g16w1dy1w8m3~x2/sett.png)|
-

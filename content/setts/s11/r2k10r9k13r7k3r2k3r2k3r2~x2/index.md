@@ -2,19 +2,11 @@
 title: "Impulse (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRKRKR](/stripes/rkrkrkrkrkr/) · **Stripes:** [R K R K R K R K R K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K R K R K R</span></span>
+In pattern [RKRKRKRKRKR](/stripes/rkrkrkrkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5249/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Border Reiver, The](/setts/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/)
-
 
 ## Thread count
 DRa/4 BB20 DR18 RB26 DR14 K6 DR4 K6 DR4 K6 DRa/4

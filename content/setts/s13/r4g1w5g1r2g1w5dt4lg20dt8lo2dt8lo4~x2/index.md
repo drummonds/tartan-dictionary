@@ -2,10 +2,9 @@
 title: "Pille Family (Belgium) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGWGRGWBYBYBY](/stripes/rgwgrgwbybyby/) · **Stripes:** [R G W G R G W DT LG DT LO DT LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R G W G R G W DT LG DT LO DT LO</span></span>
+In pattern [RGWGRGWBYBYBY](/stripes/rgwgrgwbybyby/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10345
 

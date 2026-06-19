@@ -2,10 +2,9 @@
 title: "Fraser, Wedding dress"
 date: 2023-03-18
 ---
-**Bands:** [GRBRGRGRBRBRG](/stripes/grbrgrgrbrbrg/) · **Stripes:** [G R DB R G R G R DB R DB R G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R DB R G R G R DB R DB R G</span></span>
+In pattern [GRBRBRGRGRBRG](/stripes/grbrbrgrgrbrg/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fraser, Isabella (Artefact)](/setts/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2/)
-
 
 ## Thread count
 G/4 R6 B4 R96 G120 R42 G4 R42 B120 R96 B4 R6 G/4

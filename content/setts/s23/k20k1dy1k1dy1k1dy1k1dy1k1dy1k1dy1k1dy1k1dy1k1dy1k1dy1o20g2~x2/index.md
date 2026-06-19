@@ -2,10 +2,9 @@
 title: "Braveheart (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KKGKGKGKGKGKGKGKGKGKGRG](/stripes/kkgkgkgkgkgkgkgkgkgkgrg/) · **Stripes:** [K K DY K DY K DY K DY K DY K DY K DY K DY K DY K DY O G](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K K DY K DY K DY K DY K DY K DY K DY K DY K DY K DY O G</span></span>
+In pattern [GRGKGKGKGKGKGKGKGKGKGKK](/stripes/grgkgkgkgkgkgkgkgkgkgkk/).
 
-
-This was sourced from tartans-authority.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3116/
 

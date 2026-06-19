@@ -2,10 +2,9 @@
 title: "Jones-MacGregor"
 date: 2023-03-18
 ---
-**Bands:** [BYBYGBGBRGRGKW](/stripes/bybygbgbrgrgkw/) · **Stripes:** [DT LG DT LG DG DT DG DT R DG R DG K W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT LG DT LG DG DT DG DT R DG R DG K W</span></span>
+In pattern [BYBYGBGBRGRGKW](/stripes/bybygbgbrgrgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10727
 

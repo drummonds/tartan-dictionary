@@ -2,10 +2,9 @@
 title: "Royal British Legion Scotland (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RBBBKBBY](/stripes/rbbbkbby/) · **Stripes:** [R DP DB DP K DB DP LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R DP DB DP K DB DP LO</span></span>
+In pattern [RBBBKBBY](/stripes/rbbbkbby/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8434/
 

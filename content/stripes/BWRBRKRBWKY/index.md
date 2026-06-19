@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bwrbrkrbwky/
 ---
-BWRBRKRBWKY
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BWRBRKRBWKY
+
+{{< pat "BWRBRKRBWKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K W DB R K R DB R W DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K W DB R K R DB R W DB</span></span>
 
 | Tartans |
 |---------------|
 | [Hart (Texas) (Personal)](/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/)|
 |![Hart (Texas) (Personal) example sett](/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/sett.png)|
-

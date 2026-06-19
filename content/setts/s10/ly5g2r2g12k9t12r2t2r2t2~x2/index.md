@@ -2,10 +2,9 @@
 title: "Lobban (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGRGKBRBRB](/stripes/ygrgkbrbrb/) · **Stripes:** [LY G R G K T R T R T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY G R G K T R T R T</span></span>
+In pattern [BRBRBKGRGY](/stripes/brbrbkgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5441/
 

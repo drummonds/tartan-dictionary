@@ -2,10 +2,9 @@
 title: "Victoria, City of (British Columbia)"
 date: 2023-03-18
 ---
-**Bands:** [RYKRGR](/stripes/rykrgr/) · **Stripes:** [R LO K R G R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LO K R G R</span></span>
+In pattern [RGRKYR](/stripes/rgrkyr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4458
 

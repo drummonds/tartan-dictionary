@@ -2,10 +2,9 @@
 title: "Kilnsey (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBWBWBWBWBWBWBWBWBWBWBWBW](/stripes/brbrbwbwbwbwbwbwbwbwbwbwbwbw/) · **Stripes:** [DB O DB O DB W DB W DB W DB W DB W DB W DB W DB W DB W DB W DB W DB W](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB O DB O DB W DB W DB W DB W DB W DB W DB W DB W DB W DB W DB W DB W</span></span>
+In pattern [BRBRBWBWBWBWBWBWBWBWBWBWBWBW](/stripes/brbrbwbwbwbwbwbwbwbwbwbwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6015/
 

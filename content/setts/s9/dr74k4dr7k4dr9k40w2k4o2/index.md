@@ -2,10 +2,9 @@
 title: "Llewellen of Wales"
 date: 2023-03-18
 ---
-**Bands:** [RKWKBKBKB](/stripes/rkwkbkbkb/) · **Stripes:** [O K W K DR K DR K DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="seq">O K W K DR K DR K DR</span></span>
+In pattern [BKBKBKWKR](/stripes/bkbkbkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2138
 

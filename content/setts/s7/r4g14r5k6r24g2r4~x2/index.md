@@ -2,19 +2,11 @@
 title: "Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRGR](/stripes/rgrkrgr/) · **Stripes:** [R G R K R G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R K R G R</span></span>
+In pattern [RGRKRGR](/stripes/rgrkrgr/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2402
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Maxwell](/setts/s7/r3g16r4k6r28g1r3~x2/)
-
 
 ## Thread count
 R/8 G28 R10 K12 R48 G4 R/8

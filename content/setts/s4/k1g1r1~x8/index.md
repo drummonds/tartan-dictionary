@@ -2,10 +2,9 @@
 title: "Wilson's No.187"
 date: 2023-03-18
 ---
-**Bands:** [KGRG](/stripes/kgrg/) · **Stripes:** [K G R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G R G</span></span>
+In pattern [GRGK](/stripes/grgk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4720
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4720](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4720)
 - Scottish Tartans Authority (ITI): 1108
 - Scottish Tartans World Register: 1108
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glen Lyon #1](/setts/s4/k6g5r2~x2/)
-
 
 ## Thread count
 K/8 G8 R8 G/8

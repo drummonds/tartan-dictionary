@@ -2,10 +2,9 @@
 title: "MacPherson Of Cluny"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRBYRG](/stripes/rbrgrbrbyrg/) · **Stripes:** [R N R DG R N R N LY R DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R N R DG R N R N LY R DG</span></span>
+In pattern [GRYBRBRGRBR](/stripes/grybrbrgrbr/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson Of Cluny](/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/)
-
 
 ## Thread count
 DR/5 N2 DR2 DG42 DR5 N36 DR70 N2 LG2 DR7 DG/2

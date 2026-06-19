@@ -2,10 +2,9 @@
 title: "Lochcarron Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKGKGBBBBBG](/stripes/rgrgkgkgbbbbbg/) · **Stripes:** [R DG R DG K DG K DG DB N DB N DB DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG K DG K DG DB N DB N DB DG</span></span>
+In pattern [GBBBBBGKGKGRGR](/stripes/gbbbbbgkgkgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2170
 

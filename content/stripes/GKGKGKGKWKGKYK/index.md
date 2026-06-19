@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkgkgkgkwkgkyk/
 ---
-GKGKGKGKWKGKYK
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-GKGKGKGKWKGKYK
+
+{{< pat "GKGKGKGKWKGKYK" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### K LY K DG K W K DG K DG K DG K DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LY K DG K W K DG K DG K DG K DG</span></span>
 
 | Tartans |
 |---------------|
 | [MacAlpine](/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/)|
 |![MacAlpine example sett](/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/sett.png)|
-
-### K LY K G K W K G K G K G K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY K G K W K G K G K G K G</span></span>
-
-| Tartans |
-|---------------|
 | [MacAlpine](/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/)|
 |![MacAlpine example sett](/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/sett.png)|
-

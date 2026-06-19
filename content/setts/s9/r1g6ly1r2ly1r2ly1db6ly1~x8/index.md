@@ -2,20 +2,11 @@
 title: "Stevenson (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGYRYRYBY](/stripes/rgyryryby/) · **Stripes:** [R G LY R LY R LY DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G LY R LY R LY DB LY</span></span>
+In pattern [RGYRYRYBY](/stripes/rgyryryby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1558/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stevenson](/setts/s9/r1g6ly1r2ly1r2ly1db6ly1~x2/)
-- [Stevenson Family Tartan Tartan Number: 1558. Earliest known date: 1980 Charles Stevenson of Glasgow emigrated to America in 1861. The Monitoring Committee of the Scottish Tartans Society operated until 1984 when the present system of accreditation was introduced for the 'Register of All Publicly Known Tartans'. The original count has been proportionately increased from the 1980 recording. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r1g8ly1r2ly1r2ly1db8ly1~x4/)
-
 
 ## Thread count
 DR/8 G48 Y8 DR16 Y8 DR16 Y8 DB48 Y/8

@@ -2,10 +2,9 @@
 title: "Faulkner (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBKYGKRYRKB](/stripes/ybkygkryrkb/) · **Stripes:** [LG N K LG DG K O LO O K N](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">LG N K LG DG K O LO O K N</span></span>
+In pattern [BKRYRKGYKBY](/stripes/bkryrkgykby/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10080
 

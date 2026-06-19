@@ -2,10 +2,9 @@
 title: "Flower of Scotland"
 date: 2023-03-18
 ---
-**Bands:** [RBKBGB](/stripes/rbkbgb/) · **Stripes:** [R B K B G B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R B K B G B</span></span>
+In pattern [BGBKBR](/stripes/bgbkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1210
 

@@ -2,10 +2,9 @@
 title: "Takla Makan #2"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBW](/stripes/bybybw/) · **Stripes:** [T LO T LO T W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T LO T LO T W</span></span>
+In pattern [BYBYBW](/stripes/bybybw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4066
 

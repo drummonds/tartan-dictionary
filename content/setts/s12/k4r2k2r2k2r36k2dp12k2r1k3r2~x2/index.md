@@ -2,10 +2,9 @@
 title: "Red Hatters United"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKBKRKR](/stripes/krkrkrkbkrkr/) · **Stripes:** [K R K R K R K DP K R K R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R K R K DP K R K R</span></span>
+In pattern [KRKRKRKBKRKR](/stripes/krkrkrkbkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3478
 

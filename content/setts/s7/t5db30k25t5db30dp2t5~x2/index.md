@@ -2,10 +2,9 @@
 title: "Van Loo (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBKBBBB](/stripes/bbkbbbb/) · **Stripes:** [T DB K T DB DP T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB K T DB DP T</span></span>
+In pattern [BBBBKBB](/stripes/bbbbkbb/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4440
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4440](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4440)
 - Scottish Tartans Authority (ITI): 6717
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/t5db30k25t5db30dp3t5~x2/)
-
 
 ## Thread count
 B/10 DB60 K50 B10 DB60 P4 B/10

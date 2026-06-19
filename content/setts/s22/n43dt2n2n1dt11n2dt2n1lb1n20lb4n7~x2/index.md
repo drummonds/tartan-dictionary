@@ -2,10 +2,9 @@
 title: "Highland Sky"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBBBBBBBBBBBBBBBWBW](/stripes/bwbwbbbbbbbbbbbbbbbwbw/) · **Stripes:** [N LB N LB N DT N DT N N DT N DT N N DT N DT N LB N LB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N LB N LB N DT N DT N N DT N DT N N DT N DT N LB N LB</span></span>
+In pattern [BWBWBBBBBBBBBBBBBBBWBW](/stripes/bwbwbbbbbbbbbbbbbbbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1717
 

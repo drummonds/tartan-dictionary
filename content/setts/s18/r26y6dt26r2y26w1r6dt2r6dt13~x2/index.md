@@ -2,10 +2,9 @@
 title: "Unnamed C18/19th - Antigonish (A)"
 date: 2023-03-18
 ---
-**Bands:** [RBRWGRBGRGBRGWRBRB](/stripes/rbrwgrbgrgbrgwrbrb/) · **Stripes:** [R DT R W Y R DT Y R Y DT R Y W R DT R DT](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT R W Y R DT Y R Y DT R Y W R DT R DT</span></span>
+In pattern [BRBRWGRBGRGBRGWRBR](/stripes/brbrwgrbgrgbrgwrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4412
 

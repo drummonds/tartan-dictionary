@@ -2,19 +2,11 @@
 title: "Believe - Colette"
 date: 2023-03-18
 ---
-**Bands:** [BKWKBKW](/stripes/bkwkbkw/) · **Stripes:** [N K W K N K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N K W K N K W</span></span>
+In pattern [BKWKBKW](/stripes/bkwkbkw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11004/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Believe - Colette](/setts/s7/n3k31w6k7n3k12w2~x2/)
-
 
 ## Thread count
 N/6 K62 W12 K16 N6 K24 W/4

@@ -2,10 +2,9 @@
 title: "Bicentenary (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [RKGBBKYKB](/stripes/rkgbbkykb/) · **Stripes:** [R K G DR DB K LO K DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="seq">R K G DR DB K LO K DR</span></span>
+In pattern [BKYKBBGKR](/stripes/bkykbbgkr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4198/
 

@@ -2,10 +2,9 @@
 title: "Wilson's No.052"
 date: 2023-03-18
 ---
-**Bands:** [GKB](/stripes/gkb/) · **Stripes:** [G K T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G K T</span></span>
+In pattern [BKG](/stripes/bkg/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4656
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's, No 50](/setts/s3/g5k6t1~x4/)
-
 
 ## Thread count
 G/14 K8 B/8

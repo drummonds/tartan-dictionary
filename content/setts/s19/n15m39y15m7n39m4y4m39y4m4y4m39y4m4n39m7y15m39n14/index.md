@@ -2,10 +2,9 @@
 title: "Na Fir Dileas"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRGRGRGRGRBRGRB](/stripes/brgrbrgrgrgrgrbrgrb/) · **Stripes:** [N M Y M N M Y M Y M Y M Y M N M Y M N](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="seq">N M Y M N M Y M Y M Y M Y M N M Y M N</span></span>
+In pattern [BRGRBRGRGRGRGRBRGRB](/stripes/brgrbrgrgrgrgrbrgrb/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10435
 

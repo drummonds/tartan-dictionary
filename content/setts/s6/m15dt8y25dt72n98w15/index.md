@@ -2,10 +2,9 @@
 title: "Afternoon Tea / Black Tea"
 date: 2023-03-18
 ---
-**Bands:** [RBGBBW](/stripes/rbgbbw/) · **Stripes:** [M DT Y DT N W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M DT Y DT N W</span></span>
+In pattern [RBGBBW](/stripes/rbgbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11448
 

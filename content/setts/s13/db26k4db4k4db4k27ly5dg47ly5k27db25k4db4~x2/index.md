@@ -2,10 +2,9 @@
 title: "Campbell of Breadalbane #2"
 date: 2023-03-18
 ---
-**Bands:** [BKBKYGYKBKBKB](/stripes/bkbkygykbkbkb/) · **Stripes:** [DB K DB K LY DG LY K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K LY DG LY K DB K DB K DB</span></span>
+In pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=516
 
@@ -15,15 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [516](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=516)
 - Scottish Tartans World Register: 209
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black from Cumnock (Personal)](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/)
-- [Breadalbane Fencibles](/setts/s13/db8k1db1k1db1k8ly1dg13ly1k8db9k1db1/)
-- [Breadalbane Fencibles](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/)
-
 
 ## Thread count
 B/52 K8 B8 K8 B8 K54 Y10 G94 Y10 K54 B50 K8 B/8

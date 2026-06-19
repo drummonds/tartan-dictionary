@@ -2,10 +2,9 @@
 title: "Fueglistal"
 date: 2023-03-18
 ---
-**Bands:** [KYWRWRWRW](/stripes/kywrwrwrw/) · **Stripes:** [K LO LB R LB R LB R LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LO LB R LB R LB R LB</span></span>
+In pattern [KYWRWRWRW](/stripes/kywrwrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10835/
 

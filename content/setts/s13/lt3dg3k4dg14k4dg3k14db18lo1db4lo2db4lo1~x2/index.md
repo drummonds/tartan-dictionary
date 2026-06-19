@@ -2,10 +2,9 @@
 title: "Clerke of Ulva"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBKGKGKGW](/stripes/ybybybkgkgkgw/) · **Stripes:** [LO DB LO DB LO DB K DG K DG K DG LT](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LO DB LO DB LO DB K DG K DG K DG LT</span></span>
+In pattern [WGKGKGKBYBYBY](/stripes/wgkgkgkbybyby/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=686
 

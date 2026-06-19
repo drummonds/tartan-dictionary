@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bykgkr/
 ---
-BYKGKR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/n4ly1k4dg32k4r2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BYKGKR
+
+{{< pat "BYKGKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K DG K LY N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="seq">R K DG K LY N</span></span>
 
 | Tartans |
 |---------------|
 | [Tough (Personal)](/setts/s6/n4ly1k4dg32k4r2~x2/)|
 |![Tough (Personal) example sett](/setts/s6/n4ly1k4dg32k4r2~x2/sett.png)|
-

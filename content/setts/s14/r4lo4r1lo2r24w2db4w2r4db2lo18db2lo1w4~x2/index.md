@@ -2,10 +2,9 @@
 title: "San Francisco"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRWBWRBYBYW](/stripes/ryryrwbwrbybyw/) · **Stripes:** [R LO R LO R W DB W R DB LO DB LO W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LO R LO R W DB W R DB LO DB LO W</span></span>
+In pattern [RYRYRWBWRBYBYW](/stripes/ryryrwbwrbybyw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5827
 

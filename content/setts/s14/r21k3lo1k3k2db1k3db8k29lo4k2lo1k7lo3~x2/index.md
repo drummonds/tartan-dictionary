@@ -2,10 +2,9 @@
 title: "(5) Ruxton"
 date: 2023-03-18
 ---
-**Bands:** [RKYKKBKBKYKYKY](/stripes/rkykkbkbkykyky/) · **Stripes:** [R K LO K K DB K DB K LO K LO K LO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K LO K K DB K DB K LO K LO K LO</span></span>
+In pattern [RKYKKBKBKYKYKY](/stripes/rkykkbkbkykyky/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

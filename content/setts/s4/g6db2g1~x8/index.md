@@ -2,20 +2,11 @@
 title: "Montgomery - 1842 (VS"
 date: 2023-03-18
 ---
-**Bands:** [GBGB](/stripes/gbgb/) · **Stripes:** [G DB G DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB</span></span>
+In pattern [BGBG](/stripes/bgbg/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/114/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Montgomerie](/setts/s4/g12db3g1~x2/)
-- [Montgomery](/setts/s4/g6db2g1~x4/)
-
 
 ## Thread count
 G/48 DB16 G8 DB/16

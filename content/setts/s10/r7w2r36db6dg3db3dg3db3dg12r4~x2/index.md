@@ -2,10 +2,9 @@
 title: "Chisholm of Strathglass"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGBRWR](/stripes/rgbgbgbrwr/) · **Stripes:** [R DG DB DG DB DG DB R W R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG DB DG DB DG DB R W R</span></span>
+In pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=642
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [642](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=642)
 - Scottish Tartans Authority (ITI): 1455
 - Scottish Tartans World Register: 1455
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Chisholm Hunting](/setts/s10/r7w2r32db7dg3db2dg3db2dg16r3~x2/)
-
 
 ## Thread count
 R/14 W4 R72 DB12 DG6 DB6 DG6 DB6 DG24 R/8

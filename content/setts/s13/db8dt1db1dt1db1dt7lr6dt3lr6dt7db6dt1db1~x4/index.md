@@ -2,10 +2,9 @@
 title: "Hebron"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYBYBBBBBB](/stripes/bbbbybybbbbbb/) · **Stripes:** [DB DT DB DT LR DT LR DT DB DT DB DT DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DT DB DT LR DT LR DT DB DT DB DT DB</span></span>
+In pattern [BBBBBBYBYBBBB](/stripes/bbbbbbybybbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1675
 

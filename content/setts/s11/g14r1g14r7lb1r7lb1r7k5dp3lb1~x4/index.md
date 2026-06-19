@@ -2,19 +2,11 @@
 title: "Hynde (Sir John) (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRWRWRKBW](/stripes/grgrwrwrkbw/) · **Stripes:** [G R G R LB R LB R K DP LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">G R G R LB R LB R K DP LB</span></span>
+In pattern [GRGRWRWRKBW](/stripes/grgrwrwrkbw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/976/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hynde (Sir John)](/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/)
-
 
 ## Thread count
 G/56 DR4 G56 DR28 N4 DR28 N4 DR28 K20 P12 N/4

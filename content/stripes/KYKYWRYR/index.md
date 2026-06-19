@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/kykywryr/
 ---
-KYKYWRYR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-KYKYWRYR
+
+{{< pat "KYKYWRYR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LY K LY W O LY O <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K LY K LY W O LY O</span></span>
 
 | Tartans |
 |---------------|
 | [Bannockbane Grey #1](/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/)|
 |![Bannockbane Grey #1 example sett](/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/sett.png)|
-

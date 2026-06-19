@@ -2,10 +2,9 @@
 title: "McRae, Dress"
 date: 2023-03-18
 ---
-**Bands:** [RKBWKWBWBWR](/stripes/rkbwkwbwbwr/) · **Stripes:** [R K DB W K W DB W DB W R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DB W K W DB W DB W R</span></span>
+In pattern [RKBWKWBWBWR](/stripes/rkbwkwbwbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2903
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2903](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2903)
 - Scottish Tartans World Register: 2800
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scott, (MacRae)](/setts/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/)
-
 
 ## Thread count
 R/4 K12 B8 LN4 K28 LN2 B8 LN32 B4 LN12 R/4

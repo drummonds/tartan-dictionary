@@ -2,20 +2,11 @@
 title: "Davidson of Tulloch (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RBKGW](/stripes/rbkgw/) · **Stripes:** [R DB K G W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K G W</span></span>
+In pattern [RBKGW](/stripes/rbkgw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8613/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Davidson](/setts/s5/r1db6k3g6w1~x4/)
-- [Davidson of Tulloch](/setts/s5/r2db10k5g12w2~x2/)
-
 
 ## Thread count
 R/6 DB42 K42 G42 LN/6

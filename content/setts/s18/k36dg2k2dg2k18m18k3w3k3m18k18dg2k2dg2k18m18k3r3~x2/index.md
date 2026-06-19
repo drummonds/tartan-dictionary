@@ -2,10 +2,9 @@
 title: "Chapman (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKRKWKRKGKGKRKR](/stripes/kgkgkrkwkrkgkgkrkr/) · **Stripes:** [K DG K DG K M K W K M K DG K DG K M K R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG K DG K M K W K M K DG K DG K M K R</span></span>
+In pattern [KGKGKRKWKRKGKGKRKR](/stripes/kgkgkrkwkrkgkgkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=615
 

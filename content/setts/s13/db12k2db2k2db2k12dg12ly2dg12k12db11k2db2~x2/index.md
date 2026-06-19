@@ -2,10 +2,9 @@
 title: "Gordon"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGKBKBKB](/stripes/bkbkgygkbkbkb/) · **Stripes:** [DB K DB K DG LY DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG LY DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gordon](/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2/)
-
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 DG24 LG4 DG24 K24 DB22 K4 DB/4

@@ -2,10 +2,9 @@
 title: "Gudbrandsdalen, Mannsdrakt"
 date: 2023-03-18
 ---
-**Bands:** [RWRKGRKGRGKRGKRG](/stripes/rwrkgrkgrgkrgkrg/) · **Stripes:** [R W R K DG R K DG R DG K R DG K R DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R W R K DG R K DG R DG K R DG K R DG</span></span>
+In pattern [GRKGRKGRGKRGKRWR](/stripes/grkgrkgrgkrgkrwr/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

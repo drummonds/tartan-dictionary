@@ -2,10 +2,9 @@
 title: "Austrian Bowhunters Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKGKRYRKRKRKGKRKG](/stripes/kgkrkgkryrkrkrkgkrkg/) · **Stripes:** [K DG K R K DG K R LY R K R K R K DG K R K DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K R K DG K R LY R K R K R K DG K R K DG</span></span>
+In pattern [GKRKGKRKRKRYRKGKRKGK](/stripes/gkrkgkrkrkryrkgkrkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=142
 

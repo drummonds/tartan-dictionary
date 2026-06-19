@@ -2,10 +2,9 @@
 title: "Jones, The"
 date: 2023-03-18
 ---
-**Bands:** [RWGGKBW](/stripes/rwggkbw/) · **Stripes:** [R W DY DG K DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W DY DG K DB W</span></span>
+In pattern [RWGGKBW](/stripes/rwggkbw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

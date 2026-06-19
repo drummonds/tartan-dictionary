@@ -2,10 +2,9 @@
 title: "Quinn (Name?)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGYGKGRGRG](/stripes/rgrgygkgrgrg/) · **Stripes:** [R G R G LY G K G R G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G LY G K G R G R G</span></span>
+In pattern [GRGRGKGYGRGR](/stripes/grgrgkgygrgr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6390/
 

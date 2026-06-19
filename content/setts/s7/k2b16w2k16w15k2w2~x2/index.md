@@ -2,10 +2,9 @@
 title: "Strathclyde"
 date: 2023-03-18
 ---
-**Bands:** [KBWKWKW](/stripes/kbwkwkw/) · **Stripes:** [K B W K W K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K B W K W K W</span></span>
+In pattern [KBWKWKW](/stripes/kbwkwkw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

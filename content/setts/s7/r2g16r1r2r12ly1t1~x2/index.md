@@ -2,10 +2,9 @@
 title: "Spragg (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGRRRYB](/stripes/rgrrryb/) · **Stripes:** [R G R R R LY T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G R R R LY T</span></span>
+In pattern [BYRRRGR](/stripes/byrrrgr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10162/
 

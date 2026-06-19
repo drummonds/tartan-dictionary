@@ -2,10 +2,9 @@
 title: "Brecheen (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KRKYRYRYR](/stripes/krkyryryr/) · **Stripes:** [K R K LY R LY R LY R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K LY R LY R LY R</span></span>
+In pattern [KRKYRYRYR](/stripes/krkyryryr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3727/
 

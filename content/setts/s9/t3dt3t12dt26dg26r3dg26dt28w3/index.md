@@ -2,10 +2,9 @@
 title: "Seaford House"
 date: 2023-03-18
 ---
-**Bands:** [BBBBGRGBW](/stripes/bbbbgrgbw/) · **Stripes:** [T DT T DT DG R DG DT W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DT T DT DG R DG DT W</span></span>
+In pattern [BBBBGRGBW](/stripes/bbbbgrgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11045
 

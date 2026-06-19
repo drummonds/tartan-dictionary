@@ -2,10 +2,9 @@
 title: "Frankfurt & Disttrict P & D (Corpora"
 date: 2023-03-18
 ---
-**Bands:** [RKBKRKWKRKBKBKB](/stripes/rkbkrkwkrkbkbkb/) · **Stripes:** [R K DT K R K W K R K DT K DT K DT](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">R K DT K R K W K R K DT K DT K DT</span></span>
+In pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10447/
 

@@ -2,10 +2,9 @@
 title: "Loch Freuchie (District)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBYKGRGW](/stripes/rbkbykgrgw/) · **Stripes:** [R DT K DT LY K G R G LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DT K DT LY K G R G LB</span></span>
+In pattern [RBKBYKGRGW](/stripes/rbkbykgrgw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10725/
 

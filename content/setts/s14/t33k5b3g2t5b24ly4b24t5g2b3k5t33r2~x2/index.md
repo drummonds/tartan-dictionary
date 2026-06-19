@@ -2,10 +2,9 @@
 title: "Los Angeles District Tartan Tartan Number: 6071. Earliest known date: 01/01/2003 Based on the Los Angeles coat of arms. Slightly different thread count for the blues in the weft. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBKBGBBYBBGBKB](/stripes/rbkbgbbybbgbkb/) · **Stripes:** [R T K B G T B LY B T G B K T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T K B G T B LY B T G B K T</span></span>
+In pattern [BKBGBBYBBGBKBR](/stripes/bkbgbbybbgbkbr/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6071
 

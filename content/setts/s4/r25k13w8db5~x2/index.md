@@ -2,19 +2,11 @@
 title: "Hamby Sport (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKWB](/stripes/rkwb/) · **Stripes:** [R K W DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R K W DB</span></span>
+In pattern [BWKR](/stripes/bwkr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8513/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gleneckley](/setts/s4/db3w25k25r3~x2/)
-
 
 ## Thread count
 R/50 K26 LN16 DB/10

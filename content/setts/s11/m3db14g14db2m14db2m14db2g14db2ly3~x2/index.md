@@ -2,10 +2,9 @@
 title: "Clare"
 date: 2023-03-18
 ---
-**Bands:** [RBGBRBRBGBY](/stripes/rbgbrbrbgby/) · **Stripes:** [M DB G DB M DB M DB G DB LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">M DB G DB M DB M DB G DB LY</span></span>
+In pattern [RBGBRBRBGBY](/stripes/rbgbrbrbgby/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

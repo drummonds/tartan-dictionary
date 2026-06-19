@@ -2,10 +2,9 @@
 title: "MacDougall"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBBGB](/stripes/rgrgrgrbbgb/) · **Stripes:** [R DG R DG R DG R DP DB DG DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DG R DG R DG R DP DB DG DP</span></span>
+In pattern [BGBBRGRGRGR](/stripes/bgbbrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2392
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2392](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2392)
 - Scottish Tartans World Register: 132
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDougall VS](/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3/)
-
 
 ## Thread count
 P/8 G16 B12 P16 R12 G4 R4 G4 R48 G2 R/6

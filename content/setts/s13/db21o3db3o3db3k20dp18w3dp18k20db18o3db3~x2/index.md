@@ -2,10 +2,9 @@
 title: "Westwood MacPoiret (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBKBWBKBRBRB](/stripes/brbkbwbkbrbrb/) · **Stripes:** [DB O DB K DP W DP K DB O DB O DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">DB O DB K DP W DP K DB O DB O DB</span></span>
+In pattern [BRBKBWBKBRBRB](/stripes/brbkbwbkbrbrb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7492/
 

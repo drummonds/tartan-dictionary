@@ -2,10 +2,9 @@
 title: "Believe - Corinna"
 date: 2023-03-18
 ---
-**Bands:** [KBRKBKBW](/stripes/kbrkbkbw/) · **Stripes:** [K DR M K DR K DR W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DR M K DR K DR W</span></span>
+In pattern [KBRKBKBW](/stripes/kbrkbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11005
 

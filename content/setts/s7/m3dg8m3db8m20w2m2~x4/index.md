@@ -2,10 +2,9 @@
 title: "Unnamed C21st (Lady's Jacket) (Fash)"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRWR](/stripes/rgrbrwr/) · **Stripes:** [M DG M DB M W M](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M DG M DB M W M</span></span>
+In pattern [RGRBRWR](/stripes/rgrbrwr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8417/
 

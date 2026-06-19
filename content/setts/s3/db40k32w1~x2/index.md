@@ -2,10 +2,9 @@
 title: "Shirra (2013)"
 date: 2023-03-18
 ---
-**Bands:** [BKW](/stripes/bkw/) · **Stripes:** [DB K W](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K W</span></span>
+In pattern [BKW](/stripes/bkw/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10930
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rkgkky/
 ---
-RKGKKY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/r4k2dg28k38k1ly4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-RKGKKY
+
+{{< pat "RKGKKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K DG K K LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K DG K K LY</span></span>
 
 | Tartans |
 |---------------|
 | [Wcwm 9275 5471-2](/setts/s6/r4k2dg28k38k1ly4~x2/)|
 |![Wcwm 9275 5471-2 example sett](/setts/s6/r4k2dg28k38k1ly4~x2/sett.png)|
-

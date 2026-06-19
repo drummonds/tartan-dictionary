@@ -2,10 +2,9 @@
 title: "East Kilbride (Original) District Tartan Tartan Number: 2061. Earliest known date: 1990 Colours chosen echo the symbolism of the armorial ensigns granted by Lord Lyon: White/Silver and Blue - Stewarts of Torrance White/Silver and Black - Maxwells of Calderwood Red and White - Lindsays White/Silver and Black - Industry Green and Gold - Agriculture. Black guards are added to the blue stripe when woven in reproduction colours. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YRGBRKW](/stripes/yrgbrkw/) · **Stripes:** [LY R G DB R K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R G DB R K W</span></span>
+In pattern [WKRBGRY](/stripes/wkrbgry/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2061
 

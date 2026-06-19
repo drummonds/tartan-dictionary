@@ -2,10 +2,9 @@
 title: "Cape Breton University Chemistry Society"
 date: 2023-03-18
 ---
-**Bands:** [YBGBGBGBRB](/stripes/ybgbgbgbrb/) · **Stripes:** [LY DB Y DB Y DB Y DB O DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB Y DB Y DB Y DB O DB</span></span>
+In pattern [BRBGBGBGBY](/stripes/brbgbgbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10629
 

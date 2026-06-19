@@ -2,10 +2,9 @@
 title: "MacLaren"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGKB](/stripes/ykgrgkb/) · **Stripes:** [LO K G R G K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K G R G K DB</span></span>
+In pattern [BKGRGKY](/stripes/bkgrgky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2594
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2594](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2594)
 - Scottish Tartans Authority (ITI): 342
 - Scottish Tartans World Register: 342
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLaurin of Broich (Clan)](/setts/s7/db36k8g3r3g6k1lo2~x2/)
-
 
 ## Thread count
 DB/48 K16 G16 R4 G16 K4 DY/4

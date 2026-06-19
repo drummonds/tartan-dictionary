@@ -2,10 +2,9 @@
 title: "Mull Rugby Club (Old)"
 date: 2023-03-18
 ---
-**Bands:** [KRWKBGWG](/stripes/krwkbgwg/) · **Stripes:** [K R LB K T G LB G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R LB K T G LB G</span></span>
+In pattern [GWGBKWRK](/stripes/gwgbkwrk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3045
 

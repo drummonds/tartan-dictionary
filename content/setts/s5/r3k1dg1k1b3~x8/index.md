@@ -2,10 +2,9 @@
 title: "Clark"
 date: 2023-03-18
 ---
-**Bands:** [RKGKB](/stripes/rkgkb/) · **Stripes:** [R K DG K B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K DG K B</span></span>
+In pattern [BKGKR](/stripes/bkgkr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clark](/setts/s5/r3k1dg1k1b3~x4/)
-
 
 ## Thread count
 DR/24 K8 DG8 K8 B/24

@@ -2,10 +2,9 @@
 title: "MacNab WI 2"
 date: 2023-03-18
 ---
-**Bands:** [GRBB](/stripes/grbb/) · **Stripes:** [DG R N B](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG R N B</span></span>
+In pattern [BBRG](/stripes/bbrg/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -57,13 +56,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNab WI2](/setts/s4/dg15r3n11b2/)
-
 
 ## Thread count
 DG/30 DR6 N22 B/4

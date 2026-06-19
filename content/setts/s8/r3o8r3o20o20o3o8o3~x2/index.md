@@ -2,10 +2,9 @@
 title: "Miyuki, House Check Tan, 1004A"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRRRR](/stripes/rrrrrrrr/) · **Stripes:** [R O R O O O O O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O R O O O O O</span></span>
+In pattern [RRRRRRRR](/stripes/rrrrrrrr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

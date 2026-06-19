@@ -2,10 +2,9 @@
 title: "Wallace"
 date: 2023-03-18
 ---
-**Bands:** [KRKY](/stripes/krky/) · **Stripes:** [K R K LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R K LY</span></span>
+In pattern [KRKY](/stripes/krky/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4482
 
@@ -23,16 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4482](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4482)
 - Scottish Tartans Authority (ITI): 1208
 - Scottish Tartans World Register: 1208
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Masai Shuka 26 (Artefact)](/setts/s4/ly3k2r10k1~x4/)
-- [Wallace](/setts/s4/k1r8k8ly1/)
-- [Wallace](/setts/s4/k1r8k8ly1~x2/)
-- [Wallace (Clan)](/setts/s4/k1r8k8ly1~x4/)
-
 
 ## Thread count
 K/6 R48 K48 Y/6

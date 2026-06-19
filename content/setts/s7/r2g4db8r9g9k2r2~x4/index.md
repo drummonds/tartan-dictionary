@@ -2,19 +2,11 @@
 title: "Stewart (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RKGRBGR](/stripes/rkgrbgr/) · **Stripes:** [R K G R DB G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G R DB G R</span></span>
+In pattern [RGBRGKR](/stripes/rgbrgkr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1452/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart, Plaid](/setts/s7/r2g4db8r9g9k2r2~x2/)
-
 
 ## Thread count
 R/8 G16 DB32 R36 G36 K8 R/8

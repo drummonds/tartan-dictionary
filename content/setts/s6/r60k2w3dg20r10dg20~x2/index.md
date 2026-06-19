@@ -2,10 +2,9 @@
 title: "Greig (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKWGRG](/stripes/rkwgrg/) · **Stripes:** [R K W DG R DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R K W DG R DG</span></span>
+In pattern [GRGWKR](/stripes/grgwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1534
 

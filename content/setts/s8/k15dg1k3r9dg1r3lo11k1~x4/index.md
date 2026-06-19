@@ -2,10 +2,9 @@
 title: "Island of Innis, The"
 date: 2023-03-18
 ---
-**Bands:** [KYRGRKGK](/stripes/kyrgrkgk/) · **Stripes:** [K LO R DG R K DG K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO R DG R K DG K</span></span>
+In pattern [KGKRGRYK](/stripes/kgkrgryk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1863
 

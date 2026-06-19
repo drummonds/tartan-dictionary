@@ -2,10 +2,9 @@
 title: "Lister (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YRGYGRG](/stripes/yrgygrg/) · **Stripes:** [LY O DY LY DY O DY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY O DY LY DY O DY</span></span>
+In pattern [GRGYGRY](/stripes/grgygry/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10650/
 

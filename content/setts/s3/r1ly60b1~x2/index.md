@@ -2,10 +2,9 @@
 title: "Nutwood"
 date: 2023-03-18
 ---
-**Bands:** [RYB](/stripes/ryb/) · **Stripes:** [R LY B](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R LY B</span></span>
+In pattern [BYR](/stripes/byr/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3207
 

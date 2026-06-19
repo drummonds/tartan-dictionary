@@ -2,10 +2,9 @@
 title: "MacMedic"
 date: 2023-03-18
 ---
-**Bands:** [RW](/stripes/rw/) · **Stripes:** [R W](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W</span></span>
+In pattern [RW](/stripes/rw/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2654
 
@@ -902,14 +901,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [English Kilt (Fashion)](/setts/s2/w10r3~x10/)
-- [Spare](/setts/s2/r1w1~x5/)
-
 
 ## Thread count
 R/40 LN/40

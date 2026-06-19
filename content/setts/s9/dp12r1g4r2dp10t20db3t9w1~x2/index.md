@@ -2,10 +2,9 @@
 title: "Japan-Scotland Society (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBBBBW](/stripes/brgrbbbbw/) · **Stripes:** [DP R G R DP T DB T W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP R G R DP T DB T W</span></span>
+In pattern [BRGRBBBBW](/stripes/brgrbbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10347/
 

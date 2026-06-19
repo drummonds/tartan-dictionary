@@ -2,10 +2,9 @@
 title: "Johnstons of Elgin Bicentennial"
 date: 2023-03-18
 ---
-**Bands:** [KRKBGKRKRKGBKRKB](/stripes/krkbgkrkrkgbkrkb/) · **Stripes:** [K O K B Y K R K R K Y B K O K B](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K O K B Y K R K R K Y B K O K B</span></span>
+In pattern [BKRKBGKRKRKGBKRK](/stripes/bkrkbgkrkrkgbkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1901
 

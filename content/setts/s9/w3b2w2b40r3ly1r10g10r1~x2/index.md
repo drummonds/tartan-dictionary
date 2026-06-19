@@ -2,10 +2,9 @@
 title: "Russian Scottish"
 date: 2023-03-18
 ---
-**Bands:** [RGRYRBWBW](/stripes/rgryrbwbw/) · **Stripes:** [R G R LY R B W B W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R LY R B W B W</span></span>
+In pattern [RGRYRBWBW](/stripes/rgryrbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3619
 

@@ -2,10 +2,9 @@
 title: "MacDiarmid Dress"
 date: 2023-03-18
 ---
-**Bands:** [RGKWKGWRW](/stripes/rgkwkgwrw/) · **Stripes:** [R G K W K G W R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G K W K G W R W</span></span>
+In pattern [RGKWKGWRW](/stripes/rgkwkgwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2332
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2332](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2332)
 - Scottish Tartans Authority (ITI): 1486
 - Scottish Tartans World Register: 1486
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDiarmid, dress](/setts/s9/w38r12w37g32k3w4k3g32r4/)
-
 
 ## Thread count
 LN/76 R24 LN74 G64 K6 LN8 K6 G64 R/8

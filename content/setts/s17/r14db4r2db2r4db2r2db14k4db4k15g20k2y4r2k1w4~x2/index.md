@@ -2,10 +2,9 @@
 title: "Caledonian Society of P.E.I. (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBKBKGKGRKW](/stripes/rbrbrbrbkbkgkgrkw/) · **Stripes:** [R DB R DB R DB R DB K DB K G K Y R K W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB R DB R DB R DB K DB K G K Y R K W</span></span>
+In pattern [RBRBRBRBKBKGKGRKW](/stripes/rbrbrbrbkbkgkgrkw/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3783/
 

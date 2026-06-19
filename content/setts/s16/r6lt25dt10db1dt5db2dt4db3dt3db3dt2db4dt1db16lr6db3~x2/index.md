@@ -2,10 +2,9 @@
 title: "Help for Heroes"
 date: 2023-03-18
 ---
-**Bands:** [RWBBBBBBBBBBBBYB](/stripes/rwbbbbbbbbbbbbyb/) · **Stripes:** [R LT DT DB DT DB DT DB DT DB DT DB DT DB LR DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">R LT DT DB DT DB DT DB DT DB DT DB DT DB LR DB</span></span>
+In pattern [BYBBBBBBBBBBBBWR](/stripes/bybbbbbbbbbbbbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10561
 

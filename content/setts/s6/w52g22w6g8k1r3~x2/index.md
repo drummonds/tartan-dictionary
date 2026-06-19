@@ -2,10 +2,9 @@
 title: "MacGregor - 1975 (Dance, Green)"
 date: 2023-03-18
 ---
-**Bands:** [RKGWGW](/stripes/rkgwgw/) · **Stripes:** [R K G W G W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K G W G W</span></span>
+In pattern [RKGWGW](/stripes/rkgwgw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6533/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/6533/
 This cloth is also recorded under:
 
 - MacGregor
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGregor, Green](/setts/s6/w47g20w6g8k1r3~x2/)
-
 
 ## Thread count
 W/104 G44 W12 G16 K2 LR/6

@@ -2,10 +2,9 @@
 title: "Unamed, Riding cloak 1745"
 date: 2023-03-18
 ---
-**Bands:** [RRRBB](/stripes/rrrbb/) · **Stripes:** [R O R DB T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R O R DB T</span></span>
+In pattern [BBRRR](/stripes/bbrrr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

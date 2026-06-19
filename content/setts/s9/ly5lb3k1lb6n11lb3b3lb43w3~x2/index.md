@@ -2,10 +2,9 @@
 title: "Royal College of Midwives"
 date: 2023-03-18
 ---
-**Bands:** [YWKWBWBWW](/stripes/ywkwbwbww/) · **Stripes:** [LY LB K LB N LB B LB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY LB K LB N LB B LB W</span></span>
+In pattern [WWBWBWKWY](/stripes/wwbwbwkwy/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596
 

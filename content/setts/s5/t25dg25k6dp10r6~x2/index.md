@@ -2,10 +2,9 @@
 title: "Breon (Jersey Shore, Pennsylvania) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBKGB](/stripes/rbkgb/) · **Stripes:** [R DP K DG T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DP K DG T</span></span>
+In pattern [BGKBR](/stripes/bgkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10488
 

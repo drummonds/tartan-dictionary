@@ -2,10 +2,9 @@
 title: "Warwick (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KKKKBKKKKKBK](/stripes/kkkkbkkkkkbk/) · **Stripes:** [K K K K N K K K K K DP K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K K K K N K K K K K DP K</span></span>
+In pattern [KBKKKKKBKKKK](/stripes/kbkkkkkbkkkk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4337/
 

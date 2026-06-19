@@ -2,10 +2,9 @@
 title: "13, Confederation"
 date: 2023-03-18
 ---
-**Bands:** [KRBRWRKGBGBGBGBGBGKRKBKBKBKBKB](/stripes/krbrwrkgbgbgbgbgbgkrkbkbkbkbkb/) · **Stripes:** [K R DB R W R K G DB G DB G DB G DB G DB G K R K DB K DB K DB K DB K DB](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB R W R K G DB G DB G DB G DB G DB G K R K DB K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKBKRKGBGBGBGBGBGKRWRBRK](/stripes/bkbkbkbkbkrkgbgbgbgbgbgkrwrbrk/).
 
-
-This was sourced from weddslist.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from weddslist.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

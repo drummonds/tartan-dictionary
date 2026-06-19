@@ -2,10 +2,9 @@
 title: "Clergy (WCWM)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBKGKGBGBG](/stripes/gbgbkgkgbgbg/) · **Stripes:** [Y DB Y DB K Y K Y DB Y DB Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y DB Y DB K Y K Y DB Y DB Y</span></span>
+In pattern [GBGBGKGKBGBG](/stripes/gbgbgkgkbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=683
 

@@ -2,10 +2,9 @@
 title: "Vasseur Mignon (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYGWGBGWY](/stripes/ryrygwgbgwy/) · **Stripes:** [R LY R LY G LB G N G LB LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LY R LY G LB G N G LB LY</span></span>
+In pattern [RYRYGWGBGWY](/stripes/ryrygwgbgwy/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10808
 

@@ -2,10 +2,9 @@
 title: "Serenade"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBBBWBWBBBBBYBB](/stripes/bybbbbbwbwbbbbbybb/) · **Stripes:** [DP LG DP B DB B DP LB DP LB DP B DB B DP LG DP DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DP LG DP B DB B DP LB DP LB DP B DB B DP LG DP DB</span></span>
+In pattern [BBYBBBBBWBWBBBBBYB](/stripes/bbybbbbbwbwbbbbbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3767
 

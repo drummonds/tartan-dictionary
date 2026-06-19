@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbbkbkbrbykb/
 ---
-BBBBKBKBRBYKB
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-BBBBKBKBRBYKB
+
+{{< pat "BBBBKBKBRBYKB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DB K LO DB R DB K DB K DB B DB B <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB K LO DB R DB K DB K DB B DB B</span></span>
 
 | Tartans |
 |---------------|
 | [Dempster (Name)](/setts/s13/b12db3b12db16k3db6k3db16r3db3lo3k16db4~x2/)|
 |![Dempster (Name) example sett](/setts/s13/b12db3b12db16k3db6k3db16r3db3lo3k16db4~x2/sett.png)|
-

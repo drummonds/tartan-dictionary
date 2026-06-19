@@ -2,10 +2,9 @@
 title: "Fraser of Castle Leathers, Major James"
 date: 2023-03-18
 ---
-**Bands:** [WRWRWGWGWRWGWGW](/stripes/wrwrwgwgwrwgwgw/) · **Stripes:** [LB R LB R LB G LB G LB R LB G LB G LB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB R LB R LB G LB G LB R LB G LB G LB</span></span>
+In pattern [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1272
 

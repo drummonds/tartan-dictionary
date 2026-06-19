@@ -2,10 +2,9 @@
 title: "MacDonald Lord of the Isles Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GYGYBYBYBYBYB](/stripes/gygybybybybyb/) · **Stripes:** [DG LR DG LR DB LR DB LR DB LR DB LR DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">DG LR DG LR DB LR DB LR DB LR DB LR DB</span></span>
+In pattern [BYBYBYBYBYGYG](/stripes/bybybybybygyg/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald Lord of the Isles Hunting](/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12~x2/)
-
 
 ## Thread count
 DG/24 N1 DG2 N2 DB2 N1 DB12 N1 DB2 N2 DB2 N1 DB/12

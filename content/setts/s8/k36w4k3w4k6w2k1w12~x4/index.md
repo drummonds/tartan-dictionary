@@ -2,10 +2,9 @@
 title: "Menzies (1938)"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKW](/stripes/kwkwkwkw/) · **Stripes:** [K W K W K W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K W K W K W</span></span>
+In pattern [KWKWKWKW](/stripes/kwkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2924](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924)
 - Scottish Tartans Authority (ITI): 1244
 - Scottish Tartans World Register: 1244
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Menzies](/setts/s8/k32w4k2w4k4w2k1w6~x2/)
-
 
 ## Thread count
 K/144 W16 K12 W16 K24 W8 K4 W/48

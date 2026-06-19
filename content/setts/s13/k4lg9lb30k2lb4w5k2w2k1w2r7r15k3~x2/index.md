@@ -2,10 +2,9 @@
 title: "Un-named (USA Bedheads)"
 date: 2023-03-18
 ---
-**Bands:** [KRRWKWKWWKWYK](/stripes/krrwkwkwwkwyk/) · **Stripes:** [K R R W K W K W LB K LB LG K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="seq">K R R W K W K W LB K LB LG K</span></span>
+In pattern [KRRWKWKWWKWYK](/stripes/krrwkwkwwkwyk/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8537/
 

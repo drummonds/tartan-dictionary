@@ -2,10 +2,9 @@
 title: "City of London (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBWR](/stripes/kbwr/) · **Stripes:** [K N W R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K N W R</span></span>
+In pattern [KBWR](/stripes/kbwr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10734/
 

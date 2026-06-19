@@ -2,10 +2,9 @@
 title: "Bell (2015)"
 date: 2023-03-18
 ---
-**Bands:** [KYKBWKGWRWGKWKWBKB](/stripes/kykbwkgwrwgkwkwbkb/) · **Stripes:** [K LR K DT W K DG W R W DG K W K W DT K DT](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">K LR K DT W K DG W R W DG K W K W DT K DT</span></span>
+In pattern [BKBWKWKGWRWGKWBKYK](/stripes/bkbwkwkgwrwgkwbkyk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11345
 

@@ -2,10 +2,9 @@
 title: "Tyrone, County"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBWBGRGRG](/stripes/rgbgbwbgrgrg/) · **Stripes:** [R Y DO DG DO LB DO Y R DG R DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R Y DO DG DO LB DO Y R DG R DG</span></span>
+In pattern [GRGRGBWBGBGR](/stripes/grgrgbwbgbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4178
 

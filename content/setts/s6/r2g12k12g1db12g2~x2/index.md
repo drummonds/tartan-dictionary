@@ -2,10 +2,9 @@
 title: "Gunn"
 date: 2023-03-18
 ---
-**Bands:** [RGKGBG](/stripes/rgkgbg/) · **Stripes:** [R G K G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K G DB G</span></span>
+In pattern [GBGKGR](/stripes/gbgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1560
 
@@ -16,15 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1560](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1560)
 - Scottish Tartans Authority (ITI): 708
 - Scottish Tartans World Register: 708
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gunn](/setts/s6/r2g12k12g1db12g1~x2/)
-- [Gunn - 1810 (Clan)](/setts/s6/r4g12k12g2db12g3~x2/)
-- [Lauder (Family)](/setts/s6/g3db8g3k4g15r2~x2/)
-
 
 ## Thread count
 R/4 G24 K24 G2 DB24 G/4

@@ -2,10 +2,9 @@
 title: "Norwich No.040"
 date: 2023-03-18
 ---
-**Bands:** [RGBB](/stripes/rgbb/) · **Stripes:** [R G DB T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G DB T</span></span>
+In pattern [BBGR](/stripes/bbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3184
 

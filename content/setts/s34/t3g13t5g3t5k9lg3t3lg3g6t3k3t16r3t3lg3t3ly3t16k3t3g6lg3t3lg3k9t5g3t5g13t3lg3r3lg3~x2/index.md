@@ -2,10 +2,9 @@
 title: "Shipley, Ian (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRYBGBGBKYBYGBKBYBYBRBKBGYBYKBGBGB](/stripes/yrybgbgbkybygbkbybybrbkbgybykbgbgb/) · **Stripes:** [LG R LG T G T G T K LG T LG G T K T LY T LG T R T K T G LG T LG K T G T G T](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">LG R LG T G T G T K LG T LG G T K T LY T LG T R T K T G LG T LG K T G T G T</span></span>
+In pattern [BGBGBKYBYGBKBRBYBYBKBGYBYKBGBGBYRY](/stripes/bgbgbkybygbkbrbybybkbgybykbgbgbyry/).
 
-
-This was sourced from register-of-tartans.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10167
 

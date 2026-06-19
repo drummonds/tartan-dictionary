@@ -2,10 +2,9 @@
 title: "Craigmoor (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKBGY](/stripes/krkrkbgy/) · **Stripes:** [K R K R K DO G LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R K R K DO G LY</span></span>
+In pattern [KRKRKBGY](/stripes/krkrkbgy/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8087/
 

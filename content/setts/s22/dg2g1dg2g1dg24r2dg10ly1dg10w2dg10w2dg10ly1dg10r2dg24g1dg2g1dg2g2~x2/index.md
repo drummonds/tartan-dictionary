@@ -2,10 +2,9 @@
 title: "Womens Royal Army Corps Assoc."
 date: 2023-03-18
 ---
-**Bands:** [GGGGGRGYGWGWGYGRGGGGGG](/stripes/gggggrgygwgwgygrgggggg/) · **Stripes:** [DG G DG G DG R DG LY DG W DG W DG LY DG R DG G DG G DG G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG G DG G DG R DG LY DG W DG W DG LY DG R DG G DG G DG G</span></span>
+In pattern [GGGGGGRGYGWGWGYGRGGGGG](/stripes/ggggggrgygwgwgygrggggg/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4777
 

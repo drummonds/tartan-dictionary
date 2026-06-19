@@ -2,10 +2,9 @@
 title: "Leighton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBGBYB](/stripes/rbgbgbyb/) · **Stripes:** [R DR DY DO G DR LO DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DR DY DO G DR LO DR</span></span>
+In pattern [BYBGBGBR](/stripes/bybgbgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2087
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2087](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2087)
 - Scottish Tartans Authority (ITI): 2483
 - Scottish Tartans World Register: 2483
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Leighton (Personal)](/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/)
-
 
 ## Thread count
 DRb/20 DY4 DRb20 G35 DR20 T16 DRb28 DRa/8

@@ -2,10 +2,9 @@
 title: "Mitsukoshi Sendai"
 date: 2023-03-18
 ---
-**Bands:** [RKWKWKRBGR](/stripes/rkwkwkrbgr/) · **Stripes:** [O K W K W K O N DG R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">O K W K W K O N DG R</span></span>
+In pattern [RGBRKWKWKR](/stripes/rgbrkwkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10834
 

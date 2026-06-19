@@ -2,10 +2,9 @@
 title: "Sirrell (2014)"
 date: 2023-03-18
 ---
-**Bands:** [BWBRKW](/stripes/bwbrkw/) · **Stripes:** [T W DT R K LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">T W DT R K LB</span></span>
+In pattern [BWBRKW](/stripes/bwbrkw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11109/
 

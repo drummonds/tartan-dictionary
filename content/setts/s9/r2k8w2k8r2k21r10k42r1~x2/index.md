@@ -2,19 +2,11 @@
 title: "Brand Ambassador (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKWKR](/stripes/rkrkrkwkr/) · **Stripes:** [R K R K R K W K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K W K R</span></span>
+In pattern [RKRKRKWKR](/stripes/rkrkrkwkr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10462/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Brand Ambassador](/setts/s9/r4k16w4k16r4k42r20k83r2/)
-
 
 ## Thread count
 R/4 K16 LN4 K16 R4 K42 R20 K84 R/2

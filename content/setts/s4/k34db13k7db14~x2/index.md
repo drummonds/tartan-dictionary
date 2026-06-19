@@ -2,10 +2,9 @@
 title: "Auchincloss (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKB](/stripes/kbkb/) · **Stripes:** [K DB K DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB</span></span>
+In pattern [BKBK](/stripes/bkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082
 
@@ -23,14 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [5082](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082)
 - Scottish Tartans Authority (ITI): 6859
 - Scottish Tartans World Register: 3025
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Algarve (Fashion)](/setts/s4/k1db1~x20/)
-- [Loevenstein Castle 2 (Artefact)](/setts/s4/k20db1k4db3~x4/)
-
 
 ## Thread count
 K/68 DB26 K14 DB/28

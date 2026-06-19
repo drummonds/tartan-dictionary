@@ -2,10 +2,9 @@
 title: "MacPherson (Crubin Plaid)"
 date: 2023-03-18
 ---
-**Bands:** [RKWGYRKRYGKRYRG](/stripes/rkwgyrkrygkryrg/) · **Stripes:** [R K W DG LY R K R LY Y K R LY R Y](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R K W DG LY R K R LY Y K R LY R Y</span></span>
+In pattern [GRYRKGYRKRYGWKR](/stripes/gryrkgyrkrygwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2711
 

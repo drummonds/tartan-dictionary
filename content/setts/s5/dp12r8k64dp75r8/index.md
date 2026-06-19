@@ -2,10 +2,9 @@
 title: "Laurel Cadre, The"
 date: 2023-03-18
 ---
-**Bands:** [RBKRB](/stripes/rbkrb/) · **Stripes:** [R DP K R DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP K R DP</span></span>
+In pattern [BRKBR](/stripes/brkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11395
 

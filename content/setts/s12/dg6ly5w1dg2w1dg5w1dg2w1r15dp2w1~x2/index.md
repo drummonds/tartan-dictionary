@@ -2,10 +2,9 @@
 title: "Dunblane"
 date: 2023-03-18
 ---
-**Bands:** [GYWGWGWGWRBW](/stripes/gywgwgwgwrbw/) · **Stripes:** [DG LY W DG W DG W DG W R DP W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG LY W DG W DG W DG W R DP W</span></span>
+In pattern [GYWGWGWGWRBW](/stripes/gywgwgwgwrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1023
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1023](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1023)
 - Scottish Tartans Authority (ITI): 1022
 - Scottish Tartans World Register: 1022
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dunblane (District)](/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x4/)
-
 
 ## Thread count
 G/12 Y10 LN2 G4 LN2 G10 LN2 G4 LN2 R30 DP4 LN/2

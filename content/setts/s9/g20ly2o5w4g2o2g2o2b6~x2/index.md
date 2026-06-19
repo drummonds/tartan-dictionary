@@ -2,10 +2,9 @@
 title: "Boucherville"
 date: 2023-03-18
 ---
-**Bands:** [GYRWGRGRB](/stripes/gyrwgrgrb/) · **Stripes:** [G LY O W G O G O B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G LY O W G O G O B</span></span>
+In pattern [BRGRGWRYG](/stripes/brgrgwryg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=319
 

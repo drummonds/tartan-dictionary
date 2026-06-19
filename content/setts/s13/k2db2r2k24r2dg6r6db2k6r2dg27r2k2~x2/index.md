@@ -2,10 +2,9 @@
 title: "Buchan (d)"
 date: 2023-03-18
 ---
-**Bands:** [KRGRKBRGRKRBK](/stripes/krgrkbrgrkrbk/) · **Stripes:** [K R DG R K DB R DG R K R DB K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K R DG R K DB R DG R K R DB K</span></span>
+In pattern [KBRKRGRBKRGRK](/stripes/kbrkrgrbkrgrk/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,15 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buchan](/setts/s13/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/)
-- [Cumming](/setts/s13/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/)
-- [Cumming (d)](/setts/s13/k1db1r1k8r1dg6r6db1k6r1dg8r1k1~x2/)
-
 
 ## Thread count
 K/4 DR4 DG54 DR4 K12 DB4 DR12 DG12 DR4 K48 DR4 DB4 K/4

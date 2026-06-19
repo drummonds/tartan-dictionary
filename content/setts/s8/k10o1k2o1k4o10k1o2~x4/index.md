@@ -2,10 +2,9 @@
 title: "Douglas, Grey (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKR](/stripes/krkrkrkr/) · **Stripes:** [K O K O K O K O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K O K O K O</span></span>
+In pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957
 

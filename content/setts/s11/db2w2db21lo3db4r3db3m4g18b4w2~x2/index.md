@@ -2,10 +2,9 @@
 title: "Sons of Scotland (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BWBYBRBRGBW](/stripes/bwbybrbrgbw/) · **Stripes:** [DB W DB LO DB R DB M G B W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB LO DB R DB M G B W</span></span>
+In pattern [BWBYBRBRGBW](/stripes/bwbybrbrgbw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5794/
 

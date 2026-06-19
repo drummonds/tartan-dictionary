@@ -2,10 +2,9 @@
 title: "Seller (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBYBYBGRBRWRBRGBYBYBKG](/stripes/kbybybgrbrwrbrgbybybkg/) · **Stripes:** [K DB LY DB LY DB G R DB R W R DB R G DB LY DB LY DB K G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB LY DB LY DB G R DB R W R DB R G DB LY DB LY DB K G</span></span>
+In pattern [GKBYBYBGRBRWRBRGBYBYBK](/stripes/gkbybybgrbrwrbrgbybybk/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3762
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3762](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3762)
 - Scottish Tartans Authority (ITI): 771
 - Scottish Tartans World Register: 771
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sillars](/setts/s22/g64k4db9ly2db4ly2db4g11r8db2r4w3~x2/)
-
 
 ## Thread count
 G/92 K6 DB12 Y4 DB6 Y4 DB6 G14 R12 DB4 R6 W8 R6 DB4 R12 G14 DB6 Y4 DB6 Y4 DB12 K/6

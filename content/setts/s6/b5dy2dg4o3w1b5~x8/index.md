@@ -2,10 +2,9 @@
 title: "Heriot Bay (District)"
 date: 2023-03-18
 ---
-**Bands:** [BGGRWB](/stripes/bggrwb/) · **Stripes:** [B DY DG O W B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B DY DG O W B</span></span>
+In pattern [BGGRWB](/stripes/bggrwb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10431/
 

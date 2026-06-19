@@ -2,10 +2,9 @@
 title: "Longford County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYYYYK](/stripes/kykyyyyk/) · **Stripes:** [K LO K LO LO LO LO K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO K LO LO LO LO K</span></span>
+In pattern [KYKYYYYK](/stripes/kykyyyyk/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7408/
 

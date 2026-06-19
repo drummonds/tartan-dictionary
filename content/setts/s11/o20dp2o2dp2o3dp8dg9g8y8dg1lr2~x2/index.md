@@ -2,10 +2,9 @@
 title: "Isle of Skye"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBGGGGY](/stripes/rbrbrbggggy/) · **Stripes:** [O DP O DP O DP DG G Y DG LR](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">O DP O DP O DP DG G Y DG LR</span></span>
+In pattern [RBRBRBGGGGY](/stripes/rbrbrbggggy/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

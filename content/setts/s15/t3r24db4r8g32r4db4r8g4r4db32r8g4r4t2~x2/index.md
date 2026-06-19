@@ -2,10 +2,9 @@
 title: "MacIntyre (of Gatehouse)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRGRBRGRBRB](/stripes/brgrbrgrbrgrbrb/) · **Stripes:** [T R G R DB R G R DB R G R DB R T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R G R DB R G R DB R G R DB R T</span></span>
+In pattern [BRBRGRBRGRBRGRB](/stripes/brbrgrbrgrbrgrb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2484
 
@@ -16,16 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2484](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2484)
 - Scottish Tartans Authority (ITI): 402
 - Scottish Tartans World Register: 402
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glen Orchy](/setts/s15/t2r3db3r5g14r3db2r5g2r3db14r5g3r3t2~x2/)
-- [MacIntyre of Glenorchy Clan Tartan Tartan Number: 402. Earliest known date: 1850 Smiths' version is also known as MacIntyre of Whitehouse. Though different from the sett recorded by Lord Lyon it is the one most often available in modern times. Before moving to Badenoch to take protection for Clan Chattan, the MacIntyres were listed as followers of Stewart of Appin. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/t1r1db1r2g8r1db1r2g1r1db8r2g1r1t1~x4/)
-- [MacIntyre of Whitehouse (Clan?)](/setts/s15/t1r2db2r4g16r2db2r4g2r2db16r4g2r2t1~x2/)
-- [MacIntyre, and Glenorchy](/setts/s15/t1r2db2r4g16r2db1r4g1r2db16r4g2r2t1~x2/)
-
 
 ## Thread count
 B/6 R48 DB8 R16 G64 R8 DB8 R16 G8 R8 DB64 R16 G8 R8 B/4

@@ -2,10 +2,9 @@
 title: "Thomson, Camel (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYKWKW](/stripes/rykwkw/) · **Stripes:** [R LY K W K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY K W K W</span></span>
+In pattern [RYKWKW](/stripes/rykwkw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2421/
 

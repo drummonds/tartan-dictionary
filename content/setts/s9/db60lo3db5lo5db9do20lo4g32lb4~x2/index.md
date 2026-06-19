@@ -2,10 +2,9 @@
 title: "State Seal of Ohio (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBBYGW](/stripes/bybybbygw/) · **Stripes:** [DB LO DB LO DB DO LO G LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB LO DB LO DB DO LO G LB</span></span>
+In pattern [BYBYBBYGW](/stripes/bybybbygw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8649/
 

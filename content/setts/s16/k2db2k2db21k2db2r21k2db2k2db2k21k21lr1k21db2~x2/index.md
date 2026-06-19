@@ -2,10 +2,9 @@
 title: "Westminster College (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBRKBKBKKYKB](/stripes/kbkbkbrkbkbkkykb/) · **Stripes:** [K DB K DB K DB R K DB K DB K K LR K DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB R K DB K DB K K LR K DB</span></span>
+In pattern [BKYKKBKBKRBKBKBK](/stripes/bkykkbkbkrbkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3894/
 

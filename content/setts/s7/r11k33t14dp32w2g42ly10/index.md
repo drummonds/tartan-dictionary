@@ -2,19 +2,11 @@
 title: "Gallowater, New (District)"
 date: 2023-03-18
 ---
-**Bands:** [RKBBWGY](/stripes/rkbbwgy/) · **Stripes:** [R K T DP W G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K T DP W G LY</span></span>
+In pattern [RKBBWGY](/stripes/rkbbwgy/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1571/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gallowater New District Tartan Tartan Number: 1571. Earliest known date: 1819 The Gallowater district tartan, sometimes referred to as the 'Gala Water' was first mentioned in the records of Wilson's of Bannockburn in 1793. The design progressed until 1819 when this 'New' sett was recorded in the company's pattern book with a red band and a thin white stripe. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r5k16t7dp16w1g21ly5~x2/)
-
 
 ## Thread count
 R/11 K33 B14 DP32 LN2 G42 Y/10

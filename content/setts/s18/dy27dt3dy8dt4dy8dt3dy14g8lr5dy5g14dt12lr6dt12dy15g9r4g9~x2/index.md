@@ -2,10 +2,9 @@
 title: "Turcan Connell"
 date: 2023-03-18
 ---
-**Bands:** [GRGGBYBGGYGGBGBGBG](/stripes/grggbybggyggbgbgbg/) · **Stripes:** [G R G DY DT LR DT G DY LR G DY DT DY DT DY DT DY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">G R G DY DT LR DT G DY LR G DY DT DY DT DY DT DY</span></span>
+In pattern [GBGBGBGGYGGBYBGGRG](/stripes/gbgbgbggyggbybggrg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4158
 

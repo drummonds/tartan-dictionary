@@ -2,10 +2,9 @@
 title: "Ogilvie Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKBYBYBKGKG](/stripes/rgkgkbybybkgkg/) · **Stripes:** [R Y K Y K T LY T LY T K Y K Y](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y K Y K T LY T LY T K Y K Y</span></span>
+In pattern [GKGKBYBYBKGKGR](/stripes/gkgkbybybkgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3231
 

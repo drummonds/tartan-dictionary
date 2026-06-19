@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/wrbgygy/
 ---
-WRBGYGY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/w3r2p31g30ly2g2ly1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-WRBGYGY
+
+{{< pat "WRBGYGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY G LY G P R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G LY G P R W</span></span>
 
 | Tartans |
 |---------------|
 | [Caig (Personal)](/setts/s7/w3r2p31g30ly2g2ly1~x2/)|
 |![Caig (Personal) example sett](/setts/s7/w3r2p31g30ly2g2ly1~x2/sett.png)|
-

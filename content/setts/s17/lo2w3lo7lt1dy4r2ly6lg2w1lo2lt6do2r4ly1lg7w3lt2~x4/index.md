@@ -2,10 +2,9 @@
 title: "Ste-Anne-de-Portneuf"
 date: 2023-03-18
 ---
-**Bands:** [YWYWGRYYWYWBRYYWW](/stripes/ywywgryywywbryyww/) · **Stripes:** [LO W LO LT DY R LY LG W LO LT DO R LY LG W LT](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LO W LO LT DY R LY LG W LO LT DO R LY LG W LT</span></span>
+In pattern [WWYYRBWYWYYRGWYWY](/stripes/wwyyrbwywyyrgwywy/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3911
 

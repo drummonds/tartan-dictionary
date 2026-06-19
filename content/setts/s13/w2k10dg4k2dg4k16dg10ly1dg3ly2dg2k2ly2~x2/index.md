@@ -2,10 +2,9 @@
 title: "Unnamed C20th - National Archives"
 date: 2023-03-18
 ---
-**Bands:** [YKGYGYGKGKGKW](/stripes/ykgygygkgkgkw/) · **Stripes:** [LY K DG LY DG LY DG K DG K DG K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K DG LY DG LY DG K DG K DG K W</span></span>
+In pattern [WKGKGKGYGYGKY](/stripes/wkgkgkgygygky/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8712/
 

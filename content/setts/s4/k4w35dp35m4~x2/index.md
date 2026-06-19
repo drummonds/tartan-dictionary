@@ -2,10 +2,9 @@
 title: "MacRae - 2000 (Dress, Purple)"
 date: 2023-03-18
 ---
-**Bands:** [KWBR](/stripes/kwbr/) · **Stripes:** [K W DP M](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="seq">K W DP M</span></span>
+In pattern [KWBR](/stripes/kwbr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6564/
 

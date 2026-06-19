@@ -2,10 +2,9 @@
 title: "Nicolson Green Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKWKYKGRKRBKGKGKB](/stripes/gkwkykgrkrbkgkgkb/) · **Stripes:** [G K LB K LO K G R K R DB K G K G K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K LB K LO K G R K R DB K G K G K DB</span></span>
+In pattern [BKGKGKBRKRGKYKWKG](/stripes/bkgkgkbrkrgkykwkg/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4809
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4809](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4809)
 - Scottish Tartans Authority (ITI): 322
 - Scottish Tartans World Register: 322
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cunningham Hunting](/setts/s17/db12k2g2k2g2k2db13r6k10r6g13k2lo2k2lb2k2g12~x2/)
-
 
 ## Thread count
 DB/24 K2 G2 K2 G2 K2 DB18 DR4 K36 DR4 G18 K2 DY2 K2 N2 K2 G/24

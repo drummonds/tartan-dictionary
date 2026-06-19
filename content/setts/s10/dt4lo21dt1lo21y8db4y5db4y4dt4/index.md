@@ -2,10 +2,9 @@
 title: "Rice (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYGBGBGB](/stripes/bybygbgbgb/) · **Stripes:** [DT LO DT LO Y DB Y DB Y DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">DT LO DT LO Y DB Y DB Y DT</span></span>
+In pattern [BGBGBGYBYB](/stripes/bgbgbgybyb/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5754/
 

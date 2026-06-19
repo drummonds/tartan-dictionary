@@ -2,10 +2,9 @@
 title: "Etienne-Carter, Sir George"
 date: 2023-03-18
 ---
-**Bands:** [RGYGKBRBKB](/stripes/rgygkbrbkb/) · **Stripes:** [R G LY G K DB R DB K DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R G LY G K DB R DB K DB</span></span>
+In pattern [BKBRBKGYGR](/stripes/bkbrbkgygr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1134
 

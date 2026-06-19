@@ -2,10 +2,9 @@
 title: "Sellers/Sillars"
 date: 2023-03-18
 ---
-**Bands:** [KWYBYBGRWRWRWRGBYBYWKG](/stripes/kwybybgrwrwrwrgbybywkg/) · **Stripes:** [K LB LY DB LY DB DY R LB R W R LB R DY DB LY DB LY LB K DY](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K LB LY DB LY DB DY R LB R W R LB R DY DB LY DB LY LB K DY</span></span>
+In pattern [GKWYBYBGRWRWRWRGBYBYWK](/stripes/gkwybybgrwrwrwrgbybywk/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3764
 

@@ -2,10 +2,9 @@
 title: "Lochnagar Dress (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKGBGKG](/stripes/krkbkgbgkg/) · **Stripes:** [K R K DP K Y DP Y K Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K R K DP K Y DP Y K Y</span></span>
+In pattern [GKGBGKBKRK](/stripes/gkgbgkbkrk/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8237/
 

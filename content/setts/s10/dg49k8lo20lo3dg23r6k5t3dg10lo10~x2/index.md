@@ -2,10 +2,9 @@
 title: "State Seal of Maine (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGBKRGYYKG](/stripes/ygbkrgyykg/) · **Stripes:** [LO DG T K R DG LO LO K DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG T K R DG LO LO K DG</span></span>
+In pattern [GKYYGRKBGY](/stripes/gkyygrkbgy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8633/
 

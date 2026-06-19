@@ -2,10 +2,9 @@
 title: "Brough (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RBWBGRG](/stripes/rbwbgrg/) · **Stripes:** [R DB W DB DG R DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB W DB DG R DG</span></span>
+In pattern [GRGBWBR](/stripes/grgbwbr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2233/
 

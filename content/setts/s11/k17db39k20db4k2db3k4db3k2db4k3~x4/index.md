@@ -2,10 +2,9 @@
 title: "Azabu Tailor"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/) · **Stripes:** [K DB K DB K DB K DB K DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K DB K DB K DB K</span></span>
+In pattern [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10994
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10994
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10994](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10994)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Azabu Tailor (Corporate)](/setts/s11/k66db155k80db16k8db12k16db12k8db16k12/)
-
 
 ## Thread count
 K/68 DB156 K80 DB16 K8 DB12 K16 DB12 K8 DB16 K/12

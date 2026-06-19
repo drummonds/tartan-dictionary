@@ -2,10 +2,9 @@
 title: "MacDona"
 date: 2023-03-18
 ---
-**Bands:** [KGRGBGR](/stripes/kgrgbgr/) · **Stripes:** [K G R G DB G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G R G DB G R</span></span>
+In pattern [KGRGBGR](/stripes/kgrgbgr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonagh](/setts/s7/r20g29db10g16r6g10k19~x2/)
-
 
 ## Thread count
 R/35 G52 DB18 G17 R12 G17 K/18

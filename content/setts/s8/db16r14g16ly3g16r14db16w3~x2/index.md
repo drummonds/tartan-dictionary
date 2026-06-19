@@ -2,10 +2,9 @@
 title: "Forrester (James) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRGYGRBW](/stripes/brgygrbw/) · **Stripes:** [DB R G LY G R DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R G LY G R DB W</span></span>
+In pattern [BRGYGRBW](/stripes/brgygrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1232
 

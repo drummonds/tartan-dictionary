@@ -2,19 +2,11 @@
 title: "Gulfmark (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBW](/stripes/bbbbw/) · **Stripes:** [DB T DB T W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB T DB T W</span></span>
+In pattern [BBBBW](/stripes/bbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10325/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gallaecia (Unofficial) (District)](/setts/s5/db24t13db4t4w2~x2/)
-
 
 ## Thread count
 DB/144 B12 DB24 B34 LN/12

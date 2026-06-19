@@ -2,10 +2,9 @@
 title: "Blaylock Annandale (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GKBKBBG](/stripes/gkbkbbg/) · **Stripes:** [G K DB K T DB G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K DB K T DB G</span></span>
+In pattern [GBBKBKG](/stripes/gbbkbkg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10405/
 

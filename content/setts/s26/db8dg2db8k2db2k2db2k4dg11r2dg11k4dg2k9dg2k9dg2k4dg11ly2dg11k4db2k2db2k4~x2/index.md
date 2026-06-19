@@ -2,10 +2,9 @@
 title: "Stuart/Stewart Hunting #3"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGYGKGKGKGKGRGKBKBKBGB](/stripes/kbkbkgygkgkgkgkgrgkbkbkbgb/) · **Stripes:** [K DB K DB K DG LY DG K DG K DG K DG K DG R DG K DB K DB K DB DG DB](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DG LY DG K DG K DG K DG K DG R DG K DB K DB K DB DG DB</span></span>
+In pattern [BGBKBKBKGRGKGKGKGKGYGKBKBK](/stripes/bgbkbkbkgrgkgkgkgkgygkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4006
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4006](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4006)
 - Scottish Tartans World Register: 1917
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart Hunting](/setts/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3db3k3/)
-
 
 ## Thread count
 B/16 G4 B16 K4 B4 K4 B4 K8 G22 R4 G22 K8 G4 K18 G4 K18 G4 K8 G22 Y4 G22 K8 B4 K4 B4 K/8

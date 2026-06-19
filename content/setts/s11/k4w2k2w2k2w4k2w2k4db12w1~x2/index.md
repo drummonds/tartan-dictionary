@@ -2,10 +2,9 @@
 title: "Napier"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKWKBW](/stripes/kwkwkwkwkbw/) · **Stripes:** [K W K W K W K W K DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K W K W K W K DB W</span></span>
+In pattern [KWKWKWKWKBW](/stripes/kwkwkwkwkbw/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Napier](/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/)
-
 
 ## Thread count
 K/8 LN4 K4 LN4 K4 LN8 K4 LN4 K8 B24 LN/2

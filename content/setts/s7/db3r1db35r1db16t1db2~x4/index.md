@@ -2,10 +2,9 @@
 title: "Lochaber Old"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBBB](/stripes/brbrbbb/) · **Stripes:** [DB R DB R DB T DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R DB T DB</span></span>
+In pattern [BBBRBRB](/stripes/bbbrbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2166
 

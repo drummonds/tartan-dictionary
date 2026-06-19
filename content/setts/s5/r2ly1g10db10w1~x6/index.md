@@ -2,19 +2,11 @@
 title: "Turnbull Hunting (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RYGBW](/stripes/rygbw/) · **Stripes:** [R LY G DB W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY G DB W</span></span>
+In pattern [RYGBW](/stripes/rygbw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1714/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Turnbull, hunting](/setts/s5/r7ly3g28db28w3~x2/)
-
 
 ## Thread count
 R/12 Y6 G60 DB60 LN/6

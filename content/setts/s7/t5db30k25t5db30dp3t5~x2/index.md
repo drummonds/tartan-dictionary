@@ -2,19 +2,11 @@
 title: "Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBKBBBB](/stripes/bbkbbbb/) · **Stripes:** [T DB K T DB DP T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB K T DB DP T</span></span>
+In pattern [BBBBKBB](/stripes/bbbbkbb/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6717
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Van Loo (Personal)](/setts/s7/t5db30k25t5db30dp2t5~x2/)
-
 
 ## Thread count
 B/10 DB60 K50 B10 DB60 P6 B/10

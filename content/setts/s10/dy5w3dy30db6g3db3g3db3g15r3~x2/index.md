@@ -2,10 +2,9 @@
 title: "Chisholm Hunting #2"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGBGWG](/stripes/rgbgbgbgwg/) · **Stripes:** [R G DB G DB G DB DY W DY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R G DB G DB G DB DY W DY</span></span>
+In pattern [GWGBGBGBGR](/stripes/gwgbgbgbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=641
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=641)
 - Scottish Tartans Authority (ITI): 1458
 - Scottish Tartans World Register: 1458
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Chisholm Hunting Clan Tartan Tartan Number: 1458. Earliest known date: 1906 This is a classic example of the process that began during the late Victorian period when the new analine dyes of the 1860s were considered to be too bright. Subtler forms of the tartan were produced, often replacing the red ground with green or brown. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/)
-
 
 ## Thread count
 T/10 W6 T60 DB12 G6 DB6 G6 DB6 G30 R/6

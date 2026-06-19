@@ -2,10 +2,9 @@
 title: "Caithness Glass (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWYWBW](/stripes/rwywbw/) · **Stripes:** [R W LY W DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W LY W DB W</span></span>
+In pattern [RWYWBW](/stripes/rwywbw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8018/
 

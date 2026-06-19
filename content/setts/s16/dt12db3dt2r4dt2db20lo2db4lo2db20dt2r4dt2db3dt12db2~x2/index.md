@@ -2,10 +2,9 @@
 title: "Stone of Destiny, The"
 date: 2023-03-18
 ---
-**Bands:** [BBBRBBYBYBBRBBBB](/stripes/bbbrbbybybbrbbbb/) · **Stripes:** [DT DB DT R DT DB LO DB LO DB DT R DT DB DT DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">DT DB DT R DT DB LO DB LO DB DT R DT DB DT DB</span></span>
+In pattern [BBBBRBBYBYBBRBBB](/stripes/bbbbrbbybybbrbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3971
 

@@ -2,10 +2,9 @@
 title: "Boring and Dull"
 date: 2023-03-18
 ---
-**Bands:** [KWRWRBRWB](/stripes/kwrwrbrwb/) · **Stripes:** [K W R W R DB R W DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K W R W R DB R W DB</span></span>
+In pattern [BWRBRWRWK](/stripes/bwrbrwrwk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11186/
 

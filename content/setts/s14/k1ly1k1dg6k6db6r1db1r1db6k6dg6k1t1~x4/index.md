@@ -2,10 +2,9 @@
 title: "Malcolm #2"
 date: 2023-03-18
 ---
-**Bands:** [KYKGKBRBRBKGKB](/stripes/kykgkbrbrbkgkb/) · **Stripes:** [K LY K DG K DB R DB R DB K DG K T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LY K DG K DB R DB R DB K DG K T</span></span>
+In pattern [BKGKBRBRBKGKYK](/stripes/bkgkbrbrbkgkyk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2792
 

@@ -2,10 +2,9 @@
 title: "McTear's Auctioneers"
 date: 2023-03-18
 ---
-**Bands:** [KKKBK](/stripes/kkkbk/) · **Stripes:** [K K K DT K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">K K K DT K</span></span>
+In pattern [KBKKK](/stripes/kbkkk/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11434
 

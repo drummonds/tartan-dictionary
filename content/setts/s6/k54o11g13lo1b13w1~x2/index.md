@@ -2,10 +2,9 @@
 title: "Kilmaine Saints (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRGYBW](/stripes/krgybw/) · **Stripes:** [K O G LO B W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K O G LO B W</span></span>
+In pattern [KRGYBW](/stripes/krgybw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10423/
 

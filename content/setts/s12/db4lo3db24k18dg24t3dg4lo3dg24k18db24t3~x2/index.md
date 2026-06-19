@@ -2,10 +2,9 @@
 title: "Scottish Women's Rural Institutes, The"
 date: 2023-03-18
 ---
-**Bands:** [BYBKGBGYGKBB](/stripes/bybkgbgygkbb/) · **Stripes:** [DB LO DB K DG T DG LO DG K DB T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB LO DB K DG T DG LO DG K DB T</span></span>
+In pattern [BBKGYGBGKBYB](/stripes/bbkgygbgkbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3750
 

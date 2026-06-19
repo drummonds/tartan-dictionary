@@ -2,10 +2,9 @@
 title: "Gordon of Abergeldie"
 date: 2023-03-18
 ---
-**Bands:** [RWKBYGYBKW](/stripes/rwkbygybkw/) · **Stripes:** [R W K DP LY DG LY DP K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W K DP LY DG LY DP K W</span></span>
+In pattern [RWKBYGYBKW](/stripes/rwkbygybkw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1462
 

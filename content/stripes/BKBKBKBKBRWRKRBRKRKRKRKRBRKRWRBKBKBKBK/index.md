@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbkbkbkbrwrkrbrkrkrkrkrbrkrwrbkbkbkbk/
 ---
-BKBKBKBKBRWRKRBRKRKRKRKRBRKRWRBKBKBKBK
-
-It is a 38 band tartan.
+It is a 38 stripe tartan.
 
 
 
 ## Colour Sequence
-BKBKBKBKBRWRKRBRKRKRKRKRBRKRWRBKBKBKBK
+
+{{< pat "BKBKBKBKBRWRKRBRKRKRKRKRBRKRWRBKBKBKBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K DB K DB K DB K DB R W R K R DB R K R K R K R K R DB R K R W R DB K DB K DB K DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB K DB R W R K R DB R K R K R K R K R DB R K R W R DB K DB K DB K DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Club World](/setts/s38/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/)|
 |![Club World example sett](/setts/s38/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/sett.png)|
-

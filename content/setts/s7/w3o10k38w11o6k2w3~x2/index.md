@@ -2,10 +2,9 @@
 title: "Phantom"
 date: 2023-03-18
 ---
-**Bands:** [WKRWKRW](/stripes/wkrwkrw/) · **Stripes:** [W K O W K O W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K O W K O W</span></span>
+In pattern [WKRWKRW](/stripes/wkrwkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10050
 

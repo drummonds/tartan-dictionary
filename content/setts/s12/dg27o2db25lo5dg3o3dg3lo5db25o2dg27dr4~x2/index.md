@@ -2,10 +2,9 @@
 title: "Kilkenny, County"
 date: 2023-03-18
 ---
-**Bands:** [GRBYGRGYBRGB](/stripes/grbygrgybrgb/) · **Stripes:** [DG O DB LO DG O DG LO DB O DG DR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG O DB LO DG O DG LO DB O DG DR</span></span>
+In pattern [BGRBYGRGYBRG](/stripes/bgrbygrgybrg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1970
 

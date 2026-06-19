@@ -2,10 +2,9 @@
 title: "Wilson's No.137"
 date: 2023-03-18
 ---
-**Bands:** [RGBKBKBG](/stripes/rgbkbkbg/) · **Stripes:** [R G DP K DP K DP G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DP K DP K DP G</span></span>
+In pattern [GBKBKBGR](/stripes/gbkbkbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4692
 

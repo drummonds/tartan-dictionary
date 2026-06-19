@@ -2,10 +2,9 @@
 title: "Seletar Shipping (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBGBGBYB](/stripes/ybgbgbgbyb/) · **Stripes:** [LY DB G DB G DB G DB LO DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB G DB G DB G DB LO DB</span></span>
+In pattern [BYBGBGBGBY](/stripes/bybgbgbgby/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3922/
 

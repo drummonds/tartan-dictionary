@@ -2,10 +2,9 @@
 title: "Farquharson"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGKBKBKBKGYGKBKBKB](/stripes/bkbkbkgrgkbkbkbkgygkbkbkb/) · **Stripes:** [DB K DB K DB K G R G K DB K DB K DB K G LY G K DB K DB K DB](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G R G K DB K DB K DB K G LY G K DB K DB K DB</span></span>
+In pattern [BKBKBKGRGKBKBKBKGYGKBKBKB](/stripes/bkbkbkgrgkbkbkbkgygkbkbkb/).
 
-
-This was sourced from weddslist.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

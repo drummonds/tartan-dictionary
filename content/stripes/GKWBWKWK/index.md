@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkwbwkwk/
 ---
-GKWBWKWK
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/k21lb2k4lb4do2lb4k13g2~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GKWBWKWK
+
+{{< pat "GKWBWKWK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LB K LB DO LB K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LB K LB DO LB K G</span></span>
 
 | Tartans |
 |---------------|
 | [Anzac (Fashion)](/setts/s8/k21lb2k4lb4do2lb4k13g2~x4/)|
 |![Anzac (Fashion) example sett](/setts/s8/k21lb2k4lb4do2lb4k13g2~x4/sett.png)|
-

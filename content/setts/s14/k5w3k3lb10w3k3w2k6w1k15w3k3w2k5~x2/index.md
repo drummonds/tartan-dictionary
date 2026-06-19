@@ -2,10 +2,9 @@
 title: "Drummond, Grey (Clans Originaux)"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKWKWWKWK](/stripes/kwkwkwkwkwwkwk/) · **Stripes:** [K W K W K W K W K W LB K W K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K W K W K W K W LB K W K</span></span>
+In pattern [KWKWKWKWKWWKWK](/stripes/kwkwkwkwkwwkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=994
 

@@ -2,10 +2,9 @@
 title: "Gemmell of Dumfries & Galloway (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRBWKBRKGBW](/stripes/grbwkbrkgbw/) · **Stripes:** [DG R DB W K B R K DG DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DB W K B R K DG DB W</span></span>
+In pattern [GRBWKBRKGBW](/stripes/grbwkbrkgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1329
 

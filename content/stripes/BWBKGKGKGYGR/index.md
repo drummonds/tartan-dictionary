@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bwbkgkgkgygr/
 ---
-BWBKGKGKGYGR
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-BWBKGKGKGYGR
+
+{{< pat "BWBKGKGKGYGR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R DG LY DG K DG K DG K DP W DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DG LY DG K DG K DG K DP W DP</span></span>
-
-| Tartans |
-|---------------|
-| [Kerby, from the Tennessee Cumberland Basin](/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/)|
-|![Kerby, from the Tennessee Cumberland Basin example sett](/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/sett.png)|
-
-### R G LY G K G K G K DP W DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R G LY G K G K G K DP W DP</span></span>
 
 | Tartans |
 |---------------|
 | [Kerby (Personal)](/setts/s12/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/)|
 |![Kerby (Personal) example sett](/setts/s12/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/sett.png)|
-
+| [Kerby, from the Tennessee Cumberland Basin](/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/)|
+|![Kerby, from the Tennessee Cumberland Basin example sett](/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/sett.png)|

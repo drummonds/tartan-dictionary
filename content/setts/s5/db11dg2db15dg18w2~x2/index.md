@@ -2,10 +2,9 @@
 title: "Hamilton Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGBGW](/stripes/bgbgw/) · **Stripes:** [DB DG DB DG W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DG DB DG W</span></span>
+In pattern [BGBGW](/stripes/bgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1578
 

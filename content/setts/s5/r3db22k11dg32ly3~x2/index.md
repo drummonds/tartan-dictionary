@@ -2,19 +2,11 @@
 title: "Cultoquhey Hotel Corporate Tartan Tartan Number: 3393. Earliest known date: circa1990 Designed by Peter MacDonald as a Cook tartan for the former owners (David & Anna) of the Cultoquhey Hotel near Crieff. When they left, if became the house tartan of the hotel See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBKGY](/stripes/rbkgy/) · **Stripes:** [R DB K DG LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB K DG LY</span></span>
+In pattern [RBKGY](/stripes/rbkgy/).
 
-
-This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3393
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scots Heritage](/setts/s5/r4db14k15dg14ly4~x2/)
-
 
 ## Thread count
 R/6 DB44 K22 DG64 Y/6

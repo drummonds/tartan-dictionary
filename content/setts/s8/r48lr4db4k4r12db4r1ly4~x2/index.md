@@ -2,10 +2,9 @@
 title: "Brodie"
 date: 2023-03-18
 ---
-**Bands:** [RYBKRBRY](/stripes/rybkrbry/) · **Stripes:** [R LR DB K R DB R LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LR DB K R DB R LY</span></span>
+In pattern [RYBKRBRY](/stripes/rybkrbry/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Brodie](/setts/s8/r48lr4db4k4r12db4r1ly4/)
-
 
 ## Thread count
 DR/96 N8 DB8 K8 DR24 DB8 DR2 LG/8

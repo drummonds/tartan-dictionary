@@ -2,10 +2,9 @@
 title: "Manx National"
 date: 2023-03-18
 ---
-**Bands:** [BGRYBBW](/stripes/bgrybbw/) · **Stripes:** [B DG O LY DB T W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B DG O LY DB T W</span></span>
+In pattern [BGRYBBW](/stripes/bgrybbw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2822
 

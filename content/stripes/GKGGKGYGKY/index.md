@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gkggkgygky/
 ---
-GKGGKGYGKY
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GKGGKGYGKY
+
+{{< pat "GKGGKGYGKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K DG LY G K G DG K DG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K DG LY G K G DG K DG</span></span>
 
 | Tartans |
 |---------------|
 | [Pride of Ireland Fashion Tartan Tartan Number: 5157. Earliest known date: 2008 ONLY FOR DISPLAY PURPOSES. Count and sample from Lochcarron Feb. 2008. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dg9k2dg2g13k2g2ly1dg13k26ly2~x2/)|
 |![Pride of Ireland Fashion Tartan Tartan Number: 5157. Earliest known date: 2008 ONLY FOR DISPLAY PURPOSES. Count and sample from Lochcarron Feb. 2008. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/dg9k2dg2g13k2g2ly1dg13k26ly2~x2/sett.png)|
-

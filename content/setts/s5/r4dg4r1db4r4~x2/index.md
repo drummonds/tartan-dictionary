@@ -2,10 +2,9 @@
 title: "Gow"
 date: 2023-03-18
 ---
-**Bands:** [RGRBR](/stripes/rgrbr/) · **Stripes:** [R DG R DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DB R</span></span>
+In pattern [RBRGR](/stripes/rbrgr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -68,15 +67,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gow](/setts/s5/r4dg4r1db4r4~x4/)
-- [Gow](/setts/s5/r4dg4r1db4r4/)
-- [Gow (Portrait)](/setts/s5/r3dg3r1db3r3~x12/)
-
 
 ## Thread count
 R/8 DB8 R2 G8 R/8

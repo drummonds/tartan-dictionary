@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bwbrrykyk/
 ---
-BWBRRYKYK
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BWBRRYKYK
+
+{{< pat "BWBRRYKYK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LY K LY R O DB W DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K LY K LY R O DB W DB</span></span>
 
 | Tartans |
 |---------------|
 | [Lermontov](/setts/s9/k2ly1k2ly8r29o9db24w2db2~x2/)|
 |![Lermontov example sett](/setts/s9/k2ly1k2ly8r29o9db24w2db2~x2/sett.png)|
-

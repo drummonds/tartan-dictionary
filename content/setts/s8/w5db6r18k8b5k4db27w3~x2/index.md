@@ -2,10 +2,9 @@
 title: "Clinton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WBKBKRBW](/stripes/wbkbkrbw/) · **Stripes:** [W DB K B K R DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB K B K R DB W</span></span>
+In pattern [WBKBKRBW](/stripes/wbkbkrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=688
 

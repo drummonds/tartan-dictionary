@@ -2,10 +2,9 @@
 title: "Blackwood (Loch Wood)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBG](/stripes/gbgbgbg/) · **Stripes:** [G DB G DP G B G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB G DP G B G</span></span>
+In pattern [GBGBGBG](/stripes/gbgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10201
 

@@ -2,10 +2,9 @@
 title: "Meredith (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYGYYYYYG](/stripes/ygygygyyyyyg/) · **Stripes:** [LY G LY G LY G LY LY LY LY LY G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G LY G LY G LY LY LY LY LY G</span></span>
+In pattern [GYYYYYGYGYGY](/stripes/gyyyyygygygy/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6167/
 

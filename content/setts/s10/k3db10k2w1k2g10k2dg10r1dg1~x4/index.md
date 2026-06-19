@@ -2,10 +2,9 @@
 title: "Rutledge"
 date: 2023-03-18
 ---
-**Bands:** [KBKWKGKGRG](/stripes/kbkwkgkgrg/) · **Stripes:** [K DB K W K G K DG R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K DB K W K G K DG R DG</span></span>
+In pattern [GRGKGKWKBK](/stripes/grgkgkwkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3623
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3623](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3623)
 - Scottish Tartans Authority (ITI): 4019
 - Scottish Tartans World Register: 2802
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rutledge (Name)](/setts/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/)
-
 
 ## Thread count
 K/12 DB40 K8 LN4 K8 G40 K8 DG40 R4 DG/4

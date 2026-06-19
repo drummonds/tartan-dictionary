@@ -2,10 +2,9 @@
 title: "Blue Toon (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YYBYBBYBWBB](/stripes/yybybbybwbb/) · **Stripes:** [LY LG DT LG T DT LR DT W DT T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY LG DT LG T DT LR DT W DT T</span></span>
+In pattern [BBWBYBBYBYY](/stripes/bbwbybbybyy/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6861/
 

@@ -2,10 +2,9 @@
 title: "Prince of Wales (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGWGW](/stripes/grgrgrgwgw/) · **Stripes:** [DG R DG R DG R DG W DG W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DG R DG R DG W DG W</span></span>
+In pattern [GRGRGRGWGW](/stripes/grgrgrgwgw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3306/
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3396](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3396)
 - Scottish Tartans Authority (ITI): 3306
 - Scottish Tartans World Register: 2715
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rothesay Hunting Family Tartan Tartan Number: 984. Earliest known date: 1906 One of the 'Dress' and 'Hunting' versions of clan tartans introduced for the first time in 1906 by H. Whyte's and others, 'The Tartans of the Clans and Septs of Scotland' published by W & A. K. Johnston, Edinburgh. The book contains over 200 tartans and is the fore-runner of Johnston's annual pocket editions. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dg4r16dg4r2dg3r2dg32w2dg2w3~x2/)
-
 
 ## Thread count
 G/12 R24 G8 R4 G8 R4 G64 LN4 G8 LN/12

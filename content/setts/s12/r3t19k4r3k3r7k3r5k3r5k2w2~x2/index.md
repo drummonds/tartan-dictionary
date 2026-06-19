@@ -2,10 +2,9 @@
 title: "Duchess of Kent"
 date: 2023-03-18
 ---
-**Bands:** [RBKRKRKRKRKW](/stripes/rbkrkrkrkrkw/) · **Stripes:** [R T K R K R K R K R K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R T K R K R K R K R K W</span></span>
+In pattern [RBKRKRKRKRKW](/stripes/rbkrkrkrkrkw/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

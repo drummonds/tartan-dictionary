@@ -2,10 +2,9 @@
 title: "Martin Family, Robert N (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GWBWB](/stripes/gwbwb/) · **Stripes:** [G W DR W DR](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="seq">G W DR W DR</span></span>
+In pattern [BWBWG](/stripes/bwbwg/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10481
 

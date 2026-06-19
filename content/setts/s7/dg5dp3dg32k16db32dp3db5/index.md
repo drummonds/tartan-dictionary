@@ -2,10 +2,9 @@
 title: "MacThomas LC"
 date: 2023-03-18
 ---
-**Bands:** [GBGKBBB](/stripes/gbgkbbb/) · **Stripes:** [DG DP DG K DB DP DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DP DG K DB DP DB</span></span>
+In pattern [BBBKGBG](/stripes/bbbkgbg/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,10 +2,9 @@
 title: "Purdy Black (Illinois)"
 date: 2023-03-18
 ---
-**Bands:** [KWWKWWKWWKWWKWKWW](/stripes/kwwkwwkwwkwwkwkww/) · **Stripes:** [K W LP K W LP K W LP K W LP K W K W LP](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">K W LP K W LP K W LP K W LP K W K W LP</span></span>
+In pattern [KWWKWWKWWKWWKWKWW](/stripes/kwwkwwkwwkwwkwkww/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10587
 

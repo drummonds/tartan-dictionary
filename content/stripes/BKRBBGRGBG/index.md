@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkrbbgrgbg/
 ---
-BKRBBGRGBG
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BKRBBGRGBG
+
+{{< pat "BKRBBGRGBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G T G R G DB T R K T <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G T G R G DB T R K T</span></span>
 
 | Tartans |
 |---------------|
 | [Downie (Name)](/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/)|
 |![Downie (Name) example sett](/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/sett.png)|
-

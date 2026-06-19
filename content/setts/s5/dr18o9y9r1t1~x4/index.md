@@ -2,10 +2,9 @@
 title: "Jardine"
 date: 2023-03-18
 ---
-**Bands:** [BRGRB](/stripes/brgrb/) · **Stripes:** [DR O Y R T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">DR O Y R T</span></span>
+In pattern [BRGRB](/stripes/brgrb/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

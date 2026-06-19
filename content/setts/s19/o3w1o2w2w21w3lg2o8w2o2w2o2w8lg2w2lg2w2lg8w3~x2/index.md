@@ -2,10 +2,9 @@
 title: "Beaufort (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWWWYRWRWRWYWYWYW](/stripes/rwrwwwyrwrwrwywywyw/) · **Stripes:** [O W O W W W LG O W O W O W LG W LG W LG W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O W O W W W LG O W O W O W LG W LG W LG W</span></span>
+In pattern [RWRWWWYRWRWRWYWYWYW](/stripes/rwrwwwyrwrwrwywywyw/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3669/
 

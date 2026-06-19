@@ -2,10 +2,9 @@
 title: "Orkney Heather"
 date: 2023-03-18
 ---
-**Bands:** [BBRBKBKWBWRBWB](/stripes/bbrbkbkwbwrbwb/) · **Stripes:** [N DB M N K N K LP DB LP M DB LP DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="seq">N DB M N K N K LP DB LP M DB LP DB</span></span>
+In pattern [BBRBKBKWBWRBWB](/stripes/bbrbkbkwbwrbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11138
 

@@ -2,10 +2,9 @@
 title: "Strathgaela"
 date: 2023-03-18
 ---
-**Bands:** [GBGRRBGRRRRRRRGBRRGBGB](/stripes/gbgrrbgrrrrrrrgbrrgbgb/) · **Stripes:** [DG DB DG O M DB DG M R M R M R M DG DB M O DG DB DG DP](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DB DG O M DB DG M R M R M R M DG DB M O DG DB DG DP</span></span>
+In pattern [BGBGRRBGRRRRRRRGBRRGBG](/stripes/bgbgrrbgrrrrrrrgbrrgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3985
 

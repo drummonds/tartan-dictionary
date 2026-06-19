@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/kbkbkbwbkbwryrwbk/
 ---
-KBKBKBWBKBWRYRWBK
-
-It is a 17 band tartan.
+It is a 17 stripe tartan.
 
 
 
 ## Colour Sequence
-KBKBKBWBKBWRYRWBK
+
+{{< pat "KBKBKBWBKBWRYRWBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K T K T K T W T K T W R LY R W T K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K T K T K T W T K T W R LY R W T K</span></span>
 
 | Tartans |
 |---------------|
 | [Beck Dress (Personal)](/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/)|
 |![Beck Dress (Personal) example sett](/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Blue"
 date: 2023-03-18
 ---
-**Bands:** [RBRBBBW](/stripes/rbrbbbw/) · **Stripes:** [R DB R DB T DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB R DB T DB W</span></span>
+In pattern [RBRBBBW](/stripes/rbrbbbw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

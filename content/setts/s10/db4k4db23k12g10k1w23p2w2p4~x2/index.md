@@ -2,10 +2,9 @@
 title: "Baird, dress"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKWBWB](/stripes/bkbkgkwbwb/) · **Stripes:** [DB K DB K G K W P W P](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">DB K DB K G K W P W P</span></span>
+In pattern [BKBKGKWBWB](/stripes/bkbkgkwbwb/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

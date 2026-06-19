@@ -2,10 +2,9 @@
 title: "Derick Wardrope (Portobello) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGKGKBKBW](/stripes/bgkgkbkbw/) · **Stripes:** [DR DG K DG K DB K DR W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DR DG K DG K DB K DR W</span></span>
+In pattern [BGKGKBKBW](/stripes/bgkgkbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10832
 

@@ -2,10 +2,9 @@
 title: "Scotland's International - Away (Fas"
 date: 2023-03-18
 ---
-**Bands:** [RRKWKYKWBW](/stripes/rrkwkykwbw/) · **Stripes:** [R R K W K LY K LB DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R R K W K LY K LB DB W</span></span>
+In pattern [RRKWKYKWBW](/stripes/rrkwkykwbw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7841/
 

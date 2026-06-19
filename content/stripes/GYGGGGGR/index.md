@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gygggggr/
 ---
-GYGGGGGR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/dy13ly3dy13dg23dy16dy13dy23r5~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GYGGGGGR
+
+{{< pat "GYGGGGGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DY DY DY DG DY LY DY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DY DY DY DG DY LY DY</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified #40](/setts/s8/dy13ly3dy13dg23dy16dy13dy23r5~x2/)|
 |![Unidentified #40 example sett](/setts/s8/dy13ly3dy13dg23dy16dy13dy23r5~x2/sett.png)|
-

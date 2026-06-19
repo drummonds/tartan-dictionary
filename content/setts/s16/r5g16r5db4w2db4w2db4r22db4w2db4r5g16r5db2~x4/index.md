@@ -2,10 +2,9 @@
 title: "Chisholm"
 date: 2023-03-18
 ---
-**Bands:** [RGRBWBWBRBWBRGRB](/stripes/rgrbwbwbrbwbrgrb/) · **Stripes:** [R G R DB W DB W DB R DB W DB R G R DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R DB W DB W DB R DB W DB R G R DB</span></span>
+In pattern [BRGRBWBRBWBWBRGR](/stripes/brgrbwbrbwbwbrgr/).
 
-
-This was sourced from logan-1831.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from logan-1831.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link /posts/logans-scottish-gael/
 

@@ -2,20 +2,11 @@
 title: "Murray of Ochtertyre #2"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKR](/stripes/krkrkrkr/) · **Stripes:** [K R K R K R K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R K R K R</span></span>
+In pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8415/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLeod #2](/setts/s8/k12r3k2r16k8r12k2r3~x2/)
-- [Menzies Hunting](/setts/s8/k48r4k2r4k6r2k3r9~x2/)
-
 
 ## Thread count
 K/60 R6 K4 R6 K4 R54 K60 R/8

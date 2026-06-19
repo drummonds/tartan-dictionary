@@ -2,10 +2,9 @@
 title: "Moncrieffe Athol"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGRGKGKGKG](/stripes/rkgkgrgkgkgkg/) · **Stripes:** [R K G K G R G K G K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K G K G R G K G K G K G</span></span>
+In pattern [GKGKGKGRGKGKR](/stripes/gkgkgkgrgkgkr/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Moncrieffe (1998)](/setts/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/)
-
 
 ## Thread count
 G/40 K6 G6 K6 G6 K36 G42 R8 G42 K36 G38 K4 R/8

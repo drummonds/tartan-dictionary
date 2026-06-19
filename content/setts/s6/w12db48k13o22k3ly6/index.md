@@ -2,10 +2,9 @@
 title: "Clunie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKRKBW](/stripes/ykrkbw/) · **Stripes:** [LY K O K DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K O K DB W</span></span>
+In pattern [WBKRKY](/stripes/wbkrky/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=691
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [691](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=691)
 - Scottish Tartans Authority (ITI): 6708
 - Scottish Tartans World Register: 2933
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clunie (Name)](/setts/s6/w6db24k7o11k2ly6~x2/)
-
 
 ## Thread count
 W/12 DB48 K13 N22 K3 Y/6

@@ -2,10 +2,9 @@
 title: "Unidentified, 18th C plain weave"
 date: 2023-03-18
 ---
-**Bands:** [RWGRBRGRBRGYGRGRBRWGRBRGRBRGYGRBRB](/stripes/rwgrbrgrbrgygrgrbrwgrbrgrbrgygrbrb/) · **Stripes:** [R W G R DB R G R DB R G LY G R G R DB R W G R DB R G R DB R G LY G R DB R DB](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W G R DB R G R DB R G LY G R G R DB R W G R DB R G R DB R G LY G R DB R DB</span></span>
+In pattern [BRBRGYGRBRGRBRGWRBRGRGYGRBRGRBRGWR](/stripes/brbrgygrbrgrbrgwrbrgrgygrbrgrbrgwr/).
 
-
-This was sourced from weddslist.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,19 +2,11 @@
 title: "MacPherson Dress, Blue (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [YKWKWRW](/stripes/ykwkwrw/) · **Stripes:** [LY K W K W R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K W K W R W</span></span>
+In pattern [WRWKWKY](/stripes/wrwkwky/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6539/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson Dress (1842)](/setts/s7/w3r1w30k20w3k9ly1~x2/)
-
 
 ## Thread count
 LN/10 DR6 LN52 K42 LN6 K16 Y/6

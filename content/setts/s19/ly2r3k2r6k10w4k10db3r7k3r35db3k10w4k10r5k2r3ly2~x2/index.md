@@ -2,10 +2,9 @@
 title: "Cornish Brewery, Red"
 date: 2023-03-18
 ---
-**Bands:** [YRKRKWKBRKRBKWKRKRY](/stripes/yrkrkwkbrkrbkwkrkry/) · **Stripes:** [LY R K R K W K DB R K R DB K W K R K R LY](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY R K R K W K DB R K R DB K W K R K R LY</span></span>
+In pattern [YRKRKWKBRKRBKWKRKRY](/stripes/yrkrkwkbrkrbkwkrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=762
 

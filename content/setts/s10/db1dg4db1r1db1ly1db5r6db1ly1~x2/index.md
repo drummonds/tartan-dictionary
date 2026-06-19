@@ -2,10 +2,9 @@
 title: "Unidentified Specimen #3"
 date: 2023-03-18
 ---
-**Bands:** [YBRBYBRBGB](/stripes/ybrbybrbgb/) · **Stripes:** [LY DB R DB LY DB R DB DG DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB LY DB R DB DG DB</span></span>
+In pattern [BGBRBYBRBY](/stripes/bgbrbybrby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4388
 

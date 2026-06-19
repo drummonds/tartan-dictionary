@@ -2,10 +2,9 @@
 title: "MacLaurin of Brioch"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGKB](/stripes/ykgrgkb/) · **Stripes:** [LY K DG R DG K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K DG R DG K DB</span></span>
+In pattern [BKGRGKY](/stripes/bkgrgky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2600
 
@@ -22,14 +21,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2600](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2600)
 - Scottish Tartans Authority (ITI): 344
 - Scottish Tartans World Register: 344
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLaren](/setts/s7/db24k8dg8r2dg8k1ly2/)
-- [MacLaren](/setts/s7/db24k8dg8r2dg8k1ly2~x2/)
-
 
 ## Thread count
 B/72 K20 G6 R6 G12 K2 Y/4

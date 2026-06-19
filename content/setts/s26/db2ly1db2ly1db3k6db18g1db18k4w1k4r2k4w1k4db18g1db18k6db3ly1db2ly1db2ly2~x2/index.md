@@ -2,10 +2,9 @@
 title: "Wupper"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBKBGBKWKRKWKBGBKBYBYB](/stripes/ybybybkbgbkwkrkwkbgbkbybyb/) · **Stripes:** [LY DB LY DB LY DB K DB G DB K W K R K W K DB G DB K DB LY DB LY DB](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB LY DB LY DB K DB G DB K W K R K W K DB G DB K DB LY DB LY DB</span></span>
+In pattern [BYBYBKBGBKWKRKWKBGBKBYBYBY](/stripes/bybybkbgbkwkrkwkbgbkbybyby/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4786
 

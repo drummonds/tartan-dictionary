@@ -2,10 +2,9 @@
 title: "Goddin mab Gododdin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYBGGYBY](/stripes/rybggyby/) · **Stripes:** [R LO DT DY G LO DP LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LO DT DY G LO DP LO</span></span>
+In pattern [RYBGGYBY](/stripes/rybggyby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1442
 

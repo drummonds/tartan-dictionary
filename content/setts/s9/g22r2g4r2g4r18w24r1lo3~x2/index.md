@@ -2,10 +2,9 @@
 title: "Prince Edward Island, Dress"
 date: 2023-03-18
 ---
-**Bands:** [YRWRGRGRG](/stripes/yrwrgrgrg/) · **Stripes:** [LO R W R G R G R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO R W R G R G R G</span></span>
+In pattern [GRGRGRWRY](/stripes/grgrgrwry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3390
 

@@ -2,10 +2,9 @@
 title: "Dollar Academy (1999)"
 date: 2023-03-18
 ---
-**Bands:** [KBGKBKBW](/stripes/kbgkbkbw/) · **Stripes:** [K DB G K DT K DT LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K DB G K DT K DT LB</span></span>
+In pattern [KBGKBKBW](/stripes/kbgkbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=946
 

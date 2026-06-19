@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbrbr/
 ---
-BBBRBR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/dt3t14dt3o16dt34r3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BBBRBR
+
+{{< pat "BBBRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DT O DT T DT <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT O DT T DT</span></span>
 
 | Tartans |
 |---------------|
 | [Thorburn (Lochcarron)](/setts/s6/dt3t14dt3o16dt34r3~x2/)|
 |![Thorburn (Lochcarron) example sett](/setts/s6/dt3t14dt3o16dt34r3~x2/sett.png)|
-

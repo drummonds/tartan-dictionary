@@ -2,10 +2,9 @@
 title: "Purdy Black (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KWBKWBKWBKWBKWKWB](/stripes/kwbkwbkwbkwbkwkwb/) · **Stripes:** [K W DP K W DP K W DP K W DP K W K W DP](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K W DP K W DP K W DP K W DP K W K W DP</span></span>
+In pattern [BWKWKBWKBWKBWKBWK](/stripes/bwkwkbwkbwkbwkbwk/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10587/
 

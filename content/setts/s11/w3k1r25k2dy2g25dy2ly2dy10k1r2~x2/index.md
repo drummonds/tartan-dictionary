@@ -2,10 +2,9 @@
 title: "Bicknell, The Hamish (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGYGGGKRKW](/stripes/rkgygggkrkw/) · **Stripes:** [R K DY LY DY G DY K R K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K DY LY DY G DY K R K W</span></span>
+In pattern [RKGYGGGKRKW](/stripes/rkgygggkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10206
 

@@ -2,10 +2,9 @@
 title: "New York State Police Pipe Band"
 date: 2023-03-18
 ---
-**Bands:** [RBRKY](/stripes/rbrky/) · **Stripes:** [O DP O K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O DP O K LY</span></span>
+In pattern [RBRKY](/stripes/rbrky/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3122
 

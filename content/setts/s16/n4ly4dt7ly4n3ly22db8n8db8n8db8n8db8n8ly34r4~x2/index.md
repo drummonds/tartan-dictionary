@@ -2,10 +2,9 @@
 title: "Perry Golf"
 date: 2023-03-18
 ---
-**Bands:** [RYBBBBBBBBYBYBYB](/stripes/rybbbbbbbbybybyb/) · **Stripes:** [R LY N DB N DB N DB N DB LY N LY DT LY N](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="seq">R LY N DB N DB N DB N DB LY N LY DT LY N</span></span>
+In pattern [BYBYBYBBBBBBBBYR](/stripes/bybybybbbbbbbbyr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3322
 

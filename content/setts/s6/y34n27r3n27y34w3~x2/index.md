@@ -2,10 +2,9 @@
 title: "London Regiment (Military)"
 date: 2023-03-18
 ---
-**Bands:** [GBRBGW](/stripes/gbrbgw/) · **Stripes:** [Y N R N Y W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y N R N Y W</span></span>
+In pattern [GBRBGW](/stripes/gbrbgw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6097/
 

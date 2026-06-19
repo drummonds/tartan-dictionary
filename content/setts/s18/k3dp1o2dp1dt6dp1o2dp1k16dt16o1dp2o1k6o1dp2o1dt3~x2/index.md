@@ -2,10 +2,9 @@
 title: "Asile"
 date: 2023-03-18
 ---
-**Bands:** [KBRBBBRBKBRBRKRBRB](/stripes/kbrbbbrbkbrbrkrbrb/) · **Stripes:** [K DP O DP DT DP O DP K DT O DP O K O DP O DT](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">K DP O DP DT DP O DP K DT O DP O K O DP O DT</span></span>
+In pattern [BRBRKRBRBKBRBBBRBK](/stripes/brbrkrbrbkbrbbbrbk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11385
 

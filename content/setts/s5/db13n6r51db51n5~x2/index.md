@@ -2,10 +2,9 @@
 title: "Hillsdale (Corporate?)"
 date: 2023-03-18
 ---
-**Bands:** [BBRBB](/stripes/bbrbb/) · **Stripes:** [DB N R DB N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">DB N R DB N</span></span>
+In pattern [BBRBB](/stripes/bbrbb/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8030/
 

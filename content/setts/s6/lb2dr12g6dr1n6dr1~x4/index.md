@@ -2,10 +2,9 @@
 title: "Fraser Green"
 date: 2023-03-18
 ---
-**Bands:** [BBBGBW](/stripes/bbbgbw/) · **Stripes:** [DR N DR G DR LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DR N DR G DR LB</span></span>
+In pattern [BBBGBW](/stripes/bbbgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1257
 

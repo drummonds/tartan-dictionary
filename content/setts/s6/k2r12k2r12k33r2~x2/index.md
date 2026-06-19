@@ -2,10 +2,9 @@
 title: "Cameron Black & Red (Dress)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKR](/stripes/krkrkr/) · **Stripes:** [K R K R K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R K R</span></span>
+In pattern [KRKRKR](/stripes/krkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=491
 
@@ -29,18 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [491](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=491)
 - Scottish Tartans Authority (ITI): 1186
 - Scottish Tartans World Register: 1186
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Aragon (Erskine)](/setts/s6/k6r1k24r28k1r4~x2/)
-- [Cameron, Black & Red (dress)](/setts/s6/k1r4k1r4k13r1~x4/)
-- [Erskine (Paton)](/setts/s6/k31r4k47r47k4r31~x2/)
-- [Erskine, Black & Red (Clan)](/setts/s6/k6r3k28r28k3r6~x2/)
-- [Ewing](/setts/s6/k23r3k1r12~x4/)
-- [The Mary Erskine](/setts/s6/k3r1k16r16k1r3~x4/)
-
 
 ## Thread count
 K/4 DR24 K4 DR24 K66 DR/4

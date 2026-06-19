@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/grgrwbwgr/
 ---
-GRGRWBWGR
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-GRGRWBWGR
+
+{{< pat "GRGRWBWGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R G W DB W R G R G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G W DB W R G R G</span></span>
 
 | Tartans |
 |---------------|
 | [Christmas Morning](/setts/s9/g3r12g15r2w1db30w1g2r2~x2/)|
 |![Christmas Morning example sett](/setts/s9/g3r12g15r2w1db30w1g2r2~x2/sett.png)|
-

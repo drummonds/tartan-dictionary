@@ -2,10 +2,9 @@
 title: "Fiddes"
 date: 2023-03-18
 ---
-**Bands:** [GRBRRBGB](/stripes/grbrrbgb/) · **Stripes:** [DG R DP R R DP DG DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG R DP R R DP DG DP</span></span>
+In pattern [BGBRRBRG](/stripes/bgbrrbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1174
 

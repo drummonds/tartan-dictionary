@@ -2,10 +2,9 @@
 title: "MacDonald of Staffa 5"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRGKGKRGRGRGKRWRGWGRGR](/stripes/rgrgrgrgrgkgkrgrgrgkrwrgwgrgr/) · **Stripes:** [R G R G R G R G R G K G K R G R G R G K R W R G W G R G R](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R G R G R G K G K R G R G R G K R W R G W G R G R</span></span>
+In pattern [RGRGRGRGRGKGKRGRGRGKRWRGWGRGR](/stripes/rgrgrgrgrgkgkrgrgrgkrwrgwgrgr/).
 
-
-This was sourced from weddslist.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

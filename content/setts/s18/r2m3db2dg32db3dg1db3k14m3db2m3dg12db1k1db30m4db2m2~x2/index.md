@@ -2,10 +2,9 @@
 title: "Cooper/Couper"
 date: 2023-03-18
 ---
-**Bands:** [RRBGBGBKRBRGBKBRBR](/stripes/rrbgbgbkrbrgbkbrbr/) · **Stripes:** [R M DB DG DB DG DB K M DB M DG DB K DB M DB M](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="seq">R M DB DG DB DG DB K M DB M DG DB K DB M DB M</span></span>
+In pattern [RBRBKBGRBRKBGBGBRR](/stripes/rbrbkbgrbrkbgbgbrr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=753
 

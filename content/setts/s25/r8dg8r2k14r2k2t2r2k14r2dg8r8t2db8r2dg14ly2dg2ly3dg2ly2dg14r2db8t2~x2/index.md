@@ -2,10 +2,9 @@
 title: "Gordonstoun (1957)"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRKBRKRGRBBRGYGYGYGRBB](/stripes/rgrkrkbrkrgrbbrgygygygrbb/) · **Stripes:** [R DG R K R K T R K R DG R T DB R DG LY DG LY DG LY DG R DB T](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG R K R K T R K R DG R T DB R DG LY DG LY DG LY DG R DB T</span></span>
+In pattern [BBRGYGYGYGRBBRGRKRBKRKRGR](/stripes/bbrgygygygrbbrgrkrbkrkrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1470
 

@@ -2,10 +2,9 @@
 title: "Rothesay (Red)"
 date: 2023-03-18
 ---
-**Bands:** [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/) · **Stripes:** [W R G R G R G R G R G R G R W R W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R G R G R G R G R G R G R W R W</span></span>
+In pattern [WRGRGRGRGRGRGRWRW](/stripes/wrgrgrgrgrgrgrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3573
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3573](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3573)
 - Scottish Tartans Authority (ITI): 1533
 - Scottish Tartans World Register: 1533
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rothesay, Duke of](/setts/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/)
-
 
 ## Thread count
 W/8 R83 G7 R5 G7 R7 G28 R7 G28 R7 G7 R5 G7 R83 W4 R4 W/8

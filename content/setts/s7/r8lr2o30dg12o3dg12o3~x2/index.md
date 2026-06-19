@@ -2,10 +2,9 @@
 title: "Wasko (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYRGRGR](/stripes/ryrgrgr/) · **Stripes:** [R LR O DG O DG O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R LR O DG O DG O</span></span>
+In pattern [RGRGRYR](/stripes/rgrgryr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3908/
 

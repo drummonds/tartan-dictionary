@@ -2,10 +2,9 @@
 title: "Murray of Abercairney (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGKRRGRGB](/stripes/bgkrrgrgb/) · **Stripes:** [T Y K R R DG R Y T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="seq">T Y K R R DG R Y T</span></span>
+In pattern [BGKRRGRGB](/stripes/bgkrrgrgb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3060
 

@@ -2,10 +2,9 @@
 title: "Unidentified 2"
 date: 2023-03-18
 ---
-**Bands:** [RRBGGRYR](/stripes/rrbggryr/) · **Stripes:** [R O DR DY G O LY O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O DR DY G O LY O</span></span>
+In pattern [RRBGGRYR](/stripes/rrbggryr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

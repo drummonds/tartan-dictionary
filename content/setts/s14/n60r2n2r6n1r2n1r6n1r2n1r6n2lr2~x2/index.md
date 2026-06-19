@@ -2,10 +2,9 @@
 title: "Abaco Loyalist"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRBRBRBRBRB](/stripes/ybrbrbrbrbrbrb/) · **Stripes:** [LR N R N R N R N R N R N R N](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">LR N R N R N R N R N R N R N</span></span>
+In pattern [BRBRBRBRBRBRBY](/stripes/brbrbrbrbrbrby/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10257
 

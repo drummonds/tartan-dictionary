@@ -2,10 +2,9 @@
 title: "MacDonald of Glenaladale #2"
 date: 2023-03-18
 ---
-**Bands:** [RRBRGRBBRGRRG](/stripes/rrbrgrbbrgrrg/) · **Stripes:** [R R DB R DG R DB T R DG R R DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R R DB R DG R DB T R DG R R DG</span></span>
+In pattern [GRRGRBBRGRBRR](/stripes/grrgrbbrgrbrr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2359
 

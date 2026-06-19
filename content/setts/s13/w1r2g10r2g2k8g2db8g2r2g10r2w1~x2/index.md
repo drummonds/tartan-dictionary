@@ -2,10 +2,9 @@
 title: "Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WRGRGKGBGRGRW](/stripes/wrgrgkgbgrgrw/) · **Stripes:** [W R G R G K G DB G R G R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R G R G K G DB G R G R W</span></span>
+In pattern [WRGRGBGKGRGRW](/stripes/wrgrgbgkgrgrw/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2066
 
@@ -14,13 +13,6 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 This cloth is also recorded under:
 
 - Reid, Green
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Reid, Green](/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/)
-
 
 ## Thread count
 LN/2 R4 G20 R4 G4 K16 G4 DB16 G4 R4 G20 R4 LN/2

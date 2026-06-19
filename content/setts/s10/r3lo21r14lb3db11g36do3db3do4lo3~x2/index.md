@@ -2,10 +2,9 @@
 title: "State Seal of Florida (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYRWBGBBBY](/stripes/ryrwbgbbby/) · **Stripes:** [R LO R LB DB G DO DB DO LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LO R LB DB G DO DB DO LO</span></span>
+In pattern [RYRWBGBBBY](/stripes/ryrwbgbbby/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8623/
 

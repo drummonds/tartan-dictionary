@@ -2,10 +2,9 @@
 title: "Caithelyn (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKGKGKBKWKB](/stripes/kbkgkgkgkbkwkb/) · **Stripes:** [K DP K G K G K G K DP K W K DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K G K G K G K DP K W K DP</span></span>
+In pattern [BKWKBKGKGKGKBK](/stripes/bkwkbkgkgkgkbk/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3252/
 

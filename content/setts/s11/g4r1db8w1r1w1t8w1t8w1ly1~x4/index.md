@@ -2,19 +2,11 @@
 title: "Texas Bluebonnet District Tartan Tartan Number: 852. Earliest known date: 1983 The colours of the Texas Bluebonnet district tartan owe their selection to the bluebonnet flower, a member of the lupin family, which is widespread in many parts of Texas. The flower changes colour with the passing of time, the 'brim' becoming flecked with wine red. The tartan was adopted as the Sequicentennial Tartan and Accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YWBWBWRWBRG](/stripes/ywbwbwrwbrg/) · **Stripes:** [LY W T W T W R W DB R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY W T W T W R W DB R G</span></span>
+In pattern [GRBWRWBWBWY](/stripes/grbwrwbwbwy/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=852
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Texas Blue Bonnet](/setts/s11/g5r1db10w1r1w1t10w1t10w1ly1~x4/)
-
 
 ## Thread count
 G/16 R4 DB32 LN4 R4 LN4 B32 LN4 B32 LN4 Y/4

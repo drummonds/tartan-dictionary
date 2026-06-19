@@ -2,10 +2,9 @@
 title: "Town of Petawawa"
 date: 2023-03-18
 ---
-**Bands:** [YBWBKYBWG](/stripes/ybwbkybwg/) · **Stripes:** [LO DP W DB K LO DB W DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DP W DB K LO DB W DG</span></span>
+In pattern [GWBYKBWBY](/stripes/gwbykbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11483
 

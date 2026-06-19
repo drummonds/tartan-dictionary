@@ -2,10 +2,9 @@
 title: "Munro"
 date: 2023-03-18
 ---
-**Bands:** [RYBRGRBYRBRYBRGRG](/stripes/rybrgrbyrbrybrgrg/) · **Stripes:** [R LY DB R DG R DB LY R DB R LY DB R DG R DG](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R LY DB R DG R DB LY R DB R LY DB R DG R DG</span></span>
+In pattern [GRGRBYRBRYBRGRBYR](/stripes/grgrbyrbrybrgrbyr/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,10 +2,9 @@
 title: "Westwood (Fashion?)"
 date: 2023-03-18
 ---
-**Bands:** [RYKWKYGBRW](/stripes/rykwkygbrw/) · **Stripes:** [R LO K W K LO DG T R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LO K W K LO DG T R W</span></span>
+In pattern [RYKWKYGBRW](/stripes/rykwkygbrw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3895/
 

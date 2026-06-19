@@ -2,10 +2,9 @@
 title: "Agua"
 date: 2023-03-18
 ---
-**Bands:** [WRBRBW](/stripes/wrbrbw/) · **Stripes:** [LT R DB R DB LT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LT R DB R DB LT</span></span>
+In pattern [WBRBRW](/stripes/wbrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10620
 

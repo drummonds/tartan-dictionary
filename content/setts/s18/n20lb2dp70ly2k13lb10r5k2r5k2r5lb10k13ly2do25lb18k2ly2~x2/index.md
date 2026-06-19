@@ -2,10 +2,9 @@
 title: "Unnamed C19th"
 date: 2023-03-18
 ---
-**Bands:** [YKWBYKWRKRKRWKYBWB](/stripes/ykwbykwrkrkrwkybwb/) · **Stripes:** [LY K LB DO LY K LB R K R K R LB K LY DP LB N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">LY K LB DO LY K LB R K R K R LB K LY DP LB N</span></span>
+In pattern [BWBYKWRKRKRWKYBWKY](/stripes/bwbykwrkrkrwkybwky/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4424
 

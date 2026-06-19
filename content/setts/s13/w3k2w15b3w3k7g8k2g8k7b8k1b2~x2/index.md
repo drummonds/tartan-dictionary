@@ -2,10 +2,9 @@
 title: "Campbell, 42nd Dress (Balhousie)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKWBWKW](/stripes/bkbkgkgkwbwkw/) · **Stripes:** [B K B K G K G K W B W K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B K B K G K G K W B W K W</span></span>
+In pattern [BKBKGKGKWBWKW](/stripes/bkbkgkgkwbwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=531
 

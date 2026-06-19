@@ -2,10 +2,9 @@
 title: "Maxem Eyewear"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKGKBGBKWKBKG](/stripes/kbkgkgkbgbkwkbkg/) · **Stripes:** [K DO K Y K Y K DO Y DO K W K DO K Y](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K DO K Y K Y K DO Y DO K W K DO K Y</span></span>
+In pattern [GKBKWKBGBKGKGKBK](/stripes/gkbkwkbgbkgkgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10093
 

@@ -2,10 +2,9 @@
 title: "Tailor Ishida, Kobe"
 date: 2023-03-18
 ---
-**Bands:** [YRGBW](/stripes/yrgbw/) · **Stripes:** [LG R G N W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG R G N W</span></span>
+In pattern [WBGRY](/stripes/wbgry/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11042/
 

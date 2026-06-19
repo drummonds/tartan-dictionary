@@ -2,10 +2,9 @@
 title: "Hsu (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YWGB](/stripes/ywgb/) · **Stripes:** [LY W G DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY W G DB</span></span>
+In pattern [BGWY](/stripes/bgwy/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10496/
 

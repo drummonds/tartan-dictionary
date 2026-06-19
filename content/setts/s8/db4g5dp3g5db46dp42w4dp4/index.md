@@ -2,10 +2,9 @@
 title: "Clans of Caledonia"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBBWB](/stripes/bgbgbbwb/) · **Stripes:** [DB G DP G DB DP W DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB G DP G DB DP W DP</span></span>
+In pattern [BGBGBBWB](/stripes/bgbgbbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=662
 

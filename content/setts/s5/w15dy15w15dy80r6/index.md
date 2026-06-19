@@ -2,19 +2,11 @@
 title: "Coca Cola (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGWGW](/stripes/rgwgw/) · **Stripes:** [R DY W DY W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DY W DY W</span></span>
+In pattern [RGWGW](/stripes/rgwgw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7525/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Coca Cola](/setts/s5/w7dy7w7dy40r3~x2/)
-
 
 ## Thread count
 LN/15 T15 LN15 T80 R/6

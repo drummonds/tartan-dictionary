@@ -2,10 +2,9 @@
 title: "Highlander, Highland Laddie Kilts"
 date: 2023-03-18
 ---
-**Bands:** [KRGBW](/stripes/krgbw/) · **Stripes:** [K M G DB W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K M G DB W</span></span>
+In pattern [KRGBW](/stripes/krgbw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

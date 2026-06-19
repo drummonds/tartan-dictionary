@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbbbyrygbgbg/
 ---
-BBBBBYRYGBGBG
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-BBBBBYRYGBGBG
+
+{{< pat "BBBBBYRYGBGBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### Y DB Y DB Y LR R LR N DB N DB N <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">Y DB Y DB Y LR R LR N DB N DB N</span></span>
 
 | Tartans |
 |---------------|
 | [McCulloch, Grant (Personal)](/setts/s13/n6db1n1db1n3lr2r1lr2y3db1y1db1y6~x4/)|
 |![McCulloch, Grant (Personal) example sett](/setts/s13/n6db1n1db1n3lr2r1lr2y3db1y1db1y6~x4/sett.png)|
-

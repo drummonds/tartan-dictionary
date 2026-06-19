@@ -2,10 +2,9 @@
 title: "Wcwm 9285 4906-1"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKYKYKRY](/stripes/kykykykykry/) · **Stripes:** [K LR K LR K LR K LR K R LR](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K LR K LR K LR K LR K R LR</span></span>
+In pattern [KYKYKYKYKRY](/stripes/kykykykykry/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4575
 

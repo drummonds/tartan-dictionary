@@ -2,10 +2,9 @@
 title: "Scottish Borders Tourist Board"
 date: 2023-03-18
 ---
-**Bands:** [GWGRGYGRGWGBGBGB](/stripes/gwgrgygrgwgbgbgb/) · **Stripes:** [Y LB Y R Y LO Y R Y LB Y DB Y DB Y DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">Y LB Y R Y LO Y R Y LB Y DB Y DB Y DB</span></span>
+In pattern [BGBGBGWGRGYGRGWG](/stripes/bgbgbgwgrgygrgwg/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3710
 

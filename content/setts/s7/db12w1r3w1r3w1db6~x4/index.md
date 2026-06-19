@@ -2,10 +2,9 @@
 title: "BC Corps of Commissionaires"
 date: 2023-03-18
 ---
-**Bands:** [BWRWRWB](/stripes/bwrwrwb/) · **Stripes:** [DB W R W R W DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB W R W R W DB</span></span>
+In pattern [BWRWRWB](/stripes/bwrwrwb/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11090
 

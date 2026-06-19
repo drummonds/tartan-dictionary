@@ -2,10 +2,9 @@
 title: "Kucher, Gregory"
 date: 2023-03-18
 ---
-**Bands:** [YKRB](/stripes/ykrb/) · **Stripes:** [LR K R DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LR K R DB</span></span>
+In pattern [BRKY](/stripes/brky/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10086
 

@@ -2,10 +2,9 @@
 title: "Platt"
 date: 2023-03-18
 ---
-**Bands:** [RYGBGRBYBGRGYBG](/stripes/rygbgrbybgrgybg/) · **Stripes:** [R LY G DB G R DB LY DB G R G LY DB G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY G DB G R DB LY DB G R G LY DB G</span></span>
+In pattern [GBYGRGBYBRGBGYR](/stripes/gbygrgbybrgbgyr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3346
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3346](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3346)
 - Scottish Tartans Authority (ITI): 749
 - Scottish Tartans World Register: 749
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Platt](/setts/s15/g8db3ly1g6r1g7db7ly1db6r1g3db12g3ly1r1~x2/)
-
 
 ## Thread count
 G/32 DB12 Y4 G24 R4 G28 DB28 Y2 DB24 R4 G12 DB48 G12 Y4 R/4

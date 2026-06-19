@@ -2,10 +2,9 @@
 title: "Heart of the Highlands"
 date: 2023-03-18
 ---
-**Bands:** [RKBKYWYKY](/stripes/rkbkywyky/) · **Stripes:** [M K N K LR W LR K LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">M K N K LR W LR K LR</span></span>
+In pattern [RKBKYWYKY](/stripes/rkbkywyky/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11275
 

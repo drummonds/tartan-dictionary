@@ -2,10 +2,9 @@
 title: "Blair"
 date: 2023-03-18
 ---
-**Bands:** [GRGKBRB](/stripes/grgkbrb/) · **Stripes:** [G R G K DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G K DB R DB</span></span>
+In pattern [BRBKGRG](/stripes/brbkgrg/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,14 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Blair](/setts/s7/db4r1db18k20g18r1g4~x2/)
-- [Gammell (1978) (Personal)](/setts/s7/db3r2db22k11g22r2g3~x2/)
-
 
 ## Thread count
 G/12 R4 G40 K32 B40 R4 B/12

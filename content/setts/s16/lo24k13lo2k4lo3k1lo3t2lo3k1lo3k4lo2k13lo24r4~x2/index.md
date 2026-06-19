@@ -2,10 +2,9 @@
 title: "Cardiff City Football Club"
 date: 2023-03-18
 ---
-**Bands:** [RYKYKYKYBYKYKYKY](/stripes/rykykykybykykyky/) · **Stripes:** [R LO K LO K LO K LO T LO K LO K LO K LO](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LO K LO K LO K LO T LO K LO K LO K LO</span></span>
+In pattern [RYKYKYKYBYKYKYKY](/stripes/rykykykybykykyky/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=560
 

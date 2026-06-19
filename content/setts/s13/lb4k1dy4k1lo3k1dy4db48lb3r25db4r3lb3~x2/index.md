@@ -2,10 +2,9 @@
 title: "State Seal of Colorado (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [WKGKYKGBWRBRW](/stripes/wkgkykgbwrbrw/) · **Stripes:** [LB K DY K LO K DY DB LB R DB R LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB K DY K LO K DY DB LB R DB R LB</span></span>
+In pattern [WKGKYKGBWRBRW](/stripes/wkgkykgbwrbrw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8620/
 

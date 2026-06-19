@@ -2,10 +2,9 @@
 title: "Motherwell Football Club Official"
 date: 2023-03-18
 ---
-**Bands:** [BYBYKBWBKYBKWYB](/stripes/bybykbwbkybkwyb/) · **Stripes:** [DR LO DR LO K DR W DR K LO DR K W LO DR](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR LO DR LO K DR W DR K LO DR K W LO DR</span></span>
+In pattern [BYBYKBWBKYBKWYB](/stripes/bybykbwbkybkwyb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11432
 

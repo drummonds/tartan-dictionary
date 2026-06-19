@@ -2,10 +2,9 @@
 title: "Jaggy Thistle (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBRKRWBW](/stripes/rbgbrkrwbw/) · **Stripes:** [O N Y N O K O LP N LP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">O N Y N O K O LP N LP</span></span>
+In pattern [RBGBRKRWBW](/stripes/rbgbrkrwbw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8696/
 

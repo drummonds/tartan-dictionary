@@ -2,10 +2,9 @@
 title: "Baron of Greencastle Htg (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKBKBKYGYB](/stripes/rbrbkbkbkygyb/) · **Stripes:** [R DB R DB K DB K DB K LY G LY DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB K DB K DB K LY G LY DB</span></span>
+In pattern [BYGYKBKBKBRBR](/stripes/bygykbkbkbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6668/
 

@@ -2,10 +2,9 @@
 title: "Grant of Monymusk"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBRBRGR](/stripes/rgrgrgrbrbrgr/) · **Stripes:** [R DG R DG R DG R DB R DB R DG R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DG R DB R DB R DG R</span></span>
+In pattern [RGRBRBRGRGRGR](/stripes/rgrbrbrgrgrgr/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Grant of Monymusk](/setts/s13/r12dg14r4dg14r4dg14r4db8r5db8r12dg3r12/)
-
 
 ## Thread count
 DR/24 DG28 DR8 DG28 DR8 DG28 DR8 DB16 DR10 DB16 DR24 DG6 DR/24

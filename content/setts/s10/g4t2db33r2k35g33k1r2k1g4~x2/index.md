@@ -2,10 +2,9 @@
 title: "Lochaber"
 date: 2023-03-18
 ---
-**Bands:** [GKRKGKRBBG](/stripes/gkrkgkrbbg/) · **Stripes:** [G K R K G K R DB T G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K R K G K R DB T G</span></span>
+In pattern [GBBRKGKRKG](/stripes/gbbrkgkrkg/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lochaber - 1819 (District)](/setts/s10/g2t2db33r2k35g33k1r2k1g2~x2/)
-
 
 ## Thread count
 G/8 Ba4 B66 R4 K70 G66 K2 R4 K2 G/8

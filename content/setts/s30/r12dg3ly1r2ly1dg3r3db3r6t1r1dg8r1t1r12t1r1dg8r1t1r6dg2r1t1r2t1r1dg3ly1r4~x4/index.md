@@ -2,10 +2,9 @@
 title: "MacAlister (Gourlay Steele Collection)"
 date: 2023-03-18
 ---
-**Bands:** [RYGRBRBRGRBRGRBRBRGRBRBRGYRYGR](/stripes/rygrbrbrgrbrgrbrbrgrbrbrgyrygr/) · **Stripes:** [R LY DG R T R T R DG R T R DG R T R T R DG R T R DB R DG LY R LY DG R](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY DG R T R T R DG R T R DG R T R T R DG R T R DB R DG LY R LY DG R</span></span>
+In pattern [RGYRYGRBRBRGRBRBRGRBRGRBRBRGYR](/stripes/rgyrygrbrbrgrbrbrgrbrgrbrbrgyr/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2266
 

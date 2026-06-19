@@ -2,10 +2,9 @@
 title: "GOLF (Wonderland Publications)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKKBKBBKBK](/stripes/kbkbkbkkbkbbkbk/) · **Stripes:** [K N K DP K N K K DR K N DR K DP K](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K N K DP K N K K DR K N DR K DP K</span></span>
+In pattern [KBKBBKBKKBKBKBK](/stripes/kbkbbkbkkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10698
 

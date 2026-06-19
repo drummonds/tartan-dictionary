@@ -2,10 +2,9 @@
 title: "Herriot (New Zealand) (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BBYBYW](/stripes/bbybyw/) · **Stripes:** [DT T LR DT LY W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT T LR DT LY W</span></span>
+In pattern [BBYBYW](/stripes/bbybyw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10128/
 

@@ -2,10 +2,9 @@
 title: "Connaught Ancestry (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BBBKBYBBBKW](/stripes/bbbkbybbbkw/) · **Stripes:** [DB N DB K DB LY DB N DB K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB N DB K DB LY DB N DB K LB</span></span>
+In pattern [BBBKBYBBBKW](/stripes/bbbkbybbbkw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10797/
 

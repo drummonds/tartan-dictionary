@@ -2,10 +2,9 @@
 title: "Clanedin (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [YWYWYWYGYWYWYWWWY](/stripes/ywywywygywywywwwy/) · **Stripes:** [LY LB LY LB LY LB LY DY LY LB LY LB LY LB LB LB LY](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY LB LY LB LY LB LY DY LY LB LY LB LY LB LB LB LY</span></span>
+In pattern [YWWWYWYWYGYWYWYWY](/stripes/ywwwywywygywywywy/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1619/
 

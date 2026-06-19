@@ -2,10 +2,9 @@
 title: "Kinnaird (1984)"
 date: 2023-03-18
 ---
-**Bands:** [RYBYRBBBBBBBB](/stripes/rybyrbbbbbbbb/) · **Stripes:** [R LO DO LO R DO DO DO DO DO DO DO DO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="seq">R LO DO LO R DO DO DO DO DO DO DO DO</span></span>
+In pattern [BBBBBBBBRYBYR](/stripes/bbbbbbbbrybyr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1992
 

@@ -2,10 +2,9 @@
 title: "Clackson Arisaid (Name?)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBWGW](/stripes/ybybwgw/) · **Stripes:** [LY DB LY DB W G W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LY DB W G W</span></span>
+In pattern [WGWBYBY](/stripes/wgwbyby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6002/
 

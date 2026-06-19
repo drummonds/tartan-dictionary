@@ -2,21 +2,11 @@
 title: "Drummond of Megginch - 1820 Plaid"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRGRBRWRBRBR](/stripes/rbrgrgrbrwrbrbr/) · **Stripes:** [R DB R DG R DG R DB R LB R DB R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DG R DG R DB R LB R DB R DB R</span></span>
+In pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
-
-This was sourced from research.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://tartandictionary.org/posts/drummondsofmegginch/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Drummond of Megginch - 1849 Kilt](/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/)
-- [Drummond of Megginch - 1969 Carpet](/setts/s15/r12db3r4db4r36lb6r4db18r4dg2r4dg36r4db4r8/)
-- [Drummond of Megginch - Child's Kilt (c.1890)](/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/)
-
 
 ## Thread count
 R/26 DB2 R6 DB6 R126 LB6 R6 DB38 R6 G6 R6 G130 R19 DB6 R/18

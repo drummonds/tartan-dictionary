@@ -2,10 +2,9 @@
 title: "State Seal of West Virginia (Fash)"
 date: 2023-03-18
 ---
-**Bands:** [RRBKGBYR](/stripes/rrbkgbyr/) · **Stripes:** [R O B K DY B LO O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O B K DY B LO O</span></span>
+In pattern [RRBKGBYR](/stripes/rrbkgbyr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8663/
 

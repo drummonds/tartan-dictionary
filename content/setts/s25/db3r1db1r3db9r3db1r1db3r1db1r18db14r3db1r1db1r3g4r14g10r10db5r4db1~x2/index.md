@@ -2,10 +2,9 @@
 title: "Campbell of Loudoun, Plaid"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRGRBRBRBRBRBRBRBRBRB](/stripes/brbrgrgrbrbrbrbrbrbrbrbrb/) · **Stripes:** [DB R DB R G R G R DB R DB R DB R DB R DB R DB R DB R DB R DB](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R G R G R DB R DB R DB R DB R DB R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRBRBRBRBRBRGRGRBRB](/stripes/brbrbrbrbrbrbrbrbrgrgrbrb/).
 
-
-This was sourced from weddslist.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

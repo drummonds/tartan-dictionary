@@ -2,10 +2,9 @@
 title: "Grant"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRGRBRBRBRBR](/stripes/rbrgrgrbrbrbrbr/) · **Stripes:** [R DB R DG R DG R DB R B R DB R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DG R DG R DB R B R DB R DB R</span></span>
+In pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -58,14 +57,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Grant D](/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x4/)
-- [Grant D](/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x2/)
-
 
 ## Thread count
 DR/12 DB4 DR4 DG48 DR4 DG4 DR4 DB16 DR4 B2 DR64 DB4 DR4 DB2 DR/12

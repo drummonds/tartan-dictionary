@@ -2,10 +2,9 @@
 title: "O'Connor (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGWGWGKBKBKBG](/stripes/gkgkgwgwgkbkbkbg/) · **Stripes:** [G K G K G W G W G K B K B K B G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G W G W G K B K B K B G</span></span>
+In pattern [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2217/
 

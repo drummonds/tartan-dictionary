@@ -2,10 +2,9 @@
 title: "Platt (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GBYGRGBYBRGBGYRYGBGRBYBGRGYB](/stripes/gbygrgbybrgbgyrygbgrbybgrgyb/) · **Stripes:** [G DB LY G R G DB LY DB R G DB G LY R LY G DB G R DB LY DB G R G LY DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB LY G R G DB LY DB R G DB G LY R LY G DB G R DB LY DB G R G LY DB</span></span>
+In pattern [BYGRGBYBRGBGYRYGBGRBYBGRGYBG](/stripes/bygrgbybrgbgyrygbgrbybgrgybg/).
 
-
-This was sourced from tartans-authority.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/749/
 

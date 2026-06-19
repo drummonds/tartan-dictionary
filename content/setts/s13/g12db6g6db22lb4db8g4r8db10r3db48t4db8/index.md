@@ -2,10 +2,9 @@
 title: "Massachusetts - The Bay State (Dist)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBWBGRBRBBB](/stripes/gbgbwbgrbrbbb/) · **Stripes:** [G DB G DB LB DB G R DB R DB T DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB LB DB G R DB R DB T DB</span></span>
+In pattern [BBBRBRGBWBGBG](/stripes/bbbrbrgbwbgbg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2138/
 

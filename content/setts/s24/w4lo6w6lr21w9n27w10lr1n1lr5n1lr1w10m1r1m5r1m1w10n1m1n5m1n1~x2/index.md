@@ -2,10 +2,9 @@
 title: "Oriflame"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBWRRRRRWYBYBYWBWYWYW](/stripes/brbrbwrrrrrwybybywbwywyw/) · **Stripes:** [N M N M N W M R M R M W LR N LR N LR W N W LR W LO W](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N M N M N W M R M R M W LR N LR N LR W N W LR W LO W</span></span>
+In pattern [BRBRBWRRRRRWYBYBYWBWYWYW](/stripes/brbrbwrrrrrwybybywbwywyw/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10961
 

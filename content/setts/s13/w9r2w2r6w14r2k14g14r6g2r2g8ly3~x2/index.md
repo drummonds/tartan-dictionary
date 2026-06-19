@@ -2,10 +2,9 @@
 title: "Valley of the Green #2"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGKRWRWRW](/stripes/ygrgrgkrwrwrw/) · **Stripes:** [LY G R G R G K R W R W R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G R G R G K R W R W R W</span></span>
+In pattern [WRWRWRKGRGRGY](/stripes/wrwrwrkgrgrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4439
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4439)
 - Scottish Tartans Authority (ITI): 7043
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Carnegie Dress #1 (Fashion)](/setts/s13/w8r2w2r6w13r2k13g13r6g2r2g4ly3~x2/)
-
 
 ## Thread count
 LN/18 R4 LN4 R12 LN28 R4 K28 G28 R12 G4 R4 G16 Y/6

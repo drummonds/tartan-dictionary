@@ -2,10 +2,9 @@
 title: "McMurchie Family, John and Jessie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRBBGBGBBRW](/stripes/yrbbgbgbbrw/) · **Stripes:** [LY R DB N G N G N DB R LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY R DB N G N G N DB R LB</span></span>
+In pattern [WRBBGBGBBRY](/stripes/wrbbgbgbbry/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10149
 

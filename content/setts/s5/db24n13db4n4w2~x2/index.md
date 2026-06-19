@@ -2,10 +2,9 @@
 title: "Gallaecia - Galicia National"
 date: 2023-03-18
 ---
-**Bands:** [BBBBW](/stripes/bbbbw/) · **Stripes:** [DB N DB N W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB N DB N W</span></span>
+In pattern [BBBBW](/stripes/bbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5975
 

@@ -2,10 +2,9 @@
 title: "Khosla, Sarah and Justin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBRYRYRBW](/stripes/bbryryrbw/) · **Stripes:** [DP N M LY M LY R N W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP N M LY M LY R N W</span></span>
+In pattern [BBRYRYRBW](/stripes/bbryryrbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11164/
 

@@ -2,10 +2,9 @@
 title: "Broun Hunting (Personal?)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKYKGKBKBKBKGKBKGKBKBKB](/stripes/bkbkbkgkykgkbkbkbkgkbkgkbkbkb/) · **Stripes:** [DT K DT K DT K G K LR K G K DT K DT K DT K G K T K G K DT K DT K DT](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">DT K DT K DT K G K LR K G K DT K DT K DT K G K T K G K DT K DT K DT</span></span>
+In pattern [BKBKBKGKBKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkbkgkbkbkbkgkykgkbkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8862/
 

@@ -2,10 +2,9 @@
 title: "Burns Heritage Check"
 date: 2023-03-18
 ---
-**Bands:** [KWKWGWGGG](/stripes/kwkwgwggg/) · **Stripes:** [K W K W G W DY G DY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K W K W G W DY G DY</span></span>
+In pattern [GGGWGWKWK](/stripes/gggwgwkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=451
 

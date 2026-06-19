@@ -2,10 +2,9 @@
 title: "Burberry Blue"
 date: 2023-03-18
 ---
-**Bands:** [RKYKY](/stripes/rkyky/) · **Stripes:** [R K LR K LR](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R K LR K LR</span></span>
+In pattern [RKYKY](/stripes/rkyky/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5382
 

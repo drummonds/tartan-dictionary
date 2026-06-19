@@ -2,10 +2,9 @@
 title: "MacDonald, Lord of the Isles Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GWGWGWGWGWGWG](/stripes/gwgwgwgwgwgwg/) · **Stripes:** [DG W DG W DG W DG W DG W G W G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG W DG W DG W DG W DG W G W G</span></span>
+In pattern [GWGWGWGWGWGWG](/stripes/gwgwgwgwgwgwg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2378
 

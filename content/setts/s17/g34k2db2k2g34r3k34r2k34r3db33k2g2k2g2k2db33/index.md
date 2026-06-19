@@ -2,10 +2,9 @@
 title: "Stewart/Stuart"
 date: 2023-03-18
 ---
-**Bands:** [GKBKGRKRKRBKGKGKB](/stripes/gkbkgrkrkrbkgkgkb/) · **Stripes:** [G K DB K G R K R K R DB K G K G K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K G R K R K R DB K G K G K DB</span></span>
+In pattern [BKGKGKBRKRKRGKBKG](/stripes/bkgkgkbrkrkrgkbkg/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3941
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3941](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3941)
 - Scottish Tartans Authority (ITI): 319
 - Scottish Tartans World Register: 319
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart of Appin (Clan)](/setts/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/)
-
 
 ## Thread count
 G/34 K2 DB2 K2 G34 R3 K34 R2 K34 R3 DB33 K2 G2 K2 G2 K2 DB/33

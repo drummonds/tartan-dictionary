@@ -2,10 +2,9 @@
 title: "Land's End, Blue (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGRGB](/stripes/gbgbgrgb/) · **Stripes:** [DG DT DG DT DG R DG DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="seq">DG DT DG DT DG R DG DT</span></span>
+In pattern [BGRGBGBG](/stripes/bgrgbgbg/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2579/
 

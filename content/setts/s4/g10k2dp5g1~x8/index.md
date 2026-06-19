@@ -2,10 +2,9 @@
 title: "Bumbee #1 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GKBG](/stripes/gkbg/) · **Stripes:** [G K DP G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K DP G</span></span>
+In pattern [GBKG](/stripes/gbkg/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3764/
 

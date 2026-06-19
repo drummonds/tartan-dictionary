@@ -2,10 +2,9 @@
 title: "Rankin Grey (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRKRBWBRKRRBRBRBW](/stripes/brbrbrkrbwbrkrrbrbrbw/) · **Stripes:** [N O N O N O K R N W N R K O R N R N R N W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N O N O N O K R N W N R K O R N R N R N W</span></span>
+In pattern [BRBRBRKRBWBRKRRBRBRBW](/stripes/brbrbrkrbwbrkrrbrbrbw/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8522/
 

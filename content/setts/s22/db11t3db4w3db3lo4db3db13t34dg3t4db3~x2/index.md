@@ -2,10 +2,9 @@
 title: "Harmony"
 date: 2023-03-18
 ---
-**Bands:** [BBBWBYBBBGBBBGBBBYBWBB](/stripes/bbbwbybbbgbbbgbbbybwbb/) · **Stripes:** [DB T DB W DB LO DB DB T DG T DB T DG T DB DB LO DB W DB T](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB T DB W DB LO DB DB T DG T DB T DG T DB DB LO DB W DB T</span></span>
+In pattern [BBBWBYBBBGBBBGBBBYBWBB](/stripes/bbbwbybbbgbbbgbbbybwbb/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1601
 

@@ -2,10 +2,9 @@
 title: "Justus #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYKY](/stripes/kyky/) · **Stripes:** [K LO K LO](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO K LO</span></span>
+In pattern [KYKY](/stripes/kyky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1276/
 

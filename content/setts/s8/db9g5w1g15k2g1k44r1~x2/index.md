@@ -2,10 +2,9 @@
 title: "Ataç, H.M. & I.C. (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGWGB](/stripes/rkgkgwgb/) · **Stripes:** [R K G K G W G DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R K G K G W G DB</span></span>
+In pattern [BGWGKGKR](/stripes/bgwgkgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10737
 

@@ -2,10 +2,9 @@
 title: "Art Pewter Silver"
 date: 2023-03-18
 ---
-**Bands:** [RBKGYGKB](/stripes/rbkgygkb/) · **Stripes:** [R DB K Y LY Y K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K Y LY Y K DB</span></span>
+In pattern [BKGYGKBR](/stripes/bkgygkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5141
 

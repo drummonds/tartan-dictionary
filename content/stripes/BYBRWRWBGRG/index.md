@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bybrwrwbgrg/
 ---
-BYBRWRWBGRG
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BYBRWRWBGRG
+
+{{< pat "BYBRWRWBGRG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G O G DB W O W R DB LY DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">G O G DB W O W R DB LY DB</span></span>
 
 | Tartans |
 |---------------|
 | [Asman Hunting](/setts/s11/db4ly3db17r7w2o7w2db7g17o3g4~x2/)|
 |![Asman Hunting example sett](/setts/s11/db4ly3db17r7w2o7w2db7g17o3g4~x2/sett.png)|
-

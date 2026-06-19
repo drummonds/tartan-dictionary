@@ -2,10 +2,9 @@
 title: "Annan"
 date: 2023-03-18
 ---
-**Bands:** [RGKRGRRRGR](/stripes/rgkrgrrrgr/) · **Stripes:** [O Y K O Y O R O Y O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O Y K O Y O R O Y O</span></span>
+In pattern [RGKRGRRRGR](/stripes/rgkrgrrrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=91
 

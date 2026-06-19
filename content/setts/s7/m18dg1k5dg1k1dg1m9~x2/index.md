@@ -2,10 +2,9 @@
 title: "Inverness Augustus"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKGR](/stripes/rgkgkgr/) · **Stripes:** [M DG K DG K DG M](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M DG K DG K DG M</span></span>
+In pattern [RGKGKGR](/stripes/rgkgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1842
 

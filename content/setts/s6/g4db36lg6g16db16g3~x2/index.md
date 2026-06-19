@@ -2,10 +2,9 @@
 title: "City of Kincardine"
 date: 2023-03-18
 ---
-**Bands:** [GBYGBG](/stripes/gbygbg/) · **Stripes:** [G DB LG G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB LG G DB G</span></span>
+In pattern [GBGYBG](/stripes/gbgybg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=657
 

@@ -37,8 +37,11 @@ content. See [`README.md`](README.md) for the architecture diagram.
 
 ## Build & run
 
-`task serve` (dev), `task build` (prod), `task check` (build smoke test), `task clean` /
-`task rebuild`. Regenerating content is a `tartan_data` task, run from that repo.
+`task serve` (Hugo dev server, live reload — heavy, ~10GB resident on the full 28k-page
+site; use for layout/template work), `task preview` (build + serve `public/` with caddy,
+~30MB — use for content/data work), `task build` (prod), `task check` (build smoke test),
+`task clean` / `task rebuild`. Regenerating content is a `tartan_data` task, run from that
+repo. `task preview` needs caddy on PATH (`go install github.com/caddyserver/caddy/v2/cmd/caddy@latest`).
 
 ## Known wrinkles (see ROADMAP)
 

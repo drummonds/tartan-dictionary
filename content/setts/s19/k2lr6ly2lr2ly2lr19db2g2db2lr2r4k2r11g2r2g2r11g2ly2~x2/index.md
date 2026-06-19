@@ -2,10 +2,9 @@
 title: "Harmon Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYYYYYBGBYRKRGRGRGY](/stripes/kyyyyybgbyrkrgrgrgy/) · **Stripes:** [K LR LY LR LY LR DB G DB LR R K R G R G R G LY](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LR LY LR LY LR DB G DB LR R K R G R G R G LY</span></span>
+In pattern [KYYYYYBGBYRKRGRGRGY](/stripes/kyyyyybgbyrkrgrgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10020/
 

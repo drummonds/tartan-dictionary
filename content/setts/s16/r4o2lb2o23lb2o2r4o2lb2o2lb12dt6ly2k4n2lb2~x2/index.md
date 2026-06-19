@@ -2,10 +2,9 @@
 title: "Palmer, General W.J."
 date: 2023-03-18
 ---
-**Bands:** [RRWRWRRRWRWBYKBW](/stripes/rrwrwrrrwrwbykbw/) · **Stripes:** [R O LB O LB O R O LB O LB DT LY K N LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R O LB O LB O R O LB O LB DT LY K N LB</span></span>
+In pattern [RRWRWRRRWRWBYKBW](/stripes/rrwrwrrrwrwbykbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3289
 

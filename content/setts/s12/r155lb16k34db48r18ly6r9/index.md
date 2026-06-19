@@ -2,10 +2,9 @@
 title: "Solberg-Wormald (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWKBRYRYRBKW](/stripes/rwkbryryrbkw/) · **Stripes:** [R LB K DB R LY R LY R DB K LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB K DB R LY R LY R DB K LB</span></span>
+In pattern [RWKBRYRYRBKW](/stripes/rwkbryryrbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3831
 

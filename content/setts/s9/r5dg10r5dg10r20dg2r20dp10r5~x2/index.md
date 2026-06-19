@@ -2,10 +2,9 @@
 title: "Murray, Lord George (Plaid)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBR](/stripes/rgrgrgrbr/) · **Stripes:** [R DG R DG R DG R DP R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DG R DP R</span></span>
+In pattern [RBRGRGRGR](/stripes/rbrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3077
 

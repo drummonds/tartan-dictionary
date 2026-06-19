@@ -2,19 +2,11 @@
 title: "Caledonian - 1819 (Fashion?)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRB](/stripes/rbrgrb/) · **Stripes:** [R DP R G R DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP R G R DP</span></span>
+In pattern [BRGRBR](/stripes/brgrbr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/526/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Caledonian District Tartan Tartan Number: 526. Earliest known date: 1819 In view of its widespread use as a foundation for other tartans it is perhaps not surprising that Wilson's named the Mackintosh tartan 'Caledonian'. They also called it 'Lovat or Fraser'. For this reason the tartan is not suitable for persons seeking a Caledonian tartan unless they are also Frasers of Lovat or Mackintoshes. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r60dp20r8g45r8dp2~x2/)
-
 
 ## Thread count
 R/60 DP20 R8 G45 R8 DP/2

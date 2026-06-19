@@ -2,10 +2,9 @@
 title: "MacLeod of Gesto"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGYGKBKBKB](/stripes/rkbkgygkbkbkb/) · **Stripes:** [R K DB K DG LY DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DG LY DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGYGKBKR](/stripes/bkbkbkgygkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2638
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2638](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2638)
 - Scottish Tartans World Register: 280
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Loudoun's Highlanders - 1747 #2 (Mil](/setts/s13/db24k2db2k2db2k20dg20ly3dg20k20db24k2r4~x2/)
-
 
 ## Thread count
 B/18 K2 B2 K2 B2 K14 G16 Y4 G16 K14 B16 K2 R/4

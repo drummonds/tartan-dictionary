@@ -2,10 +2,9 @@
 title: "Queens University, of Ontario"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBWBRBYGW](/stripes/bybybwbrbygw/) · **Stripes:** [DB LY DB LY P W P R DB LY G W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LY DB LY P W P R DB LY G W</span></span>
+In pattern [BYBYBWBRBYGW](/stripes/bybybwbrbygw/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

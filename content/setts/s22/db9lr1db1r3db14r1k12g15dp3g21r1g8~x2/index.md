@@ -2,10 +2,9 @@
 title: "West Highland Way"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRKGBGRGRGBGKRBRBYB](/stripes/ybrbrkgbgrgrgbgkrbrbyb/) · **Stripes:** [LR DB R DB R K G DP G R G R G DP G K R DB R DB LR DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DB R DB R K G DP G R G R G DP G K R DB R DB LR DB</span></span>
+In pattern [BYBRBRKGBGRGRGBGKRBRBY](/stripes/bybrbrkgbgrgrgbgkrbrby/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4601
 

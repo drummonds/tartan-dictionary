@@ -2,10 +2,9 @@
 title: "Tyrone"
 date: 2023-03-18
 ---
-**Bands:** [RRBGBWBRRBRG](/stripes/rrbgbwbrrbrg/) · **Stripes:** [M O DR G DR W DR O M DR M G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M O DR G DR W DR O M DR M G</span></span>
+In pattern [GRBRRBWBGBRR](/stripes/grbrrbwbgbrr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

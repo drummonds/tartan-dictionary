@@ -2,10 +2,9 @@
 title: "St. Matthews Check (School)"
 date: 2023-03-18
 ---
-**Bands:** [BYBBB](/stripes/bybbb/) · **Stripes:** [DB LO DB DT DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LO DB DT DB</span></span>
+In pattern [BBBYB](/stripes/bbbyb/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8147/
 

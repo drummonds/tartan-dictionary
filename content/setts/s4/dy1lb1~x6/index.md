@@ -2,10 +2,9 @@
 title: "Shepherd (Brown & White)"
 date: 2023-03-18
 ---
-**Bands:** [GWGW](/stripes/gwgw/) · **Stripes:** [DY LB DY LB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DY LB DY LB</span></span>
+In pattern [GWGW](/stripes/gwgw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5390
 
@@ -21,6 +20,12 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5390](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5390)
 - Scottish Tartans Authority (ITI): 3205
+
+## Related setts
+
+Setts a curator has related to this one.
+
+- **parent-of**: [Shepherd or Falkirk](/tartans/k1ly1/) — The black-and-white Shepherd's Check is the Falkirk sett restated in dyed wool.
 
 ## Thread count
 N/6 T6 N6 T/6

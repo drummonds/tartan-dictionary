@@ -2,10 +2,9 @@
 title: "Rendell, Charles"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKGBKBKBKBBR](/stripes/kgkgkgkgbkbkbkbbr/) · **Stripes:** [K DG K DG K DG K DG DT K DT K DT K DT DP R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG K DG K DG K DG DT K DT K DT K DT DP R</span></span>
+In pattern [KGKGKGKGBKBKBKBBR](/stripes/kgkgkgkgbkbkbkbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10699
 

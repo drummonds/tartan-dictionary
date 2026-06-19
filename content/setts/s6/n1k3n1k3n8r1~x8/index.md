@@ -2,10 +2,9 @@
 title: "Mackay (Blue)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKB](/stripes/rbkbkb/) · **Stripes:** [R N K N K N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">R N K N K N</span></span>
+In pattern [BKBKBR](/stripes/bkbkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2497
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2497](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2497)
 - Scottish Tartans Authority (ITI): 264
 - Scottish Tartans World Register: 264
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Norsemen, The](/setts/s6/n65k2n4k2n10r24~x2/)
-
 
 ## Thread count
 N/8 K24 N8 K24 N64 R/8

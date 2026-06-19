@@ -2,10 +2,9 @@
 title: "Caribou"
 date: 2023-03-18
 ---
-**Bands:** [WBKWKGBGKWKGWGKWKBW](/stripes/wbkwkgbgkwkgwgkwkbw/) · **Stripes:** [W DR K LT K Y DB Y K LT K G LT G K LT K DR W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DR K LT K Y DB Y K LT K G LT G K LT K DR W</span></span>
+In pattern [WBKWKGBGKWKGWGKWKBW](/stripes/wbkwkgbgkwkgwgkwkbw/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Scottish Islamic"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/) · **Stripes:** [DG LY DG LY DG LY DG K DG K DB K DB W DB W DB W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG LY DG LY DG LY DG K DG K DB K DB W DB W DB W</span></span>
+In pattern [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10644
 

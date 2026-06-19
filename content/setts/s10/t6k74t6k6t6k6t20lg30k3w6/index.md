@@ -2,10 +2,9 @@
 title: "Scruffy Wallace"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBYKW](/stripes/bkbkbkbykw/) · **Stripes:** [T K T K T K T LG K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T K T K T K T LG K W</span></span>
+In pattern [BKBKBKBYKW](/stripes/bkbkbkbykw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10407
 

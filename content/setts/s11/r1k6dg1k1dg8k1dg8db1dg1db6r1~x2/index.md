@@ -2,10 +2,9 @@
 title: "Davidson"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKGBGBR](/stripes/rkgkgkgbgbr/) · **Stripes:** [R K DG K DG K DG DB DG DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DG K DG K DG DB DG DB R</span></span>
+In pattern [RBGBGKGKGKR](/stripes/rbgbgkgkgkr/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,10 +2,9 @@
 title: "Balmoral (Ghillies white variation)"
 date: 2023-03-18
 ---
-**Bands:** [RWKWRWRWKRWRW](/stripes/rwkwrwrwkrwrw/) · **Stripes:** [R W K W O W O W K O W R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W K W O W O W K O W R W</span></span>
+In pattern [RWKWRWRWKRWRW](/stripes/rwkwrwrwkrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3188/
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbwbgy/
 ---
-BBBWBGY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/dt4b28dt11w2dt2g14ly2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BBBWBGY
+
+{{< pat "BBBWBGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY G DT W DT B DT <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="seq">LY G DT W DT B DT</span></span>
 
 | Tartans |
 |---------------|
 | [Rhode Island, State of](/setts/s7/dt4b28dt11w2dt2g14ly2~x2/)|
 |![Rhode Island, State of example sett](/setts/s7/dt4b28dt11w2dt2g14ly2~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Aquascutum"
 date: 2023-03-18
 ---
-**Bands:** [GWB](/stripes/gwb/) · **Stripes:** [DY W DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DY W DB</span></span>
+In pattern [BWG](/stripes/bwg/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=103
 

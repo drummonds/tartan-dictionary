@@ -2,10 +2,9 @@
 title: "Qatar Airways"
 date: 2023-03-18
 ---
-**Bands:** [RRRRYRYRYRYW](/stripes/rrrryryryryw/) · **Stripes:** [M O M O LR O LR O LR O LR W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M O M O LR O LR O LR O LR W</span></span>
+In pattern [RRRRYRYRYRYW](/stripes/rrrryryryryw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11323
 

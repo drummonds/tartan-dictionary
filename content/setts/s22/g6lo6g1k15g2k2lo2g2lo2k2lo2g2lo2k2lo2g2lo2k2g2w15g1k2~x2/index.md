@@ -2,10 +2,9 @@
 title: "Int. College of Dentists (Canada)"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKYGYKYGYKYGYKGKGYG](/stripes/kgwgkygykygykygykgkgyg/) · **Stripes:** [K G W G K LO G LO K LO G LO K LO G LO K G K G LO G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G W G K LO G LO K LO G LO K LO G LO K G K G LO G</span></span>
+In pattern [GYGKGKYGYKYGYKYGYKGWGK](/stripes/gygkgkygykygykygykgwgk/).
 
-
-This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10746/
 

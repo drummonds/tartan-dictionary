@@ -2,10 +2,9 @@
 title: "Ochterlonie"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYB](/stripes/ybybyb/) · **Stripes:** [LO DB LR DB LR DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB LR DB LR DB</span></span>
+In pattern [BYBYBY](/stripes/bybyby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825
 

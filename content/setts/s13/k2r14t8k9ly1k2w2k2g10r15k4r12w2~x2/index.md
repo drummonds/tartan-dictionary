@@ -2,19 +2,11 @@
 title: "Harden (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KRBKYKWKGRKRW](/stripes/krbkykwkgrkrw/) · **Stripes:** [K R T K LY K W K G R K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R T K LY K W K G R K R W</span></span>
+In pattern [KRBKYKWKGRKRW](/stripes/krbkykwkgrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6274/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's, No 1](/setts/s13/k1r14t8k9ly1k2w2k2g10r15k4r12w1~x2/)
-
 
 ## Thread count
 K/4 R28 B16 K18 Y2 K4 W4 K4 G20 R30 K8 R24 W/4

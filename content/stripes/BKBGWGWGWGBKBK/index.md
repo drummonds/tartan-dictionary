@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbgwgwgwgbkbk/
 ---
-BKBGWGWGWGBKBK
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-BKBGWGWGWGBKBK
+
+{{< pat "BKBGWGWGWGBKBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K DB K DB G W G W G W G DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB G W G W G W G DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Ship Hector, The](/setts/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2/)|
 |![Ship Hector, The example sett](/setts/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2/sett.png)|
-

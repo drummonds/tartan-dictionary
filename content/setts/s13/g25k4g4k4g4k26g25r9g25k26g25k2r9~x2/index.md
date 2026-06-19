@@ -2,10 +2,9 @@
 title: "Moncrieffe (1998)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGRGKGKGKG](/stripes/rkgkgrgkgkgkg/) · **Stripes:** [R K G K G R G K G K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K G K G R G K G K G K G</span></span>
+In pattern [GKGKGKGRGKGKR](/stripes/gkgkgkgrgkgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2982
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2982)
 - Scottish Tartans Authority (ITI): 2517
 - Scottish Tartans World Register: 2517
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Moncrieffe Athol](/setts/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/)
-
 
 ## Thread count
 G/50 K8 G8 K8 G8 K52 G50 R18 G50 K52 G50 K4 R/18

@@ -2,10 +2,9 @@
 title: "O'Shaughnessy (Estimated threadcount)"
 date: 2023-03-18
 ---
-**Bands:** [BWBYKWKGBGW](/stripes/bwbykwkgbgw/) · **Stripes:** [DB W DP LY K W K G DB DY W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DP LY K W K G DB DY W</span></span>
+In pattern [BWBYKWKGBGW](/stripes/bwbykwkgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3269
 

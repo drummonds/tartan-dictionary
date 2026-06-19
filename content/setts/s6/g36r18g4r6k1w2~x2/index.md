@@ -2,21 +2,11 @@
 title: "Princess Margaret Rose Tartan Tartan Number: 986. Earliest known date: 1930 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGRKW](/stripes/grgrkw/) · **Stripes:** [G R G R K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R G R K W</span></span>
+In pattern [GRGRKW](/stripes/grgrkw/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=986
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Colchester & District Pipes & Drums](/setts/s6/g10r4g46r69k2w6/)
-- [MacGregor of Balquidder (Logan)](/setts/s6/g9r2g9r14k1w2~x2/)
-- [MacGregor of Balquidder - 1831 (Clan](/setts/s6/g9r2g9r14k1w2~x4/)
-
 
 ## Thread count
 G/72 R36 G8 R12 K2 LN/4

@@ -2,10 +2,9 @@
 title: "Fraser Hunting #2"
 date: 2023-03-18
 ---
-**Bands:** [RGGGBG](/stripes/rgggbg/) · **Stripes:** [R DY DG DY DB DY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DY DG DY DB DY</span></span>
+In pattern [GBGGGR](/stripes/gbgggr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1259
 

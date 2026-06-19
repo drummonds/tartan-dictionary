@@ -2,10 +2,9 @@
 title: "Euler Hermes"
 date: 2023-03-18
 ---
-**Bands:** [BKBBBBKWRGYRKBB](/stripes/bkbbbbkwrgyrkbb/) · **Stripes:** [B K B B B B K LB R G LO O K B B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B B B B K LB R G LO O K B B</span></span>
+In pattern [BBKRYGRWKBBBBKB](/stripes/bbkrygrwkbbbbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11026
 

@@ -2,10 +2,9 @@
 title: "Sinclair, Sir John"
 date: 2023-03-18
 ---
-**Bands:** [YGKB](/stripes/ygkb/) · **Stripes:** [LY G K DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G K DB</span></span>
+In pattern [BKGY](/stripes/bkgy/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

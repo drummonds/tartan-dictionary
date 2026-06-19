@@ -2,10 +2,9 @@
 title: "International Police Association (IPA 2010)"
 date: 2023-03-18
 ---
-**Bands:** [YWBWBRB](/stripes/ywbwbrb/) · **Stripes:** [LY LT DB LT DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY LT DB LT DB R DB</span></span>
+In pattern [BRBWBWY](/stripes/brbwbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10174
 

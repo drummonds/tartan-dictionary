@@ -2,10 +2,9 @@
 title: "Scottish Tourist Guides Association"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBBBBBBGW](/stripes/gbgbgbbbbbbgw/) · **Stripes:** [G DP Y DP Y DP DB DP DB DP DB Y W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G DP Y DP Y DP DB DP DB DP DB Y W</span></span>
+In pattern [GBGBGBBBBBBGW](/stripes/gbgbgbbbbbbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10138
 

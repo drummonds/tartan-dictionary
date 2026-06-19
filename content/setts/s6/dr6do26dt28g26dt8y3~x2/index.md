@@ -2,10 +2,9 @@
 title: "House of Bruar (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBBB](/stripes/gbgbbb/) · **Stripes:** [Y DT G DT DO DR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="seq">Y DT G DT DO DR</span></span>
+In pattern [BBBGBG](/stripes/bbbgbg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5219/
 

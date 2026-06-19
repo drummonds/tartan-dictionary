@@ -2,10 +2,9 @@
 title: "Cordiner (Boddam)"
 date: 2023-03-18
 ---
-**Bands:** [BBRBYBRBBBBBBBBRBB](/stripes/bbrbybrbbbbbbbbrbb/) · **Stripes:** [DB DT R DT LY DT R DT DB DT DB DT DB DT DB M DB DT](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">DB DT R DT LY DT R DT DB DT DB DT DB DT DB M DB DT</span></span>
+In pattern [BBRBBBBBBBBRBYBRBB](/stripes/bbrbbbbbbbbrbybrbb/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721
 

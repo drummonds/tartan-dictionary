@@ -2,10 +2,9 @@
 title: "Presbyterian Synod of Living Waters (USA)"
 date: 2023-03-18
 ---
-**Bands:** [BRBYGKGWGKGKGW](/stripes/brbygkgwgkgkgw/) · **Stripes:** [DB R DB LY G K G LB G K G K G LB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB R DB LY G K G LB G K G K G LB</span></span>
+In pattern [BRBYGKGWGKGKGW](/stripes/brbygkgwgkgkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3366
 

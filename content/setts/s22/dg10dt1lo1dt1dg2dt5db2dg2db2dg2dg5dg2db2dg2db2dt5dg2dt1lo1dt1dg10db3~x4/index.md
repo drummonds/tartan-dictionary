@@ -2,10 +2,9 @@
 title: "Protheroe of Wales"
 date: 2023-03-18
 ---
-**Bands:** [GBYBGBBGBGGGBGBBGBYBGB](/stripes/gbybgbbgbgggbgbbgbybgb/) · **Stripes:** [DG DT LO DT DG DT DB DG DB DG DG DG DB DG DB DT DG DT LO DT DG DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DT LO DT DG DT DB DG DB DG DG DG DB DG DB DT DG DT LO DT DG DB</span></span>
+In pattern [BGBYBGBBGBGGGBGBBGBYBG](/stripes/bgbybgbbgbgggbgbbgbybg/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3416
 

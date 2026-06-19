@@ -2,10 +2,9 @@
 title: "Pitcairn Heritage (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGRYBRBRYB](/stripes/gbgbgrybrbryb/) · **Stripes:** [G B G B G R LO B R B R LO B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G B G B G R LO B R B R LO B</span></span>
+In pattern [BYRBRBYRGBGBG](/stripes/byrbrbyrgbgbg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2199/
 

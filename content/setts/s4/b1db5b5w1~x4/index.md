@@ -2,10 +2,9 @@
 title: "Manx, Cornaa"
 date: 2023-03-18
 ---
-**Bands:** [BBBW](/stripes/bbbw/) · **Stripes:** [B DB B W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B DB B W</span></span>
+In pattern [BBBW](/stripes/bbbw/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

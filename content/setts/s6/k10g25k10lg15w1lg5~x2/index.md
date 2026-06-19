@@ -2,10 +2,9 @@
 title: "Delaware Fine Spirits Guild"
 date: 2023-03-18
 ---
-**Bands:** [KGKYWY](/stripes/kgkywy/) · **Stripes:** [K G K LG W LG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">K G K LG W LG</span></span>
+In pattern [KGKYWY](/stripes/kgkywy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10204
 

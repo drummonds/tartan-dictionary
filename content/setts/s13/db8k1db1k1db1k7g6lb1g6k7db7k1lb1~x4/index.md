@@ -2,10 +2,9 @@
 title: "Cheape of Torosay (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGWGKBKW](/stripes/bkbkbkgwgkbkw/) · **Stripes:** [DB K DB K DB K G LB G K DB K LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB K DB K DB K G LB G K DB K LB</span></span>
+In pattern [BKBKBKGWGKBKW](/stripes/bkbkbkgwgkbkw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4498/
 

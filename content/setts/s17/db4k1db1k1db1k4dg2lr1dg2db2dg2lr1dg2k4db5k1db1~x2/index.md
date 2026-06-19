@@ -2,10 +2,9 @@
 title: "Arbuthnott"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGBGYGKBKBKB](/stripes/bkbkgygbgygkbkbkb/) · **Stripes:** [DB K DB K DG LR DG DB DG LR DG K DB K DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG LR DG DB DG LR DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGYGBGYGKBKB](/stripes/bkbkbkgygbgygkbkb/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Arbuthnott](/setts/s17/db4k1db1k1db1k4dg2lr1dg2db2dg2lr1dg2k4db5k1db1/)
-
 
 ## Thread count
 DB/8 K2 DB2 K2 DB2 K8 DG4 N2 DG4 DB4 DG4 N2 DG4 K8 DB10 K2 DB/2

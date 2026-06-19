@@ -2,10 +2,9 @@
 title: "Kerby, from the Tennessee Cumberland Basin"
 date: 2023-03-18
 ---
-**Bands:** [RGYGKGKGKBWB](/stripes/rgygkgkgkbwb/) · **Stripes:** [R DG LY DG K DG K DG K DP W DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DG LY DG K DG K DG K DP W DP</span></span>
+In pattern [BWBKGKGKGYGR](/stripes/bwbkgkgkgygr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

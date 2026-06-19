@@ -2,10 +2,9 @@
 title: "Rourke-Frew (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YKYKYKRKRKB](/stripes/ykykykrkrkb/) · **Stripes:** [LO K LO K LO K R K R K DT](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">LO K LO K LO K R K R K DT</span></span>
+In pattern [BKRKRKYKYKY](/stripes/bkrkrkykyky/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10819/
 

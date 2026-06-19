@@ -2,10 +2,9 @@
 title: "Jefferson (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGWBBRKRBBWG](/stripes/ygwbbrkrbbwg/) · **Stripes:** [LY G LB DP T R K R T DP LB G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G LB DP T R K R T DP LB G</span></span>
+In pattern [GWBBRKRBBWGY](/stripes/gwbbrkrbbwgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1889
 

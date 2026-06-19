@@ -2,10 +2,9 @@
 title: "Lock in Northumberland (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RYKWKRYW](/stripes/rykwkryw/) · **Stripes:** [R LR K LB K R LR LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LR K LB K R LR LB</span></span>
+In pattern [RYKWKRYW](/stripes/rykwkryw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10445/
 

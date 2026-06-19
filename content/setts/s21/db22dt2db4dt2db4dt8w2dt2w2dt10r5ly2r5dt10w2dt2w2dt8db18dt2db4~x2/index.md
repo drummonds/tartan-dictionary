@@ -2,10 +2,9 @@
 title: "Tartan Army Corporate/Sport Tartan Tartan Number: 2389. Earliest known date: 1997 A tartan designed for the Scottish football supporters at the 1997 World Cup. The supporters were affectionately known as the Tartan Army. A strick code of conduct earned the supporters praise worldwide. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBWBWBRYRBWBWBBBB](/stripes/bbbbbbwbwbryrbwbwbbbb/) · **Stripes:** [DB DT DB DT DB DT W DT W DT R LY R DT W DT W DT DB DT DB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DT DB DT DB DT W DT W DT R LY R DT W DT W DT DB DT DB</span></span>
+In pattern [BBBBBBWBWBRYRBWBWBBBB](/stripes/bbbbbbwbwbryrbwbwbbbb/).
 
-
-This was sourced from house-of-tartan.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2389
 

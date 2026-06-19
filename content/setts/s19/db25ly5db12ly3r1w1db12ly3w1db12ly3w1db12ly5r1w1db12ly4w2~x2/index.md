@@ -2,10 +2,9 @@
 title: "Wanless (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYRWBYWBYWBYRWBYW](/stripes/bybyrwbywbywbyrwbyw/) · **Stripes:** [DB LY DB LY R W DB LY W DB LY W DB LY R W DB LY W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LY DB LY R W DB LY W DB LY W DB LY R W DB LY W</span></span>
+In pattern [BYBYRWBYWBYWBYRWBYW](/stripes/bybyrwbywbywbyrwbyw/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3913/
 

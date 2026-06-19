@@ -2,10 +2,9 @@
 title: "World Corporate Golf Challenge"
 date: 2023-03-18
 ---
-**Bands:** [BYBKBKBKBKBBBBBW](/stripes/bybkbkbkbkbbbbbw/) · **Stripes:** [DB LR DB K DB K DB K DB K DB N DB N DB W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LR DB K DB K DB K DB K DB N DB N DB W</span></span>
+In pattern [BYBKBKBKBKBBBBBW](/stripes/bybkbkbkbkbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10778
 

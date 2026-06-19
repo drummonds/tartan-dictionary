@@ -2,10 +2,9 @@
 title: "International Bear Pride"
 date: 2023-03-18
 ---
-**Bands:** [KGGWYYRKGWG](/stripes/kggwyyrkgwg/) · **Stripes:** [K DY Y W LY LO O K Y W DY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K DY Y W LY LO O K Y W DY</span></span>
+In pattern [GWGKRYYWGGK](/stripes/gwgkryywggk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11326
 

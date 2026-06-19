@@ -2,10 +2,9 @@
 title: "Manitoba"
 date: 2023-03-18
 ---
-**Bands:** [YRGGGBGB](/stripes/yrgggbgb/) · **Stripes:** [LY M G DG G T G T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY M G DG G T G T</span></span>
+In pattern [BGBGGGRY](/stripes/bgbgggry/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

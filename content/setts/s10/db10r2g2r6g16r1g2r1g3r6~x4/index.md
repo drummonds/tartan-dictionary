@@ -2,19 +2,11 @@
 title: "Nithsdale (3 colours) (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRB](/stripes/rgrgrgrgrb/) · **Stripes:** [R G R G R G R G R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R G R G R G R DB</span></span>
+In pattern [BRGRGRGRGR](/stripes/brgrgrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/533/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Nithsdale](/setts/s10/db10r2g2r6g16r1g2r1g3r6~x2/)
-
 
 ## Thread count
 DB/40 R8 G8 R24 G64 R4 G8 R4 G12 R/24

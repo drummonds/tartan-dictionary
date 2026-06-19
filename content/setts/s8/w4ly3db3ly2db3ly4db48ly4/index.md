@@ -2,10 +2,9 @@
 title: "Morris of Wales"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBYW](/stripes/ybybybyw/) · **Stripes:** [LY DB LY DB LY DB LY W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LY DB LY DB LY W</span></span>
+In pattern [WYBYBYBY](/stripes/wybybyby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3018
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3018](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3018)
 - Scottish Tartans Authority (ITI): 5749
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Morris Welsh Name Tartan Tartan Number: 5749. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Meyrick, Meurig, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w6ly3db3ly2db3ly4db48ly4/)
-
 
 ## Thread count
 Y/4 DB48 Y4 DB3 Y2 DB3 Y3 LN/4

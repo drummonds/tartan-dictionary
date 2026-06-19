@@ -2,10 +2,9 @@
 title: "Van Ingelgem (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKKKKKKBKBKBWBKBKW](/stripes/ykkkkkkbkbkbwbkbkw/) · **Stripes:** [LY K K K K K K N K N K N W N K N K W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K K K K K K N K N K N W N K N K W</span></span>
+In pattern [WKBKBWBKBKBKKKKKKY](/stripes/wkbkbwbkbkbkkkkkky/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7220/
 

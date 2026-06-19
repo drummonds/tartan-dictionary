@@ -2,10 +2,9 @@
 title: "MacPherson Htg"
 date: 2023-03-18
 ---
-**Bands:** [BRKRBRRRB](/stripes/brkrbrrrb/) · **Stripes:** [B R K R B R O R B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B R K R B R O R B</span></span>
+In pattern [BRKRBRRRB](/stripes/brkrbrrrb/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/547/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/547/
 This cloth is also recorded under:
 
 - MacPherson of Pitmain
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson Hunting](/setts/s9/b11r1k8r1b1r1o8r1b1~x4/)
-
 
 ## Thread count
 B/4 R4 K32 R4 B4 R4 N32 R4 B/4

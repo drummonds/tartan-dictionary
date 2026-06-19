@@ -2,10 +2,9 @@
 title: "Montgomery"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKGK](/stripes/krkbkgk/) · **Stripes:** [K R K N K DG K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K N K DG K</span></span>
+In pattern [KGKBKRK](/stripes/kgkbkrk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Montgomery](/setts/s7/k4dg5k4n28k4r5k4/)
-
 
 ## Thread count
 K/8 DR10 K8 N56 K8 DG10 K/8

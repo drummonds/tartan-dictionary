@@ -2,10 +2,9 @@
 title: "Cunningham Dress Green (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [YGKGWGW](/stripes/ygkgwgw/) · **Stripes:** [LY G K G W G W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G K G W G W</span></span>
+In pattern [WGWGKGY](/stripes/wgwgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=848
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [848](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=848)
 - Scottish Tartans Authority (ITI): 6532
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cunningham Dress Green (Dance) Fashion Tartan Tartan Number: 6532. Earliest known date: 01/01/1988 A dancers' tartan now woven by D C Dalgliesh of Selkirk /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w2g1w20g20k1g1ly2~x4/)
-
 
 ## Thread count
 W/10 G4 W68 G68 K4 G4 Y/8

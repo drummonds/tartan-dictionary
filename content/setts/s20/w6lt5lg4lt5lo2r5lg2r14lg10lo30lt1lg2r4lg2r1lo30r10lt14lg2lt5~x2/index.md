@@ -2,10 +2,9 @@
 title: "elCorte"
 date: 2023-03-18
 ---
-**Bands:** [WYWRYRYRYWYYRYRYWYWW](/stripes/wywryryrywyyryrywyww/) · **Stripes:** [LT LG LT R LO R LG R LG LT LO LG R LG R LO LT LG LT W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LT LG LT R LO R LG R LG LT LO LG R LG R LO LT LG LT W</span></span>
+In pattern [WWYWYRYRYYWYRYRYRWYW](/stripes/wwywyryryywyryryrwyw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10890
 

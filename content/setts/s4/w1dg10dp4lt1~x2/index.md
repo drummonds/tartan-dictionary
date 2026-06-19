@@ -2,10 +2,9 @@
 title: "Wilson's No.205"
 date: 2023-03-18
 ---
-**Bands:** [WGBW](/stripes/wgbw/) · **Stripes:** [W DG DP LT](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">W DG DP LT</span></span>
+In pattern [WBGW](/stripes/wbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4737
 

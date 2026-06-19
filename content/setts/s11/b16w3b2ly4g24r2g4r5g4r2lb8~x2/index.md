@@ -2,10 +2,9 @@
 title: "Currie of Arran (Clan/family)"
 date: 2023-03-18
 ---
-**Bands:** [BWBYGRGRGRW](/stripes/bwbygrgrgrw/) · **Stripes:** [B W B LY G R G R G R LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">B W B LY G R G R G R LB</span></span>
+In pattern [BWBYGRGRGRW](/stripes/bwbygrgrgrw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/499/
 

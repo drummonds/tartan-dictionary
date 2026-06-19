@@ -2,10 +2,9 @@
 title: "Crubin Plaid (MacPherson)"
 date: 2023-03-18
 ---
-**Bands:** [RKWGYRKRYBKRYRB](/stripes/rkwgyrkrybkryrb/) · **Stripes:** [R K W G LY R K R LY T K R LY R T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K W G LY R K R LY T K R LY R T</span></span>
+In pattern [BRYRKBYRKRYGWKR](/stripes/bryrkbyrkrygwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4844
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4844](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4844)
 - Scottish Tartans Authority (ITI): 3854
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson, The Crubin Plaid](/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/)
-
 
 ## Thread count
 R/320 K4 LN2 G72 Y18 R8 K2 R8 Y18 B72 K18 R3 Y18 R8 B/14

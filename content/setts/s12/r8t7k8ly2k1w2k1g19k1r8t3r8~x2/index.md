@@ -2,10 +2,9 @@
 title: "Unnamed No 1 Tartan Tartan Number: 1340. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBKYKWKGKRBR](/stripes/rbkykwkgkrbr/) · **Stripes:** [R T K LY K W K G K R T R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T K LY K W K G K R T R</span></span>
+In pattern [RBKYKWKGKRBR](/stripes/rbkykwkgkrbr/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1340
 
@@ -14,13 +13,6 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 This cloth is also recorded under:
 
 - Unnamed No 1
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's, No 90](/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/)
-
 
 ## Thread count
 R/16 B14 K16 Y4 K2 LN4 K2 G38 K2 R16 B6 R/16

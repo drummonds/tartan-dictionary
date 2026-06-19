@@ -2,10 +2,9 @@
 title: "Arctic (District)"
 date: 2023-03-18
 ---
-**Bands:** [BWWWWRGKWBBWBBWKGRWWWW](/stripes/bwwwwrgkwbbwbbwkgrwwww/) · **Stripes:** [B W LB W LB R G K W B DB W DB B W K G R LB W LB W](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B W LB W LB R G K W B DB W DB B W K G R LB W LB W</span></span>
+In pattern [BWWWWRGKWBBWBBWKGRWWWW](/stripes/bwwwwrgkwbbwbbwkgrwwww/).
 
-
-This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3040/
 

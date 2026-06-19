@@ -2,10 +2,9 @@
 title: "Spirit of Fife"
 date: 2023-03-18
 ---
-**Bands:** [GWBGRBGBGBRGBW](/stripes/gwbgrbgbgbrgbw/) · **Stripes:** [DG W DT G M DT DG DT DG DT M G DT W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG W DT G M DT DG DT DG DT M G DT W</span></span>
+In pattern [GWBGRBGBGBRGBW](/stripes/gwbgrbgbgbrgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3863
 

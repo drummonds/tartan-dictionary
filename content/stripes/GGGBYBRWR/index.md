@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gggbybrwr/
 ---
-GGGBYBRWR
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-GGGBYBRWR
+
+{{< pat "GGGBYBRWR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R LP R B LY B G Y G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LP R B LY B G Y G</span></span>
 
 | Tartans |
 |---------------|
 | [Hogeboom (Toronto) (Personal)](/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/)|
 |![Hogeboom (Toronto) (Personal) example sett](/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/sett.png)|
-

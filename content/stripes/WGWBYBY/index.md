@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/wgwbyby/
 ---
-WGWBYBY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/w24g2w8db5ly4db5ly4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-WGWBYBY
+
+{{< pat "WGWBYBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DB LY DB W G W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LY DB W G W</span></span>
 
 | Tartans |
 |---------------|
 | [Clackson Arisaid (Name?)](/setts/s7/w24g2w8db5ly4db5ly4~x2/)|
 |![Clackson Arisaid (Name?) example sett](/setts/s7/w24g2w8db5ly4db5ly4~x2/sett.png)|
-

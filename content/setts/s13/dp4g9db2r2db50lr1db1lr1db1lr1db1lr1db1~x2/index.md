@@ -2,10 +2,9 @@
 title: "G8 Summit"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBYBYBRBGB](/stripes/bybybybybrbgb/) · **Stripes:** [DB LR DB LR DB LR DB LR DB R DB G DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB LR DB LR DB LR DB LR DB R DB G DP</span></span>
+In pattern [BGBRBYBYBYBYB](/stripes/bgbrbybybybyb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1292
 

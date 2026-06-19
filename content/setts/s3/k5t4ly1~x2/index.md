@@ -2,10 +2,9 @@
 title: "Wilson's, No 118"
 date: 2023-03-18
 ---
-**Bands:** [KBY](/stripes/kby/) · **Stripes:** [K T LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K T LY</span></span>
+In pattern [KBY](/stripes/kby/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,14 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Poulain League (Corporate)](/setts/s3/ly6t38k3~x2/)
-- [Westwater (Edinburgh, 2012)](/setts/s3/k62t33ly1~x2/)
-
 
 ## Thread count
 K/10 B8 Y/2

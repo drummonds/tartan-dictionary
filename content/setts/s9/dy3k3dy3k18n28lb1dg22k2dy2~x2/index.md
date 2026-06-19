@@ -2,10 +2,9 @@
 title: "Black Gold (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBWGKG](/stripes/gkgkbwgkg/) · **Stripes:** [DY K DY K N LB DG K DY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY K DY K N LB DG K DY</span></span>
+In pattern [GKGKBWGKG](/stripes/gkgkbwgkg/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4253/
 

@@ -2,10 +2,9 @@
 title: "Austrian Bowhunters Htg (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKGKRYRKRKRKGKRKG](/stripes/kgkrkgkryrkrkrkgkrkg/) · **Stripes:** [K G K R K G K R LY R K R K R K G K R K G](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K R K G K R LY R K R K R K G K R K G</span></span>
+In pattern [GKRKGKRKRKRYRKGKRKGK](/stripes/gkrkgkrkrkryrkgkrkgk/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6460/
 

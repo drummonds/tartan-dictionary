@@ -2,10 +2,9 @@
 title: "Wcwm 1893-11"
 date: 2023-03-18
 ---
-**Bands:** [BYWRWRBBW](/stripes/bywrwrbbw/) · **Stripes:** [DT LR W O W O DT P W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT LR W O W O DT P W</span></span>
+In pattern [BYWRWRBBW](/stripes/bywrwrbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4547
 

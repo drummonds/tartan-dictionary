@@ -2,10 +2,9 @@
 title: "Canadian Irish Regiment"
 date: 2023-03-18
 ---
-**Bands:** [RGGY](/stripes/rggy/) · **Stripes:** [R G DY LO](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R G DY LO</span></span>
+In pattern [RGGY](/stripes/rggy/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=548
 

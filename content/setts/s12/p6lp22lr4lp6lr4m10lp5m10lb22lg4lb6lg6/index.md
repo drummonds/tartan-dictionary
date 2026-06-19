@@ -2,10 +2,9 @@
 title: "Kinloch Anderson, Romance of"
 date: 2023-03-18
 ---
-**Bands:** [YWYWRWRYWYWB](/stripes/ywywrwrywywb/) · **Stripes:** [LG LB LG LB M LP M LR LP LR LP P](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LG LB LG LB M LP M LR LP LR LP P</span></span>
+In pattern [BWYWYRWRWYWY](/stripes/bwywyrwrwywy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5969
 

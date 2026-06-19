@@ -2,19 +2,11 @@
 title: "Atlin (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKB](/stripes/kbkbkb/) · **Stripes:** [K DB K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB</span></span>
+In pattern [BKBKBK](/stripes/bkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3624/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gagetown (School)](/setts/s6/db2k11db5k1db5k1~x6/)
-
 
 ## Thread count
 K/28 DB28 K28 DB80 K6 DB/4

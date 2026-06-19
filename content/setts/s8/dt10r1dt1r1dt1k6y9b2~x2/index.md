@@ -2,10 +2,9 @@
 title: "Antique 2000"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBKGB](/stripes/brbrbkgb/) · **Stripes:** [DT R DT R DT K Y B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DT R DT R DT K Y B</span></span>
+In pattern [BGKBRBRB](/stripes/bgkbrbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97
 

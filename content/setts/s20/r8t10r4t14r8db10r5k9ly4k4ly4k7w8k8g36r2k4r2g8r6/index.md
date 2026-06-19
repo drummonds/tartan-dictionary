@@ -2,10 +2,9 @@
 title: "Anderson of Kinnedar, hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRGKWKYKYKRBRBRBR](/stripes/rgrkrgkwkykykrbrbrbr/) · **Stripes:** [R G R K R G K W K LY K LY K R DB R T R T R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R K R G K W K LY K LY K R DB R T R T R</span></span>
+In pattern [RBRBRBRKYKYKWKGRKRGR](/stripes/rbrbrbrkykykwkgrkrgr/).
 
-
-This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Anderson of Kinneddar Hunting](/setts/s20/r4t5r2t7r4db5r3k5ly2k3ly2k4w4k4g18r1k2r1g4r3~x2/)
-
 
 ## Thread count
 R/8 Ba10 R4 Ba14 R8 B10 R5 K9 Y4 K4 Y4 K7 LN8 K8 G36 R2 K4 R2 G8 R/6

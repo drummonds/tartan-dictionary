@@ -2,10 +2,9 @@
 title: "MacGleish Formal (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGRY](/stripes/rkgry/) · **Stripes:** [O K DG O LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O K DG O LY</span></span>
+In pattern [RKGRY](/stripes/rkgry/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10289
 

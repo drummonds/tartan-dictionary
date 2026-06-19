@@ -2,10 +2,9 @@
 title: "Unidentified (Jones #1)"
 date: 2023-03-18
 ---
-**Bands:** [KKKKKKKKKKKKGKKGKKKRK](/stripes/kkkkkkkkkkkkgkkgkkkrk/) · **Stripes:** [K K K K K K K K K K K K G K K G K K K R K](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K K K K K K K K K K K K G K K G K K K R K</span></span>
+In pattern [KKKKKKKKKKKKGKKGKKKRK](/stripes/kkkkkkkkkkkkgkkgkkkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4266
 

@@ -2,10 +2,9 @@
 title: "Lamont Heather (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GWYBYBYBYWGWYBYBYB](/stripes/gwybybybywgwybybyb/) · **Stripes:** [Y W LO DO LO DO LO DO LO W Y W LO DO LO DO LO DO](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="seq">Y W LO DO LO DO LO DO LO W Y W LO DO LO DO LO DO</span></span>
+In pattern [BYBYBYWGWYBYBYBYWG](/stripes/bybybywgwybybybywg/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4090/
 

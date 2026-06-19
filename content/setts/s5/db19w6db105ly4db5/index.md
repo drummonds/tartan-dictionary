@@ -2,10 +2,9 @@
 title: "Greenock Morton F. C. (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BYBWB](/stripes/bybwb/) · **Stripes:** [DB LY DB W DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LY DB W DB</span></span>
+In pattern [BWBYB](/stripes/bwbyb/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7467/
 

@@ -2,10 +2,9 @@
 title: "Masai Shuka 05 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [KBRKRKWKWR](/stripes/kbrkrkwkwr/) · **Stripes:** [K P R K R K W K W R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K P R K R K W K W R</span></span>
+In pattern [KBRKRKWKWR](/stripes/kbrkrkwkwr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7196/
 

@@ -2,10 +2,9 @@
 title: "Cramer (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKWBBW](/stripes/bkwbbw/) · **Stripes:** [DP K LB DB DP W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP K LB DB DP W</span></span>
+In pattern [BKWBBW](/stripes/bkwbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5415
 

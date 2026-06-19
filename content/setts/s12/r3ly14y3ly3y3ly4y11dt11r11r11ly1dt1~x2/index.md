@@ -2,10 +2,9 @@
 title: "Bridge of Weir Leather Co. (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RYGYGYGBRRYB](/stripes/rygygygbrryb/) · **Stripes:** [R LY Y LY Y LY Y DT R R LY DT](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="seq">R LY Y LY Y LY Y DT R R LY DT</span></span>
+In pattern [BYRRBGYGYGYR](/stripes/byrrbgygygyr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8275/
 

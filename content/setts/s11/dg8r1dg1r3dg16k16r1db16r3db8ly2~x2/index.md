@@ -2,10 +2,9 @@
 title: "Cameron of Erracht"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRKGRGRG](/stripes/ybrbrkgrgrg/) · **Stripes:** [LY DB R DB R K DG R DG R DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DB R DB R K DG R DG R DG</span></span>
+In pattern [GRGRGKRBRBY](/stripes/grgrgkrbrby/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cameron of Erracht](/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/)
-
 
 ## Thread count
 DG/16 DR2 DG2 DR6 DG32 K32 DR2 DB32 DR6 DB16 LG/4

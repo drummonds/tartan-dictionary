@@ -2,10 +2,9 @@
 title: "Selkirk Silver Band (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKBKBKR](/stripes/krkbkbkbkr/) · **Stripes:** [K R K N K N K DB K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K N K N K DB K R</span></span>
+In pattern [KRKBKBKBKR](/stripes/krkbkbkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8058/
 

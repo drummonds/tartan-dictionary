@@ -2,10 +2,9 @@
 title: "Empire Golf Check"
 date: 2023-03-18
 ---
-**Bands:** [RBBGBGBKBWBGBKBBBR](/stripes/rbbgbgbkbwbgbkbbbr/) · **Stripes:** [R DP DT DG DT DG DT K DP W DP DG DT K DT DP DT R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DP DT DG DT DG DT K DP W DP DG DT K DT DP DT R</span></span>
+In pattern [RBBBKBGBWBKBGBGBBR](/stripes/rbbbkbgbwbkbgbgbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1110
 

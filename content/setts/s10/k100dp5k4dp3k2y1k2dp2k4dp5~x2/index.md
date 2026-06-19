@@ -2,10 +2,9 @@
 title: "Webster, Colin Wesley (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGKBKB](/stripes/kbkbkgkbkb/) · **Stripes:** [K DP K DP K Y K DP K DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K DP K Y K DP K DP</span></span>
+In pattern [BKBKGKBKBK](/stripes/bkbkgkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10119/
 

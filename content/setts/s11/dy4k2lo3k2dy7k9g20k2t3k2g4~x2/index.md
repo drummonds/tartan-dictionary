@@ -2,10 +2,9 @@
 title: "Choinka Family (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKYKGKGKBKG](/stripes/gkykgkgkbkg/) · **Stripes:** [DY K LO K DY K G K T K G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DY K LO K DY K G K T K G</span></span>
+In pattern [GKBKGKGKYKG](/stripes/gkbkgkgkykg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10624/
 

@@ -2,10 +2,9 @@
 title: "MacNab #4"
 date: 2023-03-18
 ---
-**Bands:** [RGRGR](/stripes/rgrgr/) · **Stripes:** [R DG R DG R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R</span></span>
+In pattern [RGRGR](/stripes/rgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2667
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2667](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2667)
 - Scottish Tartans World Register: 1503
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [KaDeWe (Corporate)](/setts/s5/r100dg4r8dg18r3~x2/)
-
 
 ## Thread count
 Ra/172 G6 R6 G12 R/170

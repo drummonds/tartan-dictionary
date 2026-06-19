@@ -2,10 +2,9 @@
 title: "Washington County Sheriff’s Office (Oregon)"
 date: 2023-03-18
 ---
-**Bands:** [KYKWBBKB](/stripes/kykwbbkb/) · **Stripes:** [K LY K W DB T K T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LY K W DB T K T</span></span>
+In pattern [BKBBWKYK](/stripes/bkbbwkyk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10361
 

@@ -2,10 +2,9 @@
 title: "Duchess of York"
 date: 2023-03-18
 ---
-**Bands:** [BGGGKGGGW](/stripes/bgggkgggw/) · **Stripes:** [DB DY DG DY K DY DG DY W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DY DG DY K DY DG DY W</span></span>
+In pattern [BGGGKGGGW](/stripes/bgggkgggw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1005
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1005](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1005)
 - Scottish Tartans World Register: 607
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Duchess of York (Fashion)](/setts/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/)
-
 
 ## Thread count
 B/2 T18 G10 T2 K10 T2 G10 T18 LN/2

@@ -2,10 +2,9 @@
 title: "MacIver Family (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBGGGGGBGBGB](/stripes/gbgggggbgbgb/) · **Stripes:** [Y DT Y Y Y Y Y DT Y DT Y DT](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">Y DT Y Y Y Y Y DT Y DT Y DT</span></span>
+In pattern [BGBGBGGGGGBG](/stripes/bgbgbgggggbg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2492
 

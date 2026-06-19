@@ -2,10 +2,9 @@
 title: "Unidentified #54"
 date: 2023-03-18
 ---
-**Bands:** [WRBRGWGYGWRW](/stripes/wrbrgwgygwrw/) · **Stripes:** [LB O B O DY LB DY LY DY LB R LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB O B O DY LB DY LY DY LB R LB</span></span>
+In pattern [WRBRGWGYGWRW](/stripes/wrbrgwgygwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4255
 

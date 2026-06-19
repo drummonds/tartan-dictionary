@@ -2,10 +2,9 @@
 title: "Highland Spring (1997)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGB](/stripes/grgrgb/) · **Stripes:** [G R G R G DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G R G R G DP</span></span>
+In pattern [BGRGRG](/stripes/bgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1721
 

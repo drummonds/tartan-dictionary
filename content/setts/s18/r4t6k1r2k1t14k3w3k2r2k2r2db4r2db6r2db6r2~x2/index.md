@@ -2,10 +2,9 @@
 title: "Royal Canadian Air Force"
 date: 2023-03-18
 ---
-**Bands:** [RBKRKBKWKRKRBRBRBR](/stripes/rbkrkbkwkrkrbrbrbr/) · **Stripes:** [R T K R K T K W K R K R DB R DB R DB R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T K R K T K W K R K R DB R DB R DB R</span></span>
+In pattern [RBKRKBKWKRKRBRBRBR](/stripes/rbkrkbkwkrkrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3591
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3591](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3591)
 - Scottish Tartans Authority (ITI): 1343
 - Scottish Tartans World Register: 1343
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Royal Canadian Air Force Regimental Tartan Tartan Number: 1343. Earliest known date: 1942 The threadcount was provided by the Canadian Defence Department. Colours specified as dark blue, light blue and maroon. It is unusual to have a single strand used in a thread count as it is impossible to turn the thread on the 'kilt edge'. The sett is recorded and approved by the Lord Lyon. Design is based on the Anderson sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r3/)
-
 
 ## Thread count
 R/8 B12 K2 R4 K2 B28 K6 LN6 K4 R4 K4 R4 DB8 R4 DB12 R4 DB12 R/4

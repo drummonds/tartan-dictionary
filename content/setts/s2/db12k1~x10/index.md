@@ -2,20 +2,11 @@
 title: "Staines"
 date: 2023-03-18
 ---
-**Bands:** [KB](/stripes/kb/) · **Stripes:** [K DB](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB</span></span>
+In pattern [BK](/stripes/bk/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10857/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buffalo Plaid](/setts/s2/k1db1~x100/)
-- [Tartan Army](/setts/s2/db2k1~x4/)
-
 
 ## Thread count
 DB/120 K/10

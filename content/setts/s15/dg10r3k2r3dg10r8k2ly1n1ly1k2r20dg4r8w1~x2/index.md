@@ -2,10 +2,9 @@
 title: "Livingstone (Australia) Official"
 date: 2023-03-18
 ---
-**Bands:** [GRKRGRKYBYKRGRW](/stripes/grkrgrkybykrgrw/) · **Stripes:** [DG R K R DG R K LY N LY K R DG R W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R K R DG R K LY N LY K R DG R W</span></span>
+In pattern [GRKRGRKYBYKRGRW](/stripes/grkrgrkybykrgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10076
 

@@ -2,10 +2,9 @@
 title: "Buchanan #2"
 date: 2023-03-18
 ---
-**Bands:** [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/) · **Stripes:** [T DG K T K LY K LY K T K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DG K T K LY K LY K T K R W</span></span>
+In pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=415
 
@@ -21,15 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [415](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=415)
 - Scottish Tartans World Register: 172
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buchanan #3](/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/)
-- [Buchanan #4](/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/)
-- [Buchanan (Logan)](/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/)
-
 
 ## Thread count
 B/6 G62 K4 B8 K4 Y16 K4 Y16 K4 B8 K4 R62 LN/6

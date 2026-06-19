@@ -2,10 +2,9 @@
 title: "Highland Village"
 date: 2023-03-18
 ---
-**Bands:** [YBRRBYRBY](/stripes/ybrrbyrby/) · **Stripes:** [LY DO O O DO LY O DO LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DO O O DO LY O DO LY</span></span>
+In pattern [YBRRBYRBY](/stripes/ybrrbyrby/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1724
 

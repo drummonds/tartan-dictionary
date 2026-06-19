@@ -2,10 +2,9 @@
 title: "Erskine Veterans"
 date: 2023-03-18
 ---
-**Bands:** [YBKGRGKBBW](/stripes/ybkgrgkbbw/) · **Stripes:** [LY DB K DG R DG K DB B W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB K DG R DG K DB B W</span></span>
+In pattern [WBBKGRGKBY](/stripes/wbbkgrgkby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5870
 

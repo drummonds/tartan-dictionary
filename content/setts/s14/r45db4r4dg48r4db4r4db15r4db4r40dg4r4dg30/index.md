@@ -2,10 +2,9 @@
 title: "Bruce Old"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRBRBRGRG](/stripes/rbrgrbrbrbrgrg/) · **Stripes:** [R DB R DG R DB R DB R DB R DG R DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB R DG R DB R DB R DB R DG R DG</span></span>
+In pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=405
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [405](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=405)
 - Scottish Tartans Authority (ITI): 876
 - Scottish Tartans World Register: 876
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacColl](/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/)
-
 
 ## Thread count
 R/45 B4 R4 G48 R4 B4 R4 B15 R4 B4 R40 G4 R4 G/30

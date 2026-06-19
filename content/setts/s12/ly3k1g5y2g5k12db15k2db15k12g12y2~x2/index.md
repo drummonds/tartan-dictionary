@@ -2,10 +2,9 @@
 title: "Paterson (Dalgleish Version)"
 date: 2023-03-18
 ---
-**Bands:** [YKGGGKBKBKGG](/stripes/ykgggkbkbkgg/) · **Stripes:** [LY K G Y G K DB K DB K G Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY K G Y G K DB K DB K G Y</span></span>
+In pattern [GGKBKBKGGGKY](/stripes/ggkbkbkgggky/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5094
 

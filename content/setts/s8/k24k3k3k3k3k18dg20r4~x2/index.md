@@ -2,10 +2,9 @@
 title: "The Caledonian Hotel"
 date: 2023-03-18
 ---
-**Bands:** [KKKKKKGR](/stripes/kkkkkkgr/) · **Stripes:** [K K K K K K DG R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K K K K K K DG R</span></span>
+In pattern [KKKKKKGR](/stripes/kkkkkkgr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

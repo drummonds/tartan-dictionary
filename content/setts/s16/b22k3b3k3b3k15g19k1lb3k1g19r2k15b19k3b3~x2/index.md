@@ -2,10 +2,9 @@
 title: "Sempill (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRGKWKGKBKBKB](/stripes/bkbkrgkwkgkbkbkb/) · **Stripes:** [B K B K R G K LB K G K B K B K B](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K R G K LB K G K B K B K B</span></span>
+In pattern [BKBKBKGKWKGRKBKB](/stripes/bkbkbkgkwkgrkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2420/
 

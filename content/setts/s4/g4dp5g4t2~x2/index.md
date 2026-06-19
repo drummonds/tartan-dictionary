@@ -2,10 +2,9 @@
 title: "Wilson's No.209"
 date: 2023-03-18
 ---
-**Bands:** [GBGB](/stripes/gbgb/) · **Stripes:** [G DP G T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G DP G T</span></span>
+In pattern [BGBG](/stripes/bgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4740
 

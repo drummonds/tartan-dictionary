@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rgkrkrkr/
 ---
-RGKRKRKR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/r2dy14k26r3k2r12k1r2~x4/tartan.png)
 
 
 
 ## Colour Sequence
-RGKRKRKR
+
+{{< pat "RGKRKRKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K R K R K DY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K DY R</span></span>
 
 | Tartans |
 |---------------|
 | [Booth (Fashion)](/setts/s8/r2dy14k26r3k2r12k1r2~x4/)|
 |![Booth (Fashion) example sett](/setts/s8/r2dy14k26r3k2r12k1r2~x4/sett.png)|
-

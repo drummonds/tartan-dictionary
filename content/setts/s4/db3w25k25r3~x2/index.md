@@ -2,10 +2,9 @@
 title: "Gleneckley"
 date: 2023-03-18
 ---
-**Bands:** [RKWB](/stripes/rkwb/) · **Stripes:** [R K W DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R K W DB</span></span>
+In pattern [BWKR](/stripes/bwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11038
 
@@ -27,13 +26,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11038](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11038)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hamby Sport (Personal)](/setts/s4/r25k13w8db5~x2/)
-
 
 ## Thread count
 DB/6 LN50 K50 R/6

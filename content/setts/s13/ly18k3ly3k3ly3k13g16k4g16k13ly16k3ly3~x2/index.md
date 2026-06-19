@@ -2,10 +2,9 @@
 title: "Campbell Collegiate"
 date: 2023-03-18
 ---
-**Bands:** [YKYKYKGKGKYKY](/stripes/ykykykgkgkyky/) · **Stripes:** [LY K LY K LY K G K G K LY K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K LY K LY K G K G K LY K LY</span></span>
+In pattern [YKYKGKGKYKYKY](/stripes/ykykgkgkykyky/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10456
 

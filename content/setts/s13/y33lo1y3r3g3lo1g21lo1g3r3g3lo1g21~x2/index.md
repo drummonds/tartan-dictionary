@@ -2,10 +2,9 @@
 title: "Terry"
 date: 2023-03-18
 ---
-**Bands:** [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/) · **Stripes:** [Y LO Y R G LO G LO G R G LO G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">Y LO Y R G LO G LO G R G LO G</span></span>
+In pattern [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4096
 

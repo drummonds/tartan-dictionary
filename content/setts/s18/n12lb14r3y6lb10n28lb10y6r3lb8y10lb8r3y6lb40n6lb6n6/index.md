@@ -2,10 +2,9 @@
 title: "Miyuki, House Check Grey, 1003A"
 date: 2023-03-18
 ---
-**Bands:** [BWRGWBWGRWGWRGWBWB](/stripes/bwrgwbwgrwgwrgwbwb/) · **Stripes:** [N LB R Y LB N LB Y R LB Y LB R Y LB N LB N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">N LB R Y LB N LB Y R LB Y LB R Y LB N LB N</span></span>
+In pattern [BWBWGRWGWRGWBWGRWB](/stripes/bwbwgrwgwrgwbwgrwb/).
 
-
-This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

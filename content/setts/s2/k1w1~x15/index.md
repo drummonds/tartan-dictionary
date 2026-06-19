@@ -2,10 +2,9 @@
 title: "Shepherd"
 date: 2023-03-18
 ---
-**Bands:** [KW](/stripes/kw/) · **Stripes:** [K W](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W</span></span>
+In pattern [KW](/stripes/kw/).
 
-
-This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -901,15 +900,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Falkirk Tartan](/setts/s2/k1w1~x24/)
-- [Shepherd Check](/setts/s2/k1w1~x28/)
-- [Shepherd Check (Universal)](/setts/s2/k1w1~x6/)
-
 
 ## Thread count
 K/15 LN/15

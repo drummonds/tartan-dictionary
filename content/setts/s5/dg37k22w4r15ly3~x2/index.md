@@ -2,10 +2,9 @@
 title: "Oakley (2015)"
 date: 2023-03-18
 ---
-**Bands:** [YRWKG](/stripes/yrwkg/) · **Stripes:** [LY R W K DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY R W K DG</span></span>
+In pattern [GKWRY](/stripes/gkwry/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11255/
 

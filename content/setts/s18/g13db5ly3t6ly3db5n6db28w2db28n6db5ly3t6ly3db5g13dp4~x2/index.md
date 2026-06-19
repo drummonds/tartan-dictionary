@@ -2,10 +2,9 @@
 title: "Highland Blue"
 date: 2023-03-18
 ---
-**Bands:** [GBYBYBBBWBBBYBYBGB](/stripes/gbybybbbwbbbybybgb/) · **Stripes:** [G DB LY T LY DB N DB W DB N DB LY T LY DB G DP](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DB LY T LY DB N DB W DB N DB LY T LY DB G DP</span></span>
+In pattern [BGBYBYBBBWBBBYBYBG](/stripes/bgbybybbbwbbbybybg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1706
 

@@ -2,10 +2,9 @@
 title: "Hickory"
 date: 2023-03-18
 ---
-**Bands:** [GBWBWBGBGB](/stripes/gbwbwbgbgb/) · **Stripes:** [Y DO W DO W DO Y DO Y DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">Y DO W DO W DO Y DO Y DB</span></span>
+In pattern [BGBGBWBWBG](/stripes/bgbgbwbwbg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11260
 

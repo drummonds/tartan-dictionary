@@ -2,10 +2,9 @@
 title: "Rose VS"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBRG](/stripes/ybbbbbbrg/) · **Stripes:** [LR DR N DR N DR N R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LR DR N DR N DR N R DG</span></span>
+In pattern [GRBBBBBBY](/stripes/grbbbbbby/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rose VS](/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3/)
-
 
 ## Thread count
 DG/8 DR64 N18 DRa12 N4 DRa6 N4 DRa24 Na/6

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gybygyrygybygr/
 ---
-GYBYGYRYGYBYGR
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-GYBYGYRYGYBYGR
+
+{{< pat "GYBYGYRYGYBYGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### M DG LO DB LO DG LO M LO DG LO DB LO DG <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">M DG LO DB LO DG LO M LO DG LO DB LO DG</span></span>
 
 | Tartans |
 |---------------|
 | [Invertere (Daks #1)](/setts/s14/dg6lo2db2lo11dg2lo2m3lo2dg2lo11db2lo2dg6m3~x2/)|
 |![Invertere (Daks #1) example sett](/setts/s14/dg6lo2db2lo11dg2lo2m3lo2dg2lo11db2lo2dg6m3~x2/sett.png)|
-

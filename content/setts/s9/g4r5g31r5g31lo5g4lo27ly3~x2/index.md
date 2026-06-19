@@ -2,10 +2,9 @@
 title: "Campbell & Co (Beauly) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YYGYGRGRG](/stripes/yygygrgrg/) · **Stripes:** [LY LO G LO G R G R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY LO G LO G R G R G</span></span>
+In pattern [GRGRGYGYY](/stripes/grgrgygyy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8612/
 

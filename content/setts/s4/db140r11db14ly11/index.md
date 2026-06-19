@@ -2,10 +2,9 @@
 title: "Gem"
 date: 2023-03-18
 ---
-**Bands:** [YBRB](/stripes/ybrb/) · **Stripes:** [LY DB R DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB</span></span>
+In pattern [BRBY](/stripes/brby/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1326
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1326](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1326)
 - Scottish Tartans Authority (ITI): 6013
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLaine of Lochbuie](/setts/s4/db32r3db4ly3~x2/)
-
 
 ## Thread count
 DB/140 R11 DB14 Y/11

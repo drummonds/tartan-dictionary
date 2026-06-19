@@ -2,10 +2,9 @@
 title: "MacMaster (New) Family Tartan Tartan Number: 3218. Earliest known date: 2001 Asymetrical design follows Canadian tradition. Elements of the MacInnes and the Nova Scotia tartans were included in line with Dave McMaster's family history. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGYRYGRGRGRBGKRKRKGBRGB](/stripes/grgrgrgyrygrgrgrbgkrkrkgbrgb/) · **Stripes:** [G R G R G R G LY R LY G R G R G R DB G K R K R K G DB R G T](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R G R G R G LY R LY G R G R G R DB G K R K R K G DB R G T</span></span>
+In pattern [BGRBGKRKRKGBRGRGRGYRYGRGRGRG](/stripes/bgrbgkrkrkgbrgrgrgyrygrgrgrg/).
 
-
-This was sourced from house-of-tartan.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3218
 

@@ -2,10 +2,9 @@
 title: "Womack (2014)"
 date: 2023-03-18
 ---
-**Bands:** [GWGKBKWGWYWB](/stripes/gwgkbkwgwywb/) · **Stripes:** [DG W DG K DB K W DG W LY W DO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="seq">DG W DG K DB K W DG W LY W DO</span></span>
+In pattern [BWYWGWKBKGWG](/stripes/bwywgwkbkgwg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10995
 

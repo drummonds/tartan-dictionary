@@ -2,10 +2,9 @@
 title: "Brewer"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRGRGRBGRGRGRBRG](/stripes/rgygrgrgrbgrgrgrbrg/) · **Stripes:** [M G LY G R G R G R B G R G R G R B R G](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M G LY G R G R G R B G R G R G R B R G</span></span>
+In pattern [GRBRGRGRGBRGRGRGYGR](/stripes/grbrgrgrgbrgrgrgygr/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=349
 

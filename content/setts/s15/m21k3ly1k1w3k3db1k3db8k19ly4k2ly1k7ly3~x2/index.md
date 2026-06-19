@@ -2,10 +2,9 @@
 title: "Ruxton"
 date: 2023-03-18
 ---
-**Bands:** [RKYKWKBKBKYKYKY](/stripes/rkykwkbkbkykyky/) · **Stripes:** [M K LY K W K DB K DB K LY K LY K LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">M K LY K W K DB K DB K LY K LY K LY</span></span>
+In pattern [RKYKWKBKBKYKYKY](/stripes/rkykwkbkbkykyky/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Highlands of Haliburton Dress"
 date: 2023-03-18
 ---
-**Bands:** [RRBGRBWGBBRWBWB](/stripes/rrbgrbwgbbrwbwb/) · **Stripes:** [O R DR G O T W G T DR R W T W T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">O R DR G O T W G T DR R W T W T</span></span>
+In pattern [BWBWRBBGWBRGBRR](/stripes/bwbwrbbgwbrgbrr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10474
 

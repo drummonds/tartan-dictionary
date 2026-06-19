@@ -2,10 +2,9 @@
 title: "Lochaber #3"
 date: 2023-03-18
 ---
-**Bands:** [RBBB](/stripes/rbbb/) · **Stripes:** [R DB T DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB T DB</span></span>
+In pattern [BBBR](/stripes/bbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2161
 

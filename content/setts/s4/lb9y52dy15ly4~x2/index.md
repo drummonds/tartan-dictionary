@@ -2,10 +2,9 @@
 title: "McGuigan, Julia (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGGW](/stripes/yggw/) · **Stripes:** [LY DY Y LB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY DY Y LB</span></span>
+In pattern [WGGY](/stripes/wggy/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10605/
 

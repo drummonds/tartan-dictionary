@@ -2,10 +2,9 @@
 title: "Roderick Dhu"
 date: 2023-03-18
 ---
-**Bands:** [BKRKGYKGW](/stripes/bkrkgykgw/) · **Stripes:** [B K R K G LY K G LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">B K R K G LY K G LB</span></span>
+In pattern [BKRKGYKGW](/stripes/bkrkgykgw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3541
 

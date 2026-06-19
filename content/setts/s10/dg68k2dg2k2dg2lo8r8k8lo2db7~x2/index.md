@@ -2,10 +2,9 @@
 title: "Moran Family Ubique"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGYRKYB](/stripes/gkgkgyrkyb/) · **Stripes:** [DG K DG K DG LO R K LO DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">DG K DG K DG LO R K LO DB</span></span>
+In pattern [BYKRYGKGKG](/stripes/bykrygkgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3006
 

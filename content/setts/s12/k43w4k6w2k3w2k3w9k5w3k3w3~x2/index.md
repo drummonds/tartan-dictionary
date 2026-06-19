@@ -2,10 +2,9 @@
 title: "Stuart/Stewart Mourning"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKWKWKW](/stripes/kwkwkwkwkwkw/) · **Stripes:** [K W K W K W K W K W K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K W K W K W K W K W</span></span>
+In pattern [KWKWKWKWKWKW](/stripes/kwkwkwkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4009
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scott](/setts/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/)
-
 
 ## Thread count
 K/86 LN8 K12 LN4 K6 LN4 K6 LN18 K10 LN6 K6 LN/6

@@ -2,10 +2,9 @@
 title: "Buie"
 date: 2023-03-18
 ---
-**Bands:** [RKR](/stripes/rkr/) · **Stripes:** [R K R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R</span></span>
+In pattern [RKR](/stripes/rkr/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=436
 

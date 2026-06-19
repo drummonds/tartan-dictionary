@@ -2,10 +2,9 @@
 title: "Widows Sons Scotland (MRA)"
 date: 2023-03-18
 ---
-**Bands:** [YBKGKW](/stripes/ybkgkw/) · **Stripes:** [LO DP K DG K LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO DP K DG K LB</span></span>
+In pattern [WKGKBY](/stripes/wkgkby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10965
 

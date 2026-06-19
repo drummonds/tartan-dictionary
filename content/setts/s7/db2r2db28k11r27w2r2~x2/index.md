@@ -2,10 +2,9 @@
 title: "Americana - 1978 #2 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWRKBRB](/stripes/rwrkbrb/) · **Stripes:** [R W R K DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R K DB R DB</span></span>
+In pattern [BRBKRWR](/stripes/brbkrwr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7893/
 

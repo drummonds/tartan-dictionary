@@ -2,10 +2,9 @@
 title: "Le Cercle des Femmes (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGWBGGKGRKWRGYKWK](/stripes/kgwbggkgrkwrgykwk/) · **Stripes:** [K G LB DO G Y K Y O K LB O G LO K LB K](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">K G LB DO G Y K Y O K LB O G LO K LB K</span></span>
+In pattern [KGWBGGKGRKWRGYKWK](/stripes/kgwbggkgrkwrgykwk/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3136/
 

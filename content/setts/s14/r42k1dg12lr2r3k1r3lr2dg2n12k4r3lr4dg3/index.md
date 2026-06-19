@@ -2,10 +2,9 @@
 title: "MacFarlane"
 date: 2023-03-18
 ---
-**Bands:** [RKGYRKRYGBKRYG](/stripes/rkgyrkrygbkryg/) · **Stripes:** [R K DG LR R K R LR DG N K R LR DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">R K DG LR R K R LR DG N K R LR DG</span></span>
+In pattern [GYRKBGYRKRYGKR](/stripes/gyrkbgyrkrygkr/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacFarlane](/setts/s14/r42k1dg12lr2r3k1r3lr2dg2n12k4r3lr4dg3~x2/)
-
 
 ## Thread count
 DR/42 K1 DG12 Na2 DR3 K1 DR3 Na2 DG2 N12 K4 DR3 Na4 DG/3

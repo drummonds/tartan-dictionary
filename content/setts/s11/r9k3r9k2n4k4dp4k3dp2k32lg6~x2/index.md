@@ -2,10 +2,9 @@
 title: "Brotherhood of Dirk, The"
 date: 2023-03-18
 ---
-**Bands:** [RKRKBKBKBKY](/stripes/rkrkbkbkbky/) · **Stripes:** [R K R K N K DP K DP K LG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="seq">R K R K N K DP K DP K LG</span></span>
+In pattern [RKRKBKBKBKY](/stripes/rkrkbkbkbky/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10343
 

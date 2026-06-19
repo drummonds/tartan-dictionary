@@ -2,10 +2,9 @@
 title: "Clergy (Logan) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KWBWKWKBKBKWBWKWKWBWKBKBKWKWBWKW](/stripes/kwbwkwkbkbkwbwkwkwbwkbkbkwkwbwkw/) · **Stripes:** [K LB N LB K LB K N K N K LB N LB K LB K LB N LB K N K N K LB K LB N LB K LB](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LB N LB K LB K N K N K LB N LB K LB K LB N LB K N K N K LB K LB N LB K LB</span></span>
+In pattern [KWBWKWKBKBKWBWKWKWBWKBKBKWKWBWKW](/stripes/kwbwkwkbkbkwbwkwkwbwkbkbkwkwbwkw/).
 
-
-This was sourced from tartans-authority.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1823/
 

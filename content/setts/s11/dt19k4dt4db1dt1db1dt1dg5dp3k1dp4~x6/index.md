@@ -2,10 +2,9 @@
 title: "Spirit of Scotland"
 date: 2023-03-18
 ---
-**Bands:** [BKBGBBBBBKB](/stripes/bkbgbbbbbkb/) · **Stripes:** [DP K DP DG DT DB DT DB DT K DT](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">DP K DP DG DT DB DT DB DT K DT</span></span>
+In pattern [BKBBBBBGBKB](/stripes/bkbbbbbgbkb/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

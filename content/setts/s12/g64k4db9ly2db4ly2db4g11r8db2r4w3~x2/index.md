@@ -2,19 +2,11 @@
 title: "Sillars (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GKBYBYBGRBRW](/stripes/gkbybybgrbrw/) · **Stripes:** [G K DB LY DB LY DB G R DB R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G K DB LY DB LY DB G R DB R W</span></span>
+In pattern [GKBYBYBGRBRW](/stripes/gkbybybgrbrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3207/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Seller Clan (Personal)](/setts/s12/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/)
-
 
 ## Thread count
 G/128 K8 DB18 Y4 DB8 Y4 DB8 G22 R16 DB4 R8 W/6

@@ -2,10 +2,9 @@
 title: "Highlands School (North Carolina)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBBBBW](/stripes/ybybbbbw/) · **Stripes:** [LO DB LO DB DT DB DT LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO DB LO DB DT DB DT LB</span></span>
+In pattern [WBBBBYBY](/stripes/wbbbbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1732
 

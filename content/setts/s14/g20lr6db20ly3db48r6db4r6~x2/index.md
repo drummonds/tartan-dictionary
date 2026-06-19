@@ -2,10 +2,9 @@
 title: "Warren Wilson College"
 date: 2023-03-18
 ---
-**Bands:** [YBYBRBRBRBYBYG](/stripes/ybybrbrbrbybyg/) · **Stripes:** [LR DB LY DB R DB R DB R DB LY DB LR G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR DB LY DB R DB R DB R DB LY DB LR G</span></span>
+In pattern [GYBYBRBRBRBYBY](/stripes/gybybrbrbrbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4492
 

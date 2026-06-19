@@ -2,10 +2,9 @@
 title: "Unidentified, Wilson sample."
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGRGKYKGRGRGKBRBKBKWKBKBKBKB](/stripes/bkbkbkgrgrgkykgrgrgkbrbkbkwkbkbkbkb/) · **Stripes:** [DB K DB K DB K G R G R G K LY K G R G R G K DB R DB K DB K W K DB K DB K DB K DB](/stripes/stripes35/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G R G R G K LY K G R G R G K DB R DB K DB K W K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKWKBKBRBKGRGRGKYKGRGRGKBKBKB](/stripes/bkbkbkbkwkbkbrbkgrgrgkykgrgrgkbkbkb/).
 
-
-This was sourced from weddslist.  It is a [35 band tartan](/bands/bands35/).
+This was sourced from weddslist.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Modowny"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKBKBY](/stripes/rbkbkbkby/) · **Stripes:** [R N K N K N K N LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R N K N K N K N LY</span></span>
+In pattern [RBKBKBKBY](/stripes/rbkbkbkby/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2973
 

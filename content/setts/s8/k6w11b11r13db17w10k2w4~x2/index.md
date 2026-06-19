@@ -2,10 +2,9 @@
 title: "Edinburgh Military Tattoo Dress"
 date: 2023-03-18
 ---
-**Bands:** [KWBRBWKW](/stripes/kwbrbwkw/) · **Stripes:** [K W B R DB W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W B R DB W K W</span></span>
+In pattern [KWBRBWKW](/stripes/kwbrbwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1084
 

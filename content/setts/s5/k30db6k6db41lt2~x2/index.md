@@ -2,10 +2,9 @@
 title: "Williams (New York) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBW](/stripes/kbkbw/) · **Stripes:** [K DB K DB LT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">K DB K DB LT</span></span>
+In pattern [KBKBW](/stripes/kbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10107
 

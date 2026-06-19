@@ -2,10 +2,9 @@
 title: "Triplett, Jack Arnold"
 date: 2023-03-18
 ---
-**Bands:** [BRBW](/stripes/brbw/) · **Stripes:** [T R B W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T R B W</span></span>
+In pattern [BRBW](/stripes/brbw/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10565/
 

@@ -2,10 +2,9 @@
 title: "MacLachlan"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKBGBKRKR](/stripes/rkrkrkbgbkrkr/) · **Stripes:** [R K R K R K DB G DB K R K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K DB G DB K R K R</span></span>
+In pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
 
-
-This was sourced from logan-1831.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,13 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **MacLachlan** name adjusted Logan's counts: [MacLachlan](/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2~b202060-g006818-k101010-rc80000~x2/); [MacLachlan #2](/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2~b2c4084-g005020-k101010-rdc0000~x2/); [MacLachlan #3](/setts/s15/r12k2r2k2r2k10b10k1g3k1b12k10r12k2r2~b2c4084-g005020-k101010-rdc0000~x2/); [MacLachlan #4](/setts/s7/r24w2y3g16k16w2y3~g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLachlan](/setts/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2~x2/)
-
 
 ## Thread count
 R/32 K8 R8 K8 R8 K64 DB64 G12 DB64 K64 R64 K8 R/8

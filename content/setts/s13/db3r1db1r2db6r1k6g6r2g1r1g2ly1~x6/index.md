@@ -2,10 +2,9 @@
 title: "Carnegie"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGKRBRBRB](/stripes/ygrgrgkrbrbrb/) · **Stripes:** [LY G R G R G K R DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G R G R G K R DB R DB R DB</span></span>
+In pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=566
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [566](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=566)
 - Scottish Tartans Authority (ITI): 489
 - Scottish Tartans World Register: 489
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Carnegie](/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/)
-
 
 ## Thread count
 DB/18 R6 DB6 R12 DB36 R6 K36 G36 R12 G6 R6 G12 Y/6

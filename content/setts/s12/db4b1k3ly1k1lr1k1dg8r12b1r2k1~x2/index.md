@@ -2,10 +2,9 @@
 title: "MacLean"
 date: 2023-03-18
 ---
-**Bands:** [KRBRGKYKYKBB](/stripes/krbrgkykykbb/) · **Stripes:** [K R B R DG K LR K LY K B DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">K R B R DG K LR K LY K B DB</span></span>
+In pattern [BBKYKYKGRBRK](/stripes/bbkykykgrbrk/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

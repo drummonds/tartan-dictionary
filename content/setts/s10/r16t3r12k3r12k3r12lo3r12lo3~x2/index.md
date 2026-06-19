@@ -2,10 +2,9 @@
 title: "Duffus Plaid, Lord"
 date: 2023-03-18
 ---
-**Bands:** [RBRKRKRYRY](/stripes/rbrkrkryry/) · **Stripes:** [R T R K R K R LO R LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R T R K R K R LO R LO</span></span>
+In pattern [RBRKRKRYRY](/stripes/rbrkrkryry/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1007
 

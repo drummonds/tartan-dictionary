@@ -2,10 +2,9 @@
 title: "Cameron Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGRGBGY](/stripes/rgrgbgy/) · **Stripes:** [R DG R DG DB DG LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG R DG DB DG LY</span></span>
+In pattern [RGRGBGY](/stripes/rgrgbgy/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -48,13 +47,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cameron Hunting](/setts/s7/r3dg10r3dg14db16dg3ly2~x2/)
-
 
 ## Thread count
 R/3 G10 R3 G14 DB16 G3 Y/2

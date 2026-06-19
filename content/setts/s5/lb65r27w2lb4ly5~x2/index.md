@@ -2,10 +2,9 @@
 title: "Perry Arisaid (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YWWRW](/stripes/ywwrw/) · **Stripes:** [LY LB W R LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY LB W R LB</span></span>
+In pattern [WRWWY](/stripes/wrwwy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3320
 

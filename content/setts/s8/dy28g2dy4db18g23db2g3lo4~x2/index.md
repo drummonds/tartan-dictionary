@@ -2,10 +2,9 @@
 title: "Eastern Western Motor Group, Dalbraith"
 date: 2023-03-18
 ---
-**Bands:** [YGBGBGGG](/stripes/ygbgbggg/) · **Stripes:** [LO G DB G DB DY G DY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO G DB G DB DY G DY</span></span>
+In pattern [GGGBGBGY](/stripes/gggbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=875
 

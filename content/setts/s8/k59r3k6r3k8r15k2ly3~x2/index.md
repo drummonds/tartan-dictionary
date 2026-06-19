@@ -2,20 +2,11 @@
 title: "Royal Army PTC Assoc. (Military)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKY](/stripes/krkrkrky/) · **Stripes:** [K R K R K R K LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R K R K R K LY</span></span>
+In pattern [KRKRKRKY](/stripes/krkrkrky/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10603/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Oilmens (Corporate)](/setts/s8/ly4k1r30k15r24k2r4k1~x4/)
-- [Royal Army Physical Training Corps Association (Scotland)](/setts/s8/k94r3k6r3k8r15k2ly3~x2/)
-
 
 ## Thread count
 K/118 R6 K12 R6 K16 R30 K4 Y/6

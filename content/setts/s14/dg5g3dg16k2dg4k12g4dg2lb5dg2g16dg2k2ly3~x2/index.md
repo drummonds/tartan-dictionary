@@ -2,10 +2,9 @@
 title: "Celtic Football Club (1996)"
 date: 2023-03-18
 ---
-**Bands:** [YKGGGWGGKGKGGG](/stripes/ykgggwggkgkggg/) · **Stripes:** [LY K DG G DG LB DG G K DG K DG G DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K DG G DG LB DG G K DG K DG G DG</span></span>
+In pattern [GGGKGKGGWGGGKY](/stripes/gggkgkggwgggky/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=606
 

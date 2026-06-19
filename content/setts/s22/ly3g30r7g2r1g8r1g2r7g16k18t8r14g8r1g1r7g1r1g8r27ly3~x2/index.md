@@ -2,10 +2,9 @@
 title: "Unidentified"
 date: 2023-03-18
 ---
-**Bands:** [YRGRGRGRGRBKGRGRGRGRGY](/stripes/yrgrgrgrgrbkgrgrgrgrgy/) · **Stripes:** [LY R G R G R G R G R T K G R G R G R G R G LY](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY R G R G R G R G R T K G R G R G R G R G LY</span></span>
+In pattern [YGRGRGRGRGKBRGRGRGRGRY](/stripes/ygrgrgrgrgkbrgrgrgrgry/).
 
-
-This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8905/
 

@@ -2,10 +2,9 @@
 title: "Stewart Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GBKBKBKGRGKGKGKGKGYGKBKBKBG](/stripes/gbkbkbkgrgkgkgkgkgygkbkbkbg/) · **Stripes:** [DG DB K DB K DB K DG R DG K DG K DG K DG K DG LY DG K DB K DB K DB DG](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DG DB K DB K DB K DG R DG K DG K DG K DG K DG LY DG K DB K DB K DB DG</span></span>
+In pattern [GBKBKBKGRGKGKGKGKGYGKBKBKBG](/stripes/gbkbkbkgrgkgkgkgkgygkbkbkbg/).
 
-
-This was sourced from weddslist.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -30,17 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart Hunting](/setts/s27/dg2db7k1db1k1db1k3dg11r2dg11k3dg2k6dg2k6dg2k3dg11ly2dg11k3db1k1db1k1db7dg2~x2/)
-- [Stewart Hunting](/setts/s27/dg2db7k1db1k1db1k3dg11r4dg11k3dg2k6dg4k6dg2k3dg11ly4dg11k3db1k1db1k1db7dg2/)
-- [Stewart Hunting D](/setts/s27/dg2db3k1db1k1db1k4dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db1k1db3dg2/)
-- [Stewart Hunting D](/setts/s27/dg2db3k1db1k1db1k4dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db1k1db3dg2~x2/)
-- [Stewart Hunting D](/setts/s27/dg2db3k1db1k1db1k4dg12r4dg12k3dg2k6dg4k6dg2k3dg12ly4dg12k4db1k1db1k1db3dg2/)
-
 
 ## Thread count
 G/2 DB8 K1 DB1 K1 DB1 K2 G11 R2 G11 K3 G2 K6 G2 K6 G2 K3 G11 Y2 G11 K2 DB1 K1 DB1 K1 DB8 G/2

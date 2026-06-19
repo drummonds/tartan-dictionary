@@ -2,10 +2,9 @@
 title: "Pendleton dress Corporate Tartan Tartan Number: 2468. Earliest known date: 1998 From Pendleton Mills, established in 1863 and located in Portland, Oregon. Ms Annette Hoeffel from Pendleton Woolen Mills is mentioned but it's not known in what capacity - contributer or designer. This tartan and #2467 are virtually identical with the tan line in the former being replaced with a yellow line for the 'Dress'. Pendelton #3 is possibly the one that should be labelled dress. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BGRGKGYGBBBGYGKGRGBB](/stripes/bgrgkgygbbbgygkgrgbb/) · **Stripes:** [DB DG R DG K DG LY DG DB DB DB DG LY DG K DG R DG DB DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DG R DG K DG LY DG DB DB DB DG LY DG K DG R DG DB DB</span></span>
+In pattern [BBGRGKGYGBBBGYGKGRGB](/stripes/bbgrgkgygbbbgygkgrgb/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2468
 

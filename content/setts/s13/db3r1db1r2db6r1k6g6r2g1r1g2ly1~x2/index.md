@@ -2,10 +2,9 @@
 title: "Carnegie"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGKRBRBRB](/stripes/ygrgrgkrbrbrb/) · **Stripes:** [LY G R G R G K R DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G R G R G K R DB R DB R DB</span></span>
+In pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Carnegie](/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x6/)
-
 
 ## Thread count
 B/6 R2 B2 R4 B12 R2 K12 G12 R4 G2 R2 G4 Y/2

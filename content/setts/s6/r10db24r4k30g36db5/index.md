@@ -2,10 +2,9 @@
 title: "MacWilliam"
 date: 2023-03-18
 ---
-**Bands:** [RBRKGB](/stripes/rbrkgb/) · **Stripes:** [R DB R K G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R K G DB</span></span>
+In pattern [BGKRBR](/stripes/bgkrbr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

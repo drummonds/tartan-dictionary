@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkywyk/
 ---
-BKYWYK
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/k10lr2w5lr4k50b2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BKYWYK
+
+{{< pat "BKYWYK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LR W LR K B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K LR W LR K B</span></span>
 
 | Tartans |
 |---------------|
 | [London Fog Black](/setts/s6/k10lr2w5lr4k50b2~x2/)|
 |![London Fog Black example sett](/setts/s6/k10lr2w5lr4k50b2~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Unidentified"
 date: 2023-03-18
 ---
-**Bands:** [GKYKGKGKGGGKGWGYGYKYKYKYKYKBKBKBKB](/stripes/gkykgkgkgggkgwgygykykykykykbkbkbkb/) · **Stripes:** [G K LY K G K G K G G G K G W G LY G LY K LY K LY K LY K LY K DB K DB K DB K DB](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K LY K G K G K G G G K G W G LY G LY K LY K LY K LY K LY K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKYKYKYKYKYGYGWGKGGGKGKGKYKG](/stripes/bkbkbkbkykykykykygygwgkgggkgkgkykg/).
 
-
-This was sourced from tartans-authority.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4716/
 

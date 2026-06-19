@@ -2,10 +2,9 @@
 title: "Erskine (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRG](/stripes/rgrgrg/) · **Stripes:** [R G R G R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G</span></span>
+In pattern [GRGRGR](/stripes/grgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1119
 
@@ -895,14 +894,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacQuarrie #5](/setts/s6/r16g1r1g1r4g12~x4/)
-- [Unidentified, NW Highlands](/setts/s6/r2g2r16g15r2g2~x2/)
-
 
 ## Thread count
 G/12 R2 G48 R56 G2 R/8

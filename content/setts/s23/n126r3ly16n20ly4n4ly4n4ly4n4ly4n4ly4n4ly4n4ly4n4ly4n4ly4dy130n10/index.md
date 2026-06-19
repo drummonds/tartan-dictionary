@@ -2,10 +2,9 @@
 title: "Unidentified Plaid #13"
 date: 2023-03-18
 ---
-**Bands:** [BRYBYBYBYBYBYBYBYBYBYGB](/stripes/brybybybybybybybybybygb/) · **Stripes:** [N R LY N LY N LY N LY N LY N LY N LY N LY N LY N LY DY N](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">N R LY N LY N LY N LY N LY N LY N LY N LY N LY N LY DY N</span></span>
+In pattern [BGYBYBYBYBYBYBYBYBYBYRB](/stripes/bgybybybybybybybybybyrb/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4346
 

@@ -2,10 +2,9 @@
 title: "Norwich No.001"
 date: 2023-03-18
 ---
-**Bands:** [RGKYKWKGKRGRGRKGKWKYKG](/stripes/rgkykwkgkrgrgrkgkwkykg/) · **Stripes:** [R Y K LO K LB K DG K R Y R Y R K DG K LB K LO K Y](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y K LO K LB K DG K R Y R Y R K DG K LB K LO K Y</span></span>
+In pattern [GKYKWKGKRGRGRKGKWKYKGR](/stripes/gkykwkgkrgrgrkgkwkykgr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3169
 

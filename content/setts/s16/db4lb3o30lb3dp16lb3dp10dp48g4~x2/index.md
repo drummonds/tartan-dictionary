@@ -2,10 +2,9 @@
 title: "Heather (RSPCC)"
 date: 2023-03-18
 ---
-**Bands:** [BWRWBWBBGBBWBWRW](/stripes/bwrwbwbbgbbwbwrw/) · **Stripes:** [DB LB O LB DP LB DP DP G DP DP LB DP LB O LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB LB O LB DP LB DP DP G DP DP LB DP LB O LB</span></span>
+In pattern [BWRWBWBBGBBWBWRW](/stripes/bwrwbwbbgbbwbwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1646
 

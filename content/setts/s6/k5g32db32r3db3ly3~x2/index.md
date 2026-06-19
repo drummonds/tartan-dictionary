@@ -2,10 +2,9 @@
 title: "Carmichael"
 date: 2023-03-18
 ---
-**Bands:** [KGBRBY](/stripes/kgbrby/) · **Stripes:** [K G DB R DB LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K G DB R DB LY</span></span>
+In pattern [KGBRBY](/stripes/kgbrby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=565
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [565](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=565)
 - Scottish Tartans Authority (ITI): 1078
 - Scottish Tartans World Register: 1078
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Carmichael](/setts/s6/k3g36db28r2db2ly3~x2/)
-
 
 ## Thread count
 K/10 G64 DB64 R6 DB6 Y/6

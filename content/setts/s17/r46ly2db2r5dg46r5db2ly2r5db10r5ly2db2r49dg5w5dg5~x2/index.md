@@ -2,10 +2,9 @@
 title: "Stirling Weavers Guild"
 date: 2023-03-18
 ---
-**Bands:** [RYBRGRBYRBRYBRGWG](/stripes/rybrgrbyrbrybrgwg/) · **Stripes:** [R LY DB R DG R DB LY R DB R LY DB R DG W DG](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">R LY DB R DG R DB LY R DB R LY DB R DG W DG</span></span>
+In pattern [GWGRBYRBRYBRGRBYR](/stripes/gwgrbyrbrybrgrbyr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3969
 

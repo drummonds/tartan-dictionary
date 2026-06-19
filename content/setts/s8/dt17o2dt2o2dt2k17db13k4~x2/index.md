@@ -2,10 +2,9 @@
 title: "Balmoral Hotel"
 date: 2023-03-18
 ---
-**Bands:** [KBKBRBRB](/stripes/kbkbrbrb/) · **Stripes:** [K DB K DT O DT O DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">K DB K DT O DT O DT</span></span>
+In pattern [BRBRBKBK](/stripes/brbrbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5100
 

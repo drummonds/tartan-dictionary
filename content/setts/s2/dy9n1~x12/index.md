@@ -2,10 +2,9 @@
 title: "Outlander #4"
 date: 2023-03-18
 ---
-**Bands:** [GB](/stripes/gb/) · **Stripes:** [DY N](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">DY N</span></span>
+In pattern [BG](/stripes/bg/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11116/
 

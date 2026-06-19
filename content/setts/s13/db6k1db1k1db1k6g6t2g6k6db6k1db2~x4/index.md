@@ -2,19 +2,11 @@
 title: "Cheape of Torosay (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGBGKBKBKB](/stripes/bkbkgbgkbkbkb/) · **Stripes:** [DB K DB K G T G K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G T G K DB K DB K DB</span></span>
+In pattern [BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/210/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cheape](/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x2/)
-
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 B8 G24 K24 DB24 K4 DB/8

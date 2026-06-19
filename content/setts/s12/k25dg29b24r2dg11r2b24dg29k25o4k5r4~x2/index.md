@@ -2,10 +2,9 @@
 title: "ABF The Soldiers' Charity"
 date: 2023-03-18
 ---
-**Bands:** [KGBRGRBGKRKR](/stripes/kgbrgrbgkrkr/) · **Stripes:** [K DG B R DG R B DG K O K R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG B R DG R B DG K O K R</span></span>
+In pattern [KGBRGRBGKRKR](/stripes/kgbrgrbgkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10446
 

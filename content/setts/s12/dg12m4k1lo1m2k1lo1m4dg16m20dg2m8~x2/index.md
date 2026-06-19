@@ -2,10 +2,9 @@
 title: "Livingstone Australia (NSW) (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRYKRYKRG](/stripes/rgrgrykrykrg/) · **Stripes:** [M DG M DG M LO K M LO K M DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="seq">M DG M DG M LO K M LO K M DG</span></span>
+In pattern [GRKYRKYRGRGR](/stripes/grkyrkyrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10051/
 

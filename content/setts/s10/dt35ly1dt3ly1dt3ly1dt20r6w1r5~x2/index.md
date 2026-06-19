@@ -2,10 +2,9 @@
 title: "Alpha Chi Sigma Fraternity"
 date: 2023-03-18
 ---
-**Bands:** [RWRBYBYBYB](/stripes/rwrbybybyb/) · **Stripes:** [R W R DT LY DT LY DT LY DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="seq">R W R DT LY DT LY DT LY DT</span></span>
+In pattern [BYBYBYBRWR](/stripes/bybybybrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=63
 

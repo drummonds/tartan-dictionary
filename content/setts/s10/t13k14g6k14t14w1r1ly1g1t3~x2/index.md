@@ -2,10 +2,9 @@
 title: "Scotshill"
 date: 2023-03-18
 ---
-**Bands:** [BKGKBWRYGB](/stripes/bkgkbwrygb/) · **Stripes:** [T K G K T W R LY G T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K G K T W R LY G T</span></span>
+In pattern [BGYRWBKGKB](/stripes/bgyrwbkgkb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11175
 

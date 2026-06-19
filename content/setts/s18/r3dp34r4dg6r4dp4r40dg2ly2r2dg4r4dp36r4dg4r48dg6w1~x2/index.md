@@ -2,10 +2,9 @@
 title: "Unnamed C18th - S.Uist"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRGYRGRBRGRGW](/stripes/rbrgrbrgyrgrbrgrgw/) · **Stripes:** [R DP R DG R DP R DG LY R DG R DP R DG R DG W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DP R DG R DP R DG LY R DG R DP R DG R DG W</span></span>
+In pattern [RBRGRBRGYRGRBRGRGW](/stripes/rbrgrbrgyrgrbrgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5308
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5308](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5308)
 - Scottish Tartans Authority (ITI): 3028
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Plowman (Personal)](/setts/s18/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1~x2/)
-
 
 ## Thread count
 DR/6 DP68 DR8 G12 DR8 DP8 DR80 G4 Y4 DR4 G8 DR8 DP72 DR8 G8 DR96 G12 LN/2

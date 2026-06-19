@@ -2,10 +2,9 @@
 title: "State Seal of North Dakota (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBBBBBGBG](/stripes/ybgbbbbbgbg/) · **Stripes:** [LO DB DY DB B DB B DP G DP G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO DB DY DB B DB B DP G DP G</span></span>
+In pattern [GBGBBBBBGBY](/stripes/gbgbbbbbgby/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8648/
 

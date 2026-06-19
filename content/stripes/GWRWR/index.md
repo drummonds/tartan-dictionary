@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gwrwr/
 ---
-GWRWR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/r27w3r6w2dg3~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GWRWR
+
+{{< pat "GWRWR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R W R W DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">R W R W DG</span></span>
 
 | Tartans |
 |---------------|
 | [Martin, Robert N (Personal)](/setts/s5/r27w3r6w2dg3~x4/)|
 |![Martin, Robert N (Personal) example sett](/setts/s5/r27w3r6w2dg3~x4/sett.png)|
-

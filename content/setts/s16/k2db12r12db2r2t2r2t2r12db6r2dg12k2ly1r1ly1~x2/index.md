@@ -2,10 +2,9 @@
 title: "Catalan Dance"
 date: 2023-03-18
 ---
-**Bands:** [KBRBRBRBRBRGKYRY](/stripes/kbrbrbrbrbrgkyry/) · **Stripes:** [K DB R DB R T R T R DB R DG K LY R LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K DB R DB R T R T R DB R DG K LY R LY</span></span>
+In pattern [KBRBRBRBRBRGKYRY](/stripes/kbrbrbrbrbrgkyry/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=594
 

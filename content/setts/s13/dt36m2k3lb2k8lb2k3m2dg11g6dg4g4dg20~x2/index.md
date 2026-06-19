@@ -2,10 +2,9 @@
 title: "Carson of Rusco (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGRKWKWKRB](/stripes/gggggrkwkwkrb/) · **Stripes:** [DG G DG G DG M K LB K LB K M DT](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="seq">DG G DG G DG M K LB K LB K M DT</span></span>
+In pattern [BRKWKWKRGGGGG](/stripes/brkwkwkrggggg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3256/
 

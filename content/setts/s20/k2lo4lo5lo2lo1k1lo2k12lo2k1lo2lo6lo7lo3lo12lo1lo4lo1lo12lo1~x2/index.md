@@ -2,10 +2,9 @@
 title: "Highland Aircraft"
 date: 2023-03-18
 ---
-**Bands:** [KYYYYKYKYKYYYYYYYYYY](/stripes/kyyyykykykyyyyyyyyyy/) · **Stripes:** [K LO LO LO LO K LO K LO K LO LO LO LO LO LO LO LO LO LO](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO LO LO LO K LO K LO K LO LO LO LO LO LO LO LO LO LO</span></span>
+In pattern [KYYYYKYKYKYYYYYYYYYY](/stripes/kyyyykykykyyyyyyyyyy/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11006/
 

@@ -2,10 +2,9 @@
 title: "Prince Albert #3"
 date: 2023-03-18
 ---
-**Bands:** [RBRKYKWKGRKRW](/stripes/rbrkykwkgrkrw/) · **Stripes:** [R DB R K LY K W K G R K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB R K LY K W K G R K R W</span></span>
+In pattern [RBRKYKWKGRKRW](/stripes/rbrkykwkgrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3386
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3386](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3386)
 - Scottish Tartans Authority (ITI): 6847
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Prince Albert](/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x2/)
-
 
 ## Thread count
 R/12 DB36 R8 K28 Y8 K8 W8 K8 G24 R20 K8 R8 W/8

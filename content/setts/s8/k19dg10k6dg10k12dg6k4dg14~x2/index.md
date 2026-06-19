@@ -2,10 +2,9 @@
 title: "Menzies Green"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKG](/stripes/kgkgkgkg/) · **Stripes:** [K DG K DG K DG K DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K DG K DG</span></span>
+In pattern [GKGKGKGK](/stripes/gkgkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2928
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2928](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2928)
 - Scottish Tartans World Register: 788
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ballindalloch (Estate Check)](/setts/s8/k1dg1~x8/)
-
 
 ## Thread count
 K/38 G20 K12 G20 K24 G12 K8 G/28

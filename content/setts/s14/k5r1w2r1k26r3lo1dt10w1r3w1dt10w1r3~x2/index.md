@@ -2,10 +2,9 @@
 title: "El Dorado Hills Firefighters Pipes and Drums"
 date: 2023-03-18
 ---
-**Bands:** [KRWRKRYBWRWBWR](/stripes/krwrkrybwrwbwr/) · **Stripes:** [K R W R K R LO DT W R W DT W R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R W R K R LO DT W R W DT W R</span></span>
+In pattern [KRWRKRYBWRWBWR](/stripes/krwrkrybwrwbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10633
 

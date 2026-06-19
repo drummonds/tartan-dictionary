@@ -2,19 +2,11 @@
 title: "MacNeil - 1840 (Chief's sett)"
 date: 2023-03-18
 ---
-**Bands:** [YKGKBRW](/stripes/ykgkbrw/) · **Stripes:** [LY K G K DB R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G K DB R W</span></span>
+In pattern [WRBKGKY](/stripes/wrbkgky/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1839/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNeil 7](/setts/s7/w1r2db16k14g15k3ly1~x2/)
-
 
 ## Thread count
 Y/4 K12 G66 K66 DB66 R6 W/4

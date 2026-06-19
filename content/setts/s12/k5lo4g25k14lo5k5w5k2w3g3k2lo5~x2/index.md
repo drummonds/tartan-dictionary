@@ -2,10 +2,9 @@
 title: "Heritage of Ireland (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KYGKYKWKWGKY](/stripes/kygkykwkwgky/) · **Stripes:** [K LO G K LO K W K W G K LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO G K LO K W K W G K LO</span></span>
+In pattern [KYGKYKWKWGKY](/stripes/kygkykwkwgky/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8282/
 

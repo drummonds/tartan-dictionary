@@ -2,10 +2,9 @@
 title: "Fraser Gathering, Green (1997)"
 date: 2023-03-18
 ---
-**Bands:** [RBGGGBGGW](/stripes/rbgggbggw/) · **Stripes:** [R DB DG G DG DB G DG W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB DG G DG DB G DG W</span></span>
+In pattern [RBGGGBGGW](/stripes/rbgggbggw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1255
 

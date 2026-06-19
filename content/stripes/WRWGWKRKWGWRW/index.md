@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/wrwgwkrkwgwrw/
 ---
-WRWGWKRKWGWRW
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-WRWGWKRKWGWRW
+
+{{< pat "WRWGWKRKWGWRW" >}}
 
 
 ## Tartans with this colour sequence
 
-
-
-### W R W G W K R K W G W R W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R W G W K R K W G W R W</span></span>
-
 | Tartans |
 |---------------|
-| [Wilson's Blanket Sett - Border](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/)|
-|![Wilson's Blanket Sett - Border example sett](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png)|
 | [Border Sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/)|
 |![Border Sett example sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/sett.png)|
-
+| [Wilson's Blanket Sett - Border](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/)|
+|![Wilson's Blanket Sett - Border example sett](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/sett.png)|

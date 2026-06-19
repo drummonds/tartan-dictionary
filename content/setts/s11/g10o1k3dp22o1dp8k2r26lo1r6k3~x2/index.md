@@ -2,10 +2,9 @@
 title: "Faulkner (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRYRKBRBKRG](/stripes/kryrkbrbkrg/) · **Stripes:** [K R LO R K DP O DP K O G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R LO R K DP O DP K O G</span></span>
+In pattern [GRKBRBKRYRK](/stripes/grkbrbkryrk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10080/
 

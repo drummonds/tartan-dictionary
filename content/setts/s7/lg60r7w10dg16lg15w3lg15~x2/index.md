@@ -2,10 +2,9 @@
 title: "Deer Park (Loton) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRWGYWY](/stripes/yrwgywy/) · **Stripes:** [LG R W DG LG W LG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LG R W DG LG W LG</span></span>
+In pattern [YRWGYWY](/stripes/yrwgywy/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904
 

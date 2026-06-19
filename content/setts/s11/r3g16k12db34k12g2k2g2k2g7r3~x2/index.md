@@ -2,10 +2,9 @@
 title: "Rangers F.C."
 date: 2023-03-18
 ---
-**Bands:** [RGKGKGKBKGR](/stripes/rgkgkgkbkgr/) · **Stripes:** [R G K G K G K DB K G R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K G K G K DB K G R</span></span>
+In pattern [RGKBKGKGKGR](/stripes/rgkbkgkgkgr/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rangers F.C.](/setts/s11/r3g14k12db40k12g2k2g2k2g7r3~x2/)
-
 
 ## Thread count
 R/6 G32 K24 B68 K24 G4 K4 G4 K4 G14 R/6

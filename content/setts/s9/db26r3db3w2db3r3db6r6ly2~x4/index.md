@@ -2,10 +2,9 @@
 title: "Newton Primary School"
 date: 2023-03-18
 ---
-**Bands:** [YRBRBWBRB](/stripes/yrbrbwbrb/) · **Stripes:** [LY R DB R DB W DB R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R DB R DB W DB R DB</span></span>
+In pattern [BRBWBRBRY](/stripes/brbwbrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131
 

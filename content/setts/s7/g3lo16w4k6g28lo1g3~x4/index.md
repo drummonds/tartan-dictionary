@@ -2,10 +2,9 @@
 title: "Pollock"
 date: 2023-03-18
 ---
-**Bands:** [GYGKWYG](/stripes/gygkwyg/) · **Stripes:** [G LO G K W LO G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LO G K W LO G</span></span>
+In pattern [GYGKWYG](/stripes/gygkwyg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3352
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3352](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3352)
 - Scottish Tartans Authority (ITI): 867
 - Scottish Tartans World Register: 867
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Pollock (Name)](/setts/s7/g6lo2g32k8w6lo20g5~x2/)
-
 
 ## Thread count
 G/12 O64 W16 K24 G112 O4 G/12

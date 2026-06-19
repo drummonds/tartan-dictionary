@@ -2,10 +2,9 @@
 title: "Johansson (Aneby, Sweden), Christian (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGBGBGBGY](/stripes/rgrgrgbgbgbgy/) · **Stripes:** [O Y O Y O Y DT Y DT Y DT Y LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">O Y O Y O Y DT Y DT Y DT Y LO</span></span>
+In pattern [RGRGRGBGBGBGY](/stripes/rgrgrgbgbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10457
 

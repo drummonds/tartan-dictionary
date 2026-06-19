@@ -2,10 +2,9 @@
 title: "McLosek (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKYBBKBBBKYKYKYKBBKBBBKYKYKY](/stripes/kykykybbkbbbkykykykbbkbbbkykyky/) · **Stripes:** [K LR K LR K LR T DP K DP T DP K LR K LR K LR K DP T K DP T DP K LR K LR K LR](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K LR K LR K LR T DP K DP T DP K LR K LR K LR K DP T K DP T DP K LR K LR K LR</span></span>
+In pattern [KYKYKYBBKBBBKYKYKYKBBKBBBKYKYKY](/stripes/kykykybbkbbbkykykykbbkbbbkykyky/).
 
-
-This was sourced from tartans-authority.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10060/
 

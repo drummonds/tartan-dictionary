@@ -2,10 +2,9 @@
 title: "Balfour blue & brown"
 date: 2023-03-18
 ---
-**Bands:** [RRYRYB](/stripes/rryryb/) · **Stripes:** [R O LY O LY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R O LY O LY DB</span></span>
+In pattern [BYRYRR](/stripes/byryrr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

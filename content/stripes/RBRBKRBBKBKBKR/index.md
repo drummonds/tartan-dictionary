@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/rbrbkrbbkbkbkr/
 ---
-RBRBKRBBKBKBKR
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-RBRBKRBBKBKBKR
+
+{{< pat "RBRBKRBBKBKBKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### M K DP K DP K DP B M K DP R DP R <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">M K DP K DP K DP B M K DP R DP R</span></span>
 
 | Tartans |
 |---------------|
 | [Katie Targett-Adams](/setts/s14/r2dp5r2dp10k16m6b2dp14k1dp14k6dp12k16m1~x2/)|
 |![Katie Targett-Adams example sett](/setts/s14/r2dp5r2dp10k16m6b2dp14k1dp14k6dp12k16m1~x2/sett.png)|
-

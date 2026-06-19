@@ -2,10 +2,9 @@
 title: "Vipont (Yellow line)"
 date: 2023-03-18
 ---
-**Bands:** [RGKBGKY](/stripes/rgkbgky/) · **Stripes:** [R G K P G K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G K P G K LY</span></span>
+In pattern [RGKBGKY](/stripes/rgkbgky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4464
 

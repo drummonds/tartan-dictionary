@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bryrby/
 ---
-BRYRBY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/db40r1lr4r2db8lr24~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BRYRBY
+
+{{< pat "BRYRBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LR DB R LR R DB <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DB R LR R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Loevenstein Castle #3](/setts/s6/db40r1lr4r2db8lr24~x2/)|
 |![Loevenstein Castle #3 example sett](/setts/s6/db40r1lr4r2db8lr24~x2/sett.png)|
-

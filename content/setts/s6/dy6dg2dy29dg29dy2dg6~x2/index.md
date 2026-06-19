@@ -2,10 +2,9 @@
 title: "Harmony 11 #2"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGG](/stripes/gggggg/) · **Stripes:** [DY DG DY DG DY DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="seq">DY DG DY DG DY DG</span></span>
+In pattern [GGGGGG](/stripes/gggggg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1604
 

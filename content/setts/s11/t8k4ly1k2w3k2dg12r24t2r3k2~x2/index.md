@@ -2,10 +2,9 @@
 title: "MacLean of Duart #2"
 date: 2023-03-18
 ---
-**Bands:** [KRBRGKWKYKB](/stripes/krbrgkwkykb/) · **Stripes:** [K R T R DG K W K LY K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R T R DG K W K LY K T</span></span>
+In pattern [BKYKWKGRBRK](/stripes/bkykwkgrbrk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2606
 
@@ -21,15 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2606](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2606)
 - Scottish Tartans World Register: 376
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLean of Duart #4](/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/)
-- [MacLean of Duart #5](/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/)
-- [Maclean of Duart (Wilsons) (Clan)](/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/)
-
 
 ## Thread count
 B/16 K8 Y2 K4 LN6 K4 G24 R48 B4 R6 K/4

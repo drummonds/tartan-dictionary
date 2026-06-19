@@ -2,10 +2,9 @@
 title: "Unidentified Scarlett #3"
 date: 2023-03-18
 ---
-**Bands:** [RKRGRKRGYGRKRKRGWRKRGRKRGYGRKRGRGW](/stripes/rkrgrkrgygrkrkrgwrkrgrkrgygrkrgrgw/) · **Stripes:** [R K R G R K R G LY G R K R K R G W R K R G R K R G LY G R K R G R G W](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K R G R K R G LY G R K R K R G W R K R G R K R G LY G R K R G R G W</span></span>
+In pattern [RKRGRKRGYGRKRKRGWRKRGRKRGYGRKRGRGW](/stripes/rkrgrkrgygrkrkrgwrkrgrkrgygrkrgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4376
 

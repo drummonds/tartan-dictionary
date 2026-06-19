@@ -2,10 +2,9 @@
 title: "Trinity Presbyterian Church (Corpora"
 date: 2023-03-18
 ---
-**Bands:** [RYRYKGKBKGKY](/stripes/ryrykgkbkgky/) · **Stripes:** [R LR R LR K Y K DB K Y K LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R LR R LR K Y K DB K Y K LR</span></span>
+In pattern [RYRYKGKBKGKY](/stripes/ryrykgkbkgky/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6956/
 

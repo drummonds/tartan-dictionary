@@ -2,10 +2,9 @@
 title: "Scotch, House Cailean"
 date: 2023-03-18
 ---
-**Bands:** [RBBBBBBRRRWR](/stripes/rbbbbbbrrrwr/) · **Stripes:** [O DB B DB B DB B O R O W O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DB B DB B DB B O R O W O</span></span>
+In pattern [RBBBBBBRRRWR](/stripes/rbbbbbbrrrwr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

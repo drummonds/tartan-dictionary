@@ -2,19 +2,11 @@
 title: "MacArthur of Milton Hunting Clan Tartan Tartan Number: 700. Earliest known date: 1823 This is the older of the two MacArthur setts, which links the clan with the Campbells. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKGBG](/stripes/kbkgbg/) · **Stripes:** [K DP K G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DP K G DB G</span></span>
+In pattern [GBGKBK](/stripes/gbgkbk/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=700
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacArthur of Milton (Clan)](/setts/s6/g7db1g1k4dp4k1~x4/)
-
 
 ## Thread count
 G/28 DB4 G4 K16 P18 K/4

@@ -2,10 +2,9 @@
 title: "Saul (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKBKBKBKBKB](/stripes/kbkbkbkbkbkbkbkb/) · **Stripes:** [K DB K DB K B K B K B K B K DB K DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K B K B K B K B K DB K DB</span></span>
+In pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3659
 

@@ -2,10 +2,9 @@
 title: "MacGregor, Modern"
 date: 2023-03-18
 ---
-**Bands:** [RKRBRB](/stripes/rkrbrb/) · **Stripes:** [O K R DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">O K R DB R DB</span></span>
+In pattern [BRBRKR](/stripes/brbrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5690
 

@@ -2,10 +2,9 @@
 title: "Lorne - Marquis of (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGYGWGRGKGKGKB](/stripes/kgkgkgygwgrgkgkgkb/) · **Stripes:** [K G K G K G LO G W G R G K G K G K T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K G K G K G LO G W G R G K G K G K T</span></span>
+In pattern [BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2218
 

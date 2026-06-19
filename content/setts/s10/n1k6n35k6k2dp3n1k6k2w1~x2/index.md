@@ -2,10 +2,9 @@
 title: "Melrose Newbigging Grey"
 date: 2023-03-18
 ---
-**Bands:** [BKBKKBBKKW](/stripes/bkbkkbbkkw/) · **Stripes:** [N K N K K DP N K K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N K N K K DP N K K W</span></span>
+In pattern [BKBKKBBKKW](/stripes/bkbkkbbkkw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10500
 

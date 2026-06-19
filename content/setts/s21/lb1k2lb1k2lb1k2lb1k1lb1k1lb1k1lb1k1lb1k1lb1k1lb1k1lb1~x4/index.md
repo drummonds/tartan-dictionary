@@ -2,10 +2,9 @@
 title: "Glenurquhart Estate Check"
 date: 2023-03-18
 ---
-**Bands:** [WKWKWKWKWKWKWKWKWKWKW](/stripes/wkwkwkwkwkwkwkwkwkwkw/) · **Stripes:** [LB K LB K LB K LB K LB K LB K LB K LB K LB K LB K LB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB K LB K LB K LB K LB K LB K LB K LB K LB K LB K LB</span></span>
+In pattern [WKWKWKWKWKWKWKWKWKWKW](/stripes/wkwkwkwkwkwkwkwkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1440
 

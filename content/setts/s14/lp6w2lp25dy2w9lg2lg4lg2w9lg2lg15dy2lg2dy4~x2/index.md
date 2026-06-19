@@ -2,10 +2,9 @@
 title: "Sakura (Japanese Four Seasons)"
 date: 2023-03-18
 ---
-**Bands:** [GYGYYWYYYWGWWW](/stripes/gygyywyyywgwww/) · **Stripes:** [DY LG DY LG LG W LG LG LG W DY LP W LP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">DY LG DY LG LG W LG LG LG W DY LP W LP</span></span>
+In pattern [GYGYYWYYYWGWWW](/stripes/gygyywyyywgwww/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5721
 

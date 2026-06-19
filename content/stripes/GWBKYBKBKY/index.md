@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gwbkybkbky/
 ---
-GWBKYBKBKY
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GWBKYBKBKY
+
+{{< pat "GWBKYBKBKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K DR K DR LY K DR W G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K DR K DR LY K DR W G</span></span>
 
 | Tartans |
 |---------------|
 | [Haileybury](/setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/)|
 |![Haileybury example sett](/setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/sett.png)|
-

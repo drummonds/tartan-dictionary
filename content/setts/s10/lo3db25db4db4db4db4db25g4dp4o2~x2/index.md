@@ -2,10 +2,9 @@
 title: "Blue Peter"
 date: 2023-03-18
 ---
-**Bands:** [RBGBBBBBBY](/stripes/rbgbbbbbby/) · **Stripes:** [O DP G DB DB DB DB DB DB LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">O DP G DB DB DB DB DB DB LO</span></span>
+In pattern [RBGBBBBBBY](/stripes/rbgbbbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11095
 

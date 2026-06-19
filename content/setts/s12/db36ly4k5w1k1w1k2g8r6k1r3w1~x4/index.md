@@ -2,10 +2,9 @@
 title: "MacBeth"
 date: 2023-03-18
 ---
-**Bands:** [BYKWKWKGRKRW](/stripes/bykwkwkgrkrw/) · **Stripes:** [DB LY K W K W K G R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LY K W K W K G R K R W</span></span>
+In pattern [BYKWKWKGRKRW](/stripes/bykwkwkgrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2297
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2297](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2297)
 - Scottish Tartans Authority (ITI): 678
 - Scottish Tartans World Register: 678
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacBeth](/setts/s12/db40ly4k3w2k3w2k3g10r6k2r4w2~x2/)
-
 
 ## Thread count
 DB/144 Y16 K20 W4 K4 W4 K8 G32 R24 K4 R12 W/4

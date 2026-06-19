@@ -2,10 +2,9 @@
 title: "Matheson Hunting (Highland Society of London)"
 date: 2023-03-18
 ---
-**Bands:** [GRGBRGRGRGRGRGBGBGBGB](/stripes/grgbrgrgrgrgrgbgbgbgb/) · **Stripes:** [G R G DB R G R G R G R G R G DB G DB G DB G DB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G DB R G R G R G R G R G DB G DB G DB G DB</span></span>
+In pattern [BGBGBGBGRGRGRGRGRBGRG](/stripes/bgbgbgbgrgrgrgrgrbgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5061
 

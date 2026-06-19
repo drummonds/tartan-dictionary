@@ -2,10 +2,9 @@
 title: "Barbie's Plaid"
 date: 2023-03-18
 ---
-**Bands:** [YGYBYB](/stripes/ygybyb/) · **Stripes:** [LY G LY B LY N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="seq">LY G LY B LY N</span></span>
+In pattern [BYBYGY](/stripes/bybygy/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

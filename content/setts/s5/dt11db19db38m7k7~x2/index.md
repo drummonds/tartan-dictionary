@@ -2,10 +2,9 @@
 title: "Rose, Danny and Hanna (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRBBB](/stripes/krbbb/) · **Stripes:** [K M DB DB DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">K M DB DB DT</span></span>
+In pattern [BBBRK](/stripes/bbbrk/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11219
 

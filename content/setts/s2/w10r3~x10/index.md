@@ -2,20 +2,11 @@
 title: "English Kilt (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RW](/stripes/rw/) · **Stripes:** [R W](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W</span></span>
+In pattern [RW](/stripes/rw/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8127/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacMedic](/setts/s2/r1w1~x40/)
-- [Spare](/setts/s2/r1w1~x5/)
-
 
 ## Thread count
 LN/100 R/30

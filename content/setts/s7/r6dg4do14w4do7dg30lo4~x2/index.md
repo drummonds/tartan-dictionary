@@ -2,10 +2,9 @@
 title: "Newfoundland (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGBWBGY](/stripes/rgbwbgy/) · **Stripes:** [R DG DO W DO DG LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R DG DO W DO DG LO</span></span>
+In pattern [RGBWBGY](/stripes/rgbwbgy/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1543/
 

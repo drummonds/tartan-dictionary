@@ -2,10 +2,9 @@
 title: "RSCDS Australia? (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBW](/stripes/rbkbw/) · **Stripes:** [R DB K T W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K T W</span></span>
+In pattern [RBKBW](/stripes/rbkbw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8548/
 

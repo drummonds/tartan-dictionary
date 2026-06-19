@@ -2,10 +2,9 @@
 title: "Orkney Heather"
 date: 2023-03-18
 ---
-**Bands:** [RBBRBRBRBRBBRB](/stripes/rbbrbrbrbrbbrb/) · **Stripes:** [O DP DP O N O N M DP M DP DP M DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">O DP DP O N O N M DP M DP DP M DP</span></span>
+In pattern [BRBBRBRBRBRBBR](/stripes/brbbrbrbrbrbbr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11138/
 

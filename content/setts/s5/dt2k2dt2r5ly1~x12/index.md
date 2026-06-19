@@ -2,19 +2,11 @@
 title: "Chivas Regal (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YRBKB](/stripes/yrbkb/) · **Stripes:** [LY R DT K DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">LY R DT K DT</span></span>
+In pattern [BKBRY](/stripes/bkbry/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3949/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Chivas Regal](/setts/s5/dt6k6dt6r14ly3~x2/)
-
 
 ## Thread count
 DB/24 K24 DB24 R60 Y/12

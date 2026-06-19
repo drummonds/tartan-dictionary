@@ -2,10 +2,9 @@
 title: "MacKinnon #3"
 date: 2023-03-18
 ---
-**Bands:** [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/) · **Stripes:** [DP R DG DB R DG R DB DG R DG DP R W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP R DG DB R DG R DB DG R DG DP R W</span></span>
+In pattern [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2547
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2547](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2547)
 - Scottish Tartans World Register: 542
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKinnon #8](/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4w2~x2/)
-
 
 ## Thread count
 P/6 R8 G6 B6 R14 G34 R6 B10 G8 R42 G14 P6 R12 LN/6

@@ -2,10 +2,9 @@
 title: "Battle of the Somme Centenary"
 date: 2023-03-18
 ---
-**Bands:** [RGKGGGRRY](/stripes/rgkgggrry/) · **Stripes:** [R DG K DG G DG R O LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DG K DG G DG R O LR</span></span>
+In pattern [RGKGGGRRY](/stripes/rgkgggrry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11097
 

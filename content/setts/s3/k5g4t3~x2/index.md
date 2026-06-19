@@ -2,10 +2,9 @@
 title: "Glen Lyon (District)"
 date: 2023-03-18
 ---
-**Bands:** [KGB](/stripes/kgb/) · **Stripes:** [K G T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K G T</span></span>
+In pattern [BGK](/stripes/bgk/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/24/
 
@@ -21,15 +20,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 - 1819 — Glen Lyon (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/24/))
 - pre 2002 — Mull (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/162/))
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glen Lyon, or Mull (No.53)](/setts/s3/k5g3t2~x2/)
-- [Mull](/setts/s3/k5g4t2~x2/)
-- [Wilson's No.050](/setts/s3/k5g6t1~x4/)
-
 
 ## Thread count
 K/10 G8 B/6

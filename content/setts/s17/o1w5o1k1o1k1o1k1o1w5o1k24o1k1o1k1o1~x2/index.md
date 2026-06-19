@@ -2,10 +2,9 @@
 title: "MacGuinness"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRWRKRKRKRWR](/stripes/rkrkrkrwrkrkrkrwr/) · **Stripes:** [O K O K O K O W O K O K O K O W O](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K O K O W O K O K O K O W O</span></span>
+In pattern [RKRKRKRWRKRKRKRWR](/stripes/rkrkrkrwrkrkrkrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2463
 

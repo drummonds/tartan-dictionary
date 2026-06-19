@@ -2,10 +2,9 @@
 title: "Halcrow Howell"
 date: 2023-03-18
 ---
-**Bands:** [BBBKBGBGW](/stripes/bbbkbgbgw/) · **Stripes:** [B B B K DB G DB G LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">B B B K DB G DB G LB</span></span>
+In pattern [BBBKBGBGW](/stripes/bbbkbgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10219
 

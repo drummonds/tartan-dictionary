@@ -2,10 +2,9 @@
 title: "Robertson Curtain"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRGRBRBRGR](/stripes/rgrbrgrbrbrgr/) · **Stripes:** [R DG R DB R DG R DB R DB R DG R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DB R DG R DB R DB R DG R</span></span>
+In pattern [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3529
 
@@ -21,15 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3529](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3529)
 - Scottish Tartans World Register: 1494
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Robertson D](/setts/s13/r3dg1r15db2r2dg15r2db15r2db2r15dg1r3~x2/)
-- [Robertson D](/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5~x2/)
-- [Robertson D](/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5/)
-
 
 ## Thread count
 R/12 G8 R76 B8 R12 G80 R12 B80 R12 B8 R76 G8 R/12

@@ -2,10 +2,9 @@
 title: "Ralston (UK)"
 date: 2023-03-18
 ---
-**Bands:** [BYYYRYBBBBBB](/stripes/byyyrybbbbbb/) · **Stripes:** [DT LO LG LO R LO DT T DT T DT T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">DT LO LG LO R LO DT T DT T DT T</span></span>
+In pattern [BBBBBBYRYYYB](/stripes/bbbbbbyryyyb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3448
 

@@ -2,10 +2,9 @@
 title: "Orange Fanaticos"
 date: 2023-03-18
 ---
-**Bands:** [WYKWKWW](/stripes/wykwkww/) · **Stripes:** [LB LO K W K W LB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB LO K W K W LB</span></span>
+In pattern [WWKWKYW](/stripes/wwkwkyw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10105
 

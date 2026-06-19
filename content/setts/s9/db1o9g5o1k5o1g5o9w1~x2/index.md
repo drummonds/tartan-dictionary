@@ -2,10 +2,9 @@
 title: "Duchess of York"
 date: 2023-03-18
 ---
-**Bands:** [BRGRKRGRW](/stripes/brgrkrgrw/) · **Stripes:** [DB O G O K O G O W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB O G O K O G O W</span></span>
+In pattern [BRGRKRGRW](/stripes/brgrkrgrw/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

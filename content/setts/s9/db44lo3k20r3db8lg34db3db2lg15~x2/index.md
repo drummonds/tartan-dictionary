@@ -2,10 +2,9 @@
 title: "US Air Force Reserve Pipe Band"
 date: 2023-03-18
 ---
-**Bands:** [YBBYBRKYB](/stripes/ybbybrkyb/) · **Stripes:** [LG DB DB LG DB R K LO DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">LG DB DB LG DB R K LO DB</span></span>
+In pattern [BYKRBYBBY](/stripes/bykrbybby/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4180
 

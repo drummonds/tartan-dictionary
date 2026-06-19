@@ -2,10 +2,9 @@
 title: "Ogilvie of Inverarity (Wilson) / Ochterlonie"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGKGRGKGKGKYB](/stripes/ykgkgkgrgkgkgkyb/) · **Stripes:** [LY K G K G K G R G K G K G K LY DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G K G K G R G K G K G K LY DB</span></span>
+In pattern [BYKGKGKGRGKGKGKY](/stripes/bykgkgkgrgkgkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3233
 

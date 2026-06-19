@@ -2,10 +2,9 @@
 title: "MacNeil of Barra"
 date: 2023-03-18
 ---
-**Bands:** [YKGKBW](/stripes/ykgkbw/) · **Stripes:** [LY K DG K DB LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY K DG K DB LB</span></span>
+In pattern [WBKGKY](/stripes/wbkgky/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

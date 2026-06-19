@@ -2,10 +2,9 @@
 title: "Livingstone Dress"
 date: 2023-03-18
 ---
-**Bands:** [YKWKWKWKWKYKWKWB](/stripes/ykwkwkwkwkykwkwb/) · **Stripes:** [LY K W K W K W K W K LY K W K W DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K W K W K W K W K LY K W K W DB</span></span>
+In pattern [BWKWKYKWKWKWKWKY](/stripes/bwkwkykwkwkwkwky/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2136
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2136](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2136)
 - Scottish Tartans Authority (ITI): 650
 - Scottish Tartans World Register: 650
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Livingston, dress](/setts/s16/db133w16k8w8k2ly4k2w54k8w8k16w8k16w16k2ly12/)
-
 
 ## Thread count
 DB/108 W6 K6 W6 K4 Y6 K4 W40 K6 W6 K8 W6 K8 W8 K4 Y/8

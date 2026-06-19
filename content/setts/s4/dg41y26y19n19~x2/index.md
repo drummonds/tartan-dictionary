@@ -2,10 +2,9 @@
 title: "Green Alaskan"
 date: 2023-03-18
 ---
-**Bands:** [GGGB](/stripes/gggb/) · **Stripes:** [DG Y Y N](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="seq">DG Y Y N</span></span>
+In pattern [BGGG](/stripes/bggg/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11572
 

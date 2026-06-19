@@ -2,10 +2,9 @@
 title: "Connecticut State Police PB (Cor.)"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBB](/stripes/bybbbb/) · **Stripes:** [DB LO DB N DB N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">DB LO DB N DB N</span></span>
+In pattern [BBBBYB](/stripes/bbbbyb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4143/
 

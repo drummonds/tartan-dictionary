@@ -2,10 +2,9 @@
 title: "Glen Shee #1 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGB](/stripes/rbrgb/) · **Stripes:** [R DO R G DO](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">R DO R G DO</span></span>
+In pattern [BGRBR](/stripes/bgrbr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1662/
 

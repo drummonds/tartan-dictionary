@@ -2,10 +2,9 @@
 title: "Maine, Original State of (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GBBBBBBBGRB](/stripes/gbbbbbbbgrb/) · **Stripes:** [DG DB T DB T DB T DB DG R T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG DB T DB T DB T DB DG R T</span></span>
+In pattern [BRGBBBBBBBG](/stripes/brgbbbbbbbg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/502/
 

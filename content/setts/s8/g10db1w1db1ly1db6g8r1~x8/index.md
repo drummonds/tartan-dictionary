@@ -2,10 +2,9 @@
 title: "Marshall Field"
 date: 2023-03-18
 ---
-**Bands:** [RGBYBWBG](/stripes/rgbybwbg/) · **Stripes:** [R G DB LY DB W DB G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DB LY DB W DB G</span></span>
+In pattern [GBWBYBGR](/stripes/gbwbybgr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2839
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2839](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2839)
 - Scottish Tartans Authority (ITI): 747
 - Scottish Tartans World Register: 747
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Marshall, Fields](/setts/s8/g40db2w2db2ly2db23g32r2~x2/)
-
 
 ## Thread count
 G/80 DB8 W8 DB8 Y8 DB48 G64 R/8

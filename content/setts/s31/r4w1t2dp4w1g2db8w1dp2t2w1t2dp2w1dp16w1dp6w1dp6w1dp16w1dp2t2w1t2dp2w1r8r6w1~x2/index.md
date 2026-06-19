@@ -2,10 +2,9 @@
 title: "Brides Plaid Artifact Tartan Tartan Number: 1680. Earliest known date: 1730 Previously listed as unidentified. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWBBWGBWBBWBBWBWBWBWBWBBWBBWRRW](/stripes/rwbbwgbwbbwbbwbwbwbwbwbbwbbwrrw/) · **Stripes:** [R W T DP W G DB W DP T W T DP W DP W DP W DP W DP W DP T W T DP W R R W](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W T DP W G DB W DP T W T DP W DP W DP W DP W DP W DP T W T DP W R R W</span></span>
+In pattern [RWBBWGBWBBWBBWBWBWBWBWBBWBBWRRW](/stripes/rwbbwgbwbbwbbwbwbwbwbwbbwbbwrrw/).
 
-
-This was sourced from house-of-tartan.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from house-of-tartan.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1680
 

@@ -2,10 +2,9 @@
 title: "Leith, (Hay)"
 date: 2023-03-18
 ---
-**Bands:** [KRYKRGRYRGWKRBRYRBRKYRK](/stripes/krykrgryrgwkrbryrbrkyrk/) · **Stripes:** [K R LY K R G R LY R G W K R DB R LY R DB R K LY R K](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R LY K R G R LY R G W K R DB R LY R DB R K LY R K</span></span>
+In pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
 
-
-This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "McDill (2015)"
 date: 2023-03-18
 ---
-**Bands:** [WYBKBKBBYBYKBKBBBYBW](/stripes/wybkbkbbybykbkbbbybw/) · **Stripes:** [W LY DR K DR K DR B LY DR LY K DR K DR B DR LY DR W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W LY DR K DR K DR B LY DR LY K DR K DR B DR LY DR W</span></span>
+In pattern [WBYBBBKBKYBYBBKBKBYW](/stripes/wbybbbkbkybybbkbkbyw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11416
 

@@ -2,10 +2,9 @@
 title: "Shieldhall"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRBWBRBRBRBRBWBRRRR](/stripes/rrrrrbwbrbrbrbrbwbrrrr/) · **Stripes:** [O R O R O DO LB DO R DO R DO R DO R DO LB DO O R O R](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">O R O R O DO LB DO R DO R DO R DO R DO LB DO O R O R</span></span>
+In pattern [RRRRBWBRBRBRBRBWBRRRRR](/stripes/rrrrbwbrbrbrbrbwbrrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5005
 

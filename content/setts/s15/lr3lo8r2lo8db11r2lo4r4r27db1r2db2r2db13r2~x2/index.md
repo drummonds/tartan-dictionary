@@ -2,10 +2,9 @@
 title: "Strathdon (District?)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRRYRBYRYY](/stripes/rbrbrbrryrbyryy/) · **Stripes:** [R DB R DB R DB R R LO R DB LO R LO LR](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DB R DB R DB R R LO R DB LO R LO LR</span></span>
+In pattern [RBRBRBRRYRBYRYY](/stripes/rbrbrbrryrbyryy/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10117/
 

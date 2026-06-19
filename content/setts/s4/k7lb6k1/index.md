@@ -2,10 +2,9 @@
 title: "MacFarlane VS"
 date: 2023-03-18
 ---
-**Bands:** [KWKW](/stripes/kwkw/) · **Stripes:** [K LB K LB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LB K LB</span></span>
+In pattern [KWKW](/stripes/kwkw/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

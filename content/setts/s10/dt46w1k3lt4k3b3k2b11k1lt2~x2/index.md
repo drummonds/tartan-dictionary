@@ -2,10 +2,9 @@
 title: "Seacliff Academy"
 date: 2023-03-18
 ---
-**Bands:** [BWKWKBKBKW](/stripes/bwkwkbkbkw/) · **Stripes:** [DT W K LT K B K B K LT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">DT W K LT K B K B K LT</span></span>
+In pattern [BWKWKBKBKW](/stripes/bwkwkbkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10883
 

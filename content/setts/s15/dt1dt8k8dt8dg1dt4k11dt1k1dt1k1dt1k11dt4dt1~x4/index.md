@@ -2,10 +2,9 @@
 title: "ShadowHalls"
 date: 2023-03-18
 ---
-**Bands:** [BBKBKBKBKBGBKBB](/stripes/bbkbkbkbkbgbkbb/) · **Stripes:** [DT DT K DT K DT K DT K DT DG DT K DT DT](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="seq">DT DT K DT K DT K DT K DT DG DT K DT DT</span></span>
+In pattern [BBKBGBKBKBKBKBB](/stripes/bbkbgbkbkbkbkbb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11013
 

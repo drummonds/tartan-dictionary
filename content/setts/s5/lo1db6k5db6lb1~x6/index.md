@@ -2,10 +2,9 @@
 title: "Bank of Scotland (1995)"
 date: 2023-03-18
 ---
-**Bands:** [YBKBW](/stripes/ybkbw/) · **Stripes:** [LO DB K DB LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO DB K DB LB</span></span>
+In pattern [WBKBY](/stripes/wbkby/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=191
 

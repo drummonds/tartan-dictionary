@@ -2,10 +2,9 @@
 title: "Recovery Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RKGKBKBKBKBWBWBKBKBKBKGKY](/stripes/rkgkbkbkbkbwbwbkbkbkbkgky/) · **Stripes:** [R K DG K DT K DT K DT K DT W DT W DT K DT K DT K DT K DG K LO](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K DG K DT K DT K DT K DT W DT W DT K DT K DT K DT K DG K LO</span></span>
+In pattern [RKGKBKBKBKBWBWBKBKBKBKGKY](/stripes/rkgkbkbkbkbwbwbkbkbkbkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3475
 

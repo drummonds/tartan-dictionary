@@ -2,10 +2,9 @@
 title: "MacLeod, Californian"
 date: 2023-03-18
 ---
-**Bands:** [RKWGKGKGBY](/stripes/rkwgkgkgby/) · **Stripes:** [R K W G K G K G DB LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K W G K G K G DB LY</span></span>
+In pattern [RKWGKGKGBY](/stripes/rkwgkgkgby/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Californian MacLeod](/setts/s10/ly4db22g3k3g3k3g12w22k2r3~x2/)
-
 
 ## Thread count
 Y/8 B50 G6 K6 G6 K6 G26 LN48 K4 R/6

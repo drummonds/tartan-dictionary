@@ -2,10 +2,9 @@
 title: "Melange"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBGKG](/stripes/kbkbkbgkg/) · **Stripes:** [K N K N K N Y K Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K N K N K N Y K Y</span></span>
+In pattern [GKGBKBKBK](/stripes/gkgbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5164
 

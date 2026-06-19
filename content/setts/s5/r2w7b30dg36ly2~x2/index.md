@@ -2,10 +2,9 @@
 title: "Centennial-King George Lodge No.171"
 date: 2023-03-18
 ---
-**Bands:** [RWBGY](/stripes/rwbgy/) · **Stripes:** [R W B DG LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W B DG LY</span></span>
+In pattern [RWBGY](/stripes/rwbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10846
 

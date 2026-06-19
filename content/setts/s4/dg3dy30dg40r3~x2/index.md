@@ -2,10 +2,9 @@
 title: "Sanix Muted"
 date: 2023-03-18
 ---
-**Bands:** [RGGG](/stripes/rggg/) · **Stripes:** [R DG DY DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG DY DG</span></span>
+In pattern [GGGR](/stripes/gggr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4823
 

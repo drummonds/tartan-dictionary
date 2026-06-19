@@ -2,10 +2,9 @@
 title: "Haddrell (2013)"
 date: 2023-03-18
 ---
-**Bands:** [RBWBWBW](/stripes/rbwbwbw/) · **Stripes:** [R B LB N LB N W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R B LB N LB N W</span></span>
+In pattern [RBWBWBW](/stripes/rbwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10938/
 

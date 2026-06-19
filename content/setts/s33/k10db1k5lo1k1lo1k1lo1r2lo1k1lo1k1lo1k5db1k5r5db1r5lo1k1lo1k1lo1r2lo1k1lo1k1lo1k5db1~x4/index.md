@@ -2,10 +2,9 @@
 title: "Hawick (District)"
 date: 2023-03-18
 ---
-**Bands:** [KBKYKYKYRYKYKYKBKRBRYKYKYRYKYKYKB](/stripes/kbkykykyrykykykbkrbrykykyrykykykb/) · **Stripes:** [K DB K LO K LO K LO R LO K LO K LO K DB K R DB R LO K LO K LO R LO K LO K LO K DB](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K LO K LO K LO R LO K LO K LO K DB K R DB R LO K LO K LO R LO K LO K LO K DB</span></span>
+In pattern [BKYKYKYRYKYKYRBRKBKYKYKYRYKYKYKBK](/stripes/bkykykyrykykyrbrkbkykykyrykykykbk/).
 
-
-This was sourced from tartans-authority.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2220/
 

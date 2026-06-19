@@ -2,10 +2,9 @@
 title: "MacNicol D"
 date: 2023-03-18
 ---
-**Bands:** [KRGRKWKRGRGRK](/stripes/krgrkwkrgrgrk/) · **Stripes:** [K R DG R K LB K R DG R DG R K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R DG R K LB K R DG R DG R K</span></span>
+In pattern [KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

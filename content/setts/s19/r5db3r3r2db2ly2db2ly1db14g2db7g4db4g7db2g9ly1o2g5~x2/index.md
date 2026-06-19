@@ -2,10 +2,9 @@
 title: "Hart of Scotland (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBRRBYBYBGBGBGBGYRG](/stripes/rbrrbybybgbgbgbgyrg/) · **Stripes:** [R DB R R DB LY DB LY DB G DB G DB G DB G LY O G](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R R DB LY DB LY DB G DB G DB G DB G LY O G</span></span>
+In pattern [GRYGBGBGBGBYBYBRRBR](/stripes/grygbgbgbgbybybrrbr/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4093/
 

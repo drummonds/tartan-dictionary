@@ -2,10 +2,9 @@
 title: "Buchanan Hunting (Scott Adie) #2"
 date: 2023-03-18
 ---
-**Bands:** [GGGYGGKGKGGB](/stripes/gggyggkgkggb/) · **Stripes:** [DY G DY LO DY G K G K G DY T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">DY G DY LO DY G K G K G DY T</span></span>
+In pattern [BGGKGKGGYGGG](/stripes/bggkgkggyggg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5287
 

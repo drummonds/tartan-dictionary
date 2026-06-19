@@ -2,10 +2,9 @@
 title: "Callaway"
 date: 2023-03-18
 ---
-**Bands:** [RKGWGR](/stripes/rkgwgr/) · **Stripes:** [R K Y W Y R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K Y W Y R</span></span>
+In pattern [RGWGKR](/stripes/rgwgkr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

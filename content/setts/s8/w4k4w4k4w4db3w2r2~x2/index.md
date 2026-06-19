@@ -2,10 +2,9 @@
 title: "Scott, Sir Walter - 1971 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWBWKWKW](/stripes/rwbwkwkw/) · **Stripes:** [R W DB W K W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W DB W K W K W</span></span>
+In pattern [RWBWKWKW](/stripes/rwbwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1240/
 

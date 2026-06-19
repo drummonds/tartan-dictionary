@@ -2,10 +2,9 @@
 title: "MacDonald Dress Clan Tartan Tartan Number: 2001. Earliest known date: pre 2003 Estimated count See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWRWBWBWRWKGRGRGRGRGKRKRBRBRBRB](/stripes/kwrwbwbwrwkgrgrgrgrgkrkrbrbrbrb/) · **Stripes:** [K W R W T W T W R W K G R G R G R G R G K R K R DB R DB R DB R DB](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K W R W T W T W R W K G R G R G R G R G K R K R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRKRKGRGRGRGRGKWRWBWBWRWK](/stripes/brbrbrbrkrkgrgrgrgrgkwrwbwbwrwk/).
 
-
-This was sourced from house-of-tartan.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from house-of-tartan.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2001
 

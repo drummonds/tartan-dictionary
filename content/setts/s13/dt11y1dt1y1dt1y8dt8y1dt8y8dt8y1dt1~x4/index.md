@@ -2,10 +2,9 @@
 title: "Tyneside Scottish (Khaki)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgb/) · **Stripes:** [DT Y DT Y DT Y DT Y DT Y DT Y DT](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">DT Y DT Y DT Y DT Y DT Y DT Y DT</span></span>
+In pattern [BGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4176
 

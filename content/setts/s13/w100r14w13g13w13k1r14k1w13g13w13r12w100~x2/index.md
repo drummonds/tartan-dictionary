@@ -2,10 +2,9 @@
 title: "Wilson's Blanket Sett - Border"
 date: 2023-03-18
 ---
-**Bands:** [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/) · **Stripes:** [W R W G W K R K W G W R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R W G W K R K W G W R W</span></span>
+In pattern [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4636
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4636](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4636)
 - Scottish Tartans Authority (ITI): 6331
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Border Sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/)
-
 
 ## Thread count
 W/200 R28 W26 G26 W26 K2 R28 K2 W26 G26 W26 R24 W/200

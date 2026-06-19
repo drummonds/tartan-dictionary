@@ -2,10 +2,9 @@
 title: "Gleneil (Spoof)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGKGY](/stripes/krkrgkgy/) · **Stripes:** [K O K O G K G LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K O K O G K G LO</span></span>
+In pattern [KRKRGKGY](/stripes/krkrgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1414
 

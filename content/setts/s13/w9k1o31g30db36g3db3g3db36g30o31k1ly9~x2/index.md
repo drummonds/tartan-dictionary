@@ -2,10 +2,9 @@
 title: "Campbell, Brown (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKRGBGBGBGRKW](/stripes/ykrgbgbgbgrkw/) · **Stripes:** [LY K O G DB G DB G DB G O K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K O G DB G DB G DB G O K W</span></span>
+In pattern [WKRGBGBGBGRKY](/stripes/wkrgbgbgbgrky/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532
 

@@ -2,10 +2,9 @@
 title: "Cahonas Scotland"
 date: 2023-03-18
 ---
-**Bands:** [KBKBBKBWB](/stripes/kbkbbkbwb/) · **Stripes:** [K B K B N K N LB N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">K B K B N K N LB N</span></span>
+In pattern [BWBKBBKBK](/stripes/bwbkbbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11649
 

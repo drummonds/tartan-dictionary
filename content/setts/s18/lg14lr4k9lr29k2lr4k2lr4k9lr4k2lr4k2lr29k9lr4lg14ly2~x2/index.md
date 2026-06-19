@@ -2,10 +2,9 @@
 title: "Hannay Dress"
 date: 2023-03-18
 ---
-**Bands:** [YYKYKYKYKYKYKYKYYY](/stripes/yykykykykykykykyyy/) · **Stripes:** [LG LR K LR K LR K LR K LR K LR K LR K LR LG LY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LG LR K LR K LR K LR K LR K LR K LR K LR LG LY</span></span>
+In pattern [YYKYKYKYKYKYKYKYYY](/stripes/yykykykykykykykyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1589
 

@@ -2,10 +2,9 @@
 title: "Isle of Raasay"
 date: 2023-03-18
 ---
-**Bands:** [RBRYG](/stripes/rbryg/) · **Stripes:** [O T M LY DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">O T M LY DG</span></span>
+In pattern [GYRBR](/stripes/gyrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11594
 

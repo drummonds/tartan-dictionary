@@ -2,19 +2,11 @@
 title: "MacOrrell"
 date: 2023-03-18
 ---
-**Bands:** [YGWGWGBYB](/stripes/ygwgwgbyb/) · **Stripes:** [LY G W G W G DB LY DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G W G W G DB LY DB</span></span>
+In pattern [BYBGWGWGY](/stripes/bybgwgwgy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/672/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacOrrell](/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/)
-
 
 ## Thread count
 DB/10 Y4 DB36 G28 LN3 G3 LN3 G8 Y/6

@@ -2,10 +2,9 @@
 title: "Bonnie Prince Charlie (Vyella)"
 date: 2023-03-18
 ---
-**Bands:** [KRYRGRGRGRKRY](/stripes/kryrgrgrgrkry/) · **Stripes:** [K R LO R DG R DG R DG R K R LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R LO R DG R DG R DG R K R LY</span></span>
+In pattern [KRYRGRGRGRKRY](/stripes/kryrgrgrgrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=311
 

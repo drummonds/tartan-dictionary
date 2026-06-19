@@ -2,10 +2,9 @@
 title: "UPS No.1"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBYYBYBWBWBW](/stripes/bybybyybybwbwbw/) · **Stripes:** [DO LY DO LY DO LY LO DO LY DO W DO W DO W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DO LY DO LY DO LY LO DO LY DO W DO W DO W</span></span>
+In pattern [BYBYBYYBYBWBWBW](/stripes/bybybyybybwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10023
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkykgkgk/
 ---
-GKYKGKGK
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/dg3k6lr1k6dg2k2dg16k1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GKYKGKGK
+
+{{< pat "GKYKGKGK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K DG K DG K LR K DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K LR K DG</span></span>
 
 | Tartans |
 |---------------|
 | [MacLean VS](/setts/s8/dg3k6lr1k6dg2k2dg16k1~x2/)|
 |![MacLean VS example sett](/setts/s8/dg3k6lr1k6dg2k2dg16k1~x2/sett.png)|
-

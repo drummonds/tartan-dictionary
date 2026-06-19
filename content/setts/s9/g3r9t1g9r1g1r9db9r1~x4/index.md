@@ -2,10 +2,9 @@
 title: "Convention of the Baronage (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRGBRG](/stripes/rbrgrgbrg/) · **Stripes:** [R DB R G R G T R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R G R G T R G</span></span>
+In pattern [GRBGRGRBR](/stripes/grbgrgrbr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2348/
 

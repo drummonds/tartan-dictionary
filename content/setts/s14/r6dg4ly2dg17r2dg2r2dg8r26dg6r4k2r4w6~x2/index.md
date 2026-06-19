@@ -2,10 +2,9 @@
 title: "Hay"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/) · **Stripes:** [R DG LY DG R DG R DG R DG R K R W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG LY DG R DG R DG R DG R K R W</span></span>
+In pattern [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1631
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1631](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1631)
 - Scottish Tartans Authority (ITI): 1555
 - Scottish Tartans World Register: 1555
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hay - 1842 (Clan)](/setts/s14/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3~x2/)
-
 
 ## Thread count
 R/12 G8 Y4 G34 R4 G4 R4 G16 R52 G12 R8 K4 R8 LN/12

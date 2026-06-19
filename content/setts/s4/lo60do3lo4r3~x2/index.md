@@ -2,10 +2,9 @@
 title: "Rabbie's Dram (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYBY](/stripes/ryby/) · **Stripes:** [R LO DO LO](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LO DO LO</span></span>
+In pattern [RYBY](/stripes/ryby/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7530/
 

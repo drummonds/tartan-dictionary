@@ -2,10 +2,9 @@
 title: "Tenmaya Check"
 date: 2023-03-18
 ---
-**Bands:** [WRRBRBRW](/stripes/wrrbrbrw/) · **Stripes:** [LB O R DT R DT R LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB O R DT R DT R LB</span></span>
+In pattern [WRBRBRRW](/stripes/wrbrbrrw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4087
 

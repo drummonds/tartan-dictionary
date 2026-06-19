@@ -2,19 +2,11 @@
 title: "Nickel Lodge Centennial (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRBWGG](/stripes/ryryrbwgg/) · **Stripes:** [O LY O LY O DT W DY DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="seq">O LY O LY O DT W DY DG</span></span>
+In pattern [GGWBRYRYR](/stripes/ggwbryryr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/920/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Nickel Lodge Centennial](/setts/s9/o16ly1o2ly1o2dt6w4dy1dg6~x2/)
-
 
 ## Thread count
 N/72 Y4 N2 Y4 N8 DB24 LN16 T4 G/24

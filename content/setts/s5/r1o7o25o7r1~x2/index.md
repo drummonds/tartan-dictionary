@@ -2,10 +2,9 @@
 title: "Unnamed Brown (Teddy Bear)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRR](/stripes/rrrrr/) · **Stripes:** [R O O O R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R O O O R</span></span>
+In pattern [RRRRR](/stripes/rrrrr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Orkney"
 date: 2023-03-18
 ---
-**Bands:** [RGBKGRKY](/stripes/rgbkgrky/) · **Stripes:** [M Y DB K Y M K LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">M Y DB K Y M K LO</span></span>
+In pattern [RGBKGRKY](/stripes/rgbkgrky/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Unidentified Plaid 15"
 date: 2023-03-18
 ---
-**Bands:** [BGBRBRBRGRRRGRGRWRYRBWRBWBRW](/stripes/bgbrbrbrgrrrgrgrwryrbwrbwbrw/) · **Stripes:** [DB G DB O DB O DB O G O R O G O G O W O LY O DB W O DB W DB O W](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB G DB O DB O DB O G O R O G O G O W O LY O DB W O DB W DB O W</span></span>
+In pattern [BGBRBRBRGRRRGRGRWRYRBWRBWBRW](/stripes/bgbrbrbrgrrrgrgrwryrbwrbwbrw/).
 
-
-This was sourced from weddslist.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

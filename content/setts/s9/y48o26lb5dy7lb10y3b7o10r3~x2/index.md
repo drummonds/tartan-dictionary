@@ -2,10 +2,9 @@
 title: "State Seal of Mississippi (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RRBGWGWRG](/stripes/rrbgwgwrg/) · **Stripes:** [R O B Y LB DY LB O Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R O B Y LB DY LB O Y</span></span>
+In pattern [GRWGWGBRR](/stripes/grwgwgbrr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8638/
 

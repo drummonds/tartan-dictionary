@@ -2,10 +2,9 @@
 title: "Neumann - GPS German Pipe Smokers"
 date: 2023-03-18
 ---
-**Bands:** [BRYKYBYGYBYRB](/stripes/brykybygybyrb/) · **Stripes:** [DO R LO K LO DP LO DG LO DO LO R DO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">DO R LO K LO DP LO DG LO DO LO R DO</span></span>
+In pattern [BRYBYGYBYKYRB](/stripes/brybygybykyrb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10606
 

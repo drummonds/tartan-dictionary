@@ -2,10 +2,9 @@
 title: "Walter (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWYGBGB](/stripes/rwygbgb/) · **Stripes:** [R W LY DG DP Y T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W LY DG DP Y T</span></span>
+In pattern [BGBGYWR](/stripes/bgbgywr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2436/
 

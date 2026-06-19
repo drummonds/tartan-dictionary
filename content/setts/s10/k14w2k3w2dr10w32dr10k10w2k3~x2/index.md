@@ -2,10 +2,9 @@
 title: "Fraser, Arisaid"
 date: 2023-03-18
 ---
-**Bands:** [KWKBWBWKWK](/stripes/kwkbwbwkwk/) · **Stripes:** [K W K DR W DR W K W K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K DR W DR W K W K</span></span>
+In pattern [KWKBWBWKWK](/stripes/kwkbwbwkwk/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

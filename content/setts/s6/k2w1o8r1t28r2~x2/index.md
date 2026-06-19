@@ -2,10 +2,9 @@
 title: "Norris Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KWRRBR](/stripes/kwrrbr/) · **Stripes:** [K W O R T R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W O R T R</span></span>
+In pattern [KWRRBR](/stripes/kwrrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3151
 

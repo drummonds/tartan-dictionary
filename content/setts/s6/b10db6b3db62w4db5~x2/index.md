@@ -2,10 +2,9 @@
 title: "Auchairne"
 date: 2023-03-18
 ---
-**Bands:** [BBBBWB](/stripes/bbbbwb/) · **Stripes:** [B DB B DB W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">B DB B DB W DB</span></span>
+In pattern [BBBBWB](/stripes/bbbbwb/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

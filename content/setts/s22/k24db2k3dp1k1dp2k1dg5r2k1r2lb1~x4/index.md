@@ -2,10 +2,9 @@
 title: "Braveheart Warrior Corporate Tartan Tartan Number: 2231. Earliest known date: 1993 Designed by Michael King of Philip King Tailoring Ltd, Aberdeen. Originally designed for Ronnie Watt, an 8th Dan in martial arts representing Scotland whose ring title was Braveheart Warrior. It has been adopted as the official tartan of the Scottish Shotokan Centre and as the Watt tartan.The design has no direct connection with the Braveheart film. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKGRKRWRKRGKBKBKB](/stripes/kbkbkbkgrkrwrkrgkbkbkb/) · **Stripes:** [K DB K DP K DP K DG R K R LB R K R DG K DP K DP K DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DP K DP K DG R K R LB R K R DG K DP K DP K DB</span></span>
+In pattern [BKBKBKGRKRWRKRGKBKBKBK](/stripes/bkbkbkgrkrwrkrgkbkbkbk/).
 
-
-This was sourced from house-of-tartan.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2231
 

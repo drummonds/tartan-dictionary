@@ -2,10 +2,9 @@
 title: "New Mexico, State of (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBYRY](/stripes/rgbgbyry/) · **Stripes:** [R G DB G DB LY R LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G DB G DB LY R LY</span></span>
+In pattern [RGBGBYRY](/stripes/rgbgbyry/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2522/
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3116](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3116)
 - Scottish Tartans Authority (ITI): 2522
 - Scottish Tartans World Register: 2522
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [New Mexico](/setts/s8/r1g16db2g10db22ly4r2ly1~x2/)
-
 
 ## Thread count
 R/4 G32 DB4 G20 DB44 Y8 R4 Y/4

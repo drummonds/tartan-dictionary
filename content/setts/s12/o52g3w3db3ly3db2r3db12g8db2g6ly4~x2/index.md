@@ -2,19 +2,11 @@
 title: "Barcelona English School (School)"
 date: 2023-03-18
 ---
-**Bands:** [RGWBYBRBGBGY](/stripes/rgwbybrbgbgy/) · **Stripes:** [O G W DB LY DB R DB G DB G LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O G W DB LY DB R DB G DB G LY</span></span>
+In pattern [RGWBYBRBGBGY](/stripes/rgwbybrbgbgy/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6172/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barcelona English School](/setts/s12/o52g3w3db3ly3db2r3db12g8db2g6ly4/)
-
 
 ## Thread count
 N/104 G6 W6 DB6 Y6 DB4 R6 DB24 G16 DB4 G12 Y/8

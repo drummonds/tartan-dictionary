@@ -2,10 +2,9 @@
 title: "St Kilda"
 date: 2023-03-18
 ---
-**Bands:** [KR](/stripes/kr/) · **Stripes:** [K R](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R</span></span>
+In pattern [KR](/stripes/kr/).
 
-
-This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,21 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGregor - 1816 (Red & Black)](/setts/s2/k1r1~x100/)
-- [Masai Shuka 03 (Artefact)](/setts/s2/k1r1~x20/)
-- [Rob Roy](/setts/s2/k1r1~x4/)
-- [Rob Roy](/setts/s2/k1r1~x66/)
-- [Rob Roy](/setts/s2/k1r1~x8/)
-- [Rob Roy Clan Tartan Tartan Number: 1504. Earliest known date: 1815 - 16 A specimen of the Rob Roy sett exists in the collection of the Highland Society of London, bearing the Seal of Arms of Sir John MacGregor Murray of MacGregor, Baronet, and signed John M. Murray. The specimens were collected during the period 1815-16. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/k1r1~x16/)
-- [Rob Roy Macgregor](/setts/s2/k1r1~x172/)
-- [St Kilda](/setts/s2/k4r1~x36/)
-- [Wilson's No.234](/setts/s2/r8k3~x2/)
-
 
 ## Thread count
 K/24 R/6

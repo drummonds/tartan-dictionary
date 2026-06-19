@@ -2,10 +2,9 @@
 title: "Kinross #2"
 date: 2023-03-18
 ---
-**Bands:** [RWWWBRKRKRWWWYRKRYWWWYKRKRBW](/stripes/rwwwbrkrkrwwwyrkrywwwykrkrbw/) · **Stripes:** [O LB LB LB DB R K R K O LB LB LB LO O K O LO LB LB LB LO K O K O DB LB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">O LB LB LB DB R K R K O LB LB LB LO O K O LO LB LB LB LO K O K O DB LB</span></span>
+In pattern [RWWWBRKRKRWWWYRKRYWWWYKRKRBW](/stripes/rwwwbrkrkrwwwyrkrywwwykrkrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1998
 

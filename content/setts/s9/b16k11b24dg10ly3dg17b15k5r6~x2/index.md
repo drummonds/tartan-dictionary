@@ -2,10 +2,9 @@
 title: "Glackin-McColgan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKBGYGBKB](/stripes/rkbgygbkb/) · **Stripes:** [R K B DG LY DG B K B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K B DG LY DG B K B</span></span>
+In pattern [BKBGYGBKR](/stripes/bkbgygbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11609
 

@@ -2,10 +2,9 @@
 title: "Davidson Double"
 date: 2023-03-18
 ---
-**Bands:** [KYKGKBRB](/stripes/kykgkbrb/) · **Stripes:** [K LR K DG K DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K LR K DG K DB R DB</span></span>
+In pattern [BRBKGKYK](/stripes/brbkgkyk/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Davidson Double](/setts/s8/k3lr2k3dg8k8db8r2db3/)
-
 
 ## Thread count
 K/6 N4 K6 DG16 K16 DB16 DR4 DB/6

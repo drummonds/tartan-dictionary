@@ -2,10 +2,9 @@
 title: "Johnston, Diana Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWBWBGKBY](/stripes/rbrbwbwbgkby/) · **Stripes:** [R DB R DB W DB W DB DG K DB LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB R DB W DB W DB DG K DB LY</span></span>
+In pattern [RBRBWBWBGKBY](/stripes/rbrbwbwbgkby/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11203/
 

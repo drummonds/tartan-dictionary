@@ -2,10 +2,9 @@
 title: "Isle of Rona (District)"
 date: 2023-03-18
 ---
-**Bands:** [RBGRGY](/stripes/rbgrgy/) · **Stripes:** [R N G O Y LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R N G O Y LY</span></span>
+In pattern [RBGRGY](/stripes/rbgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7819/
 

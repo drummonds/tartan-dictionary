@@ -2,10 +2,9 @@
 title: "Blair"
 date: 2023-03-18
 ---
-**Bands:** [GRGKBRB](/stripes/grgkbrb/) · **Stripes:** [G R G K DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G K DB R DB</span></span>
+In pattern [BRBKGRG](/stripes/brbkgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291
 
@@ -23,14 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [291](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291)
 - Scottish Tartans Authority (ITI): 416
 - Scottish Tartans World Register: 416
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Blair](/setts/s7/db3r1db10k8g10r1g3~x4/)
-- [Gammell (1978) (Personal)](/setts/s7/db3r2db22k11g22r2g3~x2/)
-
 
 ## Thread count
 DBa/8 Ra2 DBa36 K40 Ga36 Ra2 Ga/8

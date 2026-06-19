@@ -2,10 +2,9 @@
 title: "Gunn"
 date: 2023-03-18
 ---
-**Bands:** [RGKGBG](/stripes/rgkgbg/) · **Stripes:** [R DG K DG DB DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG K DG DB DG</span></span>
+In pattern [GBGKGR](/stripes/gbgkgr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -40,13 +39,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gunn](/setts/s6/dg2db12dg1k12dg12r2~x2/)
-
 
 ## Thread count
 R/2 G12 K12 G1 DB12 G/2

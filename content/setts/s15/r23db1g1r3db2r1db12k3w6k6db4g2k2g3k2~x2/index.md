@@ -2,10 +2,9 @@
 title: "Mars Exploration"
 date: 2023-03-18
 ---
-**Bands:** [KGKGBKWKBRBRGBR](/stripes/kgkgbkwkbrbrgbr/) · **Stripes:** [K G K G DB K W K DB R DB R G DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K G DB K W K DB R DB R G DB R</span></span>
+In pattern [KGKGBKWKBRBRGBR](/stripes/kgkgbkwkbrbrgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11658
 

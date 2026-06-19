@@ -2,10 +2,9 @@
 title: "Highlands Country Club (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GWWWWWG](/stripes/gwwwwwg/) · **Stripes:** [G LB LB LB LB LB G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LB LB LB LB LB G</span></span>
+In pattern [GWWWWWG](/stripes/gwwwwwg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/687/
 

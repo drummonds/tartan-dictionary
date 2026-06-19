@@ -2,10 +2,9 @@
 title: "Ross, hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKGKGGGGGGG](/stripes/rgrgkgkggggggg/) · **Stripes:** [R G R G K G K G G G G G G G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G K G K G G G G G G G</span></span>
+In pattern [GGGGGGGKGKGRGR](/stripes/gggggggkgkgrgr/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,14 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ross Hunting #3](/setts/s14/g5g7g4g2g2g3g4k6g3k6g34r2g4r2~x2/)
-- [Ross Hunting Clan Tartan Tartan Number: 757. Earliest known date: 1908 Adam shows the six light green stripes in his publication of 1908 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g2g4g2g2g1g2g3k2g2k2g12r1g2r1~x2/)
-
 
 ## Thread count
 Ga/4 G8 Ga4 G2 Ga2 G2 Ga6 K4 Ga4 K4 Ga24 R2 Ga4 R/2

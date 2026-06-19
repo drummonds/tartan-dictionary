@@ -2,10 +2,9 @@
 title: "Hueg (Bavaria) Scottish Thistle (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKBGYGWGBRKRW](/stripes/rbkgkbgygwgbrkrw/) · **Stripes:** [R DP K DG K DP DG LO DG W DG DP R K R W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DP K DG K DP DG LO DG W DG DP R K R W</span></span>
+In pattern [RBKGKBGYGWGBRKRW](/stripes/rbkgkbgygwgbrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10736
 

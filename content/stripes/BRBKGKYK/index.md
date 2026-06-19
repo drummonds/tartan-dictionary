@@ -4,23 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brbkgkyk/
 ---
-BRBKGKYK
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/k3lr2k3dg8k8db8r2db3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BRBKGKYK
+
+{{< pat "BRBKGKYK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LR K DG K DB R DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K LR K DG K DB R DB</span></span>
 
 | Tartans |
 |---------------|
@@ -28,4 +23,3 @@ BRBKGKYK
 |![Davidson Double example sett](/setts/s8/k3lr2k3dg8k8db8r2db3~x2/sett.png)|
 | [Davidson Double](/setts/s8/k3lr2k3dg8k8db8r2db3/)|
 |![Davidson Double example sett](/setts/s8/k3lr2k3dg8k8db8r2db3/sett.png)|
-

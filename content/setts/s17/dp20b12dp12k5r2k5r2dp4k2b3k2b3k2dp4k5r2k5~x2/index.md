@@ -2,10 +2,9 @@
 title: "Burns, Virginia (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKBKBKBRKRKBBB](/stripes/krkbkbkbkbrkrkbbb/) · **Stripes:** [K R K DP K B K B K DP R K R K DP B DP](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K R K DP K B K B K DP R K R K DP B DP</span></span>
+In pattern [BBBKRKRBKBKBKBKRK](/stripes/bbbkrkrbkbkbkbkrk/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11028/
 

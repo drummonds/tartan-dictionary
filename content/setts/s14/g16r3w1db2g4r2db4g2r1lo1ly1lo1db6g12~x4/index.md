@@ -2,10 +2,9 @@
 title: "Heneghan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRWBGRBGRYYYBG](/stripes/grwbgrbgryyybg/) · **Stripes:** [G R W DB G R DB G R LO LY LO DB G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R W DB G R DB G R LO LY LO DB G</span></span>
+In pattern [GBYYYRGBRGBWRG](/stripes/gbyyyrgbrgbwrg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4969
 

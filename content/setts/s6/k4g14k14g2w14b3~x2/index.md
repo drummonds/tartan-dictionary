@@ -2,19 +2,11 @@
 title: "MacKay, Dress (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGWB](/stripes/kgkgwb/) · **Stripes:** [K G K G W B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G K G W B</span></span>
+In pattern [BWGKGK](/stripes/bwgkgk/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7015/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKay Dress](/setts/s6/k4g23k23g2w23b4~x2/)
-
 
 ## Thread count
 K/8 G28 K28 G4 LN28 B/6

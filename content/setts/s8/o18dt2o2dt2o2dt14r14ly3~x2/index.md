@@ -2,10 +2,9 @@
 title: "Talladale"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRY](/stripes/rbrbrbry/) · **Stripes:** [O DT O DT O DT R LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O DT O DT O DT R LY</span></span>
+In pattern [RBRBRBRY](/stripes/rbrbrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4069
 

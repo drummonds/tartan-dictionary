@@ -2,20 +2,11 @@
 title: "Downside (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKWKRR](/stripes/rkwkrr/) · **Stripes:** [R K W K O R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K O R</span></span>
+In pattern [RKWKRR](/stripes/rkwkrr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8063/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Thompson Grey Dress](/setts/s6/r1o6k1w3k3r1~x8/)
-- [Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r2o20k5w10k10r2~x2/)
-
 
 ## Thread count
 R/8 N82 K10 LN28 K36 R/8

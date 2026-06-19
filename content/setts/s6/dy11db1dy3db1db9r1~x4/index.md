@@ -2,10 +2,9 @@
 title: "Dege of Saville Row"
 date: 2023-03-18
 ---
-**Bands:** [RBBGBG](/stripes/rbbgbg/) · **Stripes:** [R DB DB DY DB DY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DB DB DY DB DY</span></span>
+In pattern [GBGBBR](/stripes/gbgbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=907
 

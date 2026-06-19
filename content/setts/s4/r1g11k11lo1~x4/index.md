@@ -2,10 +2,9 @@
 title: "Brooks Brothers (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGKY](/stripes/rgky/) · **Stripes:** [R G K LO](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R G K LO</span></span>
+In pattern [RGKY](/stripes/rgky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3736/
 

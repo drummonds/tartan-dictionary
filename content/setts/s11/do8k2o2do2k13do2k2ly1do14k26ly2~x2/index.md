@@ -2,10 +2,9 @@
 title: "Pride of Scotland, Dark (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YKBYKBKBRKB](/stripes/ykbykbkbrkb/) · **Stripes:** [LY K DO LY K DO K DO O K DO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">LY K DO LY K DO K DO O K DO</span></span>
+In pattern [BKRBKBKYBKY](/stripes/bkrbkbkybky/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7520/
 

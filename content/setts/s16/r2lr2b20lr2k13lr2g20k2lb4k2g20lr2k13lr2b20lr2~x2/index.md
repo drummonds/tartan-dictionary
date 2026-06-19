@@ -2,10 +2,9 @@
 title: "Stirling"
 date: 2023-03-18
 ---
-**Bands:** [RYBYKYGKWKGYKYBY](/stripes/rybykygkwkgykyby/) · **Stripes:** [R LR B LR K LR G K LB K G LR K LR B LR](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R LR B LR K LR G K LB K G LR K LR B LR</span></span>
+In pattern [RYBYKYGKWKGYKYBY](/stripes/rybykygkwkgykyby/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3963
 

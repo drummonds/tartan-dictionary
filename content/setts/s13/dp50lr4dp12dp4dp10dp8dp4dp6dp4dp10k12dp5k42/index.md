@@ -2,10 +2,9 @@
 title: "Institute of Directors (Scotland)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBBBBBBBBYB](/stripes/kbkbbbbbbbbyb/) · **Stripes:** [K DP K DP DP DP DP DP DP DP DP LR DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K DP DP DP DP DP DP DP DP LR DP</span></span>
+In pattern [BYBBBBBBBBKBK](/stripes/bybbbbbbbbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5867
 

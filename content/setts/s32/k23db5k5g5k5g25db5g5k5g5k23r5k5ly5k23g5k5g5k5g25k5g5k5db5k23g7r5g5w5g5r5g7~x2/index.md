@@ -2,10 +2,9 @@
 title: "Franconian"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKGBGKGKRKYKGKGKGKGKBKGRGWGRG](/stripes/kbkgkgbgkgkrkykgkgkgkgkbkgrgwgrg/) · **Stripes:** [K DB K G K G DB G K G K R K LY K G K G K G K G K DB K G R G W G R G](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K G K G DB G K G K R K LY K G K G K G K G K DB K G R G W G R G</span></span>
+In pattern [GRGWGRGKBKGKGKGKGKYKRKGKGBGKGKBK](/stripes/grgwgrgkbkgkgkgkgkykrkgkgbgkgkbk/).
 
-
-This was sourced from weddslist.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from weddslist.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

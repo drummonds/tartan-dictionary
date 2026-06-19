@@ -2,19 +2,11 @@
 title: "Dalziel (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RWBRGRBWRBRWBRGRG](/stripes/rwbrgrbwrbrwbrgrg/) · **Stripes:** [R W DP R G R DP W R DP R W DP R G R G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DP R G R DP W R DP R W DP R G R G</span></span>
+In pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/969/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dalziel #2](/setts/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g2r3g6~x2/)
-
 
 ## Thread count
 R/48 LN2 P4 R8 G64 R8 P4 LN2 R8 P12 R8 LN2 P4 R64 G12 Ra12 G/12

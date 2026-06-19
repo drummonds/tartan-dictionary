@@ -2,10 +2,9 @@
 title: "Special, Saffron"
 date: 2023-03-18
 ---
-**Bands:** [GYGB](/stripes/gygb/) · **Stripes:** [DG LO DG B](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG LO DG B</span></span>
+In pattern [BGYG](/stripes/bgyg/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

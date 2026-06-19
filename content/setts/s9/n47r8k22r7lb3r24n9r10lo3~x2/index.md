@@ -2,10 +2,9 @@
 title: "Ulster Ancestry (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YRBRWRKRB](/stripes/yrbrwrkrb/) · **Stripes:** [LO R N R LB R K R N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">LO R N R LB R K R N</span></span>
+In pattern [BRKRWRBRY](/stripes/brkrwrbry/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10800/
 

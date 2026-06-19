@@ -2,10 +2,9 @@
 title: "MacLeod, Arisaid"
 date: 2023-03-18
 ---
-**Bands:** [BRRWGWBWRRRWGWBWRRB](/stripes/brrwgwbwrrrwgwbwrrb/) · **Stripes:** [T R R W G W DB W R R R W G W DB W R R T](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R R W G W DB W R R R W G W DB W R R T</span></span>
+In pattern [BRRWBWGWRRRWBWGWRRB](/stripes/brrwbwgwrrrwbwgwrrb/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [McDougall, Miss Anne (Personal)](/setts/s19/t1r3r3w26db3w3g14w36r3r1r3w36db14w2g3w26r3r3t1~x2/)
-
 
 ## Thread count
 Ba/2 DR6 R6 LN40 G6 LN6 B24 LN36 R6 DR2 R6 LN36 G24 LN6 B6 LN40 R6 DR6 Ba/2

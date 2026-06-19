@@ -2,10 +2,9 @@
 title: "Stephenson, hunting"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKWKWKGKBKG](/stripes/rkbkgkwkwkgkbkg/) · **Stripes:** [R K DB K G K W K W K G K DB K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K DB K G K W K W K G K DB K G</span></span>
+In pattern [GKBKGKWKWKGKBKR](/stripes/gkbkgkwkwkgkbkr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stephenson Hunting Tartan Tartan Number: 770. Earliest known date: 1981 Based on an old and un-named sett in the records of Messrs Bolingbroke and Jones of Norwich, prior to 1870. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/)
-
 
 ## Thread count
 R/10 K6 B50 K50 G50 K6 LN6 K12 LN6 K6 G50 K50 B50 K6 G/10

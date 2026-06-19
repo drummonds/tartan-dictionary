@@ -2,10 +2,9 @@
 title: "Fueglistal (Aargau) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRYRYRYRY](/stripes/kryryryry/) · **Stripes:** [K O LR R LR R LR R LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K O LR R LR R LR R LR</span></span>
+In pattern [KRYRYRYRY](/stripes/kryryryry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10835
 

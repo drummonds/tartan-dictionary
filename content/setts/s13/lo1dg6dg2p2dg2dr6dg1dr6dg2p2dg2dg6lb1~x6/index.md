@@ -2,10 +2,9 @@
 title: "Crosby (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGGBGBGBGBGGW](/stripes/yggbgbgbgbggw/) · **Stripes:** [LO DG DG P DG DR DG DR DG P DG DG LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO DG DG P DG DR DG DR DG P DG DG LB</span></span>
+In pattern [WGGBGBGBGBGGY](/stripes/wggbgbgbgbggy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=813
 

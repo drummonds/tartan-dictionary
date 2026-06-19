@@ -2,10 +2,9 @@
 title: "Solberg-Bell"
 date: 2023-03-18
 ---
-**Bands:** [KWBBKY](/stripes/kwbbky/) · **Stripes:** [K W T DT K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W T DT K LY</span></span>
+In pattern [KWBBKY](/stripes/kwbbky/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11124/
 

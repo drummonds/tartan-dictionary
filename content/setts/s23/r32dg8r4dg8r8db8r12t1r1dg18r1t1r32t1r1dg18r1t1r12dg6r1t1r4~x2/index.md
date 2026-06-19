@@ -2,10 +2,9 @@
 title: "MacAlister (Cockburn Collection 1810-20)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRBRBRGRBRBRGRBRGRBR](/stripes/rgrgrbrbrgrbrbrgrbrgrbr/) · **Stripes:** [R DG R DG R DB R T R DG R T R T R DG R T R DG R T R](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DB R T R DG R T R T R DG R T R DG R T R</span></span>
+In pattern [RBRGRBRGRBRBRGRBRBRGRGR](/stripes/rbrgrbrgrbrbrgrbrbrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2264
 

@@ -2,10 +2,9 @@
 title: "Snowbird (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYBRW](/stripes/rybrw/) · **Stripes:** [R LG B R W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LG B R W</span></span>
+In pattern [RYBRW](/stripes/rybrw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6428/
 

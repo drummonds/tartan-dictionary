@@ -2,10 +2,9 @@
 title: "Vilario (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBWBBRBBWBBYBBW](/stripes/bbbbbwbbrbbwbbybbw/) · **Stripes:** [T DT P DT T W T DT R DT T W T DT LY DT T W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DT P DT T W T DT R DT T W T DT LY DT T W</span></span>
+In pattern [BBBBBWBBRBBWBBYBBW](/stripes/bbbbbwbbrbbwbbybbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4460
 

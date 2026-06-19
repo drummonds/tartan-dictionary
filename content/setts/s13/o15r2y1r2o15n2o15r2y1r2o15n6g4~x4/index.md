@@ -2,10 +2,9 @@
 title: "Ross, David"
 date: 2023-03-18
 ---
-**Bands:** [RRGRRBRRGRRBG](/stripes/rrgrrbrrgrrbg/) · **Stripes:** [O R Y R O N O R Y R O N G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O R Y R O N O R Y R O N G</span></span>
+In pattern [GBRRGRRBRRGRR](/stripes/gbrrgrrbrrgrr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3565
 

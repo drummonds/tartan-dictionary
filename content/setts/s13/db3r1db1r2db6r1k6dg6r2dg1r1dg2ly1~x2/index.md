@@ -2,10 +2,9 @@
 title: "Carnegie"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGKRBRBRB](/stripes/ygrgrgkrbrbrb/) · **Stripes:** [LY DG R DG R DG K R DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DG R DG R DG K R DB R DB R DB</span></span>
+In pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

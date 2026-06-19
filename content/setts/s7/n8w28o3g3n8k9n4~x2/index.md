@@ -2,10 +2,9 @@
 title: "MacTavish of Dunardry Dress"
 date: 2023-03-18
 ---
-**Bands:** [BKBGRWB](/stripes/bkbgrwb/) · **Stripes:** [N K N G O W N](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">N K N G O W N</span></span>
+In pattern [BKBGRWB](/stripes/bkbgrwb/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10731
 

@@ -2,10 +2,9 @@
 title: "Turblin, Jean Pierre (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWRWRYWRYKWY](/stripes/kwrwrywrykwy/) · **Stripes:** [K W R W R LY W R LY K W LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W R W R LY W R LY K W LY</span></span>
+In pattern [KWRWRYWRYKWY](/stripes/kwrwrywrykwy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11656
 

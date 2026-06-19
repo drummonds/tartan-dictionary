@@ -2,19 +2,11 @@
 title: "Ballintrae Trade Tartan Tartan Number: 1541. Earliest known date: 1982 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGGGGRG](/stripes/rggggrg/) · **Stripes:** [R G DY DG DY R DY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R G DY DG DY R DY</span></span>
+In pattern [GRGGGGR](/stripes/grggggr/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1541
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ballantrae (Dalgety)](/setts/s7/dy5r3dy31dg20dy3g22r5~x2/)
-
 
 ## Thread count
 R/10 G44 T5 DG40 T62 R5 T/10

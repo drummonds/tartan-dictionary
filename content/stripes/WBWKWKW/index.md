@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/wbwkwkw/
 ---
-WBWKWKW
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/w6b3w20k2w3k25w3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-WBWKWKW
+
+{{< pat "WBWKWKW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### W K W K W B W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K W B W</span></span>
 
 | Tartans |
 |---------------|
 | [Forbes Dress (Clans Originaux)](/setts/s7/w6b3w20k2w3k25w3~x2/)|
 |![Forbes Dress (Clans Originaux) example sett](/setts/s7/w6b3w20k2w3k25w3~x2/sett.png)|
-

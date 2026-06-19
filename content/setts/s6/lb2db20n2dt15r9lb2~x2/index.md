@@ -2,10 +2,9 @@
 title: "Open Championship (1998)"
 date: 2023-03-18
 ---
-**Bands:** [WRBBBW](/stripes/wrbbbw/) · **Stripes:** [LB R DT N DB LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB R DT N DB LB</span></span>
+In pattern [WBBBRW](/stripes/wbbbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3256
 

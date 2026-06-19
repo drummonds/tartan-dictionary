@@ -2,10 +2,9 @@
 title: "Norwich University"
 date: 2023-03-18
 ---
-**Bands:** [BYRW](/stripes/byrw/) · **Stripes:** [DB LO R W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LO R W</span></span>
+In pattern [BYRW](/stripes/byrw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10631
 

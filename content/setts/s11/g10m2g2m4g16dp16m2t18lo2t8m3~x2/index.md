@@ -2,10 +2,9 @@
 title: "Commonwealth Games 1998 (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBYBRBGRGRG](/stripes/rbybrbgrgrg/) · **Stripes:** [M T LO T M DP G M G M G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M T LO T M DP G M G M G</span></span>
+In pattern [GRGRGBRBYBR](/stripes/grgrgbrbybr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3080/
 

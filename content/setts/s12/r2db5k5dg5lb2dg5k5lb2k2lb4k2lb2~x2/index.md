@@ -2,10 +2,9 @@
 title: "Davidson of Tulloch Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBKGWGKWKWKW](/stripes/rbkgwgkwkwkw/) · **Stripes:** [R DB K DG LB DG K LB K LB K LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB K DG LB DG K LB K LB K LB</span></span>
+In pattern [RBKGWGKWKWKW](/stripes/rbkgwgkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=895
 

@@ -2,10 +2,9 @@
 title: "Gallamore"
 date: 2023-03-18
 ---
-**Bands:** [KGKRBK](/stripes/kgkrbk/) · **Stripes:** [K G K R DB K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K R DB K</span></span>
+In pattern [KBRKGK](/stripes/kbrkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1300
 

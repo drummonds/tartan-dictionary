@@ -2,10 +2,9 @@
 title: "Bell's"
 date: 2023-03-18
 ---
-**Bands:** [YBRBYRYBRBY](/stripes/ybrbyrybrby/) · **Stripes:** [LY DT R DT LY R LY DT R DT LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DT R DT LY R LY DT R DT LY</span></span>
+In pattern [YBRBYRYBRBY](/stripes/ybrbyrybrby/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=246
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [246](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=246)
 - Scottish Tartans Authority (ITI): 4155
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bell's (Corporate)](/setts/s11/ly6dt8r24dt54ly4r130ly4dt54r24dt8ly3/)
-
 
 ## Thread count
 Y/6 N8 DR24 N54 Y4 DR130 Y4 N54 DR24 N8 Y/6

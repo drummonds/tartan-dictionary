@@ -2,10 +2,9 @@
 title: "Hyland Day (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBGRGRGRGBGB](/stripes/ybgbgrgrgrgbgb/) · **Stripes:** [LO DO DY DO DY R DY R DY R DY DO DY DO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO DY DO DY R DY R DY R DY DO DY DO</span></span>
+In pattern [BGBGRGRGRGBGBY](/stripes/bgbgrgrgrgbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1804
 

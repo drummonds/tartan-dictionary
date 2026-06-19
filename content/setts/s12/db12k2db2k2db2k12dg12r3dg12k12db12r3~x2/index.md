@@ -2,10 +2,9 @@
 title: "Glenalmond College"
 date: 2023-03-18
 ---
-**Bands:** [RBKGRGKBKBKB](/stripes/rbkgrgkbkbkb/) · **Stripes:** [R DB K DG R DG K DB K DB K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K DG R DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGRGKBR](/stripes/bkbkbkgrgkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1404
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1404](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1404)
 - Scottish Tartans Authority (ITI): 6123
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Murray of Atholl #2](/setts/s12/db25k2db2k2db2k21dg23r5dg23k20db19r5~x2/)
-
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 N24 R6 N24 K24 DB24 R/6

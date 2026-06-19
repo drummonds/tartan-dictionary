@@ -2,10 +2,9 @@
 title: "Keilar (2013)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRGWBGRGRGRWB](/stripes/rrrrrgwbgrgrgrwb/) · **Stripes:** [O R O R O DG W DB DG R DG R DG O W DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">O R O R O DG W DB DG R DG R DG O W DB</span></span>
+In pattern [BWRGRGRGBWGRRRRR](/stripes/bwrgrgrgbwgrrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10853
 

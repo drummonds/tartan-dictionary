@@ -2,10 +2,9 @@
 title: "Hutcheson"
 date: 2023-03-18
 ---
-**Bands:** [RGBGRGYGYG](/stripes/rgbgrgygyg/) · **Stripes:** [R Y DT Y R G LO G LO G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R Y DT Y R G LO G LO G</span></span>
+In pattern [GYGYGRGBGR](/stripes/gygygrgbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4847
 

@@ -2,10 +2,9 @@
 title: "Highland Dusk"
 date: 2023-03-18
 ---
-**Bands:** [BBBRBBBBBBBWB](/stripes/bbbrbbbbbbbwb/) · **Stripes:** [N DB N R N DT N DB N N N W N](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">N DB N R N DT N DB N N N W N</span></span>
+In pattern [BBBRBBBBBBBWB](/stripes/bbbrbbbbbbbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1708
 

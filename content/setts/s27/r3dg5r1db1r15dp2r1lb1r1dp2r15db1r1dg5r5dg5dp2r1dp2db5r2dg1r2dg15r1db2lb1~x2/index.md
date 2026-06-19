@@ -2,10 +2,9 @@
 title: "MacDougall D"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/) · **Stripes:** [R DG R DB R DP R LB R DP R DB R DG R DG DP R DP DB R DG R DG R DB LB](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DG R DB R DP R LB R DP R DB R DG R DG DP R DP DB R DG R DG R DB LB</span></span>
+In pattern [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/).
 
-
-This was sourced from weddslist.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

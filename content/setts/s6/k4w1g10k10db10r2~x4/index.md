@@ -2,10 +2,9 @@
 title: "Rose Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KWGKBR](/stripes/kwgkbr/) · **Stripes:** [K W G K DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W G K DB R</span></span>
+In pattern [KWGKBR](/stripes/kwgkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3548
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3548](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3548)
 - Scottish Tartans Authority (ITI): 1226
 - Scottish Tartans World Register: 1226
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rose Hunting Clan Tartan Tartan Number: 1226. Earliest known date: 1831 First recorded in James Logan's, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k4w1g10k10db10r2~x2/)
-- [Rose, White dress](/setts/s6/r32db6k6g6w18k3/)
-
 
 ## Thread count
 K/16 W4 G40 K40 DB40 R/8

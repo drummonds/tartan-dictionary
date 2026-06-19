@@ -2,10 +2,9 @@
 title: "MacPherson #9"
 date: 2023-03-18
 ---
-**Bands:** [RYRGYGYGGGYRYGR](/stripes/ryrgygygggyrygr/) · **Stripes:** [R LR R DG LR DY LR DY DY DY LR R LR DY R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LR R DG LR DY LR DY DY DY LR R LR DY R</span></span>
+In pattern [RGYRYGGGYGYGRYR](/stripes/rgyrygggygygryr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2710
 

@@ -2,10 +2,9 @@
 title: "Birse"
 date: 2023-03-18
 ---
-**Bands:** [KGKYBR](/stripes/kgkybr/) · **Stripes:** [K G K LO N R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K LO N R</span></span>
+In pattern [KGKYBR](/stripes/kgkybr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=265
 

@@ -2,10 +2,9 @@
 title: "Royal British Legion (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWGKBGW](/stripes/rwgkbgw/) · **Stripes:** [R LB G K DB G LB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB G K DB G LB</span></span>
+In pattern [RWGKBGW](/stripes/rwgkbgw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2452/
 

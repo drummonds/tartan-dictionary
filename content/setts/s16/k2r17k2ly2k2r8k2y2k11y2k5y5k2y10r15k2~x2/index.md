@@ -2,10 +2,9 @@
 title: "Large (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKYKRKGKGKGKGRK](/stripes/krkykrkgkgkgkgrk/) · **Stripes:** [K R K LY K R K Y K Y K Y K Y R K](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K LY K R K Y K Y K Y K Y R K</span></span>
+In pattern [KRGKGKGKGKRKYKRK](/stripes/krgkgkgkgkrkykrk/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10016/
 

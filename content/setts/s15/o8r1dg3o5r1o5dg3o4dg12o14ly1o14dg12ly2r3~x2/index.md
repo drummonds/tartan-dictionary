@@ -2,10 +2,9 @@
 title: "Howell of Wales"
 date: 2023-03-18
 ---
-**Bands:** [RRGRRRGRGRYRGYR](/stripes/rrgrrrgrgryrgyr/) · **Stripes:** [O R DG O R O DG O DG O LY O DG LY R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">O R DG O R O DG O DG O LY O DG LY R</span></span>
+In pattern [RRGRRRGRGRYRGYR](/stripes/rrgrrrgrgryrgyr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4994
 

@@ -2,19 +2,11 @@
 title: "First Special Services Forces (Mil)"
 date: 2023-03-18
 ---
-**Bands:** [RKRYRKRWRKRBR](/stripes/rkryrkrwrkrbr/) · **Stripes:** [R K R LY R K R W R K R DB R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R LY R K R W R K R DB R</span></span>
+In pattern [RBRKRWRKRYRKR](/stripes/rbrkrwrkryrkr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8394/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [First Special Service Force](/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/)
-
 
 ## Thread count
 R/8 K18 R6 Y6 R36 K8 R4 W4 R4 K72 R48 DB8 R/6

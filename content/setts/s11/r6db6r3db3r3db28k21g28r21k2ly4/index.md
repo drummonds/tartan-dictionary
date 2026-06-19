@@ -2,10 +2,9 @@
 title: "MacLagan of Glenquiech"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBKGRKY](/stripes/rbrbrbkgrky/) · **Stripes:** [R DB R DB R DB K G R K LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB R DB R DB K G R K LY</span></span>
+In pattern [RBRBRBKGRKY](/stripes/rbrbrbkgrky/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5771](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771)
 - Scottish Tartans Authority (ITI): 7813
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Logan #7](/setts/s11/r6db3r2db2r2db16k12g16r1k1ly2~x2/)
-
 
 ## Thread count
 R/6 DB6 R3 DB3 R3 DB28 K21 G28 R21 K2 Y/4

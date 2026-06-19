@@ -2,10 +2,9 @@
 title: "Drummond C"
 date: 2023-03-18
 ---
-**Bands:** [RKRGRGRKRYRBRBR](/stripes/rkrgrgrkryrbrbr/) · **Stripes:** [R K R DG R DG R K R LR R DB R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R DG R DG R K R LR R DB R DB R</span></span>
+In pattern [RBRBRYRKRGRGRKR](/stripes/rbrbryrkrgrgrkr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Drummond C](/setts/s15/r3k1r1dg6r1dg1r1k2r1lr1r6db1r1db1r3/)
-
 
 ## Thread count
 DR/6 K2 DR2 DG12 DR2 DG2 DR2 K4 DR2 N2 DR12 DB2 DR2 DB2 DR/6

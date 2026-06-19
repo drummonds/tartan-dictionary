@@ -2,10 +2,9 @@
 title: "Kipp"
 date: 2023-03-18
 ---
-**Bands:** [BYWYGRW](/stripes/bywygrw/) · **Stripes:** [DB LY W LO G M W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LY W LO G M W</span></span>
+In pattern [BYWYGRW](/stripes/bywygrw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

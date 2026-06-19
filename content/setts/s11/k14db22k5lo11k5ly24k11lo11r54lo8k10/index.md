@@ -2,10 +2,9 @@
 title: "Derry County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KYRYKYKYKBK](/stripes/kyrykykykbk/) · **Stripes:** [K LO R LO K LY K LO K DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO R LO K LY K LO K DB K</span></span>
+In pattern [KBKYKYKYRYK](/stripes/kbkykykyryk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7442/
 

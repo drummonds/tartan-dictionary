@@ -2,10 +2,9 @@
 title: "Royal Bahrain (Royal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBRBRBGWGRWRW](/stripes/brbrbrbrbrbgwgrwrw/) · **Stripes:** [DT R DT R DT R DT R DT R DT DG LB DG R W R W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT R DT R DT R DT R DT R DT DG LB DG R W R W</span></span>
+In pattern [BRBRBRBRBRBGWGRWRW](/stripes/brbrbrbrbrbgwgrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3201/
 

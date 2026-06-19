@@ -2,10 +2,9 @@
 title: "Lendrum, or MacFarlane"
 date: 2023-03-18
 ---
-**Bands:** [KRKR](/stripes/krkr/) · **Stripes:** [K R K R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R</span></span>
+In pattern [KRKR](/stripes/krkr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,19 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clan Anord (Corporate)](/setts/s4/k3r20k20r3~x2/)
-- [Ettrick](/setts/s4/k6r31k31r6~x2/)
-- [Ettrick (District)](/setts/s4/k5r26k26r5~x4/)
-- [Lendrum (Black & Red) or MacFarlane](/setts/s4/k12r7k1r9~x4/)
-- [MacFarlane Red & Black (Artefact)](/setts/s4/k30r17k3~x4/)
-- [Masai Shuka 12 (Artefact)](/setts/s4/r25k5r1~x4/)
-- [Wcwm 9275-1333-2](/setts/s4/k20r3k20r20~x2/)
-
 
 ## Thread count
 K/67 R32 K6 R/32

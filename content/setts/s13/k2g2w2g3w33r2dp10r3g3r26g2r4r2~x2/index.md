@@ -2,10 +2,9 @@
 title: "Crieff Red Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KGWGWRBRGRGRR](/stripes/kgwgwrbrgrgrr/) · **Stripes:** [K G W G W R DP R G R G R R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G W G W R DP R G R G R R</span></span>
+In pattern [KGWGWRBRGRGRR](/stripes/kgwgwrbrgrgrr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=806
 

@@ -2,10 +2,9 @@
 title: "Clack Personal Tartan Tartan Number: 3928. Earliest known date: Unknown J M Davidson of Letchworth, England. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GGBKGGGKBGBWBGBKGGGKBGGB](/stripes/ggbkgggkbgbwbgbkgggkbggb/) · **Stripes:** [G DG DB K G DG G K DB DG DB W DB DG DB K G DG G K DB DG G DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DG DB K G DG G K DB DG DB W DB DG DB K G DG G K DB DG G DB</span></span>
+In pattern [BGGBKGGGKBGBWBGBKGGGKBGG](/stripes/bggbkgggkbgbwbgbkgggkbgg/).
 
-
-This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3928
 

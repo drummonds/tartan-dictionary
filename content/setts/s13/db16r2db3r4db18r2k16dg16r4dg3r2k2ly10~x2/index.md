@@ -2,10 +2,9 @@
 title: "MacSporran"
 date: 2023-03-18
 ---
-**Bands:** [YKRGRGKRBRBRB](/stripes/ykrgrgkrbrbrb/) · **Stripes:** [LY K R DG R DG K R DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K R DG R DG K R DB R DB R DB</span></span>
+In pattern [BRBRBRKGRGRKY](/stripes/brbrbrkgrgrky/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2764
 

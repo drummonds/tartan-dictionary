@@ -2,10 +2,9 @@
 title: "Ayrton (1978) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKWKWR](/stripes/rgkgkwkwr/) · **Stripes:** [R G K G K LB K LB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K G K LB K LB R</span></span>
+In pattern [RGKGKWKWR](/stripes/rgkgkwkwr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1345/
 

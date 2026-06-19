@@ -2,10 +2,9 @@
 title: "Buchanan 2"
 date: 2023-03-18
 ---
-**Bands:** [GKBKYKYKBKRWRKBKGB](/stripes/gkbkykykbkrwrkbkgb/) · **Stripes:** [G K DB K LY K LY K DB K R W R K DB K G DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K LY K LY K DB K R W R K DB K G DB</span></span>
+In pattern [BGKBKRWRKBKYKYKBKG](/stripes/bgkbkrwrkbkykykbkg/).
 
-
-This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buchanan Clan Tartan Tartan Number: 1947. Earliest known date: 1843 There is some discussion in the archives of the Scottish Tartans Society that suggests that McIan may be responsible for the change to an asymmetrical sett from Logan's earlier symmetrical version. However, it appears that Wilson, the foremost weaver of the time, may have agreed with McIan and favoured the unusual asymmetrical design. The last chief of the Buchanans died in 1682. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/g6k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1g6db4~x2/)
-
 
 ## Thread count
 G/48 K4 B16 K4 Y24 K4 Y24 K4 B16 K4 R32 LN4 R32 K4 B16 K4 G24 B/16

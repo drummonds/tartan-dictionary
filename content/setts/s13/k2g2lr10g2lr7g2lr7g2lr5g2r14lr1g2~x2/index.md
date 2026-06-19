@@ -2,10 +2,9 @@
 title: "Glen Affric, Fragment"
 date: 2023-03-18
 ---
-**Bands:** [KGYGYGYGYGRYG](/stripes/kgygygygygryg/) · **Stripes:** [K G LR G LR G LR G LR G R LR G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G LR G LR G LR G LR G R LR G</span></span>
+In pattern [GYRGYGYGYGYGK](/stripes/gyrgygygygygk/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

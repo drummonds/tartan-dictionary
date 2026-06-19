@@ -2,10 +2,9 @@
 title: "Ballater Victoria Week"
 date: 2023-03-18
 ---
-**Bands:** [BYKGW](/stripes/bykgw/) · **Stripes:** [DP LY K Y W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP LY K Y W</span></span>
+In pattern [BYKGW](/stripes/bykgw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11064
 

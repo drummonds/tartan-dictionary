@@ -2,10 +2,9 @@
 title: "Monaghan, County"
 date: 2023-03-18
 ---
-**Bands:** [YBRGBYRBYBRYBGRB](/stripes/ybrgbyrbybrybgrb/) · **Stripes:** [LO DO O DG DO LO O DO LO DO O LO DO DG O DO](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO O DG DO LO O DO LO DO O LO DO DG O DO</span></span>
+In pattern [BRGBYRBYBRYBGRBY](/stripes/brgbyrbybrybgrby/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2977
 

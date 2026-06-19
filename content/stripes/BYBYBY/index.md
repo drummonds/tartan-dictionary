@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/bybyby/
 ---
-BYBYBY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/db3lo3db24lo30db3lo2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BYBYBY
+
+{{< pat "BYBYBY" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### LO DB LO DB LO DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB LO DB LO DB</span></span>
 
 | Tartans |
 |---------------|
 | [Auburn University (Alabama)](/setts/s6/db3lo3db24lo30db3lo2~x2/)|
 |![Auburn University (Alabama) example sett](/setts/s6/db3lo3db24lo30db3lo2~x2/sett.png)|
-
-### LO DB LR DB LR DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB LR DB LR DB</span></span>
-
-| Tartans |
-|---------------|
 | [Ochterlonie](/setts/s6/db35lr8db21lr13db6lo4~x2/)|
 |![Ochterlonie example sett](/setts/s6/db35lr8db21lr13db6lo4~x2/sett.png)|
-

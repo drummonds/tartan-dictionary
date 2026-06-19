@@ -2,10 +2,9 @@
 title: "Olympic"
 date: 2023-03-18
 ---
-**Bands:** [RBWKRBGBYKRBG](/stripes/rbwkrbgbykrbg/) · **Stripes:** [R DB W K R DB DG DB LY K R DB DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB W K R DB DG DB LY K R DB DG</span></span>
+In pattern [GBRKYBGBRKWBR](/stripes/gbrkybgbrkwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3242
 

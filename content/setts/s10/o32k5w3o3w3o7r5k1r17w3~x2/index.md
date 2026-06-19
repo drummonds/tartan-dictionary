@@ -2,10 +2,9 @@
 title: "President High School"
 date: 2023-03-18
 ---
-**Bands:** [RKWRWRRKRW](/stripes/rkwrwrrkrw/) · **Stripes:** [O K W O W O R K R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O K W O W O R K R W</span></span>
+In pattern [RKWRWRRKRW](/stripes/rkwrwrrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11002/
 

@@ -2,10 +2,9 @@
 title: "Scotland the Brave"
 date: 2023-03-18
 ---
-**Bands:** [BWBRKGRGBGBGRGKRBW](/stripes/bwbrkgrgbgbgrgkrbw/) · **Stripes:** [DB W DB M K DG M DG DP DG DP DG M DG K M DB W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB M K DG M DG DP DG DP DG M DG K M DB W</span></span>
+In pattern [BWBRKGRGBGBGRGKRBW](/stripes/bwbrkgrgbgbgrgkrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3679
 

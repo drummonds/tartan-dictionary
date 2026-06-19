@@ -2,10 +2,9 @@
 title: "National Trust"
 date: 2023-03-18
 ---
-**Bands:** [GBGRBWGB](/stripes/gbgrbwgb/) · **Stripes:** [DG DR DG O DR W DG DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG DR DG O DR W DG DR</span></span>
+In pattern [BGWBRGBG](/stripes/bgwbrgbg/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [British Columbia #2](/setts/s8/dg4dr14dg14o6dr1w30dg2dr1~x2/)
-
 
 ## Thread count
 DG/4 DR16 DG16 LT6 DR2 LN24 DG4 DR/2

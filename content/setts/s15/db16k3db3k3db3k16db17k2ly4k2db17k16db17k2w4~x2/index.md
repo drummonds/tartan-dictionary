@@ -2,10 +2,9 @@
 title: "Fleming/Frisken/Flanders"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/) · **Stripes:** [DB K DB K DB K DB K LY K DB K DB K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K DB K DB K LY K DB K DB K W</span></span>
+In pattern [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1204](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204)
 - Scottish Tartans Authority (ITI): 2531
 - Scottish Tartans World Register: 2531
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fleming /Frisken/Flanders](/setts/s15/db32k6db6k6db6k32db33k4ly8k4db33k32db34k4w8/)
-
 
 ## Thread count
 DB/32 K6 DB6 K6 DB6 K32 DB34 K4 Y8 K4 DB34 K32 DB34 K4 LN/8

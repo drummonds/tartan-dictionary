@@ -2,10 +2,9 @@
 title: "Esteba-Quer (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYKBRKWGRGRG](/stripes/ryrykbrkwgrgrg/) · **Stripes:** [R LO R LO K DB R K LB G R G R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LO R LO K DB R K LB G R G R G</span></span>
+In pattern [GRGRGWKRBKYRYR](/stripes/grgrgwkrbkyryr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1132
 

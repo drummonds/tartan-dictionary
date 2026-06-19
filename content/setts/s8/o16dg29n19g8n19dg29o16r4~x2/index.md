@@ -2,10 +2,9 @@
 title: "Styrian"
 date: 2023-03-18
 ---
-**Bands:** [RRGBGBGR](/stripes/rrgbgbgr/) · **Stripes:** [R O DG N G N DG O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O DG N G N DG O</span></span>
+In pattern [RGBGBGRR](/stripes/rgbgbgrr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4034
 

@@ -2,10 +2,9 @@
 title: "Pounds"
 date: 2023-03-18
 ---
-**Bands:** [KBKBBBYBRBKRKBKB](/stripes/kbkbbbybrbkrkbkb/) · **Stripes:** [K N K N P N LY N R N K O K N K N](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N P N LY N R N K O K N K N</span></span>
+In pattern [BKBKRKBRBYBBBKBK](/stripes/bkbkrkbrbybbbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10070
 

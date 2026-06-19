@@ -2,10 +2,9 @@
 title: "Killin (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YRKRKRKRKRKRKRW](/stripes/yrkrkrkrkrkrkrw/) · **Stripes:** [LO R K R K R K R K R K R K R W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R K R K R K R K R K R K R W</span></span>
+In pattern [WRKRKRKRKRKRKRY](/stripes/wrkrkrkrkrkrkry/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4042/
 

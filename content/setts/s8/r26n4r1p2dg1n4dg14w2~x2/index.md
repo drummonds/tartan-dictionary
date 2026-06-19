@@ -2,10 +2,9 @@
 title: "Redpath, Robert A (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBGBGW](/stripes/rbrbgbgw/) · **Stripes:** [R N R P DG N DG W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R N R P DG N DG W</span></span>
+In pattern [RBRBGBGW](/stripes/rbrbgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11435
 

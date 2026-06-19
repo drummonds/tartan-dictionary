@@ -2,10 +2,9 @@
 title: "Smoke Showing (UFES)"
 date: 2023-03-18
 ---
-**Bands:** [YKWKGBKBG](/stripes/ykwkgbkbg/) · **Stripes:** [LO K W K G N K N G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO K W K G N K N G</span></span>
+In pattern [GBKBGKWKY](/stripes/gbkbgkwky/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11227
 

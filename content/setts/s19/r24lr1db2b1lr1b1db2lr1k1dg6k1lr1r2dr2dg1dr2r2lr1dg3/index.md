@@ -2,10 +2,9 @@
 title: "MacBean"
 date: 2023-03-18
 ---
-**Bands:** [RYBBYBBYKGKYRBGBRYG](/stripes/rybbybbykgkyrbgbryg/) · **Stripes:** [R LR DB B LR B DB LR K DG K LR R DR DG DR R LR DG](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">R LR DB B LR B DB LR K DG K LR R DR DG DR R LR DG</span></span>
+In pattern [GYRBGBRYKGKYBBYBBYR](/stripes/gyrbgbrykgkybbybbyr/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacBean](/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3~x2/)
-
 
 ## Thread count
 DR/24 N1 DB2 B1 N1 B1 DB2 N1 K1 DG6 K1 N1 DR2 DRa2 DG1 DRa2 DR2 N1 DG/3

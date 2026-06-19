@@ -2,10 +2,9 @@
 title: "MacKellar Dress, Cerise (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KWRKRWRBRWR](/stripes/kwrkrwrbrwr/) · **Stripes:** [K W M K M W M T M W M](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="seq">K W M K M W M T M W M</span></span>
+In pattern [KWRKRWRBRWR](/stripes/kwrkrwrbrwr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8180/
 

@@ -2,10 +2,9 @@
 title: "Prince Edward Island (District)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGGRGYGRGGGW](/stripes/ggggggrgygrgggw/) · **Stripes:** [G DY G DY G DY R DY LY DY R DY G DY W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G DY G DY G DY R DY LY DY R DY G DY W</span></span>
+In pattern [GGGGGGRGYGRGGGW](/stripes/ggggggrgygrgggw/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/918/
 

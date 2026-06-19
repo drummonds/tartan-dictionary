@@ -2,10 +2,9 @@
 title: "Brittany National (District)"
 date: 2023-03-18
 ---
-**Bands:** [YKYKYKYBG](/stripes/ykykykybg/) · **Stripes:** [LR K LR K LR K LR DB G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR K LR K LR K LR DB G</span></span>
+In pattern [GBYKYKYKY](/stripes/gbykykyky/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3902/
 

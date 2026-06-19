@@ -2,10 +2,9 @@
 title: "Tombow 21st School Memorial"
 date: 2023-03-18
 ---
-**Bands:** [GBKKKGGGW](/stripes/gbkkkgggw/) · **Stripes:** [DY DB K K K G DY G LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DY DB K K K G DY G LB</span></span>
+In pattern [GBKKKGGGW](/stripes/gbkkkgggw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4136
 

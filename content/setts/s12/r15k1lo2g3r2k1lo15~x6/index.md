@@ -2,10 +2,9 @@
 title: "Scrymgeour"
 date: 2023-03-18
 ---
-**Bands:** [KYGRKYKRGYKR](/stripes/kygrkykrgykr/) · **Stripes:** [K LO G R K LO K R G LO K R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LO G R K LO K R G LO K R</span></span>
+In pattern [KYGRKYKRGYKR](/stripes/kygrkykrgykr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3754
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3754](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3754)
 - Scottish Tartans Authority (ITI): 1627
 - Scottish Tartans World Register: 1627
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scrimgeour of Glassary](/setts/s12/r32k3lo6g10r6k3lo32~x2/)
-
 
 ## Thread count
 R/90 K6 DY12 G18 R12 K6 DY90 K6 R12 G18 DY12 K/6

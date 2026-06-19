@@ -2,10 +2,9 @@
 title: "Cornwall"
 date: 2023-03-18
 ---
-**Bands:** [YBKRBRBKBRBKBRB](/stripes/ybkrbrbkbrbkbrb/) · **Stripes:** [LO N K R N R N K N R N K N R N](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">LO N K R N R N K N R N K N R N</span></span>
+In pattern [BRBKBRBKBRBRKBY](/stripes/brbkbrbkbrbrkby/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769
 

@@ -2,10 +2,9 @@
 title: "Scots Heritage"
 date: 2023-03-18
 ---
-**Bands:** [RBKGY](/stripes/rbkgy/) · **Stripes:** [R DB K DG LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB K DG LY</span></span>
+In pattern [RBKGY](/stripes/rbkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3686
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3686](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3686)
 - Scottish Tartans World Register: 2779
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cultoquhey Hotel Corporate Tartan Tartan Number: 3393. Earliest known date: circa1990 Designed by Peter MacDonald as a Cook tartan for the former owners (David & Anna) of the Cultoquhey Hotel near Crieff. When they left, if became the house tartan of the hotel See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/r3db22k11dg32ly3~x2/)
-
 
 ## Thread count
 DR/8 DB28 K30 DG28 Y/8

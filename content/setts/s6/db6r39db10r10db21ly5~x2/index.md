@@ -2,10 +2,9 @@
 title: "Rajput"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRB](/stripes/ybrbrb/) · **Stripes:** [LY DB R DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB R DB</span></span>
+In pattern [BRBRBY](/stripes/brbrby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3447
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3447](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3447)
 - Scottish Tartans Authority (ITI): 6047
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacQueen variant](/setts/s6/db2r7db2r7db22ly2~x2/)
-
 
 ## Thread count
 DB/12 DR78 DB20 DR20 DB42 Y/10

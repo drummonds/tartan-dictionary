@@ -2,19 +2,11 @@
 title: "Talisman (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBKYKYBRGKBY](/stripes/ybkykybrgkby/) · **Stripes:** [LO DB K LR K LO DB R G K DB LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LO DB K LR K LO DB R G K DB LR</span></span>
+In pattern [YBKGRBYKYKBY](/stripes/ybkgrbykykby/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5146/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Talisman](/setts/s12/lr2db3k3g8r6db2lo2k3lr2k6db8lo2~x2/)
-
 
 ## Thread count
 DY/4 DB64 K12 N4 K6 DY4 DB4 DR12 G16 K6 DB6 N/4

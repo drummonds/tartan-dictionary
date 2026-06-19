@@ -2,10 +2,9 @@
 title: "Oakland Centre"
 date: 2023-03-18
 ---
-**Bands:** [RBWRW](/stripes/rbwrw/) · **Stripes:** [R DT W R W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DT W R W</span></span>
+In pattern [RBWRW](/stripes/rbwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11587
 

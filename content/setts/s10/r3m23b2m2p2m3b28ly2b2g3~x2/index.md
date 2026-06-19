@@ -2,10 +2,9 @@
 title: "Yarns to Yearn For"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBRBYBG](/stripes/rrbrbrbybg/) · **Stripes:** [R M B M P M B LY B G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R M B M P M B LY B G</span></span>
+In pattern [GBYBRBRBRR](/stripes/gbybrbrbrr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11372
 

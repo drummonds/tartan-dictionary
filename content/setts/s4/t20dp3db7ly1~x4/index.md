@@ -2,10 +2,9 @@
 title: "Peacock (Samantha)"
 date: 2023-03-18
 ---
-**Bands:** [YBBB](/stripes/ybbb/) · **Stripes:** [LY DB DP T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY DB DP T</span></span>
+In pattern [BBBY](/stripes/bbby/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3309
 

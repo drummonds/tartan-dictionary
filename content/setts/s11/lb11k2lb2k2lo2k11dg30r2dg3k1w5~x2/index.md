@@ -2,10 +2,9 @@
 title: "Labrador (District)"
 date: 2023-03-18
 ---
-**Bands:** [WKGRGKYKWKW](/stripes/wkgrgkykwkw/) · **Stripes:** [W K DG R DG K LO K LB K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W K DG R DG K LO K LB K LB</span></span>
+In pattern [WKGRGKYKWKW](/stripes/wkgrgkykwkw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10004/
 

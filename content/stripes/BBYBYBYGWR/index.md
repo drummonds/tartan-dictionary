@@ -4,31 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/bbybybygwr/
 ---
-BBYBYBYGWR
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BBYBYBYGWR
+
+{{< pat "BBYBYBYGWR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R W G LY DB LY DB LY DB DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R W G LY DB LY DB LY DB DP</span></span>
-
-| Tartans |
-|---------------|
-| [Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dp4db16ly1db1ly1db5ly4g4w4r4~x2/)|
-|![Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/dp4db16ly1db1ly1db5ly4g4w4r4~x2/sett.png)|
-| [Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/)|
-|![Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/sett.png)|
-
-### R W G LY DB LY DB LY DB P <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R W G LY DB LY DB LY DB P</span></span>
 
 | Tartans |
 |---------------|
@@ -36,11 +21,9 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 |![Yukon example sett](/setts/s10/r4w4g4ly4db4ly1db2ly1db20p4~x2/sett.png)|
 | [Yukon](/setts/s10/r4w4g4ly4db5ly1db1ly1db16p4~x2/)|
 |![Yukon example sett](/setts/s10/r4w4g4ly4db5ly1db1ly1db16p4~x2/sett.png)|
-
-### R W DG LY DB LY DB LY DB DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R W DG LY DB LY DB LY DB DP</span></span>
-
-| Tartans |
-|---------------|
+| [Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dp4db16ly1db1ly1db5ly4g4w4r4~x2/)|
+|![Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/dp4db16ly1db1ly1db5ly4g4w4r4~x2/sett.png)|
 | [Yukon (asymmetric)](/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/)|
 |![Yukon (asymmetric) example sett](/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/sett.png)|
-
+| [Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/)|
+|![Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/sett.png)|

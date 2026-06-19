@@ -2,10 +2,9 @@
 title: "Bannockbane, Modern Silver"
 date: 2023-03-18
 ---
-**Bands:** [GRGWRBRB](/stripes/grgwrbrb/) · **Stripes:** [Y O Y W O DB O DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">Y O Y W O DB O DB</span></span>
+In pattern [BRBRWGRG](/stripes/brbrwgrg/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Royal College of Surgeons of Edinburgh, The"
 date: 2023-03-18
 ---
-**Bands:** [BBKBKBKRW](/stripes/bbkbkbkrw/) · **Stripes:** [T N K N K N K O W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T N K N K N K O W</span></span>
+In pattern [BBKBKBKRW](/stripes/bbkbkbkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3598
 

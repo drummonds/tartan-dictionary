@@ -2,10 +2,9 @@
 title: "Boyd"
 date: 2023-03-18
 ---
-**Bands:** [YGKBKBKRGRKW](/stripes/ygkbkbkrgrkw/) · **Stripes:** [LY DG K DB K DB K R DG R K LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY DG K DB K DB K R DG R K LB</span></span>
+In pattern [WKRGRKBKBKGY](/stripes/wkrgrkbkbkgy/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

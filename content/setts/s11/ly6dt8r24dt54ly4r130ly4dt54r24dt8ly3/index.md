@@ -2,19 +2,11 @@
 title: "Bell's (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YBRBYRYBRBY](/stripes/ybrbyrybrby/) · **Stripes:** [LY DT R DT LY R LY DT R DT LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DT R DT LY R LY DT R DT LY</span></span>
+In pattern [YBRBYRYBRBY](/stripes/ybrbyrybrby/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4155/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bell's](/setts/s11/ly3dt4r12dt27ly2r65ly2dt27r12dt4ly3~x2/)
-
 
 ## Thread count
 Y/6 N8 DR24 N54 Y4 DR130 Y4 N54 DR24 N8 Y/3

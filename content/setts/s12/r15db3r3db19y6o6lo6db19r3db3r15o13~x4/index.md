@@ -2,10 +2,9 @@
 title: "Maple Leaf Blue"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBYRGBRBR](/stripes/rrbrbyrgbrbr/) · **Stripes:** [O R DB R DB LO O Y DB R DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">O R DB R DB LO O Y DB R DB R</span></span>
+In pattern [RBRBGRYBRBRR](/stripes/rbrbgrybrbrr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2825
 

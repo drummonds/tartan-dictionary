@@ -2,10 +2,9 @@
 title: "Washington, Stockman"
 date: 2023-03-18
 ---
-**Bands:** [GKGYGYGKGBGBGKGKGBGB](/stripes/gkgygygkgbgbgkgkgbgb/) · **Stripes:** [Y K Y LY Y LY Y K Y DB Y DB Y K Y K Y DB Y DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">Y K Y LY Y LY Y K Y DB Y DB Y K Y K Y DB Y DB</span></span>
+In pattern [BGBGKGKGBGBGKGYGYGKG](/stripes/bgbgkgkgbgbgkgygygkg/).
 
-
-This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

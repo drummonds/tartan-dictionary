@@ -2,10 +2,9 @@
 title: "Balfour #2"
 date: 2023-03-18
 ---
-**Bands:** [RGYGYB](/stripes/rgygyb/) · **Stripes:** [R DY LY DY LY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DY LY DY LY DB</span></span>
+In pattern [BYGYGR](/stripes/bygygr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=174
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [174](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=174)
 - Scottish Tartans Authority (ITI): 684
 - Scottish Tartans World Register: 684
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Balfour (Clan)](/setts/s6/db18ly2dy6ly2dy19r3~x4/)
-
 
 ## Thread count
 DB/36 Y4 T12 Y4 T38 R/6

@@ -2,10 +2,9 @@
 title: "Varenne"
 date: 2023-03-18
 ---
-**Bands:** [RBRKRWRKRBR](/stripes/rbrkrwrkrbr/) · **Stripes:** [R DO R K R LB R K R DO O](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R DO R K R LB R K R DO O</span></span>
+In pattern [RBRKRWRKRBR](/stripes/rbrkrwrkrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4443
 

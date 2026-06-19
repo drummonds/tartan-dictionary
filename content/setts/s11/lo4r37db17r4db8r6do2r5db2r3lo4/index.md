@@ -2,10 +2,9 @@
 title: "Griffiths (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [YRBRBRBRBRY](/stripes/yrbrbrbrbry/) · **Stripes:** [LO R DB R DO R DB R DB R LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO R DB R DO R DB R DB R LO</span></span>
+In pattern [YRBRBRBRBRY](/stripes/yrbrbrbrbry/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5733/
 

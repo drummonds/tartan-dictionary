@@ -2,10 +2,9 @@
 title: "Chisholm Colonial"
 date: 2023-03-18
 ---
-**Bands:** [RBGBGBGYWB](/stripes/rbgbgbgywb/) · **Stripes:** [R N G N G N G LO W DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">R N G N G N G LO W DT</span></span>
+In pattern [BWYGBGBGBR](/stripes/bwygbgbgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5756
 

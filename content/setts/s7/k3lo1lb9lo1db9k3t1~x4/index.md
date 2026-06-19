@@ -2,10 +2,9 @@
 title: "St. Francis Xavier University"
 date: 2023-03-18
 ---
-**Bands:** [KYWYBKB](/stripes/kywybkb/) · **Stripes:** [K LO LB LO DB K T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LO LB LO DB K T</span></span>
+In pattern [BKBYWYK](/stripes/bkbywyk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3890
 

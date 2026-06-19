@@ -2,10 +2,9 @@
 title: "Givens (Arizona)"
 date: 2023-03-18
 ---
-**Bands:** [KWGKKB](/stripes/kwgkkb/) · **Stripes:** [K W DG K K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W DG K K DB</span></span>
+In pattern [BKKGWK](/stripes/bkkgwk/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10918/
 

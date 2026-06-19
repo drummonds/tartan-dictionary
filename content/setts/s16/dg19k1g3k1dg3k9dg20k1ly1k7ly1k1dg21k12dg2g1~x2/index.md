@@ -2,10 +2,9 @@
 title: "Hope Vere / Weir"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKGKYKYKGKGG](/stripes/gkgkgkgkykykgkgg/) · **Stripes:** [DG K G K DG K DG K LY K LY K DG K DG G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG K G K DG K DG K LY K LY K DG K DG G</span></span>
+In pattern [GGKGKYKYKGKGKGKG](/stripes/ggkgkykykgkgkgkg/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

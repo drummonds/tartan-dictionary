@@ -2,10 +2,9 @@
 title: "Solway Spirit"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGBRBGBGBGBGBW](/stripes/bgbgbgbgbrbgbgbgbgbw/) · **Stripes:** [DP G DP G DP G DP G DB M DB G DP G DP G DP G DP W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP G DP G DP G DP G DB M DB G DP G DP G DP G DP W</span></span>
+In pattern [BGBGBGBGBRBGBGBGBGBW](/stripes/bgbgbgbgbrbgbgbgbgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3832
 

@@ -2,10 +2,9 @@
 title: "Robieson QAHS"
 date: 2023-03-18
 ---
-**Bands:** [KBKRKRBYKYKBK](/stripes/kbkrkrbykykbk/) · **Stripes:** [K B K R K R B LY K LY K B K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="seq">K B K R K R B LY K LY K B K</span></span>
+In pattern [KBKRKRBYKYKBK](/stripes/kbkrkrbykykbk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5790
 

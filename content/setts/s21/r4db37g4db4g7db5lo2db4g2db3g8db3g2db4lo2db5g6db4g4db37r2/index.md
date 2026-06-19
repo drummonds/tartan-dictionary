@@ -2,10 +2,9 @@
 title: "Jenkins of Wales"
 date: 2023-03-18
 ---
-**Bands:** [RBGBGBYBGBGBGBYBGBGBR](/stripes/rbgbgbybgbgbgbybgbgbr/) · **Stripes:** [R DB G DB G DB LO DB G DB G DB G DB LO DB G DB G DB R](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB G DB G DB LO DB G DB G DB G DB LO DB G DB G DB R</span></span>
+In pattern [RBGBGBYBGBGBGBYBGBGBR](/stripes/rbgbgbybgbgbgbybgbgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1890
 

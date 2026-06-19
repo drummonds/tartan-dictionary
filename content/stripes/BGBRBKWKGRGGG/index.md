@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbrbkwkgrggg/
 ---
-BGBRBKWKGRGGG
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBRBKWKGRGGG
+
+{{< pat "BGBRBKWKGRGGG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G DY G R G K LB K T R T DY T <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">G DY G R G K LB K T R T DY T</span></span>
 
 | Tartans |
 |---------------|
 | [Redgate (Name)](/setts/s13/t21dy10t18r6t18k20lb2k20g12r6g12dy8g2/)|
 |![Redgate (Name) example sett](/setts/s13/t21dy10t18r6t18k20lb2k20g12r6g12dy8g2/sett.png)|
-

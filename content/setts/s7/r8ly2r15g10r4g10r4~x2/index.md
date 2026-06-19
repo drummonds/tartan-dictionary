@@ -2,10 +2,9 @@
 title: "Caspari (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYRGRGR](/stripes/ryrgrgr/) · **Stripes:** [R LY R G R G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R G R G R</span></span>
+In pattern [RGRGRYR](/stripes/rgrgryr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7802/
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5764](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5764)
 - Scottish Tartans Authority (ITI): 7802
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cameron, Ancient](/setts/s7/r58ly3r6g16r12g16r6/)
-
 
 ## Thread count
 R/16 Y4 R30 G20 R8 G20 R/8

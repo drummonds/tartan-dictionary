@@ -2,10 +2,9 @@
 title: "Brydon (Scottish Borders)"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBBGB](/stripes/ybbbbbbbgb/) · **Stripes:** [LO DB DT DT DT DT DT DT DG DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO DB DT DT DT DT DT DT DG DP</span></span>
+In pattern [BGBBBBBBBY](/stripes/bgbbbbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10953
 

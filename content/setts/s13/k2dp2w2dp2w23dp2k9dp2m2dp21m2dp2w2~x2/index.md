@@ -2,10 +2,9 @@
 title: "Yarrow Dress, Purple (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KBWBWBKBRBRBW](/stripes/kbwbwbkbrbrbw/) · **Stripes:** [K DP W DP W DP K DP M DP M DP W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DP W DP W DP K DP M DP M DP W</span></span>
+In pattern [KBWBWBKBRBRBW](/stripes/kbwbwbkbrbrbw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8178/
 

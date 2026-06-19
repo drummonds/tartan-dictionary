@@ -2,10 +2,9 @@
 title: "Pengelly, The Cornish (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RKBWYKW](/stripes/rkbwykw/) · **Stripes:** [R K DP LB LY K LB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R K DP LB LY K LB</span></span>
+In pattern [RKBWYKW](/stripes/rkbwykw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7388/
 

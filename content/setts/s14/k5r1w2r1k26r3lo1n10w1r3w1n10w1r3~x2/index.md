@@ -2,10 +2,9 @@
 title: "El Dorado Hills P & D (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRWRKRYBWRWBWR](/stripes/krwrkrybwrwbwr/) · **Stripes:** [K R W R K R LO N W R W N W R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R W R K R LO N W R W N W R</span></span>
+In pattern [KRWRKRYBWRWBWR](/stripes/krwrkrybwrwbwr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10633/
 

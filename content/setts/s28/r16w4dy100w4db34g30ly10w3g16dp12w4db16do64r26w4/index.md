@@ -2,10 +2,9 @@
 title: "Unnamed C18th - Prince Charles Edward"
 date: 2023-03-18
 ---
-**Bands:** [RWGWBGYWGBWBBRWRBBWBGWYGBWGW](/stripes/rwgwbgywgbwbbrwrbbwbgwygbwgw/) · **Stripes:** [R W DY W DB G LY W G DP W DB DO R W R DO DB W DP G W LY G DB W DY W](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W DY W DB G LY W G DP W DB DO R W R DO DB W DP G W LY G DB W DY W</span></span>
+In pattern [RWGWBGYWGBWBBRWRBBWBGWYGBWGW](/stripes/rwgwbgywgbwbbrwrbbwbgwygbwgw/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4420
 

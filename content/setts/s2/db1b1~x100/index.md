@@ -2,10 +2,9 @@
 title: "Rob Roy, Blue (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BB](/stripes/bb/) · **Stripes:** [DB B](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB B</span></span>
+In pattern [BB](/stripes/bb/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3155/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/3155/
 This cloth is also recorded under:
 
 - Rob Roy, Blue
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [St. Combs Fisher Plaid](/setts/s2/db1b1~x14/)
-
 
 ## Thread count
 DB/100 B/100

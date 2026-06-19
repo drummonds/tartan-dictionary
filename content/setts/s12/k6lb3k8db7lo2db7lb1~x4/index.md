@@ -2,10 +2,9 @@
 title: "St. Johnstone Football Club"
 date: 2023-03-18
 ---
-**Bands:** [KWKBYBWBYBKW](/stripes/kwkbybwbybkw/) · **Stripes:** [K LB K DB LO DB LB DB LO DB K LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LB K DB LO DB LB DB LO DB K LB</span></span>
+In pattern [KWKBYBWBYBKW](/stripes/kwkbybwbybkw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3895
 

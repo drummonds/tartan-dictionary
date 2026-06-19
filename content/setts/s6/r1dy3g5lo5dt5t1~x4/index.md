@@ -2,10 +2,9 @@
 title: "Loch Fyne"
 date: 2023-03-18
 ---
-**Bands:** [RGGYBB](/stripes/rggybb/) · **Stripes:** [R DY G LO DT T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DY G LO DT T</span></span>
+In pattern [BBYGGR](/stripes/bbyggr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2144
 

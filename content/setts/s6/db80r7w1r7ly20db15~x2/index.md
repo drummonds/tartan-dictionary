@@ -2,19 +2,11 @@
 title: "Auchtermuchty Tartan Army (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [BRWRYB](/stripes/brwryb/) · **Stripes:** [DB R W R LY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R W R LY DB</span></span>
+In pattern [BRWRYB](/stripes/brwryb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10197/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Auchtermuchty Tartan Army](/setts/s6/db80r8w1r8ly20db15~x2/)
-
 
 ## Thread count
 DB/160 R14 LN2 R14 Y40 DB/30

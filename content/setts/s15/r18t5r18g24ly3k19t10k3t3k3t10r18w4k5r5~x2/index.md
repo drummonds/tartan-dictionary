@@ -2,10 +2,9 @@
 title: "MacPherson #5"
 date: 2023-03-18
 ---
-**Bands:** [RKWRBKBKBKYGRBR](/stripes/rkwrbkbkbkygrbr/) · **Stripes:** [R K W R T K T K T K LY G R T R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W R T K T K T K LY G R T R</span></span>
+In pattern [RBRGYKBKBKBRWKR](/stripes/rbrgykbkbkbrwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2706
 
@@ -906,13 +905,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kidd](/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/)
-
 
 ## Thread count
 R/36 B10 R36 G48 Y6 K38 B20 K6 B6 K6 B20 R36 LN8 K10 R/10

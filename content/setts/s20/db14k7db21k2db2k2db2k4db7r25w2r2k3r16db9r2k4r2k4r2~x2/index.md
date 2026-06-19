@@ -2,10 +2,9 @@
 title: "Club World (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRBRKRWRBKBKBKBKB](/stripes/rkrkrbrkrwrbkbkbkbkb/) · **Stripes:** [R K R K R DB R K R W R DB K DB K DB K DB K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R K R DB R K R W R DB K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKBRWRKRBRKRKR](/stripes/bkbkbkbkbrwrkrbrkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2223/
 

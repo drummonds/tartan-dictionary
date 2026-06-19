@@ -2,10 +2,9 @@
 title: "MacLellan/McLellan Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWBKRWRWKGWGY](/stripes/kwbkrwrwkgwgy/) · **Stripes:** [K W DB K R W R W K DG W DG LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W DB K R W R W K DG W DG LY</span></span>
+In pattern [KWBKRWRWKGWGY](/stripes/kwbkrwrwkgwgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2623
 

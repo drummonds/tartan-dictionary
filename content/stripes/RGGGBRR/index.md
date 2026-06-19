@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rgggbrr/
 ---
-RGGGBRR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/o5r8dp13dg21dg34dg55o3/tartan.png)
 
 
 
 ## Colour Sequence
-RGGGBRR
+
+{{< pat "RGGGBRR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### O R DP DG DG DG O <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O R DP DG DG DG O</span></span>
 
 | Tartans |
 |---------------|
 | [Lunting Papi (Personal)](/setts/s7/o5r8dp13dg21dg34dg55o3/)|
 |![Lunting Papi (Personal) example sett](/setts/s7/o5r8dp13dg21dg34dg55o3/sett.png)|
-

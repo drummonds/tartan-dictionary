@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brgkgrkrkrgkgrbr/
 ---
-BRGKGRKRKRGKGRBR
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-BRGKGRKRKRGKGRBR
+
+{{< pat "BRGKGRKRKRGKGRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DB R G K G R K R K R G K G R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R G K G R K R K R G K G R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Oriel #1](/setts/s16/r12db2r3g20k4g20r30k2r1~x2/)|
 |![Oriel #1 example sett](/setts/s16/r12db2r3g20k4g20r30k2r1~x2/sett.png)|
-

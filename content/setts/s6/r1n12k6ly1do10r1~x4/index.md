@@ -2,10 +2,9 @@
 title: "Andover (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBKYBR](/stripes/rbkybr/) · **Stripes:** [R N K LY DO R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="seq">R N K LY DO R</span></span>
+In pattern [RBKYBR](/stripes/rbkybr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3019/
 

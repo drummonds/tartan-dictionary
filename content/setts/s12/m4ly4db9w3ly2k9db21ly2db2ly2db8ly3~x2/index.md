@@ -2,10 +2,9 @@
 title: "Ruxton, dress"
 date: 2023-03-18
 ---
-**Bands:** [RYBWYKBYBYBY](/stripes/rybwykbybyby/) · **Stripes:** [M LY DB W LY K DB LY DB LY DB LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">M LY DB W LY K DB LY DB LY DB LY</span></span>
+In pattern [RYBWYKBYBYBY](/stripes/rybwykbybyby/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

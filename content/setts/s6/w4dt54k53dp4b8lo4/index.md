@@ -2,10 +2,9 @@
 title: "Pipers' Trail, The"
 date: 2023-03-18
 ---
-**Bands:** [YBBKBW](/stripes/ybbkbw/) · **Stripes:** [LO B DP K DT W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO B DP K DT W</span></span>
+In pattern [WBKBBY](/stripes/wbkbby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11049
 

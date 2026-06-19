@@ -2,10 +2,9 @@
 title: "Glen Moriston Estate Check"
 date: 2023-03-18
 ---
-**Bands:** [BWW](/stripes/bww/) · **Stripes:** [DT LB W](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT LB W</span></span>
+In pattern [BWW](/stripes/bww/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386
 

@@ -2,10 +2,9 @@
 title: "Maguire, Black"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRY](/stripes/rgrgry/) · **Stripes:** [R G R G R LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G R G R LY</span></span>
+In pattern [RGRGRY](/stripes/rgrgry/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2785
 
@@ -15,15 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2785](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2785)
 - Scottish Tartans Authority (ITI): 6812
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cameron](/setts/s6/r1g3r1g3r8ly1~x8/)
-- [Cameron](/setts/s6/r2g6r2g6r16ly1~x2/)
-- [Cameron (Clan)](/setts/s6/r2g6r2g6r16ly1~x4/)
-
 
 ## Thread count
 R/116 G8 R8 G8 R24 Y/84

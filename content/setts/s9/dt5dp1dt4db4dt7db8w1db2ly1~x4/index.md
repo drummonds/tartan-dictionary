@@ -2,10 +2,9 @@
 title: "Romantic Scotland (Madonna)"
 date: 2023-03-18
 ---
-**Bands:** [YBWBBBBBB](/stripes/ybwbbbbbb/) · **Stripes:** [LY DB W DB DT DB DT DP DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="seq">LY DB W DB DT DB DT DP DT</span></span>
+In pattern [BBBBBBWBY](/stripes/bbbbbbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3543
 

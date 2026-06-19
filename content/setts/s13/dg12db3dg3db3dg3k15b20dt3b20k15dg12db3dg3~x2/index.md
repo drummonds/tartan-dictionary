@@ -2,10 +2,9 @@
 title: "Lemania (District)"
 date: 2023-03-18
 ---
-**Bands:** [GBGKBBBKGBGBG](/stripes/gbgkbbbkgbgbg/) · **Stripes:** [DG DB DG K B DT B K DG DB DG DB DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DG DB DG K B DT B K DG DB DG DB DG</span></span>
+In pattern [GBGBGKBBBKGBG](/stripes/gbgbgkbbbkgbg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10816/
 

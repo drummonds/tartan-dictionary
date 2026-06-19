@@ -2,10 +2,9 @@
 title: "Majewski-White (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/) · **Stripes:** [DT LB DT LB DT LB DT DP DT DP DT LB DT LB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DT LB DT LB DT LB DT DP DT DP DT LB DT LB</span></span>
+In pattern [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10823/
 

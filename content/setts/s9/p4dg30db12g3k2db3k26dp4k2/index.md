@@ -2,10 +2,9 @@
 title: "Begg (Scarfskerry)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGBGB](/stripes/kbkbkgbgb/) · **Stripes:** [K DP K DB K G DB DG P](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K DP K DB K G DB DG P</span></span>
+In pattern [BGBGKBKBK](/stripes/bgbgkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10723
 

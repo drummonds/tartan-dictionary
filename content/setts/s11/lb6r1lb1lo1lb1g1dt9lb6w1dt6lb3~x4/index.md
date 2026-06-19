@@ -2,10 +2,9 @@
 title: "Stand International"
 date: 2023-03-18
 ---
-**Bands:** [WRWYWGBWWBW](/stripes/wrwywgbwwbw/) · **Stripes:** [LB R LB LO LB G DT LB W DT LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB R LB LO LB G DT LB W DT LB</span></span>
+In pattern [WBWWBGWYWRW](/stripes/wbwwbgwywrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11301
 

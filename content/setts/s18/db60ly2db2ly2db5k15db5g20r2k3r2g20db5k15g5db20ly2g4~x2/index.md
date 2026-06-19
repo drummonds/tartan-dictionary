@@ -2,10 +2,9 @@
 title: "Whitworth (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GYBGKBGRKRGBKBYBYB](/stripes/gybgkbgrkrgbkbybyb/) · **Stripes:** [G LY DB G K DB G R K R G DB K DB LY DB LY DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY DB G K DB G R K R G DB K DB LY DB LY DB</span></span>
+In pattern [BYBYBKBGRKRGBKGBYG](/stripes/bybybkbgrkrgbkgbyg/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6052/
 

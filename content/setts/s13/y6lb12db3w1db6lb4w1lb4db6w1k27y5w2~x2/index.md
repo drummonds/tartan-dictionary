@@ -2,10 +2,9 @@
 title: "Willox"
 date: 2023-03-18
 ---
-**Bands:** [GWBWBWWWBWKGW](/stripes/gwbwbwwwbwkgw/) · **Stripes:** [Y LB DB W DB LB W LB DB W K Y W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y LB DB W DB LB W LB DB W K Y W</span></span>
+In pattern [GWBWBWWWBWKGW](/stripes/gwbwbwwwbwkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4630
 

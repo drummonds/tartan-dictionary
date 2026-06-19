@@ -2,10 +2,9 @@
 title: "Killen (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GKGBKRBRKBKGKGKGKGKGKBKWKG](/stripes/gkgbkrbrkbkgkgkgkgkgkbkwkg/) · **Stripes:** [G K G DT K R DT R K DT K G K G K G K G K G K DT K W K G](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G DT K R DT R K DT K G K G K G K G K G K DT K W K G</span></span>
+In pattern [GKGBKRBRKBKGKGKGKGKGKBKWKG](/stripes/gkgbkrbrkbkgkgkgkgkgkbkwkg/).
 
-
-This was sourced from tartans-authority.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6575/
 

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gygrbrkrgr/
 ---
-GYGRBRKRGR
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GYGRBRKRGR
+
+{{< pat "GYGRBRKRGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG R K R DB R DG LR DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R K R DB R DG LR DG</span></span>
 
 | Tartans |
 |---------------|
 | [Seton](/setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/)|
 |![Seton example sett](/setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/sett.png)|
-

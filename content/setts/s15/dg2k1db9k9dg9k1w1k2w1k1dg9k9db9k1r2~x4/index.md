@@ -2,10 +2,9 @@
 title: "Stephenson Htg (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKWKWKGKBKG](/stripes/rkbkgkwkwkgkbkg/) · **Stripes:** [R K DB K DG K W K W K DG K DB K DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K DB K DG K W K W K DG K DB K DG</span></span>
+In pattern [GKBKGKWKWKGKBKR](/stripes/gkbkgkwkwkgkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/770/
 

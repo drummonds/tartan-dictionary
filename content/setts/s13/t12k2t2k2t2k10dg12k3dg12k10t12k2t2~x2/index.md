@@ -2,10 +2,9 @@
 title: "Sutherland (District)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKBKBKB](/stripes/bkbkgkgkbkbkb/) · **Stripes:** [T K T K DG K DG K T K T K T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T K DG K DG K T K T K T</span></span>
+In pattern [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5841/
 

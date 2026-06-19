@@ -2,10 +2,9 @@
 title: "Harmony, 9"
 date: 2023-03-18
 ---
-**Bands:** [RYRRY](/stripes/ryrry/) · **Stripes:** [O LY R O LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O LY R O LY</span></span>
+In pattern [RYRRY](/stripes/ryrry/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

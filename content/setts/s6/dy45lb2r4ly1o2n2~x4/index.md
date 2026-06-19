@@ -2,10 +2,9 @@
 title: "Windy Meadows (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GWRYRB](/stripes/gwryrb/) · **Stripes:** [DY LB R LY O N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">DY LB R LY O N</span></span>
+In pattern [BRYRWG](/stripes/bryrwg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10299/
 

@@ -2,10 +2,9 @@
 title: "Blackburn Appalachian Htg (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGYKYRYKYKYGKG](/stripes/kgkgykyrykykygkg/) · **Stripes:** [K DG K DG LO K LO R LO K LO K LO DG K DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG LO K LO R LO K LO K LO DG K DG</span></span>
+In pattern [GKGYKYKYRYKYGKGK](/stripes/gkgykykyrykygkgk/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10703/
 

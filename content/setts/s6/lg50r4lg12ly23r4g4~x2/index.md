@@ -2,10 +2,9 @@
 title: "Ingenico"
 date: 2023-03-18
 ---
-**Bands:** [YRYYRG](/stripes/yryyrg/) · **Stripes:** [LG R LG LY R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LG R LG LY R G</span></span>
+In pattern [GRYYRY](/stripes/gryyry/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1824
 

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbrbgygrby/
 ---
-BGBRBGYGRBY
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBRBGYGRBY
+
+{{< pat "BGBRBGYGRBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DB R G LY G DB R DB G DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R G LY G DB R DB G DB</span></span>
 
 | Tartans |
 |---------------|
 | [Mariverain](/setts/s11/db3g8db5r1db5g2ly1g2r5db4ly1~x2/)|
 |![Mariverain example sett](/setts/s11/db3g8db5r1db5g2ly1g2r5db4ly1~x2/sett.png)|
-

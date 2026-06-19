@@ -2,10 +2,9 @@
 title: "Unidentified (Woven sample)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBBBGGBGBBGBGRGB](/stripes/rbgbbbggbgbbgbgrgb/) · **Stripes:** [R T DY T DO T Y DY T DY DO T Y T Y R DY T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T DY T DO T Y DY T DY DO T Y T Y R DY T</span></span>
+In pattern [BGRGBGBBGBGGBBBGBR](/stripes/bgrgbgbbgbggbbbgbr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7934/
 

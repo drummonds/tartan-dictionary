@@ -2,10 +2,9 @@
 title: "McCulloch (Military Colours)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGYWRWYBBBBB](/stripes/gkgkgywrwybbbbb/) · **Stripes:** [DG K DG K DG LR LB R LB LR B DB B DB B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG K DG K DG LR LB R LB LR B DB B DB B</span></span>
+In pattern [BBBBBYWRWYGKGKG](/stripes/bbbbbywrwygkgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5916
 

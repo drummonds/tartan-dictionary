@@ -2,10 +2,9 @@
 title: "Murray of Polmaise"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBRGRBGBRBRBRBRBRBRGRBRBRGRBRGRB](/stripes/grbrbrgrbgbrbrbrbrbrbrgrbrbrgrbrgrb/) · **Stripes:** [G R T R T R G R T G T R T R T R T R T R T R G R T R T R G R T R G R T](/stripes/stripes35/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T R T R G R T G T R T R T R T R T R T R G R T R T R G R T R G R T</span></span>
+In pattern [BRGRBRGRBRBRGRBRBRBRBRBRBGBRGRBRBRG](/stripes/brgrbrgrbrbrgrbrbrbrbrbrbgbrgrbrbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [35 band tartan](/bands/bands35/).
+This was sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3068
 

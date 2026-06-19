@@ -2,19 +2,11 @@
 title: "Buchanan Clan Tartan Tartan Number: 1947. Earliest known date: 1843 There is some discussion in the archives of the Scottish Tartans Society that suggests that McIan may be responsible for the change to an asymmetrical sett from Logan's earlier symmetrical version. However, it appears that Wilson, the foremost weaver of the time, may have agreed with McIan and favoured the unusual asymmetrical design. The last chief of the Buchanans died in 1682. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GKBKYKYKBKRWRKBKGB](/stripes/gkbkykykbkrwrkbkgb/) · **Stripes:** [G K DB K LY K LY K DB K R W R K DB K G DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K LY K LY K DB K R W R K DB K G DB</span></span>
+In pattern [BGKBKRWRKBKYKYKBKG](/stripes/bgkbkrwrkbkykykbkg/).
 
-
-This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1947
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buchanan 2](/setts/s18/g12k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1g6db4~x4/)
-
 
 ## Thread count
 G/12 K2 DB8 K2 Y12 K2 Y12 K2 DB8 K2 R16 LN2 R16 K2 DB8 K2 G12 DB/8

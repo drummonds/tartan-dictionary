@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bgrgyg/
 ---
-BGRGYG
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/dt8y4r30g30lo3g4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BGRGYG
+
+{{< pat "BGRGYG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G LO G R Y DT <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">G LO G R Y DT</span></span>
 
 | Tartans |
 |---------------|
 | [Hutcheson (Name)](/setts/s6/dt8y4r30g30lo3g4~x2/)|
 |![Hutcheson (Name) example sett](/setts/s6/dt8y4r30g30lo3g4~x2/sett.png)|
-

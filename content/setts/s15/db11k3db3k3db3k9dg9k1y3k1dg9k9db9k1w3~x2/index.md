@@ -2,10 +2,9 @@
 title: "Glengoyne, Distillery"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKGKGKBKW](/stripes/bkbkbkgkgkgkbkw/) · **Stripes:** [DB K DB K DB K DG K Y K DG K DB K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K DB K DG K Y K DG K DB K W</span></span>
+In pattern [BKBKBKGKGKGKBKW](/stripes/bkbkbkgkgkgkbkw/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

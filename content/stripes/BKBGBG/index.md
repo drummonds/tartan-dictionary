@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbgbg/
 ---
-BKBGBG
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/t7k7t7g20t2g2~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BKBGBG
+
+{{< pat "BKBGBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G T G T K T <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G T G T K T</span></span>
 
 | Tartans |
 |---------------|
 | [Falconer of Labhdal (Personal)](/setts/s6/t7k7t7g20t2g2~x4/)|
 |![Falconer of Labhdal (Personal) example sett](/setts/s6/t7k7t7g20t2g2~x4/sett.png)|
-

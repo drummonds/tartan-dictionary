@@ -2,10 +2,9 @@
 title: "Shearer (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKBKBKGKGKGRGKGKGKBRBKGRG](/stripes/rgrgkbkbkgkgkgrgkgkgkbrbkgrg/) · **Stripes:** [R Y O Y K DO K DO K Y K Y K Y R Y K Y K Y K DO O DO K Y O Y](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y O Y K DO K DO K Y K Y K Y R Y K Y K Y K DO O DO K Y O Y</span></span>
+In pattern [GRGKBRBKGKGKGRGKGKGKBKBKGRGR](/stripes/grgkbrbkgkgkgrgkgkgkbkbkgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3202/
 

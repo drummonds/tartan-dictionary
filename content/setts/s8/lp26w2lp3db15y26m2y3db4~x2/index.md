@@ -2,10 +2,9 @@
 title: "Scottish Highlander, dress"
 date: 2023-03-18
 ---
-**Bands:** [BGRGBWWW](/stripes/bgrgbwww/) · **Stripes:** [DB Y M Y DB LP W LP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">DB Y M Y DB LP W LP</span></span>
+In pattern [BGRGBWWW](/stripes/bgrgbwww/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

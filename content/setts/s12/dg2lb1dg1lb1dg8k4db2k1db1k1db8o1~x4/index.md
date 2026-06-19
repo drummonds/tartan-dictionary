@@ -2,10 +2,9 @@
 title: "Scotch House (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKBKGWGWG](/stripes/rbkbkbkgwgwg/) · **Stripes:** [O DB K DB K DB K DG LB DG LB DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="seq">O DB K DB K DB K DG LB DG LB DG</span></span>
+In pattern [GWGWGKBKBKBR](/stripes/gwgwgkbkbkbr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4732/
 

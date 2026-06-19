@@ -2,10 +2,9 @@
 title: "Edinburgh, Military Tattoo"
 date: 2023-03-18
 ---
-**Bands:** [KRBRBWKWKWKWBR](/stripes/krbrbwkwkwkwbr/) · **Stripes:** [K R DB R B W K W K W K W DB R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R DB R B W K W K W K W DB R</span></span>
+In pattern [KRBRBWKWKWKWBR](/stripes/krbrbwkwkwkwbr/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

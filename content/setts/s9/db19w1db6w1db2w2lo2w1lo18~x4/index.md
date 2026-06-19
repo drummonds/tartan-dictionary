@@ -2,10 +2,9 @@
 title: "Highland Park High School (Texas)"
 date: 2023-03-18
 ---
-**Bands:** [YWYWBWBWB](/stripes/ywywbwbwb/) · **Stripes:** [LO W LO W DB W DB W DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LO W LO W DB W DB W DB</span></span>
+In pattern [BWBWBWYWY](/stripes/bwbwbwywy/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11020
 

@@ -2,10 +2,9 @@
 title: "Glover, Thomas Blake (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBYBYBB](/stripes/ybbbbbbybybb/) · **Stripes:** [LO DB DR DB DR DB DR LO DR LO DR DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB DR DB DR DB DR LO DR LO DR DB</span></span>
+In pattern [BBYBYBBBBBBY](/stripes/bbybybbbbbby/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3599/
 

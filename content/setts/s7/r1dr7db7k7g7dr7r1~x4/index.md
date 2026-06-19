@@ -2,10 +2,9 @@
 title: "Tennant"
 date: 2023-03-18
 ---
-**Bands:** [RBGKBBR](/stripes/rbgkbbr/) · **Stripes:** [R DR G K DB DR R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DR G K DB DR R</span></span>
+In pattern [RBBKGBR](/stripes/rbbkgbr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Couper of Gogar (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RBWBKBGWBWKBGBGBWR](/stripes/rbwbkbgwbwkbgbgbwr/) · **Stripes:** [R DB LP DB K DB G LP DB LP K DB G DB G DB LP R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB LP DB K DB G LP DB LP K DB G DB G DB LP R</span></span>
+In pattern [RBWBKBGWBWKBGBGBWR](/stripes/rbwbkbgwbwkbgbgbwr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/74/
 

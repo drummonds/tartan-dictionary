@@ -2,10 +2,9 @@
 title: "Rankin (Dalgleish) #2"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGKKWGRGKRBRBRBW](/stripes/bkbkbkgrgkkwgrgkrbrbrbw/) · **Stripes:** [DB K DB K DB K G R G K K W G R G K R DB R DB R DB W](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K DB K G R G K K W G R G K R DB R DB R DB W</span></span>
+In pattern [BKBKBKGRGKKWGRGKRBRBRBW](/stripes/bkbkbkgrgkkwgrgkrbrbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5184
 

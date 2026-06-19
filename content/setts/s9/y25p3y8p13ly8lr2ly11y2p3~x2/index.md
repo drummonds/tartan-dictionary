@@ -2,10 +2,9 @@
 title: "Organic"
 date: 2023-03-18
 ---
-**Bands:** [GBGBYYYGB](/stripes/gbgbyyygb/) · **Stripes:** [Y P Y P LY LR LY Y P](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">Y P Y P LY LR LY Y P</span></span>
+In pattern [BGYYYBGBG](/stripes/bgyyybgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11379
 

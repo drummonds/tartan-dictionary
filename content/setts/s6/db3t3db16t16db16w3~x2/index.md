@@ -2,10 +2,9 @@
 title: "Murray Taylor"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBW](/stripes/bbbbbw/) · **Stripes:** [DB T DB T DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB T DB T DB W</span></span>
+In pattern [BBBBBW](/stripes/bbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11354
 

@@ -2,10 +2,9 @@
 title: "New Breckon (Fashion?)"
 date: 2023-03-18
 ---
-**Bands:** [BRYRYRBYB](/stripes/bryryrbyb/) · **Stripes:** [DT R LO R LO R DT LO DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="seq">DT R LO R LO R DT LO DT</span></span>
+In pattern [BRYRYRBYB](/stripes/bryryrbyb/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8035/
 

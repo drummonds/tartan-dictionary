@@ -2,10 +2,9 @@
 title: "Scottish Nuclear"
 date: 2023-03-18
 ---
-**Bands:** [RBKWKB](/stripes/rbkwkb/) · **Stripes:** [R DB K LB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K LB K DB</span></span>
+In pattern [BKWKBR](/stripes/bkwkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3736
 

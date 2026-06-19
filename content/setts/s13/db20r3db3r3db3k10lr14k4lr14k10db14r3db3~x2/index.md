@@ -2,10 +2,9 @@
 title: "Commonwealth Variation"
 date: 2023-03-18
 ---
-**Bands:** [BRBKYKYKBRBRB](/stripes/brbkykykbrbrb/) · **Stripes:** [DB R DB K LR K LR K DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB K LR K LR K DB R DB R DB</span></span>
+In pattern [BRBKYKYKBRBRB](/stripes/brbkykykbrbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=725
 

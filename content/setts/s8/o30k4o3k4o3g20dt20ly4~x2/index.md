@@ -2,10 +2,9 @@
 title: "Sikh (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRGBY](/stripes/rkrkrgby/) · **Stripes:** [O K O K O G DT LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O K O K O G DT LY</span></span>
+In pattern [RKRKRGBY](/stripes/rkrkrgby/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2654/
 

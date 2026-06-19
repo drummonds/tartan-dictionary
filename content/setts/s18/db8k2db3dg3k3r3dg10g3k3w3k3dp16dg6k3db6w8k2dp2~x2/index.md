@@ -2,10 +2,9 @@
 title: "Kukri"
 date: 2023-03-18
 ---
-**Bands:** [BKBGKRGGKWKBGKBWKB](/stripes/bkbgkrggkwkbgkbwkb/) · **Stripes:** [DB K DB DG K R DG G K W K DP DG K DB W K DP](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB K DB DG K R DG G K W K DP DG K DB W K DP</span></span>
+In pattern [BKBGKRGGKWKBGKBWKB](/stripes/bkbgkrggkwkbgkbwkb/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11032/
 

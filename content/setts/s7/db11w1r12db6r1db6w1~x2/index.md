@@ -2,10 +2,9 @@
 title: "Coronation"
 date: 2023-03-18
 ---
-**Bands:** [BWRBRBW](/stripes/bwrbrbw/) · **Stripes:** [DB W R DB R DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W R DB R DB W</span></span>
+In pattern [BWRBRBW](/stripes/bwrbrbw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,14 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Coronation](/setts/s7/db7w1r7db4r2db4w2~x2/)
-- [Coronation (1936) #2](/setts/s7/db11w1r12db6r1db6w1~x4/)
-
 
 ## Thread count
 B/22 LN2 R24 B12 R2 B12 LN/2

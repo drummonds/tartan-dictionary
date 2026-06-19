@@ -2,10 +2,9 @@
 title: "Grassi (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKBKRBB](/stripes/rkbkbkrbb/) · **Stripes:** [O K N K N K O N DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">O K N K N K O N DP</span></span>
+In pattern [BBRKBKBKR](/stripes/bbrkbkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10010/
 

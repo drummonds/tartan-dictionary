@@ -2,10 +2,9 @@
 title: "McKerrell of Hillhouse Dress (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [YBRW](/stripes/ybrw/) · **Stripes:** [LY T O W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY T O W</span></span>
+In pattern [WRBY](/stripes/wrby/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6041/
 

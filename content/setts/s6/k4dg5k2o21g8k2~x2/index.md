@@ -2,10 +2,9 @@
 title: "MacDuck"
 date: 2023-03-18
 ---
-**Bands:** [KGKRGK](/stripes/kgkrgk/) · **Stripes:** [K DG K O G K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG K O G K</span></span>
+In pattern [KGKRGK](/stripes/kgkrgk/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

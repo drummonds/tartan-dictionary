@@ -2,10 +2,9 @@
 title: "MacEdward (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYRGBGBGBR](/stripes/ryrgbgbgbr/) · **Stripes:** [R LY R DG DB DG DB DG DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R DG DB DG DB DG DB R</span></span>
+In pattern [RBGBGBGRYR](/stripes/rbgbgbgryr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2425
 

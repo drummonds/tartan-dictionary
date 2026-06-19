@@ -2,10 +2,9 @@
 title: "Burns' Birthplace (Commem)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRRY](/stripes/rrrrrry/) · **Stripes:** [O O O O O O LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">O O O O O O LO</span></span>
+In pattern [RRRRRRY](/stripes/rrrrrry/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8253/
 

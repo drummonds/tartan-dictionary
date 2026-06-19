@@ -2,10 +2,9 @@
 title: "O'Connor, Hugh (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBBBBBGGBYBGBBGBGBB](/stripes/gbbbbbggbybgbbgbgbb/) · **Stripes:** [DG DP DB DP DB DP DG G DP LY DP G DB DP DG DP DG DP DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DP DB DP DB DP DG G DP LY DP G DB DP DG DP DG DP DB</span></span>
+In pattern [BBGBGBBGBYBGGBBBBBG](/stripes/bbgbgbbgbybggbbbbbg/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11339
 

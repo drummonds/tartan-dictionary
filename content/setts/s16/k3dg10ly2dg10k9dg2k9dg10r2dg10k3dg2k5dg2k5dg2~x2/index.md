@@ -2,10 +2,9 @@
 title: "Stuart/Stewart Hunting #4"
 date: 2023-03-18
 ---
-**Bands:** [KGYGKGKGRGKGKGKG](/stripes/kgygkgkgrgkgkgkg/) · **Stripes:** [K DG LY DG K DG K DG R DG K DG K DG K DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG LY DG K DG K DG R DG K DG K DG K DG</span></span>
+In pattern [GKGKGKGRGKGKGYGK](/stripes/gkgkgkgrgkgkgygk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4007
 

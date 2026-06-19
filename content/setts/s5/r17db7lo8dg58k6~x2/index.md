@@ -2,10 +2,9 @@
 title: "St Johns County's Sheriff's Office"
 date: 2023-03-18
 ---
-**Bands:** [KGYBR](/stripes/kgybr/) · **Stripes:** [K DG LO DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG LO DB R</span></span>
+In pattern [KGYBR](/stripes/kgybr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10400
 

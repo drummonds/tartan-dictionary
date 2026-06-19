@@ -2,10 +2,9 @@
 title: "Henderson"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGBGBY](/stripes/ykgkgbgby/) · **Stripes:** [LY K DG K DG DB DG DB LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY K DG K DG DB DG DB LR</span></span>
+In pattern [YBGBGKGKY](/stripes/ybgbgkgky/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

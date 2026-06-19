@@ -2,10 +2,9 @@
 title: "Unnamed C18th - Prince Charles Edward #4"
 date: 2023-03-18
 ---
-**Bands:** [RGYKYGYRWRYGYKYG](/stripes/rgykygyrwrygykyg/) · **Stripes:** [R G LY K LY G LY R W R LY G LY K LY G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G LY K LY G LY R W R LY G LY K LY G</span></span>
+In pattern [GYKYGYRWRYGYKYGR](/stripes/gykygyrwrygykygr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4423
 

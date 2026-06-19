@@ -2,10 +2,9 @@
 title: "Northcroft (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGKGRG](/stripes/grgkgrg/) · **Stripes:** [G R G K G R G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G K G R G</span></span>
+In pattern [GRGKGRG](/stripes/grgkgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3159
 
@@ -894,14 +893,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Maxwell Htg (Clan)](/setts/s7/g3r16g4k6g28r2g3~x2/)
-- [Maxwell, hunting](/setts/s7/g3r16g4k6g28r1g3~x2/)
-
 
 ## Thread count
 G/48 R8 G6 K28 G10 R4 G/20

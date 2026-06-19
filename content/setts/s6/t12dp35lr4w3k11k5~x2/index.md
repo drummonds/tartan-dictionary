@@ -2,10 +2,9 @@
 title: "Ferster, James Carney"
 date: 2023-03-18
 ---
-**Bands:** [KKWYBB](/stripes/kkwybb/) · **Stripes:** [K K W LR DP T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">K K W LR DP T</span></span>
+In pattern [BBYWKK](/stripes/bbywkk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10595
 

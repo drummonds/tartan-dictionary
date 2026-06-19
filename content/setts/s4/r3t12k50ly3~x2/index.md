@@ -2,10 +2,9 @@
 title: "Rogues, The (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBKY](/stripes/rbky/) · **Stripes:** [R T K LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R T K LY</span></span>
+In pattern [RBKY](/stripes/rbky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10749/
 

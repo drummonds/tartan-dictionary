@@ -2,10 +2,9 @@
 title: "Hebridean Cairn (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRB](/stripes/rbrbrbrb/) · **Stripes:** [O N O N O N O N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">O N O N O N O N</span></span>
+In pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6822/
 

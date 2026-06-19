@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wkryryrykyryryry/
 ---
-WKRYRYRYKYRYRYRY
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-WKRYRYRYKYRYRYRY
+
+{{< pat "WKRYRYRYKYRYRYRY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY R LY R LY R LY K LY R LY R LY R K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R LY R LY R LY K LY R LY R LY R K W</span></span>
 
 | Tartans |
 |---------------|
 | [DeWolfe](/setts/s16/w6k7r2ly2r2ly2r2ly2k7ly2r34ly2r2ly2r2ly2~x2/)|
 |![DeWolfe example sett](/setts/s16/w6k7r2ly2r2ly2r2ly2k7ly2r34ly2r2ly2r2ly2~x2/sett.png)|
-

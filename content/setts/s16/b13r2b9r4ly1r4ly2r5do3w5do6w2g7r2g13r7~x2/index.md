@@ -2,10 +2,9 @@
 title: "Riley-Utter Union (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGWBWBRYRYRBRB](/stripes/rgrgwbwbryryrbrb/) · **Stripes:** [R G R G W DO W DO R LY R LY R B R B](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R G R G W DO W DO R LY R LY R B R B</span></span>
+In pattern [BRBRYRYRBWBWGRGR](/stripes/brbryryrbwbwgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10842
 

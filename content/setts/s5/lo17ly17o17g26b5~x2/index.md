@@ -2,10 +2,9 @@
 title: "Wild Mustard Dreams"
 date: 2023-03-18
 ---
-**Bands:** [YYRGB](/stripes/yyrgb/) · **Stripes:** [LO LY O G B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO LY O G B</span></span>
+In pattern [BGRYY](/stripes/bgryy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10933
 

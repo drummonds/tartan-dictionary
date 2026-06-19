@@ -2,10 +2,9 @@
 title: "Prince of Wales (Estate Check)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBWBWBWBWBWBWBWBW](/stripes/bwbwbwbwbwbwbwbwbwbwbw/) · **Stripes:** [DO LB DO LB DO LB DO LB DO LB DO LB DO LB DO LB DT LB DO LB DO LB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DO LB DO LB DO LB DO LB DO LB DO LB DO LB DO LB DT LB DO LB DO LB</span></span>
+In pattern [BWBWBWBWBWBWBWBWBWBWBW](/stripes/bwbwbwbwbwbwbwbwbwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3309/
 

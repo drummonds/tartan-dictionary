@@ -2,10 +2,9 @@
 title: "Wilson's, No 197"
 date: 2023-03-18
 ---
-**Bands:** [KYG](/stripes/kyg/) · **Stripes:** [K LY G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY G</span></span>
+In pattern [GYK](/stripes/gyk/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

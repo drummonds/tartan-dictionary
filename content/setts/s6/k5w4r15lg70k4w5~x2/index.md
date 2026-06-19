@@ -2,10 +2,9 @@
 title: "Tahrir (Liberation)"
 date: 2023-03-18
 ---
-**Bands:** [KWRYKW](/stripes/kwrykw/) · **Stripes:** [K W R LG K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R LG K W</span></span>
+In pattern [KWRYKW](/stripes/kwrykw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10623
 

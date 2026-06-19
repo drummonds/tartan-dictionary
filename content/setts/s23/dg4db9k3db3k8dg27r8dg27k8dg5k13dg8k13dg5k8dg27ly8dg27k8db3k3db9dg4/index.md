@@ -2,10 +2,9 @@
 title: "Stewart Hunting Early"
 date: 2023-03-18
 ---
-**Bands:** [GBKBKGRGKGKGKGKGYGKBKBG](/stripes/gbkbkgrgkgkgkgkgygkbkbg/) · **Stripes:** [DG DB K DB K DG R DG K DG K DG K DG K DG LY DG K DB K DB DG](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DG DB K DB K DG R DG K DG K DG K DG K DG LY DG K DB K DB DG</span></span>
+In pattern [GBKBKGRGKGKGKGKGYGKBKBG](/stripes/gbkbkgrgkgkgkgkgygkbkbg/).
 
-
-This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart Hunting Early](/setts/s23/dg2db4k1db1k3dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db3dg2/)
-- [Stewart Hunting Early](/setts/s23/dg4db9k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3db9dg4~x2/)
-
 
 ## Thread count
 DG/4 DB9 K3 DB3 K8 DG27 DR8 DG27 K8 DG5 K13 DG8 K13 DG5 K8 DG27 LG8 DG27 K8 DB3 K3 DB9 DG/4

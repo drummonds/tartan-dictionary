@@ -2,10 +2,9 @@
 title: "Usa"
 date: 2023-03-18
 ---
-**Bands:** [RYB](/stripes/ryb/) · **Stripes:** [R LR DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">R LR DB</span></span>
+In pattern [BYR](/stripes/byr/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

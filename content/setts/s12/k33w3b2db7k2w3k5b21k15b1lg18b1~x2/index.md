@@ -2,10 +2,9 @@
 title: "Covington, Christopher (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWBBKWKBKBYB](/stripes/kwbbkwkbkbyb/) · **Stripes:** [K W B DB K W K B K B LG B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K W B DB K W K B K B LG B</span></span>
+In pattern [BYBKBKWKBBWK](/stripes/bybkbkwkbbwk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11017/
 

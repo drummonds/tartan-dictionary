@@ -2,10 +2,9 @@
 title: "Women's Wear Daily Hunting (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKYKRKBKRKGKRKWKGKRKBKRKYKRKW](/stripes/rkykrkbkrkgkrkwkgkrkbkrkykrkw/) · **Stripes:** [R K LY K R K B K R K G K R K W K G K R K B K R K LY K R K W](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K LY K R K B K R K G K R K W K G K R K B K R K LY K R K W</span></span>
+In pattern [RKYKRKBKRKGKRKWKGKRKBKRKYKRKW](/stripes/rkykrkbkrkgkrkwkgkrkbkrkykrkw/).
 
-
-This was sourced from tartans-authority.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8567/
 

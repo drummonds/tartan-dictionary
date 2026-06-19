@@ -2,10 +2,9 @@
 title: "Ross, hunting dress"
 date: 2023-03-18
 ---
-**Bands:** [RWRWKGKGGGGG](/stripes/rwrwkgkggggg/) · **Stripes:** [R W R W K G K G G G G G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W R W K G K G G G G G</span></span>
+In pattern [GGGGGKGKWRWR](/stripes/gggggkgkwrwr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ross Arisaid](/setts/s12/r4w4r2w29k10g3k10g4g4g3g3g3~x2/)
-
 
 ## Thread count
 Ga/8 G6 Ga6 G8 Ga8 K16 Ga6 K18 LN58 R4 LN8 R/4

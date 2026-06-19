@@ -2,10 +2,9 @@
 title: "Snowy Owl (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [WKBKBYBYRYRWRW](/stripes/wkbkbybyryrwrw/) · **Stripes:** [W K N K N LO N LO O LO O W O W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K N K N LO N LO O LO O W O W</span></span>
+In pattern [WKBKBYBYRYRWRW](/stripes/wkbkbybyryrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10164/
 

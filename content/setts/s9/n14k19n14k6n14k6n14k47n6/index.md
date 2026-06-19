@@ -2,10 +2,9 @@
 title: "Grey Breton"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKB](/stripes/bkbkbkbkb/) · **Stripes:** [N K N K N K N K N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">N K N K N K N K N</span></span>
+In pattern [BKBKBKBKB](/stripes/bkbkbkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10608
 

@@ -2,10 +2,9 @@
 title: "Lochcarron, Camel (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRRKR](/stripes/krrkr/) · **Stripes:** [K O O K O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O O K O</span></span>
+In pattern [KRRKR](/stripes/krrkr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5461/
 

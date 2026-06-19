@@ -2,10 +2,9 @@
 title: "Boyd"
 date: 2023-03-18
 ---
-**Bands:** [YGKBKBKRGRKW](/stripes/ygkbkbkrgrkw/) · **Stripes:** [LY G K DB K DB K R G R K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G K DB K DB K R G R K W</span></span>
+In pattern [WKRGRKBKBKGY](/stripes/wkrgrkbkbkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=326
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Boyd](/setts/s12/w1k1r1g1r12k6db1k1db1k1g6ly1~x4/)
-
 
 ## Thread count
 LG/10 G44 K4 DB4 K4 DB4 K20 R76 G10 R8 K8 LN/10

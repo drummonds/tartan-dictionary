@@ -2,10 +2,9 @@
 title: "Ledford"
 date: 2023-03-18
 ---
-**Bands:** [YGG](/stripes/ygg/) · **Stripes:** [LO Y DG](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="seq">LO Y DG</span></span>
+In pattern [GGY](/stripes/ggy/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2079
 

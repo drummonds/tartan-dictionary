@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgwggygrgg/
 ---
-BGWGGYGRGG
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BGWGGYGRGG
+
+{{< pat "BGWGGYGRGG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### Y DG R DG LY DG Y W Y DB <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">Y DG R DG LY DG Y W Y DB</span></span>
 
 | Tartans |
 |---------------|
 | [Connecticut](/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/)|
 |![Connecticut example sett](/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/sett.png)|
-

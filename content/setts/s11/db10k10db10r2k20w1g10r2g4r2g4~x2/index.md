@@ -2,10 +2,9 @@
 title: "Newman"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGWKRBKB](/stripes/grgrgwkrbkb/) · **Stripes:** [G R G R G W K R DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G W K R DB K DB</span></span>
+In pattern [BKBRKWGRGRG](/stripes/bkbrkwgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3129
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3129](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3129)
 - Scottish Tartans Authority (ITI): 2629
 - Scottish Tartans World Register: 2629
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Newman](/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/)
-
 
 ## Thread count
 DB/20 K20 DB20 DR4 K40 W2 G20 DR4 G8 DR4 G/8

@@ -2,10 +2,9 @@
 title: "Scottish Rugby Union (Sports)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGRGRGKW](/stripes/bkbkgrgrgkw/) · **Stripes:** [DB K DB K G M G M G K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB K DB K G M G M G K LB</span></span>
+In pattern [BKBKGRGRGKW](/stripes/bkbkgrgrgkw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2101/
 

@@ -2,10 +2,9 @@
 title: "Martinez (2014)"
 date: 2023-03-18
 ---
-**Bands:** [BKRKYBYKYRYB](/stripes/bkrkybykyryb/) · **Stripes:** [DT K R K LY DT LY K LY R LY DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DT K R K LY DT LY K LY R LY DB</span></span>
+In pattern [BKRKYBYKYRYB](/stripes/bkrkybykyryb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11118
 

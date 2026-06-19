@@ -2,10 +2,9 @@
 title: "Shadow Halls"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGBKBKBKBKBB](/stripes/kbkbgbkbkbkbkbb/) · **Stripes:** [K DB K N Y N K B K DB K DB K DB B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K DB K N Y N K B K DB K DB K DB B</span></span>
+In pattern [BBKBKBKBKBGBKBK](/stripes/bbkbkbkbkbgbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11013/
 

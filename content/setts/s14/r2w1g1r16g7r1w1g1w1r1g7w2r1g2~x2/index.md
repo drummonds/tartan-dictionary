@@ -2,10 +2,9 @@
 title: "Mordente (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWGRGRWGWRGWRG](/stripes/rwgrgrwgwrgwrg/) · **Stripes:** [R W G R G R W G W R G W R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W G R G R W G W R G W R G</span></span>
+In pattern [GRWGRWGWRGRGWR](/stripes/grwgrwgwrgrgwr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3012
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3012](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3012)
 - Scottish Tartans Authority (ITI): 1016
 - Scottish Tartans World Register: 1016
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mordente](/setts/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/)
-- [Mordente (Personal)](/setts/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x4/)
-
 
 ## Thread count
 R/4 W2 G2 R32 G14 R2 W2 G2 W2 R2 G14 W4 R2 G/4

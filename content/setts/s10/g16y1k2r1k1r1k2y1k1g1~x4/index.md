@@ -2,10 +2,9 @@
 title: "Forde"
 date: 2023-03-18
 ---
-**Bands:** [GKGKRKRKGG](/stripes/gkgkrkrkgg/) · **Stripes:** [G K Y K R K R K Y G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K Y K R K R K Y G</span></span>
+In pattern [GGKRKRKGKG](/stripes/ggkrkrkgkg/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

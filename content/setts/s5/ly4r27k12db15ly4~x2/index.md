@@ -2,10 +2,9 @@
 title: "Aberdeen University (1992)"
 date: 2023-03-18
 ---
-**Bands:** [YRKBY](/stripes/yrkby/) · **Stripes:** [LY R K DB LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY R K DB LY</span></span>
+In pattern [YBKRY](/stripes/ybkry/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=20
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [20](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=20)
 - Scottish Tartans Authority (ITI): 2152
 - Scottish Tartans World Register: 2152
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Aberdeen University](/setts/s5/ly2r15k7db8ly2~x4/)
-
 
 ## Thread count
 Y/8 R54 K24 DB30 Y/8

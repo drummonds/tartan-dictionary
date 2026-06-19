@@ -2,10 +2,9 @@
 title: "MacBean"
 date: 2023-03-18
 ---
-**Bands:** [RWBWWWBWKGKWRRGRRWG](/stripes/rwbwwwbwkgkwrrgrrwg/) · **Stripes:** [R LB DB LB LB LB DB LB K DG K LB R R DG R R LB DG](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="seq">R LB DB LB LB LB DB LB K DG K LB R R DG R R LB DG</span></span>
+In pattern [GWRRGRRWKGKWBWWWBWR](/stripes/gwrrgrrwkgkwbwwwbwr/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

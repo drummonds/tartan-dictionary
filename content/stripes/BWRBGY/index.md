@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/bwrbgy/
 ---
-BWRBGY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/lo9dg18t9r1w1db1~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BWRBGY
+
+{{< pat "BWRBGY" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### LO DG T R W DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DG T R W DB</span></span>
 
 | Tartans |
 |---------------|
 | [COG USA, THE](/setts/s6/lo9dg18t9r1w1db1~x4/)|
 |![COG USA, THE example sett](/setts/s6/lo9dg18t9r1w1db1~x4/sett.png)|
-
-### LO G T R W DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LO G T R W DB</span></span>
-
-| Tartans |
-|---------------|
 | [T.H.E. C.O.G. USA (Corporate)](/setts/s6/lo9g18t9r1w1db1~x4/)|
 |![T.H.E. C.O.G. USA (Corporate) example sett](/setts/s6/lo9g18t9r1w1db1~x4/sett.png)|
-

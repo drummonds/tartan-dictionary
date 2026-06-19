@@ -2,10 +2,9 @@
 title: "McIntosh, Georgina (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBWGWB](/stripes/rbwgwb/) · **Stripes:** [R DB LB G LB P](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R DB LB G LB P</span></span>
+In pattern [BWGWBR](/stripes/bwgwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889
 

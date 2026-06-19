@@ -2,10 +2,9 @@
 title: "MacFie"
 date: 2023-03-18
 ---
-**Bands:** [YRGRGRY](/stripes/yrgrgry/) · **Stripes:** [LR R DG R DG R LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LR R DG R DG R LY</span></span>
+In pattern [YRGRGRY](/stripes/yrgrgry/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

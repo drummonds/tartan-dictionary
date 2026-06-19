@@ -2,10 +2,9 @@
 title: "Wcwm 9275-1563"
 date: 2023-03-18
 ---
-**Bands:** [BKRKRKRKGKBKGKRKRKRKB](/stripes/bkrkrkrkgkbkgkrkrkrkb/) · **Stripes:** [DB K R K R K R K DG K DB K DG K R K R K R K DB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K R K R K R K DG K DB K DG K R K R K R K DB</span></span>
+In pattern [BKRKRKRKGKBKGKRKRKRKB](/stripes/bkrkrkrkgkbkgkrkrkrkb/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4571
 

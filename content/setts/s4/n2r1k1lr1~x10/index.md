@@ -2,10 +2,9 @@
 title: "Kucher, Gregory (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKRB](/stripes/ykrb/) · **Stripes:** [LR K R N](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">LR K R N</span></span>
+In pattern [BRKY](/stripes/brky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10086/
 

@@ -2,10 +2,9 @@
 title: "Thomas Newcomen's Combustion Engine"
 date: 2023-03-18
 ---
-**Bands:** [KRWB](/stripes/krwb/) · **Stripes:** [K R W DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K R W DB</span></span>
+In pattern [BWRK](/stripes/bwrk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10849
 

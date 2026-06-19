@@ -2,10 +2,9 @@
 title: "Johnston"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGKGY](/stripes/kbkbgkgy/) · **Stripes:** [K DB K DB DG K DG LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K DB K DB DG K DG LY</span></span>
+In pattern [KBKBGKGY](/stripes/kbkbgkgy/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Johnston](/setts/s8/ly3dg2k1dg30db24k2db2k2/)
-
 
 ## Thread count
 LG/6 DG4 K2 DG60 DB48 K4 DB4 K/4

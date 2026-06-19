@@ -2,10 +2,9 @@
 title: "Wacker (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KBWBGKGBBKB](/stripes/kbwbgkgbbkb/) · **Stripes:** [K DB W DT G K G DT DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB W DT G K G DT DB K DB</span></span>
+In pattern [BKBBGKGBWBK](/stripes/bkbbgkgbwbk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2689/
 

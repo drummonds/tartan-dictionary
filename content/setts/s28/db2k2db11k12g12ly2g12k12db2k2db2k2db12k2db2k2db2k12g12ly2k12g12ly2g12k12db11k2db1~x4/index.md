@@ -2,10 +2,9 @@
 title: "Gordon"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGKYGKBKBKBKBKBKGYGKBKB](/stripes/bkbkgygkygkbkbkbkbkbkgygkbkb/) · **Stripes:** [DB K DB K G LY G K LY G K DB K DB K DB K DB K DB K G LY G K DB K DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G LY G K LY G K DB K DB K DB K DB K DB K G LY G K DB K DB</span></span>
+In pattern [BKBKGYGKBKBKBKBKBKGYKGYGKBKB](/stripes/bkbkgygkbkbkbkbkbkgykgygkbkb/).
 
-
-This was sourced from logan-1831.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from logan-1831.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link /posts/logans-scottish-gael/
 

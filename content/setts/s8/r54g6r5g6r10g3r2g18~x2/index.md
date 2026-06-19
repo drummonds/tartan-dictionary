@@ -2,10 +2,9 @@
 title: "Kyle Green (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRG](/stripes/rgrgrgrg/) · **Stripes:** [R G R G R G R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G R G</span></span>
+In pattern [GRGRGRGR](/stripes/grgrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3615/
 
@@ -14,14 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/3615/
 This cloth is also recorded under:
 
 - Kyle Green
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Aukland & District Pipe Band (Corp)](/setts/s8/g164r20g6r20g23r14g4r36/)
-- [Menzies](/setts/s8/g48r4g2r4g6r2g3r9~x2/)
-
 
 ## Thread count
 R/108 G12 R10 G12 R20 G6 R4 G/36

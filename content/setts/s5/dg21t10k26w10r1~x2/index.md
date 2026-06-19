@@ -2,10 +2,9 @@
 title: "Charles-Carberry (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWKBG](/stripes/rwkbg/) · **Stripes:** [R W K T DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">R W K T DG</span></span>
+In pattern [GBKWR](/stripes/gbkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10960
 

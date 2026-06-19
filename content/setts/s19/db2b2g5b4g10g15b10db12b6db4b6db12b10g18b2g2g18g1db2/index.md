@@ -2,10 +2,9 @@
 title: "Watkins (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [BGGGBGBBBBBBBGGBGBB](/stripes/bgggbgbbbbbbbggbgbb/) · **Stripes:** [DB G G G B G B DB B DB B DB B G G B G B DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">DB G G G B G B DB B DB B DB B G G B G B DB</span></span>
+In pattern [BBGBGGBBBBBBBGBGGGB](/stripes/bbgbggbbbbbbbgbgggb/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6169/
 

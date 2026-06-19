@@ -632,6 +632,13 @@
       "rank": 0
     },
     {
+      "name": "haig",
+      "display": "Haig",
+      "kind": "clan",
+      "url": "/clan/haig/",
+      "rank": 0
+    },
+    {
       "name": "hamilton",
       "display": "Hamilton",
       "kind": "clan",
@@ -2288,13 +2295,6 @@
       "display": "Douglas of Roxburgh",
       "kind": "family",
       "url": "/families/douglas-of-roxburgh/",
-      "rank": 1
-    },
-    {
-      "name": "drummond of fingask",
-      "display": "Drummond of Fingask",
-      "kind": "family",
-      "url": "/families/drummond-of-fingask/",
       "rank": 1
     },
     {
@@ -24317,13 +24317,6 @@
       "display": "Drummond C",
       "kind": "tartan",
       "url": "/setts/s15/r3k1r1dg6r1dg1r1k2r1lr1r6db1r1db1r3/",
-      "rank": 4
-    },
-    {
-      "name": "drummond of fingask",
-      "display": "Drummond of Fingask",
-      "kind": "tartan",
-      "url": "/setts/s8/r48db3lo2g14r8db3t4w3~x2/",
       "rank": 4
     },
     {
@@ -60332,6 +60325,13 @@
       "display": "Murray Taylor",
       "kind": "tartan",
       "url": "/setts/s6/db3t3db16t16db16w3~x2/",
+      "rank": 4
+    },
+    {
+      "name": "murray threipland of fingask",
+      "display": "Murray Threipland of Fingask",
+      "kind": "tartan",
+      "url": "/setts/s8/r48db3lo2g14r8db3t4w3~x2/",
       "rank": 4
     },
     {

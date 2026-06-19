@@ -2,10 +2,9 @@
 title: "Cameron Clan D"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRY](/stripes/rgrgry/) · **Stripes:** [R DG R DG R LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG R DG R LY</span></span>
+In pattern [RGRGRY](/stripes/rgrgry/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -63,13 +62,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cameron](/setts/s6/r2dg6r2dg6r16ly1~x2/)
-
 
 ## Thread count
 R/2 G12 R2 G12 R30 Y/2

@@ -2,10 +2,9 @@
 title: "International Pairs (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BYGRWRGYBW](/stripes/bygrwrgybw/) · **Stripes:** [DB LO G R W R G LO DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LO G R W R G LO DB W</span></span>
+In pattern [BYGRWRGYBW](/stripes/bygrwrgybw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7648/
 

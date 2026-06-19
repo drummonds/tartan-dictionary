@@ -2,10 +2,9 @@
 title: "MacFarlane, hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKGWRKRWGBKRWG](/stripes/gkgwrkrwgbkrwg/) · **Stripes:** [G K G W R K R W G DB K R W G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G W R K R W G DB K R W G</span></span>
+In pattern [GKGWRKRWGBKRWG](/stripes/gkgwrkrwgbkrwg/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacFarlane Hunting Clan Tartan Tartan Number: 779. Earliest known date: 1930-50 This sett comes from the MacGregor-Hastie collection in the Scottish Tartans Museum. The collection dates between 1930-50 and forms the major part of the cloth archive. The Hunting MacFarlane is based on Logans count (1831) with red changed to green. The MacFarlanes came originally from the lands about Arrochar in the West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g16k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/)
-
 
 ## Thread count
 G/128 K6 G40 LN4 R6 K4 R6 LN4 G4 B36 K4 R8 LN4 G/6

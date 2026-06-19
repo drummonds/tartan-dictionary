@@ -2,10 +2,9 @@
 title: "Heart of Strathearn"
 date: 2023-03-18
 ---
-**Bands:** [YBYBWBRBG](/stripes/ybybwbrbg/) · **Stripes:** [LY B LO B W B R B G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY B LO B W B R B G</span></span>
+In pattern [GBRBWBYBY](/stripes/gbrbwbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1644
 

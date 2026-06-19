@@ -2,10 +2,9 @@
 title: "Cairn (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWRBRBRBRBRBGY](/stripes/rwrbrbrbrbrbgy/) · **Stripes:** [O W R DB R DB R DB R DB R DB Y LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O W R DB R DB R DB R DB R DB Y LY</span></span>
+In pattern [RWRBRBRBRBRBGY](/stripes/rwrbrbrbrbrbgy/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3778/
 

@@ -2,10 +2,9 @@
 title: "Unidentified Lindley #5"
 date: 2023-03-18
 ---
-**Bands:** [RYRGYGRYRG](/stripes/ryrgygryrg/) · **Stripes:** [R LO R DY LO DY R LO R DY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R LO R DY LO DY R LO R DY</span></span>
+In pattern [GRYRGYGRYR](/stripes/gryrgygryr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4307
 

@@ -2,10 +2,9 @@
 title: "Kildare County, Crest Range"
 date: 2023-03-18
 ---
-**Bands:** [RKGKRKBKWRB](/stripes/rkgkrkbkwrb/) · **Stripes:** [O K Y K R K T K W R T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">O K Y K R K T K W R T</span></span>
+In pattern [BRWKBKRKGKR](/stripes/brwkbkrkgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5918
 

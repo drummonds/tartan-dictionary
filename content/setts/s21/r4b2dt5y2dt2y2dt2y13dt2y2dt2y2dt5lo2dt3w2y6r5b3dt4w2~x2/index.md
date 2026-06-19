@@ -2,10 +2,9 @@
 title: "Lundie"
 date: 2023-03-18
 ---
-**Bands:** [RBBGBGBGBGBGBYBWGRBBW](/stripes/rbbgbgbgbgbgbybwgrbbw/) · **Stripes:** [R B DT Y DT Y DT Y DT Y DT Y DT LO DT W Y R B DT W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R B DT Y DT Y DT Y DT Y DT Y DT LO DT W Y R B DT W</span></span>
+In pattern [RBBGBGBGBGBGBYBWGRBBW](/stripes/rbbgbgbgbgbgbybwgrbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10022
 

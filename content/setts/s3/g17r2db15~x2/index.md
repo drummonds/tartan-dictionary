@@ -2,10 +2,9 @@
 title: "Ferguson - 1930 (Old)"
 date: 2023-03-18
 ---
-**Bands:** [GRB](/stripes/grb/) · **Stripes:** [G R DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB</span></span>
+In pattern [BRG](/stripes/brg/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/503/
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's No 62, (Ferguson)](/setts/s3/db13r2g13~x2/)
-
 
 ## Thread count
 G/34 R4 DB/30

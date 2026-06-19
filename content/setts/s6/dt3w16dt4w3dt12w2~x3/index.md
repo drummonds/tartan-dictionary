@@ -2,10 +2,9 @@
 title: "MacMugen"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBW](/stripes/bwbwbw/) · **Stripes:** [DT W DT W DT W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT W DT W DT W</span></span>
+In pattern [BWBWBW](/stripes/bwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2657/
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2663)
 - Scottish Tartans Authority (ITI): 2657
 - Scottish Tartans World Register: 2657
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barbie's Moss Plaid (Blue & White)](/setts/s6/w20dt20w3dt3~x2/)
-
 
 ## Thread count
 DB/9 LY48 DB12 LY9 DB36 LY/6

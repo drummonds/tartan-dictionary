@@ -2,10 +2,9 @@
 title: "Aquascutum (Kinloch Anderson)"
 date: 2023-03-18
 ---
-**Bands:** [KRWKWKGKG](/stripes/krwkwkgkg/) · **Stripes:** [K M W K W K DY K DY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K M W K W K DY K DY</span></span>
+In pattern [GKGKWKWRK](/stripes/gkgkwkwrk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=104
 

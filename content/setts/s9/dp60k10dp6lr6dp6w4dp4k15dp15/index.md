@@ -2,10 +2,9 @@
 title: "Kansas State University"
 date: 2023-03-18
 ---
-**Bands:** [BKBYBWBKB](/stripes/bkbybwbkb/) · **Stripes:** [DP K DP LR DP W DP K DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP K DP LR DP W DP K DP</span></span>
+In pattern [BKBWBYBKB](/stripes/bkbwbybkb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11565
 

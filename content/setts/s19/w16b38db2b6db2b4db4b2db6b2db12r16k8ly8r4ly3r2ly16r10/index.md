@@ -2,19 +2,11 @@
 title: "Declaration of Scottish Independence"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYKRBBBBBBBBBBW](/stripes/ryryrykrbbbbbbbbbbw/) · **Stripes:** [R LY R LY R LY K R DB B DB B DB B DB B DB B W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY R LY R LY K R DB B DB B DB B DB B DB B W</span></span>
+In pattern [RYRYRYKRBBBBBBBBBBW](/stripes/ryryrykrbbbbbbbbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11182/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Declaration of Scottish Independence, Arbroath 1320](/setts/s19/w20b43db2b6db2b4db4b2db6b2db14r20k7ly7r4ly3r2ly20r13/)
-
 
 ## Thread count
 W/16 B38 DB2 B6 DB2 B4 DB4 B2 DB6 B2 DB12 DR16 K8 Y8 DR4 Y3 DR2 Y16 DR/10

@@ -2,10 +2,9 @@
 title: "Morrison LC"
 date: 2023-03-18
 ---
-**Bands:** [GRKRKRGYG](/stripes/grkrkrgyg/) · **Stripes:** [DG R K R K R DG LR DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R K R K R DG LR DG</span></span>
+In pattern [GRKRKRGYG](/stripes/grkrkrgyg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Morrison LC](/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/)
-
 
 ## Thread count
 DG/9 N4 DG15 DR17 K5 DR7 K5 DR32 DG/5

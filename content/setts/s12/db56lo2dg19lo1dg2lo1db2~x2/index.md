@@ -2,10 +2,9 @@
 title: "Lewis of Wales"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYBYGYGYB](/stripes/ygygybygygyb/) · **Stripes:** [LO DG LO DG LO DB LO DG LO DG LO DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DG LO DG LO DB LO DG LO DG LO DB</span></span>
+In pattern [BYGYGYBYGYGY](/stripes/bygygybygygy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2109
 

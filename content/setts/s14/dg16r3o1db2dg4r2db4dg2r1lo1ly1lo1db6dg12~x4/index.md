@@ -2,10 +2,9 @@
 title: "Heneghan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRRBGRBGRYYYBG](/stripes/grrbgrbgryyybg/) · **Stripes:** [DG R O DB DG R DB DG R LO LY LO DB DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R O DB DG R DB DG R LO LY LO DB DG</span></span>
+In pattern [GBYYYRGBRGBRRG](/stripes/gbyyyrgbrgbrrg/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3841/
 

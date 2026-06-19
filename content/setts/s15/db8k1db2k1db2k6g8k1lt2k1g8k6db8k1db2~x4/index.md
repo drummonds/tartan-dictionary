@@ -2,10 +2,9 @@
 title: "Rogers Family (Kilkeel) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKWKGKBKBKB](/stripes/bkbkgkwkgkbkbkb/) · **Stripes:** [DB K DB K G K LT K G K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G K LT K G K DB K DB K DB</span></span>
+In pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10757
 

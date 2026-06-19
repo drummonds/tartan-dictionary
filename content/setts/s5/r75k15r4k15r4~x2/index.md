@@ -2,21 +2,11 @@
 title: "Masai Shuka 07 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKR](/stripes/rkrkr/) · **Stripes:** [R K R K R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R</span></span>
+In pattern [RKRKR](/stripes/rkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7198/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell Red (artefact)](/setts/s5/r4k1r24k22r2~x2/)
-- [Campbell of Armaddie](/setts/s5/r4k1r12k12r2~x2/)
-- [MacLeod Black & Red](/setts/s5/r8k1r8k12r1~x2/)
-
 
 ## Thread count
 R/150 K30 R8 K30 R/8

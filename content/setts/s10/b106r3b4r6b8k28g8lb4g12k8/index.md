@@ -2,10 +2,9 @@
 title: "Parr"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKBRBRB](/stripes/kgwgkbrbrb/) · **Stripes:** [K G LB G K B R B R B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G LB G K B R B R B</span></span>
+In pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3297
 

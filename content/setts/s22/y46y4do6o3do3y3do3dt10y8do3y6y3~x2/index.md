@@ -2,10 +2,9 @@
 title: "Williams #2"
 date: 2023-03-18
 ---
-**Bands:** [GGBRBGBBGBGGGBGBBGBRBG](/stripes/ggbrbgbbgbgggbgbbgbrbg/) · **Stripes:** [Y Y DO O DO Y DO DT Y DO Y Y Y DO Y DT DO Y DO O DO Y](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y Y DO O DO Y DO DT Y DO Y Y Y DO Y DT DO Y DO O DO Y</span></span>
+In pattern [GBRBGBBGBGGGBGBBGBRBGG](/stripes/gbrbgbbgbgggbgbbgbrbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4627
 

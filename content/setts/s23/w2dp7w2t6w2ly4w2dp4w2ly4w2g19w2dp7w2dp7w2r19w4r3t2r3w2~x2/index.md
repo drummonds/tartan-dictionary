@@ -2,10 +2,9 @@
 title: "Lasting Family Tartan Tartan Number: 1789. Earliest known date: 1819 An early plaid sett from Wilson's of Bannockburn 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WRBRWRWBWBWGWYWBWYWBWBW](/stripes/wrbrwrwbwbwgwywbwywbwbw/) · **Stripes:** [W R T R W R W DP W DP W G W LY W DP W LY W T W DP W](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R T R W R W DP W DP W G W LY W DP W LY W T W DP W</span></span>
+In pattern [WBWBWYWBWYWGWBWBWRWRBRW](/stripes/wbwbwywbwywgwbwbwrwrbrw/).
 
-
-This was sourced from house-of-tartan.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1789
 

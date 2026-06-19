@@ -2,10 +2,9 @@
 title: "Cleikum"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKYKRKYKBKBKBYB](/stripes/kbkbkykrkykbkbkbyb/) · **Stripes:** [K DB K DB K LY K R K LY K DB K DB K DB LY DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K LY K R K LY K DB K DB K DB LY DB</span></span>
+In pattern [BYBKBKBKYKRKYKBKBK](/stripes/bybkbkbkykrkykbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=672
 

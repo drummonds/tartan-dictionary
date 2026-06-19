@@ -2,10 +2,9 @@
 title: "Seattle (District)"
 date: 2023-03-18
 ---
-**Bands:** [YGWBRGRBWG](/stripes/ygwbrgrbwg/) · **Stripes:** [LO G LB DB R G R DB LB G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G LB DB R G R DB LB G</span></span>
+In pattern [GWBRGRBWGY](/stripes/gwbrgrbwgy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2113/
 

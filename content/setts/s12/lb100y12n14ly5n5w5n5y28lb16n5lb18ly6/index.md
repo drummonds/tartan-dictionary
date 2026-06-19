@@ -2,10 +2,9 @@
 title: "Glenclova"
 date: 2023-03-18
 ---
-**Bands:** [YWBWGBWBYBGW](/stripes/ywbwgbwbybgw/) · **Stripes:** [LY LB N LB Y N W N LY N Y LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY LB N LB Y N W N LY N Y LB</span></span>
+In pattern [WGBYBWBGWBWY](/stripes/wgbybwbgwbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1407
 

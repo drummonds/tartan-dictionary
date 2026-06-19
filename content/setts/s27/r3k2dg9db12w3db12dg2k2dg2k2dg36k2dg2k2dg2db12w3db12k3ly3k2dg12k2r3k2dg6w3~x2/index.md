@@ -2,10 +2,9 @@
 title: "Cockburn #2"
 date: 2023-03-18
 ---
-**Bands:** [RKGBWBGKGKGKGKGBWBKYKGKRKGW](/stripes/rkgbwbgkgkgkgkgbwbkykgkrkgw/) · **Stripes:** [R K DG DB W DB DG K DG K DG K DG K DG DB W DB K LY K DG K R K DG W](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K DG DB W DB DG K DG K DG K DG K DG DB W DB K LY K DG K R K DG W</span></span>
+In pattern [RKGBWBGKGKGKGKGBWBKYKGKRKGW](/stripes/rkgbwbgkgkgkgkgbwbkykgkrkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=700
 

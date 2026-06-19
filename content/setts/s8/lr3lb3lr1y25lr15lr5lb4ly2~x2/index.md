@@ -2,10 +2,9 @@
 title: "Rikaco Morning Dew #2"
 date: 2023-03-18
 ---
-**Bands:** [YWYYGYWY](/stripes/ywyygywy/) · **Stripes:** [LY LB LR LR Y LR LB LR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY LB LR LR Y LR LB LR</span></span>
+In pattern [YWYGYYWY](/stripes/ywygyywy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3512
 

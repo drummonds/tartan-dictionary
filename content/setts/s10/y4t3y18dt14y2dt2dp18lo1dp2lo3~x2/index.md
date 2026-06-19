@@ -2,10 +2,9 @@
 title: "Caisteal Leòdhais"
 date: 2023-03-18
 ---
-**Bands:** [YBYBBGBGBG](/stripes/ybybbgbgbg/) · **Stripes:** [LO DP LO DP DT Y DT Y T Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO DP LO DP DT Y DT Y T Y</span></span>
+In pattern [GBGBGBBYBY](/stripes/gbgbgbbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11331
 

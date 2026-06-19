@@ -2,10 +2,9 @@
 title: "Elliott"
 date: 2023-03-18
 ---
-**Bands:** [RBRB](/stripes/rbrb/) · **Stripes:** [R DB R DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB</span></span>
+In pattern [BRBR](/stripes/brbr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -36,13 +35,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Masai Shuka 21 (Artefact)](/setts/s4/r40db2r6db15~x2/)
-
 
 ## Thread count
 DB/32 DR8 DB6 R/2

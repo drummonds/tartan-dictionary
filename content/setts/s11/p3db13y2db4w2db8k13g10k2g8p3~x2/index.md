@@ -2,10 +2,9 @@
 title: "Smithers"
 date: 2023-03-18
 ---
-**Bands:** [BGKGKBWBGBB](/stripes/bgkgkbwbgbb/) · **Stripes:** [P G K G K DB W DB Y DB P](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P G K G K DB W DB Y DB P</span></span>
+In pattern [BBGBWBKGKGB](/stripes/bbgbwbkgkgb/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

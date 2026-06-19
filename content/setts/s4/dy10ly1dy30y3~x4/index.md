@@ -2,10 +2,9 @@
 title: "Pasteur"
 date: 2023-03-18
 ---
-**Bands:** [GYGG](/stripes/gygg/) · **Stripes:** [DY LY DY Y](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DY LY DY Y</span></span>
+In pattern [GGYG](/stripes/ggyg/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3299
 

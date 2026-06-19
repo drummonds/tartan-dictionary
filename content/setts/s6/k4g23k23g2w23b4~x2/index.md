@@ -2,10 +2,9 @@
 title: "MacKay Dress"
 date: 2023-03-18
 ---
-**Bands:** [KGKGWB](/stripes/kgkgwb/) · **Stripes:** [K G K G W B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G K G W B</span></span>
+In pattern [BWGKGK](/stripes/bwgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2502
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2502](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2502)
 - Scottish Tartans Authority (ITI): 7015
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKay, Dress (Corporate)](/setts/s6/k4g14k14g2w14b3~x2/)
-
 
 ## Thread count
 K/8 G46 K46 G4 LN46 B/8

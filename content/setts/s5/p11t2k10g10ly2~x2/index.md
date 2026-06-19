@@ -2,10 +2,9 @@
 title: "Wilson's, No 217"
 date: 2023-03-18
 ---
-**Bands:** [YGKBB](/stripes/ygkbb/) · **Stripes:** [LY G K T P](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY G K T P</span></span>
+In pattern [BBKGY](/stripes/bbkgy/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

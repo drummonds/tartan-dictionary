@@ -2,10 +2,9 @@
 title: "Scotland's People"
 date: 2023-03-18
 ---
-**Bands:** [RYRKRKRKRGRG](/stripes/ryrkrkrkrgrg/) · **Stripes:** [R LY R K M K M K M G M G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY R K M K M K M G M G</span></span>
+In pattern [GRGRKRKRKRYR](/stripes/grgrkrkrkryr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3685
 

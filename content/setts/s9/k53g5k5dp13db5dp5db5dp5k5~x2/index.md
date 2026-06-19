@@ -2,19 +2,11 @@
 title: "Laird (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBBBBBK](/stripes/kgkbbbbbk/) · **Stripes:** [K G K DP DB DP DB DP K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K DP DB DP DB DP K</span></span>
+In pattern [KBBBBBKGK](/stripes/kbbbbbkgk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7856/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Laird (Restricted)](/setts/s9/k75g2k4dp10db1dp4db1dp4k4~x2/)
-
 
 ## Thread count
 K/106 G10 K10 P26 DB10 P10 DB10 P10 K/10

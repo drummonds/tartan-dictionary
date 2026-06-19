@@ -2,10 +2,9 @@
 title: "Hill 70"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGBBRWRKB](/stripes/grgrgrgbbrwrkb/) · **Stripes:** [DG R DG R DG R DG T DB R W R K T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG R DG R DG R DG T DB R W R K T</span></span>
+In pattern [BKRWRBBGRGRGRG](/stripes/bkrwrbbgrgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11285
 

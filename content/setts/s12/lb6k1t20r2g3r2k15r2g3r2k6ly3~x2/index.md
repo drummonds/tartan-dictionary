@@ -2,10 +2,9 @@
 title: "Royal Scottish P.B. Assoc. (Corp.)"
 date: 2023-03-18
 ---
-**Bands:** [YKRGRKRGRBKW](/stripes/ykrgrkrgrbkw/) · **Stripes:** [LY K R G R K R G R T K LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY K R G R K R G R T K LB</span></span>
+In pattern [WKBRGRKRGRKY](/stripes/wkbrgrkrgrky/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2623/
 

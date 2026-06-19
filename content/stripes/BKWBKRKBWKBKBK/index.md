@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkwbkrkbwkbkbk/
 ---
-BKWBKRKBWKBKBK
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-BKWBKRKBWKBKBK
+
+{{< pat "BKWBKRKBWKBKBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K DB K DB K W DB K R K DB W K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K W DB K R K DB W K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Bristow Helicopters](/setts/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/)|
 |![Bristow Helicopters example sett](/setts/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Innes"
 date: 2023-03-18
 ---
-**Bands:** [GKGBKB](/stripes/gkgbkb/) · **Stripes:** [G K G T K T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G K G T K T</span></span>
+In pattern [BKBGKG](/stripes/bkbgkg/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Innes, Georgina (Portrait)](/setts/s6/g7k1g7t1k6t1~x4/)
-
 
 ## Thread count
 G/14 K2 G14 B2 K12 B/2

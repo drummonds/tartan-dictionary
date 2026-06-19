@@ -2,10 +2,9 @@
 title: "City of Rome Italian Corporate Tartan Tartan Number: 6697. Earliest known date: 2005 The background of black and navy blue are the colours of the Italian national football team. Gold for the Vatican and orange & maroon are the official colours of Rome. The City of Rome Pipe Band was formed in October 2000 and has grown by 2005 to 11 pipers and 7 drummers. It is the first Pipe Band in Italy and is very popular at various events in the country. The City of Rome authorities have agreed that the tartan be regarded as the Citys official tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBKBYBKBKYRYKBKBYBKB](/stripes/kbkbybkbkyrykbkbybkb/) · **Stripes:** [K DB K DB LY DB K DB K LO R LO K DB K DB LY DB K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB LY DB K DB K LO R LO K DB K DB LY DB K DB</span></span>
+In pattern [BKBYBKBKYRYKBKBYBKBK](/stripes/bkbybkbkyrykbkbybkbk/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6697
 

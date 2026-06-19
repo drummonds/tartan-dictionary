@@ -2,10 +2,9 @@
 title: "B.A.B.C. (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBWBBBRW](/stripes/rbwbbbrw/) · **Stripes:** [R DT W DT DB DT R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DT W DT DB DT R W</span></span>
+In pattern [RBWBBBRW](/stripes/rbwbbbrw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6826/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/6826/
 This cloth is also recorded under:
 
 - B.A.B.C.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [BABC](/setts/s8/r3dt4w2dt33db32dt2r4w3/)
-
 
 ## Thread count
 R/6 DB8 W4 DB66 DBa64 DB4 R8 W/6

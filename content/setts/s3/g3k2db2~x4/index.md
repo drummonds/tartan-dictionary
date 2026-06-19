@@ -2,10 +2,9 @@
 title: "Glenlyon #2"
 date: 2023-03-18
 ---
-**Bands:** [GKB](/stripes/gkb/) · **Stripes:** [G K DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB</span></span>
+In pattern [BKG](/stripes/bkg/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457
 

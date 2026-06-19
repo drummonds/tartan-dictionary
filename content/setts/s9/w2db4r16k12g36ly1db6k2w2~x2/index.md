@@ -2,10 +2,9 @@
 title: "National Millennium"
 date: 2023-03-18
 ---
-**Bands:** [WKBYGKRBW](/stripes/wkbygkrbw/) · **Stripes:** [W K DB LY G K R DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K DB LY G K R DB W</span></span>
+In pattern [WBRKGYBKW](/stripes/wbrkgybkw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3099
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3099](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3099)
 - Scottish Tartans Authority (ITI): 1775
 - Scottish Tartans World Register: 1775
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [National](/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/)
-
 
 ## Thread count
 LN/4 DB8 R32 K24 G72 Y2 DB12 K4 LN/4

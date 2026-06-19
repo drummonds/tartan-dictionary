@@ -2,10 +2,9 @@
 title: "Lashbrooke of Barrowfield"
 date: 2023-03-18
 ---
-**Bands:** [BYBBRBGYWRWB](/stripes/bybbrbgywrwb/) · **Stripes:** [DB LY B DB R DB DY LY W R W DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LY B DB R DB DY LY W R W DB</span></span>
+In pattern [BWRWYGBRBBYB](/stripes/bwrwygbrbbyb/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10947/
 

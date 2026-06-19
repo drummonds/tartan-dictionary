@@ -2,10 +2,9 @@
 title: "Lomond Mist"
 date: 2023-03-18
 ---
-**Bands:** [KWBGBBKBWBW](/stripes/kwbgbbkbwbw/) · **Stripes:** [K LB T DY T P K N LB N W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LB T DY T P K N LB N W</span></span>
+In pattern [KWBGBBKBWBW](/stripes/kwbgbbkbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10442
 

@@ -2,10 +2,9 @@
 title: "Entrelacs"
 date: 2023-03-18
 ---
-**Bands:** [YWBWBGWYWBWGB](/stripes/ywbwbgwywbwgb/) · **Stripes:** [LO W T W T DG W LO W T W DG T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO W T W T DG W LO W T W DG T</span></span>
+In pattern [BGWBWYWGBWBWY](/stripes/bgwbwywgbwbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1116
 

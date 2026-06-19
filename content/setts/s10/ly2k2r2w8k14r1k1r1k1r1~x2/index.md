@@ -2,10 +2,9 @@
 title: "Barbecue Plaid (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKWRKY](/stripes/rkrkrkwrky/) · **Stripes:** [R K R K R K W R K LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K R K R K W R K LY</span></span>
+In pattern [RKRKRKWRKY](/stripes/rkrkrkwrky/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1607/
 

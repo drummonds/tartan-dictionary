@@ -2,10 +2,9 @@
 title: "Lumsden of Kintore (Clan?)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRBRB](/stripes/grgrgrbrb/) · **Stripes:** [G R G R G R DT R DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">G R G R G R DT R DT</span></span>
+In pattern [BRBRGRGRG](/stripes/brbrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/418/
 

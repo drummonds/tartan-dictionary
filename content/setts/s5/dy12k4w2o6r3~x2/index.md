@@ -2,10 +2,9 @@
 title: "Strathblane (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RRWKG](/stripes/rrwkg/) · **Stripes:** [R O W K DY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R O W K DY</span></span>
+In pattern [GKWRR](/stripes/gkwrr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1633/
 

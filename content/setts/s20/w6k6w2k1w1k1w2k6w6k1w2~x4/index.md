@@ -2,10 +2,9 @@
 title: "Scott (Sir Walter Scott) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkw/) · **Stripes:** [K W K W K W K W K W K W K W K W K W K W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K W K W K W K W K W K W K W K W K W</span></span>
+In pattern [KWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3694
 
@@ -22,14 +21,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3694](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3694)
 - Scottish Tartans Authority (ITI): 1826
 - Scottish Tartans World Register: 1826
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ogilvie (B&W) (Fashion?)](/setts/s20/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12~x2/)
-- [Stewart/Stuart, Royal (Black and White))](/setts/s20/k36w4k6w1k1w1k1w8k4w1k6~x2/)
-
 
 ## Thread count
 W/8 K4 W24 K24 W8 K4 W4 K4 W8 K24 W24 K24 W8 K4 W4 K4 W8 K24 W24 K/4

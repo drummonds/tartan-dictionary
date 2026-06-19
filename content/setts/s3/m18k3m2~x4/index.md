@@ -2,10 +2,9 @@
 title: "Buie"
 date: 2023-03-18
 ---
-**Bands:** [RKR](/stripes/rkr/) · **Stripes:** [M K M](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M K M</span></span>
+In pattern [RKR](/stripes/rkr/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

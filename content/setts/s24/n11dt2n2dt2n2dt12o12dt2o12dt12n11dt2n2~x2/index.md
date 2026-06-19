@@ -2,10 +2,9 @@
 title: "Scottish Scouts (1922)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBRBRBBBBBBBRBRBBBBBB](/stripes/bbbbbrbrbbbbbbbrbrbbbbbb/) · **Stripes:** [DT N DT N DT O DT O DT N DT N DT N DT O DT O DT N DT N DT N](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">DT N DT N DT O DT O DT N DT N DT N DT O DT O DT N DT N DT N</span></span>
+In pattern [BBBBBBRBRBBBBBBBRBRBBBBB](/stripes/bbbbbbrbrbbbbbbbrbrbbbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3745
 

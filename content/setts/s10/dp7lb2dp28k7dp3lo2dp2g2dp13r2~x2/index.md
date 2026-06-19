@@ -2,10 +2,9 @@
 title: "Pride of the Highlands (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBYBKBWB](/stripes/rbgbybkbwb/) · **Stripes:** [R DP G DP LO DP K DP LB DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP G DP LO DP K DP LB DP</span></span>
+In pattern [BWBKBYBGBR](/stripes/bwbkbybgbr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7558/
 

@@ -2,10 +2,9 @@
 title: "Tilburg (District)"
 date: 2023-03-18
 ---
-**Bands:** [RBBYB](/stripes/rbbyb/) · **Stripes:** [R T DB LY DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R T DB LY DB</span></span>
+In pattern [BYBBR](/stripes/bybbr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7464/
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5509](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5509)
 - Scottish Tartans Authority (ITI): 7464
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Brazell (Personal)](/setts/s5/db7ly1db7t11r2~x6/)
-
 
 ## Thread count
 DB/18 LG18 DB18 B46 R/6

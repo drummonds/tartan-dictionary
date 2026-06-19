@@ -2,10 +2,9 @@
 title: "Poulter Sandwich"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBBWBBBBB](/stripes/bbbbbbbwbbbbb/) · **Stripes:** [DP B DP B DP B DT LB DT B DP B DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP B DP B DP B DT LB DT B DP B DP</span></span>
+In pattern [BBBBBBBWBBBBB](/stripes/bbbbbbbwbbbbb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11243/
 

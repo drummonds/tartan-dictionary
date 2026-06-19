@@ -2,10 +2,9 @@
 title: "Dinwiddie"
 date: 2023-03-18
 ---
-**Bands:** [KRKGGKGKGG](/stripes/krkggkgkgg/) · **Stripes:** [K R K Y G K Y K Y Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K R K Y G K Y K Y Y</span></span>
+In pattern [GGKGKGGKRK](/stripes/ggkgkggkrk/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

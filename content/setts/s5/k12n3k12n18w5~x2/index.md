@@ -2,19 +2,11 @@
 title: "Grampian Television (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBW](/stripes/kbkbw/) · **Stripes:** [K N K N W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K N K N W</span></span>
+In pattern [KBKBW](/stripes/kbkbw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1058/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Press & Journal](/setts/s5/k9n3k28n25w2~x2/)
-
 
 ## Thread count
 K/24 B6 K24 B36 W/10

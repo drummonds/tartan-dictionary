@@ -2,10 +2,9 @@
 title: "Orr, Gerald William (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/) · **Stripes:** [N LO N K N K N K N R N W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N LO N K N K N K N R N W</span></span>
+In pattern [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10534/
 

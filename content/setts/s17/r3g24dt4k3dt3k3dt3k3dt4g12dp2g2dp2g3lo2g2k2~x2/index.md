@@ -2,10 +2,9 @@
 title: "Kennedy (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KGYGBGBGBKBKBKBGR](/stripes/kgygbgbgbkbkbkbgr/) · **Stripes:** [K G LO G DP G DP G DT K DT K DT K DT G R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G LO G DP G DP G DT K DT K DT K DT G R</span></span>
+In pattern [KGYGBGBGBKBKBKBGR](/stripes/kgygbgbgbkbkbkbgr/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1123/
 

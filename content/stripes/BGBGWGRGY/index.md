@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbgwgrgy/
 ---
-BGBGWGRGY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBGWGRGY
+
+{{< pat "BGBGWGRGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO Y R Y LB Y DB Y DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">LO Y R Y LB Y DB Y DB</span></span>
 
 | Tartans |
 |---------------|
 | [Scottish Borders Tourist Board (Corp](/setts/s9/db3y4db24y6lb3y4r3y8lo3~x2/)|
 |![Scottish Borders Tourist Board (Corp example sett](/setts/s9/db3y4db24y6lb3y4r3y8lo3~x2/sett.png)|
-

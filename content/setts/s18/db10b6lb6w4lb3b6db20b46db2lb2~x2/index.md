@@ -2,10 +2,9 @@
 title: "Saltire"
 date: 2023-03-18
 ---
-**Bands:** [BBWWWBBBBWBBBBWWWB](/stripes/bbwwwbbbbwbbbbwwwb/) · **Stripes:** [DB B LB W LB B DB B DB LB DB B DB B LB W LB B](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB B LB W LB B DB B DB LB DB B DB B LB W LB B</span></span>
+In pattern [BBWWWBBBBWBBBBWWWB](/stripes/bbwwwbbbbwbbbbwwwb/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3646
 

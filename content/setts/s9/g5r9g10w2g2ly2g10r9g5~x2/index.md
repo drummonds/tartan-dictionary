@@ -2,10 +2,9 @@
 title: "Wilson's, No 169"
 date: 2023-03-18
 ---
-**Bands:** [GRGYGWGRG](/stripes/grgygwgrg/) · **Stripes:** [G R G LY G W G R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G LY G W G R G</span></span>
+In pattern [GRGWGYGRG](/stripes/grgwgygrg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unnamed 7](/setts/s9/g2r3g4w1g1ly1g4r3g2~x2/)
-
 
 ## Thread count
 G/10 R18 G20 Y4 G4 LN4 G20 R18 G/10

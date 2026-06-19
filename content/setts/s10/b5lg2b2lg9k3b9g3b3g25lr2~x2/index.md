@@ -2,10 +2,9 @@
 title: "Un-named (D C Dalgliesh) #2"
 date: 2023-03-18
 ---
-**Bands:** [YGBGBKYBYB](/stripes/ygbgbkybyb/) · **Stripes:** [LR G B G B K LG B LG B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LR G B G B K LG B LG B</span></span>
+In pattern [BYBYKBGBGY](/stripes/bybykbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4408
 

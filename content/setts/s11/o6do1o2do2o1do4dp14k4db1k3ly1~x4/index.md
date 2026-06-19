@@ -2,10 +2,9 @@
 title: "Wcwm 1873-4"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBBKBKY](/stripes/rbrbrbbkbky/) · **Stripes:** [O DO O DO O DO DP K DB K LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O DO O DO O DO DP K DB K LY</span></span>
+In pattern [RBRBRBBKBKY](/stripes/rbrbrbbkbky/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4545
 

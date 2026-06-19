@@ -2,10 +2,9 @@
 title: "MacDougall #9"
 date: 2023-03-18
 ---
-**Bands:** [RRRRGRRRRRBBRRRR](/stripes/rrrrgrrrrrbbrrrr/) · **Stripes:** [R R R R DG R R R R R DP T R R R R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R DG R R R R R DP T R R R R</span></span>
+In pattern [RRRRBBRRRRRGRRRR](/stripes/rrrrbbrrrrrgrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2402
 

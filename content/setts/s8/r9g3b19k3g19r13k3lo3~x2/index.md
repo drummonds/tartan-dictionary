@@ -2,10 +2,9 @@
 title: "Orkney (District?)"
 date: 2023-03-18
 ---
-**Bands:** [RGBKGRKY](/stripes/rgbkgrky/) · **Stripes:** [R G B K G R K LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R G B K G R K LO</span></span>
+In pattern [RGBKGRKY](/stripes/rgbkgrky/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2681/
 

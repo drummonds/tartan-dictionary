@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/grgrkwkry/
 ---
-GRGRKWKRY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-GRGRKWKRY
+
+{{< pat "GRGRKWKRY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY R K W K R G R G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R K W K R G R G</span></span>
 
 | Tartans |
 |---------------|
 | [Akins Red Dress](/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/)|
 |![Akins Red Dress example sett](/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/sett.png)|
-

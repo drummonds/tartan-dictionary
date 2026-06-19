@@ -2,10 +2,9 @@
 title: "Michie, Andrew (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWGGB](/stripes/kwggb/) · **Stripes:** [K LB G G DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K LB G G DP</span></span>
+In pattern [BGGWK](/stripes/bggwk/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10379/
 

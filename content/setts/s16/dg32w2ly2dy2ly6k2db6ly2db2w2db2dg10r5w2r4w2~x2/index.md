@@ -2,10 +2,9 @@
 title: "Zinnen of Scene (Luxembourg) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GWYGYKBYBWBGRWRW](/stripes/gwygykbybwbgrwrw/) · **Stripes:** [DG W LY DY LY K DB LY DB W DB DG R W R W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG W LY DY LY K DB LY DB W DB DG R W R W</span></span>
+In pattern [GWYGYKBYBWBGRWRW](/stripes/gwygykbybwbgrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5968
 

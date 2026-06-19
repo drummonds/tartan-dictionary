@@ -2,10 +2,9 @@
 title: "Haliburton, Highlands of..."
 date: 2023-03-18
 ---
-**Bands:** [YRBGYBWGBBRGBGB](/stripes/yrbgybwgbbrgbgb/) · **Stripes:** [LY R DR G LY T W G T DR R G T G T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY R DR G LY T W G T DR R G T G T</span></span>
+In pattern [BGBGRBBGWBYGBRY](/stripes/bgbgrbbgwbygbry/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

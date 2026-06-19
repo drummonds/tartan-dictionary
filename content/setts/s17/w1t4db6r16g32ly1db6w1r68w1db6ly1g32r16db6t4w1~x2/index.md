@@ -2,10 +2,9 @@
 title: "Drummond"
 date: 2023-03-18
 ---
-**Bands:** [WBBRGYBWRWBYGRBBW](/stripes/wbbrgybwrwbygrbbw/) · **Stripes:** [W T DB R G LY DB W R W DB LY G R DB T W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W T DB R G LY DB W R W DB LY G R DB T W</span></span>
+In pattern [WBBRGYBWRWBYGRBBW](/stripes/wbbrgybwrwbygrbbw/).
 
-
-This was sourced from logan-1831.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link /posts/logans-scottish-gael/
 

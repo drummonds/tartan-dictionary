@@ -2,10 +2,9 @@
 title: "Strathyre Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [WGRGWGGBGBW](/stripes/wgrgwggbgbw/) · **Stripes:** [W G R G W G DY P G P W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G R G W G DY P G P W</span></span>
+In pattern [WBGBGGWGRGW](/stripes/wbgbggwgrgw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3227/
 

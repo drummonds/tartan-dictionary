@@ -2,10 +2,9 @@
 title: "Fitzsimmons Red (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GYKGKRKYGG](/stripes/gykgkrkygg/) · **Stripes:** [Y LO K DY K R K LO Y DY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">Y LO K DY K R K LO Y DY</span></span>
+In pattern [GGYKRKGKYG](/stripes/ggykrkgkyg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6808/
 

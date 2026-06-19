@@ -2,10 +2,9 @@
 title: "Gillies"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGBKB](/stripes/ykgrgbkb/) · **Stripes:** [LY K G R G DB K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G R G DB K DB</span></span>
+In pattern [BKBGRGKY](/stripes/bkbgrgky/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

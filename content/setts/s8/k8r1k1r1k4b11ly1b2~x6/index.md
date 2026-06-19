@@ -2,10 +2,9 @@
 title: "Rutherford"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKBYB](/stripes/krkrkbyb/) · **Stripes:** [K R K R K B LY B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K R K R K B LY B</span></span>
+In pattern [BYBKRKRK](/stripes/bybkrkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3621
 

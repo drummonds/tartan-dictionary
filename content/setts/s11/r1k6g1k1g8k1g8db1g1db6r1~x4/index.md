@@ -2,20 +2,11 @@
 title: "Davidson - 1842 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKGBGBR](/stripes/rkgkgkgbgbr/) · **Stripes:** [R K G K G K G DB G DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G K G K G DB G DB R</span></span>
+In pattern [RBGBGKGKGKR](/stripes/rbgbgkgkgkr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1332/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Davidson](/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/)
-- [Davidson](/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/)
-
 
 ## Thread count
 R/4 K24 G4 K4 G32 K4 G32 DB4 G4 DB24 R/4

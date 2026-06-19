@@ -2,10 +2,9 @@
 title: "Plowman (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRGYRGRBRGRGW](/stripes/rbrgrbrgyrgrbrgrgw/) · **Stripes:** [R DP R DG R DP R DG LY R DG R DP R DG R DG W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DP R DG R DP R DG LY R DG R DP R DG R DG W</span></span>
+In pattern [RBRGRBRGYRGRBRGRGW](/stripes/rbrgrbrgyrgrbrgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3347
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3347](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3347)
 - Scottish Tartans Authority (ITI): 6523
 - Scottish Tartans World Register: 3066
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unnamed C18th - S.Uist](/setts/s18/r3dp34r4dg6r4dp4r40dg2ly2r2dg4r4dp36r4dg4r48dg6w1~x2/)
-
 
 ## Thread count
 R/4 DP34 R4 G6 R4 DP4 R40 G2 Y2 R2 G4 R4 DP36 R4 G4 R48 G6 LN/2

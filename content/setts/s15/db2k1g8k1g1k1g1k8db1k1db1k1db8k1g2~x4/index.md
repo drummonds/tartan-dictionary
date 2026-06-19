@@ -2,10 +2,9 @@
 title: "5th Royal Scots of Canada (Military)"
 date: 2023-03-18
 ---
-**Bands:** [GKBKBKBKGKGKGKB](/stripes/gkbkbkbkgkgkgkb/) · **Stripes:** [G K DB K DB K DB K G K G K G K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K DB K DB K G K G K G K DB</span></span>
+In pattern [BKGKGKGKBKBKBKG](/stripes/bkgkgkgkbkbkbkg/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5892/
 
@@ -21,13 +20,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 - 1871 — 5th Royal Scots of Canada (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5892/))
 - 1871 — Lorne (Royal?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6/))
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lorne](/setts/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/)
-
 
 ## Thread count
 DB/8 K4 G32 K4 G4 K4 G4 K32 DB4 K4 DB4 K4 DB32 K4 G/8

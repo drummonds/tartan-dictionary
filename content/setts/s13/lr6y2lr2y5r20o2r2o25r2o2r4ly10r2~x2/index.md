@@ -2,10 +2,9 @@
 title: "Strathtay (District?)"
 date: 2023-03-18
 ---
-**Bands:** [RYRRRRRRRGYGY](/stripes/ryrrrrrrrgygy/) · **Stripes:** [R LY R O R O R O R Y LR Y LR](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R LY R O R O R O R Y LR Y LR</span></span>
+In pattern [RYRRRRRRRGYGY](/stripes/ryrrrrrrrgygy/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10115/
 

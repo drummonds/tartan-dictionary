@@ -2,10 +2,9 @@
 title: "Leslie"
 date: 2023-03-18
 ---
-**Bands:** [KRBRKYKR](/stripes/krbrkykr/) · **Stripes:** [K R DB R K LY K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R DB R K LY K R</span></span>
+In pattern [KRBRKYKR](/stripes/krbrkykr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -936,13 +935,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Leslie Red (VS) (Clan)](/setts/s8/r2k3ly1k3r2db8r16k1~x4/)
-
 
 ## Thread count
 R/8 K12 Y2 K12 R8 B32 R64 K/2

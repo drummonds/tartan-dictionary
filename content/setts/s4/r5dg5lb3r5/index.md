@@ -2,10 +2,9 @@
 title: "Menzies"
 date: 2023-03-18
 ---
-**Bands:** [RGWR](/stripes/rgwr/) · **Stripes:** [R DG LB R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG LB R</span></span>
+In pattern [RGWR](/stripes/rgwr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

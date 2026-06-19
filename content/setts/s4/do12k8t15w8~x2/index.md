@@ -2,10 +2,9 @@
 title: "Equity Vision Ltd"
 date: 2023-03-18
 ---
-**Bands:** [BKBW](/stripes/bkbw/) · **Stripes:** [DO K T W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DO K T W</span></span>
+In pattern [BKBW](/stripes/bkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11397
 

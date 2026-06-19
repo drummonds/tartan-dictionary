@@ -2,10 +2,9 @@
 title: "TACC (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKB](/stripes/bkbkbkb/) · **Stripes:** [N K N K N K T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">N K N K N K T</span></span>
+In pattern [BKBKBKB](/stripes/bkbkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10578/
 

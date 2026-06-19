@@ -2,10 +2,9 @@
 title: "Goldstraw (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKRKGKYKYKRWG](/stripes/kykykrkgkykykrwg/) · **Stripes:** [K LY K LO K R K G K LY K LO K R W G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY K LO K R K G K LY K LO K R W G</span></span>
+In pattern [GWRKYKYKGKRKYKYK](/stripes/gwrkykykgkrkykyk/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5722/
 

@@ -2,10 +2,9 @@
 title: "Arran"
 date: 2023-03-18
 ---
-**Bands:** [GKGKRKRKRKRWRKRKRKRKBGBGB](/stripes/gkgkrkrkrkrwrkrkrkrkbgbgb/) · **Stripes:** [Y K Y K R K R K R K R W R K R K R K R K P G P G P](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">Y K Y K R K R K R K R W R K R K R K R K P G P G P</span></span>
+In pattern [BGBGBKRKRKRKRWRKRKRKRKGKG](/stripes/bgbgbkrkrkrkrwrkrkrkrkgkg/).
 
-
-This was sourced from weddslist.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Leask"
 date: 2023-03-18
 ---
-**Bands:** [YGRGYGYGRKRWRG](/stripes/ygrgygygrkrwrg/) · **Stripes:** [LY G R G LY G LY G R K R W R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G R G LY G LY G R K R W R G</span></span>
+In pattern [GRWRKRGYGYGRGY](/stripes/grwrkrgygygrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2076
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2076](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2076)
 - Scottish Tartans Authority (ITI): 905
 - Scottish Tartans World Register: 905
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Leask](/setts/s14/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2~x2/)
-
 
 ## Thread count
 Y/8 G6 R4 G24 Y4 G6 Y4 G24 R48 K2 R4 LN2 R4 G/8

@@ -2,10 +2,9 @@
 title: "National Trust for Scotland"
 date: 2023-03-18
 ---
-**Bands:** [KBGBGBKGBBBGGBKBG](/stripes/kbgbgbkgbbbggbkbg/) · **Stripes:** [K DB DG DB DG DB K Y DB DP DB Y DG DB K DB DG](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">K DB DG DB DG DB K Y DB DP DB Y DG DB K DB DG</span></span>
+In pattern [GBKBGGBBBGKBGBGBK](/stripes/gbkbggbbbgkbgbgbk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3102
 

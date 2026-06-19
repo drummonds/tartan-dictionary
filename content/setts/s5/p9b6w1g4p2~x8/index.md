@@ -2,10 +2,9 @@
 title: "Cathro (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BGWBB](/stripes/bgwbb/) · **Stripes:** [P G W B P](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P G W B P</span></span>
+In pattern [BBWGB](/stripes/bbwgb/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7354/
 

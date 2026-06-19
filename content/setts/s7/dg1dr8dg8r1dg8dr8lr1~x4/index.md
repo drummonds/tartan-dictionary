@@ -2,10 +2,9 @@
 title: "MacKinnon Hunting"
 date: 2023-03-18
 ---
-**Bands:** [YBGRGBG](/stripes/ybgrgbg/) · **Stripes:** [LR DR DG R DG DR DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="seq">LR DR DG R DG DR DG</span></span>
+In pattern [GBGRGBY](/stripes/gbgrgby/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKinnon Hunting](/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/)
-
 
 ## Thread count
 DG/4 DRa32 DG32 DR4 DG32 DRa32 N/4

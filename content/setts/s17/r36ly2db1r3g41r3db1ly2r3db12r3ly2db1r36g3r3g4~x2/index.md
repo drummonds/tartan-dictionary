@@ -2,21 +2,11 @@
 title: "Munro (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RYBRGRBYRBRYBRGRG](/stripes/rybrgrbyrbrybrgrg/) · **Stripes:** [R LY DB R G R DB LY R DB R LY DB R G R G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY DB R G R DB LY R DB R LY DB R G R G</span></span>
+In pattern [GRGRBYRBRYBRGRBYR](/stripes/grgrbyrbrybrgrbyr/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/974/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Munro](/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2~x4/)
-- [Munro](/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2~x2/)
-- [Munro (Logan)](/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/)
-
 
 ## Thread count
 Ra/72 Y4 DB2 Ra6 G82 Ra6 DB2 Y4 Ra6 DB24 Ra6 Y4 DB2 Ra72 G6 R6 G/8

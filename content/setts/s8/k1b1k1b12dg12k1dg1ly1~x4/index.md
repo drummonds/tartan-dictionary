@@ -2,10 +2,9 @@
 title: "Banff Centennial"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGKGY](/stripes/kbkbgkgy/) · **Stripes:** [K B K B DG K DG LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K B K B DG K DG LY</span></span>
+In pattern [KBKBGKGY](/stripes/kbkbgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5081
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5081](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5081)
 - Scottish Tartans Authority (ITI): 3648
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Banff Centennial (Commemorative)](/setts/s8/k1b1k1b7dg8k1dg1ly1~x4/)
-
 
 ## Thread count
 K/4 Ba4 K4 Ba48 G48 K4 G4 Y/4

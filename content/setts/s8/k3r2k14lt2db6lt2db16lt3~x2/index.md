@@ -2,10 +2,9 @@
 title: "Immanuel Presbyterian Church (Milwaukee)"
 date: 2023-03-18
 ---
-**Bands:** [KRKWBWBW](/stripes/krkwbwbw/) · **Stripes:** [K R K LT DB LT DB LT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">K R K LT DB LT DB LT</span></span>
+In pattern [KRKWBWBW](/stripes/krkwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10297
 

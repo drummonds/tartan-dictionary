@@ -2,10 +2,9 @@
 title: "Campbell Argyll"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKWKGKBKBKBKBKBKGBYBGKBKB](/stripes/bkbkgkwkgkbkbkbkbkbkgbybgkbkb/) · **Stripes:** [DB K DB K DG K LB K DG K DB K DB K DB K DB K DB K DG DB LY DB DG K DB K DB](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG K LB K DG K DB K DB K DB K DB K DB K DG DB LY DB DG K DB K DB</span></span>
+In pattern [BKBKGBYBGKBKBKBKBKBKGKWKGKBKB](/stripes/bkbkgbybgkbkbkbkbkbkgkwkgkbkb/).
 
-
-This was sourced from weddslist.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,10 +2,9 @@
 title: "Unidentified Plaid #9"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGGGRGGGGGWGYGBWGBWBGW](/stripes/bgbgbgbgggrgggggwgygbwgbwbgw/) · **Stripes:** [DB DG DB DY DB DY DB DY DG DY R DY DG DY DG DY W DY LY DY DB W DY DB W DB DY W](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DG DB DY DB DY DB DY DG DY R DY DG DY DG DY W DY LY DY DB W DY DB W DB DY W</span></span>
+In pattern [BGBGBGBGGGRGGGGGWGYGBWGBWBGW](/stripes/bgbgbgbgggrgggggwgygbwgbwbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4356
 

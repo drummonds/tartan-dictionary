@@ -2,10 +2,9 @@
 title: "Kirk in the Hills Corporate Tartan Tartan Number: 2318. Earliest known date: 1997 Kirk in the Hills, Bloomfield Hills, Michigan celebrating its 50th anniversary in Nov. 1997. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKYKBBRKRRRKRBBKYKBB](/stripes/bkykbbrkrrrkrbbkykbb/) · **Stripes:** [DB K LY K DB T R K R R R K R T DB K LY K DB T](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB K LY K DB T R K R R R K R T DB K LY K DB T</span></span>
+In pattern [BBKYKBBRKRRRKRBBKYKB](/stripes/bbkykbbrkrrrkrbbkykb/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2318
 

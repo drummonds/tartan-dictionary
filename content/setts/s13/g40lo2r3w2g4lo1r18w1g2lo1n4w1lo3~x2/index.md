@@ -2,10 +2,9 @@
 title: "Morgan Jocelyn Osmélian Peregrine (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YWBYGWRYGWRYG](/stripes/ywbygwrygwryg/) · **Stripes:** [LO W N LO G W R LO G W R LO G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO W N LO G W R LO G W R LO G</span></span>
+In pattern [GYRWGYRWGYBWY](/stripes/gyrwgyrwgybwy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10809
 

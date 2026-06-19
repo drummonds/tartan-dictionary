@@ -2,10 +2,9 @@
 title: "Isle of Skye (Dalgety)"
 date: 2023-03-18
 ---
-**Bands:** [YWGWYGGWGGWGWGGGWGWGGWGGYWGW](/stripes/ywgwyggwggwgwgggwgwggwggywgw/) · **Stripes:** [LO LB DY LB LO DY G LB G DY LB DY LB G DY G LB DY LB DY G LB G DY LO LB DY LB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO LB DY LB LO DY G LB G DY LB DY LB G DY G LB DY LB DY G LB G DY LO LB DY LB</span></span>
+In pattern [WGWYGGWGGWGWGGGWGWGGWGGYWGWY](/stripes/wgwyggwggwgwgggwgwggwggywgwy/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1869
 

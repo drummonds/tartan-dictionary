@@ -2,10 +2,9 @@
 title: "All as One (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KGRBK](/stripes/kgrbk/) · **Stripes:** [K G R T K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K G R T K</span></span>
+In pattern [KBRGK](/stripes/kbrgk/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6617/
 

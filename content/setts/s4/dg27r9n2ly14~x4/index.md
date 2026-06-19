@@ -2,10 +2,9 @@
 title: "Englehart, City of"
 date: 2023-03-18
 ---
-**Bands:** [YBRG](/stripes/ybrg/) · **Stripes:** [LY N R DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY N R DG</span></span>
+In pattern [GRBY](/stripes/grby/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1112
 

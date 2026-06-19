@@ -2,10 +2,9 @@
 title: "Mack of Stoneywood Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRB](/stripes/rbrbrbrb/) · **Stripes:** [R DB R DB R DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10795
 
@@ -21,13 +20,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10795](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10795)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unidentified Plaid #12](/setts/s8/db3r64db3r3db62r3db3r3/)
-
 
 ## Thread count
 DB/160 R2 DB4 R2 DB12 R20 DB2 R/14

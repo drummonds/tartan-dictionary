@@ -2,10 +2,9 @@
 title: "Renfrew #2"
 date: 2023-03-18
 ---
-**Bands:** [WGBGGBWBYBW](/stripes/wgbggbwbybw/) · **Stripes:** [LB DY DB DY Y DB LB DB LO DB LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DY DB DY Y DB LB DB LO DB LB</span></span>
+In pattern [WBYBWBGGBGW](/stripes/wbybwbggbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3499
 

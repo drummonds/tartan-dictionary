@@ -2,10 +2,9 @@
 title: "World Fed. of Bldg Contractors (Corp"
 date: 2023-03-18
 ---
-**Bands:** [RBBBW](/stripes/rbbbw/) · **Stripes:** [R DB N B LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB N B LB</span></span>
+In pattern [RBBBW](/stripes/rbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2699/
 

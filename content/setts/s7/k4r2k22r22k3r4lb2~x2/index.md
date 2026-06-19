@@ -2,10 +2,9 @@
 title: "Menzies of Culdares"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRW](/stripes/krkrkrw/) · **Stripes:** [K R K R K R LB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K R K R K R LB</span></span>
+In pattern [KRKRKRW](/stripes/krkrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5223
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5223](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5223)
 - Scottish Tartans Authority (ITI): 3467
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cunningham D](/setts/s7/k3r1k30r28k1r1lb3~x2/)
-
 
 ## Thread count
 K/8 DR4 K44 DR44 K6 DR8 LP/4

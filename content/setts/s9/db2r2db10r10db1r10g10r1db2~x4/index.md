@@ -2,10 +2,9 @@
 title: "Fraser (Wilson 1820)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRBRB](/stripes/brgrbrbrb/) · **Stripes:** [DB R G R DB R DB R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R G R DB R DB R DB</span></span>
+In pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1249
 

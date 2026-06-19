@@ -2,10 +2,9 @@
 title: "McShane (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWYGKGWG](/stripes/rwygkgwg/) · **Stripes:** [R LB LY DY K G LB G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LB LY DY K G LB G</span></span>
+In pattern [GWGKGYWR](/stripes/gwgkgywr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904
 

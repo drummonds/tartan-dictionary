@@ -2,10 +2,9 @@
 title: "Made in Scotland"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBKBYBKBKBKBKBKW](/stripes/bkbkbkbkbkbybkbkbkbkbkw/) · **Stripes:** [P K T K T K T K T K T LO T K T K T K T K T K W](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">P K T K T K T K T K T LO T K T K T K T K T K W</span></span>
+In pattern [BKBKBKBKBKBYBKBKBKBKBKW](/stripes/bkbkbkbkbkbybkbkbkbkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2779
 

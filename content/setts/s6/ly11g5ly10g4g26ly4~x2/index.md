@@ -2,10 +2,9 @@
 title: "North Dakota State University Bison"
 date: 2023-03-18
 ---
-**Bands:** [YGYGGY](/stripes/ygyggy/) · **Stripes:** [LY G LY G G LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY G LY G G LY</span></span>
+In pattern [YGGYGY](/stripes/yggygy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10517
 

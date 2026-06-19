@@ -2,10 +2,9 @@
 title: "Australian Donkey"
 date: 2023-03-18
 ---
-**Bands:** [KGRYWRRRR](/stripes/kgrywrrrr/) · **Stripes:** [K Y M LR W O R O O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K Y M LR W O R O O</span></span>
+In pattern [KGRYWRRRR](/stripes/kgrywrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5923
 

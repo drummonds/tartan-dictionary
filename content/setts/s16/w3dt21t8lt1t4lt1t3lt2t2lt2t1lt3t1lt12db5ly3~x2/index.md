@@ -2,10 +2,9 @@
 title: "Ryder Cup, The"
 date: 2023-03-18
 ---
-**Bands:** [YBWBWBWBWBWBWBBW](/stripes/ybwbwbwbwbwbwbbw/) · **Stripes:** [LY DB LT T LT T LT T LT T LT T LT T DT W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LT T LT T LT T LT T LT T LT T DT W</span></span>
+In pattern [WBBWBWBWBWBWBWBY](/stripes/wbbwbwbwbwbwbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10855
 

@@ -2,10 +2,9 @@
 title: "Loseby, Luke (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRGBRKYKRBGBGBG](/stripes/krgbrkykrbgbgbg/) · **Stripes:** [K R DG DB O K LO K O DB DG DB DG DB DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">K R DG DB O K LO K O DB DG DB DG DB DG</span></span>
+In pattern [GBGBGBRKYKRBGRK](/stripes/gbgbgbrkykrbgrk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11192/
 

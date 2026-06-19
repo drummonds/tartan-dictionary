@@ -2,10 +2,9 @@
 title: "Caledonian Labrador Retrievers"
 date: 2023-03-18
 ---
-**Bands:** [RYBYRKGY](/stripes/rybyrkgy/) · **Stripes:** [M LG DO LG M K G LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">M LG DO LG M K G LO</span></span>
+In pattern [RYBYRKGY](/stripes/rybyrkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11077
 

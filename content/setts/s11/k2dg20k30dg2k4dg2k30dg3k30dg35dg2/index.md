@@ -2,10 +2,9 @@
 title: "Phillips (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKGKGG](/stripes/kgkgkgkgkgg/) · **Stripes:** [K DG K DG K DG K DG K DG DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K DG K DG K DG DG</span></span>
+In pattern [GGKGKGKGKGK](/stripes/ggkgkgkgkgk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5751/
 

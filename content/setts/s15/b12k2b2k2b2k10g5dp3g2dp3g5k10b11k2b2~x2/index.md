@@ -2,10 +2,9 @@
 title: "Blanton (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGBGBGKBKBKB](/stripes/bkbkgbgbgkbkbkb/) · **Stripes:** [B K B K G DP G DP G K B K B K B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K G DP G DP G K B K B K B</span></span>
+In pattern [BKBKBKGBGBGKBKB](/stripes/bkbkbkgbgbgkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4007/
 

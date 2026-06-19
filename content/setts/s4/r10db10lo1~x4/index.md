@@ -2,10 +2,9 @@
 title: "Mother's Pride"
 date: 2023-03-18
 ---
-**Bands:** [RBYB](/stripes/rbyb/) · **Stripes:** [R DB LO DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LO DB</span></span>
+In pattern [BYBR](/stripes/bybr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3025](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025)
 - Scottish Tartans Authority (ITI): 2312
 - Scottish Tartans World Register: 2312
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sanix Large Muted](/setts/s4/db3lo30db40r3~x2/)
-
 
 ## Thread count
 DR/40 DB40 DY4 DB/40

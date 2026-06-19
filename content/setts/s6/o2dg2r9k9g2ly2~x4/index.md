@@ -2,10 +2,9 @@
 title: "Wolves Wod Kindred"
 date: 2023-03-18
 ---
-**Bands:** [RGRKGY](/stripes/rgrkgy/) · **Stripes:** [O DG R K G LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O DG R K G LY</span></span>
+In pattern [RGRKGY](/stripes/rgrkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11592
 

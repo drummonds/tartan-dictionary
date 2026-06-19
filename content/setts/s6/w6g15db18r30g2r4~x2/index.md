@@ -2,10 +2,9 @@
 title: "Ruthven (V.S.)"
 date: 2023-03-18
 ---
-**Bands:** [RGRBGW](/stripes/rgrbgw/) · **Stripes:** [R G R DB G W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R DB G W</span></span>
+In pattern [RGRBGW](/stripes/rgrbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3622
 
@@ -23,14 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3622](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3622)
 - Scottish Tartans Authority (ITI): 1521
 - Scottish Tartans World Register: 1521
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Nibley](/setts/s6/w3g15db18r15g1r2~x2/)
-- [Ruthven](/setts/s6/w3g15db18r30g1r2~x2/)
-
 
 ## Thread count
 LN/12 G30 DB36 R60 G4 R/8

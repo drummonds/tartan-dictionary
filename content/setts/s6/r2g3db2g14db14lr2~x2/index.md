@@ -2,10 +2,9 @@
 title: "Irving of Bonshaw Tower (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBY](/stripes/rgbgby/) · **Stripes:** [R G DB G DB LR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R G DB G DB LR</span></span>
+In pattern [RGBGBY](/stripes/rgbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1860
 

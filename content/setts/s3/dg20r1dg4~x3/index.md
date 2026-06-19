@@ -2,10 +2,9 @@
 title: "Castle Fraser Check"
 date: 2023-03-18
 ---
-**Bands:** [GRG](/stripes/grg/) · **Stripes:** [DG R DG](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG</span></span>
+In pattern [GRG](/stripes/grg/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=592
 

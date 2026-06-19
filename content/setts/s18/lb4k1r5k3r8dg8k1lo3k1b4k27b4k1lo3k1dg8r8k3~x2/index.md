@@ -2,10 +2,9 @@
 title: "Moon (Georgia, USA)"
 date: 2023-03-18
 ---
-**Bands:** [KRGKYKBKBKYKGRKRKW](/stripes/krgkykbkbkykgrkrkw/) · **Stripes:** [K R DG K LO K B K B K LO K DG R K R K LB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K R DG K LO K B K B K LO K DG R K R K LB</span></span>
+In pattern [KRGKYKBKBKYKGRKRKW](/stripes/krgkykbkbkykgrkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3002
 

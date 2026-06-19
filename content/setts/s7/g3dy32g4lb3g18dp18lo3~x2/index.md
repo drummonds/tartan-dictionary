@@ -2,10 +2,9 @@
 title: "Wcwm 9275-1410"
 date: 2023-03-18
 ---
-**Bands:** [YBGWGGG](/stripes/ybgwggg/) · **Stripes:** [LO DP G LB G DY G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO DP G LB G DY G</span></span>
+In pattern [GGGWGBY](/stripes/gggwgby/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4563
 

@@ -2,10 +2,9 @@
 title: "Longniddry, dress"
 date: 2023-03-18
 ---
-**Bands:** [BBWBBBWB](/stripes/bbwbbbwb/) · **Stripes:** [P DB W DB P B W P](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P DB W DB P B W P</span></span>
+In pattern [BBWBBBWB](/stripes/bbwbbbwb/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

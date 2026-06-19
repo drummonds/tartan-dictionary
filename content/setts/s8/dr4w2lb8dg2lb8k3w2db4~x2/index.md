@@ -2,10 +2,9 @@
 title: "Desang"
 date: 2023-03-18
 ---
-**Bands:** [BWKWGWWB](/stripes/bwkwgwwb/) · **Stripes:** [DB W K LB DG LB W DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="seq">DB W K LB DG LB W DR</span></span>
+In pattern [BWKWGWWB](/stripes/bwkwgwwb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=917
 

@@ -2,10 +2,9 @@
 title: "Stewart of Appin Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGGBBRB](/stripes/grgrggbbrb/) · **Stripes:** [G R G R G DY T DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G DY T DB R DB</span></span>
+In pattern [BRBBGGRGRG](/stripes/brbbggrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/430/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/430/
 This cloth is also recorded under:
 
 - Stewart of Appin Hunting
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart of Appin Hunting Clan Tartan Tartan Number: 430. Earliest known date: 1930-50 There is extensive correspondence about the use of the terms 'ancient' and 'hunting' in relation to this sett in the Stewart files at the Scottish Tartan Society. The use of brown makes this sett proportionately similar to the count recorded by James Scarlett as early nineteenth century. He says that the brown was probably black originally. (No. 417, The Highland Textile, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g11r4g4r7g41dy11t4db41r4db8/)
-
 
 ## Thread count
 G/16 R6 G6 R10 G52 T14 B6 DB56 R6 DB/12

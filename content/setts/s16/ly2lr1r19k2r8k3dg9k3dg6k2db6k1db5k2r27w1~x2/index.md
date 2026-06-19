@@ -2,10 +2,9 @@
 title: "Muzzi, Massimiliano, baron of Strichen Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YYRKRKGKGKBKBKRW](/stripes/yyrkrkgkgkbkbkrw/) · **Stripes:** [LY LR R K R K DG K DG K DB K DB K R W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY LR R K R K DG K DG K DB K DB K R W</span></span>
+In pattern [WRKBKBKGKGKRKRYY](/stripes/wrkbkbkgkgkrkryy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11214
 

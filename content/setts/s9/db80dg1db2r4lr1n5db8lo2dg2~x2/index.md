@@ -2,10 +2,9 @@
 title: "Crichton (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GYBBYRBGB](/stripes/gybbyrbgb/) · **Stripes:** [DG LO DB N LR R DB DG DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG LO DB N LR R DB DG DB</span></span>
+In pattern [BGBRYBBYG](/stripes/bgbrybbyg/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7784/
 

@@ -2,10 +2,9 @@
 title: "Edinburgh Crystal"
 date: 2023-03-18
 ---
-**Bands:** [KWKBR](/stripes/kwkbr/) · **Stripes:** [K W K DB M](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="seq">K W K DB M</span></span>
+In pattern [KWKBR](/stripes/kwkbr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Caledonian Hotel (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGBBBBBB](/stripes/rgbbbbbb/) · **Stripes:** [R DG DB N DB N DB N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">R DG DB N DB N DB N</span></span>
+In pattern [BBBBBBGR](/stripes/bbbbbbgr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2215/
 

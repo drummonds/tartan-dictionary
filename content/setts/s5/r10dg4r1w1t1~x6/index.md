@@ -2,19 +2,11 @@
 title: "Staves (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRWB](/stripes/rgrwb/) · **Stripes:** [R DG R W T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG R W T</span></span>
+In pattern [BWRGR](/stripes/bwrgr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6611/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Staves (Personal)](/setts/s5/r10dg4r1w1t1~x2/)
-
 
 ## Thread count
 R/60 G24 DR6 W6 B/6

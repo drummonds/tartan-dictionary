@@ -2,10 +2,9 @@
 title: "Stevenson"
 date: 2023-03-18
 ---
-**Bands:** [KGBRBKYBGRB](/stripes/kgbrbkybgrb/) · **Stripes:** [K G T R T K LY DB G R DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K G T R T K LY DB G R DB</span></span>
+In pattern [BRGBYKBRBGK](/stripes/brgbykbrbgk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3926
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3926](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3926)
 - Scottish Tartans World Register: 2869
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stephenson](/setts/s11/k6g20t2r5t2k20ly3db20g26r3db5~x2/)
-
 
 ## Thread count
 K/12 G40 Ba4 R12 Ba4 K40 Y6 B40 G52 R6 B/12

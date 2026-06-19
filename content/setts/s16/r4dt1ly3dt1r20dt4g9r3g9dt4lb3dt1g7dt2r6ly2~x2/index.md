@@ -2,10 +2,9 @@
 title: "Brown-Wells (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBYBRBGRGBWBGBRY](/stripes/rbybrbgrgbwbgbry/) · **Stripes:** [R DT LY DT R DT G R G DT LB DT G DT R LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DT LY DT R DT G R G DT LB DT G DT R LY</span></span>
+In pattern [RBYBRBGRGBWBGBRY](/stripes/rbybrbgrgbwbgbry/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11378
 

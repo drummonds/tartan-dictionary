@@ -2,10 +2,9 @@
 title: "Howells"
 date: 2023-03-18
 ---
-**Bands:** [RYGBYBGBGBRBGRB](/stripes/rygbybgbgbrbgrb/) · **Stripes:** [R LY DG N LY N DG N DG N R N DG R N](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">R LY DG N LY N DG N DG N R N DG R N</span></span>
+In pattern [BRGBRBGBGBYBGYR](/stripes/brgbrbgbgbybgyr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5859
 

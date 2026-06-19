@@ -2,10 +2,9 @@
 title: "Spirit of Alba"
 date: 2023-03-18
 ---
-**Bands:** [GBBGBGBBBGBGBBGB](/stripes/gbbgbgbbbgbgbbgb/) · **Stripes:** [G DP DB G DB G DB T DB G DB G DB DP G DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DP DB G DB G DB T DB G DB G DB DP G DB</span></span>
+In pattern [BGBBGBGBBBGBGBBG](/stripes/bgbbgbgbbbgbgbbg/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862
 

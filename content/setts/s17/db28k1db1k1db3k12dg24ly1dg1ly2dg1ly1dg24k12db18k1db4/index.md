@@ -2,10 +2,9 @@
 title: "Gordon VS"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGYGYGKBKBKB](/stripes/bkbkgygygygkbkbkb/) · **Stripes:** [DB K DB K DG LY DG LY DG LY DG K DB K DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG LY DG LY DG LY DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGYGYGYGKBKB](/stripes/bkbkbkgygygygkbkb/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -40,13 +39,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gordon VS](/setts/s17/db28k1db1k1db3k12dg24ly1dg1ly2dg1ly1dg24k12db18k1db4~x2/)
-
 
 ## Thread count
 DB/28 K1 DB1 K1 DB3 K12 G24 Y1 G1 Y2 G1 Y1 G24 K12 DB18 K1 DB/4

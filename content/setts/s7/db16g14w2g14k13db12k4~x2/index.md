@@ -2,19 +2,11 @@
 title: "MacNeil of Colonsay (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGWGB](/stripes/kbkgwgb/) · **Stripes:** [K DB K G W G DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K G W G DB</span></span>
+In pattern [BGWGKBK](/stripes/bgwgkbk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/196/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNeil of Colonsay](/setts/s7/db4g6w1g6k6db6k2~x4/)
-
 
 ## Thread count
 DB/32 G28 W4 G28 K26 DB24 K/8

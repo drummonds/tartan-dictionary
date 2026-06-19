@@ -2,10 +2,9 @@
 title: "Moncrieffe Lachlan (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RG](/stripes/rg/) · **Stripes:** [R G](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G</span></span>
+In pattern [GR](/stripes/gr/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/963/
 
@@ -15,15 +14,6 @@ This cloth is also recorded under:
 
 - Moncreiffe
 - Moncrieffe Lachlan
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Moncreiffe](/setts/s2/r1g1~x50/)
-- [Moncreiffe (MacLachlan) Clan Tartan Tartan Number: 963. Earliest known date: 1819 Sir Iain Moncreiffe of that Ilk, acquired the MacLachlan old sett for the clan when he became Chief in 1957. Micheil MacDonald writes in his book, 'The Clans of Scotland', "As a result of a long association with Clan Murray, the Moncreiffes traditionally wore the Atholl tartan. But Sir Iain... arranged that Madam MacLachlan of MacLachlan assign to him a 'primitive' pattern of red and green squares which, though no longer favoured by Clan MacLachlan, Sir Iain felt was appropriate to the long history of the Moncreiffes 'before tartan became fashionable in its present form'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/r14g13~x2/)
-- [Wilson's, No 134](/setts/s2/r3g1~x14/)
-
 
 ## Thread count
 R/100 G/100

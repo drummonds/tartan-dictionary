@@ -2,10 +2,9 @@
 title: "Bedford Academy (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYRBBBRBR](/stripes/ryrbbbrbr/) · **Stripes:** [O LY O DB T DB O DB O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O LY O DB T DB O DB O</span></span>
+In pattern [RBRBBBRYR](/stripes/rbrbbbryr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10226/
 

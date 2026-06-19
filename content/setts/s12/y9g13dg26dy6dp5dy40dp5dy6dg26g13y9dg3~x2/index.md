@@ -2,10 +2,9 @@
 title: "de Meuron (Family)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGBGBGGGG](/stripes/gggggbgbgggg/) · **Stripes:** [DG Y G DG DY DP DY DP DY DG G Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DG Y G DG DY DP DY DP DY DG G Y</span></span>
+In pattern [GGGGBGBGGGGG](/stripes/ggggbgbggggg/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10576/
 

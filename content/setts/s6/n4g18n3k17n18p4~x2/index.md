@@ -2,10 +2,9 @@
 title: "Scottish Airports"
 date: 2023-03-18
 ---
-**Bands:** [BGBKBB](/stripes/bgbkbb/) · **Stripes:** [N G N K N P](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">N G N K N P</span></span>
+In pattern [BBKBGB](/stripes/bbkbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3705
 

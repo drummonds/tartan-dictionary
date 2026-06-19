@@ -2,10 +2,9 @@
 title: "Father's Pride, The"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKGKBKBK](/stripes/kykrkgkbkbk/) · **Stripes:** [K LY K R K G K N K N K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">K LY K R K G K N K N K</span></span>
+In pattern [KBKBKGKRKYK](/stripes/kbkbkgkrkyk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10976/
 

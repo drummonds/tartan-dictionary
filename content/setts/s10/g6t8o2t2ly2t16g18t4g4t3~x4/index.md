@@ -2,19 +2,11 @@
 title: "Blue Ridge (District)"
 date: 2023-03-18
 ---
-**Bands:** [GBRBYBGBGB](/stripes/gbrbybgbgb/) · **Stripes:** [G T O T LY T G T G T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G T O T LY T G T G T</span></span>
+In pattern [BGBGBYBRBG](/stripes/bgbgbybrbg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3708/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Blue Ridge](/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x2/)
-
 
 ## Thread count
 G/24 B32 O8 B8 Y8 B64 G72 B16 G16 B/12

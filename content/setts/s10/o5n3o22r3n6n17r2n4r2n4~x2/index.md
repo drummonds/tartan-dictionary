@@ -2,10 +2,9 @@
 title: "Clyde"
 date: 2023-03-18
 ---
-**Bands:** [RBRRBBRBRB](/stripes/rbrrbbrbrb/) · **Stripes:** [O N O R N N R N R N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">O N O R N N R N R N</span></span>
+In pattern [BRBRBBRRBR](/stripes/brbrbbrrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=692
 

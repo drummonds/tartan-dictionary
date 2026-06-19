@@ -2,10 +2,9 @@
 title: "77th Regiment"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKRKGKBKBKB](/stripes/rkbkgkrkgkbkbkb/) · **Stripes:** [R K DB K DG K R K DG K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DG K R K DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGKRKGKBKR](/stripes/bkbkbkgkrkgkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8414/
 

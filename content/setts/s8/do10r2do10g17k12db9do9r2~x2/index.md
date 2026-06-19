@@ -2,10 +2,9 @@
 title: "MacDuff Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RBBKGBRB](/stripes/rbbkgbrb/) · **Stripes:** [R DO DB K G DO R DO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">R DO DB K G DO R DO</span></span>
+In pattern [BRBGKBBR](/stripes/brbgkbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2424
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2424](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2424)
 - Scottish Tartans Authority (ITI): 1654
 - Scottish Tartans World Register: 1654
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wcwm 1310](/setts/s8/do10r3do10g14k12db12do14r4~x2/)
-
 
 ## Thread count
 DR/20 R4 DR20 G34 K24 DB18 DR18 R/4

@@ -2,10 +2,9 @@
 title: "Breifne"
 date: 2023-03-18
 ---
-**Bands:** [YGKWGWGWGWYW](/stripes/ygkwgwgwgwyw/) · **Stripes:** [LR DG K LB DG LB DG LB DG LB LR LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LR DG K LB DG LB DG LB DG LB LR LB</span></span>
+In pattern [WYWGWGWGWKGY](/stripes/wywgwgwgwkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=351
 

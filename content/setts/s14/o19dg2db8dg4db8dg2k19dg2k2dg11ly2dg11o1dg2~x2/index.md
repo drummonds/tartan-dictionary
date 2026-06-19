@@ -2,10 +2,9 @@
 title: "Eildon (1996)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGKGKGYGRG](/stripes/rgbgbgkgkgygrg/) · **Stripes:** [O DG DB DG DB DG K DG K DG LY DG O DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">O DG DB DG DB DG K DG K DG LY DG O DG</span></span>
+In pattern [GRGYGKGKGBGBGR](/stripes/grgygkgkgbgbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1093
 

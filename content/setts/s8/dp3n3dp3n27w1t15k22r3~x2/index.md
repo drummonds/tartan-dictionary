@@ -2,10 +2,9 @@
 title: "Beauly Firth and Glens"
 date: 2023-03-18
 ---
-**Bands:** [RKBWBBBB](/stripes/rkbwbbbb/) · **Stripes:** [R K T W N DP N DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R K T W N DP N DP</span></span>
+In pattern [BBBBWBKR](/stripes/bbbbwbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=237
 

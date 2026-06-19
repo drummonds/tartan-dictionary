@@ -2,10 +2,9 @@
 title: "Murdoch (Dalgliesh)"
 date: 2023-03-18
 ---
-**Bands:** [KBGBGBKRRR](/stripes/kbgbgbkrrr/) · **Stripes:** [K DO G DO G DO K R R R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DO G DO G DO K R R R</span></span>
+In pattern [KBGBGBKRRR](/stripes/kbgbgbkrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3053
 

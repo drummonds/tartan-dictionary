@@ -2,10 +2,9 @@
 title: "Rollings Personal Tartan Tartan Number: 3244. Earliest known date: August 2002 Colours reduced from seven to six. Originally the outside white stripes were gray. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGRWBWBWRG](/stripes/kgrwbwbwrg/) · **Stripes:** [K G R LB DB W DP LB R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G R LB DB W DP LB R G</span></span>
+In pattern [GRWBWBWRGK](/stripes/grwbwbwrgk/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3244
 

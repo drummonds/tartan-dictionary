@@ -2,10 +2,9 @@
 title: "Stewart Camel (Lochcarron)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGGGGYGGBGG](/stripes/ggggggggyggbgg/) · **Stripes:** [Y DY DG DY Y DG Y DG LO DG Y B Y DY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">Y DY DG DY Y DG Y DG LO DG Y B Y DY</span></span>
+In pattern [GGBGGYGGGGGGGG](/stripes/ggbggygggggggg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3933
 

@@ -2,10 +2,9 @@
 title: "Benson (New England)"
 date: 2023-03-18
 ---
-**Bands:** [KRYRKBK](/stripes/kryrkbk/) · **Stripes:** [K R LR R K B K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="seq">K R LR R K B K</span></span>
+In pattern [KBKRYRK](/stripes/kbkryrk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=249
 

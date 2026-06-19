@@ -2,10 +2,9 @@
 title: "MacGregor of Glenstrae #2"
 date: 2023-03-18
 ---
-**Bands:** [RGRG](/stripes/rgrg/) · **Stripes:** [R DG R DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG</span></span>
+In pattern [GRGR](/stripes/grgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2460
 
@@ -21,15 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2460](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2460)
 - Scottish Tartans World Register: 962
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald Lord of the Isles](/setts/s4/r38dg2r5dg16/)
-- [MacDonald Lord of the Isles](/setts/s4/r38dg2r5dg16~x2/)
-- [MacDonald of Sleat - 1810 (Clan)](/setts/s4/r36dg2r5dg16~x2/)
-
 
 ## Thread count
 R/34 G18 R4 G/18

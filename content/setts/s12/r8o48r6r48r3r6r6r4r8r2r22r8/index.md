@@ -2,10 +2,9 @@
 title: "Ferguson Red, George (Architect)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRRRRRRRR](/stripes/rrrrrrrrrrrr/) · **Stripes:** [R R R R R R R R R R O R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R R R R R R R O R</span></span>
+In pattern [RRRRRRRRRRRR](/stripes/rrrrrrrrrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10276
 

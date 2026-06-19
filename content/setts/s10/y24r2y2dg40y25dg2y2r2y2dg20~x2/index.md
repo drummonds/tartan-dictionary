@@ -2,10 +2,9 @@
 title: "Donachie of Brockloch Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGGGGGRGG](/stripes/grgggggrgg/) · **Stripes:** [Y R Y DG Y DG Y R Y DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="seq">Y R Y DG Y DG Y R Y DG</span></span>
+In pattern [GGRGGGGGRG](/stripes/ggrgggggrg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6703/
 

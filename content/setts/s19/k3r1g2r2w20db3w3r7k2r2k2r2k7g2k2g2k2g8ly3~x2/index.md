@@ -2,10 +2,9 @@
 title: "Princess Beatrice, dress"
 date: 2023-03-18
 ---
-**Bands:** [KRGRWBWRKRKRKGKGKGY](/stripes/krgrwbwrkrkrkgkgkgy/) · **Stripes:** [K R G R W DB W R K R K R K G K G K G LY](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R G R W DB W R K R K R K G K G K G LY</span></span>
+In pattern [KRGRWBWRKRKRKGKGKGY](/stripes/krgrwbwrkrkrkgkgkgy/).
 
-
-This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Princess Beatrice Dress (Dance)](/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x4/)
-
 
 ## Thread count
 K/6 R2 G4 R4 LN40 B6 LN6 R14 K4 R4 K4 R4 K14 G4 K4 G4 K4 G16 Y/6

@@ -2,10 +2,9 @@
 title: "Murray of Atholl, Red Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRKGRGKBKB](/stripes/rbrbrkgrgkbkb/) · **Stripes:** [R DB R DB R K G R G K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R K G R G K DB K DB</span></span>
+In pattern [BKBKGRGKRBRBR](/stripes/bkbkgrgkrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3065
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3065](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3065)
 - Scottish Tartans Authority (ITI): 6075
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unidentified Sample #2](/setts/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/)
-
 
 ## Thread count
 DB/16 K4 DB20 K16 G32 R16 G32 K16 R12 DB12 R48 DB8 R/16

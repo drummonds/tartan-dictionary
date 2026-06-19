@@ -2,10 +2,9 @@
 title: "Miyuki #3"
 date: 2023-03-18
 ---
-**Bands:** [BWRRWBWRRWRWRRWBWB](/stripes/bwrrwbwrrwrwrrwbwb/) · **Stripes:** [N LB R O LB N LB O R LB O LB R O LB N LB N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">N LB R O LB N LB O R LB O LB R O LB N LB N</span></span>
+In pattern [BWBWRRWRWRRWBWRRWB](/stripes/bwbwrrwrwrrwbwrrwb/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2969
 

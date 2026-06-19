@@ -2,10 +2,9 @@
 title: "MacAuliffe/McAucliffe"
 date: 2023-03-18
 ---
-**Bands:** [GWGBRBRB](/stripes/gwgbrbrb/) · **Stripes:** [DG W DG DB O DB O DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">DG W DG DB O DB O DB</span></span>
+In pattern [BRBRBGWG](/stripes/brbrbgwg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2289
 

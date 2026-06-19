@@ -2,10 +2,9 @@
 title: "MacIvor"
 date: 2023-03-18
 ---
-**Bands:** [YRKRKRKRW](/stripes/yrkrkrkrw/) · **Stripes:** [LY R K R K R K R LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY R K R K R K R LB</span></span>
+In pattern [WRKRKRKRY](/stripes/wrkrkrkry/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

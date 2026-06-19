@@ -2,10 +2,9 @@
 title: "Ontario, Ensign of"
 date: 2023-03-18
 ---
-**Bands:** [GGBGBGKRKBGBGBG](/stripes/ggbgbgkrkbgbgbg/) · **Stripes:** [Y DG DO DG DO DG K R K DO DG DO DG DO DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="seq">Y DG DO DG DO DG K R K DO DG DO DG DO DG</span></span>
+In pattern [GBGBGBKRKGBGBGG](/stripes/gbgbgbkrkgbgbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5226
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5226)
 - Scottish Tartans Authority (ITI): 3140
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ontario, Ensign of (District)](/setts/s15/dg3do16dg3do3dg3do16k2r4k2dg18do3dg3do3dg16y3~x2/)
-
 
 ## Thread count
 T/8 DG36 DR6 DG6 DR6 DG36 K4 DRa8 K4 DR32 DG6 DR6 DG6 DR32 DG/6

@@ -2,10 +2,9 @@
 title: "Roman Family Tribute (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKYRRRYRBKRRB](/stripes/rgkyrrryrbkrrb/) · **Stripes:** [R DG K LY O R O LY O DP K R O DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DG K LY O R O LY O DP K R O DP</span></span>
+In pattern [BRRKBRYRRRYKGR](/stripes/brrkbryrrrykgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10740
 

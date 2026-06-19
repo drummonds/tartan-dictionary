@@ -2,10 +2,9 @@
 title: "Anderson (Coulson Bonner #2)"
 date: 2023-03-18
 ---
-**Bands:** [RGKRKGRBRKYKYKWKBKRKBR](/stripes/rgkrkgrbrkykykwkbkrkbr/) · **Stripes:** [R DG K R K DG R DB R K LY K LY K W K B K R K B R](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K R K DG R DB R K LY K LY K W K B K R K B R</span></span>
+In pattern [RBKRKBKWKYKYKRBRGKRKGR](/stripes/rbkrkbkwkykykrbrgkrkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=79
 

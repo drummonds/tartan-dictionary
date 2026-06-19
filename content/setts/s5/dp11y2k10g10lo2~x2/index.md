@@ -2,10 +2,9 @@
 title: "Selkirk (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YGKGB](/stripes/ygkgb/) · **Stripes:** [LO G K Y DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO G K Y DP</span></span>
+In pattern [BGKGY](/stripes/bgkgy/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3196/
 

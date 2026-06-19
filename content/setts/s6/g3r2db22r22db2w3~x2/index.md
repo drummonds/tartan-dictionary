@@ -2,10 +2,9 @@
 title: "Galloway Red"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBW](/stripes/grbrbw/) · **Stripes:** [G R DB R DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R DB R DB W</span></span>
+In pattern [GRBRBW](/stripes/grbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1306
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1306](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1306)
 - Scottish Tartans Authority (ITI): 843
 - Scottish Tartans World Register: 843
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Galloway, dress](/setts/s6/g1r1db16r16db1w1~x2/)
-
 
 ## Thread count
 G/6 R4 DB44 R44 DB4 W/6

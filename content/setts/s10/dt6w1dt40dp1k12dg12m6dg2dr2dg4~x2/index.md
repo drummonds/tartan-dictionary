@@ -2,10 +2,9 @@
 title: "Scotland the Brave Corporate Tartan Tartan Number: 2563. Earliest known date: 1999 Scotland the Brave See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GBGRGKBBWB](/stripes/gbgrgkbbwb/) · **Stripes:** [DG DR DG M DG K DP DT W DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">DG DR DG M DG K DP DT W DT</span></span>
+In pattern [BWBBKGRGBG](/stripes/bwbbkgrgbg/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2563
 

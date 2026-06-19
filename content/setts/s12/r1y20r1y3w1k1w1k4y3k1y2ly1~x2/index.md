@@ -2,10 +2,9 @@
 title: "Stuart/Stewart Authentic Grey"
 date: 2023-03-18
 ---
-**Bands:** [RGRGWKWKGKGY](/stripes/rgrgwkwkgkgy/) · **Stripes:** [R Y R Y W K W K Y K Y LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R Y R Y W K W K Y K Y LY</span></span>
+In pattern [RGRGWKWKGKGY](/stripes/rgrgwkwkgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3994
 

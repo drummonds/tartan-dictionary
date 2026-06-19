@@ -2,19 +2,11 @@
 title: "Oliphant (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GWGBKB](/stripes/gwgbkb/) · **Stripes:** [G W G DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G W G DB K DB</span></span>
+In pattern [BKBGWG](/stripes/bkbgwg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/242/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Oliphant](/setts/s6/db4k4db24g32w1g2~x2/)
-
 
 ## Thread count
 DB/16 K16 DB96 G128 W4 G/8

@@ -2,10 +2,9 @@
 title: "Little of Morton Rig"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKBKBKY](/stripes/kwkwkbkbky/) · **Stripes:** [K W K W K DR K DR K LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W K W K DR K DR K LY</span></span>
+In pattern [KWKWKBKBKY](/stripes/kwkwkbkbky/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

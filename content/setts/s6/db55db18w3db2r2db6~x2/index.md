@@ -2,10 +2,9 @@
 title: "S.C.O.T.S."
 date: 2023-03-18
 ---
-**Bands:** [BRBWBB](/stripes/brbwbb/) · **Stripes:** [DB R DB W DB DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB W DB DB</span></span>
+In pattern [BBWBRB](/stripes/bbwbrb/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,14 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Edzell, U.S. Navy](/setts/s6/db45db7w3db27r1db7~x2/)
-- [Edzell, U.S. Navy](/setts/s6/db104db16w8db66r3db16/)
-
 
 ## Thread count
 B/110 DB36 LN6 DB4 R4 DB/12

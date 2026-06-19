@@ -2,10 +2,9 @@
 title: "Bruce of Kinnaird (Vivienne Westwood Design)"
 date: 2023-03-18
 ---
-**Bands:** [GGBWBYBGGW](/stripes/ggbwbybggw/) · **Stripes:** [DY Y DR LB DR LO DR G DY LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DY Y DR LB DR LO DR G DY LB</span></span>
+In pattern [GGBWBYBGGW](/stripes/ggbwbybggw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5377
 

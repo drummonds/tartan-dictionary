@@ -2,10 +2,9 @@
 title: "Loyalhanna (District?)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKKBKB](/stripes/bkbkkbkb/) · **Stripes:** [DB K DB K K DB K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K K DB K DB</span></span>
+In pattern [BKBKKBKB](/stripes/bkbkkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5506/
 

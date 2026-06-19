@@ -2,10 +2,9 @@
 title: "Wellington No 229"
 date: 2023-03-18
 ---
-**Bands:** [KBBGW](/stripes/kbbgw/) · **Stripes:** [K T DP DG W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K T DP DG W</span></span>
+In pattern [KBBGW](/stripes/kbbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4589
 

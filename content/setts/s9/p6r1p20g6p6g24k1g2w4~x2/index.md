@@ -2,10 +2,9 @@
 title: "MacNeill"
 date: 2023-03-18
 ---
-**Bands:** [BRBGBGKGW](/stripes/brbgbgkgw/) · **Stripes:** [P R P G P G K G W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">P R P G P G K G W</span></span>
+In pattern [BRBGBGKGW](/stripes/brbgbgkgw/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

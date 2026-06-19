@@ -2,10 +2,9 @@
 title: "Ceredigion (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBYBY](/stripes/rbyby/) · **Stripes:** [R N LY N LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R N LY N LY</span></span>
+In pattern [RBYBY](/stripes/rbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=611
 

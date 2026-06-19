@@ -2,10 +2,9 @@
 title: "Bacon, Blue"
 date: 2023-03-18
 ---
-**Bands:** [BKRW](/stripes/bkrw/) · **Stripes:** [DB K R W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K R W</span></span>
+In pattern [BKRW](/stripes/bkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5221
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5221](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5221)
 - Scottish Tartans Authority (ITI): 3626
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Templar Grand Priory USA](/setts/s4/db3k32r27w2~x2/)
-
 
 ## Thread count
 DB/28 K6 DR6 LN/2

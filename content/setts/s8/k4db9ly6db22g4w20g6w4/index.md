@@ -2,10 +2,9 @@
 title: "Ship Hector"
 date: 2023-03-18
 ---
-**Bands:** [KBYBGWGW](/stripes/kbybgwgw/) · **Stripes:** [K DB LY DB G W G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB LY DB G W G W</span></span>
+In pattern [KBYBGWGW](/stripes/kbybgwgw/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ship Hector, The (Commemorative)](/setts/s8/k3db10ly5db16g3w16g5w3~x2/)
-
 
 ## Thread count
 K/4 B9 Y6 B22 G4 LN20 G6 LN/4

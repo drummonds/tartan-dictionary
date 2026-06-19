@@ -2,10 +2,9 @@
 title: "O'Monaghan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBWYWBYBWG](/stripes/ybwywbybwg/) · **Stripes:** [LO T W LO W T LO T W Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO T W LO W T LO T W Y</span></span>
+In pattern [GWBYBWYWBY](/stripes/gwbybwywby/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6266/
 

@@ -2,10 +2,9 @@
 title: "Leach Htg #2 (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GWKWGGKBW](/stripes/gwkwggkbw/) · **Stripes:** [Y W K W G Y K DP W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y W K W G Y K DP W</span></span>
+In pattern [GWKWGGKBW](/stripes/gwkwggkbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5402/
 

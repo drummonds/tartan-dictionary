@@ -2,10 +2,9 @@
 title: "Pilette of Kinnear (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKGKGRYRBRGKGKGKRK](/stripes/krkgkgkgryrbrgkgkgkrk/) · **Stripes:** [K R K DG K DG K DG R LO R T R DG K DG K DG K R K](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K DG K DG K DG R LO R T R DG K DG K DG K R K</span></span>
+In pattern [KRKGKGKGRBRYRGKGKGKRK](/stripes/krkgkgkgrbryrgkgkgkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3338
 

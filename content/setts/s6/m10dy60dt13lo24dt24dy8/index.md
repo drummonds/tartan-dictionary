@@ -2,10 +2,9 @@
 title: "Bronte House Check"
 date: 2023-03-18
 ---
-**Bands:** [RGBYBG](/stripes/rgbybg/) · **Stripes:** [M DY DT LO DT DY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">M DY DT LO DT DY</span></span>
+In pattern [GBYBGR](/stripes/gbybgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10815
 

@@ -2,10 +2,9 @@
 title: "Lundie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBBGBGBGBGBGBYBWGRBBW](/stripes/rbbgbgbgbgbgbybwgrbbw/) · **Stripes:** [R B DT G DT G DT G DT G DT G DT LY DT W G R B DT W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R B DT G DT G DT G DT G DT G DT LY DT W G R B DT W</span></span>
+In pattern [RBBGBGBGBGBGBYBWGRBBW](/stripes/rbbgbgbgbgbgbybwgrbbw/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10022/
 

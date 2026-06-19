@@ -2,10 +2,9 @@
 title: "Wilson's No.033 #2"
 date: 2023-03-18
 ---
-**Bands:** [GBRBKWGRGWKBRBGB](/stripes/gbrbkwgrgwkbrbgb/) · **Stripes:** [G T R T K W G R G W K T R T G DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G T R T K W G R G W K T R T G DB</span></span>
+In pattern [BGBRBKWGRGWKBRBG](/stripes/bgbrbkwgrgwkbrbg/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4652
 

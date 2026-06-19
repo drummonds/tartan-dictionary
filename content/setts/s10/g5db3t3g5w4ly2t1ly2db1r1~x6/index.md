@@ -2,10 +2,9 @@
 title: "Northern College (Ontario)"
 date: 2023-03-18
 ---
-**Bands:** [RBYBYWGBBG](/stripes/rbybywgbbg/) · **Stripes:** [R DB LY T LY W G T DB G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB LY T LY W G T DB G</span></span>
+In pattern [GBBGWYBYBR](/stripes/gbbgwybybr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3160
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3160](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3160)
 - Scottish Tartans Authority (ITI): 690
 - Scottish Tartans World Register: 690
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Northern College](/setts/s10/g10db6t6g10w8ly3t2ly3db2r2/)
-
 
 ## Thread count
 Ga/30 DB18 B18 Ga30 W24 Y12 B6 Y12 DB6 R/6

@@ -2,10 +2,9 @@
 title: "Red Watch (Fashion) #3"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKGGGKRKR](/stripes/rkrkrkgggkrkr/) · **Stripes:** [O K O K O K Y Y Y K O K O](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K O K Y Y Y K O K O</span></span>
+In pattern [RKRKGGGKRKRKR](/stripes/rkrkgggkrkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8241/
 

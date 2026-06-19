@@ -2,19 +2,11 @@
 title: "Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKBGW](/stripes/bkbgw/) · **Stripes:** [DP K DP G W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP K DP G W</span></span>
+In pattern [BKBGW](/stripes/bkbgw/).
 
-
-This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2708
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kansai Highland Games](/setts/s5/dp2k1dp16g17w2~x4/)
-
 
 ## Thread count
 P/8 K4 P64 G64 LN/8

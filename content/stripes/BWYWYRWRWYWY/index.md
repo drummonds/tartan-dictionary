@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bwywyrwrwywy/
 ---
-BWYWYRWRWYWY
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-BWYWYRWRWYWY
+
+{{< pat "BWYWYRWRWYWY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LG LB LG LB M LP M LR LP LR LP P <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LG LB LG LB M LP M LR LP LR LP P</span></span>
 
 | Tartans |
 |---------------|
 | [Kinloch Anderson, Romance of](/setts/s12/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/)|
 |![Kinloch Anderson, Romance of example sett](/setts/s12/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/sett.png)|
-

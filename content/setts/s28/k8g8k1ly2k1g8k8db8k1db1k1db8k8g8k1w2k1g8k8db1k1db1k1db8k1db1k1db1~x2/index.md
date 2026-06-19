@@ -2,19 +2,11 @@
 title: "Campbell of Argyll Clan Tartan Tartan Number: 1961. Earliest known date: 1810-15 This sett appears in the Cockburn Collection, (1815). Logan (1831). Vestiarium Scoticum (1842). Smibert (1850). Smith (1850). Grant (1886). The Setts No: 19 (1950). W & A K Johnston (1906). Like many of the earliest clan setts, the Campbell of Argyll, owes its origin to the post rebellion output of Wilson's of Bannockburn, whose monopoly on military supply dictated design. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGKYKGKBKBKBKGKWKGKBKBKBKBKB](/stripes/kgkykgkbkbkbkgkwkgkbkbkbkbkb/) · **Stripes:** [K G K LY K G K DB K DB K DB K G K W K G K DB K DB K DB K DB K DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K LY K G K DB K DB K DB K G K W K G K DB K DB K DB K DB K DB</span></span>
+In pattern [BKBKBKBKBKGKWKGKBKBKBKGKYKGK](/stripes/bkbkbkbkbkgkwkgkbkbkbkgkykgk/).
 
-
-This was sourced from house-of-tartan.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1961
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell of Argyll](/setts/s28/k16g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/)
-
 
 ## Thread count
 K/16 G16 K2 Y4 K2 G16 K16 DB16 K2 DB2 K2 DB16 K16 G16 K2 LN4 K2 G16 K16 DB2 K2 DB2 K2 DB16 K2 DB2 K2 DB/2

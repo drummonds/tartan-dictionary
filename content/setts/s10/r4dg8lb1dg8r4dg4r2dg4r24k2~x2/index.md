@@ -2,10 +2,9 @@
 title: "Cumming VS"
 date: 2023-03-18
 ---
-**Bands:** [KRGRGRGWGR](/stripes/krgrgrgwgr/) · **Stripes:** [K R DG R DG R DG LB DG R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R DG R DG R DG LB DG R</span></span>
+In pattern [KRGRGRGWGR](/stripes/krgrgrgwgr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

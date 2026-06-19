@@ -2,10 +2,9 @@
 title: "Tayside Police (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRYRKWBKR](/stripes/kryrkwbkr/) · **Stripes:** [K R LO R K W DT K O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K R LO R K W DT K O</span></span>
+In pattern [KRYRKWBKR](/stripes/kryrkwbkr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6598/
 

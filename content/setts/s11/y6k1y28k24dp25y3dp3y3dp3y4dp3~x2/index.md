@@ -2,10 +2,9 @@
 title: "Rennie (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBGBGBGB](/stripes/gkgkbgbgbgb/) · **Stripes:** [Y K Y K DP Y DP Y DP Y DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">Y K Y K DP Y DP Y DP Y DP</span></span>
+In pattern [BGBGBGBKGKG](/stripes/bgbgbgbkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/716/
 

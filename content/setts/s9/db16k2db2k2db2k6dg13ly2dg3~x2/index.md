@@ -2,10 +2,9 @@
 title: "Christian Dewar (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYGKBKBKB](/stripes/gygkbkbkb/) · **Stripes:** [DG LY DG K DB K DB K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DG LY DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGYG](/stripes/bkbkbkgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=645
 

@@ -2,10 +2,9 @@
 title: "Orr Senior, Gerald William"
 date: 2023-03-18
 ---
-**Bands:** [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/) · **Stripes:** [N LY N K N K N K N R N W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N LY N K N K N K N R N W</span></span>
+In pattern [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10534
 

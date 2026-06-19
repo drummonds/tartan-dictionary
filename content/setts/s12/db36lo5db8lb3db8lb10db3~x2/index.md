@@ -2,10 +2,9 @@
 title: "Scottish Qualifications Authority"
 date: 2023-03-18
 ---
-**Bands:** [YBWBWBWBWBYB](/stripes/ybwbwbwbwbyb/) · **Stripes:** [LO DB LB DB LB DB LB DB LB DB LO DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB LB DB LB DB LB DB LB DB LO DB</span></span>
+In pattern [BYBWBWBWBWBY](/stripes/bybwbwbwbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3742
 

@@ -2,10 +2,9 @@
 title: "Munro VS"
 date: 2023-03-18
 ---
-**Bands:** [KRKRW](/stripes/krkrw/) · **Stripes:** [K R K R LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K R K R LB</span></span>
+In pattern [KRKRW](/stripes/krkrw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

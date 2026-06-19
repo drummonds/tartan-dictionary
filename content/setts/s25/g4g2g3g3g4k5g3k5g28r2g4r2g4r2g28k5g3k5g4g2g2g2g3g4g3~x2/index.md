@@ -2,10 +2,9 @@
 title: "Ross, hunting"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGKGKGRGRGRGKGKGGGGGGG](/stripes/gggggkgkgrgrgrgkgkggggggg/) · **Stripes:** [G G G G G K G K G R G R G R G K G K G G G G G G G](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G G G G G K G K G R G R G R G K G K G G G G G G G</span></span>
+In pattern [GGGGGGGKGKGRGRGRGKGKGGGGG](/stripes/gggggggkgkgrgrgrgkgkggggg/).
 
-
-This was sourced from weddslist.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

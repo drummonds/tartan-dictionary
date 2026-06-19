@@ -2,10 +2,9 @@
 title: "Loch Laggan"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKG](/stripes/rgrgkg/) · **Stripes:** [R G R G K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G K G</span></span>
+In pattern [GKGRGR](/stripes/gkgrgr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Loch Laggan (District)](/setts/s6/r4g2r1g20k1g1~x4/)
-
 
 ## Thread count
 R/19 G6 R7 G101 K7 G/7

@@ -2,10 +2,9 @@
 title: "Colbert Check (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KWYKWKYW](/stripes/kwykwkyw/) · **Stripes:** [K W LY K W K LO W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W LY K W K LO W</span></span>
+In pattern [KWYKWKYW](/stripes/kwykwkyw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8136/
 

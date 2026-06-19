@@ -2,10 +2,9 @@
 title: "LOOK Keith"
 date: 2023-03-18
 ---
-**Bands:** [RBRBBRBRBRWRWRBRBRBBRBRB](/stripes/rbrbbrbrbrwrwrbrbrbbrbrb/) · **Stripes:** [R N R N DT O DB O DB O LB O LB O DB O DB O DT N R N R N](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">R N R N DT O DB O DB O LB O LB O DB O DB O DT N R N R N</span></span>
+In pattern [BRBRBBRBRBRWRWRBRBRBBRBR](/stripes/brbrbbrbrbrwrwrbrbrbbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11246/
 

@@ -2,19 +2,11 @@
 title: "Youth on The Horizon (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRR](/stripes/rrrrrr/) · **Stripes:** [R R R R R R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R R R</span></span>
+In pattern [RRRRRR](/stripes/rrrrrr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4238/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Samye Sangha #2](/setts/s6/r32r3r3r2r3r23~x2/)
-
 
 ## Thread count
 LR/16 Ra16 R16 Ra16 DR48 Ra/8

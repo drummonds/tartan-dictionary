@@ -2,10 +2,9 @@
 title: "Forbes LC"
 date: 2023-03-18
 ---
-**Bands:** [YKGKBKB](/stripes/ykgkbkb/) · **Stripes:** [LR K DG K DB K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LR K DG K DB K DB</span></span>
+In pattern [BKBKGKY](/stripes/bkbkgky/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Forbes LC](/setts/s7/db1k6db6k6dg6k1lr1~x2/)
-
 
 ## Thread count
 DB/1 K6 DB6 K6 DG6 K1 N/1

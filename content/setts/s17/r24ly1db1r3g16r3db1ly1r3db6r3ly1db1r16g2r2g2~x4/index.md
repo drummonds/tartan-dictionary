@@ -2,10 +2,9 @@
 title: "Munro"
 date: 2023-03-18
 ---
-**Bands:** [RYBRGRBYRBRYBRGRG](/stripes/rybrgrbyrbrybrgrg/) · **Stripes:** [R LY DB R G R DB LY R DB R LY DB R G R G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY DB R G R DB LY R DB R LY DB R G R G</span></span>
+In pattern [GRGRBYRBRYBRGRBYR](/stripes/grgrbyrbrybrgrbyr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3048
 
@@ -16,15 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3048](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3048)
 - Scottish Tartans Authority (ITI): 974
 - Scottish Tartans World Register: 974
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Munro](/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2~x2/)
-- [Munro (Clan)](/setts/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3r3g4~x2/)
-- [Munro (Logan)](/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/)
-
 
 ## Thread count
 Ra/96 Y4 DB4 Ra12 G64 Ra12 DB4 Y4 Ra12 DB24 Ra12 Y4 DB4 Ra64 G8 R8 G/8

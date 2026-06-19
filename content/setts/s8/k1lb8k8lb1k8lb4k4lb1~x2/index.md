@@ -2,10 +2,9 @@
 title: "Priest"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKW](/stripes/kwkwkwkw/) · **Stripes:** [K LB K LB K LB K LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LB K LB K LB K LB</span></span>
+In pattern [KWKWKWKW](/stripes/kwkwkwkw/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

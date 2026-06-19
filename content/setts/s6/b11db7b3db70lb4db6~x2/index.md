@@ -2,10 +2,9 @@
 title: "Auchairne (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBWB](/stripes/bbbbwb/) · **Stripes:** [B DB B DB LB DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">B DB B DB LB DB</span></span>
+In pattern [BBBBWB](/stripes/bbbbwb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2214/
 

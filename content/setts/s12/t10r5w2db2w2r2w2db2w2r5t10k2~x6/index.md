@@ -2,10 +2,9 @@
 title: "U.S. Postal Service"
 date: 2023-03-18
 ---
-**Bands:** [KBRWBWRWBWRB](/stripes/kbrwbwrwbwrb/) · **Stripes:** [K T R W DB W R W DB W R T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T R W DB W R W DB W R T</span></span>
+In pattern [BRWBWRWBWRBK](/stripes/brwbwrwbwrbk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4190
 

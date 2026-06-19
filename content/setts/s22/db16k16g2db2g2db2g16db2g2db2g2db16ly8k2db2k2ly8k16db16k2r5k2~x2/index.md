@@ -2,10 +2,9 @@
 title: "Lamquet (2015)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKYKBKYBGBGBGBGBGKB](/stripes/krkbkykbkybgbgbgbgbgkb/) · **Stripes:** [K R K DB K LY K DB K LY DB G DB G DB G DB G DB G K DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K DB K LY K DB K LY DB G DB G DB G DB G DB G K DB</span></span>
+In pattern [BKGBGBGBGBGBYKBKYKBKRK](/stripes/bkgbgbgbgbgbykbkykbkrk/).
 
-
-This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11217/
 

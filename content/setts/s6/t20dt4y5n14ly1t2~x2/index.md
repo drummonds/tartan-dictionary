@@ -2,10 +2,9 @@
 title: "Riley's Theme"
 date: 2023-03-18
 ---
-**Bands:** [BYBGBB](/stripes/bybgbb/) · **Stripes:** [T LY N Y DT T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">T LY N Y DT T</span></span>
+In pattern [BBGBYB](/stripes/bbgbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10657
 

@@ -2,10 +2,9 @@
 title: "Dama Weekend"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGYGKGKR](/stripes/kbkbgygkgkr/) · **Stripes:** [K N K N Y LY Y K Y K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K N K N Y LY Y K Y K R</span></span>
+In pattern [KBKBGYGKGKR](/stripes/kbkbgygkgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10209
 

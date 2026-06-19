@@ -2,10 +2,9 @@
 title: "Lovat or Fraser #2"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRB](/stripes/rbrgrb/) · **Stripes:** [R DP R DG R DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP R DG R DP</span></span>
+In pattern [BRGRBR](/stripes/brgrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2236
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2236](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2236)
 - Scottish Tartans World Register: 525
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Caledonian](/setts/s6/r60dp20r8dg45r8dp2~x2/)
-
 
 ## Thread count
 R/160 P38 R16 G72 R20 P/4

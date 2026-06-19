@@ -2,10 +2,9 @@
 title: "Forbes - 1947 (Lyon Court)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKW](/stripes/bkbkgkw/) · **Stripes:** [DB K DB K G K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K G K W</span></span>
+In pattern [BKBKGKW](/stripes/bkbkgkw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/212/
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1225](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1225)
 - Scottish Tartans Authority (ITI): 212
 - Scottish Tartans World Register: 212
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Forbes](/setts/s7/db1k1db6k6g6k1w1~x2/)
-- [Forbes Ancient](/setts/s7/db1k6db6k6g6k1w1~x2/)
-
 
 ## Thread count
 DB/6 K36 DB36 K36 G36 K6 W/6

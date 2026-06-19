@@ -2,10 +2,9 @@
 title: "Osborne, Luke Alexander (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBW](/stripes/bkbw/) · **Stripes:** [DB K DP W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DP W</span></span>
+In pattern [BKBW](/stripes/bkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11485
 

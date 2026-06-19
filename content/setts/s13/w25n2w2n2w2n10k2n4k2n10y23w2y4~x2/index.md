@@ -2,10 +2,9 @@
 title: "Oliphant Dress"
 date: 2023-03-18
 ---
-**Bands:** [GWGBKBKBWBWBW](/stripes/gwgbkbkbwbwbw/) · **Stripes:** [Y W Y N K N K N W N W N W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y W Y N K N K N W N W N W</span></span>
+In pattern [GWGBKBKBWBWBW](/stripes/gwgbkbkbwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10227
 

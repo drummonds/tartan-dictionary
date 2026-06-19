@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gbrbr/
 ---
-GBRBR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/g22dt5r4dt5r3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GBRBR
+
+{{< pat "GBRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DT R DT G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DT R DT G</span></span>
 
 | Tartans |
 |---------------|
 | [Romsdal](/setts/s5/g22dt5r4dt5r3~x2/)|
 |![Romsdal example sett](/setts/s5/g22dt5r4dt5r3~x2/sett.png)|
-

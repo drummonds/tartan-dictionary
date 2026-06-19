@@ -2,10 +2,9 @@
 title: "Wilson-Blyth"
 date: 2023-03-18
 ---
-**Bands:** [KWKBGKGKGKGKGKGBGBGBWB](/stripes/kwkbgkgkgkgkgkgbgbgbwb/) · **Stripes:** [K LB K DB DG K DG K DG K DG K DG K DG DB DG DB DG DB LB DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">K LB K DB DG K DG K DG K DG K DG K DG DB DG DB DG DB LB DB</span></span>
+In pattern [BWBGBGBGKGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgkgbkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11127
 

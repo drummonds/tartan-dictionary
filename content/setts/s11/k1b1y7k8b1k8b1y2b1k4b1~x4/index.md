@@ -2,10 +2,9 @@
 title: "Priest"
 date: 2023-03-18
 ---
-**Bands:** [KBGKBKBGBKB](/stripes/kbgkbkbgbkb/) · **Stripes:** [K B Y K B K B Y B K B](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B Y K B K B Y B K B</span></span>
+In pattern [BKBGBKBKGBK](/stripes/bkbgbkbkgbk/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Priest](/setts/s11/k1b1y7k8b1k8b1y2b1k4b1~x2/)
-
 
 ## Thread count
 K/4 B4 N28 K32 B4 K32 B4 N8 B4 K16 B/4

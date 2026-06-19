@@ -2,10 +2,9 @@
 title: "Fontainbleu"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRYRBRYBRBBBRBRYRBRYBRB](/stripes/rbrbryrbrybrbbbrbryrbrybrb/) · **Stripes:** [O N O DT O LO O DT O LO DT O DT N DT O DT O LO O DT O LO DT O N](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">O N O DT O LO O DT O LO DT O DT N DT O DT O LO O DT O LO DT O N</span></span>
+In pattern [BRBYRBRYRBRBBBRBYRBRYRBRBR](/stripes/brbyrbryrbrbbbrbyrbryrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1213
 

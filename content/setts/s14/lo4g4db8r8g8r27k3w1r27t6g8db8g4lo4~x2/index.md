@@ -2,10 +2,9 @@
 title: "West Virginia"
 date: 2023-03-18
 ---
-**Bands:** [YGBRGRKWRBGBGY](/stripes/ygbrgrkwrbgbgy/) · **Stripes:** [LO G DB R G R K W R T G DB G LO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO G DB R G R K W R T G DB G LO</span></span>
+In pattern [YGBGBRWKRGRBGY](/stripes/ygbgbrwkrgrbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5649
 

@@ -2,10 +2,9 @@
 title: "Prince of Wales Check"
 date: 2023-03-18
 ---
-**Bands:** [WBWBWBWBWBWBWBWBWBWBW](/stripes/wbwbwbwbwbwbwbwbwbwbw/) · **Stripes:** [LB DO LB DO LB DO LB DO LB DO LB DO LB DO LB DT LB DO LB DO LB](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DO LB DO LB DO LB DO LB DO LB DO LB DO LB DT LB DO LB DO LB</span></span>
+In pattern [WBWBWBWBWBWBWBWBWBWBW](/stripes/wbwbwbwbwbwbwbwbwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5038
 

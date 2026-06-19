@@ -2,23 +2,11 @@
 title: "Applecross (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGRG](/stripes/rgrg/) · **Stripes:** [R G R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G</span></span>
+In pattern [GRGR](/stripes/grgr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/961/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Applecross](/setts/s4/r18g7r2g18~x2/)
-- [Duke of Windsor (Royal)](/setts/s4/g75r2g4r40~x2/)
-- [MacDonald of Sleat](/setts/s4/r36g2r5g16~x2/)
-- [MacGregor of Glenstrae](/setts/s4/r17g9r2~x2/)
-- [Middleton](/setts/s4/g16r1g2r11~x8/)
-
 
 ## Thread count
 R/72 G28 R8 G/72

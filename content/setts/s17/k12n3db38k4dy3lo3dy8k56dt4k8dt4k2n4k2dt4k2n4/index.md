@@ -2,10 +2,9 @@
 title: "North Sea Oil"
 date: 2023-03-18
 ---
-**Bands:** [KBBKGYGKBKBKBKBKB](/stripes/kbbkgygkbkbkbkbkb/) · **Stripes:** [K N DB K DY LO DY K DT K DT K N K DT K N](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N DB K DY LO DY K DT K DT K N K DT K N</span></span>
+In pattern [BKBKBKBKBKGYGKBBK](/stripes/bkbkbkbkbkgygkbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10766
 

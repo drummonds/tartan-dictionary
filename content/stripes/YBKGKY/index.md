@@ -4,23 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/ybkgky/
 ---
-YBKGKY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/lr3db14k12dg12k2ly3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-YBKGKY
+
+{{< pat "YBKGKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K DG K DB LR <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY K DG K DB LR</span></span>
 
 | Tartans |
 |---------------|
@@ -28,4 +23,3 @@ YBKGKY
 |![MacNiel of Barra example sett](/setts/s6/lr3db14k12dg12k2ly3~x2/sett.png)|
 | [MacNiel of Barra](/setts/s6/lr3db14k12dg12k2ly3/)|
 |![MacNiel of Barra example sett](/setts/s6/lr3db14k12dg12k2ly3/sett.png)|
-

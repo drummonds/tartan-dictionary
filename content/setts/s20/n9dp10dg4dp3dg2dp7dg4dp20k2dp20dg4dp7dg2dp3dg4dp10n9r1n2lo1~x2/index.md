@@ -2,10 +2,9 @@
 title: "Michie (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YBRBBGBGBGBKBGBGBGBB](/stripes/ybrbbgbgbgbkbgbgbgbb/) · **Stripes:** [LO N R N DP DG DP DG DP DG DP K DP DG DP DG DP DG DP N](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="seq">LO N R N DP DG DP DG DP DG DP K DP DG DP DG DP DG DP N</span></span>
+In pattern [BBGBGBGBKBGBGBGBBRBY](/stripes/bbgbgbgbkbgbgbgbbrby/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10042/
 

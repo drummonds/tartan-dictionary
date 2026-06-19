@@ -2,10 +2,9 @@
 title: "New World Celts (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBWKYGRKRKWKB](/stripes/kbwkygrkrkwkb/) · **Stripes:** [K T W K LY DG R K R K W K T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T W K LY DG R K R K W K T</span></span>
+In pattern [BKWKRKRGYKWBK](/stripes/bkwkrkrgykwbk/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7636/
 

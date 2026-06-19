@@ -2,10 +2,9 @@
 title: "MacKay, Coat"
 date: 2023-03-18
 ---
-**Bands:** [KGYGKBK](/stripes/kgygkbk/) · **Stripes:** [K G LY G K DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G LY G K DB K</span></span>
+In pattern [KBKGYGK](/stripes/kbkgygk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell of Breadalbane (Clan)](/setts/s7/k9g9ly2g9k9db9k3~x2/)
-
 
 ## Thread count
 K/8 G8 Y2 G8 K8 B8 K/2

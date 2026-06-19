@@ -2,10 +2,9 @@
 title: "Queensferry High (School)"
 date: 2023-03-18
 ---
-**Bands:** [YWWYWBBWW](/stripes/ywwywbbww/) · **Stripes:** [LR LB LB LR LB B DT W LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LR LB LB LR LB B DT W LB</span></span>
+In pattern [WWBBWYWWY](/stripes/wwbbwywwy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10176/
 

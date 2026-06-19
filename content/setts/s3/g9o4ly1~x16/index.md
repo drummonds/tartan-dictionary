@@ -2,19 +2,11 @@
 title: "Ledford (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YRG](/stripes/yrg/) · **Stripes:** [LY O G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY O G</span></span>
+In pattern [GRY](/stripes/gry/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/835/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/g9o4ly1~x4/)
-
 
 ## Thread count
 G/144 N64 Y/16

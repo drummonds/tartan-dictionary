@@ -2,10 +2,9 @@
 title: "Bressuire"
 date: 2023-03-18
 ---
-**Bands:** [BGGGBBW](/stripes/bgggbbw/) · **Stripes:** [DR DG Y DG DR DT W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DR DG Y DG DR DT W</span></span>
+In pattern [BGGGBBW](/stripes/bgggbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10260
 

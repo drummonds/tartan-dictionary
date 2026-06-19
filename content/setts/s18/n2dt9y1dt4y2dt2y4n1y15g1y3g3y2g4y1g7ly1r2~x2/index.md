@@ -2,10 +2,9 @@
 title: "Norwegian Night (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYGGGGGGGGBGBGBGBB](/stripes/ryggggggggbgbgbgbb/) · **Stripes:** [R LY G Y G Y G Y G Y N Y DT Y DT Y DT N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">R LY G Y G Y G Y G Y N Y DT Y DT Y DT N</span></span>
+In pattern [BBGBGBGBGGGGGGGGYR](/stripes/bbgbgbgbggggggggyr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10772/
 

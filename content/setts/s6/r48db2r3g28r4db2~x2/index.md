@@ -2,10 +2,9 @@
 title: "MacKintosh 2"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRB](/stripes/rbrgrb/) · **Stripes:** [R DB R G R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R G R DB</span></span>
+In pattern [BRGRBR](/stripes/brgrbr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,19 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Grant of Lurg](/setts/s6/db2r25g10r2db10r2~x2/)
-- [MacKintosh](/setts/s6/r70db20r10g40r10db3/)
-- [MacKintosh 1](/setts/s6/r22db5r2g11r3db1~x2/)
-- [MacKintosh 3](/setts/s6/r68db18r9g34r9db3~x2/)
-- [MacKintosh, Plaid](/setts/s6/r16db6r2g6r2db1~x2/)
-- [Mar](/setts/s6/db2r39g39r1db39r2~x2/)
-- [Mar, Red](/setts/s6/db2r24g24r1db24r2~x2/)
-
 
 ## Thread count
 R/96 B4 R6 G56 R8 B/4

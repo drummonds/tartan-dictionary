@@ -2,10 +2,9 @@
 title: "Walsh, Michael Edward (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRRRWR](/stripes/rrrrwr/) · **Stripes:** [R O R O W O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O R O W O</span></span>
+In pattern [RRRRWR](/stripes/rrrrwr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11204/
 

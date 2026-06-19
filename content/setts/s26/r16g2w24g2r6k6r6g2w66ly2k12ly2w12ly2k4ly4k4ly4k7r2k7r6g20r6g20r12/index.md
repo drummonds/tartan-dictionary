@@ -2,10 +2,9 @@
 title: "Anderson"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRKRKYKYKYWYKYWGRKRGWGR](/stripes/rgrgrkrkykykywykywgrkrgwgr/) · **Stripes:** [R G R G R K R K LY K LY K LY W LY K LY W G R K R G W G R](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R K R K LY K LY K LY W LY K LY W G R K R G W G R</span></span>
+In pattern [RGRGRKRKYKYKYWYKYWGRKRGWGR](/stripes/rgrgrkrkykykywykywgrkrgwgr/).
 
-
-This was sourced from tartans-authority.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8975/
 

@@ -2,10 +2,9 @@
 title: "Ross"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRBRBRBRBRBRBRBRBRGRG](/stripes/grgrgrgrbrbrbrbrbrbrbrbrgrg/) · **Stripes:** [DG R DG R DG R DG R DB R DB R DB R DB R DB R DB R DB R DB R DG R DG](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG R DG R DG R DB R DB R DB R DB R DB R DB R DB R DB R DG R DG</span></span>
+In pattern [GRGRBRBRBRBRBRBRBRBRGRGRGRG](/stripes/grgrbrbrbrbrbrbrbrbrgrgrgrg/).
 
-
-This was sourced from weddslist.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ross](/setts/s27/dg8r1dg8r8dg1r2dg1r8db8r1db8r8db1r1db2r1db1r8db1r1db2r1db1r8dg8r1dg8~x2/)
-- [Ross #4](/setts/s27/dg18r2dg18r18dg2r4dg2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18dg18r2dg18~x2/)
-
 
 ## Thread count
 DG/18 DR2 DG18 DR18 DG2 DR4 DG2 DR18 DB18 DR2 DB18 DR18 DB1 DR1 DB2 DR1 DB1 DR18 DB1 DR1 DB2 DR1 DB1 DR18 DG18 DR2 DG/18

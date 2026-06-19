@@ -2,10 +2,9 @@
 title: "Goodwillie (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBRBRW](/stripes/rbkbrbrw/) · **Stripes:** [R DT K DT R P R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DT K DT R P R W</span></span>
+In pattern [RBKBRBRW](/stripes/rbkbrbrw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7673/
 

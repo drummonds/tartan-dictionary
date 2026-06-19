@@ -2,10 +2,9 @@
 title: "Allen Northumbrian Family Tartan Tartan Number: 3208. Earliest known date: 2001 Designed by Jerry M P Allen of Hermitage, Berkshire, for use by his family and relations and others by permission of the designer See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YRYBBGWGBBRBRB](/stripes/yrybbgwgbbrbrb/) · **Stripes:** [LY R LY DB DO G W G DO DB R DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R LY DB DO G W G DO DB R DB R DB</span></span>
+In pattern [BRBRBBGWGBBYRY](/stripes/brbrbbgwgbbyry/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3208
 

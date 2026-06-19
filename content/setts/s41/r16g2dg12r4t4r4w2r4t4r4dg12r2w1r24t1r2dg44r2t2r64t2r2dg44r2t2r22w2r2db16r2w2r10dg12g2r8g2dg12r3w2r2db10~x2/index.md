@@ -2,10 +2,9 @@
 title: "MacAlister"
 date: 2023-03-18
 ---
-**Bands:** [RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRB](/stripes/rggrbrwrbrgrwrbrgrbrbrgrbrwrbrwrggrggrwrb/) · **Stripes:** [R G DG R T R W R T R DG R W R T R DG R T R T R DG R T R W R DB R W R DG G R G DG R W R DB](/stripes/stripes41/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G DG R T R W R T R DG R W R T R DG R T R T R DG R T R W R DB R W R DG G R G DG R W R DB</span></span>
+In pattern [BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR](/stripes/brwrggrggrwrbrwrbrgrbrbrgrbrwrgrbrwrbrggr/).
 
-
-This was sourced from logan-1831.  It is a [41 band tartan](/bands/bands41/).
+This was sourced from logan-1831.  It is a [41 stripe tartan](/stripes/stripes41/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,13 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **MacAlister** name adjusted Logan's counts: [MacAlister (Logan 1831)](/setts/s41/r32g2ga12r4b4r4w2r4b4r4ga12r2w2r24b2r2ga44r2b2r64b2r2ga44r2b2r22w2r2ba16r2w2r10ga12g2r8g2ga12r3w2r2ba10~b3c82af-ba2c4084-g309c18-ga002814-rdc0000-we0e0e0~x2/); [MacAlister (Cockburn Collection 1810-20)](/setts/s23/r32g8r4g8r8b8r12ba1r1g18r1ba1r32ba1r1g18r1ba1r12g6r1ba1r4~b2c4084-ba3c82af-g005020-rdc0000~x2/); [MacAlister (Smith 1850)](/setts/s44/r8g1ga2r2b1r1w1r1b1r2ga3r1w1r6b1r1ga12r1b1r16b1r1ga12r1b1r6w1r1ba4r1w1r2ga3g1r2g1ga3r3w1r1ba2r1w1r8~b5c8ca8-ba2c2c80-g289c18-ga006818-rc80000-we0e0e0~x2/); [MacAlister (Gourlay Steele Collection)](/setts/s30/r12g3y1r2y1g3r3b3r6ba1r1g8r1ba1r12ba1r1g8r1ba1r6g2r1ba1r2ba1r1g3y1r4~b2c4084-ba3c82af-g005020-rdc0000-ye8c000~x4/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacAlister (Logan 1831)](/setts/s41/r32g2dg12r4t4r4w2r4t4r4dg12r2w2r24t2r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/)
-
 
 ## Thread count
 R/32 G4 DG24 R8 B8 R8 LN4 R8 B8 R8 DG24 R4 LN2 R48 B2 R4 DG88 R4 B4 R128 B4 R4 DG88 R4 B4 R44 LN4 R4 DB32 R4 LN4 R20 DG24 G4 R16 G4 DG24 R6 LN4 R4 DB/20

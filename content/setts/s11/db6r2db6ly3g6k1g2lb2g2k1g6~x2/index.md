@@ -2,10 +2,9 @@
 title: "Presbyterian Synod (US) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GKGWGKGYBRB](/stripes/gkgwgkgybrb/) · **Stripes:** [G K G LB G K G LY DB R DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G K G LB G K G LY DB R DB</span></span>
+In pattern [BRBYGKGWGKG](/stripes/brbygkgwgkg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5485/
 

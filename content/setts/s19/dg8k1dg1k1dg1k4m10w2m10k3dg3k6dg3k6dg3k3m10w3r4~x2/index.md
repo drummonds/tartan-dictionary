@@ -2,10 +2,9 @@
 title: "Pride of Loch Leven (Fashion?)"
 date: 2023-03-18
 ---
-**Bands:** [RWRKGKGKGKRWRKGKGKG](/stripes/rwrkgkgkgkrwrkgkgkg/) · **Stripes:** [R W M K DG K DG K DG K M W M K DG K DG K DG](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R W M K DG K DG K DG K M W M K DG K DG K DG</span></span>
+In pattern [GKGKGKRWRKGKGKGKRWR](/stripes/gkgkgkrwrkgkgkgkrwr/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8296/
 

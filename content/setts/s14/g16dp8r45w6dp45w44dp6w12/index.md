@@ -2,10 +2,9 @@
 title: "Culloden Red Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWRBGBRWBWBW](/stripes/bwbwrbgbrwbwbw/) · **Stripes:** [DP W DP W R DP G DP R W DP W DP W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W DP W R DP G DP R W DP W DP W</span></span>
+In pattern [BWBWRBGBRWBWBW](/stripes/bwbwrbgbrwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=827
 

@@ -2,10 +2,9 @@
 title: "Buchanan, John & Isabella (Commemor)"
 date: 2023-03-18
 ---
-**Bands:** [RWBBYBBWBBYBBWR](/stripes/rwbbybbwbbybbwr/) · **Stripes:** [R W DB T LY T DB W DB T LY T DB W R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R W DB T LY T DB W DB T LY T DB W R</span></span>
+In pattern [RWBBYBBWBBYBBWR](/stripes/rwbbybbwbbybbwr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7351/
 

@@ -2,10 +2,9 @@
 title: "Polaris Military"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYKBKYGKBKBKB](/stripes/bkbkgykbkygkbkbkb/) · **Stripes:** [B K B K G LO K DB K LO G K B K B K B](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K G LO K DB K LO G K B K B K B</span></span>
+In pattern [BKBKBKGYKBKYGKBKB](/stripes/bkbkbkgykbkygkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3350
 

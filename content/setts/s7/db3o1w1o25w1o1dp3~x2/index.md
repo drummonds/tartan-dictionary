@@ -2,19 +2,11 @@
 title: "St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BRWRWRB](/stripes/brwrwrb/) · **Stripes:** [DB O W O W O DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB O W O W O DP</span></span>
+In pattern [BRWRWRB](/stripes/brwrwrb/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=387
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [St. Giles Check (Corporate)](/setts/s7/db3o1w1o25w1o1dp3~x4/)
-
 
 ## Thread count
 DB/6 N2 LN2 N50 LN2 N2 P/6

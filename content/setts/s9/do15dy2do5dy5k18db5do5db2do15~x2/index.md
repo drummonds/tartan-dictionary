@@ -2,10 +2,9 @@
 title: "Laois, County"
 date: 2023-03-18
 ---
-**Bands:** [BGBGKBBBB](/stripes/bgbgkbbbb/) · **Stripes:** [DO DY DO DY K DB DO DB DO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="seq">DO DY DO DY K DB DO DB DO</span></span>
+In pattern [BBBBKGBGB](/stripes/bbbbkgbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2049
 

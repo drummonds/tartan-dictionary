@@ -2,10 +2,9 @@
 title: "Denovan, The Lairdship of (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBGRGKRBRBBB](/stripes/gbgrgkrbrbbb/) · **Stripes:** [G DP G R G K R DB R DB DP DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">G DP G R G K R DB R DB DP DB</span></span>
+In pattern [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=916
 

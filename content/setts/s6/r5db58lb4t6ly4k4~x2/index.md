@@ -2,10 +2,9 @@
 title: "Kendle (2013)"
 date: 2023-03-18
 ---
-**Bands:** [KYBWBR](/stripes/kybwbr/) · **Stripes:** [K LY T LB DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LY T LB DB R</span></span>
+In pattern [KYBWBR](/stripes/kybwbr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10932/
 

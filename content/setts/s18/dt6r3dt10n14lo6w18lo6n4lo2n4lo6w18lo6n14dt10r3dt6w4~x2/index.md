@@ -2,10 +2,9 @@
 title: "Gray, Hamilton John"
 date: 2023-03-18
 ---
-**Bands:** [BRBBYWYBYBYWYBBRBW](/stripes/brbbywybybywybbrbw/) · **Stripes:** [DT R DT N LO W LO N LO N LO W LO N DT R DT W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT R DT N LO W LO N LO N LO W LO N DT R DT W</span></span>
+In pattern [BRBBYWYBYBYWYBBRBW](/stripes/brbbywybybywybbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1519
 

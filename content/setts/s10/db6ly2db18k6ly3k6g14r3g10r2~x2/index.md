@@ -2,19 +2,11 @@
 title: "MacMillan Hunting Clan Tartan Tartan Number: 668. Earliest known date: 1906 The Setts No: 160. W & A K Johnston See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKYKBYB](/stripes/rgrgkykbyb/) · **Stripes:** [R G R G K LY K DB LY DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R G K LY K DB LY DB</span></span>
+In pattern [BYBKYKGRGR](/stripes/bybkykgrgr/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=668
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacMillan, hunting](/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/)
-
 
 ## Thread count
 DB/12 Y4 DB36 K12 Y6 K12 G28 R6 G20 R/4

@@ -2,10 +2,9 @@
 title: "MacKinnon"
 date: 2023-03-18
 ---
-**Bands:** [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/) · **Stripes:** [DP R DG DB R DG R DB DG R DG DP R LB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DP R DG DB R DG R DB DG R DG DP R LB</span></span>
+In pattern [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

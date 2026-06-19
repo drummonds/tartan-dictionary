@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gggggggggykgkgky/
 ---
-GGGGGGGGGYKGKGKY
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-GGGGGGGGGYKGKGKY
+
+{{< pat "GGGGGGGGGYKGKGKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K G K DG K LR G DG G DG G DG G DG G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K G K DG K LR G DG G DG G DG G DG G</span></span>
 
 | Tartans |
 |---------------|
 | [Hanly](/setts/s16/g2dg2g3dg2g2dg2g2dg3g2lr2k9dg26k5g7k2ly2~x2/)|
 |![Hanly example sett](/setts/s16/g2dg2g3dg2g2dg2g2dg3g2lr2k9dg26k5g7k2ly2~x2/sett.png)|
-

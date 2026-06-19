@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gyrbgbrgrgrbr/
 ---
-GYRBGBRGRGRBR
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-GYRBGBRGRGRBR
+
+{{< pat "GYRBGBRGRGRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R P O G R G O P G P O LY G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R P O G R G O P G P O LY G</span></span>
 
 | Tartans |
 |---------------|
 | [Sarna](/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/)|
 |![Sarna example sett](/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/sett.png)|
-

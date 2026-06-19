@@ -2,10 +2,9 @@
 title: "Stewart/Stuart of Galloway (Wilsons)"
 date: 2023-03-18
 ---
-**Bands:** [RGKYKWKGRGYGRGKWKYKGRG](/stripes/rgkykwkgrgygrgkwkykgrg/) · **Stripes:** [R Y K LY K W K DG R DG LY DG R DG K W K LY K Y R DG](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R Y K LY K W K DG R DG LY DG R DG K W K LY K Y R DG</span></span>
+In pattern [GRGKYKWKGRGYGRGKWKYKGR](/stripes/grgkykwkgrgygrgkwkykgr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3953
 

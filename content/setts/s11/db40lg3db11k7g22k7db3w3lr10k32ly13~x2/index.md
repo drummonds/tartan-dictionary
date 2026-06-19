@@ -2,10 +2,9 @@
 title: "Aurora House Check"
 date: 2023-03-18
 ---
-**Bands:** [YKYWBKGKBYB](/stripes/ykywbkgkbyb/) · **Stripes:** [LY K LR W DB K G K DB LG DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K LR W DB K G K DB LG DB</span></span>
+In pattern [BYBKGKBWYKY](/stripes/bybkgkbwyky/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11514
 

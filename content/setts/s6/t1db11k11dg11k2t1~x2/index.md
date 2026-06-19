@@ -2,10 +2,9 @@
 title: "Unidentified No 59"
 date: 2023-03-18
 ---
-**Bands:** [BKGKBB](/stripes/bkgkbb/) · **Stripes:** [T K DG K DB T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K DG K DB T</span></span>
+In pattern [BBKGKB](/stripes/bbkgkb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4329
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4329](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4329)
 - Scottish Tartans World Register: 53
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Murray](/setts/s6/t3k16dg16k16db3t3~x2/)
-
 
 ## Thread count
 B/2 Ba22 K22 G22 K4 B/2

@@ -1,0 +1,56 @@
+{{ define "main" }}
+{{/* The logo→tartan matcher at /logo/: a short intro from content/logo/_index.md, then the tool
+     itself — drop a logo, get the closest existing tartans. logoweaver.js boots the cmd/wasmlogo
+     engine and loads the match corpus lazily on the first logo, so reading the intro costs no JS. */}}
+<article class="post" id="logoweaver-app">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    {{ .Content }}
+
+    <div id="logo-drop" class="logo-drop" tabindex="0" role="button"
+         aria-label="Choose or drop a logo image">
+      <input id="logo-file" type="file" accept="image/png,image/jpeg" hidden>
+      <p>Drop a logo here, or click to choose a <strong>PNG</strong> or <strong>JPEG</strong>.</p>
+      <p class="logo-drop-note">It is read in your browser — nothing is uploaded.</p>
+    </div>
+    <div id="logo-preview" class="logo-preview"></div>
+    <p id="logo-status"></p>
+    <div id="logo-analysis"></div>
+    <div id="logo-generated"></div>
+    <div id="logo-results"></div>
+
+    <noscript><p>The matcher needs JavaScript. With it off, find tartans by name with the
+      search box above, or explore the <a href="/ttd/">TTD navigator</a>.</p></noscript>
+  </div>
+</article>
+
+<style>
+  .logo-drop { border: 2px dashed #1a4f8b; border-radius: .5em; padding: 1.6em 1em; margin: 1.4em 0;
+    text-align: center; cursor: pointer; background: #1a4f8b08; }
+  .logo-drop--over, .logo-drop:hover { background: #1a4f8b18; }
+  .logo-drop p { margin: .3em 0; }
+  .logo-drop-note { color: #666; font-size: .9rem; }
+  .logo-preview img { max-width: 220px; max-height: 220px; border: 1px solid #0002; border-radius: .25em;
+    margin: .6em 0; }
+  .logo-hits { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 1rem;
+    margin: 1.2em 0; }
+  .logo-hit { display: block; text-decoration: none; color: inherit; border: 1px solid #0002;
+    border-radius: .35em; padding: .5em; }
+  .logo-hit:hover { outline: 2px solid #1a4f8b; }
+  .logo-hit--top { border-color: #1a4f8b; box-shadow: 0 0 0 1px #1a4f8b; }
+  .logo-hit img { display: block; width: 100%; height: 3.4rem; object-fit: cover; border-radius: .2em; }
+  .logo-hit-name { display: block; margin-top: .4rem; font-weight: 600; font-size: .92rem; }
+  .logo-hit-meta { display: block; color: #555; font-size: .82rem; }
+  .logo-gen { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem;
+    margin: 1.2em 0; }
+  .logo-gen-card { border: 1px solid #0002; border-radius: .35em; padding: .6em; }
+  .logo-gen-card canvas { display: block; width: 100%; height: 56px; border-radius: .2em; border: 1px solid #0001; }
+  .logo-gen-title { display: block; margin: .45rem 0 .1rem; font-weight: 600; font-size: .9rem; }
+  .logo-gen-tc { display: block; color: #555; font-size: .78rem; font-family: monospace; word-break: break-all; }
+  .logo-gen-links { margin-top: .35rem; font-size: .85rem; }
+  .logo-gen-links a { margin-right: .8em; }
+</style>
+<script src="{{ "js/logoweaver.js" | relURL }}" defer></script>
+{{ end }}

@@ -2,10 +2,9 @@
 title: "Glen Burns (WCWM - 1)"
 date: 2023-03-18
 ---
-**Bands:** [RKRBRBRBRBRKRBRBRBRB](/stripes/rkrbrbrbrbrkrbrbrbrb/) · **Stripes:** [O K O N O N O N O N O K O N O N O N O N](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">O K O N O N O N O N O K O N O N O N O N</span></span>
+In pattern [BRBRBRBRKRBRBRBRBRKR](/stripes/brbrbrbrkrbrbrbrbrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1367
 

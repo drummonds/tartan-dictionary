@@ -2,10 +2,9 @@
 title: "Menzies Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRG](/stripes/rgrgrgrg/) · **Stripes:** [R DG R DG R DG R DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG R DG R DG</span></span>
+In pattern [GRGRGRGR](/stripes/grgrgrgr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -47,14 +46,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [KaDeWe](/setts/s8/r100dg4r8dg18r3~x2/)
-- [Menzies Hunting](/setts/s8/dg48r4dg2r4dg6r2dg3r9~x2/)
-
 
 ## Thread count
 G/48 R4 G2 R4 G6 R2 G3 R/9

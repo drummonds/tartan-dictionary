@@ -2,10 +2,9 @@
 title: "Episcopal Clergy (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRGKWKRGRGR](/stripes/krgkwkrgrgr/) · **Stripes:** [K R G K LB K R G R G R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R G K LB K R G R G R</span></span>
+In pattern [KRGKWKRGRGR](/stripes/krgkwkrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4816/
 

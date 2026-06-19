@@ -2,10 +2,9 @@
 title: "Kagame (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWKKGKGKBW](/stripes/kwkkgkgkbw/) · **Stripes:** [K LB K K G K G K DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LB K K G K G K DB W</span></span>
+In pattern [KWKKGKGKBW](/stripes/kwkkgkgkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1926
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1926](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1926)
 - Scottish Tartans Authority (ITI): 7077
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Kagame Personal Tartan Tartan Number: 7077. Earliest known date: 2006 Presented to President Kagame of Rwanda, by Tom Hunter, christmas 2006 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k4lb14k3k7g3k3g7k6db24w3~x2/)
-
 
 ## Thread count
 YY/10 LB28 K6 YY14 G6 K6 G14 K12 DBa48 LN/6

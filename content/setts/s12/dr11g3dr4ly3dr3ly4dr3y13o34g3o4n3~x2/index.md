@@ -2,10 +2,9 @@
 title: "Harmony 1"
 date: 2023-03-18
 ---
-**Bands:** [BRGRGBYBYBGB](/stripes/brgrgbybybgb/) · **Stripes:** [N O G O Y DR LY DR LY DR G DR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="seq">N O G O Y DR LY DR LY DR G DR</span></span>
+In pattern [BGBYBYBGRGRB](/stripes/bgbybybgrgrb/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

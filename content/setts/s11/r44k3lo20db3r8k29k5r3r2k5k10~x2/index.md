@@ -2,10 +2,9 @@
 title: "U.S. Air Force Reserve P. B. (Corpor"
 date: 2023-03-18
 ---
-**Bands:** [KKRRKKRBYKR](/stripes/kkrrkkrbykr/) · **Stripes:** [K K R R K K R DB LO K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K K R R K K R DB LO K R</span></span>
+In pattern [KKRRKKRBYKR](/stripes/kkrrkkrbykr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2437/
 

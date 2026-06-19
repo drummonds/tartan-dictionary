@@ -2,10 +2,9 @@
 title: "Vine (2015)"
 date: 2023-03-18
 ---
-**Bands:** [GKRBBGBRWKRW](/stripes/gkrbbgbrwkrw/) · **Stripes:** [DG K M DB B DG DB M LB K M LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG K M DB B DG DB M LB K M LB</span></span>
+In pattern [GKRBBGBRWKRW](/stripes/gkrbbgbrwkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11373
 

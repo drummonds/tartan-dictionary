@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/rgbkbkgkbky/
 ---
-RGBKBKGKBKY
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-RGBKBKGKBKY
+
+{{< pat "RGBKBKGKBKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R G DB K B K G K B K LO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R G DB K B K G K B K LO</span></span>
 
 | Tartans |
 |---------------|
 | [Nairn (Edinburgh Woollen Mill)](/setts/s11/r2g10db10k5b2k5g10k10b2k10lo2~x2/)|
 |![Nairn (Edinburgh Woollen Mill) example sett](/setts/s11/r2g10db10k5b2k5g10k10b2k10lo2~x2/sett.png)|
-

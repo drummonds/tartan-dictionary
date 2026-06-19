@@ -2,10 +2,9 @@
 title: "Glen Boig"
 date: 2023-03-18
 ---
-**Bands:** [RBGRG](/stripes/rbgrg/) · **Stripes:** [O DR G O G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O DR G O G</span></span>
+In pattern [GRGBR](/stripes/grgbr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

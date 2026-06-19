@@ -2,10 +2,9 @@
 title: "Amble (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKBKBKBBRKBKB](/stripes/rkbkbkbkbbrkbkb/) · **Stripes:** [O K DB K DB K DO K DB DO O K DO K DO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">O K DB K DB K DO K DB DO O K DO K DO</span></span>
+In pattern [BKBKRBBKBKBKBKR](/stripes/bkbkrbbkbkbkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10280/
 

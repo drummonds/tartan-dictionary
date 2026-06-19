@@ -2,10 +2,9 @@
 title: "MacKintosh Hunting"
 date: 2023-03-18
 ---
-**Bands:** [YGBRGRB](/stripes/ygbrgrb/) · **Stripes:** [LY G DB R G R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G DB R G R DB</span></span>
+In pattern [BRGRBGY](/stripes/brgrbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2574
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2574](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2574)
 - Scottish Tartans Authority (ITI): 544
 - Scottish Tartans World Register: 544
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKintosh, hunting](/setts/s7/db1r3g11r2db5g11ly1~x2/)
-
 
 ## Thread count
 Y/4 G24 DB12 R6 G24 R8 DB/2

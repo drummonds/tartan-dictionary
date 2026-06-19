@@ -2,10 +2,9 @@
 title: "AIS Group"
 date: 2023-03-18
 ---
-**Bands:** [KBWBWBBBBBWBBBW](/stripes/kbwbwbbbbbwbbbw/) · **Stripes:** [K DT LT DT W DT DB DT T DT W DT DB DT LT](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">K DT LT DT W DT DB DT T DT W DT DB DT LT</span></span>
+In pattern [KBWBWBBBBBWBBBW](/stripes/kbwbwbbbbbwbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11303
 

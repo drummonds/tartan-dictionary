@@ -2,10 +2,9 @@
 title: "Gudbrandsdalen of Mannsdrakt"
 date: 2023-03-18
 ---
-**Bands:** [RYRBGRBGRGBRGBRG](/stripes/ryrbgrbgrgbrgbrg/) · **Stripes:** [R LR R DO DG R DO DG R DG DO R DG DO R DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R LR R DO DG R DO DG R DG DO R DG DO R DG</span></span>
+In pattern [GRBGRBGRGBRGBRYR](/stripes/grbgrbgrgbrgbryr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1555
 

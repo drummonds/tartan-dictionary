@@ -2,10 +2,9 @@
 title: "American Bi-Centennial"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRWRKBBWBB](/stripes/rwrwrwrkbbwbb/) · **Stripes:** [R W R W R W R K DB T W T DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R W R W R K DB T W T DB</span></span>
+In pattern [BBWBBKRWRWRWR](/stripes/bbwbbkrwrwrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=67
 

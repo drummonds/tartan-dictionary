@@ -2,10 +2,9 @@
 title: "Nova Scotia Dress #2"
 date: 2023-03-18
 ---
-**Bands:** [RYGBGBGYGYGBGBGY](/stripes/rygbgbgygygbgbgy/) · **Stripes:** [R LY G DB G DB G LR G LR G DB G DB G LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LY G DB G DB G LR G LR G DB G DB G LY</span></span>
+In pattern [RYGBGBGYGYGBGBGY](/stripes/rygbgbgygygbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3204
 

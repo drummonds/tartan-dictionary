@@ -2,19 +2,11 @@
 title: "Fraser, Isabella (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [GRBRGRGRBRBRG](/stripes/grbrgrgrbrbrg/) · **Stripes:** [G R DB R G R G R DB R DB R G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R DB R G R G R DB R DB R G</span></span>
+In pattern [GRBRBRGRGRBRG](/stripes/grbrbrgrgrbrg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/837/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fraser, Wedding dress](/setts/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/)
-
 
 ## Thread count
 G/2 R3 DB2 R48 DB60 R21 G2 R21 G60 R48 DB2 R3 G/2

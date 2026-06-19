@@ -2,10 +2,9 @@
 title: "MacDonald Pattern of Plaids"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/) · **Stripes:** [DB R DB R DB R K W R W R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB R DB R K W R W R W</span></span>
+In pattern [BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2375
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald Dress (Irish)](/setts/s12/db17r42db2r5db29r2k31w29r5w2r2w17/)
-
 
 ## Thread count
 B/16 R4 B6 R10 B30 R4 K30 LN34 R9 LN6 R4 LN/16

@@ -2,10 +2,9 @@
 title: "Cooper Dress (Dalgliesh #1) (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [RBWBKBGWBWKBWBWRWB](/stripes/rbwbkbgwbwkbwbwrwb/) · **Stripes:** [R DB LP DB K DB G LP DB LP K DB W DB W R LP DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LP DB K DB G LP DB LP K DB W DB W R LP DB</span></span>
+In pattern [BWRWBWBKWBWGBKBWBR](/stripes/bwrwbwbkwbwgbkbwbr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/75/
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cooper Dress (Dalgliesh #1)](/setts/s18/r23db2lp3db21k1db1g9lp3db2lp3k10db3w2db3w26r2lp4db2~x2/)
-
 
 ## Thread count
 DB/4 LP8 R4 W52 DB6 W4 DB6 K20 LP6 DB4 LP6 G18 DB2 K2 DB42 LP6 DB4 R/4

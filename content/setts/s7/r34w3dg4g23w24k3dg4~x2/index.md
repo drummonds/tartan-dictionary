@@ -2,10 +2,9 @@
 title: "MacLachlan, dress"
 date: 2023-03-18
 ---
-**Bands:** [RWGGWKG](/stripes/rwggwkg/) · **Stripes:** [R W DG G W K DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R W DG G W K DG</span></span>
+In pattern [GKWGGWR](/stripes/gkwggwr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

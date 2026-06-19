@@ -2,10 +2,9 @@
 title: "Thormanby Buccaneer Bay"
 date: 2023-03-18
 ---
-**Bands:** [YGKGKGKBRBKGKGKG](/stripes/ygkgkgkbrbkgkgkg/) · **Stripes:** [LO DG K DG K DG K DB R DB K DG K DG K DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG K DG K DG K DB R DB K DG K DG K DG</span></span>
+In pattern [GKGKGKBRBKGKGKGY](/stripes/gkgkgkbrbkgkgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10238
 

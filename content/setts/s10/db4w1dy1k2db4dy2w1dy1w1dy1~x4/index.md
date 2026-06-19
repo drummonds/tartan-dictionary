@@ -2,10 +2,9 @@
 title: "City of Pointe-Claire (District)"
 date: 2023-03-18
 ---
-**Bands:** [GWGWGBKGWB](/stripes/gwgwgbkgwb/) · **Stripes:** [DY W DY W DY DB K DY W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DY W DY W DY DB K DY W DB</span></span>
+In pattern [BWGKBGWGWG](/stripes/bwgkbgwgwg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10509/
 

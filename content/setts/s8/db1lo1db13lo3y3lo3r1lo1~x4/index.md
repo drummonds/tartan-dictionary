@@ -2,10 +2,9 @@
 title: "Glen Moray"
 date: 2023-03-18
 ---
-**Bands:** [YRYGYBYB](/stripes/yrygybyb/) · **Stripes:** [LO R LO Y LO DB LO DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">LO R LO Y LO DB LO DB</span></span>
+In pattern [BYBYGYRY](/stripes/bybygyry/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1385
 

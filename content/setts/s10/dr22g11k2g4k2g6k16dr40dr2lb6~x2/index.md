@@ -2,10 +2,9 @@
 title: "Stewart of Bute Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGKGKGKBBW](/stripes/bgkgkgkbbw/) · **Stripes:** [DR G K G K G K DR DR LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DR G K G K G K DR DR LB</span></span>
+In pattern [BGKGKGKBBW](/stripes/bgkgkgkbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3938
 

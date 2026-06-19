@@ -2,10 +2,9 @@
 title: "MacDonald of Denovan Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRKGRGBG](/stripes/grgrgrkgrgbg/) · **Stripes:** [G R G R G R K DG R DG DP DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">G R G R G R K DG R DG DP DG</span></span>
+In pattern [GBGRGKRGRGRG](/stripes/gbgrgkrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3278/
 

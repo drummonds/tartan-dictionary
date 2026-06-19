@@ -2,10 +2,9 @@
 title: "Unidentified Flora MacDonald"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGRGKBRBKBKW](/stripes/ykgrgrgkbrbkbkw/) · **Stripes:** [LY K DG R DG R DG K DB R DB K DB K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K DG R DG R DG K DB R DB K DB K W</span></span>
+In pattern [WKBKBRBKGRGRGKY](/stripes/wkbkbrbkgrgrgky/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4294
 

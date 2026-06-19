@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gbyygyr/
 ---
-GBYYGYR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/g2db14lg6lr1g1lr6r1~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GBYYGYR
+
+{{< pat "GBYYGYR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R LR G LR LG DB G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LR G LR LG DB G</span></span>
 
 | Tartans |
 |---------------|
 | [Loch Ness in Scotland](/setts/s7/g2db14lg6lr1g1lr6r1~x4/)|
 |![Loch Ness in Scotland example sett](/setts/s7/g2db14lg6lr1g1lr6r1~x4/sett.png)|
-

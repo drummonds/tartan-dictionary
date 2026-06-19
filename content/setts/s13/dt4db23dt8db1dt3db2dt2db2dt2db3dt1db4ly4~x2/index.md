@@ -2,10 +2,9 @@
 title: "Hawick Common Riding (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBBBBBBB](/stripes/ybbbbbbbbbbbb/) · **Stripes:** [LY DB DT DB DT DB DT DB DT DB DT DB DT](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">LY DB DT DB DT DB DT DB DT DB DT DB DT</span></span>
+In pattern [BBBBBBBBBBBBY](/stripes/bbbbbbbbbbbby/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10601/
 

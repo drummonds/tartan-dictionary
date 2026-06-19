@@ -2,10 +2,9 @@
 title: "Washington State University Cougar"
 date: 2023-03-18
 ---
-**Bands:** [RWBRRWB](/stripes/rwbrrwb/) · **Stripes:** [M LB N O M LB N](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">M LB N O M LB N</span></span>
+In pattern [BWRRBWR](/stripes/bwrrbwr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10831/
 

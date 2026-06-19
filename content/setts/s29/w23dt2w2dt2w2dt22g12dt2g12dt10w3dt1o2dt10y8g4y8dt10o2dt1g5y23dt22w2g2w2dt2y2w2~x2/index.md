@@ -2,10 +2,9 @@
 title: "House of Timber Wolf (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WGBWGWBGGBRBGGGBRBWBGBGBWBWBW](/stripes/wgbwgwbggbrbgggbrbwbgbgbwbwbw/) · **Stripes:** [W Y DT W G W DT Y G DT O DT Y G Y DT O DT W DT G DT G DT W DT W DT W](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W Y DT W G W DT Y G DT O DT Y G Y DT O DT W DT G DT G DT W DT W DT W</span></span>
+In pattern [WBWBWBGBGBWBRBGGGBRBGGBWGWBGW](/stripes/wbwbwbgbgbwbrbgggbrbggbwgwbgw/).
 
-
-This was sourced from tartans-authority.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8527/
 

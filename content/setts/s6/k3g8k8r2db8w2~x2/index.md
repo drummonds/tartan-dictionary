@@ -2,21 +2,11 @@
 title: "Mitchell Family Tartan Tartan Number: 2142. Earliest known date: 1816-20 Named in honour of General Billy Mitchell when it was adopted as the tartan of the United States Air Force pipe band. The sett is also known as Russell, Hunter and Galbraith. The earliest reference to the tartan is in the collection of the Highland Society of London where it is labelled Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGKRBW](/stripes/kgkrbw/) · **Stripes:** [K G K R DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K G K R DB W</span></span>
+In pattern [KGKRBW](/stripes/kgkrbw/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2142
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Galbraith](/setts/s6/k2g17k16r2db17w2~x2/)
-- [Russell (Clan)](/setts/s6/k3g10k10r3db8w3~x2/)
-- [Russell, or Mitchell or Hunter or Galbraith](/setts/s6/k2g12k12r1db12w2~x2/)
-
 
 ## Thread count
 K/6 G16 K16 R4 DB16 LN/4

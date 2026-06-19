@@ -2,10 +2,9 @@
 title: "Haig Check"
 date: 2023-03-18
 ---
-**Bands:** [BWKWKWKWKWKWKWB](/stripes/bwkwkwkwkwkwkwb/) · **Stripes:** [B W K W K W K W K W K W K W B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B W K W K W K W K W K W K W B</span></span>
+In pattern [BWKWKWKWKWKWKWB](/stripes/bwkwkwkwkwkwkwb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1569
 

@@ -2,10 +2,9 @@
 title: "Keppoch"
 date: 2023-03-18
 ---
-**Bands:** [KGKGBGW](/stripes/kgkgbgw/) · **Stripes:** [K G K G DB G W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K G K G DB G W</span></span>
+In pattern [KGKGBGW](/stripes/kgkgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1951
 

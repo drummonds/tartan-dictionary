@@ -2,10 +2,9 @@
 title: "Heather (NSPCC) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GBBWBWRWB](/stripes/gbbwbwrwb/) · **Stripes:** [G DP DP LB DP LB O LB DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">G DP DP LB DP LB O LB DB</span></span>
+In pattern [BWRWBWBBG](/stripes/bwrwbwbbg/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2108/
 

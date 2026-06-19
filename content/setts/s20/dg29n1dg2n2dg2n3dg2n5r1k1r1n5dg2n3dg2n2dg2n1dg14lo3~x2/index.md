@@ -2,10 +2,9 @@
 title: "Murphy and his Gang (Phoenix Arizona) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGBGBGBGBRKRBGBGBGBG](/stripes/ygbgbgbgbrkrbgbgbgbg/) · **Stripes:** [LO DG N DG N DG N DG N R K R N DG N DG N DG N DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG N DG N DG N DG N R K R N DG N DG N DG N DG</span></span>
+In pattern [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10419
 

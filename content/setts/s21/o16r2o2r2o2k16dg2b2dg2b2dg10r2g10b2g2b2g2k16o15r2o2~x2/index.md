@@ -2,10 +2,9 @@
 title: "Cherry Valley New York"
 date: 2023-03-18
 ---
-**Bands:** [RRRKGBGBGRGBGBGKRRRRR](/stripes/rrrkgbgbgrgbgbgkrrrrr/) · **Stripes:** [O R O K G B G B G R DG B DG B DG K O R O R O](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O R O K G B G B G R DG B DG B DG K O R O R O</span></span>
+In pattern [RRRKGBGBGRGBGBGKRRRRR](/stripes/rrrkgbgbgrgbgbgkrrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=628
 

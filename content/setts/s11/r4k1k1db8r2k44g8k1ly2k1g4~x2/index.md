@@ -2,10 +2,9 @@
 title: "Marsa Scout Group"
 date: 2023-03-18
 ---
-**Bands:** [RKKBRKGKYKG](/stripes/rkkbrkgkykg/) · **Stripes:** [R K K DB R K G K LY K G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K K DB R K G K LY K G</span></span>
+In pattern [GKYKGKRBKKR](/stripes/gkykgkrbkkr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10585/
 

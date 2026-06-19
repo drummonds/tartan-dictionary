@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbkbrkrkrbkgkg/
 ---
-BKBKBRKRKRBKGKG
-
-It is a 15 band tartan.
+It is a 15 stripe tartan.
 
 
 
 ## Colour Sequence
-BKBKBRKRKRBKGKG
+
+{{< pat "BKBKBRKRKRBKGKG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DG K DG K DT O K R K O DT K DT K DT <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">DG K DG K DT O K R K O DT K DT K DT</span></span>
 
 | Tartans |
 |---------------|
 | [Doyel (Name)](/setts/s15/dg38k3dg3k3dt6o1k2r2k2o1dt6k3dt3k3dt19~x2/)|
 |![Doyel (Name) example sett](/setts/s15/dg38k3dg3k3dt6o1k2r2k2o1dt6k3dt3k3dt19~x2/sett.png)|
-

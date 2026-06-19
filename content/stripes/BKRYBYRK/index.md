@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkrybyrk/
 ---
-BKRYBYRK
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/n11k4r4lo4n11~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BKRYBYRK
+
+{{< pat "BKRYBYRK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K R LO N LO R K N <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K R LO N LO R K N</span></span>
 
 | Tartans |
 |---------------|
 | [Ikelman #3 (Personal)](/setts/s8/n11k4r4lo4n11~x4/)|
 |![Ikelman #3 (Personal) example sett](/setts/s8/n11k4r4lo4n11~x4/sett.png)|
-

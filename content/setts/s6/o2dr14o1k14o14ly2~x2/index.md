@@ -2,10 +2,9 @@
 title: "United Distillers"
 date: 2023-03-18
 ---
-**Bands:** [RBRKRY](/stripes/rbrkry/) · **Stripes:** [O DR O K O LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O DR O K O LY</span></span>
+In pattern [RBRKRY](/stripes/rbrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4397
 

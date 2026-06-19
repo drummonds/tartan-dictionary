@@ -2,10 +2,9 @@
 title: "Aquascutum"
 date: 2023-03-18
 ---
-**Bands:** [RWB](/stripes/rwb/) · **Stripes:** [R W DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R W DB</span></span>
+In pattern [BWR](/stripes/bwr/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8978/
 

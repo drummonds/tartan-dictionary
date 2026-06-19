@@ -2,10 +2,9 @@
 title: "MacKinlay"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKRKGKBKBKB](/stripes/bkbkgkrkgkbkbkb/) · **Stripes:** [DB K DB K G K R K G K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G K R K G K DB K DB K DB</span></span>
+In pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,15 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKinlay (2/4 black stripes)](/setts/s15/db12k4db4k4db4k12g16k2r3k2g16k12db16k4db4/)
-- [Safeway](/setts/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/)
-- [Safeway](/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/)
-
 
 ## Thread count
 B/12 K4 B4 K4 B4 K12 G16 K2 R4 K2 G16 K12 B16 K4 B/4

@@ -2,10 +2,9 @@
 title: "Dundee Green"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGRGYG](/stripes/ygrgrgrgyg/) · **Stripes:** [LR G R G R G R G LR G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR G R G R G R G LR G</span></span>
+In pattern [GYGRGRGRGY](/stripes/gygrgrgrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1036
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1036](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1036)
 - Scottish Tartans Authority (ITI): 2065
 - Scottish Tartans World Register: 2065
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dundee, Green (Fashion)](/setts/s10/g3lr2g3r1g6r3g3r1g2lr3~x4/)
-
 
 ## Thread count
 G/12 N8 G12 DR4 G24 DR12 G12 DR4 G12 N/8

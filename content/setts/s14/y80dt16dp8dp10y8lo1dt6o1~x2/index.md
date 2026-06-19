@@ -2,10 +2,9 @@
 title: "Heather Isle"
 date: 2023-03-18
 ---
-**Bands:** [GBBBGYBRBYGBBB](/stripes/gbbbgybrbygbbb/) · **Stripes:** [Y DT DP DP Y LO DT O DT LO Y DP DP DT](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="seq">Y DT DP DP Y LO DT O DT LO Y DP DP DT</span></span>
+In pattern [BBBGYBRBYGBBBG](/stripes/bbbgybrbygbbbg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1647
 

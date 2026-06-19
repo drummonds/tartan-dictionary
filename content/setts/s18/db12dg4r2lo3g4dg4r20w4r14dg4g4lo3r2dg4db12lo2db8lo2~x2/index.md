@@ -2,10 +2,9 @@
 title: "Béguinot, Stéphane (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBGRYGGRWRGGYRGB](/stripes/ybybgryggrwrggyrgb/) · **Stripes:** [LO DB LO DB DG R LO G DG R W R DG G LO R DG DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB LO DB DG R LO G DG R W R DG G LO R DG DB</span></span>
+In pattern [BGRYGGRWRGGYRGBYBY](/stripes/bgryggrwrggyrgbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10540
 

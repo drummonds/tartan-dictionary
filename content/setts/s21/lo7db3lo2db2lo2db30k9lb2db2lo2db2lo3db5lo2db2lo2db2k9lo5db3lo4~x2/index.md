@@ -2,10 +2,9 @@
 title: "Blue Matheson Hunting (Kinloch Anderson)"
 date: 2023-03-18
 ---
-**Bands:** [YBYKBYBYBYBYBWKBYBYBY](/stripes/ybykbybybybybwkbybyby/) · **Stripes:** [LO DB LO K DB LO DB LO DB LO DB LO DB LB K DB LO DB LO DB LO](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DB LO K DB LO DB LO DB LO DB LO DB LB K DB LO DB LO DB LO</span></span>
+In pattern [YBYBYBKWBYBYBYBYBKYBY](/stripes/ybybybkwbybybybybkyby/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5272
 

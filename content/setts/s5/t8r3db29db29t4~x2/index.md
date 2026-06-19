@@ -2,10 +2,9 @@
 title: "Bryson"
 date: 2023-03-18
 ---
-**Bands:** [BRBBB](/stripes/brbbb/) · **Stripes:** [T R DB DB T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R DB DB T</span></span>
+In pattern [BBBRB](/stripes/bbbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=409
 

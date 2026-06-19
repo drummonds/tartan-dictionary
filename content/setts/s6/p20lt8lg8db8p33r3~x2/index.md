@@ -2,10 +2,9 @@
 title: "McIntosh, Stuart (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBBYWB](/stripes/rbbywb/) · **Stripes:** [R P DB LG LT P](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R P DB LG LT P</span></span>
+In pattern [BWYBBR](/stripes/bwybbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10215
 

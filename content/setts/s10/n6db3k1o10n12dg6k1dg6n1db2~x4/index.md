@@ -2,10 +2,9 @@
 title: "Berkshire #2"
 date: 2023-03-18
 ---
-**Bands:** [BBKRBGKGBB](/stripes/bbkrbgkgbb/) · **Stripes:** [N DB K O N DG K DG N DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="seq">N DB K O N DG K DG N DB</span></span>
+In pattern [BBGKGBRKBB](/stripes/bbgkgbrkbb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5373
 

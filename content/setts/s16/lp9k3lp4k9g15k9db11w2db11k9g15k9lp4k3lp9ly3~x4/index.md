@@ -2,10 +2,9 @@
 title: "Hoban (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YWKWKGKBWBKGKWKW](/stripes/ywkwkgkbwbkgkwkw/) · **Stripes:** [LY LP K LP K G K DB W DB K G K LP K LP](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">LY LP K LP K G K DB W DB K G K LP K LP</span></span>
+In pattern [WKWKGKBWBKGKWKWY](/stripes/wkwkgkbwbkgkwkwy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1740
 

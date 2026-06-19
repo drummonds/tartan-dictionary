@@ -2,10 +2,9 @@
 title: "Thomson, Reona Ellen (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRBW](/stripes/bkbkrbw/) · **Stripes:** [DP K N K M DP W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP K N K M DP W</span></span>
+In pattern [BKBKRBW](/stripes/bkbkrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11249
 

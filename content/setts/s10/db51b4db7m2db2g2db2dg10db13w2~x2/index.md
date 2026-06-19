@@ -2,10 +2,9 @@
 title: "Visit Scotland"
 date: 2023-03-18
 ---
-**Bands:** [BBBRBGBGBW](/stripes/bbbrbgbgbw/) · **Stripes:** [DB B DB M DB G DB DG DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB B DB M DB G DB DG DB W</span></span>
+In pattern [BBBRBGBGBW](/stripes/bbbrbgbgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4469
 

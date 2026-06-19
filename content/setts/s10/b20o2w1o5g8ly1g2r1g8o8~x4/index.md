@@ -2,10 +2,9 @@
 title: "Connecticut, State of"
 date: 2023-03-18
 ---
-**Bands:** [RGRGYGRWRB](/stripes/rgrgygrwrb/) · **Stripes:** [O G R G LY G O W O B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="seq">O G R G LY G O W O B</span></span>
+In pattern [BRWRGYGRGR](/stripes/brwrgygrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=744
 

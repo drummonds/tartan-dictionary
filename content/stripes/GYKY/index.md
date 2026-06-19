@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gyky/
 ---
-GYKY
-
-It is a 4 band tartan.
+It is a 4 stripe tartan.
 
 ![Woven sample](/setts/s4/k6ly1g6~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GYKY
+
+{{< pat "GYKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K LY G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K LY G</span></span>
 
 | Tartans |
 |---------------|
 | [Wilson's No.197](/setts/s4/k6ly1g6~x4/)|
 |![Wilson's No.197 example sett](/setts/s4/k6ly1g6~x4/sett.png)|
-

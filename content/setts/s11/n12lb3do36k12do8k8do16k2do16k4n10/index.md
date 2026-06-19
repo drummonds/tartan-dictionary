@@ -2,10 +2,9 @@
 title: "Bute Heather, Midnight"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBWB](/stripes/bkbkbkbkbwb/) · **Stripes:** [N K DO K DO K DO K DO LB N](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">N K DO K DO K DO K DO LB N</span></span>
+In pattern [BKBKBKBKBWB](/stripes/bkbkbkbkbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5896
 

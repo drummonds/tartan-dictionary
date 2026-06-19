@@ -4,21 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/rbrbybrgr/
 ---
-RBRBYBRGR
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-RBRBYBRGR
+
+{{< pat "RBRBYBRGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG R DB LR DB R DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DB LR DB R DB R</span></span>
 
 | Tartans |
 |---------------|
@@ -26,4 +21,3 @@ RBRBYBRGR
 |![Cameron of Locheil example sett](/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/sett.png)|
 | [Cameron of Locheil](/setts/s9/r6dg3r6db1lr1db1r2db8r4/)|
 |![Cameron of Locheil example sett](/setts/s9/r6dg3r6db1lr1db1r2db8r4/sett.png)|
-

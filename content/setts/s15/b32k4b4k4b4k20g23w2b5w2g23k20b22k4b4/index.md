@@ -2,10 +2,9 @@
 title: "Lyon (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGWBWGKBKBKB](/stripes/bkbkgwbwgkbkbkb/) · **Stripes:** [B K B K G W B W G K B K B K B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K G W B W G K B K B K B</span></span>
+In pattern [BKBKBKGWBWGKBKB](/stripes/bkbkbkgwbwgkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5517/
 

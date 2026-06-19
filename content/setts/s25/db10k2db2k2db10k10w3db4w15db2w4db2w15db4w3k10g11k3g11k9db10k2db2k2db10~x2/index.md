@@ -2,10 +2,9 @@
 title: "Black Watch Dress (Asymmetrical)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKGKWBWBWBWBWKBKBKB](/stripes/bkbkbkgkgkwbwbwbwbwkbkbkb/) · **Stripes:** [DB K DB K DB K G K G K W DB W DB W DB W DB W K DB K DB K DB](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G K G K W DB W DB W DB W DB W K DB K DB K DB</span></span>
+In pattern [BKBKBKGKGKWBWBWBWBWKBKBKB](/stripes/bkbkbkgkgkwbwbwbwbwkbkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=281
 

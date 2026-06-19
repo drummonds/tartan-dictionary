@@ -2,10 +2,9 @@
 title: "Scotland's National"
 date: 2023-03-18
 ---
-**Bands:** [BWBRBKGKGKGKBKRKBKGKGKGKBRBW](/stripes/bwbrbkgkgkgkbkrkbkgkgkgkbrbw/) · **Stripes:** [DT W DT R DT K G K G K G K DT K R K DT K G K G K G K DT R DT W](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT W DT R DT K G K G K G K DT K R K DT K G K G K G K DT R DT W</span></span>
+In pattern [BWBRBKGKGKGKBKRKBKGKGKGKBRBW](/stripes/bwbrbkgkgkgkbkrkbkgkgkgkbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3682
 

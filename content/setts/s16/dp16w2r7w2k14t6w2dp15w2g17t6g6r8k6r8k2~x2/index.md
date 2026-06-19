@@ -2,10 +2,9 @@
 title: "Gordon Red.. Family Tartan Tartan Number: 652. Earliest known date: pre 1819 Sample from the Telfer-Dunbar collection. Also known as 'Old Huntly' and frequently used as the Huntly District tartan. Not to be confused with the 'usual' Huntly District tartan which is based on the MacRae, Ross, Grant group with which it does not appear to be related. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGBGWBWBKWRWB](/stripes/krkrgbgwbwbkwrwb/) · **Stripes:** [K R K R G T G W DP W T K W R W DP](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K R K R G T G W DP W T K W R W DP</span></span>
+In pattern [BWRWKBWBWGBGRKRK](/stripes/bwrwkbwbwgbgrkrk/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=652
 

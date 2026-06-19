@@ -2,10 +2,9 @@
 title: "Wcwm 9275-1422-2"
 date: 2023-03-18
 ---
-**Bands:** [KRWRBRBRGKGKGKGRY](/stripes/krwrbrbrgkgkgkgry/) · **Stripes:** [K R LB R DB R DB R DY K DY K DY K DY R LR](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K R LB R DB R DB R DY K DY K DY K DY R LR</span></span>
+In pattern [KRWRBRBRGKGKGKGRY](/stripes/krwrbrbrgkgkgkgry/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4566
 

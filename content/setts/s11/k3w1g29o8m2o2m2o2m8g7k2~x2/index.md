@@ -2,10 +2,9 @@
 title: "Gray Htg (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KGRRRRRRGWK](/stripes/kgrrrrrrgwk/) · **Stripes:** [K G M O M O M O G W K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K G M O M O M O G W K</span></span>
+In pattern [KGRRRRRRGWK](/stripes/kgrrrrrrgwk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1079/
 

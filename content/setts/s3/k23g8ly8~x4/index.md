@@ -2,19 +2,11 @@
 title: "Zwijnenberg, Frans (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGY](/stripes/kgy/) · **Stripes:** [K G LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K G LY</span></span>
+In pattern [KGY](/stripes/kgy/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11096/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's, No 2/53 or Mull](/setts/s3/k5g4ly1~x2/)
-
 
 ## Thread count
 K/92 G32 Y/32

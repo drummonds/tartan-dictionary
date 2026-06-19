@@ -2,10 +2,9 @@
 title: "Love"
 date: 2023-03-18
 ---
-**Bands:** [RBRRW](/stripes/rbrrw/) · **Stripes:** [M DP R O W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M DP R O W</span></span>
+In pattern [RBRRW](/stripes/rbrrw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10521
 

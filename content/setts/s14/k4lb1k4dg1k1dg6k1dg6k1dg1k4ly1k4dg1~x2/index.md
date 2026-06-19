@@ -2,10 +2,9 @@
 title: "MacAlpine"
 date: 2023-03-18
 ---
-**Bands:** [KWKGKGKGKGKYKG](/stripes/kwkgkgkgkgkykg/) · **Stripes:** [K LB K DG K DG K DG K DG K LY K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LB K DG K DG K DG K DG K LY K DG</span></span>
+In pattern [GKYKGKGKGKGKWK](/stripes/gkykgkgkgkgkwk/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

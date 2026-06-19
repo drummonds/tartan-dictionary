@@ -2,10 +2,9 @@
 title: "City of Dorvil (District)"
 date: 2023-03-18
 ---
-**Bands:** [YRWYWKWYWKWYWKWY](/stripes/yrwywkwywkwywkwy/) · **Stripes:** [LY R LB LG W K W LO W K W LO W K W LG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LY R LB LG W K W LO W K W LO W K W LG</span></span>
+In pattern [YRWYWKWYWKWYWKWY](/stripes/yrwywkwywkwywkwy/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10090/
 

@@ -2,10 +2,9 @@
 title: "Torridon, Royal Blue (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BBWBWRW](/stripes/bbwbwrw/) · **Stripes:** [DT N W N W R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT N W N W R W</span></span>
+In pattern [BBWBWRW](/stripes/bbwbwrw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7596/
 

@@ -2,10 +2,9 @@
 title: "Glencross (Kirkbampton) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGRGRGRGBGBGW](/stripes/ygrgrgrgbgbgw/) · **Stripes:** [LO DG R DG R DG R DG DB DG DB DG W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO DG R DG R DG R DG DB DG DB DG W</span></span>
+In pattern [WGBGBGRGRGRGY](/stripes/wgbgbgrgrgrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11457
 

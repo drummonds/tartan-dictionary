@@ -2,10 +2,9 @@
 title: "Grampian Television"
 date: 2023-03-18
 ---
-**Bands:** [KBKBWBKB](/stripes/kbkbwbkb/) · **Stripes:** [K N K N W N K N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N W N K N</span></span>
+In pattern [BKBWBKBK](/stripes/bkbwbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1491
 

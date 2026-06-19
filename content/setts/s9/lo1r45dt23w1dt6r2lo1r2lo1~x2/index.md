@@ -2,10 +2,9 @@
 title: "Arbroath Smokie"
 date: 2023-03-18
 ---
-**Bands:** [YRYRBWBRY](/stripes/yryrbwbry/) · **Stripes:** [LO R LO R DT W DT R LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO R LO R DT W DT R LO</span></span>
+In pattern [YRBWBRYRY](/stripes/yrbwbryry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=105
 

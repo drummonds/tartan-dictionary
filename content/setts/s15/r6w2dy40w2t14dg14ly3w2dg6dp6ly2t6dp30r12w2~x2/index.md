@@ -2,10 +2,9 @@
 title: "Stuart/Stewart Plaid"
 date: 2023-03-18
 ---
-**Bands:** [RWGWBGYWGBYBBRW](/stripes/rwgwbgywgbybbrw/) · **Stripes:** [R W DY W T DG LY W DG DP LY T DP R W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W DY W T DG LY W DG DP LY T DP R W</span></span>
+In pattern [RWGWBGYWGBYBBRW](/stripes/rwgwbgywgbybbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4023
 

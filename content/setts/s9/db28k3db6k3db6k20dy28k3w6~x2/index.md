@@ -2,10 +2,9 @@
 title: "Forbes #5"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKW](/stripes/bkbkbkgkw/) · **Stripes:** [DB K DB K DB K DY K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K DB K DY K W</span></span>
+In pattern [BKBKBKGKW](/stripes/bkbkbkgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1218
 

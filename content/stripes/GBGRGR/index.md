@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gbgrgr/
 ---
-GBGRGR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/r13y3r4y56n4y4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GBGRGR
+
+{{< pat "GBGRGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R Y R Y N Y <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y R Y N Y</span></span>
 
 | Tartans |
 |---------------|
 | [Auchairne grey](/setts/s6/r13y3r4y56n4y4~x2/)|
 |![Auchairne grey example sett](/setts/s6/r13y3r4y56n4y4~x2/sett.png)|
-

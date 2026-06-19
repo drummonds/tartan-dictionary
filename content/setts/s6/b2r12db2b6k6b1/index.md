@@ -2,10 +2,9 @@
 title: "MacTavish"
 date: 2023-03-18
 ---
-**Bands:** [BKBBRB](/stripes/bkbbrb/) · **Stripes:** [B K B DB R B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B DB R B</span></span>
+In pattern [BKBBRB](/stripes/bkbbrb/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacTavish](/setts/s6/b2r12db2b6k6b1~x2/)
-
 
 ## Thread count
 B/2 DR12 DB2 B6 K6 B/1

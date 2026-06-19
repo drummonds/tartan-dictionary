@@ -2,10 +2,9 @@
 title: "Smeaton Hunting (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKGKYKG](/stripes/kgwgkgkykg/) · **Stripes:** [K G LB G K G K LO K G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G LB G K G K LO K G</span></span>
+In pattern [GKYKGKGWGK](/stripes/gkykgkgwgk/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3214/
 

@@ -2,10 +2,9 @@
 title: "Khosla, Sarah and Jatin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRYRYRBW](/stripes/rbryryrbw/) · **Stripes:** [M DT M LY M LY R DT W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">M DT M LY M LY R DT W</span></span>
+In pattern [RBRYRYRBW](/stripes/rbryryrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11164
 

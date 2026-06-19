@@ -2,10 +2,9 @@
 title: "Hunter of Hunterston"
 date: 2023-03-18
 ---
-**Bands:** [YGRGWBRBGBG](/stripes/ygrgwbrbgbg/) · **Stripes:** [LY G R G W DB R DB G DB G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G R G W DB R DB G DB G</span></span>
+In pattern [GBGBRBWGRGY](/stripes/gbgbrbwgrgy/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hunter of Hunterston (Clan)](/setts/s11/g5db2g14db14r2db14w2g14r2g4ly3~x2/)
-
 
 ## Thread count
 G/10 B4 G24 B24 R4 B24 LN4 G24 R4 G8 Y/6

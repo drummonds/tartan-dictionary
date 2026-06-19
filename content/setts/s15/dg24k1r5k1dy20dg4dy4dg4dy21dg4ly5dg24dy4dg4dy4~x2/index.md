@@ -2,10 +2,9 @@
 title: "Ontario"
 date: 2023-03-18
 ---
-**Bands:** [GKRKGGGGGGYGGGG](/stripes/gkrkggggggygggg/) · **Stripes:** [DG K R K DY DG DY DG DY DG LY DG DY DG DY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DG K R K DY DG DY DG DY DG LY DG DY DG DY</span></span>
+In pattern [GGGGYGGGGGGKRKG](/stripes/ggggyggggggkrkg/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3252
 

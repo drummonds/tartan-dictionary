@@ -2,10 +2,9 @@
 title: "Unidentified #3"
 date: 2023-03-18
 ---
-**Bands:** [YKGBGRGRGWGKBKGGKGKBB](/stripes/ykgbgrgrgwgkbkggkgkbb/) · **Stripes:** [LY K DG DB DG R DG R DG W DG K B K DG DG K DG K DB DP](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY K DG DB DG R DG R DG W DG K B K DG DG K DG K DB DP</span></span>
+In pattern [BBKGKGGKBKGWGRGRGBGKY](/stripes/bbkgkggkbkgwgrgrgbgky/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4204
 

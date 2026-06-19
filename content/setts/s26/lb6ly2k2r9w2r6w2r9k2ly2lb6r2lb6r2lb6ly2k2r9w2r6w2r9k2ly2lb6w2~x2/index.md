@@ -2,10 +2,9 @@
 title: "Ogilvie (D.C. Stewart) #2"
 date: 2023-03-18
 ---
-**Bands:** [WYKRWRWRKYWRWRWYKRWRWRKYWW](/stripes/wykrwrwrkywrwrwykrwrwrkyww/) · **Stripes:** [LB LY K R W R W R K LY LB R LB R LB LY K R W R W R K LY LB W](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LB LY K R W R W R K LY LB R LB R LB LY K R W R W R K LY LB W</span></span>
+In pattern [WWYKRWRWRKYWRWRWYKRWRWRKYW](/stripes/wwykrwrwrkywrwrwykrwrwrkyw/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3227
 

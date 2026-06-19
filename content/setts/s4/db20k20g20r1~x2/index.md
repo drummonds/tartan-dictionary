@@ -2,19 +2,11 @@
 title: "Gunn (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKB](/stripes/rgkb/) · **Stripes:** [R G K DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R G K DB</span></span>
+In pattern [BKGR](/stripes/bkgr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10460/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unidentified, pattern](/setts/s4/db4k5g4r1~x4/)
-
 
 ## Thread count
 DB/40 K40 G40 R/2

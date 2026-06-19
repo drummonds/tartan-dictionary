@@ -2,10 +2,9 @@
 title: "Hibernian Football Club"
 date: 2023-03-18
 ---
-**Bands:** [GWGKGBKW](/stripes/gwgkgbkw/) · **Stripes:** [G W G K DG DP K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G W G K DG DP K W</span></span>
+In pattern [GWGKGBKW](/stripes/gwgkgbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1701
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1701](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1701)
 - Scottish Tartans Authority (ITI): 2559
 - Scottish Tartans World Register: 2559
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hibernian F. C. (2004) (C orporate)](/setts/s8/g21w2g21k17dg12dp6k2w1~x2/)
-
 
 ## Thread count
 G/44 W4 G44 K36 DG24 P12 K4 W/2

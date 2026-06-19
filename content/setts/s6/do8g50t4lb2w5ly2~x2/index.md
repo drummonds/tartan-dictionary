@@ -2,10 +2,9 @@
 title: "Greenup (2015)"
 date: 2023-03-18
 ---
-**Bands:** [YWWBGB](/stripes/ywwbgb/) · **Stripes:** [LY W LB T G DO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">LY W LB T G DO</span></span>
+In pattern [BGBWWY](/stripes/bgbwwy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11308
 

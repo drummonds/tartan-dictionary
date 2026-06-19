@@ -2,10 +2,9 @@
 title: "Sinclair"
 date: 2023-03-18
 ---
-**Bands:** [RGKWBR](/stripes/rgkwbr/) · **Stripes:** [R G K W T R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K W T R</span></span>
+In pattern [RBWKGR](/stripes/rbwkgr/).
 
-
-This was sourced from logan-1831.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from logan-1831.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,15 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Sinclair** name adjusted Logan's counts: [Sinclair (Logan)](/setts/s6/r28g16k4w1b6r28~b202060-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair](/setts/s10/r30g12k5w2b6r30b12w2k5g12~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair Dress (Dance)](/setts/s12/b4r2b31k10g4w21g2w21g4k10b31r2~b38409c-g006818-k101010-rc80000-we0e0e0~x2/); [Sinclair Green (Personal)](/setts/s7/g4r2g30b15w2ba15r4~b5c5c5c-ba1c0070-g006818-r880000-wfcfcfc~x2/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Caithness (1848) (District?)](/setts/s6/r40t11w2k12g36r32~x2/)
-- [Sinclair](/setts/s6/r30g12k5w2t6r30/)
-- [Sinclair](/setts/s6/r28g16k4w1t6r28~x2/)
-
 
 ## Thread count
 R/144 B32 LN4 K20 G80 R/72

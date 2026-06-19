@@ -2,10 +2,9 @@
 title: "Snoozzzeee"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWRWBWRWBRBRW](/stripes/rbrbwrwbwrwbrbrw/) · **Stripes:** [R DB R DB LB R LB DB LB R LB DB R DB R LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB R DB LB R LB DB LB R LB DB R DB R LB</span></span>
+In pattern [RBRBWRWBWRWBRBRW](/stripes/rbrbwrwbwrwbrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3828
 

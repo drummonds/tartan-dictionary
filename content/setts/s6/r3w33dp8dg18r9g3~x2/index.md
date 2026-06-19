@@ -2,10 +2,9 @@
 title: "MacKintosh Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [RWBGRG](/stripes/rwbgrg/) · **Stripes:** [R W DP DG R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DP DG R G</span></span>
+In pattern [GRGBWR](/stripes/grgbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2570
 

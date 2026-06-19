@@ -2,10 +2,9 @@
 title: "Drambuie dress"
 date: 2023-03-18
 ---
-**Bands:** [YKRKRW](/stripes/ykrkrw/) · **Stripes:** [LY K R K O W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K R K O W</span></span>
+In pattern [WRKRKY](/stripes/wrkrky/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

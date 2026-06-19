@@ -2,10 +2,9 @@
 title: "Spirit of the Glen"
 date: 2023-03-18
 ---
-**Bands:** [BBBGBKBBBWBBBKBGBBBB](/stripes/bbbgbkbbbwbbbkbgbbbb/) · **Stripes:** [DB DB DB DG DB K DB DP DT W DT DP DB K DB DG DB DB DB P](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">DB DB DB DG DB K DB DP DT W DT DP DB K DB DG DB DB DB P</span></span>
+In pattern [BBBBGBKBBBWBBBKBGBBB](/stripes/bbbbgbkbbbwbbbkbgbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5302
 

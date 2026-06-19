@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bwbwbwbryryryr/
 ---
-BWBWBWBRYRYRYR
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-BWBWBWBRYRYRYR
+
+{{< pat "BWBWBWBRYRYRYR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### O LY O LY O LY O DR LB DR LB DR LB DR <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="seq">O LY O LY O LY O DR LB DR LB DR LB DR</span></span>
 
 | Tartans |
 |---------------|
 | [MacGlashan](/setts/s14/dr10lb1dr3lb6dr1lb3dr1o5ly1o3ly6o1ly3o1~x4/)|
 |![MacGlashan example sett](/setts/s14/dr10lb1dr3lb6dr1lb3dr1o5ly1o3ly6o1ly3o1~x4/sett.png)|
-

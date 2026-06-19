@@ -2,10 +2,9 @@
 title: "Grant (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBRBRBR](/stripes/rgrgrgrbrbrbr/) · **Stripes:** [R DG R DG R DG R DB R DB R DB R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DG R DB R DB R DB R</span></span>
+In pattern [RBRBRBRGRGRGR](/stripes/rbrbrbrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1510
 
@@ -65,13 +64,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Grant VS](/setts/s13/r4db2r2db2r56db16r4dg1r4dg36r3dg1r4/)
-
 
 ## Thread count
 R/8 B4 R4 B4 R112 B32 R8 G2 R8 G72 R6 G2 R/8

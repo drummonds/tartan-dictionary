@@ -2,10 +2,9 @@
 title: "Manx Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BBRBWBYBGBB](/stripes/bbrbwbybgbb/) · **Stripes:** [DB N O N W N LY N Y N T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB N O N W N LY N Y N T</span></span>
+In pattern [BBGBYBWBRBB](/stripes/bbgbybwbrbb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2817
 

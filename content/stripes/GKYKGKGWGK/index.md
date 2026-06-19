@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gkykgkgwgk/
 ---
-GKYKGKGWGK
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GKYKGKGWGK
+
+{{< pat "GKYKGKGWGK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K G LB G K G K LO K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G LB G K G K LO K G</span></span>
 
 | Tartans |
 |---------------|
 | [Smeaton Hunting (Name)](/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/)|
 |![Smeaton Hunting (Name) example sett](/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/sett.png)|
-

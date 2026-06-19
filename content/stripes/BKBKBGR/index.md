@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbkbgr/
 ---
-BKBKBGR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/dt14k5dp5k5dt14dg32r4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BKBKBGR
+
+{{< pat "BKBKBGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG DT K DP K DT <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">R DG DT K DP K DT</span></span>
 
 | Tartans |
 |---------------|
 | [Bennachie (Whisky)](/setts/s7/dt14k5dp5k5dt14dg32r4~x2/)|
 |![Bennachie (Whisky) example sett](/setts/s7/dt14k5dp5k5dt14dg32r4~x2/sett.png)|
-

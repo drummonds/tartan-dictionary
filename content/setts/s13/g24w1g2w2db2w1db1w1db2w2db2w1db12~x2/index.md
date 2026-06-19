@@ -2,10 +2,9 @@
 title: "MacDonald, Lord of the Isles"
 date: 2023-03-18
 ---
-**Bands:** [GWGWBWBWBWBWB](/stripes/gwgwbwbwbwbwb/) · **Stripes:** [G W G W DB W DB W DB W DB W DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G W G W DB W DB W DB W DB W DB</span></span>
+In pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald Lord of the Isles Portrait Tartan Tartan Number: 618. Earliest known date: pre 1893 From a painting in Armadale Castle, discovered by D. W. Stewart for his book, 'Old and Rare Scottish Tartans' published in 1893. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12~x2/)
-
 
 ## Thread count
 G/48 LN2 G4 LN4 B4 LN2 B2 LN2 B4 LN4 B4 LN2 B/24

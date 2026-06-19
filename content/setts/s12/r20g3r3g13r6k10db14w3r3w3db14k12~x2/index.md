@@ -2,10 +2,9 @@
 title: "Glengarry Highland Games"
 date: 2023-03-18
 ---
-**Bands:** [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/) · **Stripes:** [K DB W R W DB K R G R G R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB W R W DB K R G R G R</span></span>
+In pattern [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1419](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419)
 - Scottish Tartans Authority (ITI): 2638
 - Scottish Tartans World Register: 2638
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glengarry Highland Games](/setts/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/)
-
 
 ## Thread count
 R/40 G6 R6 G26 R12 K20 DB28 W6 R6 W6 DB28 K/24

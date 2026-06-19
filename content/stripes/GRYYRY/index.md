@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gryyry/
 ---
-GRYYRY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/lg50r4lg12ly23r4g4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GRYYRY
+
+{{< pat "GRYYRY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LG R LG LY R G <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LG R LG LY R G</span></span>
 
 | Tartans |
 |---------------|
 | [Ingenico](/setts/s6/lg50r4lg12ly23r4g4~x2/)|
 |![Ingenico example sett](/setts/s6/lg50r4lg12ly23r4g4~x2/sett.png)|
-

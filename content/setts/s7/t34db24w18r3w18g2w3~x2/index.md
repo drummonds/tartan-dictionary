@@ -2,10 +2,9 @@
 title: "Ferguson, dress"
 date: 2023-03-18
 ---
-**Bands:** [BBWRWGW](/stripes/bbwrwgw/) · **Stripes:** [T DB W R W G W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DB W R W G W</span></span>
+In pattern [BBWRWGW](/stripes/bbwrwgw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

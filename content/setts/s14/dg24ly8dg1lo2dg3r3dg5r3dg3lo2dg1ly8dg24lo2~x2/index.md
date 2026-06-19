@@ -2,10 +2,9 @@
 title: "St. Christopher"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYGRGRGYGYG](/stripes/ygygygrgrgygyg/) · **Stripes:** [LO DG LY DG LO DG R DG R DG LO DG LY DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG LY DG LO DG R DG R DG LO DG LY DG</span></span>
+In pattern [GYGYGRGRGYGYGY](/stripes/gygygrgrgygygy/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3886
 

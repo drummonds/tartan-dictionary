@@ -2,10 +2,9 @@
 title: "MacFarhadian (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRGWKYBRGRBYRBRYBR](/stripes/krgwkybrgrbyrbrybr/) · **Stripes:** [K R G W K LY DP R G R DP LY R DP R LY DP R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R G W K LY DP R G R DP LY R DP R LY DP R</span></span>
+In pattern [KRGWKYBRGRBYRBRYBR](/stripes/krgwkybrgrbyrbrybr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6375/
 

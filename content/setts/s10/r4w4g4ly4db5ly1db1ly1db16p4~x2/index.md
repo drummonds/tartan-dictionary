@@ -2,10 +2,9 @@
 title: "Yukon"
 date: 2023-03-18
 ---
-**Bands:** [RWGYBYBYBB](/stripes/rwgybybybb/) · **Stripes:** [R W G LY DB LY DB LY DB P](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R W G LY DB LY DB LY DB P</span></span>
+In pattern [BBYBYBYGWR](/stripes/bbybybygwr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Yukon](/setts/s10/r4w4g4ly4db4ly1db2ly1db20p4~x2/)
-
 
 ## Thread count
 R/8 LN8 G8 Y8 B10 Y2 B2 Y2 B32 P/8

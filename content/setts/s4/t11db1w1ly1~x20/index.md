@@ -2,10 +2,9 @@
 title: "Varrie"
 date: 2023-03-18
 ---
-**Bands:** [YWBB](/stripes/ywbb/) · **Stripes:** [LY W DB T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY W DB T</span></span>
+In pattern [BBWY](/stripes/bbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10113
 
@@ -22,13 +21,6 @@ This cloth appears in 3 source records; the oldest owns this page.
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10113](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10113)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Varrie Commemorative Tartan Tartan Number: 9113. Earliest known date: 2009 November I have designed this tartan in remembrance of my mother Jean Alexander Varrie and for her Scottish Heritage, and all the Varrie Family's can used this design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/t9db1w1ly1~x20/)
-
 
 ## Thread count
 B/220 DB20 LN20 Y/20

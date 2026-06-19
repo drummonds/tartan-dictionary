@@ -2,10 +2,9 @@
 title: "Asahi (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBB](/stripes/bbbbb/) · **Stripes:** [DB B DB B DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">DB B DB B DB</span></span>
+In pattern [BBBBB](/stripes/bbbbb/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6677/
 

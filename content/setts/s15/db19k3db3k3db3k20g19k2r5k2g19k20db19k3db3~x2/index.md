@@ -2,10 +2,9 @@
 title: "Safeway"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKRKGKBKBKB](/stripes/bkbkgkrkgkbkbkb/) · **Stripes:** [DB K DB K G K R K G K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G K R K G K DB K DB K DB</span></span>
+In pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3636
 
@@ -23,15 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3636](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3636)
 - Scottish Tartans Authority (ITI): 2177
 - Scottish Tartans World Register: 2177
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKinlay](/setts/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/)
-- [MacKinlay (2/4 black stripes)](/setts/s15/db12k4db4k4db4k12g16k2r3k2g16k12db16k4db4/)
-- [Safeway](/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/)
-
 
 ## Thread count
 DB/38 K6 DB6 K6 DB6 K40 G38 K4 R10 K4 G38 K40 DB38 K6 DB/6

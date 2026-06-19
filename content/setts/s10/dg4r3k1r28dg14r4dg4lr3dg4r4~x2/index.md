@@ -2,10 +2,9 @@
 title: "Scott"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRGRKRG](/stripes/rgygrgrkrg/) · **Stripes:** [R DG LR DG R DG R K R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG LR DG R DG R K R DG</span></span>
+In pattern [GRKRGRGYGR](/stripes/grkrgrgygr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

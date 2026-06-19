@@ -2,10 +2,9 @@
 title: "Ryukoku University Heian Junior High School"
 date: 2023-03-18
 ---
-**Bands:** [KBBYBYBYKW](/stripes/kbbybybykw/) · **Stripes:** [K N P LR P LR N LR K LP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">K N P LR P LR N LR K LP</span></span>
+In pattern [KBBYBYBYKW](/stripes/kbbybybykw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10716
 

@@ -2,10 +2,9 @@
 title: "Callum (Buchan)"
 date: 2023-03-18
 ---
-**Bands:** [RRBRB](/stripes/rrbrb/) · **Stripes:** [O O N O N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">O O N O N</span></span>
+In pattern [BRBRR](/stripes/brbrr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10322
 

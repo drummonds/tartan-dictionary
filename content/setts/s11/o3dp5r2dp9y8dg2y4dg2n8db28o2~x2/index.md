@@ -2,10 +2,9 @@
 title: "Glenisla (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBGGGGBBR](/stripes/rbrbggggbbr/) · **Stripes:** [O DP R DP Y DG Y DG N DB O](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DP R DP Y DG Y DG N DB O</span></span>
+In pattern [RBBGGGGBRBR](/stripes/rbbggggbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3111/
 

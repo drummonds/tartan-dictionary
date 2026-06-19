@@ -2,10 +2,9 @@
 title: "MacGillivray"
 date: 2023-03-18
 ---
-**Bands:** [RBBRBRBRGRBRB](/stripes/rbbrbrbrgrbrb/) · **Stripes:** [R T DB R T R DB R G R T R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R T DB R T R DB R G R T R DB</span></span>
+In pattern [BRBRGRBRBRBBR](/stripes/brbrgrbrbrbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2440
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2440](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2440)
 - Scottish Tartans Authority (ITI): 446
 - Scottish Tartans World Register: 446
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGillivray](/setts/s13/r4t1db1r32t2r2db12r2g16r4t1r4db2~x2/)
-
 
 ## Thread count
 R/12 B2 Ba2 R114 B4 R4 Ba46 R8 G60 R12 B2 R12 Ba/4

@@ -2,19 +2,11 @@
 title: "West Point Military Academy (Mil.)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRYR](/stripes/krkrkryr/) · **Stripes:** [K O K O K O LY O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K O K O LY O</span></span>
+In pattern [KRKRKRYR](/stripes/krkrkryr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1130/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [West Point](/setts/s8/k13o1k1o1k4o10ly1o1~x6/)
-
 
 ## Thread count
 K/40 N4 K8 N4 K16 N40 Y4 N/8

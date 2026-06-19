@@ -2,10 +2,9 @@
 title: "MacColl"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRBRBRGRG](/stripes/rbrgrbrbrbrgrg/) · **Stripes:** [R DB R G R DB R DB R DB R G R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R G R DB R DB R DB R G R G</span></span>
+In pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2315
 
@@ -23,15 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2315](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2315)
 - Scottish Tartans Authority (ITI): 878
 - Scottish Tartans World Register: 878
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bruce, Old](/setts/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/)
-- [MacColl](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/)
-- [MacDonald of Aird & Valley (Clan?)](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/)
-
 
 ## Thread count
 R/48 DB4 R4 G32 R8 DB4 R4 DB12 R4 DB4 R48 G4 R4 G/16

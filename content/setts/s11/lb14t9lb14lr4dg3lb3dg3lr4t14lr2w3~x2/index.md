@@ -2,10 +2,9 @@
 title: "Bouguet, Adrian (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WYBYGWGYWBW](/stripes/wybygwgywbw/) · **Stripes:** [W LR T LR DG LB DG LR LB T LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W LR T LR DG LB DG LR LB T LB</span></span>
+In pattern [WBWYGWGYBYW](/stripes/wbwygwgybyw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11263
 

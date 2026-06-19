@@ -2,19 +2,11 @@
 title: "Cameron of Lochiel (Hunting) Clan/Family Tartan Tartan Number: 5351. Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two red lines shown in Vestiarium Scoticum. This design evolved in the 1940s by J G MacKay of Portree and was first put on show at the Cameron Gathering at Achnacarry in 1956. (original STA ref: 1535) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGRGBGY](/stripes/rgrgbgy/) · **Stripes:** [R G R G DB G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G R G DB G LY</span></span>
+In pattern [RGRGBGY](/stripes/rgrgbgy/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5351
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cameron of Lochiel (Hunting)](/setts/s7/r3g10r3g14db16g3ly2~x2/)
-
 
 ## Thread count
 R/5 G20 R5 G20 DB24 G6 Y/4

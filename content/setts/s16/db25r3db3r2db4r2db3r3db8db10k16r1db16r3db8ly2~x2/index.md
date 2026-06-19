@@ -2,10 +2,9 @@
 title: "Dundonald"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRKBBRBRBRBRB](/stripes/ybrbrkbbrbrbrbrb/) · **Stripes:** [LY DB R DB R K DB DB R DB R DB R DB R DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB R K DB DB R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRBBKRBRBY](/stripes/brbrbrbrbbkrbrby/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1040
 

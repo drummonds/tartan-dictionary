@@ -2,10 +2,9 @@
 title: "Croy, Jake (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKWWKBWB](/stripes/bkwwkbwb/) · **Stripes:** [N K LT LB K B LT B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#466CC8"></span><span class="seq">N K LT LB K B LT B</span></span>
+In pattern [BKWWKBWB](/stripes/bkwwkbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11505
 

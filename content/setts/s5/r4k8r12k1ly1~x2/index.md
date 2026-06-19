@@ -2,10 +2,9 @@
 title: "MacKeane"
 date: 2023-03-18
 ---
-**Bands:** [RKRKY](/stripes/rkrky/) · **Stripes:** [R K R K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K R K LY</span></span>
+In pattern [RKRKY](/stripes/rkrky/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2512
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2512](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2512)
 - Scottish Tartans Authority (ITI): 1608
 - Scottish Tartans World Register: 1608
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Haig & Haig Whisky (Corporate)](/setts/s5/r26k18r7k4ly4~x2/)
-
 
 ## Thread count
 R/8 K16 R24 K2 Y/2

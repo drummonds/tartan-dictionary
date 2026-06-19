@@ -2,10 +2,9 @@
 title: "MacLintock"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRGRG](/stripes/rbrbrbrbrgrg/) · **Stripes:** [R DB R DB R T R DB R G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R DB R T R DB R G R G</span></span>
+In pattern [GRGRBRBRBRBR](/stripes/grgrbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2649
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2649](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2649)
 - Scottish Tartans Authority (ITI): 881
 - Scottish Tartans World Register: 881
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLintock - 1880 (Clan)](/setts/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/)
-
 
 ## Thread count
 G/76 R6 G6 R6 DB18 R6 B4 R80 DB6 R6 DB4 R/12

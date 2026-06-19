@@ -2,19 +2,11 @@
 title: "Arrol (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KKRKKKRKR](/stripes/kkrkkkrkr/) · **Stripes:** [K K R K K K R K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K K R K K K R K R</span></span>
+In pattern [KKRKKKRKR](/stripes/kkrkkkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1365/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dupplin (Estate Check)](/setts/s9/k1k1r1k1k1k1r1k1r1~x6/)
-
 
 ## Thread count
 DR/8 K16 DRa16 G16 W4 G16 DRa16 G16 W/4

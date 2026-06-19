@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbgkrkgrkrkr/
 ---
-BGBGKRKGRKRKR
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBGKRKGRKRKR
+
+{{< pat "BGBGKRKGRKRKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K R K R DG K R K DG DB DG DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R K R DG K R K DG DB DG DB</span></span>
 
 | Tartans |
 |---------------|
 | [Forbes (Pendleton-1)](/setts/s13/db6dg1db8dg8k8r1k8dg8r6k6r14k1r6~x4/)|
 |![Forbes (Pendleton-1) example sett](/setts/s13/db6dg1db8dg8k8r1k8dg8r6k6r14k1r6~x4/sett.png)|
-

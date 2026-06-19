@@ -2,19 +2,11 @@
 title: "Seton Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GGGRGRGGWG](/stripes/gggrgrggwg/) · **Stripes:** [DY G DY R DY R DY G W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DY G DY R DY R DY G W G</span></span>
+In pattern [GGGRGRGGWG](/stripes/gggrgrggwg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/938/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/)
-
 
 ## Thread count
 T/12 G4 T60 R8 T4 R8 T4 G28 W4 G/8

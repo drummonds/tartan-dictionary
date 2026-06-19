@@ -2,10 +2,9 @@
 title: "Galloway dress"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRG](/stripes/ybrbrg/) · **Stripes:** [LY DB R DB R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB R DB R G</span></span>
+In pattern [GRBRBY](/stripes/grbrby/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

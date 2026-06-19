@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brgbbbbbbbg/
 ---
-BRGBBBBBBBG
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BRGBBBBBBBG
+
+{{< pat "BRGBBBBBBBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DG DB T DB T DB T DB DG R T <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG DB T DB T DB T DB DG R T</span></span>
 
 | Tartans |
 |---------------|
 | [Maine, Original State of (Fashion)](/setts/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/)|
 |![Maine, Original State of (Fashion) example sett](/setts/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/sett.png)|
-

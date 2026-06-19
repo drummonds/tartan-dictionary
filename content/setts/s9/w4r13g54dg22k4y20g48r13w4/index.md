@@ -2,10 +2,9 @@
 title: "Wynberg Boys' High School"
 date: 2023-03-18
 ---
-**Bands:** [WRGGKGGRW](/stripes/wrggkggrw/) · **Stripes:** [W R G DG K Y G R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R G DG K Y G R W</span></span>
+In pattern [WRGGKGGRW](/stripes/wrggkggrw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11475
 

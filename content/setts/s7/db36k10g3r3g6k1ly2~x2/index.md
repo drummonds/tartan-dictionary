@@ -2,10 +2,9 @@
 title: "MacLaurin, of Brioch"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGKB](/stripes/ykgrgkb/) · **Stripes:** [LY K G R G K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G R G K DB</span></span>
+In pattern [BKGRGKY](/stripes/bkgrgky/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLaren](/setts/s7/db24k8g8r2g8k1ly2~x2/)
-
 
 ## Thread count
 B/72 K20 G6 R6 G12 K2 Y/4

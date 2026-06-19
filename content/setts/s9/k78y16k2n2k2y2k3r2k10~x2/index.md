@@ -2,10 +2,9 @@
 title: "Scotland's Lionheart"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKBKGK](/stripes/krkgkbkgk/) · **Stripes:** [K R K Y K N K Y K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K Y K N K Y K</span></span>
+In pattern [KGKBKGKRK](/stripes/kgkbkgkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3681
 

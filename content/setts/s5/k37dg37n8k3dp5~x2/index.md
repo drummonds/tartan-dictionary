@@ -2,10 +2,9 @@
 title: "Dallard (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGBKB](/stripes/kgbkb/) · **Stripes:** [K DG N K DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DG N K DP</span></span>
+In pattern [BKBGK](/stripes/bkbgk/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7424/
 

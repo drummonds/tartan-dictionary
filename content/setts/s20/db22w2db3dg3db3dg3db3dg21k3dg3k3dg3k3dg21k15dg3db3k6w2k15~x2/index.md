@@ -2,10 +2,9 @@
 title: "Wilson-Blyth"
 date: 2023-03-18
 ---
-**Bands:** [KWKBGKGKGKGKGBGBGBWB](/stripes/kwkbgkgkgkgkgbgbgbwb/) · **Stripes:** [K W K DB DG K DG K DG K DG K DG DB DG DB DG DB W DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K DB DG K DG K DG K DG K DG DB DG DB DG DB W DB</span></span>
+In pattern [BWBGBGBGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgbkwk/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11127/
 

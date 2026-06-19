@@ -2,10 +2,9 @@
 title: "Dama Resort"
 date: 2023-03-18
 ---
-**Bands:** [BKGWGKBKBKB](/stripes/bkgwgkbkbkb/) · **Stripes:** [P K Y LB Y K N K N K P](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P K Y LB Y K N K N K P</span></span>
+In pattern [BKBKBKGWGKB](/stripes/bkbkbkgwgkb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10207
 

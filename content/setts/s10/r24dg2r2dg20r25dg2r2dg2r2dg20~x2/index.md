@@ -2,19 +2,11 @@
 title: "Donachie of Brockloch (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRG](/stripes/rgrgrgrgrg/) · **Stripes:** [R DG R DG R DG R DG R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG R DG R DG R DG</span></span>
+In pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6702/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Livingstone](/setts/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/)
-
 
 ## Thread count
 DR/48 G4 DR4 G40 DR50 G4 DR4 G4 DR4 G/40

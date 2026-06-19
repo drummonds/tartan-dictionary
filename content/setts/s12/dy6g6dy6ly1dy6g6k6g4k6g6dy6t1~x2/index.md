@@ -2,10 +2,9 @@
 title: "Buchanan Hunting Clan Tartan Tartan Number: 2019. Earliest known date: 1850 The Scott Adie collection, a book of manufacturers samples, was recently sold at auction. The book is dated 1850 and the samples are thought to represent the tartans available for purchase between 1840-50. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GGGYGGKGKGGB](/stripes/gggyggkgkggb/) · **Stripes:** [DY G DY LY DY G K G K G DY T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">DY G DY LY DY G K G K G DY T</span></span>
+In pattern [BGGKGKGGYGGG](/stripes/bggkgkggyggg/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2019
 
@@ -14,13 +13,6 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 This cloth is also recorded under:
 
 - Buchanan Htg
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buchanan Hunting (Scott Adie)](/setts/s12/dy6g6dy6ly1dy6g6k6g4k6g6dy6t1~x4/)
-
 
 ## Thread count
 T/12 G12 T12 Y2 T12 G12 K12 G8 K12 G12 T12 B/2

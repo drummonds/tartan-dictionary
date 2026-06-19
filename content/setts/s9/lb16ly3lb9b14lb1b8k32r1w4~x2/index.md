@@ -2,10 +2,9 @@
 title: "Wrens (WRNS) (Military)"
 date: 2023-03-18
 ---
-**Bands:** [WRKBWBWYW](/stripes/wrkbwbwyw/) · **Stripes:** [W R K B LB B LB LY LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W R K B LB B LB LY LB</span></span>
+In pattern [WRKBWBWYW](/stripes/wrkbwbwyw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2345/
 

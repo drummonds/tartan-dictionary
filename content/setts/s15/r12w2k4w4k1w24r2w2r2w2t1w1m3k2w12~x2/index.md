@@ -2,10 +2,9 @@
 title: "Ivanka Trump (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWKWKWRWRWBWRKW](/stripes/rwkwkwrwrwbwrkw/) · **Stripes:** [R W K W K W R W R W T W M K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W K W K W R W R W T W M K W</span></span>
+In pattern [RWKWKWRWRWBWRKW](/stripes/rwkwkwrwrwbwrkw/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7843/
 

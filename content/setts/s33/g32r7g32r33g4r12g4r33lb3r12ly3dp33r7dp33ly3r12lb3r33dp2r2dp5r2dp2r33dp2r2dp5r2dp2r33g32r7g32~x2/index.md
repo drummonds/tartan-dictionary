@@ -2,10 +2,9 @@
 title: "Marchioness of Huntly's"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRG](/stripes/grgrgrgrwrybrbyrwrbrbrbrbrbrbrgrg/) · **Stripes:** [G R G R G R G R LB R LY DP R DP LY R LB R DP R DP R DP R DP R DP R DP R G R G](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G R G R G R LB R LY DP R DP LY R LB R DP R DP R DP R DP R DP R DP R G R G</span></span>
+In pattern [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrybrbyrwrgrgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2830
 

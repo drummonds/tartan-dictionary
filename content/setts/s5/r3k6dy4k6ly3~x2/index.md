@@ -2,10 +2,9 @@
 title: "Daks, Black (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKY](/stripes/rkgky/) · **Stripes:** [R K DY K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K DY K LY</span></span>
+In pattern [RKGKY](/stripes/rkgky/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2631/
 

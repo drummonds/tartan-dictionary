@@ -2,10 +2,9 @@
 title: "Jolley (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYRYGGBG](/stripes/gyryggbg/) · **Stripes:** [G LY R LY DY G N G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY R LY DY G N G</span></span>
+In pattern [GBGGYRYG](/stripes/gbggyryg/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10503/
 

@@ -2,10 +2,9 @@
 title: "Galloway Family"
 date: 2023-03-18
 ---
-**Bands:** [RKGR](/stripes/rkgr/) · **Stripes:** [R K Y R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K Y R</span></span>
+In pattern [RGKR](/stripes/rgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10087
 

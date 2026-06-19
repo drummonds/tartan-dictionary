@@ -2,10 +2,9 @@
 title: "Menzies (1815)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRWRW](/stripes/rwrwrwrw/) · **Stripes:** [R W R W R W R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R W R W R W</span></span>
+In pattern [RWRWRWRW](/stripes/rwrwrwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2923
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2923](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2923)
 - Scottish Tartans Authority (ITI): 1699
 - Scottish Tartans World Register: 1699
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Masai Shuka 08 (Artefact)](/setts/s8/r55w20r8w2r8w2r8w2~x2/)
-- [Menzies](/setts/s8/r36w4r3w4r6w2r1w12~x2/)
-
 
 ## Thread count
 R/144 W16 R12 W16 R24 W8 R4 W/48

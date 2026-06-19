@@ -2,10 +2,9 @@
 title: "Murison, Ina"
 date: 2023-03-18
 ---
-**Bands:** [KYKGKRYGYGYG](/stripes/kykgkrygygyg/) · **Stripes:** [K LY K G K R LY G LY G LY G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY K G K R LY G LY G LY G</span></span>
+In pattern [GYGYGYRKGKYK](/stripes/gygygyrkgkyk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1120/
 

@@ -2,10 +2,9 @@
 title: "Campbell of Breadalbane (Military)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKYGYKBKBKB](/stripes/bkbkygykbkbkb/) · **Stripes:** [DB K DB K LY G LY K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K LY G LY K DB K DB K DB</span></span>
+In pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/209/
 
@@ -893,14 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell of Breadalbane](/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/)
-- [Campbell of Breadalbane](/setts/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/)
-
 
 ## Thread count
 DB/52 K8 DB8 K8 DB8 K54 Y10 G94 Y10 K54 DB50 K8 DB/8

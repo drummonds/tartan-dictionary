@@ -2,10 +2,9 @@
 title: "Reidy Wedding"
 date: 2023-03-18
 ---
-**Bands:** [GGYGGBB](/stripes/ggyggbb/) · **Stripes:** [G DG LO DG G DB DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DG LO DG G DB DP</span></span>
+In pattern [BBGGYGG](/stripes/bbggygg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11293
 

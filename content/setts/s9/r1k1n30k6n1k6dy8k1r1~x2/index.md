@@ -2,10 +2,9 @@
 title: "Klappert Original (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKBKBKR](/stripes/rkgkbkbkr/) · **Stripes:** [R K DY K N K N K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DY K N K N K R</span></span>
+In pattern [RKBKBKGKR](/stripes/rkbkbkgkr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10475/
 

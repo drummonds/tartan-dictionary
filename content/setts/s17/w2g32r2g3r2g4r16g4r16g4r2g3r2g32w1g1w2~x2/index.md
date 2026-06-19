@@ -2,10 +2,9 @@
 title: "Rothesay, hunting"
 date: 2023-03-18
 ---
-**Bands:** [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/) · **Stripes:** [W G R G R G R G R G R G R G W G W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G R G R G R G R G R G R G W G W</span></span>
+In pattern [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Rothesay Hunting (District)](/setts/s17/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/)
-
 
 ## Thread count
 LN/4 G64 R4 G6 R4 G8 R32 G8 R32 G8 R4 G6 R4 G64 LN2 G2 LN/4

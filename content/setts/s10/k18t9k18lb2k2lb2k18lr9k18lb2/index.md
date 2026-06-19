@@ -2,10 +2,9 @@
 title: "London Fog Black 2 (fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KBKWKWKYKW](/stripes/kbkwkwkykw/) · **Stripes:** [K T K LB K LB K LR K LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K T K LB K LB K LR K LB</span></span>
+In pattern [KBKWKWKYKW](/stripes/kbkwkwkykw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7316/
 

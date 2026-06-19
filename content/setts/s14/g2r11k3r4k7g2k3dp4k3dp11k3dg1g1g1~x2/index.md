@@ -2,10 +2,9 @@
 title: "King, Garry (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRKRKGKBKBKGGG](/stripes/grkrkgkbkbkggg/) · **Stripes:** [G R K R K G K DP K DP K DG G G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R K R K G K DP K DP K DG G G</span></span>
+In pattern [GGGKBKBKGKRKRG](/stripes/gggkbkbkgkrkrg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11329
 

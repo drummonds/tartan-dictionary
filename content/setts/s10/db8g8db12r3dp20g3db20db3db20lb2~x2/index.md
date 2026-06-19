@@ -2,10 +2,9 @@
 title: "Strathisla (District)"
 date: 2023-03-18
 ---
-**Bands:** [BGBRBGBBBW](/stripes/bgbrbgbbbw/) · **Stripes:** [DB G DB R DP G DB DB DB LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB G DB R DP G DB DB DB LB</span></span>
+In pattern [BGBRBGBBBW](/stripes/bgbrbgbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4101/
 

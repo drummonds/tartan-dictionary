@@ -2,10 +2,9 @@
 title: "Drummond - 1739 Lord John (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGWGWGRKRWR](/stripes/krkrgwgwgrkrwr/) · **Stripes:** [K R K R DG W Y W DG R K R LB R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R DG W Y W DG R K R LB R</span></span>
+In pattern [KRKRGWGWGRKRWR](/stripes/krkrgwgwgrkrwr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8294/
 

@@ -2,10 +2,9 @@
 title: "Purdy, R Scott (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKYKYGYYYKRYKRY](/stripes/rkykygyyykrykry/) · **Stripes:** [R K LY K LY G LY LY LY K R LY K R LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K LY K LY G LY LY LY K R LY K R LY</span></span>
+In pattern [RKYKYGYYYKRYKRY](/stripes/rkykygyyykrykry/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10934/
 

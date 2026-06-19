@@ -2,10 +2,9 @@
 title: "Justus International"
 date: 2023-03-18
 ---
-**Bands:** [BYBWBGB](/stripes/bybwbgb/) · **Stripes:** [P LY P W P G P](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P LY P W P G P</span></span>
+In pattern [BGBWBYB](/stripes/bgbwbyb/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

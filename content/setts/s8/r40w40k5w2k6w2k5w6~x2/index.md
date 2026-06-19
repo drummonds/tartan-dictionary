@@ -2,19 +2,11 @@
 title: "Masai Shuka 14 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RWKWKWKW](/stripes/rwkwkwkw/) · **Stripes:** [R W K W K W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W K W K W K W</span></span>
+In pattern [RWKWKWKW](/stripes/rwkwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7204/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glen Feshie Check](/setts/s8/r4w4k3w4k4w4k4w4~x2/)
-
 
 ## Thread count
 R/80 W80 K10 W4 K12 W4 K10 W/12

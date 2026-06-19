@@ -2,10 +2,9 @@
 title: "Junor (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRBBBBYBRBYBBBBR](/stripes/krbbbbybrbybbbbr/) · **Stripes:** [K R T DB T DB LY DB R DB LY DB T DB T R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R T DB T DB LY DB R DB LY DB T DB T R</span></span>
+In pattern [KRBBBBYBRBYBBBBR](/stripes/krbbbbybrbybbbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1914
 

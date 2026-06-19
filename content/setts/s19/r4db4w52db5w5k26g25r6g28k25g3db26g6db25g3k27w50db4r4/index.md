@@ -2,10 +2,9 @@
 title: "Lauder Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBWKGBGBGKGRGKWBWBR](/stripes/rbwkgbgbgkgrgkwbwbr/) · **Stripes:** [R DB W K G DB G DB G K G R G K W DB W DB R](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB W K G DB G DB G K G R G K W DB W DB R</span></span>
+In pattern [RBWBWKGRGKGBGBGKWBR](/stripes/rbwbwkgrgkgbgbgkwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2058
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2058](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2058)
 - Scottish Tartans Authority (ITI): 1435
 - Scottish Tartans World Register: 1435
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lauder](/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/)
-
 
 ## Thread count
 R/4 DB4 LN52 DB5 LN5 K26 G25 R6 G28 K25 G3 DB26 G6 DB25 G3 K27 LN50 DB4 R/4

@@ -2,10 +2,9 @@
 title: "McFly School"
 date: 2023-03-18
 ---
-**Bands:** [RKBKYKBKBBKKW](/stripes/rkbkykbkbbkkw/) · **Stripes:** [O K DB K LO K DB K DB DB K K LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">O K DB K LO K DB K DB DB K K LB</span></span>
+In pattern [RKBKYKBKBBKKW](/stripes/rkbkykbkbbkkw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2882
 

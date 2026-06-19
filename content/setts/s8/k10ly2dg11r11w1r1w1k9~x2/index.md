@@ -2,10 +2,9 @@
 title: "Unidentified No 5"
 date: 2023-03-18
 ---
-**Bands:** [KYGRWRWK](/stripes/kygrwrwk/) · **Stripes:** [K LY DG R W R W K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K LY DG R W R W K</span></span>
+In pattern [KWRWRGYK](/stripes/kwrwrgyk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4326
 

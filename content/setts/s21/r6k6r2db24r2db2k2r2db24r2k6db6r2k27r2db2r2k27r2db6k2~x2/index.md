@@ -2,10 +2,9 @@
 title: "Buchan (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KBRKRBRKRBKRBRKBRBRKR](/stripes/kbrkrbrkrbkrbrkbrbrkr/) · **Stripes:** [K DB R K R DB R K R DB K R DB R K DB R DB R K R](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB R K R DB R K R DB K R DB R K DB R DB R K R</span></span>
+In pattern [KBRKRBRKRBKRBRKBRBRKR](/stripes/kbrkrbrkrbkrbrkbrbrkr/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1991/
 

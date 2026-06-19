@@ -2,10 +2,9 @@
 title: "Unidentified #4"
 date: 2023-03-18
 ---
-**Bands:** [GRBB](/stripes/grbb/) · **Stripes:** [DG R DB T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG R DB T</span></span>
+In pattern [BBRG](/stripes/bbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4205
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4205](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4205)
 - Scottish Tartans World Register: 70
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNab](/setts/s4/dg15r3db11t2~x2/)
-
 
 ## Thread count
 G/28 R6 Ba18 B/4

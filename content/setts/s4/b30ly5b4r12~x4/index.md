@@ -2,10 +2,9 @@
 title: "UEFA (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBYB](/stripes/rbyb/) · **Stripes:** [R B LY B](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R B LY B</span></span>
+In pattern [BYBR](/stripes/bybr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6385/
 

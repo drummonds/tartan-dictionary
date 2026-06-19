@@ -2,10 +2,9 @@
 title: "Laggen Dress (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GKKKGKKKGKG](/stripes/gkkkgkkkgkg/) · **Stripes:** [Y K K K Y K K K Y K Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y K K K Y K K K Y K Y</span></span>
+In pattern [GKGKKKGKKKG](/stripes/gkgkkkgkkkg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5375/
 

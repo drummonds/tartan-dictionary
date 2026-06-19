@@ -2,10 +2,9 @@
 title: "Ferring Pharmaceuticals"
 date: 2023-03-18
 ---
-**Bands:** [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/) · **Stripes:** [LB DB B DB B DB B T B DB B DB DB B LB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DB B DB B DB B T B DB B DB DB B LB</span></span>
+In pattern [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172
 

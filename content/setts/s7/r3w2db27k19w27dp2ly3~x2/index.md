@@ -2,10 +2,9 @@
 title: "Christian Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWBKWBY](/stripes/rwbkwby/) · **Stripes:** [R W DB K W DP LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W DB K W DP LY</span></span>
+In pattern [RWBKWBY](/stripes/rwbkwby/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=646
 

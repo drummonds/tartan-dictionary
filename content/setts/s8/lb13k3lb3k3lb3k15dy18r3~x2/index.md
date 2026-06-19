@@ -2,10 +2,9 @@
 title: "Holden Brown (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGKWKWKW](/stripes/rgkwkwkw/) · **Stripes:** [R DY K LB K LB K LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DY K LB K LB K LB</span></span>
+In pattern [RGKWKWKW](/stripes/rgkwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8679/
 

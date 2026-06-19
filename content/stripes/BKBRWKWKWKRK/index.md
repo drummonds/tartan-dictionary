@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbrwkwkwkrk/
 ---
-BKBRWKWKWKRK
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-BKBRWKWKWKRK
+
+{{< pat "BKBRWKWKWKRK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K R K W K W K W R DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K W K W K W R DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Bishop](/setts/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/)|
 |![Bishop example sett](/setts/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/sett.png)|
-

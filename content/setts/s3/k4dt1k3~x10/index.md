@@ -2,10 +2,9 @@
 title: "Ben Dubh (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KBK](/stripes/kbk/) · **Stripes:** [K DT K](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">K DT K</span></span>
+In pattern [KBK](/stripes/kbk/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6681/
 

@@ -2,10 +2,9 @@
 title: "Austin (Wilson's No 137)"
 date: 2023-03-18
 ---
-**Bands:** [RGBKB](/stripes/rgbkb/) · **Stripes:** [R DG DP K DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DG DP K DP</span></span>
+In pattern [BKBGR](/stripes/bkbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=135
 

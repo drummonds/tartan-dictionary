@@ -2,10 +2,9 @@
 title: "Australian Heavy Horse"
 date: 2023-03-18
 ---
-**Bands:** [BYBWBBKBBB](/stripes/bybwbbkbbb/) · **Stripes:** [N LR N W DO N K N N N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="seq">N LR N W DO N K N N N</span></span>
+In pattern [BBBKBBWBYB](/stripes/bbbkbbwbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10136
 

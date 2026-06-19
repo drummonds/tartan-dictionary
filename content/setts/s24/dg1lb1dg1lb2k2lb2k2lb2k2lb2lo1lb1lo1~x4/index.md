@@ -2,10 +2,9 @@
 title: "Glen Flesk Fashion Restricted Tartan Tartan Number: 2369. Earliest known date: 1997 Designed in May 1997 by Lochcarron for The Check Trading Co, Tokyo, Japan. Based on the Burns Check. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GWGWKWKWKWYWYWYWKWKWKWGW](/stripes/gwgwkwkwkwywywywkwkwkwgw/) · **Stripes:** [DG LB DG LB K LB K LB K LB LO LB LO LB LO LB K LB K LB K LB DG LB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG LB DG LB K LB K LB K LB LO LB LO LB LO LB K LB K LB K LB DG LB</span></span>
+In pattern [GWGWKWKWKWYWYWYWKWKWKWGW](/stripes/gwgwkwkwkwywywywkwkwkwgw/).
 
-
-This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2369
 

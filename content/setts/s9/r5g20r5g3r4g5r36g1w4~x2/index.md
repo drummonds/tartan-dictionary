@@ -2,10 +2,9 @@
 title: "Fitzgerald/Baluchistan"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGW](/stripes/rgrgrgrgw/) · **Stripes:** [R G R G R G R G W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R G R G R G W</span></span>
+In pattern [RGRGRGRGW](/stripes/rgrgrgrgw/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Baluch Regiment](/setts/s9/r4g24r6g4r4g6r44g1w4~x2/)
-
 
 ## Thread count
 DR/10 G40 DR10 G6 DR8 G10 DR72 G2 LN/8

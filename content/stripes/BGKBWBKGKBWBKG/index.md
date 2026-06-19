@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgkbwbkgkbwbkg/
 ---
-BGKBWBKGKBWBKG
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-BGKBWBKGKBWBKG
+
+{{< pat "BGKBWBKGKBWBKG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G K DB LB DB K G K DB LB DB K G DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB LB DB K G K DB LB DB K G DB</span></span>
 
 | Tartans |
 |---------------|
 | [Tiger of Sweden](/setts/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/)|
 |![Tiger of Sweden example sett](/setts/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/sett.png)|
-

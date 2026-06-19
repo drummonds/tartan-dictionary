@@ -2,10 +2,9 @@
 title: "Confessore (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGYRYRYGKGKWK](/stripes/kgkgyryrygkgkwk/) · **Stripes:** [K Y K Y LY R LY R LY Y K Y K W K](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K Y K Y LY R LY R LY Y K Y K W K</span></span>
+In pattern [KGKGYRYRYGKGKWK](/stripes/kgkgyryrygkgkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=735
 

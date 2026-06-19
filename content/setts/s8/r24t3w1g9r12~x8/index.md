@@ -2,10 +2,9 @@
 title: "Menzies"
 date: 2023-03-18
 ---
-**Bands:** [RGWBRBWG](/stripes/rgwbrbwg/) · **Stripes:** [R G W T R T W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G W T R T W G</span></span>
+In pattern [GWBRBWGR](/stripes/gwbrbwgr/).
 
-
-This was sourced from logan-1831.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link /posts/logans-scottish-gael/
 

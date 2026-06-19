@@ -2,10 +2,9 @@
 title: "Scotts Valley"
 date: 2023-03-18
 ---
-**Bands:** [GRYRWGRWB](/stripes/gryrwgrwb/) · **Stripes:** [DG R LY R LB DG R LB DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R LY R LB DG R LB DB</span></span>
+In pattern [BWRGWRYRG](/stripes/bwrgwryrg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3751
 

@@ -2,10 +2,9 @@
 title: "Hebridean Old"
 date: 2023-03-18
 ---
-**Bands:** [KBGBKBBKB](/stripes/kbgbkbbkb/) · **Stripes:** [K DB G B K B DB K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB G B K B DB K DB</span></span>
+In pattern [BKBBKBGBK](/stripes/bkbbkbgbk/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Royal Stewart, (Variant)"
 date: 2023-03-18
 ---
-**Bands:** [BRKRGKBKYKBB](/stripes/brkrgkbkykbb/) · **Stripes:** [T R K R G K T K LY K DB T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R K R G K T K LY K DB T</span></span>
+In pattern [BBKYKBKGRKRB](/stripes/bbkykbkgrkrb/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart Blue](/setts/s12/t29db3k10ly2k2t2k2g10r5k3r2t2~x2/)
-
 
 ## Thread count
 Ba/57 B4 K8 Y4 K4 Ba4 K4 G8 R6 K4 R4 Ba/2

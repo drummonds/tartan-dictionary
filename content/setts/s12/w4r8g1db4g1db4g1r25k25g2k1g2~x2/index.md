@@ -2,10 +2,9 @@
 title: "Tweedbank"
 date: 2023-03-18
 ---
-**Bands:** [GKGKRGBGBGRW](/stripes/gkgkrgbgbgrw/) · **Stripes:** [G K G K R G DB G DB G R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G K G K R G DB G DB G R W</span></span>
+In pattern [GKGKRGBGBGRW](/stripes/gkgkrgbgbgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4166
 

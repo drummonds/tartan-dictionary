@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkykykykykbrkykr/
 ---
-BKYKYKYKYKBRKYKR
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-BKYKYKYKYKBRKYKR
+
+{{< pat "BKYKYKYKYKBRKYKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K LO K R DB K LO K LO K LR K LO K DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K LO K R DB K LO K LO K LR K LO K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Oneness](/setts/s16/db12k2lo28k2lr2k2lo2k2lo28k2db12r12k3lo2k3r12~x2/)|
 |![Oneness example sett](/setts/s16/db12k2lo28k2lr2k2lo2k2lo28k2db12r12k3lo2k3r12~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Bell-McTier Thistle"
 date: 2023-03-18
 ---
-**Bands:** [BBKGBGBGBGBGBGBW](/stripes/bbkgbgbgbgbgbgbw/) · **Stripes:** [N DB K DG N DG N DG N DG N DG N DG N W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">N DB K DG N DG N DG N DG N DG N DG N W</span></span>
+In pattern [BBKGBGBGBGBGBGBW](/stripes/bbkgbgbgbgbgbgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10380
 

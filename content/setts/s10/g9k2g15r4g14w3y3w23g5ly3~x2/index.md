@@ -2,10 +2,9 @@
 title: "Taylor, dress"
 date: 2023-03-18
 ---
-**Bands:** [YGWGWGRGKG](/stripes/ygwgwgrgkg/) · **Stripes:** [LY G W Y W G R G K G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G W Y W G R G K G</span></span>
+In pattern [GKGRGWGWGY](/stripes/gkgrgwgwgy/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

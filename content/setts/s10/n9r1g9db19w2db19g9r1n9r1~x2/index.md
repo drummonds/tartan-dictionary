@@ -2,10 +2,9 @@
 title: "Wilton (Toronto) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGBWBGRB](/stripes/rbrgbwbgrb/) · **Stripes:** [R N R G DB W DB G R N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">R N R G DB W DB G R N</span></span>
+In pattern [BRGBWBGRBR](/stripes/brgbwbgrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4763
 

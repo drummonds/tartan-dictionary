@@ -2,22 +2,11 @@
 title: "93rd Regiment (Military)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKBKBKB](/stripes/bkbkgkgkbkbkb/) · **Stripes:** [DB K DB K G K G K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G K G K DB K DB K DB</span></span>
+In pattern [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3002/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Watch, A&S Highlanders](/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/)
-- [Campbell](/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/)
-- [Campbell Clan Tartan Tartan Number: 1. Earliest known date: 1725 The tartan appointed for the Highland Companies in 1725 and later for the Black Watch in 1739 may in fact have been worn by the Campbells at an earlier date. There is a strong possibility that many others wore the sett or something similar before the idea of distinctive clan tartans took hold. This tartan is worn by the present Duke of Argyll, who has approved the sett. The Black Watch is usually dyed in darker shades. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db12k2db2k2db2k10g12k3g12k10db11k2db2~x2/)
-- [Grant Hunting or Black Watch](/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/)
-
 
 ## Thread count
 DB/32 K6 DB6 K6 DB6 K32 G30 K6 G30 K32 DB30 K6 DB/6

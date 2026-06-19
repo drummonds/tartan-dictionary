@@ -2,7 +2,7 @@
 title: Tartan Dictionary
 subtitle: Understanding Scottish tartan by its patterns
 date: 2023-03-18
-lastmod: 2026-06-11
+lastmod: 2026-06-19
 author: Humphrey Drummond
 background: /bg/home.png # the Falkirk tartan, c. 260 AD — Scotland's first
 ---
@@ -13,9 +13,10 @@ your own.
 
 {{< clanmap >}}
 
-*The clans of Scotland as the 1745 [Memorial](/posts/clanmap/) found them — each country shown in
-its own tartan, sized by the men it could raise, divided by the Highland Line. A first sketch:
-positions are approximate and a date slider is still to come.*
+*Scotland in tartan — each clan's country filled with its own sett, the Lowlands and Borders in
+the Shepherd/Falkirk check. Toggle the era to watch tartan country advance from the 1745
+[Memorial](/posts/clanmap/)'s Highland Line to the whole of Scotland today. A first sketch:
+positions are approximate and a true date slider is still to come.*
 
 Most catalogues identify a cloth by its name, or by the weaver's exact thread-count recipe. This
 dictionary works one level up, at the **pattern** — the design itself, set apart from precise
@@ -30,6 +31,8 @@ Wilson "New Grant" it was long confused with, is the worked example.
   over the generations.
 - **Weave your own** — the [TTD navigator](/ttd/) weaves any tartan in your browser, recorded
   or not, and finds its nearest existing neighbours.
+- **Match a logo** — drop a [logo or brand colours](/logo/) and find the existing tartans
+  closest to it.
 - **Read the story** — [what tartan is](/posts/), and where the tradition comes from.
 
 This is an early site, and it is growing. On the way: a public-good guide to weavers and makers

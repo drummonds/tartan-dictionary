@@ -2,19 +2,11 @@
 title: "Graham of Menteith (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGBG](/stripes/kbkgbg/) · **Stripes:** [K DB K G T G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K G T G</span></span>
+In pattern [GBGKBK](/stripes/gbgkbk/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/698/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Graham of Menteith](/setts/s6/g18t2g4k14db12k3~x2/)
-
 
 ## Thread count
 G/32 B4 G4 K24 DB24 K/4

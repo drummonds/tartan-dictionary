@@ -2,10 +2,9 @@
 title: "Loch Morar"
 date: 2023-03-18
 ---
-**Bands:** [RWRKW](/stripes/rwrkw/) · **Stripes:** [R W R K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R K W</span></span>
+In pattern [RWRKW](/stripes/rwrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2154
 

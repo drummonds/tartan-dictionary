@@ -2,10 +2,9 @@
 title: "Mirror (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBKW](/stripes/rbkw/) · **Stripes:** [R DB K W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K W</span></span>
+In pattern [RBKW](/stripes/rbkw/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6218/
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2963](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2963)
 - Scottish Tartans Authority (ITI): 6218
 - Scottish Tartans World Register: 2893
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scottish Nuclear](/setts/s4/r4db32k15w2~x2/)
-
 
 ## Thread count
 R/20 DB104 K48 W/8

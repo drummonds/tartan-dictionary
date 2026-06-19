@@ -2,10 +2,9 @@
 title: "Davidson"
 date: 2023-03-18
 ---
-**Bands:** [RBKGW](/stripes/rbkgw/) · **Stripes:** [R DB K G W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K G W</span></span>
+In pattern [RBKGW](/stripes/rbkgw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,14 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Davidson of Tulloch](/setts/s5/r2db10k5g12w2~x2/)
-- [Davidson of Tulloch (Clan)](/setts/s5/r1db7k7g7w1~x6/)
-
 
 ## Thread count
 R/4 B24 K12 G24 LN/4

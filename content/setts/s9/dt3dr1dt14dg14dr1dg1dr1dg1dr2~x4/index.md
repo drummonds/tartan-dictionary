@@ -2,10 +2,9 @@
 title: "Breckon Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBBB](/stripes/bgbgbgbbb/) · **Stripes:** [DR DG DR DG DR DG DT DR DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#023535"></span><span class="seq">DR DG DR DG DR DG DT DR DT</span></span>
+In pattern [BBBGBGBGB](/stripes/bbbgbgbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10031
 

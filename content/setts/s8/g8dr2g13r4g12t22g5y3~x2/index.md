@@ -2,10 +2,9 @@
 title: "Kildare"
 date: 2023-03-18
 ---
-**Bands:** [GGBGRGBG](/stripes/ggbgrgbg/) · **Stripes:** [Y G T G R G DR G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="seq">Y G T G R G DR G</span></span>
+In pattern [GBGRGBGG](/stripes/gbgrgbgg/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

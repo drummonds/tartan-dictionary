@@ -2,10 +2,9 @@
 title: "Black Watch (Band Plaid)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRGRBRBRB](/stripes/brbrgrgrbrbrb/) · **Stripes:** [DB R DB R G R G R DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R G R G R DB R DB R DB</span></span>
+In pattern [BRBRBRGRGRBRB](/stripes/brbrbrgrgrbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=278
 

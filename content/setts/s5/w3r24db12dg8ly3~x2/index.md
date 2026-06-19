@@ -2,10 +2,9 @@
 title: "McGill University"
 date: 2023-03-18
 ---
-**Bands:** [YGBRW](/stripes/ygbrw/) · **Stripes:** [LY DG DB R W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DG DB R W</span></span>
+In pattern [WRBGY](/stripes/wrbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10755
 

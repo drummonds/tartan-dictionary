@@ -2,10 +2,9 @@
 title: "MacDougall - 1819 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRRRRBRGRGRRRRRBRGRGRRRG](/stripes/grrrrbrgrgrrrrrbrgrgrrrg/) · **Stripes:** [Y R R R R DP R Y R Y R R R R R DP R Y R Y R R R Y](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y R R R R DP R Y R Y R R R R R DP R Y R Y R R R Y</span></span>
+In pattern [GRRRGRGRBRRRRRGRGRBRRRRG](/stripes/grrrgrgrbrrrrrgrgrbrrrrg/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/567/
 

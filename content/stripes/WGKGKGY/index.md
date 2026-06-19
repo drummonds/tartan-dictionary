@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/wgkgkgy/
 ---
-WGKGKGY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/ly3dg24k11dg3k10dg3w2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-WGKGKGY
+
+{{< pat "WGKGKGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DG K DG K DG W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DG K DG K DG W</span></span>
 
 | Tartans |
 |---------------|
 | [Cornish Brewery, Green](/setts/s7/ly3dg24k11dg3k10dg3w2~x2/)|
 |![Cornish Brewery, Green example sett](/setts/s7/ly3dg24k11dg3k10dg3w2~x2/sett.png)|
-

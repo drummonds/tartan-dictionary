@@ -2,10 +2,9 @@
 title: "Justus Check (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KY](/stripes/ky/) · **Stripes:** [K LY](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY</span></span>
+In pattern [KY](/stripes/ky/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1919
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1919](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1919)
 - Scottish Tartans Authority (ITI): 2733
 - Scottish Tartans World Register: 2733
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Justus Check (Personal)](/setts/s2/k1ly1~x50/)
-
 
 ## Thread count
 K/40 Y/40

@@ -2,19 +2,11 @@
 title: "Manson (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GRGKGRKBW](/stripes/grgkgrkbw/) · **Stripes:** [DG R DG K DG R K DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG R DG K DG R K DB W</span></span>
+In pattern [GRGKGRKBW](/stripes/grgkgrkbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/987/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Manson](/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/)
-
 
 ## Thread count
 G/2 R22 G6 K8 G8 R2 K4 DB22 LN/2

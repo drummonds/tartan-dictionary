@@ -2,10 +2,9 @@
 title: "Riyadh Caledonian (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GWGYBBBGBWBGB](/stripes/gwgybbbgbwbgb/) · **Stripes:** [G W G LY DB DP DB G DB W DB G DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G W G LY DB DP DB G DB W DB G DB</span></span>
+In pattern [BGBWBGBBBYGWG](/stripes/bgbwbgbbbygwg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7750/
 

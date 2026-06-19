@@ -2,10 +2,9 @@
 title: "Westmeath County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKYKBYBWKBKRKY](/stripes/rkbkykbybwkbkrky/) · **Stripes:** [R K DB K LO K DB LO DB W K DB K R K LO](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K DB K LO K DB LO DB W K DB K R K LO</span></span>
+In pattern [RKBKYKBYBWKBKRKY](/stripes/rkbkykbybwkbkrky/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7434/
 

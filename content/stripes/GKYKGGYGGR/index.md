@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gkykggyggr/
 ---
-GKYKGGYGGR
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GKYKGGYGGR
+
+{{< pat "GKYKGGYGGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG DY LO DY DG K LO K DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG DY LO DY DG K LO K DG</span></span>
 
 | Tartans |
 |---------------|
 | [Grenauld](/setts/s10/dg36k52lo2k8dg8dy8lo2dy6dg36r1~x2/)|
 |![Grenauld example sett](/setts/s10/dg36k52lo2k8dg8dy8lo2dy6dg36r1~x2/sett.png)|
-

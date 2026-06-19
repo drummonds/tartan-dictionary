@@ -2,10 +2,9 @@
 title: "French Freemasons' Pride (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBBBB](/stripes/brbbbb/) · **Stripes:** [DB R T N T N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="seq">DB R T N T N</span></span>
+In pattern [BBBBRB](/stripes/bbbbrb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10557/
 

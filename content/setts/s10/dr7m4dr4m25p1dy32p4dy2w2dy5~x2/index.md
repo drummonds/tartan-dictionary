@@ -2,10 +2,9 @@
 title: "Bell, John"
 date: 2023-03-18
 ---
-**Bands:** [GWGBGBRBRB](/stripes/gwgbgbrbrb/) · **Stripes:** [DY W DY P DY P M DR M DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#55120C"></span><span class="seq">DY W DY P DY P M DR M DR</span></span>
+In pattern [BRBRBGBGWG](/stripes/brbrbgbgwg/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

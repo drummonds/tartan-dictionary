@@ -2,10 +2,9 @@
 title: "Morgan of Wales"
 date: 2023-03-18
 ---
-**Bands:** [RYBYRYBYBYR](/stripes/rybyrybybyr/) · **Stripes:** [R LY DO LY R LY DO LY DO LY R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY DO LY R LY DO LY DO LY R</span></span>
+In pattern [RYBYBYRYBYR](/stripes/rybybyrybyr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3013
 

@@ -2,10 +2,9 @@
 title: "Barkway Wedding 2012"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGGGGGBKBKBKRKW](/stripes/gggggggggbkbkbkrkw/) · **Stripes:** [DG DG DG DG DG DG DG DG DG DT K DT K DT K R K W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG DG DG DG DG DG DG DG DG DT K DT K DT K R K W</span></span>
+In pattern [GGGGGGGGGBKBKBKRKW](/stripes/gggggggggbkbkbkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10671
 

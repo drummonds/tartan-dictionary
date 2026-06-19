@@ -2,10 +2,9 @@
 title: "Spirit of Glyndwr Gold (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKR](/stripes/kbkbkbkr/) · **Stripes:** [K N K N K N K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K N K N K N K R</span></span>
+In pattern [KBKBKBKR](/stripes/kbkbkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8351/
 

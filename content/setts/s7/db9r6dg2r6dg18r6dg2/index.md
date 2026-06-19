@@ -2,10 +2,9 @@
 title: "Skene D"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRB](/stripes/grgrgrb/) · **Stripes:** [DG R DG R DG R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DG R DG R DB</span></span>
+In pattern [BRGRGRG](/stripes/brgrgrg/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -40,13 +39,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Skene D](/setts/s7/db9r6dg2r6dg18r6dg2~x2/)
-
 
 ## Thread count
 DB/9 R6 G2 R6 G18 R6 G/2

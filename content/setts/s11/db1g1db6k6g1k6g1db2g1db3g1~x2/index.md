@@ -2,10 +2,9 @@
 title: "Clergy 2"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGKGKBGB](/stripes/gbgbgkgkbgb/) · **Stripes:** [G DB G DB G K G K DB G DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB G K G K DB G DB</span></span>
+In pattern [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,14 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cargill](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/)
-- [Clergy 3](/setts/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/)
-
 
 ## Thread count
 G/2 B6 G2 B4 G2 K12 G2 K12 B12 G2 B/2

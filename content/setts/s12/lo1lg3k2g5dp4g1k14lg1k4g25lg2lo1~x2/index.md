@@ -2,10 +2,9 @@
 title: "Walker, Gauvin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YYKGBGKYKGYY](/stripes/yykgbgkykgyy/) · **Stripes:** [LO LG K G DP G K LG K G LG LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO LG K G DP G K LG K G LG LO</span></span>
+In pattern [YYGKYKGBGKYY](/stripes/yygkykgbgkyy/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10304/
 

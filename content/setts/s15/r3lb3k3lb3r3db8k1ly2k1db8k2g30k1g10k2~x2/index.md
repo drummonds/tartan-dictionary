@@ -2,10 +2,9 @@
 title: "Coigach"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKBKYKBRWKWR](/stripes/kgkgkbkykbrwkwr/) · **Stripes:** [K G K G K DB K LY K DB R LB K LB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K G K DB K LY K DB R LB K LB R</span></span>
+In pattern [KGKGKBKYKBRWKWR](/stripes/kgkgkbkykbrwkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=706
 

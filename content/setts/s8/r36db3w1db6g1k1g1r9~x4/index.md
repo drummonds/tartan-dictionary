@@ -2,19 +2,11 @@
 title: "Inverness - 1829 (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGBWBR](/stripes/rgkgbwbr/) · **Stripes:** [R G K G DB W DB R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K G DB W DB R</span></span>
+In pattern [RBWBGKGR](/stripes/rbwbgkgr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1438/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Inverness](/setts/s8/r36db3w1db6g1k1g1r9~x2/)
-
 
 ## Thread count
 R/144 DB12 W4 DB24 G4 K4 G4 R/36

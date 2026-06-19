@@ -2,10 +2,9 @@
 title: "Kelsey, William (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKBYKYBGRGRG](/stripes/ykbykybgrgrg/) · **Stripes:** [LY K DB LR K LR DB G R G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K DB LR K LR DB G R G R G</span></span>
+In pattern [GRGRGBYKYBKY](/stripes/grgrgbykybky/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11198
 

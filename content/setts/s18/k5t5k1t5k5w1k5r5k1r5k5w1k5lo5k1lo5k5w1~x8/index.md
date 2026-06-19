@@ -2,10 +2,9 @@
 title: "Children In Need (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKWKRKRKWKYKYKW](/stripes/kbkbkwkrkrkwkykykw/) · **Stripes:** [K T K T K W K R K R K W K LO K LO K W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K T K T K W K R K R K W K LO K LO K W</span></span>
+In pattern [KBKBKWKRKRKWKYKYKW](/stripes/kbkbkwkrkrkwkykykw/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7863/
 

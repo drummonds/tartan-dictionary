@@ -2,10 +2,9 @@
 title: "Forrester/Foster Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KYGWGKYKGW](/stripes/kygwgkykgw/) · **Stripes:** [K LY G W G K LY K G W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LY G W G K LY K G W</span></span>
+In pattern [KYGWGKYKGW](/stripes/kygwgkykgw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1234
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1234](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1234)
 - Scottish Tartans Authority (ITI): 2385
 - Scottish Tartans World Register: 2385
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Forrester / Foster, hunting](/setts/s10/k3ly2g18w3g18k3ly4k3g18w3~x2/)
-
 
 ## Thread count
 K/6 Y4 G36 W6 G26 K6 Y8 K6 Ga36 W/6

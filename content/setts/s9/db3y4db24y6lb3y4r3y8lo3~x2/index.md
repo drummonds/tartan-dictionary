@@ -2,10 +2,9 @@
 title: "Scottish Borders Tourist Board (Corp"
 date: 2023-03-18
 ---
-**Bands:** [YGRGWGBGB](/stripes/ygrgwgbgb/) · **Stripes:** [LO Y R Y LB Y DB Y DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">LO Y R Y LB Y DB Y DB</span></span>
+In pattern [BGBGWGRGY](/stripes/bgbgwgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4040/
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bwky/
 ---
-BWKY
-
-It is a 4 band tartan.
+It is a 4 stripe tartan.
 
 ![Woven sample](/setts/s4/n62w11k4lg17~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BWKY
+
+{{< pat "BWKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LG K W N <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">LG K W N</span></span>
 
 | Tartans |
 |---------------|
 | [Thunderlord (Corporate)](/setts/s4/n62w11k4lg17~x2/)|
 |![Thunderlord (Corporate) example sett](/setts/s4/n62w11k4lg17~x2/sett.png)|
-

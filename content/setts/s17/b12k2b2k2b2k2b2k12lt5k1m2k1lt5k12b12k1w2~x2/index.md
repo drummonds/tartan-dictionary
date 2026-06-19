@@ -2,10 +2,9 @@
 title: "Donside Trampoline Club"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKWKRKWKBKW](/stripes/bkbkbkbkwkrkwkbkw/) · **Stripes:** [B K B K B K B K LT K M K LT K B K W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B K B K B K B K LT K M K LT K B K W</span></span>
+In pattern [BKBKBKBKWKRKWKBKW](/stripes/bkbkbkbkwkrkwkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10969
 

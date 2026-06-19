@@ -2,10 +2,9 @@
 title: "Ironside (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKBWB](/stripes/kbkbkbkbwb/) · **Stripes:** [K DP K B K B K DP W DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K B K B K DP W DP</span></span>
+In pattern [BWBKBKBKBK](/stripes/bwbkbkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3990/
 

@@ -2,10 +2,9 @@
 title: "Orion Nebula"
 date: 2023-03-18
 ---
-**Bands:** [RGRBY](/stripes/rgrby/) · **Stripes:** [M G R B LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">M G R B LY</span></span>
+In pattern [RGRBY](/stripes/rgrby/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10632
 

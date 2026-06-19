@@ -2,10 +2,9 @@
 title: "All Ireland Green"
 date: 2023-03-18
 ---
-**Bands:** [RGWGWGWGWGRGG](/stripes/rgwgwgwgwgrgg/) · **Stripes:** [R G LB DG LB DG LB G LB G R G G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G LB DG LB DG LB G LB G R G G</span></span>
+In pattern [GGRGWGWGWGWGR](/stripes/ggrgwgwgwgwgr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=53
 

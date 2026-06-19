@@ -2,10 +2,9 @@
 title: "Connacht (1993)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRG](/stripes/rgrgrgrgrg/) · **Stripes:** [O DG O DG O DG O DY O DY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">O DG O DG O DG O DY O DY</span></span>
+In pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=739
 

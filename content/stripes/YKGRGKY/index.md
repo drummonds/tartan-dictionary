@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/ykgrgky/
 ---
-YKGRGKY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/lg31k18dg13r3dg13k1ly3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-YKGRGKY
+
+{{< pat "YKGRGKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY K DG R DG K LG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LY K DG R DG K LG</span></span>
 
 | Tartans |
 |---------------|
 | [Big Sur MacLaren (Personal)](/setts/s7/lg31k18dg13r3dg13k1ly3~x2/)|
 |![Big Sur MacLaren (Personal) example sett](/setts/s7/lg31k18dg13r3dg13k1ly3~x2/sett.png)|
-

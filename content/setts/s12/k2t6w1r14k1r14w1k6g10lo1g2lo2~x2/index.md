@@ -2,10 +2,9 @@
 title: "Ogg of Tarragann (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBWRKRWKGYGY](/stripes/kbwrkrwkgygy/) · **Stripes:** [K T W R K R W K G LO G LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K T W R K R W K G LO G LO</span></span>
+In pattern [KBWRKRWKGYGY](/stripes/kbwrkrwkgygy/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10178/
 

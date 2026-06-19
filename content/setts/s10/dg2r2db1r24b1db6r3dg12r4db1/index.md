@@ -2,10 +2,9 @@
 title: "MacDonell of Keppoch"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBBRGRB](/stripes/grbrbbrgrb/) · **Stripes:** [DG R DB R B DB R DG R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DB R B DB R DG R DB</span></span>
+In pattern [BRGRBBRBRG](/stripes/brgrbbrbrg/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonell of Keppoch](/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/)
-
 
 ## Thread count
 DG/2 DR2 DB1 DR24 Ba1 DB6 DR3 DG12 DR4 DB/1

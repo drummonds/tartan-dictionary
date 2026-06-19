@@ -2,10 +2,9 @@
 title: "Sturm (2016)"
 date: 2023-03-18
 ---
-**Bands:** [KGYKGKGKBGB](/stripes/kgykgkgkbgb/) · **Stripes:** [K Y LO K Y K DY K DP Y DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">K Y LO K Y K DY K DP Y DB</span></span>
+In pattern [BGBKGKGKYGK](/stripes/bgbkgkgkygk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11471
 

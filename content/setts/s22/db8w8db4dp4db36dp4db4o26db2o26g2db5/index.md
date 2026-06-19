@@ -2,10 +2,9 @@
 title: "Historic Scotland (1998)"
 date: 2023-03-18
 ---
-**Bands:** [BWBBBBBRBRGBGRBRBBBBBW](/stripes/bwbbbbbrbrgbgrbrbbbbbw/) · **Stripes:** [DB W DB DP DB DP DB O DB O G DB G O DB O DB DP DB DP DB W](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB DP DB DP DB O DB O G DB G O DB O DB DP DB DP DB W</span></span>
+In pattern [BWBBBBBRBRGBGRBRBBBBBW](/stripes/bwbbbbbrbrgbgrbrbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1739
 

@@ -2,10 +2,9 @@
 title: "Orlando Police Department"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBYBBBBBBYB](/stripes/ybbbbbbybbbbbbyb/) · **Stripes:** [LY T DB T DB T DB LY DB T DB T DB T LY DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY T DB T DB T DB LY DB T DB T DB T LY DB</span></span>
+In pattern [BYBBBBBBYBBBBBBY](/stripes/bybbbbbbybbbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3265
 

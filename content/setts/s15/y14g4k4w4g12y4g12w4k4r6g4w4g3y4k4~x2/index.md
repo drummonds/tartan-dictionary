@@ -2,10 +2,9 @@
 title: "Gayre Dress (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KGGWGRKWGGGWKGG](/stripes/kggwgrkwgggwkgg/) · **Stripes:** [K Y G W G R K W G Y G W K G Y](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y G W G R K W G Y G W K G Y</span></span>
+In pattern [GGKWGGGWKRGWGGK](/stripes/ggkwgggwkrgwggk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/161/
 

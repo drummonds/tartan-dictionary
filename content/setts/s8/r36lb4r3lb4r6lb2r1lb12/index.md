@@ -2,10 +2,9 @@
 title: "Menzies Dress"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRWRW](/stripes/rwrwrwrw/) · **Stripes:** [R LB R LB R LB R LB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB R LB R LB R LB</span></span>
+In pattern [RWRWRWRW](/stripes/rwrwrwrw/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

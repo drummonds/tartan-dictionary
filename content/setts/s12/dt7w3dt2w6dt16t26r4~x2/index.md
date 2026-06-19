@@ -2,10 +2,9 @@
 title: "Keela"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBBRBBWBW](/stripes/bwbwbbrbbwbw/) · **Stripes:** [DT W DT W DT T R T DT W DT W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT W DT W DT T R T DT W DT W</span></span>
+In pattern [BWBWBBRBBWBW](/stripes/bwbwbbrbbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1933
 

@@ -2,10 +2,9 @@
 title: "Mauthe Unidentified"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGGGWGGGRGR](/stripes/rgrgrgrgggwgggrgr/) · **Stripes:** [R DY R DY R DY R DY G DY W DY G DY R DY R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DY R DY R DY R DY G DY W DY G DY R DY R</span></span>
+In pattern [RGRGGGWGGGRGRGRGR](/stripes/rgrgggwgggrgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2860
 

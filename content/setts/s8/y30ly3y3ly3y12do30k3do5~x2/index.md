@@ -2,10 +2,9 @@
 title: "Dama Classic"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGBKB](/stripes/gygygbkb/) · **Stripes:** [Y LY Y LY Y DO K DO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">Y LY Y LY Y DO K DO</span></span>
+In pattern [BKBGYGYG](/stripes/bkbgygyg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10208
 

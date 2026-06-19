@@ -2,10 +2,9 @@
 title: "Outlander #2"
 date: 2023-03-18
 ---
-**Bands:** [GBWYBYBWG](/stripes/gbwybybwg/) · **Stripes:** [Y N LT LO N LO N LT Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y N LT LO N LO N LT Y</span></span>
+In pattern [GBWYBYBWG](/stripes/gbwybybwg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11114
 

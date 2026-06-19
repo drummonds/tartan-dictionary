@@ -2,10 +2,9 @@
 title: "Tolmie"
 date: 2023-03-18
 ---
-**Bands:** [KYKGR](/stripes/kykgr/) · **Stripes:** [K LO K DG R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LO K DG R</span></span>
+In pattern [KYKGR](/stripes/kykgr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11581
 

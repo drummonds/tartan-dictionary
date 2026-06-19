@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbkgbr/
 ---
-BGBKGBR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/r6b2g20k3db8g2b4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BGBKGBR
+
+{{< pat "BGBKGBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R B G K DB G B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R B G K DB G B</span></span>
 
 | Tartans |
 |---------------|
 | [Royal British Legion, The](/setts/s7/r6b2g20k3db8g2b4~x2/)|
 |![Royal British Legion, The example sett](/setts/s7/r6b2g20k3db8g2b4~x2/sett.png)|
-

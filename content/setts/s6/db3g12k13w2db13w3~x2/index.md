@@ -2,10 +2,9 @@
 title: "Herd/Hurd"
 date: 2023-03-18
 ---
-**Bands:** [BGKWBW](/stripes/bgkwbw/) · **Stripes:** [DB G K W DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB G K W DB W</span></span>
+In pattern [BGKWBW](/stripes/bgkwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1691
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1691](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1691)
 - Scottish Tartans Authority (ITI): 170
 - Scottish Tartans World Register: 170
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Herd Family Tartan Tartan Number: 170. Earliest known date: 1978 Woven for the wedding of William Hurd to Heather Petit. From JCT: STS monitoring committee recorded 1978. In march 2005. STS Record has the application being made by Councillor R J Herd, C.Eng, M.I.C.E., A.M.B.I.M. who had been granted arms by Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db2g12k13w1db13w2~x2/)
-
 
 ## Thread count
 W/6 DBa26 W4 K26 G24 DBa/6

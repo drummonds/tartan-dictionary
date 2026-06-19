@@ -2,10 +2,9 @@
 title: "Skene, or Tribe of Mar"
 date: 2023-03-18
 ---
-**Bands:** [RKGKY](/stripes/rkgky/) · **Stripes:** [R K G K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K G K LY</span></span>
+In pattern [RKGKY](/stripes/rkgky/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,15 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mar Tribe](/setts/s5/r2k3g45k3ly2/)
-- [Mar, (Tribe of..)](/setts/s5/r2k4g45k3ly2/)
-- [Mar, Tribe of (Clan)](/setts/s5/r2k4g45k3ly2~x2/)
-
 
 ## Thread count
 R/2 K4 G32 K4 Y/2

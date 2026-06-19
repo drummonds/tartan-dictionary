@@ -2,10 +2,9 @@
 title: "Pride of Lorient (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBBBBBBBBBBBBBBBW](/stripes/rbbbbbbbbbbbbbbbw/) · **Stripes:** [R T DB T DB T DB T DB DT DB DT DB DT DB DT LB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R T DB T DB T DB T DB DT DB DT DB DT DB DT LB</span></span>
+In pattern [RBBBBBBBBBBBBBBBW](/stripes/rbbbbbbbbbbbbbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10787/
 

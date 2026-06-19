@@ -2,10 +2,9 @@
 title: "McKerrell of Hillhouse"
 date: 2023-03-18
 ---
-**Bands:** [YBBW](/stripes/ybbw/) · **Stripes:** [LY DB T W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB T W</span></span>
+In pattern [WBBY](/stripes/wbby/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2533
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2533](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2533)
 - Scottish Tartans Authority (ITI): 1758
 - Scottish Tartans World Register: 1758
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKerral Family Tartan Tartan Number: 1757. Earliest known date: 1975 A sample was presented to the Scottish Tartans Society by John Drummond Bowman. This version of the tartan has the unusual feature of exchanging red for yellow in the weft. It is larger than the sett recorded in the Lyon Court Books in 1982. The name, MacKerral or MacKerrell, is recorded in Ayrshire in the 12th century. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/w4t34db60ly3~x2/)
-
 
 ## Thread count
 LN/8 B56 DBa98 Y/6

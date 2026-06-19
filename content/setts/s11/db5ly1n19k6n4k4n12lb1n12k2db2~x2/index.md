@@ -2,10 +2,9 @@
 title: "Apollo 12 (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [BKBWBKBKBYB](/stripes/bkbwbkbkbyb/) · **Stripes:** [DB K N LB N K N K N LY DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K N LB N K N K N LY DB</span></span>
+In pattern [BKBWBKBKBYB](/stripes/bkbwbkbkbyb/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8810/
 

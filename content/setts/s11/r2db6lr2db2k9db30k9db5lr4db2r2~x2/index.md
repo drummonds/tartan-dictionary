@@ -2,10 +2,9 @@
 title: "Rangers Football Club Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBYBKBKBYBR](/stripes/rbybkbkbybr/) · **Stripes:** [R DB LR DB K DB K DB LR DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB LR DB K DB K DB LR DB R</span></span>
+In pattern [RBYBKBKBYBR](/stripes/rbybkbkbybr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3458
 

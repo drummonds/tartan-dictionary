@@ -2,10 +2,9 @@
 title: "Feniston (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBBBB](/stripes/rbbbb/) · **Stripes:** [M DB DR DB DR](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">M DB DR DB DR</span></span>
+In pattern [BBBBR](/stripes/bbbbr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3996/
 

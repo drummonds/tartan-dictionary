@@ -2,10 +2,9 @@
 title: "Hancock Personal Tartan Tartan Number: 6469. Earliest known date: 2004, October A personal tartan designed by Trevor Hancock from Crickhowell. He designed the tartan online in November and had the fabric woven and made into a kilt by Christmas 2004 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KWBKGYBWKWBYGKBW](/stripes/kwbkgybwkwbygkbw/) · **Stripes:** [K W N K G LY N W K W N LY G K N W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W N K G LY N W K W N LY G K N W</span></span>
+In pattern [KWBKGYBWKWBYGKBW](/stripes/kwbkgybwkwbygkbw/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6469
 

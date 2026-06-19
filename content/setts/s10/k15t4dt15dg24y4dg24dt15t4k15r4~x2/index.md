@@ -2,10 +2,9 @@
 title: "Haughfoot"
 date: 2023-03-18
 ---
-**Bands:** [KBBGGGBBKR](/stripes/kbbgggbbkr/) · **Stripes:** [K T DT DG Y DG DT T K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K T DT DG Y DG DT T K R</span></span>
+In pattern [KBBGGGBBKR](/stripes/kbbgggbbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1625
 

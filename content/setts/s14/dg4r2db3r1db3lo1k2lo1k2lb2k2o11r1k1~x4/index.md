@@ -2,10 +2,9 @@
 title: "Ross Anderson (Fashion) #2"
 date: 2023-03-18
 ---
-**Bands:** [KRRKWKYKYBRBRG](/stripes/krrkwkykybrbrg/) · **Stripes:** [K R O K LB K LO K LO DB R DB R DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K R O K LB K LO K LO DB R DB R DG</span></span>
+In pattern [GRBRBYKYKWKRRK](/stripes/grbrbykykwkrrk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5126
 

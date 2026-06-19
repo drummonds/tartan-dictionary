@@ -2,10 +2,9 @@
 title: "Edinburgh International Film Festival"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKWKWKRK](/stripes/krkrkrkwkwkrk/) · **Stripes:** [K R K R K R K W K W K R K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R K R K W K W K R K</span></span>
+In pattern [KRKRKRKWKWKRK](/stripes/krkrkrkwkwkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11515
 

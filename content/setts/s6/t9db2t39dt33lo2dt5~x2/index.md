@@ -2,10 +2,9 @@
 title: "Port Authority of NY & NJ"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBB](/stripes/bybbbb/) · **Stripes:** [DT LO DT T DB T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DT LO DT T DB T</span></span>
+In pattern [BBBBYB](/stripes/bbbbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3357
 

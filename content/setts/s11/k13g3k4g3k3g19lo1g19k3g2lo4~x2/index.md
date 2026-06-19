@@ -2,10 +2,9 @@
 title: "American Monahan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGYGKGY](/stripes/kgkgkgygkgy/) · **Stripes:** [K G K G K G LO G K G LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K G K G K G LO G K G LO</span></span>
+In pattern [KGKGKGYGKGY](/stripes/kgkgkgygkgy/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8515/
 

@@ -2,10 +2,9 @@
 title: "Connelly, James (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGRGGBYW](/stripes/ggrggbyw/) · **Stripes:** [DG G R DG G DP LY W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG G R DG G DP LY W</span></span>
+In pattern [GGRGGBYW](/stripes/ggrggbyw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10151
 

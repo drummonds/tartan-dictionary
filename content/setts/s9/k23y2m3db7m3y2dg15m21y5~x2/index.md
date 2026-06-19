@@ -2,10 +2,9 @@
 title: "Land's End (Unnamed Maroon)"
 date: 2023-03-18
 ---
-**Bands:** [KGRBRGGRG](/stripes/kgrbrggrg/) · **Stripes:** [K Y M DB M Y DG M Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y M DB M Y DG M Y</span></span>
+In pattern [GRGGRBRGK](/stripes/grggrbrgk/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

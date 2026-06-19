@@ -2,10 +2,9 @@
 title: "MacRae of Inverinate (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRGRGRGRGRGRGRB](/stripes/grgrgrgrgrgrgrgrgrgrb/) · **Stripes:** [DG R DG R DG R DG R DG R DG R DG R DG R DG R DG R DP](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG R DG R DG R DG R DG R DG R DG R DG R DG R DG R DP</span></span>
+In pattern [BRGRGRGRGRGRGRGRGRGRG](/stripes/brgrgrgrgrgrgrgrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2000/
 

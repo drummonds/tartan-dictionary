@@ -2,10 +2,9 @@
 title: "Scottish Borderland (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBBGBGW](/stripes/ybgbbgbgw/) · **Stripes:** [LO N DG N N DG N DG LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO N DG N N DG N DG LB</span></span>
+In pattern [WGBGBBGBY](/stripes/wgbgbbgby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5359/
 

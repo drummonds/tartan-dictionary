@@ -2,20 +2,11 @@
 title: "Skene Clan Tartan Tartan Number: 516. Earliest known date: 1886 Smith No 53 has ROSE in place of RED. Grant's version is similar to the sample named Skene in the 1830 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRB](/stripes/grgrgrb/) · **Stripes:** [G R G R G R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G R DB</span></span>
+In pattern [BRGRGRG](/stripes/brgrgrg/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=516
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Skene](/setts/s7/db6r3g1r3g12r3g1~x2/)
-- [Skene - 1831 (Clan)](/setts/s7/db6r3g1r3g12r3g1~x4/)
-
 
 ## Thread count
 DB/12 R6 G4 R6 G24 R6 G/4

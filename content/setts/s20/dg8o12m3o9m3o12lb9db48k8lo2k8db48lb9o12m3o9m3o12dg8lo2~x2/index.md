@@ -2,10 +2,9 @@
 title: "Heston"
 date: 2023-03-18
 ---
-**Bands:** [YGRRRRRWBKYKBWRRRRRG](/stripes/ygrrrrrwbkykbwrrrrrg/) · **Stripes:** [LO DG O M O M O LB DB K LO K DB LB O M O M O DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG O M O M O LB DB K LO K DB LB O M O M O DG</span></span>
+In pattern [GRRRRRWBKYKBWRRRRRGY](/stripes/grrrrrwbkykbwrrrrrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1699
 

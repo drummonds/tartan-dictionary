@@ -2,10 +2,9 @@
 title: "Scotland's Own"
 date: 2023-03-18
 ---
-**Bands:** [BBBKBKBBKBWB](/stripes/bbbkbkbbkbwb/) · **Stripes:** [DB P DB K DB K DB P K DB W DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB P DB K DB K DB P K DB W DB</span></span>
+In pattern [BBBKBKBBKBWB](/stripes/bbbkbkbbkbwb/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

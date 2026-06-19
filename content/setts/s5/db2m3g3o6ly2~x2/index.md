@@ -2,10 +2,9 @@
 title: "Dunoon Burgh Hall Trust"
 date: 2023-03-18
 ---
-**Bands:** [YRGRB](/stripes/yrgrb/) · **Stripes:** [LY O G M DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">LY O G M DB</span></span>
+In pattern [BRGRY](/stripes/brgry/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11629
 

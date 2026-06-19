@@ -2,10 +2,9 @@
 title: "Dalzell"
 date: 2023-03-18
 ---
-**Bands:** [RWBRGRBWRBRWBRGRG](/stripes/rwbrgrbwrbrwbrgrg/) · **Stripes:** [R W DB R G R DB W R DB R W DB R G R G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB R G R DB W R DB R W DB R G R G</span></span>
+In pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
 
-
-This was sourced from logan-1831.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,14 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Dalzell** name adjusted Logan's counts: [Dalzell](/setts/s17/r24w1b2r4g32r4b2w1r4b6r4w1b2r32g2r3g6~b00004c-g004c00-rc80000-wd0d0d0/); [Dalzell](/setts/s17/r24y1b2r4g32r4b2y1r4b6r4y1b2r32g2ba3g6~b000052-ba59110d-g11450d-raa0000-yaaaaaa~x2/); [Dalzell](/setts/s17/r24y1b2r4g32r4b2y1r4b6r4y1b2r32g2ba3g6~b000052-ba59110d-g11450d-raa0000-yaaaaaa/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dalziel](/setts/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/)
-- [Dalziel](/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/)
-
 
 ## Thread count
 R/48 LN2 DB4 R16 G104 R16 DB4 LN2 R16 DB24 R16 LN2 DB4 R104 G8 DR12 G/12

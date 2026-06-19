@@ -2,10 +2,9 @@
 title: "Hislop Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBKBKBYGKGKGKGKGRGRGKGKGKGKGYBKBKB](/stripes/gbkbkbygkgkgkgkgrgrgkgkgkgkgybkbkb/) · **Stripes:** [G DB K DB K DB LO G K G K G K G K G R G R G K G K G K G K G LO DB K DB K DB](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB K DB K DB LO G K G K G K G K G R G R G K G K G K G K G LO DB K DB K DB</span></span>
+In pattern [BKBKBYGKGKGKGKGRGRGKGKGKGKGYBKBKBG](/stripes/bkbkbygkgkgkgkgrgrgkgkgkgkgybkbkbg/).
 
-
-This was sourced from register-of-tartans.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5190
 

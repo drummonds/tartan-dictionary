@@ -2,20 +2,11 @@
 title: "Poulter SG 100 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBRBKGKG](/stripes/gkgkgkbrbkgkg/) · **Stripes:** [G K G K G K DB R DB K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G K DB R DB K G K G</span></span>
+In pattern [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7635/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Urquhart](/setts/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/)
-- [Urquhart (Logan)](/setts/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/)
-
 
 ## Thread count
 B/25 K8 B8 K8 B8 K46 DB46 R8 DB46 K46 B46 K8 B/8

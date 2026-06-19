@@ -2,10 +2,9 @@
 title: "Association Cornemuses du Monde"
 date: 2023-03-18
 ---
-**Bands:** [RKBKBKBGKBYWKR](/stripes/rkbkbkbgkbywkr/) · **Stripes:** [R K N K N K N Y K B LY W K R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K N K N K N Y K B LY W K R</span></span>
+In pattern [RKBKBKBGKBYWKR](/stripes/rkbkbkbgkbywkr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11466
 

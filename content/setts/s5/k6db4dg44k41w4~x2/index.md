@@ -2,10 +2,9 @@
 title: "Douglas (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KBGKW](/stripes/kbgkw/) · **Stripes:** [K DB DG K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB DG K W</span></span>
+In pattern [KBGKW](/stripes/kbgkw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1032/
 

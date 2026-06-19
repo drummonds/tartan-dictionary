@@ -2,10 +2,9 @@
 title: "Scott Black and Grey"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKG](/stripes/gkgkgkg/) · **Stripes:** [Y K Y K Y K Y](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y K Y K Y K Y</span></span>
+In pattern [GKGKGKG](/stripes/gkgkgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3696
 

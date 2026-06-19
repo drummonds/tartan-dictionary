@@ -2,10 +2,9 @@
 title: "Hamilton, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGBGW](/stripes/bgbgw/) · **Stripes:** [DB G DB G W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB G DB G W</span></span>
+In pattern [BGBGW](/stripes/bgbgw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hamilton, hunting](/setts/s5/db5g2db5g8w1~x8/)
-
 
 ## Thread count
 B/22 G4 B30 G36 LN/4

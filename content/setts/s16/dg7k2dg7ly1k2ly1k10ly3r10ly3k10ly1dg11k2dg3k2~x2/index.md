@@ -2,10 +2,9 @@
 title: "Blackburn Appalachian Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KGKGYKYRYKYKYGKG](/stripes/kgkgykyrykykygkg/) · **Stripes:** [K DG K DG LY K LY R LY K LY K LY DG K DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG LY K LY R LY K LY K LY DG K DG</span></span>
+In pattern [GKGYKYKYRYKYGKGK](/stripes/gkgykykyrykygkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10703
 

@@ -2,10 +2,9 @@
 title: "Clergy"
 date: 2023-03-18
 ---
-**Bands:** [YKYGYKYKGKGKYGYKY](/stripes/ykygykykgkgkygyky/) · **Stripes:** [LR K LR Y LR K LR K Y K Y K LR Y LR K LR](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LR K LR Y LR K LR K Y K Y K LR Y LR K LR</span></span>
+In pattern [YKYGYKGKGKYKYGYKY](/stripes/ykygykgkgkykygyky/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clergy](/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1/)
-
 
 ## Thread count
 Na/2 K10 Na2 N8 Na2 K52 Na2 K20 N10 K4 N10 K20 Na2 N8 Na2 K10 Na/2

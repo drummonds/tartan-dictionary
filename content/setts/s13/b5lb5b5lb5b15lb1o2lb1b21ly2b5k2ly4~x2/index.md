@@ -2,10 +2,9 @@
 title: "Jouy (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKBYBWRWBWBWB](/stripes/ykbybwrwbwbwb/) · **Stripes:** [LY K B LY B LB O LB B LB B LB B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY K B LY B LB O LB B LB B LB B</span></span>
+In pattern [BWBWBWRWBYBKY](/stripes/bwbwbwrwbybky/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10827/
 

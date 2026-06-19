@@ -2,10 +2,9 @@
 title: "Douglas"
 date: 2023-03-18
 ---
-**Bands:** [WBGBKBGBW](/stripes/wbgbkbgbw/) · **Stripes:** [W DB G T K T G DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB G T K T G DB W</span></span>
+In pattern [WBGBKBGBW](/stripes/wbgbkbgbw/).
 
-
-This was sourced from logan-1831.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from logan-1831.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link /posts/logans-scottish-gael/
 

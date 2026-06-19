@@ -2,10 +2,9 @@
 title: "Unidentified #18"
 date: 2023-03-18
 ---
-**Bands:** [GWKWBKGKYKBGKGKGKGKB](/stripes/gwkwbkgkykbgkgkgkgkb/) · **Stripes:** [DY W K W DB K DY K LY K T DY K DY K DY K DY K T](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">DY W K W DB K DY K LY K T DY K DY K DY K DY K T</span></span>
+In pattern [BKGKGKGKGBKYKGKBWKWG](/stripes/bkgkgkgkgbkykgkbwkwg/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4219
 

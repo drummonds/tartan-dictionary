@@ -2,10 +2,9 @@
 title: "International Festival of Authors (C"
 date: 2023-03-18
 ---
-**Bands:** [GBBBRB](/stripes/gbbbrb/) · **Stripes:** [G DP B DP M DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP B DP M DP</span></span>
+In pattern [BRBBBG](/stripes/brbbbg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10057/
 

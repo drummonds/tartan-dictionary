@@ -2,10 +2,9 @@
 title: "Forbes VS"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKY](/stripes/rgkgky/) · **Stripes:** [R DG K DG K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG K DG K LY</span></span>
+In pattern [RGKGKY](/stripes/rgkgky/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,14 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Forbes #6](/setts/s6/r1dg16k8dg4k4ly1~x2/)
-- [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1/)
-
 
 ## Thread count
 DR/2 DG32 K16 DG6 K8 LG/2

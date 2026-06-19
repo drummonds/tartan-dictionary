@@ -2,21 +2,11 @@
 title: "Connel (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [YKRW](/stripes/ykrw/) · **Stripes:** [LY K R W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K R W</span></span>
+In pattern [WRKY](/stripes/wrky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1854/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Connel](/setts/s4/w1r8k8ly1~x2/)
-- [Masai Shuka 18 (Artefact)](/setts/s4/ly6k3r40w3~x2/)
-- [Riddick Furya](/setts/s4/ly2k3r31w1~x4/)
-
 
 ## Thread count
 Y/4 K32 R32 W/4

@@ -2,10 +2,9 @@
 title: "Dalziel #2"
 date: 2023-03-18
 ---
-**Bands:** [RWBRGRBWRBRWBRGRG](/stripes/rwbrgrbwrbrwbrgrg/) · **Stripes:** [R W DP R G R DP W R DP R W DP R G R G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DP R G R DP W R DP R W DP R G R G</span></span>
+In pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=886
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [886](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=886)
 - Scottish Tartans Authority (ITI): 969
 - Scottish Tartans World Register: 969
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dalziel (Clan)](/setts/s17/r24w1dp2r4g32r4dp2w1r4dp6r4w1dp2r32g6r6g6~x2/)
-
 
 ## Thread count
 Ra/48 LN2 P4 Ra8 G64 Ra8 P4 LN2 Ra8 P12 Ra8 LN2 P4 Ra64 G4 R6 G/12

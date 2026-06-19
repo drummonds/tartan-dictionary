@@ -2,10 +2,9 @@
 title: "Glasgow Clyde College"
 date: 2023-03-18
 ---
-**Bands:** [RWBYBRBRB](/stripes/rwbybrbrb/) · **Stripes:** [M W DB LR T R DB R T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">M W DB LR T R DB R T</span></span>
+In pattern [BRBRBYBWR](/stripes/brbrbybwr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11222
 

@@ -2,10 +2,9 @@
 title: "MacDonell of Glengarry Dress"
 date: 2023-03-18
 ---
-**Bands:** [RKWKGRGRGWGRGRGKRBRBRB](/stripes/rkwkgrgrgwgrgrgkrbrbrb/) · **Stripes:** [R K W K DG R DG R DG W DG R DG R DG K R DB R DB R DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K W K DG R DG R DG W DG R DG R DG K R DB R DB R DB</span></span>
+In pattern [BRBRBRKGRGRGWGRGRGKWKR](/stripes/brbrbrkgrgrgwgrgrgkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2384
 

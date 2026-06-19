@@ -2,10 +2,9 @@
 title: "Saltcoats (Saskatchewan) (District?)"
 date: 2023-03-18
 ---
-**Bands:** [RGYBRBWBRYB](/stripes/rgybrbwbryb/) · **Stripes:** [R DG LY T O DB W T O LY DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG LY T O DB W T O LY DB</span></span>
+In pattern [BYRBWBRBYGR](/stripes/byrbwbrbygr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7822/
 

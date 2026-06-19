@@ -2,10 +2,9 @@
 title: "92nd Regiment Drummers' Plaid (Mil.)"
 date: 2023-03-18
 ---
-**Bands:** [RKYKYYYKRKRKY](/stripes/rkykyyykrkrky/) · **Stripes:** [R K LR K LG LY LG K R K R K LR](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R K LR K LG LY LG K R K R K LR</span></span>
+In pattern [RKYKYYYKRKRKY](/stripes/rkykyyykrkrky/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/359/
 

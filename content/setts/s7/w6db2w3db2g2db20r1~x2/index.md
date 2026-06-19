@@ -2,10 +2,9 @@
 title: "Gonzaga University’s True Blue and White"
 date: 2023-03-18
 ---
-**Bands:** [RBGBWBW](/stripes/rbgbwbw/) · **Stripes:** [R DB G DB W DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB G DB W DB W</span></span>
+In pattern [RBGBWBW](/stripes/rbgbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11068
 
@@ -27,13 +26,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [11068](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11068)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ikelman #4 (Personal)](/setts/s7/r10db15g2db2w1db1w1~x4/)
-
 
 ## Thread count
 W/12 DB4 W6 DB4 G4 DB40 R/2

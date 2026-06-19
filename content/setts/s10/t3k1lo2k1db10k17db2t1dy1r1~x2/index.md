@@ -2,10 +2,9 @@
 title: "Six Frigates (US)"
 date: 2023-03-18
 ---
-**Bands:** [RGBBKBKYKB](/stripes/rgbbkbkykb/) · **Stripes:** [R DY T DB K DB K LO K T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DY T DB K DB K LO K T</span></span>
+In pattern [BKYKBKBBGR](/stripes/bkykbkbbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10972
 

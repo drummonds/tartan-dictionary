@@ -2,10 +2,9 @@
 title: "Raeburn"
 date: 2023-03-18
 ---
-**Bands:** [KYKY](/stripes/kyky/) · **Stripes:** [K LY K LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY K LY</span></span>
+In pattern [KYKY](/stripes/kyky/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3436
 
@@ -23,14 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3436](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3436)
 - Scottish Tartans Authority (ITI): 1275
 - Scottish Tartans World Register: 1275
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Justus](/setts/s4/k5ly1k1~x12/)
-- [Raeburn](/setts/s4/k6ly1k6ly6~x6/)
-
 
 ## Thread count
 K/68 Y6 K68 Y/52

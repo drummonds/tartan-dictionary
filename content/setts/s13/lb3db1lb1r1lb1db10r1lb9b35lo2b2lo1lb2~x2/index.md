@@ -2,10 +2,9 @@
 title: "De Clercq, Christian (Belgium)"
 date: 2023-03-18
 ---
-**Bands:** [WYBYBWRBWRWBW](/stripes/wybybwrbwrwbw/) · **Stripes:** [LB LO B LO B LB R DB LB R LB DB LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB LO B LO B LB R DB LB R LB DB LB</span></span>
+In pattern [WBWRWBRWBYBYW](/stripes/wbwrwbrwbybyw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10741/
 

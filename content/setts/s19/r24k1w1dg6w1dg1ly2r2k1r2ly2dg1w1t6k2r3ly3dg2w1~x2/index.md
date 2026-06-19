@@ -2,10 +2,9 @@
 title: "MacKintosh #8"
 date: 2023-03-18
 ---
-**Bands:** [RKWGWGYRKRYGWBKRYGW](/stripes/rkwgwgyrkrygwbkrygw/) · **Stripes:** [R K W DG W DG LY R K R LY DG W T K R LY DG W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W DG W DG LY R K R LY DG W T K R LY DG W</span></span>
+In pattern [RKWGWGYRKRYGWBKRYGW](/stripes/rkwgwgyrkrygwbkrygw/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2566
 

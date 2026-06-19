@@ -2,10 +2,9 @@
 title: "Caithness (District)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKYKYRRKRKRB](/stripes/kykykykyrrkrkrb/) · **Stripes:** [K LO K LY K LO K LO O R K O K R DO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">K LO K LY K LO K LO O R K O K R DO</span></span>
+In pattern [BRKRKRRYKYKYKYK](/stripes/brkrkrrykykykyk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2466/
 

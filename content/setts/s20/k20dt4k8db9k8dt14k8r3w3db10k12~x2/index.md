@@ -2,10 +2,9 @@
 title: "Westenra of Christchurch"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKRWBKBWRKBKBKB](/stripes/kbkbkbkrwbkbwrkbkbkb/) · **Stripes:** [K DT K DB K DT K R W DB K DB W R K DT K DB K DT](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">K DT K DB K DT K R W DB K DB W R K DT K DB K DT</span></span>
+In pattern [BKBKBKRWBKBWRKBKBKBK](/stripes/bkbkbkrwbkbwrkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606
 

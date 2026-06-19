@@ -2,10 +2,9 @@
 title: "Sidney, (Nova Scotia)"
 date: 2023-03-18
 ---
-**Bands:** [YGYGKWKG](/stripes/ygygkwkg/) · **Stripes:** [LO Y LO Y K W K Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y LO Y K W K Y</span></span>
+In pattern [GKWKGYGY](/stripes/gkwkgygy/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

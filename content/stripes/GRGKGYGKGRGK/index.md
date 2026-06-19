@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/grgkgygkgrgk/
 ---
-GRGKGYGKGRGK
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-GRGKGYGKGRGK
+
+{{< pat "GRGKGYGKGRGK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K DY R DY K DY LO DY K DY R DY <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K DY R DY K DY LO DY K DY R DY</span></span>
 
 | Tartans |
 |---------------|
 | [Welsh National #2](/setts/s12/k4dy2r2dy2k2dy15lo2~x4/)|
 |![Welsh National #2 example sett](/setts/s12/k4dy2r2dy2k2dy15lo2~x4/sett.png)|
-

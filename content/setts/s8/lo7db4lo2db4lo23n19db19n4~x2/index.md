@@ -2,10 +2,9 @@
 title: "Chindecella Gorse (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBBB](/stripes/ybybybbb/) · **Stripes:** [LO DB LO DB LO N DB N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">LO DB LO DB LO N DB N</span></span>
+In pattern [BBBYBYBY](/stripes/bbbybyby/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10254/
 

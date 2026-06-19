@@ -2,19 +2,11 @@
 title: "Brazell (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBBYB](/stripes/rbbyb/) · **Stripes:** [R T DB LY DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R T DB LY DB</span></span>
+In pattern [BYBBR](/stripes/bybbr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7348/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Tilburg (District)](/setts/s5/db9ly9db9t23r3~x2/)
-
 
 ## Thread count
 DB/42 Y6 DB42 B66 R/12

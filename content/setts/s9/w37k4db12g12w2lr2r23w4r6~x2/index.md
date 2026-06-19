@@ -2,10 +2,9 @@
 title: "Hebridean Arisaid, Red/White (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [RWRYWGBKW](/stripes/rwrywgbkw/) · **Stripes:** [R W R LR W G DB K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R LR W G DB K W</span></span>
+In pattern [RWRYWGBKW](/stripes/rwrywgbkw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8200/
 

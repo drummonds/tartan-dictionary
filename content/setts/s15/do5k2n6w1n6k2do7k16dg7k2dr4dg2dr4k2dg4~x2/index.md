@@ -2,10 +2,9 @@
 title: "Redgate (Connecticut) Hunting #2"
 date: 2023-03-18
 ---
-**Bands:** [GKBGBKGKBKBWBKB](/stripes/gkbgbkgkbkbwbkb/) · **Stripes:** [DG K DR DG DR K DG K DO K N W N K DO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">DG K DR DG DR K DG K DO K N W N K DO</span></span>
+In pattern [BKBWBKBKGKBGBKG](/stripes/bkbwbkbkgkbgbkg/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10794
 

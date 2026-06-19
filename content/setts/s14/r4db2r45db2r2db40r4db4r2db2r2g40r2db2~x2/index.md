@@ -2,10 +2,9 @@
 title: "Fraser of Altyre"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRBRGRB](/stripes/rbrbrbrbrbrgrb/) · **Stripes:** [R DB R DB R DB R DB R DB R G R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DB R G R DB</span></span>
+In pattern [BRGRBRBRBRBRBR](/stripes/brgrbrbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1262
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1262](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1262)
 - Scottish Tartans Authority (ITI): 528
 - Scottish Tartans World Register: 528
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Fraser of Altyre](/setts/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/)
-
 
 ## Thread count
 R/8 DB4 R90 DB4 R4 DB80 R8 DB8 R4 DB4 R4 G80 R4 DB/4

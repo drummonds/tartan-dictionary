@@ -2,10 +2,9 @@
 title: "Roddy \"Rowdy\" Piper (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RY](/stripes/ry/) · **Stripes:** [R LR](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R LR</span></span>
+In pattern [RY](/stripes/ry/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5411/
 

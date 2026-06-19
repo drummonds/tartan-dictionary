@@ -2,10 +2,9 @@
 title: "Unidentified Silk Plaid"
 date: 2023-03-18
 ---
-**Bands:** [YYGRB](/stripes/yygrb/) · **Stripes:** [LO LY DG O DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">LO LY DG O DB</span></span>
+In pattern [BRGYY](/stripes/brgyy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4383
 

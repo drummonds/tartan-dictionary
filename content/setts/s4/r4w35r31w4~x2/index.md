@@ -2,10 +2,9 @@
 title: "Lewis, Red (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [RWRW](/stripes/rwrw/) · **Stripes:** [R W R W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R W</span></span>
+In pattern [RWRW](/stripes/rwrw/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7570/
 

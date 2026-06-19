@@ -2,10 +2,9 @@
 title: "MacFarlane VS"
 date: 2023-03-18
 ---
-**Bands:** [KYKY](/stripes/kyky/) · **Stripes:** [K LR K LR](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K LR K LR</span></span>
+In pattern [KYKY](/stripes/kyky/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacFarlane VS](/setts/s4/k7lr6k1~x2/)
-
 
 ## Thread count
 K/7 N6 K1 N/6

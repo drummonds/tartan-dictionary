@@ -2,10 +2,9 @@
 title: "Charles-Carberry (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYKBG](/stripes/rykbg/) · **Stripes:** [R LY K DB DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R LY K DB DG</span></span>
+In pattern [GBKYR](/stripes/gbkyr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10960/
 

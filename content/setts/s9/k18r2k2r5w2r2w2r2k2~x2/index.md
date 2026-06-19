@@ -2,10 +2,9 @@
 title: "Tweedside"
 date: 2023-03-18
 ---
-**Bands:** [KRKRWRWRK](/stripes/krkrwrwrk/) · **Stripes:** [K R K R W R W R K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R W R W R K</span></span>
+In pattern [KRKRWRWRK](/stripes/krkrwrwrk/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Tweedside Red](/setts/s9/k18r2k2r5w2r2w2r2k2~x4/)
-
 
 ## Thread count
 K/36 R4 K4 R10 LN4 R4 LN4 R4 K/4

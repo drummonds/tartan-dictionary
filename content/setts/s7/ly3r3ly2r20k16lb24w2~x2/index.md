@@ -2,10 +2,9 @@
 title: "Oor Wullie (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YRYRKWW](/stripes/yryrkww/) · **Stripes:** [LY R LY R K LB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R LY R K LB W</span></span>
+In pattern [WWKRYRY](/stripes/wwkryry/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10356/
 

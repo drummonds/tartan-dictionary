@@ -2,10 +2,9 @@
 title: "Canuck Place"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYBYBW](/stripes/yryrybybw/) · **Stripes:** [LO R LG O LG DB LG DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R LG O LG DB LG DB W</span></span>
+In pattern [WBYBYRYRY](/stripes/wbybyryry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=555
 

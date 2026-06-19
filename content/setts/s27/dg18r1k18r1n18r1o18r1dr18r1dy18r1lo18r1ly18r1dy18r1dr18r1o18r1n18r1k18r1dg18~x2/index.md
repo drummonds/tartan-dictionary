@@ -2,10 +2,9 @@
 title: "MacKay of Strathnaver"
 date: 2023-03-18
 ---
-**Bands:** [GRKRBRRRBRGRYRYRGRBRRRBRKRG](/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/) · **Stripes:** [DG R K R N R O R DR R DY R LO R LY R DY R DR R O R N R K R DG](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R K R N R O R DR R DY R LO R LY R DY R DR R O R N R K R DG</span></span>
+In pattern [GRKRBRRRBRGRYRYRGRBRRRBRKRG](/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/).
 
-
-This was sourced from register-of-tartans.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2503
 

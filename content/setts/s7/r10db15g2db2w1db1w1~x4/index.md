@@ -2,19 +2,11 @@
 title: "Ikelman #4 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBWBW](/stripes/rbgbwbw/) · **Stripes:** [R DB G DB W DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB G DB W DB W</span></span>
+In pattern [RBGBWBW](/stripes/rbgbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2224/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gonzaga University’s True Blue and White](/setts/s7/w6db2w3db2g2db20r1~x2/)
-
 
 ## Thread count
 DR/40 DB60 G8 DB8 LN4 DB4 LN/4

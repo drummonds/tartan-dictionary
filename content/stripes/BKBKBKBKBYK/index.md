@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbkbkbkbyk/
 ---
-BKBKBKBKBYK
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BKBKBKBKBYK
+
+{{< pat "BKBKBKBKBYK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LY DP K DP K DB K T K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LY DP K DP K DB K T K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Churchill (Personal)](/setts/s11/db12k1t2k1db9k7dp2k2dp2ly1k2~x4/)|
 |![Churchill (Personal) example sett](/setts/s11/db12k1t2k1db9k7dp2k2dp2ly1k2~x4/sett.png)|
-

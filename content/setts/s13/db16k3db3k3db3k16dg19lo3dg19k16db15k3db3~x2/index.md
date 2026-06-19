@@ -2,10 +2,9 @@
 title: "92nd Regiment (Gordon) (Mil.)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGKBKBKB](/stripes/bkbkgygkbkbkb/) · **Stripes:** [DB K DB K DG LO DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG LO DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/214/
 

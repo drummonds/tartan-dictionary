@@ -2,10 +2,9 @@
 title: "Brandon (Manitoba)"
 date: 2023-03-18
 ---
-**Bands:** [RKWGKY](/stripes/rkwgky/) · **Stripes:** [O K W G K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">O K W G K LY</span></span>
+In pattern [RKWGKY](/stripes/rkwgky/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=339
 

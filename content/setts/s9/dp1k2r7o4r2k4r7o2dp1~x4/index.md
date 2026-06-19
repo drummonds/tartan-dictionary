@@ -2,10 +2,9 @@
 title: "Clanton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKRRRKRRB](/stripes/bkrrrkrrb/) · **Stripes:** [DP K R O R K R O DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP K R O R K R O DP</span></span>
+In pattern [BKRRRKRRB](/stripes/bkrrrkrrb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=663
 

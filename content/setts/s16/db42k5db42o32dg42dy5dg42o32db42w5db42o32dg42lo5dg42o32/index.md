@@ -2,10 +2,9 @@
 title: "Amnesty (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [RGYGRBWBRGGGRBKB](/stripes/rgygrbwbrgggrbkb/) · **Stripes:** [O DG LO DG O DB W DB O DG DY DG O DB K DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">O DG LO DG O DB W DB O DG DY DG O DB K DB</span></span>
+In pattern [BKBRGGGRBWBRGYGR](/stripes/bkbrgggrbwbrgygr/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3016/
 

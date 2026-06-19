@@ -2,10 +2,9 @@
 title: "Gunning, Robert Maxwell Stewart (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBKBKGRGKGKGKGKGRGKBKBG](/stripes/gbkbkgrgkgkgkgkgrgkbkbg/) · **Stripes:** [DG T K T K DG R DG K DG K DG K DG K DG M DG K T K T DG](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">DG T K T K DG R DG K DG K DG K DG K DG M DG K T K T DG</span></span>
+In pattern [GBKBKGRGKGKGKGKGRGKBKBG](/stripes/gbkbkgrgkgkgkgkgrgkbkbg/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11525
 

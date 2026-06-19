@@ -2,10 +2,9 @@
 title: "MacKendrick"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGBGBW](/stripes/ykgkgbgbw/) · **Stripes:** [LY K G K G DB G DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G K G DB G DB W</span></span>
+In pattern [WBGBGKGKY](/stripes/wbgbgkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431
 
@@ -903,13 +902,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Henderson/MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/)
-
 
 ## Thread count
 Y/2 K12 G8 K2 G32 DB2 G8 DB12 LN/2

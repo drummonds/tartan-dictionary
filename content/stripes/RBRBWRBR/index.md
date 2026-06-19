@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rbrbwrbr/
 ---
-RBRBWRBR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/r11db1r11db1w10o11db1o11~x2/tartan.png)
 
 
 
 ## Colour Sequence
-RBRBWRBR
+
+{{< pat "RBRBWRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DB R DB W O DB O <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R DB R DB W O DB O</span></span>
 
 | Tartans |
 |---------------|
 | [St Andrews](/setts/s8/r11db1r11db1w10o11db1o11~x2/)|
 |![St Andrews example sett](/setts/s8/r11db1r11db1w10o11db1o11~x2/sett.png)|
-

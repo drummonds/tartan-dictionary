@@ -2,10 +2,9 @@
 title: "Glen Coe (District)"
 date: 2023-03-18
 ---
-**Bands:** [RRKRGRKBRGRRG](/stripes/rrkrgrkbrgrrg/) · **Stripes:** [R R K R G R K T R G R R G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R R K R G R K T R G R R G</span></span>
+In pattern [GRRGRBKRGRKRR](/stripes/grrgrbkrgrkrr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3850/
 

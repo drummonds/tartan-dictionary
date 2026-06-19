@@ -2,10 +2,9 @@
 title: "Cetoloni"
 date: 2023-03-18
 ---
-**Bands:** [BRGGGB](/stripes/brgggb/) · **Stripes:** [DB R DY Y DY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DY Y DY DB</span></span>
+In pattern [BGGGRB](/stripes/bgggrb/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

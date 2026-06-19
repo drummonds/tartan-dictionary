@@ -2,10 +2,9 @@
 title: "Iron Horse (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBRKRWBKRBKBRKBWRKRB](/stripes/kbrkrwbkrbkbrkbwrkrb/) · **Stripes:** [K N O K R W DB K O N K N O K DB W R K O N](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">K N O K R W DB K O N K N O K DB W R K O N</span></span>
+In pattern [BRKRWBKRBKBRKBWRKRBK](/stripes/brkrwbkrbkbrkbwrkrbk/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3820/
 

@@ -2,10 +2,9 @@
 title: "Payne"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBBBBKB](/stripes/bkbkbkbkbbbbkb/) · **Stripes:** [DB K DB K DB K DB K DB DP DB DB K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K DB K DB DP DB DB K DB</span></span>
+In pattern [BKBBBBKBKBKBKB](/stripes/bkbbbbkbkbkbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3305
 

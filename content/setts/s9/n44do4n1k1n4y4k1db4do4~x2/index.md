@@ -2,10 +2,9 @@
 title: "Fermanagh (1990)"
 date: 2023-03-18
 ---
-**Bands:** [BBKGBKBBB](/stripes/bbkgbkbbb/) · **Stripes:** [DO DB K Y N K N DO N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="seq">DO DB K Y N K N DO N</span></span>
+In pattern [BBBKBGKBB](/stripes/bbbkbgkbb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5225
 

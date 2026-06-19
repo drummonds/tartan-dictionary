@@ -2,20 +2,11 @@
 title: "Bute Heather, Black (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/) · **Stripes:** [DO K DO K DO K DO K DO K DO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">DO K DO K DO K DO K DO K DO</span></span>
+In pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6886/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Shadow](/setts/s11/do18k5do34k12do8k8do24k5do24k5do14/)
-- [Black Shadow Fashion Tartan Tartan Number: 3193. Earliest known date: 01/01/2007 Designed as a combination of two shades of black, shown here as black and dark grey to illustrate the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/do9k3do17k6do4k4do12k3do12k3do7~x2/)
-
 
 ## Thread count
 N/13 K2 N38 K13 N28 K8 N17 K2 N17 K4 N/11

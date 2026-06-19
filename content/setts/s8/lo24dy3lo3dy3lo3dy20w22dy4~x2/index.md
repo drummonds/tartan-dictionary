@@ -2,10 +2,9 @@
 title: "Baillie Dress"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYGWG](/stripes/ygygygwg/) · **Stripes:** [LO DY LO DY LO DY W DY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO DY LO DY LO DY W DY</span></span>
+In pattern [GWGYGYGY](/stripes/gwgygygy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=164
 

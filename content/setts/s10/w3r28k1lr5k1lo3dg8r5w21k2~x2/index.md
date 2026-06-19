@@ -2,10 +2,9 @@
 title: "Cape Breton Polish Society"
 date: 2023-03-18
 ---
-**Bands:** [KWRGYKYKRW](/stripes/kwrgykykrw/) · **Stripes:** [K W R DG LO K LR K R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R DG LO K LR K R W</span></span>
+In pattern [KWRGYKYKRW](/stripes/kwrgykykrw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11244
 

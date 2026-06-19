@@ -2,10 +2,9 @@
 title: "Lendrum (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RKGWRKRWGBKRWG](/stripes/rkgwrkrwgbkrwg/) · **Stripes:** [M K G W M K M W G DP K M W G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M K G W M K M W G DP K M W G</span></span>
+In pattern [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3366/
 

@@ -2,10 +2,9 @@
 title: "Auchairne Grey"
 date: 2023-03-18
 ---
-**Bands:** [RRRRBR](/stripes/rrrrbr/) · **Stripes:** [R O R O N O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O R O N O</span></span>
+In pattern [RBRRRR](/stripes/rbrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130
 

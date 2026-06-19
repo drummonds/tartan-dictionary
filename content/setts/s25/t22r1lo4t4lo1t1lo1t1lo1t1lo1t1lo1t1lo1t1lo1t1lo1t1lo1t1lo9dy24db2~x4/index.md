@@ -2,10 +2,9 @@
 title: "Allen Hunting (?Thomson)"
 date: 2023-03-18
 ---
-**Bands:** [BRYBYBYBYBYBYBYBYBYBYBYGB](/stripes/brybybybybybybybybybybygb/) · **Stripes:** [T R LO T LO T LO T LO T LO T LO T LO T LO T LO T LO T LO DY DB](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">T R LO T LO T LO T LO T LO T LO T LO T LO T LO T LO T LO DY DB</span></span>
+In pattern [BGYBYBYBYBYBYBYBYBYBYBYRB](/stripes/bgybybybybybybybybybybyrb/).
 
-
-This was sourced from register-of-tartans.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=57
 

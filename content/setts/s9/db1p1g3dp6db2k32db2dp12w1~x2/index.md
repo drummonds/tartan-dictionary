@@ -2,10 +2,9 @@
 title: "Scottish Heather"
 date: 2023-03-18
 ---
-**Bands:** [BBGBBKBBW](/stripes/bbgbbkbbw/) · **Stripes:** [DB P G DP DB K DB DP W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB P G DP DB K DB DP W</span></span>
+In pattern [BBGBBKBBW](/stripes/bbgbbkbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3720
 

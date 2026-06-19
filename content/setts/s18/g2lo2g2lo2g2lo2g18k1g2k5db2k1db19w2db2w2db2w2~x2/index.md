@@ -2,10 +2,9 @@
 title: "Scottish Islamic (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/) · **Stripes:** [G LO G LO G LO G K G K DB K DB W DB W DB W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G LO G LO G LO G K G K DB K DB W DB W DB W</span></span>
+In pattern [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10644/
 

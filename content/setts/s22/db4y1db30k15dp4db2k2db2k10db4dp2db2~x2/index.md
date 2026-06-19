@@ -2,10 +2,9 @@
 title: "Scotland's Own"
 date: 2023-03-18
 ---
-**Bands:** [BBKBKBBKBGBGBKBBKBKBBB](/stripes/bbkbkbbkbgbgbkbbkbkbbb/) · **Stripes:** [DP DB K DB K DB DP K DB Y DB Y DB K DP DB K DB K DB DP DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DP DB K DB K DB DP K DB Y DB Y DB K DP DB K DB K DB DP DB</span></span>
+In pattern [BBBKBKBBKBGBGBKBBKBKBB](/stripes/bbbkbkbbkbgbgbkbbkbkbb/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3684
 

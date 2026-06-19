@@ -2,10 +2,9 @@
 title: "Inkster"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBGBGB](/stripes/gbgbgbgbgb/) · **Stripes:** [DY DB DY DB G DB DY DB DY DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">DY DB DY DB G DB DY DB DY DB</span></span>
+In pattern [BGBGBGBGBG](/stripes/bgbgbgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1826
 

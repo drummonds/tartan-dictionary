@@ -2,10 +2,9 @@
 title: "McWilliams Wedding (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGKBYBKBG](/stripes/rgkbybkbg/) · **Stripes:** [R G K N LY N K N G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K N LY N K N G</span></span>
+In pattern [GBKBYBKGR](/stripes/gbkbybkgr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7667/
 

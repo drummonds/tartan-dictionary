@@ -2,10 +2,9 @@
 title: "Bethune (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBYKYKWKGRKRW](/stripes/bbykykwkgrkrw/) · **Stripes:** [T DB LY K LY K W K G R K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DB LY K LY K W K G R K R W</span></span>
+In pattern [BBYKYKWKGRKRW](/stripes/bbykykwkgrkrw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=257
 

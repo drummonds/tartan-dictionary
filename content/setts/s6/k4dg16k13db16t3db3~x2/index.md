@@ -2,10 +2,9 @@
 title: "I Y"
 date: 2023-03-18
 ---
-**Bands:** [KGKBBB](/stripes/kgkbbb/) · **Stripes:** [K DG K DB T DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">K DG K DB T DB</span></span>
+In pattern [BBBKGK](/stripes/bbbkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11342
 

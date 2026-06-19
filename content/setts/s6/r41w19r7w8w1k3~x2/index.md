@@ -2,10 +2,9 @@
 title: "MacGregor - 2005 (Black - Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWWRWR](/stripes/kwwrwr/) · **Stripes:** [K W W R W R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W W R W R</span></span>
+In pattern [KWWRWR](/stripes/kwwrwr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6988/
 

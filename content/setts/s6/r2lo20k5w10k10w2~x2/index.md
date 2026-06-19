@@ -2,19 +2,11 @@
 title: "Thompson Camel Clan Tartan Tartan Number: 2421. Earliest known date: 1967 Designed by Scotty Thompson. It it a simple colour variation on the usual blue Thompson, but is often confused with the Burberry Check. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RYKWKW](/stripes/rykwkw/) · **Stripes:** [R LO K W K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LO K W K W</span></span>
+In pattern [RYKWKW](/stripes/rykwkw/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2421
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Thomson Camel](/setts/s6/r4lo30k6w13k13w3~x2/)
-
 
 ## Thread count
 R/4 LT40 K10 LN20 K20 LN/4

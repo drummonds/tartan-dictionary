@@ -2,10 +2,9 @@
 title: "Scottish Chamber Orchestra, The"
 date: 2023-03-18
 ---
-**Bands:** [RGKBKBKBW](/stripes/rgkbkbkbw/) · **Stripes:** [R Y K DT K DT K DT LT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">R Y K DT K DT K DT LT</span></span>
+In pattern [RGKBKBKBW](/stripes/rgkbkbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11122
 

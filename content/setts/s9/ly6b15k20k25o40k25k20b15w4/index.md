@@ -2,10 +2,9 @@
 title: "Highland Titles"
 date: 2023-03-18
 ---
-**Bands:** [YBKKRKKBW](/stripes/ybkkrkkbw/) · **Stripes:** [LY B K K O K K B W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY B K K O K K B W</span></span>
+In pattern [WBKKRKKBY](/stripes/wbkkrkkby/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10510
 

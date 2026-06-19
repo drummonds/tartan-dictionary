@@ -2,10 +2,9 @@
 title: "Juchter (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWG](/stripes/rwg/) · **Stripes:** [R W DG](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">R W DG</span></span>
+In pattern [GWR](/stripes/gwr/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3092/
 

@@ -2,20 +2,11 @@
 title: "Lamberton (?)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGKBKBKB](/stripes/bkbkgygkbkbkb/) · **Stripes:** [DB K DB K G LY G K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G LY G K DB K DB K DB</span></span>
+In pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8071/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gordon 4](/setts/s13/db6k1db1k1db1k6g6ly1g6k6db6k1db1~x4/)
-- [Westgate (Corporate)](/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/)
-
 
 ## Thread count
 DB/30 K5 DB5 K5 DB5 K24 G24 Y6 G24 K24 DB24 K5 DB/5

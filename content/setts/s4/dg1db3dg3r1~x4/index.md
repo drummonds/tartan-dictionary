@@ -2,10 +2,9 @@
 title: "Barwell"
 date: 2023-03-18
 ---
-**Bands:** [RGBG](/stripes/rgbg/) · **Stripes:** [R DG DB DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG DB DG</span></span>
+In pattern [GBGR](/stripes/gbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4966
 
@@ -15,14 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4966](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4966)
 - Scottish Tartans Authority (ITI): 3660
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barclay Hunting](/setts/s4/dg1db16dg16r1/)
-- [Barclay Hunting](/setts/s4/dg1db16dg16r1~x2/)
-
 
 ## Thread count
 DR/4 DG12 DB12 DG/4

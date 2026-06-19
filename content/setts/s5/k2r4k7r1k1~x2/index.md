@@ -2,10 +2,9 @@
 title: "Romsdal, Tresfjord"
 date: 2023-03-18
 ---
-**Bands:** [KRKRK](/stripes/krkrk/) · **Stripes:** [K R K R K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R K</span></span>
+In pattern [KRKRK](/stripes/krkrk/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,16 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLeod of Raasay](/setts/s5/k6r1k6r9k1~x4/)
-- [MacLeod of Raasay (Highland Society of London)](/setts/s5/k13r2k13r19k2~x2/)
-- [Romsdal Tresfjord](/setts/s5/k2r4k7r1k2~x2/)
-- [Unidentified Kirtle](/setts/s5/k55r18k4r18k38/)
-
 
 ## Thread count
 K/4 DR8 K14 R2 K/2

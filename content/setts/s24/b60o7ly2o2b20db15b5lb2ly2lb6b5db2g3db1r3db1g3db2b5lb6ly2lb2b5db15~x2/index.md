@@ -2,10 +2,9 @@
 title: "Commonwealth Bid (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BRYRBBBWYWBBGBRBGBBWYWBB](/stripes/bryrbbbwywbbgbrbgbbwywbb/) · **Stripes:** [B O LY O B DB B LB LY LB B DB G DB R DB G DB B LB LY LB B DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B O LY O B DB B LB LY LB B DB G DB R DB G DB B LB LY LB B DB</span></span>
+In pattern [BBWYWBBGBRBGBBWYWBBBRYRB](/stripes/bbwywbbgbrbgbbwywbbbryrb/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6811/
 

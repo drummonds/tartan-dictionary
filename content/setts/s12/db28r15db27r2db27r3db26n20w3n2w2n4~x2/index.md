@@ -2,10 +2,9 @@
 title: "Eidart"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBBWBWB](/stripes/brbrbrbbwbwb/) · **Stripes:** [DB R DB R DB R DB N W N W N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">DB R DB R DB R DB N W N W N</span></span>
+In pattern [BRBRBRBBWBWB](/stripes/brbrbrbbwbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1091
 

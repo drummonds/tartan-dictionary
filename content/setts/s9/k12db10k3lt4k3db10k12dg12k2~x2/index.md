@@ -2,10 +2,9 @@
 title: "Rainford (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKWKBK](/stripes/kgkbkwkbk/) · **Stripes:** [K DG K DB K LT K DB K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG K DB K LT K DB K</span></span>
+In pattern [KBKWKBKGK](/stripes/kbkwkbkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5833
 

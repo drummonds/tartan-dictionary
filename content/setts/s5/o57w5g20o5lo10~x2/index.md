@@ -2,10 +2,9 @@
 title: "Johore (District)"
 date: 2023-03-18
 ---
-**Bands:** [RWGRY](/stripes/rwgry/) · **Stripes:** [O W G O LO](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">O W G O LO</span></span>
+In pattern [RWGRY](/stripes/rwgry/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1309/
 

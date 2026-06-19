@@ -2,10 +2,9 @@
 title: "Daks, (Muted Skye)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRGRGB](/stripes/brgrgrgb/) · **Stripes:** [DB O Y O Y O Y DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">DB O Y O Y O Y DB</span></span>
+In pattern [BGRGRGRB](/stripes/bgrgrgrb/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

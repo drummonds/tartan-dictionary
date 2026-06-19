@@ -2,10 +2,9 @@
 title: "Dunedin (USA) (District)"
 date: 2023-03-18
 ---
-**Bands:** [KKGRKRKBW](/stripes/kkgrkrkbw/) · **Stripes:** [K K G R K R K T W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K K G R K R K T W</span></span>
+In pattern [KKGRKRKBW](/stripes/kkgrkrkbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1160/
 

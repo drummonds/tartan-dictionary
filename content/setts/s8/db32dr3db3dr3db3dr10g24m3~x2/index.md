@@ -2,10 +2,9 @@
 title: "Gammell"
 date: 2023-03-18
 ---
-**Bands:** [RGBBBBBB](/stripes/rgbbbbbb/) · **Stripes:** [M G DR DB DR DB DR DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">M G DR DB DR DB DR DB</span></span>
+In pattern [BBBBBBGR](/stripes/bbbbbbgr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

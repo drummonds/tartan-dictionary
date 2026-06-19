@@ -2,10 +2,9 @@
 title: "Gleneagles Group"
 date: 2023-03-18
 ---
-**Bands:** [BGGGBBB](/stripes/bgggbbb/) · **Stripes:** [DR G Y G DR DB DR](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR G Y G DR DB DR</span></span>
+In pattern [BBBGGGB](/stripes/bbbgggb/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

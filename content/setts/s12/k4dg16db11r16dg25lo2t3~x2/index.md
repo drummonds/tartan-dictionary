@@ -2,10 +2,9 @@
 title: "Mayo, County"
 date: 2023-03-18
 ---
-**Bands:** [YGRBGKGBRGYB](/stripes/ygrbgkgbrgyb/) · **Stripes:** [LO DG R DB DG K DG DB R DG LO T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO DG R DB DG K DG DB R DG LO T</span></span>
+In pattern [BYGRBGKGBRGY](/stripes/bygrbgkgbrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2867
 

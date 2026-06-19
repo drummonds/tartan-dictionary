@@ -2,10 +2,9 @@
 title: "Heather Isle (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBYGBBBG](/stripes/rbygbbbg/) · **Stripes:** [O DT LO Y DP DP DT Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O DT LO Y DP DP DT Y</span></span>
+In pattern [GBBBGYBR](/stripes/gbbbgybr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6902/
 

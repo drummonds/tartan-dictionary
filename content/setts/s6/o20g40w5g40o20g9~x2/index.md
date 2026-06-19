@@ -2,10 +2,9 @@
 title: "O'Neill (Australia)"
 date: 2023-03-18
 ---
-**Bands:** [RGWGRG](/stripes/rgwgrg/) · **Stripes:** [O G W G O G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O G W G O G</span></span>
+In pattern [GRGWGR](/stripes/grgwgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3248
 

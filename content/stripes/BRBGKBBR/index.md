@@ -4,23 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brbgkbbr/
 ---
-BRBGKBBR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/do10r2do10g17k12db9do9r2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BRBGKBBR
+
+{{< pat "BRBGKBBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DO DB K G DO R DO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">R DO DB K G DO R DO</span></span>
 
 | Tartans |
 |---------------|
@@ -28,4 +23,3 @@ BRBGKBBR
 |![MacDuff Hunting example sett](/setts/s8/do10r2do10g17k12db9do9r2~x2/sett.png)|
 | [Wcwm 1310](/setts/s8/do10r3do10g14k12db12do14r4~x2/)|
 |![Wcwm 1310 example sett](/setts/s8/do10r3do10g14k12db12do14r4~x2/sett.png)|
-

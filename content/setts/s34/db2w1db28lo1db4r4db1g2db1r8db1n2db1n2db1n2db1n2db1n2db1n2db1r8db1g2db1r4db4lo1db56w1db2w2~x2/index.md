@@ -2,10 +2,9 @@
 title: "New York Tartan Day Parade (Corp.)"
 date: 2023-03-18
 ---
-**Bands:** [BWBYBRBGBRBBBBBBBBBBBBBRBGBRBYBWBW](/stripes/bwbybrbgbrbbbbbbbbbbbbbrbgbrbybwbw/) · **Stripes:** [DB W DB LO DB R DB G DB R DB N DB N DB N DB N DB N DB N DB R DB G DB R DB LO DB W DB W](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB LO DB R DB G DB R DB N DB N DB N DB N DB N DB N DB R DB G DB R DB LO DB W DB W</span></span>
+In pattern [BWBYBRBGBRBBBBBBBBBBBBBRBGBRBYBWBW](/stripes/bwbybrbgbrbbbbbbbbbbbbbrbgbrbybwbw/).
 
-
-This was sourced from tartans-authority.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10537/
 

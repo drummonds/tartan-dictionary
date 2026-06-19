@@ -2,10 +2,9 @@
 title: "Hibernian Football Club (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GWGKGB](/stripes/gwgkgb/) · **Stripes:** [G W G K DG DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G W G K DG DP</span></span>
+In pattern [BGKGWG](/stripes/bgkgwg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2559/
 

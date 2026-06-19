@@ -2,10 +2,9 @@
 title: "Unidentified from Winnipeg"
 date: 2023-03-18
 ---
-**Bands:** [RYBYBYRG](/stripes/rybybyrg/) · **Stripes:** [O LO DR LO DR LO O G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O LO DR LO DR LO O G</span></span>
+In pattern [GRYBYBYR](/stripes/grybybyr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

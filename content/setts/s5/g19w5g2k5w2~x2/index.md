@@ -2,10 +2,9 @@
 title: "Loch Rannoch"
 date: 2023-03-18
 ---
-**Bands:** [GWGKW](/stripes/gwgkw/) · **Stripes:** [G W G K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G W G K W</span></span>
+In pattern [GWGKW](/stripes/gwgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2156
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2156](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2156)
 - Scottish Tartans Authority (ITI): 943
 - Scottish Tartans World Register: 943
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Loch Rannoch](/setts/s5/g37w9g3k9w3/)
-
 
 ## Thread count
 G/38 W10 G4 K10 W/4

@@ -2,10 +2,9 @@
 title: "Homecoming (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBKBKBKBR](/stripes/rgrgrgrbkbkbkbr/) · **Stripes:** [O DY O DY O DY O DT K DT K DT K DT O](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DY O DY O DY O DT K DT K DT K DT O</span></span>
+In pattern [RBKBKBKBRGRGRGR](/stripes/rbkbkbkbrgrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7823/
 

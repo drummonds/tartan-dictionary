@@ -2,10 +2,9 @@
 title: "Mowat (Clans Originaux)"
 date: 2023-03-18
 ---
-**Bands:** [GKYKBKB](/stripes/gkykbkb/) · **Stripes:** [G K LY K DB K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K LY K DB K DB</span></span>
+In pattern [BKBKYKG](/stripes/bkbkykg/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3035
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3035](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3035)
 - Scottish Tartans Authority (ITI): 236
 - Scottish Tartans World Register: 236
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mowat](/setts/s7/db48k6db10k46ly4k22g43/)
-
 
 ## Thread count
 DB/48 K6 DB10 K46 Y4 K22 G/44

@@ -2,10 +2,9 @@
 title: "Outlander #5"
 date: 2023-03-18
 ---
-**Bands:** [BBB](/stripes/bbb/) · **Stripes:** [N DO N](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="seq">N DO N</span></span>
+In pattern [BBB](/stripes/bbb/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11117
 

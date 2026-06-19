@@ -2,10 +2,9 @@
 title: "Rikaco Red"
 date: 2023-03-18
 ---
-**Bands:** [RBGBRBRBBB](/stripes/rbgbrbrbbb/) · **Stripes:** [O N DY DT O DT R DT N DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="seq">O N DY DT O DT R DT N DT</span></span>
+In pattern [BBBRBRBGBR](/stripes/bbbrbrbgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10224
 

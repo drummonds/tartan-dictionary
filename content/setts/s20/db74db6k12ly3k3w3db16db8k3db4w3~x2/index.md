@@ -2,10 +2,9 @@
 title: "Suffolk County Police"
 date: 2023-03-18
 ---
-**Bands:** [BKYKWBBKBWBKBBWKYKBB](/stripes/bkykwbbkbwbkbbwkykbb/) · **Stripes:** [DB K LY K W DB DB K DB W DB K DB DB W K LY K DB DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K LY K W DB DB K DB W DB K DB DB W K LY K DB DB</span></span>
+In pattern [BBKYKWBBKBWBKBBWKYKB](/stripes/bbkykwbbkbwbkbbwkykb/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4035
 

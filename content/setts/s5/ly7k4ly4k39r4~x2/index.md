@@ -2,10 +2,9 @@
 title: "Welsh National #3"
 date: 2023-03-18
 ---
-**Bands:** [RKYKY](/stripes/rkyky/) · **Stripes:** [R K LY K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K LY K LY</span></span>
+In pattern [RKYKY](/stripes/rkyky/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4599
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4599](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4599)
 - Scottish Tartans World Register: 2756
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gwynn (Name)](/setts/s5/ly9k4ly4k45r4~x2/)
-
 
 ## Thread count
 Y/14 K8 Y8 K78 R/8

@@ -2,10 +2,9 @@
 title: "Paul Henry (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBRBBBBB](/stripes/bbbbbrbbbbb/) · **Stripes:** [N DT N DB N R N DT N DB N](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">N DT N DB N R N DT N DB N</span></span>
+In pattern [BBBBBRBBBBB](/stripes/bbbbbrbbbbb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10452
 

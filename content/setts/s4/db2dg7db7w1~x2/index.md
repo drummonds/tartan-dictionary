@@ -2,10 +2,9 @@
 title: "Unidentified No 78"
 date: 2023-03-18
 ---
-**Bands:** [BGBW](/stripes/bgbw/) · **Stripes:** [DB DG DB W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DG DB W</span></span>
+In pattern [BGBW](/stripes/bgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4332
 

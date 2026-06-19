@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbrbrbr/
 ---
-BBBRBRBR
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/r10db4r4db4r23n19db19n4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BBBRBRBR
+
+{{< pat "BBBRBRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DB R DB R N DB N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">R DB R DB R N DB N</span></span>
 
 | Tartans |
 |---------------|
 | [Chindecella Ruadh (Personal)](/setts/s8/r10db4r4db4r23n19db19n4~x2/)|
 |![Chindecella Ruadh (Personal) example sett](/setts/s8/r10db4r4db4r23n19db19n4~x2/sett.png)|
-

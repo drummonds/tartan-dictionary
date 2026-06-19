@@ -2,10 +2,9 @@
 title: "Cuillins of Skye (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RGGGYRYGGGGGGGGGRB](/stripes/rgggyrygggggggggrb/) · **Stripes:** [R DY G DY LO R LO DY G DY DG G DG DY G DY R DO](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">R DY G DY LO R LO DY G DY DG G DG DY G DY R DO</span></span>
+In pattern [BRGGGGGGGGGYRYGGGR](/stripes/brgggggggggyrygggr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8421/
 

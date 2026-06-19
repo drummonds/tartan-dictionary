@@ -2,10 +2,9 @@
 title: "Lorne, Marquis of"
 date: 2023-03-18
 ---
-**Bands:** [GKBKBKBKGKGKGKB](/stripes/gkbkbkbkgkgkgkb/) · **Stripes:** [G K T K T K T K G K G K G K T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G K T K T K T K G K G K G K T</span></span>
+In pattern [BKGKGKGKBKBKBKG](/stripes/bkgkgkgkbkbkbkg/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2222
 

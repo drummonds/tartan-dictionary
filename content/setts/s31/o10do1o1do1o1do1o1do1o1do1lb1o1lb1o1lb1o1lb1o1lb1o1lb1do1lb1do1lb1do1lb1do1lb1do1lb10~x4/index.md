@@ -2,10 +2,9 @@
 title: "Wcwm 1131"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRBWRWRWRWRWRWBWBWBWBWBW](/stripes/rbrbrbrbrbwrwrwrwrwrwbwbwbwbwbw/) · **Stripes:** [O DO O DO O DO O DO O DO LB O LB O LB O LB O LB O LB DO LB DO LB DO LB DO LB DO LB](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">O DO O DO O DO O DO O DO LB O LB O LB O LB O LB O LB DO LB DO LB DO LB DO LB DO LB</span></span>
+In pattern [RBRBRBRBRBWRWRWRWRWRWBWBWBWBWBW](/stripes/rbrbrbrbrbwrwrwrwrwrwbwbwbwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4511
 

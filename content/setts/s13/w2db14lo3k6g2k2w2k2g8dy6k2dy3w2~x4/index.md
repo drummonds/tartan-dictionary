@@ -2,10 +2,9 @@
 title: "Bowling (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [WGKGGKWKGKYBW](/stripes/wgkggkwkgkybw/) · **Stripes:** [W DY K DY G K W K G K LO DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DY K DY G K W K G K LO DB W</span></span>
+In pattern [WBYKGKWKGGKGW](/stripes/wbykgkwkggkgw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1796/
 

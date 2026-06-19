@@ -2,10 +2,9 @@
 title: "Virginia Tech"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYRYWB](/stripes/ryryryrywb/) · **Stripes:** [R LO R LO R LO R LO W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R LO R LO R LO R LO W DB</span></span>
+In pattern [BWYRYRYRYR](/stripes/bwyryryryr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5668
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5668](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5668)
 - Scottish Tartans Authority (ITI): 7663
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Virginia Tech (Corporate)](/setts/s10/r6lo2r36lo18r2lo4r2lo6w3db4~x2/)
-
 
 ## Thread count
 DR/12 O4 DR64 O30 DR4 O6 DR4 O12 LN6 DB/8

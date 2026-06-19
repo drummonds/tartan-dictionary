@@ -2,10 +2,9 @@
 title: "Baird"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGBGB](/stripes/bkbkgbgb/) · **Stripes:** [DB K DB K DG DP DG DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB K DB K DG DP DG DP</span></span>
+In pattern [BGBGKBKB](/stripes/bgbgkbkb/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

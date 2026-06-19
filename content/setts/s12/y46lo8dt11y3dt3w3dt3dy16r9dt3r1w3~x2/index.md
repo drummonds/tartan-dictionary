@@ -2,10 +2,9 @@
 title: "Maciocia (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYBGBWBGRBRW](/stripes/gybgbwbgrbrw/) · **Stripes:** [Y LO DT Y DT W DT DY R DT R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y LO DT Y DT W DT DY R DT R W</span></span>
+In pattern [GYBGBWBGRBRW](/stripes/gybgbwbgrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2488
 

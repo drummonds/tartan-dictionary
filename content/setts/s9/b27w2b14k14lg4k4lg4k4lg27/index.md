@@ -2,10 +2,9 @@
 title: "(1) Abercrombie"
 date: 2023-03-18
 ---
-**Bands:** [YKYKYKBWB](/stripes/ykykykbwb/) · **Stripes:** [LG K LG K LG K B W B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LG K LG K LG K B W B</span></span>
+In pattern [BWBKYKYKY](/stripes/bwbkykyky/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

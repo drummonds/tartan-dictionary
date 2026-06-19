@@ -2,10 +2,9 @@
 title: "Valley, of the Green. (The )"
 date: 2023-03-18
 ---
-**Bands:** [BGGBGGB](/stripes/bggbggb/) · **Stripes:** [T DG G T G G T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DG G T G G T</span></span>
+In pattern [BGGBGGB](/stripes/bggbggb/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

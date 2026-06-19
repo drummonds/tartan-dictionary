@@ -2,10 +2,9 @@
 title: "Braveheart - ( Warrior)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/) · **Stripes:** [K B K DP K DP K G R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K B K DP K DP K G R K R W</span></span>
+In pattern [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

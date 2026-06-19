@@ -2,10 +2,9 @@
 title: "Redmond (2014)"
 date: 2023-03-18
 ---
-**Bands:** [RKGGGKGKBKGKGKGKY](/stripes/rkgggkgkbkgkgkgky/) · **Stripes:** [R K DG G DG K G K T K G K DG K DG K LO](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K DG G DG K G K T K G K DG K DG K LO</span></span>
+In pattern [RKGGGKGKBKGKGKGKY](/stripes/rkgggkgkbkgkgkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11099
 

@@ -2,10 +2,9 @@
 title: "Ironside (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWBKBKBKBKBKBKBKBW](/stripes/bwbkbkbkbkbkbkbkbw/) · **Stripes:** [DP W DP K B K B K DP K DP K B K B K DP W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W DP K B K B K DP K DP K B K B K DP W</span></span>
+In pattern [BWBKBKBKBKBKBKBKBW](/stripes/bwbkbkbkbkbkbkbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1857
 

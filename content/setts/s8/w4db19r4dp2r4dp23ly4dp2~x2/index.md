@@ -2,10 +2,9 @@
 title: "Brigadoon"
 date: 2023-03-18
 ---
-**Bands:** [BYBRBRBW](/stripes/bybrbrbw/) · **Stripes:** [DP LY DP R DP R DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP LY DP R DP R DB W</span></span>
+In pattern [BYBRBRBW](/stripes/bybrbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5463
 

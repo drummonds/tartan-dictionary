@@ -2,19 +2,11 @@
 title: "Mississippi (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KGBKGRKGYYYYW](/stripes/kgbkgrkgyyyyw/) · **Stripes:** [K G DB K G R K G LY LO LY LO W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K G DB K G R K G LY LO LY LO W</span></span>
+In pattern [KGBKGRKGYYYYW](/stripes/kgbkgrkgyyyyw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6789/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mississippi](/setts/s13/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4/)
-
 
 ## Thread count
 K/40 G80 DB8 K40 G40 R16 K40 G40 Y2 DY2 Y2 DY2 W/8

@@ -2,10 +2,9 @@
 title: "Ellan Vannin"
 date: 2023-03-18
 ---
-**Bands:** [GGBWGB](/stripes/ggbwgb/) · **Stripes:** [G G DP LB G B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G G DP LB G B</span></span>
+In pattern [BGWBGG](/stripes/bgwbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1099
 

@@ -2,10 +2,9 @@
 title: "Wcwm 1290"
 date: 2023-03-18
 ---
-**Bands:** [GWGYGWGKYBW](/stripes/gwgygwgkybw/) · **Stripes:** [DG LB DG LO DG LB DG K LG DB LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG LB DG LO DG LB DG K LG DB LB</span></span>
+In pattern [GWGYGWGKYBW](/stripes/gwgygwgkybw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4519
 

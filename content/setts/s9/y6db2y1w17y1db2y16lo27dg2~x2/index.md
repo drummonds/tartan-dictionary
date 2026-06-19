@@ -2,10 +2,9 @@
 title: "Rutlin (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYGBGWGBG](/stripes/gygbgwgbg/) · **Stripes:** [DG LO Y DB Y W Y DB Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DG LO Y DB Y W Y DB Y</span></span>
+In pattern [GBGWGBGYG](/stripes/gbgwgbgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5973
 

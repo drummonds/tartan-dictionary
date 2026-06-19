@@ -2,10 +2,9 @@
 title: "Green Ridge"
 date: 2023-03-18
 ---
-**Bands:** [KRYRKGRG](/stripes/kryrkgrg/) · **Stripes:** [K O LY O K DG O DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">K O LY O K DG O DG</span></span>
+In pattern [GRGKRYRK](/stripes/grgkryrk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1525
 

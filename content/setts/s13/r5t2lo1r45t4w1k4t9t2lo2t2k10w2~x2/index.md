@@ -2,10 +2,9 @@
 title: "Stratford Police PB (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBYRBWKBBYBKW](/stripes/rbyrbwkbbybkw/) · **Stripes:** [R T LO R T W K T T LO T K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R T LO R T W K T T LO T K W</span></span>
+In pattern [RBYRBWKBBYBKW](/stripes/rbyrbwkbbybkw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10638/
 

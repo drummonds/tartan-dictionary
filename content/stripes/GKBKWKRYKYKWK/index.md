@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gkbkwkrykykwk/
 ---
-GKBKWKRYKYKWK
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-GKBKWKRYKYKWK
+
+{{< pat "GKBKWKRYKYKWK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LB K LY K LY R K LB K DB K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LB K LY K LY R K LB K DB K G</span></span>
 
 | Tartans |
 |---------------|
 | [Ville de Beauport](/setts/s13/g16k1db12k1lb12k1r10ly7k1ly7k2lb1k4~x2/)|
 |![Ville de Beauport example sett](/setts/s13/g16k1db12k1lb12k1r10ly7k1ly7k2lb1k4~x2/sett.png)|
-

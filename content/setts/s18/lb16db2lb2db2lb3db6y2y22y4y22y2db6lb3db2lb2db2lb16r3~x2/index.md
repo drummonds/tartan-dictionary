@@ -2,10 +2,9 @@
 title: "Scotch House (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWBWBWBGGGGGBWBWBW](/stripes/rwbwbwbgggggbwbwbw/) · **Stripes:** [R LB DB LB DB LB DB Y Y Y Y Y DB LB DB LB DB LB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R LB DB LB DB LB DB Y Y Y Y Y DB LB DB LB DB LB</span></span>
+In pattern [RWBWBWBGGGGGBWBWBW](/stripes/rwbwbwbgggggbwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3666
 

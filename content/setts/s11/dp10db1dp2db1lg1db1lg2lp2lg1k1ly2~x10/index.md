@@ -2,10 +2,9 @@
 title: "Lieuwen (2013)"
 date: 2023-03-18
 ---
-**Bands:** [YKYWYBYBBBB](/stripes/ykywybybbbb/) · **Stripes:** [LY K LG LP LG DB LG DB DP DB DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY K LG LP LG DB LG DB DP DB DP</span></span>
+In pattern [BBBBYBYWYKY](/stripes/bbbbybywyky/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10923/
 

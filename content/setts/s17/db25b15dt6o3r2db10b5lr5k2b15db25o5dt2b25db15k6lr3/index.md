@@ -2,10 +2,9 @@
 title: "Kennewell (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKBBBRBBKYBBRRBBB](/stripes/ykbbbrbbkybbrrbbb/) · **Stripes:** [LR K DB B DT O DB B K LR B DB R O DT B DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">LR K DB B DT O DB B K LR B DB R O DT B DB</span></span>
+In pattern [BBBRRBBYKBBRBBBKY](/stripes/bbbrrbbykbbrbbbky/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10039
 

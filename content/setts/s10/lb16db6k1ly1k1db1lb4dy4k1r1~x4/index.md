@@ -2,10 +2,9 @@
 title: "Kirk in the Hills"
 date: 2023-03-18
 ---
-**Bands:** [RKGWBKYKBW](/stripes/rkgwbkykbw/) · **Stripes:** [R K DY LB DB K LY K DB LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R K DY LB DB K LY K DB LB</span></span>
+In pattern [RKGWBKYKBW](/stripes/rkgwbkykbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2004
 

@@ -2,10 +2,9 @@
 title: "Cian of Ely"
 date: 2023-03-18
 ---
-**Bands:** [YBGBBYBBGBB](/stripes/ybgbbybbgbb/) · **Stripes:** [LO DB Y B P LY DB B Y DB B](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO DB Y B P LY DB B Y DB B</span></span>
+In pattern [BBGBBYBBGBY](/stripes/bbgbbybbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=651
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [651](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=651)
 - Scottish Tartans Authority (ITI): 43
 - Scottish Tartans World Register: 43
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cian of Ely (Clan)](/setts/s11/b19db1y1b10db4ly9p4b9y1db1lo2~x4/)
-
 
 ## Thread count
 B/76 DB8 LGa8 B38 DB16 LG36 P16 B36 LGa8 DB8 DY/8

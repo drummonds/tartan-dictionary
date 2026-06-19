@@ -2,10 +2,9 @@
 title: "Longniddry Green (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [GGWGGBWG](/stripes/ggwggbwg/) · **Stripes:** [G G W G G DT W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G G W G G DT W G</span></span>
+In pattern [GGWGGBWG](/stripes/ggwggbwg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2208
 

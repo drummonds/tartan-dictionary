@@ -2,10 +2,9 @@
 title: "Mehrtens (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRKRKRRRRBW](/stripes/rkrkrkrkrkrrrrbw/) · **Stripes:** [R K R K R K R K O K O R O R DT W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K R K R K R K O K O R O R DT W</span></span>
+In pattern [RKRKRKRKRKRRRRBW](/stripes/rkrkrkrkrkrrrrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2909
 

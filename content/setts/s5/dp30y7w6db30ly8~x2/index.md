@@ -2,10 +2,9 @@
 title: "Pownall (2015)"
 date: 2023-03-18
 ---
-**Bands:** [YBWGB](/stripes/ybwgb/) · **Stripes:** [LY DB W Y DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY DB W Y DP</span></span>
+In pattern [BGWBY](/stripes/bgwby/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11257/
 

@@ -2,10 +2,9 @@
 title: "Ithilien Heather (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGBKRBBB](/stripes/grgbkrbbb/) · **Stripes:** [DG R Y DT K R N DT N](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">DG R Y DT K R N DT N</span></span>
+In pattern [BBBRKBGRG](/stripes/bbbrkbgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10026
 

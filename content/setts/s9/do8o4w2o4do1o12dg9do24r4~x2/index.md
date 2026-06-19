@@ -2,10 +2,9 @@
 title: "Willsher Wedding (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGRBRWRB](/stripes/rbgrbrwrb/) · **Stripes:** [R DO DG O DO O W O DO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">R DO DG O DO O W O DO</span></span>
+In pattern [BRWRBRGBR](/stripes/brwrbrgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10793
 

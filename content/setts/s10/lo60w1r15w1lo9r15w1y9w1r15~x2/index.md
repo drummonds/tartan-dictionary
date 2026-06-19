@@ -2,10 +2,9 @@
 title: "Smith Hunting (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RWGWRYWRWY](/stripes/rwgwrywrwy/) · **Stripes:** [R W Y W R LO W R W LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R W Y W R LO W R W LO</span></span>
+In pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8590/
 

@@ -2,10 +2,9 @@
 title: "Blarney Castle"
 date: 2023-03-18
 ---
-**Bands:** [KGBGBRBYG](/stripes/kgbgbrbyg/) · **Stripes:** [K G DB G DB R DB LO G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G DB G DB R DB LO G</span></span>
+In pattern [GYBRBGBGK](/stripes/gybrbgbgk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11441
 

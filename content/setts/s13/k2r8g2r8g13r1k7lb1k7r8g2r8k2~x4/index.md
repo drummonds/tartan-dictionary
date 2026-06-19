@@ -2,10 +2,9 @@
 title: "Nicolson (Lochcarron)"
 date: 2023-03-18
 ---
-**Bands:** [KRGRKWKRGRGRK](/stripes/krgrkwkrgrgrk/) · **Stripes:** [K R G R K LB K R G R G R K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R G R K LB K R G R G R K</span></span>
+In pattern [KRGRGRKWKRGRK](/stripes/krgrgrkwkrgrk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3137
 

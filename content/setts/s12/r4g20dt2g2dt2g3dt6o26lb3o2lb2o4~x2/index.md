@@ -2,10 +2,9 @@
 title: "Dorcas (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGBRWRWR](/stripes/rgbgbgbrwrwr/) · **Stripes:** [R G DT G DT G DT O LB O LB O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R G DT G DT G DT O LB O LB O</span></span>
+In pattern [RGBGBGBRWRWR](/stripes/rgbgbgbrwrwr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3180/
 

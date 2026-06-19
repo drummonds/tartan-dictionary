@@ -2,10 +2,9 @@
 title: "Evans (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKBKBKRKB](/stripes/rkbkbkbkrkb/) · **Stripes:** [R K DT K DT K DT K R K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K DT K DT K DT K R K T</span></span>
+In pattern [BKRKBKBKBKR](/stripes/bkrkbkbkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5732/
 

@@ -2,10 +2,9 @@
 title: "Campbell of Argyll (Smiths)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGW](/stripes/bkbkgw/) · **Stripes:** [DB K DB K G W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K G W</span></span>
+In pattern [BKBKGW](/stripes/bkbkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=514
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [514](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=514)
 - Scottish Tartans Authority (ITI): 8
 - Scottish Tartans World Register: 8
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell, The White Stripe](/setts/s6/db2k2db12k11g12w2~x2/)
-- [Granger (Personal)](/setts/s6/db40k4db12k21g27w4~x2/)
-
 
 ## Thread count
 DB/4 K4 DB24 K22 G32 LN/4

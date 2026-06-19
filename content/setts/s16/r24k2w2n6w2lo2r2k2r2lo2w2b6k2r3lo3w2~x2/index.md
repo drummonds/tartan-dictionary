@@ -2,10 +2,9 @@
 title: "MacGlashan (Clan?)"
 date: 2023-03-18
 ---
-**Bands:** [RKWBWYRKRYWBKRYW](/stripes/rkwbwyrkrywbkryw/) · **Stripes:** [R K W N W LO R K R LO W B K R LO W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W N W LO R K R LO W B K R LO W</span></span>
+In pattern [RKWBWYRKRYWBKRYW](/stripes/rkwbwyrkrywbkryw/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/656/
 

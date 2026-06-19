@@ -2,10 +2,9 @@
 title: "Sterling (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GYBBW](/stripes/gybbw/) · **Stripes:** [G LO DT B W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G LO DT B W</span></span>
+In pattern [GYBBW](/stripes/gybbw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10653/
 

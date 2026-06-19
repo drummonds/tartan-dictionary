@@ -2,10 +2,9 @@
 title: "Glassary #2"
 date: 2023-03-18
 ---
-**Bands:** [BRYRYRYB](/stripes/bryryryb/) · **Stripes:** [DB R LY R LY R LY DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R LY R LY R LY DB</span></span>
+In pattern [BRYRYRYB](/stripes/bryryryb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1362
 

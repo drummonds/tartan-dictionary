@@ -2,10 +2,9 @@
 title: "GRM (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KBGYGRGGRGRR](/stripes/kbgygrggrgrr/) · **Stripes:** [K B DY LO DY R DY DG R DY R R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">K B DY LO DY R DY DG R DY R R</span></span>
+In pattern [KBGYGRGGRGRR](/stripes/kbgygrggrgrr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4080/
 

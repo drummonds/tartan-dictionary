@@ -2,10 +2,9 @@
 title: "Atholl"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGRGKBKBKB](/stripes/rkbkgrgkbkbkb/) · **Stripes:** [R K B K G R G K B K B K B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K B K G R G K B K B K B</span></span>
+In pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=125
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [125](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=125)
 - Scottish Tartans Authority (ITI): 2078
 - Scottish Tartans World Register: 2078
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Atholl (District)](/setts/s13/b25k4b4k4b4k26g25r6g25k26b25k2r6~x2/)
-
 
 ## Thread count
 B/50 K8 B8 K8 B8 K52 G50 R18 G50 K52 B50 K4 R/18

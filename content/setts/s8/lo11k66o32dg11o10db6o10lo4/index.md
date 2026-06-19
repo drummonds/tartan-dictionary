@@ -2,10 +2,9 @@
 title: "Royal College of General Practitioners"
 date: 2023-03-18
 ---
-**Bands:** [YKRGRBRY](/stripes/ykrgrbry/) · **Stripes:** [LO K O DG O DB O LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO K O DG O DB O LO</span></span>
+In pattern [YKRGRBRY](/stripes/ykrgrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3595
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3595](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3595)
 - Scottish Tartans Authority (ITI): 3175
 - Scottish Tartans World Register: 2852
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Royal College of G.P.s (Corporate)](/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/)
-
 
 ## Thread count
 Y/11 K66 N32 DG11 N10 DB6 N10 O/4

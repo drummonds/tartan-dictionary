@@ -2,10 +2,9 @@
 title: "Bird Family (Australia) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WBWGGGWBW](/stripes/wbwgggwbw/) · **Stripes:** [W N W Y Y Y W N W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W N W Y Y Y W N W</span></span>
+In pattern [WBWGGGWBW](/stripes/wbwgggwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10594
 

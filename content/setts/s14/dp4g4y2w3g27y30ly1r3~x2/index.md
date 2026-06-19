@@ -2,10 +2,9 @@
 title: "Hannigan of Dirleton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGWGGYRYGGWGGB](/stripes/ggwggyryggwggb/) · **Stripes:** [G Y W G Y LY R LY Y G W Y G DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G Y W G Y LY R LY Y G W Y G DP</span></span>
+In pattern [BGGWGGYRYGGWGG](/stripes/bggwggyryggwgg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1590
 

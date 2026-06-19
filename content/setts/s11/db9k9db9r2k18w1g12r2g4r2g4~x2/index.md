@@ -2,10 +2,9 @@
 title: "Newman"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGWKRBKB](/stripes/grgrgwkrbkb/) · **Stripes:** [G R G R G W K R DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G W K R DB K DB</span></span>
+In pattern [BKBRKWGRGRG](/stripes/bkbrkwgrgrg/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Newman](/setts/s11/db10k10db10r2k20w1g10r2g4r2g4~x2/)
-
 
 ## Thread count
 B/18 K18 B18 R4 K36 LN2 G24 R4 G8 R4 G/8

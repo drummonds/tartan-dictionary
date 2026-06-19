@@ -2,10 +2,9 @@
 title: "Glasgow Cathedral 2000"
 date: 2023-03-18
 ---
-**Bands:** [GRBBBRGRYB](/stripes/grbbbrgryb/) · **Stripes:** [DG R DT B DT R DG R LY DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="seq">DG R DT B DT R DG R LY DT</span></span>
+In pattern [BYRGRBBBRG](/stripes/byrgrbbbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1354
 

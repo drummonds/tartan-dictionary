@@ -2,10 +2,9 @@
 title: "Bourbon, Sebastien (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WKRWRWRWWRW](/stripes/wkrwrwrwwrw/) · **Stripes:** [W K O W O W O W W R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K O W O W O W W R W</span></span>
+In pattern [WKRWRWRWWRW](/stripes/wkrwrwrwwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11307
 

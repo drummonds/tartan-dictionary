@@ -2,10 +2,9 @@
 title: "Lochaber (Scrapbook)"
 date: 2023-03-18
 ---
-**Bands:** [GWGWGWGBRBRBRB](/stripes/gwgwgwgbrbrbrb/) · **Stripes:** [DY W DY W DY W DY DO O DO O DO O DO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">DY W DY W DY W DY DO O DO O DO O DO</span></span>
+In pattern [BRBRBRBGWGWGWG](/stripes/brbrbrbgwgwgwg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2164
 

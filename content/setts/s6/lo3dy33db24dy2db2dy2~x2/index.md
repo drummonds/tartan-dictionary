@@ -2,10 +2,9 @@
 title: "Keepers of the Quaich"
 date: 2023-03-18
 ---
-**Bands:** [YGBGBG](/stripes/ygbgbg/) · **Stripes:** [LO DY DB DY DB DY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO DY DB DY DB DY</span></span>
+In pattern [GBGBGY](/stripes/gbgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1934
 

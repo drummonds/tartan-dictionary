@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wbywbwbyw/
 ---
-WBYWBWBYW
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-WBYWBWBYW
+
+{{< pat "WBYWBWBYW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### W LR B W DB W LR B W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W LR B W DB W LR B W</span></span>
 
 | Tartans |
 |---------------|
 | [Silver (Personal)](/setts/s9/w24b24lr6w1db4w20b10lr3w4~x2/)|
 |![Silver (Personal) example sett](/setts/s9/w24b24lr6w1db4w20b10lr3w4~x2/sett.png)|
-

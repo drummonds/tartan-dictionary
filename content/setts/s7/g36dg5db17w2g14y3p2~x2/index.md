@@ -2,10 +2,9 @@
 title: "Mounth, The, (rejected)"
 date: 2023-03-18
 ---
-**Bands:** [GGBWGGB](/stripes/ggbwggb/) · **Stripes:** [G DG DB W G Y P](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">G DG DB W G Y P</span></span>
+In pattern [BGGWBGG](/stripes/bggwbgg/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

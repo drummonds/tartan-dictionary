@@ -2,10 +2,9 @@
 title: "Unidentified Scarlett #11"
 date: 2023-03-18
 ---
-**Bands:** [BRGRWRBRWBWBRWRGRBW](/stripes/brgrwrbrwbwbrwrgrbw/) · **Stripes:** [B R G R W R B R LB B LB B R W R G R B W](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B R G R W R B R LB B LB B R W R G R B W</span></span>
+In pattern [BRGRWRBRWBWBRWRGRBW](/stripes/brgrwrbrwbwbrwrgrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4367
 

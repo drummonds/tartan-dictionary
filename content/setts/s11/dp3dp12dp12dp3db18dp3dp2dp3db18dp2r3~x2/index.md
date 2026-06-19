@@ -2,10 +2,9 @@
 title: "Royal Delight"
 date: 2023-03-18
 ---
-**Bands:** [RBBBBBBBBBB](/stripes/rbbbbbbbbbb/) · **Stripes:** [R DP DB DP DP DP DB DP DP DP DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP DB DP DP DP DB DP DP DP DP</span></span>
+In pattern [BBBBBBBBBBR](/stripes/bbbbbbbbbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600
 

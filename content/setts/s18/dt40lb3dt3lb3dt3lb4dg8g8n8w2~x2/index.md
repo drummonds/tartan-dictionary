@@ -2,10 +2,9 @@
 title: "Greenshields (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/) · **Stripes:** [DT LB DT LB DT LB DG G N W N G DG LB DT LB DT LB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DT LB DT LB DT LB DG G N W N G DG LB DT LB DT LB</span></span>
+In pattern [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530
 

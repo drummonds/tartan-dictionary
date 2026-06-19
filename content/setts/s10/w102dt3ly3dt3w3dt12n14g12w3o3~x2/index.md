@@ -2,10 +2,9 @@
 title: "Miss Emma Halford-MacLeod"
 date: 2023-03-18
 ---
-**Bands:** [RWGBBWBYBW](/stripes/rwgbbwbybw/) · **Stripes:** [O W G N DT W DT LY DT W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O W G N DT W DT LY DT W</span></span>
+In pattern [RWGBBWBYBW](/stripes/rwgbbwbybw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10046
 

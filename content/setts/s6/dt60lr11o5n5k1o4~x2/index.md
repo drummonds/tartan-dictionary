@@ -2,10 +2,9 @@
 title: "Christie (London) Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RKBRYB](/stripes/rkbryb/) · **Stripes:** [O K N O LR DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="seq">O K N O LR DT</span></span>
+In pattern [BYRBKR](/stripes/byrbkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10294
 

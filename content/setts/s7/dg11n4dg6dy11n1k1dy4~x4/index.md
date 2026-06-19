@@ -2,10 +2,9 @@
 title: "Calais (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GKBGGBG](/stripes/gkbggbg/) · **Stripes:** [DY K N DY DG N DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="seq">DY K N DY DG N DG</span></span>
+In pattern [GBGGBKG](/stripes/gbggbkg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3779/
 

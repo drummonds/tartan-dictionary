@@ -2,10 +2,9 @@
 title: "Glen Nevis #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBBBKGKGYGYG](/stripes/ybbbkgkgygyg/) · **Stripes:** [LO DO DO DO K Y K Y LO Y LO Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO DO DO DO K Y K Y LO Y LO Y</span></span>
+In pattern [GYGYGKGKBBBY](/stripes/gygygkgkbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1390
 

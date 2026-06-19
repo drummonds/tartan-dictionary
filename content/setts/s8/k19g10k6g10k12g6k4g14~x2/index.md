@@ -2,10 +2,9 @@
 title: "Menzies, Green"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKG](/stripes/kgkgkgkg/) · **Stripes:** [K G K G K G K G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G K G K G</span></span>
+In pattern [GKGKGKGK](/stripes/gkgkgkgk/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

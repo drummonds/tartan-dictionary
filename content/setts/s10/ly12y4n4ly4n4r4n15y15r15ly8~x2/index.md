@@ -2,10 +2,9 @@
 title: "Glasgows, Miles Better"
 date: 2023-03-18
 ---
-**Bands:** [YRGBRBYBGY](/stripes/yrgbrbybgy/) · **Stripes:** [LY R Y N R N LY N Y LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY R Y N R N LY N Y LY</span></span>
+In pattern [YGBYBRBGRY](/stripes/ygbybrbgry/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

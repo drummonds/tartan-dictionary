@@ -2,10 +2,9 @@
 title: "Borthwick Dress"
 date: 2023-03-18
 ---
-**Bands:** [GKRKWKWKW](/stripes/gkrkwkwkw/) · **Stripes:** [G K R K W K W K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G K R K W K W K W</span></span>
+In pattern [GKRKWKWKW](/stripes/gkrkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=317
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [317](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=317)
 - Scottish Tartans Authority (ITI): 820
 - Scottish Tartans World Register: 820
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Borthwick Dress (Clan)](/setts/s9/g7k1r8k2w7k10w7k2w4~x4/)
-- [Borthwick, dress](/setts/s9/g7k1r7k1w7k10w7k2w4~x2/)
-
 
 ## Thread count
 G/24 K4 DR24 K6 W14 K32 W14 K6 W/12

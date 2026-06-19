@@ -2,10 +2,9 @@
 title: "Connecticut"
 date: 2023-03-18
 ---
-**Bands:** [GGRGYGGWGB](/stripes/ggrgyggwgb/) · **Stripes:** [Y DG R DG LY DG Y W Y DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">Y DG R DG LY DG Y W Y DB</span></span>
+In pattern [BGWGGYGRGG](/stripes/bgwggygrgg/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

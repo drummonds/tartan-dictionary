@@ -2,10 +2,9 @@
 title: "Gaudet-Hillan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBKGWKBWKRKRKBW](/stripes/rbkgwkbwkrkrkbw/) · **Stripes:** [R T K G W K DP W K R K R K DP W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R T K G W K DP W K R K R K DP W</span></span>
+In pattern [RBKGWKBWKRKRKBW](/stripes/rbkgwkbwkrkrkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11408
 

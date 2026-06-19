@@ -2,10 +2,9 @@
 title: "MacRae/Rae"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/) · **Stripes:** [DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP DG DP</span></span>
+In pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2757
 
@@ -29,14 +28,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5335](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5335)
 - Scottish Tartans World Register: 3071
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacRae (Rae)](/setts/s27/dp14dg3dp14dg14dp3dg3dp3dg14dp16dg3dp16dg14dp1dg1dp2dg1dp1dg14dp1dg1dp2dg1dp1dg14dp14dg3dp14~x2/)
-- [Rae (Wilsons) (Clan)](/setts/s27/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/)
-
 
 ## Thread count
 P/54 G12 P54 G56 P10 G14 P10 G56 P62 G12 P62 G56 P4 G4 P8 G4 P4 G56 P4 G4 P8 G4 P4 G56 P54 G12 P/54

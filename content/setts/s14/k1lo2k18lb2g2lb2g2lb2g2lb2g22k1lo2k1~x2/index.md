@@ -2,10 +2,9 @@
 title: "Hammarby Football Club"
 date: 2023-03-18
 ---
-**Bands:** [KYKGWGWGWGWKYK](/stripes/kykgwgwgwgwkyk/) · **Stripes:** [K LO K G LB G LB G LB G LB K LO K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO K G LB G LB G LB G LB K LO K</span></span>
+In pattern [KYKGWGWGWGWKYK](/stripes/kykgwgwgwgwkyk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1582
 

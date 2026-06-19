@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbkbkwkr/
 ---
-BKBKBKWKR
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BKBKBKWKR
+
+{{< pat "BKBKBKWKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### O K W K DR K DR K DR <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="seq">O K W K DR K DR K DR</span></span>
 
 | Tartans |
 |---------------|
 | [Llewellen of Wales](/setts/s9/dr74k4dr7k4dr9k40w2k4o2/)|
 |![Llewellen of Wales example sett](/setts/s9/dr74k4dr7k4dr9k40w2k4o2/sett.png)|
-

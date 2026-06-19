@@ -2,10 +2,9 @@
 title: "MacKinnon, hunting"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRW](/stripes/grgrgrw/) · **Stripes:** [G O G R G O W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G O G R G O W</span></span>
+In pattern [GRGRGRW](/stripes/grgrgrw/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

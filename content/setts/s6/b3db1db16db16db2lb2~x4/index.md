@@ -2,10 +2,9 @@
 title: "U.S.S. John Paul Jones #1"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBW](/stripes/bbbbbw/) · **Stripes:** [B DB DB DB DB LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">B DB DB DB DB LB</span></span>
+In pattern [BBBBBW](/stripes/bbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4193
 

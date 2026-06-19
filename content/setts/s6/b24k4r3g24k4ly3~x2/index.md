@@ -2,10 +2,9 @@
 title: "(1) Skene"
 date: 2023-03-18
 ---
-**Bands:** [YKGRKB](/stripes/ykgrkb/) · **Stripes:** [LY K G R K B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY K G R K B</span></span>
+In pattern [BKRGKY](/stripes/bkrgky/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

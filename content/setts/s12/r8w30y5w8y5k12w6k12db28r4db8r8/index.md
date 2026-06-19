@@ -2,10 +2,9 @@
 title: "Kinloch Anderson Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKWKGWGWR](/stripes/rbrbkwkgwgwr/) · **Stripes:** [R DB R DB K W K Y W Y W R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB K W K Y W Y W R</span></span>
+In pattern [RBRBKWKGWGWR](/stripes/rbrbkwkgwgwr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5365
 

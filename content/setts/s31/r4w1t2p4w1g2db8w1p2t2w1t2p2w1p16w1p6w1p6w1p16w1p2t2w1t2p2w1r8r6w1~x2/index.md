@@ -2,10 +2,9 @@
 title: "Brides Plaid"
 date: 2023-03-18
 ---
-**Bands:** [RWBBWGBWBBWBBWBWBWBWBWBBWBBWRRW](/stripes/rwbbwgbwbbwbbwbwbwbwbwbbwbbwrrw/) · **Stripes:** [R W T P W G DB W P T W T P W P W P W P W P W P T W T P W R R W](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W T P W G DB W P T W T P W P W P W P W P W P T W T P W R R W</span></span>
+In pattern [RWBBWGBWBBWBBWBWBWBWBWBBWBBWRRW](/stripes/rwbbwgbwbbwbbwbwbwbwbwbbwbbwrrw/).
 
-
-This was sourced from weddslist.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

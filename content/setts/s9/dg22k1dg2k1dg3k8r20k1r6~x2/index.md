@@ -2,10 +2,9 @@
 title: "Stewart of Atholl"
 date: 2023-03-18
 ---
-**Bands:** [RKRKGKGKG](/stripes/rkrkgkgkg/) · **Stripes:** [R K R K DG K DG K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K R K DG K DG K DG</span></span>
+In pattern [GKGKGKRKR](/stripes/gkgkgkrkr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -69,13 +68,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart of Atholl (Clan)](/setts/s9/dg22k1dg2k1dg3k8r20k1r3~x4/)
-
 
 ## Thread count
 G/44 K2 G4 K2 G6 K16 R40 K2 R/12

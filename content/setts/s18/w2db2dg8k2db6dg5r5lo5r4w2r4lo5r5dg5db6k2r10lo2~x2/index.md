@@ -2,10 +2,9 @@
 title: "Kutztown (Berks County, PA)"
 date: 2023-03-18
 ---
-**Bands:** [YRKBGRYRWRYRGBKGBW](/stripes/yrkbgryrwryrgbkgbw/) · **Stripes:** [LO R K DB DG R LO R W R LO R DG DB K DG DB W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R K DB DG R LO R W R LO R DG DB K DG DB W</span></span>
+In pattern [WBGKBGRYRWRYRGBKRY](/stripes/wbgkbgryrwryrgbkry/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5739
 

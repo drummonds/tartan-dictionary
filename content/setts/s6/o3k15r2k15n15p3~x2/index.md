@@ -2,10 +2,9 @@
 title: "H.M.S. DUNCAN"
 date: 2023-03-18
 ---
-**Bands:** [RKRKBB](/stripes/rkrkbb/) · **Stripes:** [O K R K N P](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">O K R K N P</span></span>
+In pattern [BBKRKR](/stripes/bbkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10268
 

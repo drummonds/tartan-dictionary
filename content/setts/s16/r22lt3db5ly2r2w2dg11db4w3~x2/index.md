@@ -2,10 +2,9 @@
 title: "Norwich No.014"
 date: 2023-03-18
 ---
-**Bands:** [RWBYRWGBWBGWRYBW](/stripes/rwbyrwgbwbgwrybw/) · **Stripes:** [R LT DB LY R W DG DB W DB DG W R LY DB LT](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">R LT DB LY R W DG DB W DB DG W R LY DB LT</span></span>
+In pattern [RWBYRWGBWBGWRYBW](/stripes/rwbyrwgbwbgwrybw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3172
 

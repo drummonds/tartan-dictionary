@@ -2,10 +2,9 @@
 title: "Cates Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RWYKGYGRG](/stripes/rwykgygrg/) · **Stripes:** [R W LY K DG LY DG R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R W LY K DG LY DG R DG</span></span>
+In pattern [GRGYGKYWR](/stripes/grgygkywr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5945
 

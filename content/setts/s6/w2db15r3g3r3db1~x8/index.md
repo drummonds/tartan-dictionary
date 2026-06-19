@@ -2,10 +2,9 @@
 title: "Lothian Buses (Corporate?)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBW](/stripes/brgrbw/) · **Stripes:** [DB R G R DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R G R DB W</span></span>
+In pattern [BRGRBW](/stripes/brgrbw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7779/
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5749](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5749)
 - Scottish Tartans Authority (ITI): 7779
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Edinburgh Bus Company (Corporate)](/setts/s6/db3r2g5r8db12w3~x2/)
-
 
 ## Thread count
 LN/16 DB120 R24 G24 R24 DB/8

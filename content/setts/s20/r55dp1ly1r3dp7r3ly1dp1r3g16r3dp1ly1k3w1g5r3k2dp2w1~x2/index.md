@@ -2,10 +2,9 @@
 title: "Fennell Grandmothers (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBYRBRYBRGRBYKWGRKBW](/stripes/rbyrbrybrgrbykwgrkbw/) · **Stripes:** [R DP LY R DP R LY DP R G R DP LY K W G R K DP W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DP LY R DP R LY DP R G R DP LY K W G R K DP W</span></span>
+In pattern [RBYRBRYBRGRBYKWGRKBW](/stripes/rbyrbrybrgrbykwgrkbw/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6112/
 

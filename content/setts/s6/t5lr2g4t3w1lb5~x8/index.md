@@ -2,10 +2,9 @@
 title: "Heriot Bay Local (Quadra Island, British Columbia)"
 date: 2023-03-18
 ---
-**Bands:** [BYGBWW](/stripes/bygbww/) · **Stripes:** [T LR G T W LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">T LR G T W LB</span></span>
+In pattern [BYGBWW](/stripes/bygbww/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10431
 

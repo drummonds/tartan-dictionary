@@ -2,10 +2,9 @@
 title: "Hopetoun Rejected design"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGKGKYKGKBG](/stripes/ykgkgkgkykgkbg/) · **Stripes:** [LY K DG K DG K DG K LY K DG K DB DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K DG K DG K DG K LY K DG K DB DG</span></span>
+In pattern [GBKGKYKGKGKGKY](/stripes/gbkgkykgkgkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1762
 

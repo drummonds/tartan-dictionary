@@ -2,10 +2,9 @@
 title: "Grant - 1819 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BBBGBGBBBBBBBBB](/stripes/bbbgbgbbbbbbbbb/) · **Stripes:** [DB DP DB G DB G DB DP DB T DB DP DB DP DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DP DB G DB G DB DP DB T DB DP DB DP DB</span></span>
+In pattern [BBBBBBBBBGBGBBB](/stripes/bbbbbbbbbgbgbbb/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1385/
 

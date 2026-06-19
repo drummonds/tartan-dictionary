@@ -2,10 +2,9 @@
 title: "McWilliams (2014)"
 date: 2023-03-18
 ---
-**Bands:** [RGBG](/stripes/rgbg/) · **Stripes:** [R Y DP Y](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y DP Y</span></span>
+In pattern [GBGR](/stripes/gbgr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11134/
 

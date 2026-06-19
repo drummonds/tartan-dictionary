@@ -2,10 +2,9 @@
 title: "Caledonian Railway (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [RWBWKWBKYKB](/stripes/rwbwkwbkykb/) · **Stripes:** [R LB B LB K LB B K LO K B](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R LB B LB K LB B K LO K B</span></span>
+In pattern [BKYKBWKWBWR](/stripes/bkykbwkwbwr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10590/
 

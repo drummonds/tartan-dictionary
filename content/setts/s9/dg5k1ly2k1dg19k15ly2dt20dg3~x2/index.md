@@ -2,10 +2,9 @@
 title: "Maine Acadia (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GKYKGKYBG](/stripes/gkykgkybg/) · **Stripes:** [DG K LY K DG K LY DT DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K LY K DG K LY DT DG</span></span>
+In pattern [GBYKGKYKG](/stripes/gbykgkykg/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10292/
 

@@ -2,10 +2,9 @@
 title: "Caledonian Mist"
 date: 2023-03-18
 ---
-**Bands:** [BKBRBWB](/stripes/bkbrbwb/) · **Stripes:** [N K DP O DP W DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">N K DP O DP W DP</span></span>
+In pattern [BKBRBWB](/stripes/bkbrbwb/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11287/
 

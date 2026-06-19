@@ -2,10 +2,9 @@
 title: "Guzzo Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYWKYWKW](/stripes/kywkywkw/) · **Stripes:** [K LO W K LO W K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LO W K LO W K W</span></span>
+In pattern [KYWKYWKW](/stripes/kywkywkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10560/
 

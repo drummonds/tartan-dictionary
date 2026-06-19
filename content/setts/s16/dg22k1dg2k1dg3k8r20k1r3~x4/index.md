@@ -2,10 +2,9 @@
 title: "Stewart/Stuart of Atholl"
 date: 2023-03-18
 ---
-**Bands:** [KRKGKGKGKGKGKRKR](/stripes/krkgkgkgkgkgkrkr/) · **Stripes:** [K R K DG K DG K DG K DG K DG K R K R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K DG K DG K DG K DG K DG K R K R</span></span>
+In pattern [KRKGKGKGKGKGKRKR](/stripes/krkgkgkgkgkgkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3950
 

@@ -2,19 +2,11 @@
 title: "MacKintosh-Geddes (Personal?)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRW](/stripes/brgrbrw/) · **Stripes:** [DP R G R DP R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP R G R DP R W</span></span>
+In pattern [BRGRBRW](/stripes/brgrbrw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/543/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Geddes](/setts/s7/dp1r5g15r3dp9r10w1~x4/)
-
 
 ## Thread count
 P/4 R8 G24 R6 P12 R20 W/4

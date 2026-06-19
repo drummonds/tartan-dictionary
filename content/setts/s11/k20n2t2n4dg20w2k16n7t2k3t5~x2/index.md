@@ -2,10 +2,9 @@
 title: "U.S.I. Limited"
 date: 2023-03-18
 ---
-**Bands:** [KBBBGWKBBKB](/stripes/kbbbgwkbbkb/) · **Stripes:** [K N T N DG W K N T K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K N T N DG W K N T K T</span></span>
+In pattern [BKBBKWGBBBK](/stripes/bkbbkwgbbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4192
 

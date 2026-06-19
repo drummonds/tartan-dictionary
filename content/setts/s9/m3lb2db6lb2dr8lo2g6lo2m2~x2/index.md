@@ -2,10 +2,9 @@
 title: "Bhutan"
 date: 2023-03-18
 ---
-**Bands:** [RYGYBWBWR](/stripes/rygybwbwr/) · **Stripes:** [M LO G LO DR LB DB LB M](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M LO G LO DR LB DB LB M</span></span>
+In pattern [RWBWBYGYR](/stripes/rwbwbygyr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5044
 

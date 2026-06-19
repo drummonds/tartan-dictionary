@@ -2,10 +2,9 @@
 title: "Ranking (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKRKGRGWGRGKRKBRBRBW](/stripes/bkrkgrgwgrgkrkbrbrbw/) · **Stripes:** [DB K R K G R G W G R G K R K DB R DB R DB W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K R K G R G W G R G K R K DB R DB R DB W</span></span>
+In pattern [BKRKGRGWGRGKRKBRBRBW](/stripes/bkrkgrgwgrgkrkbrbrbw/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3242/
 

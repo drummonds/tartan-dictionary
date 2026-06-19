@@ -2,19 +2,11 @@
 title: "Oliver Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KWRBRGRGW](/stripes/kwrbrgrgw/) · **Stripes:** [K W R DB R G R G W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R DB R G R G W</span></span>
+In pattern [KWRBRGRGW](/stripes/kwrbrgrgw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5526/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Oliver, dress](/setts/s9/w5g3r3g3r3db20r16w21k3~x2/)
-
 
 ## Thread count
 K/4 W28 DR24 DB28 DR4 G4 DR4 G4 W/4

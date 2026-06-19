@@ -2,10 +2,9 @@
 title: "Henbury"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYBBBWBBBBWBW](/stripes/bbbbybbbwbbbbwbw/) · **Stripes:** [DP DT DP DT LY DP DT DP W DT DP DT DP W DT W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DT DP DT LY DP DT DP W DT DP DT DP W DT W</span></span>
+In pattern [BBBBYBBBWBBBBWBW](/stripes/bbbbybbbwbbbbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1682
 

@@ -2,10 +2,9 @@
 title: "Thom, Calum (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBRRRYRRRYRYRY](/stripes/rrbrbrrryrrryryry/) · **Stripes:** [R M DO R DO R M R LY R M R LY R LY R LY](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R M DO R DO R M R LY R M R LY R LY R LY</span></span>
+In pattern [RRBRBRRRYRRRYRYRY](/stripes/rrbrbrrryrrryryry/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11336
 

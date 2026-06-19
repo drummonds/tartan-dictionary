@@ -2,10 +2,9 @@
 title: "Ross Arisaid"
 date: 2023-03-18
 ---
-**Bands:** [RWRWKGKGGGGG](/stripes/rwrwkgkggggg/) · **Stripes:** [R W R W K G K G G G G G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W R W K G K G G G G G</span></span>
+In pattern [GGGGGKGKWRWR](/stripes/gggggkgkwrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5120
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5120](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5120)
 - Scottish Tartans Authority (ITI): 3170
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ross, hunting dress](/setts/s12/g4g3g3g4g4k8g3k9w29r2w4r2~x2/)
-
 
 ## Thread count
 DR/8 W8 DR4 W58 K20 G6 K20 G8 Ga8 G6 Ga6 G/6

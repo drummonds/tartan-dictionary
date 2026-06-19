@@ -2,10 +2,9 @@
 title: "Glenmorangie Check"
 date: 2023-03-18
 ---
-**Bands:** [RGG](/stripes/rgg/) · **Stripes:** [R DY DY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DY DY</span></span>
+In pattern [GGR](/stripes/ggr/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1426
 

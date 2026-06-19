@@ -2,10 +2,9 @@
 title: "European Congress of Immunology 2012"
 date: 2023-03-18
 ---
-**Bands:** [BYKRKBWBKRBYB](/stripes/bykrkbwbkrbyb/) · **Stripes:** [P LY K R K B W B K R B LY P](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P LY K R K B W B K R B LY P</span></span>
+In pattern [BYBRKBWBKRKYB](/stripes/bybrkbwbkrkyb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10683
 

@@ -2,10 +2,9 @@
 title: "Mothers Pride"
 date: 2023-03-18
 ---
-**Bands:** [RBY](/stripes/rby/) · **Stripes:** [R DB LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB LY</span></span>
+In pattern [RBY](/stripes/rby/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Colliers International (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBBYBBBBBBBRBBBBBBBBBBBB](/stripes/bbbybbbbbbbrbbbbbbbbbbbb/) · **Stripes:** [DB N DB LY DB N DB N DB N DB R DB N DB N DB N DB T DB N DB N](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">DB N DB LY DB N DB N DB N DB R DB N DB N DB N DB T DB N DB N</span></span>
+In pattern [BBBBBBBBBBBBRBBBBBBBYBBB](/stripes/bbbbbbbbbbbbrbbbbbbbybbb/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7524/
 

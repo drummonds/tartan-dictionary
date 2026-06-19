@@ -2,10 +2,9 @@
 title: "Royal Caledonian Curling Club"
 date: 2023-03-18
 ---
-**Bands:** [RBWBBBBRBYBRBRB](/stripes/rbwbbbbrbybrbrb/) · **Stripes:** [R DT LB DT DT DT DT R DT LO DT R DT R DT](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT LB DT DT DT DT R DT LO DT R DT R DT</span></span>
+In pattern [BRBRBYBRBBBBWBR](/stripes/brbrbybrbbbbwbr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11346
 

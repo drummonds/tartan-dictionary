@@ -2,10 +2,9 @@
 title: "Scottish Bluebell (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BKWBWKWBWKBWB](/stripes/bkwbwkwbwkbwb/) · **Stripes:** [DB K W B W K W B W K DB W B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB K W B W K W B W K DB W B</span></span>
+In pattern [BKWBWKWBWKBWB](/stripes/bkwbwkwbwkbwb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7560/
 

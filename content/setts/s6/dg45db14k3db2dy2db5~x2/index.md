@@ -2,10 +2,9 @@
 title: "St Andrews Old Course Hotel, Golf Course and Spa"
 date: 2023-03-18
 ---
-**Bands:** [GBKBGB](/stripes/gbkbgb/) · **Stripes:** [DG DB K DB DY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DB K DB DY DB</span></span>
+In pattern [BGBKBG](/stripes/bgbkbg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3883
 

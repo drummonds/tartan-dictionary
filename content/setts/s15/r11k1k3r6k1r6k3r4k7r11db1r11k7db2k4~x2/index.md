@@ -2,10 +2,9 @@
 title: "James (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [KBKRBRKRKRKRKKR](/stripes/kbkrbrkrkrkrkkr/) · **Stripes:** [K DB K R DB R K R K R K R K K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB K R DB R K R K R K R K K R</span></span>
+In pattern [KBKRBRKRKRKRKKR](/stripes/kbkrbrkrkrkrkkr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5736/
 

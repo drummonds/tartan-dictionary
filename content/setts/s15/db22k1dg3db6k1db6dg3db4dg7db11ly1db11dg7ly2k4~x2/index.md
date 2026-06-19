@@ -2,10 +2,9 @@
 title: "Benyon of Wales (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KYGBYBGBGBKBGKB](/stripes/kygbybgbgbkbgkb/) · **Stripes:** [K LY DG DB LY DB DG DB DG DB K DB DG K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LY DG DB LY DB DG DB DG DB K DB DG K DB</span></span>
+In pattern [BKGBKBGBGBYBGYK](/stripes/bkgbkbgbgbybgyk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5735/
 
@@ -21,14 +20,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 - Unknown — Benyon of Wales (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5735/))
 - undated — Benyon Welsh Name Tartan Tartan Number: 5735. Earliest known date: Unknown Designed for surnames Enyon and Benyon at The Wales Tartan Centre in Cardiff, by Sheila Daniel of Cambrian Woollen Mill, Powys. They are unusual in that almost all of them incorporate odd numbered threads and have quite different warp and weft, both in thread numbers and sometimes colours. There is no known tradition of tartan in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5735))
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Benyon of Wales](/setts/s15/db22k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k6/)
-- [Beynon](/setts/s15/db11k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4/)
-
 
 ## Thread count
 DB/44 K2 G6 DB12 K2 DB12 G6 DB8 G14 DB22 Y2 DB22 G14 Y4 K/8

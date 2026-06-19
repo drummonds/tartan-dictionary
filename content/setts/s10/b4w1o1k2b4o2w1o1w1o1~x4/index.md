@@ -2,10 +2,9 @@
 title: "City of Pointe-Claire"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRBKRWB](/stripes/rwrwrbkrwb/) · **Stripes:** [O W O W O B K O W B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">O W O W O B K O W B</span></span>
+In pattern [BWRKBRWRWR](/stripes/bwrkbrwrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10509
 

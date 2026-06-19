@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bwyrgbk/
 ---
-BWYRGBK
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/db67w1lo6r5dg25db3k5~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BWYRGBK
+
+{{< pat "BWYRGBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K DB DG R LO W DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB DG R LO W DB</span></span>
 
 | Tartans |
 |---------------|
 | [Guide Dogs (Corporate)](/setts/s7/db67w1lo6r5dg25db3k5~x2/)|
 |![Guide Dogs (Corporate) example sett](/setts/s7/db67w1lo6r5dg25db3k5~x2/sett.png)|
-

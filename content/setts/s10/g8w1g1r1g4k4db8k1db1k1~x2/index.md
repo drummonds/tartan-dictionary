@@ -2,10 +2,9 @@
 title: "Allon/Allan"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGRGWG](/stripes/kbkbkgrgwg/) · **Stripes:** [K DB K DB K G R G W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K DB K G R G W G</span></span>
+In pattern [GWGRGKBKBK](/stripes/gwgrgkbkbk/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Allen (1996)](/setts/s10/g8w1g1r1g4k4db8k1db1k1~x4/)
-
 
 ## Thread count
 G/16 LN2 G2 R2 G8 K8 B16 K2 B2 K/2

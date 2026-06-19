@@ -2,10 +2,9 @@
 title: "Ambulance Victoria (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWKBWBKYKB](/stripes/rwkbwbkykb/) · **Stripes:** [R W K T W B K LO K B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R W K T W B K LO K B</span></span>
+In pattern [BKYKBWBKWR](/stripes/bkykbwbkwr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10153/
 

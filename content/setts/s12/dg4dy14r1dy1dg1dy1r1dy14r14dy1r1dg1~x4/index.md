@@ -2,10 +2,9 @@
 title: "Frame - Ferniegair (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGGGRGG](/stripes/grgrgrgggrgg/) · **Stripes:** [DG R DY R DY R DY DG DY R DY DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DY R DY R DY DG DY R DY DG</span></span>
+In pattern [GGRGGGRGRGRG](/stripes/ggrgggrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10614/
 

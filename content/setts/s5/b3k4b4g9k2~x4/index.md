@@ -2,10 +2,9 @@
 title: "Falconer"
 date: 2023-03-18
 ---
-**Bands:** [KGBKB](/stripes/kgbkb/) · **Stripes:** [K G B K B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G B K B</span></span>
+In pattern [BKBGK](/stripes/bkbgk/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5239
 

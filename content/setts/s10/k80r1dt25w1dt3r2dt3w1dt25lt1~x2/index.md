@@ -2,10 +2,9 @@
 title: "Pompili, Antonio and Alessandro (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRBWBRBWBW](/stripes/krbwbrbwbw/) · **Stripes:** [K R DT W DT R DT W DT LT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">K R DT W DT R DT W DT LT</span></span>
+In pattern [KRBWBRBWBW](/stripes/krbwbrbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11578
 

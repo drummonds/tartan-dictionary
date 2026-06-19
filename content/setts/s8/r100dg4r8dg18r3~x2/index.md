@@ -2,10 +2,9 @@
 title: "KaDeWe"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRG](/stripes/rgrgrgrg/) · **Stripes:** [R DG R DG R DG R DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG R DG R DG</span></span>
+In pattern [GRGRGRGR](/stripes/grgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1925
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1925](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1925)
 - Scottish Tartans Authority (ITI): 2696
 - Scottish Tartans World Register: 2696
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Menzies Hunting](/setts/s8/dg48r4dg2r4dg6r2dg3r9/)
-- [Menzies Hunting](/setts/s8/dg48r4dg2r4dg6r2dg3r9~x2/)
-
 
 ## Thread count
 DR/200 DG8 DR16 DG36 DR6 DG36 DR16 DG/8

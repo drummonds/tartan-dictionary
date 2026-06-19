@@ -2,10 +2,9 @@
 title: "Johnnie Walker (2003) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBRKYKYKRBRB](/stripes/kbrkykykrbrb/) · **Stripes:** [K DB R K LO K LO K R DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB R K LO K LO K R DB R DB</span></span>
+In pattern [BRBRKYKYKRBK](/stripes/brbrkykykrbk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6100/
 

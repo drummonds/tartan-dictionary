@@ -2,10 +2,9 @@
 title: "Applestone"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBKRBGBGB](/stripes/brbrbrbkrbgbgb/) · **Stripes:** [B R B R B R B K R DO Y DO Y DO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="seq">B R B R B R B K R DO Y DO Y DO</span></span>
+In pattern [BGBGBRKBRBRBRB](/stripes/bgbgbrkbrbrbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11549
 

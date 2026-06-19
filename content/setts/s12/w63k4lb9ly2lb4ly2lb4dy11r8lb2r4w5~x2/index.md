@@ -2,10 +2,9 @@
 title: "Seller Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WKWYWYWGRWRW](/stripes/wkwywywgrwrw/) · **Stripes:** [W K LB LY LB LY LB DY R LB R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K LB LY LB LY LB DY R LB R W</span></span>
+In pattern [WKWYWYWGRWRW](/stripes/wkwywywgrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1811/
 

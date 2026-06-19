@@ -2,10 +2,9 @@
 title: "Mitchell"
 date: 2023-03-18
 ---
-**Bands:** [KGKRBY](/stripes/kgkrby/) · **Stripes:** [K DG K R DB LR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K DG K R DB LR</span></span>
+In pattern [KGKRBY](/stripes/kgkrby/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mitchell](/setts/s6/k2dg12k12r1db12lr2/)
-
 
 ## Thread count
 K/4 DG24 K24 DR2 DB24 N/4

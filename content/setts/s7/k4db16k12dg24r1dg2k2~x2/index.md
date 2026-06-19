@@ -2,10 +2,9 @@
 title: "Dundas"
 date: 2023-03-18
 ---
-**Bands:** [KGRGKBK](/stripes/kgrgkbk/) · **Stripes:** [K DG R DG K DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG R DG K DB K</span></span>
+In pattern [KBKGRGK](/stripes/kbkgrgk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -63,13 +62,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacCallum #2](/setts/s7/k6dg6r1dg6k6db6k1~x2/)
-
 
 ## Thread count
 K/8 DB32 K24 G48 R2 G4 K/4

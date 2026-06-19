@@ -2,20 +2,11 @@
 title: "Wallace Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KGKY](/stripes/kgky/) · **Stripes:** [K G K LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K G K LY</span></span>
+In pattern [KGKY](/stripes/kgky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1101/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scotch Tape 2 (Corporate)](/setts/s4/k3g15k20ly3~x2/)
-- [Wallace, hunting](/setts/s4/k4g33k33ly4~x2/)
-
 
 ## Thread count
 K/4 G32 K32 Y/4

@@ -2,10 +2,9 @@
 title: "Yukon"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBYGWRBB](/stripes/bybybygwrbb/) · **Stripes:** [T LY T LY T LY G W R DP T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">T LY T LY T LY G W R DP T</span></span>
+In pattern [BBRWGYBYBYB](/stripes/bbrwgybybyb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4803
 

@@ -2,10 +2,9 @@
 title: "Ballarat"
 date: 2023-03-18
 ---
-**Bands:** [YWBGBGBGBW](/stripes/ywbgbgbgbw/) · **Stripes:** [LO W N Y DB Y DB Y N W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO W N Y DB Y DB Y N W</span></span>
+In pattern [WBGBGBGBWY](/stripes/wbgbgbgbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10988
 

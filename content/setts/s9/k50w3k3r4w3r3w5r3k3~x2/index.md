@@ -2,10 +2,9 @@
 title: "Tweedside Variation (silk sample)"
 date: 2023-03-18
 ---
-**Bands:** [KRWRWRKWK](/stripes/krwrwrkwk/) · **Stripes:** [K R W R W R K W K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K R W R W R K W K</span></span>
+In pattern [KRWRWRKWK](/stripes/krwrwrkwk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8922/
 

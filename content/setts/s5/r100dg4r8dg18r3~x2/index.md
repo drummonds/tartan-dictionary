@@ -2,19 +2,11 @@
 title: "KaDeWe (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGR](/stripes/rgrgr/) · **Stripes:** [R DG R DG R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R</span></span>
+In pattern [RGRGR](/stripes/rgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2696/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNab #4](/setts/s5/r86dg3r3dg6r85~x2/)
-
 
 ## Thread count
 DR/200 DG8 DR16 DG36 DR/6

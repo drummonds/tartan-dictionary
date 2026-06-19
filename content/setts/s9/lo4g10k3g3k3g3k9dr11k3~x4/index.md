@@ -2,10 +2,9 @@
 title: "Martin"
 date: 2023-03-18
 ---
-**Bands:** [KBKGKGKGY](/stripes/kbkgkgkgy/) · **Stripes:** [K DR K G K G K G LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K DR K G K G K G LO</span></span>
+In pattern [KBKGKGKGY](/stripes/kbkgkgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2841
 

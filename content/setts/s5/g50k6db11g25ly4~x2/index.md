@@ -2,10 +2,9 @@
 title: "Glen of Daviot (Dalgleish)"
 date: 2023-03-18
 ---
-**Bands:** [YGBKG](/stripes/ygbkg/) · **Stripes:** [LY G DB K G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G DB K G</span></span>
+In pattern [GKBGY](/stripes/gkbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1392
 

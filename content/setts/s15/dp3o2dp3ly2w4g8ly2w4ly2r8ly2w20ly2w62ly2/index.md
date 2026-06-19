@@ -2,10 +2,9 @@
 title: "Druid (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YWYWYRYWYGWYBRB](/stripes/ywywyrywygwybrb/) · **Stripes:** [LY W LY W LY R LY W LY G W LY DP O DP](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY W LY W LY R LY W LY G W LY DP O DP</span></span>
+In pattern [BRBYWGYWYRYWYWY](/stripes/brbywgywyrywywy/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10102/
 

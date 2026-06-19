@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/grgby/
 ---
-GRGBY
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/g47r3g6db35lo3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GRGBY
+
+{{< pat "GRGBY" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### LO DB G R G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO DB G R G</span></span>
-
-| Tartans |
-|---------------|
-| [Gracie (Name)](/setts/s5/g47r3g6db35lo3~x2/)|
-|![Gracie (Name) example sett](/setts/s5/g47r3g6db35lo3~x2/sett.png)|
-
-### LY DB G R G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB G R G</span></span>
 
 | Tartans |
 |---------------|
 | [Gracie](/setts/s5/g47r3g6db35ly3~x2/)|
 |![Gracie example sett](/setts/s5/g47r3g6db35ly3~x2/sett.png)|
-
+| [Gracie (Name)](/setts/s5/g47r3g6db35lo3~x2/)|
+|![Gracie (Name) example sett](/setts/s5/g47r3g6db35lo3~x2/sett.png)|

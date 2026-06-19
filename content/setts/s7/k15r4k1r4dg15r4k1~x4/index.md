@@ -2,10 +2,9 @@
 title: "Logan (Dark)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGRK](/stripes/krkrgrk/) · **Stripes:** [K R K R DG R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R DG R K</span></span>
+In pattern [KRGRKRK](/stripes/krgrkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4903
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4903](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4903)
 - Scottish Tartans Authority (ITI): 6039
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Logan - 1810 (Cockburn Collection)](/setts/s7/k14r6k2r6dg25r6k2~x2/)
-
 
 ## Thread count
 K/60 R16 K4 R16 G60 R16 K/4

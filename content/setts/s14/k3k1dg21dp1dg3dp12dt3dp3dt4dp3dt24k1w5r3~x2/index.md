@@ -2,10 +2,9 @@
 title: "Robert Lee Jordan Defiance (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KKGBGBBBBBBKWR](/stripes/kkgbgbbbbbbkwr/) · **Stripes:** [K K DG DP DG DP DT DP DT DP DT K W R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K K DG DP DG DP DT DP DT DP DT K W R</span></span>
+In pattern [KKGBGBBBBBBKWR](/stripes/kkgbgbbbbbbkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3520
 

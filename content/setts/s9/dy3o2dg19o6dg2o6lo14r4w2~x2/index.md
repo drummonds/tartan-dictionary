@@ -2,10 +2,9 @@
 title: "Royal Pharmaceutical Society"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRYRW](/stripes/grgrgryrw/) · **Stripes:** [DY O DG O DG O LO R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DY O DG O DG O LO R W</span></span>
+In pattern [GRGRGRYRW](/stripes/grgrgryrw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3605
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3605](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3605)
 - Scottish Tartans Authority (ITI): 2091
 - Scottish Tartans World Register: 2091
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Royal Pharmaceutical Society (Corp)](/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/)
-
 
 ## Thread count
 T/6 N4 DG38 N12 DG4 N12 LT28 DR8 LN/4

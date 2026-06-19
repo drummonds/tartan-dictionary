@@ -2,19 +2,11 @@
 title: "Clayton Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KWRWRW](/stripes/kwrwrw/) · **Stripes:** [K W R W R W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R W R W</span></span>
+In pattern [KWRWRW](/stripes/kwrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4529/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buchanan #5](/setts/s6/k2w28r13w2r13w2~x2/)
-
 
 ## Thread count
 W/16 DR28 W16 DR28 W70 K/8

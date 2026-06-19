@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbkkkwkgkgkgk/
 ---
-BKBKKKWKGKGKGK
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-BKBKKKWKGKGKGK
+
+{{< pat "BKBKKKWKGKGKGK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K DG K DG K DG K W K K K DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DG K DG K DG K W K K K DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Strathtummel](/setts/s14/db37k2db2k3k13k10w2k10dg1k2dg2k2dg9k13~x2/)|
 |![Strathtummel example sett](/setts/s14/db37k2db2k3k13k10w2k10dg1k2dg2k2dg9k13~x2/sett.png)|
-

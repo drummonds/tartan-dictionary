@@ -2,10 +2,9 @@
 title: "Nickel Lodge Centennial"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRBWGG](/stripes/ryryrbwgg/) · **Stripes:** [O LY O LY O DT W DY DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="seq">O LY O LY O DT W DY DG</span></span>
+In pattern [GGWBRYRYR](/stripes/ggwbryryr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3135
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3135](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3135)
 - Scottish Tartans Authority (ITI): 920
 - Scottish Tartans World Register: 920
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Nickel Lodge Centennial (Corporate)](/setts/s9/o36ly2o1ly2o4dt12w8dy2dg12~x2/)
-
 
 ## Thread count
 N/32 Y2 N4 Y2 N4 DB12 LN8 T2 G/12

@@ -2,10 +2,9 @@
 title: "Farquharson"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGYGKBKBKBR](/stripes/rkbkgygkbkbkbr/) · **Stripes:** [R K DB K DG LY DG K DB K DB K DB R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DB K DG LY DG K DB K DB K DB R</span></span>
+In pattern [RBKBKBKGYGKBKR](/stripes/rbkbkbkgygkbkr/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Farquharson](/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2/)
-
 
 ## Thread count
 DR/4 DB8 K2 DB2 K2 DB2 K16 DG16 LG4 DG16 K16 DB16 K2 DR/4

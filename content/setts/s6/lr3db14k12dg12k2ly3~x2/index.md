@@ -2,10 +2,9 @@
 title: "MacNiel of Barra"
 date: 2023-03-18
 ---
-**Bands:** [YKGKBY](/stripes/ykgkby/) · **Stripes:** [LY K DG K DB LR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY K DG K DB LR</span></span>
+In pattern [YBKGKY](/stripes/ybkgky/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNiel of Barra](/setts/s6/lr3db14k12dg12k2ly3/)
-
 
 ## Thread count
 N/6 DB28 K24 DG24 K4 LG/6

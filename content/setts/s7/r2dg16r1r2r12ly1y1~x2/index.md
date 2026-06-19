@@ -2,10 +2,9 @@
 title: "Spragg, Andrew"
 date: 2023-03-18
 ---
-**Bands:** [RGRRRYG](/stripes/rgrrryg/) · **Stripes:** [R DG R R R LY Y](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R DG R R R LY Y</span></span>
+In pattern [GYRRRGR](/stripes/gyrrrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10162
 

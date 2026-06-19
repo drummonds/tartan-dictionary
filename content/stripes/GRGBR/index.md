@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/grgbr/
 ---
-GRGBR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/g37o9g3dr9o3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GRGBR
+
+{{< pat "GRGBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### O DR G O G <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O DR G O G</span></span>
 
 | Tartans |
 |---------------|
 | [Glen Boig](/setts/s5/g37o9g3dr9o3~x2/)|
 |![Glen Boig example sett](/setts/s5/g37o9g3dr9o3~x2/sett.png)|
-

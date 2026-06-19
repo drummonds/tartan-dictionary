@@ -2,10 +2,9 @@
 title: "Fed. of Circles & Solitaries (Corp.)"
 date: 2023-03-18
 ---
-**Bands:** [GBYBRBBBKB](/stripes/gbybrbbbkb/) · **Stripes:** [G DB LY DB R DB T DB K DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB LY DB R DB T DB K DB</span></span>
+In pattern [BKBBBRBYBG](/stripes/bkbbbrbybg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6696/
 

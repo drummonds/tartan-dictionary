@@ -2,10 +2,9 @@
 title: "Nevada State"
 date: 2023-03-18
 ---
-**Bands:** [BRBYBYBYW](/stripes/brbybybyw/) · **Stripes:** [DB R DB LY DB LR DB LR W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB LY DB LR DB LR W</span></span>
+In pattern [BRBYBYBYW](/stripes/brbybybyw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3108
 

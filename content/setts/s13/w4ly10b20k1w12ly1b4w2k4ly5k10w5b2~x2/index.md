@@ -2,10 +2,9 @@
 title: "Dinarzh: Fortress of the Bear"
 date: 2023-03-18
 ---
-**Bands:** [BWKYKWBYWKBYW](/stripes/bwkykwbywkbyw/) · **Stripes:** [B W K LY K W B LY W K B LY W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B W K LY K W B LY W K B LY W</span></span>
+In pattern [BWKYKWBYWKBYW](/stripes/bwkykwbywkbyw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10598
 

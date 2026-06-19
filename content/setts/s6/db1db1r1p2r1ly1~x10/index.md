@@ -2,10 +2,9 @@
 title: "Lytley alias Parsons Formal (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRBRBB](/stripes/yrbrbb/) · **Stripes:** [LY R P R DB DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R P R DB DB</span></span>
+In pattern [BBRBRY](/stripes/bbrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10476
 

@@ -2,10 +2,9 @@
 title: "South Lanarkshire (2002) (District)"
 date: 2023-03-18
 ---
-**Bands:** [KBBKGKBWK](/stripes/kbbkgkbwk/) · **Stripes:** [K T DB K G K DP W K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K T DB K G K DP W K</span></span>
+In pattern [KBBKGKBWK](/stripes/kbbkgkbwk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4017/
 

@@ -2,10 +2,9 @@
 title: "Trinity Presbyterian Church"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKGKBKGKB](/stripes/rbrbkgkbkgkb/) · **Stripes:** [R T R T K G K DB K G K T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T R T K G K DB K G K T</span></span>
+In pattern [BKGKBKGKBRBR](/stripes/bkgkbkgkbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4153
 

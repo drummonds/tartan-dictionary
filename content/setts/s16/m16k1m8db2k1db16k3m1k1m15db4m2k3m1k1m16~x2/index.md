@@ -2,10 +2,9 @@
 title: "(5) Ruxton hunting"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRBRKRKBKBRKR](/stripes/rkrkrbrkrkbkbrkr/) · **Stripes:** [M K M K M DB M K M K DB K DB M K M](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M K M K M DB M K M K DB K DB M K M</span></span>
+In pattern [RKRBKBKRKRBRKRKR](/stripes/rkrbkbkrkrbrkrkr/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

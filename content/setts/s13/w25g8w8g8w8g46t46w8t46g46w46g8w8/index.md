@@ -2,10 +2,9 @@
 title: "Poulter SG 096 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [WGWGBWBGWGWGW](/stripes/wgwgbwbgwgwgw/) · **Stripes:** [W G W G T W T G W G W G W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G W G T W T G W G W G W</span></span>
+In pattern [WGWGBWBGWGWGW](/stripes/wgwgbwbgwgwgw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7719/
 

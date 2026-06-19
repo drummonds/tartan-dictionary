@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bwrrbwr/
 ---
-BWRRBWR
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/m6lb3n6o10m38lb2n4/tartan.png)
 
 
 
 ## Colour Sequence
-BWRRBWR
+
+{{< pat "BWRRBWR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### M LB N O M LB N <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">M LB N O M LB N</span></span>
 
 | Tartans |
 |---------------|
 | [Washington State University Cougar](/setts/s7/m6lb3n6o10m38lb2n4/)|
 |![Washington State University Cougar example sett](/setts/s7/m6lb3n6o10m38lb2n4/sett.png)|
-

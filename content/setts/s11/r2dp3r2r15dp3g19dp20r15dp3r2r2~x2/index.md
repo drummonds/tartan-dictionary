@@ -2,19 +2,11 @@
 title: "Drumlithie Rock and Wheel Tartan Tartan Number: 1414. Earliest known date: pre 2003 tba See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RRBRBGBRRBR](/stripes/rrbrbgbrrbr/) · **Stripes:** [R R DP R DP G DP R R DP R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R DP R DP G DP R R DP R</span></span>
+In pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1414
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Drumlithie](/setts/s11/r2dp3r2r15dp2g20dp20r15dp3r2r2~x2/)
-
 
 ## Thread count
 R/4 P6 DO4 R30 P6 G38 P40 R30 P6 DO4 R/4

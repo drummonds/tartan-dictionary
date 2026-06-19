@@ -2,10 +2,9 @@
 title: "Harmony, 12"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGB](/stripes/gbgbgb/) · **Stripes:** [G DB G DB G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB G DB</span></span>
+In pattern [BGBGBG](/stripes/bgbgbg/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Highland Grey](/setts/s6/db4g4db1g4db4g1~x4/)
-
 
 ## Thread count
 G/12 B4 G58 B58 G4 B/12

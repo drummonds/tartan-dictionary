@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bgkrbr/
 ---
-BGKRBR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/r10db24r4k30g36db5/tartan.png)
 
 
 
 ## Colour Sequence
-BGKRBR
+
+{{< pat "BGKRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DB R K G DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R K G DB</span></span>
 
 | Tartans |
 |---------------|
 | [MacWilliam](/setts/s6/r10db24r4k30g36db5/)|
 |![MacWilliam example sett](/setts/s6/r10db24r4k30g36db5/sett.png)|
-

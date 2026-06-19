@@ -2,10 +2,9 @@
 title: "Fraser (1745)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRW](/stripes/rbrgrw/) · **Stripes:** [R DB R G R W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB R G R W</span></span>
+In pattern [RBRGRW](/stripes/rbrgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1247
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1247](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1247)
 - Scottish Tartans Authority (ITI): 1424
 - Scottish Tartans World Register: 1424
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Grant of Lurg](/setts/s6/r2db10r2g10r25w2~x2/)
-
 
 ## Thread count
 R/4 DB24 R4 G24 R48 W/2

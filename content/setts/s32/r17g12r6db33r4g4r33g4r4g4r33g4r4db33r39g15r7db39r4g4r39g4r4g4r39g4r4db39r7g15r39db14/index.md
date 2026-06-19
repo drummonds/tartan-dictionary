@@ -2,10 +2,9 @@
 title: "Na Fir Dileas (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRGRGRGRGRBRGRBRGRGRGRGRBRGRB](/stripes/rgrbrgrgrgrgrbrgrbrgrgrgrgrbrgrb/) · **Stripes:** [R G R DB R G R G R G R G R DB R G R DB R G R G R G R G R DB R G R DB](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R DB R G R G R G R G R DB R G R DB R G R G R G R G R DB R G R DB</span></span>
+In pattern [BRGRBRGRGRGRGRBRGRBRGRGRGRGRBRGR](/stripes/brgrbrgrgrgrgrbrgrbrgrgrgrgrbrgr/).
 
-
-This was sourced from tartans-authority.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10435/
 

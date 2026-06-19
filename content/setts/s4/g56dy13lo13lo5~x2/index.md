@@ -2,10 +2,9 @@
 title: "Colonial Marine (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YYGG](/stripes/yygg/) · **Stripes:** [LO LO DY G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO LO DY G</span></span>
+In pattern [GGYY](/stripes/ggyy/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10487/
 

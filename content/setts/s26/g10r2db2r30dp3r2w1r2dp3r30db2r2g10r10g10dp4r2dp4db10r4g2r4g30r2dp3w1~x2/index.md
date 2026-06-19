@@ -2,10 +2,9 @@
 title: "MacDougal"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/grbrbrwrbrbrgrgbrbbrgrgrbw/) · **Stripes:** [G R DB R DP R W R DP R DB R G R G DP R DP DB R G R G R DP W](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R DB R DP R W R DP R DB R G R G DP R DP DB R G R G R DP W</span></span>
+In pattern [GRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/grbrbrwrbrbrgrgbrbbrgrgrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2390
 

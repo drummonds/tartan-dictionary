@@ -2,10 +2,9 @@
 title: "Martinez, Clément (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKYKBB](/stripes/bkykbb/) · **Stripes:** [DT K LY K DP N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="seq">DT K LY K DP N</span></span>
+In pattern [BBKYKB](/stripes/bbkykb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11580
 

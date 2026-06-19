@@ -2,10 +2,9 @@
 title: "Malcolm (symmetrical)"
 date: 2023-03-18
 ---
-**Bands:** [BRBKGKBKYKGKBGB](/stripes/brbkgkbkykgkbgb/) · **Stripes:** [DB R DB K DG K T K LY K DG K DB DG DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB K DG K T K LY K DG K DB DG DB</span></span>
+In pattern [BGBKGKYKBKGKBRB](/stripes/bgbkgkykbkgkbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2794
 

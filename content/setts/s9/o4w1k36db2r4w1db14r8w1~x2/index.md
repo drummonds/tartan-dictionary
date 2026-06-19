@@ -2,10 +2,9 @@
 title: "Midnight Balmoral (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWKBRWBRW](/stripes/rwkbrwbrw/) · **Stripes:** [O W K DB R W DB R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O W K DB R W DB R W</span></span>
+In pattern [RWKBRWBRW](/stripes/rwkbrwbrw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10472/
 

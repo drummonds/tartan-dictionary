@@ -2,10 +2,9 @@
 title: "Dewar (WCWM)"
 date: 2023-03-18
 ---
-**Bands:** [YGGBGB](/stripes/yggbgb/) · **Stripes:** [LR Y DY DT DY DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="seq">LR Y DY DT DY DT</span></span>
+In pattern [BGBGGY](/stripes/bgbggy/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925
 

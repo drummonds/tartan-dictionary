@@ -2,19 +2,11 @@
 title: "Penman Family Tartan Tartan Number: 167. Earliest known date: pre 1992 The late William Penman supplied members of the Penman family with this tartan for many years. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBGYBYGBRKRKGB](/stripes/rbgybygbrkrkgb/) · **Stripes:** [O DB G LY DB LY G DB O K R K G DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">O DB G LY DB LY G DB O K R K G DB</span></span>
+In pattern [BGKRKRBGYBYGBR](/stripes/bgkrkrbgybygbr/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=167
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Penman Clan Tartan Tartan Number: 166. Earliest known date: 1984 From design by the late William Penman. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/o11db6g6ly1db2ly1g6db6o36k1r3k1g5db5~x2/)
-
 
 ## Thread count
 N/22 DB12 G12 Y2 DB4 Y2 G12 DB12 N22 K2 R6 K2 G10 DB/10

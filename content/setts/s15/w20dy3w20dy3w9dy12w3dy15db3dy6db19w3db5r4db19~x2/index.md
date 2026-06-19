@@ -2,10 +2,9 @@
 title: "Black and White Colourway"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBGBGWGWGWGW](/stripes/brbwbgbgwgwgwgw/) · **Stripes:** [DB R DB W DB DY DB DY W DY W DY W DY W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB W DB DY DB DY W DY W DY W DY W</span></span>
+In pattern [BRBWBGBGWGWGWGW](/stripes/brbwbgbgwgwgwgw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=272
 

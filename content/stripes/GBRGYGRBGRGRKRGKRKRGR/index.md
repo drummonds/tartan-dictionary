@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gbrgygrbgrgrkrgkrkrgr/
 ---
-GBRGYGRBGRGRKRGKRKRGR
-
-It is a 21 band tartan.
+It is a 21 stripe tartan.
 
 
 
 ## Colour Sequence
-GBRGYGRBGRGRKRGKRKRGR
+
+{{< pat "GBRGYGRBGRGRKRGKRKRGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG R K R K Y R K R DG R Y DP R DG LY DG R DP Y <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R DG R K R K Y R K R DG R Y DP R DG LY DG R DP Y</span></span>
 
 | Tartans |
 |---------------|
 | [Gordonstoun #3](/setts/s21/r4dg4r1k7r1k1y1r1k7r1dg4r4y1dp4r1dg7ly1dg7r1dp4y1~x4/)|
 |![Gordonstoun #3 example sett](/setts/s21/r4dg4r1k7r1k1y1r1k7r1dg4r4y1dp4r1dg7ly1dg7r1dp4y1~x4/sett.png)|
-

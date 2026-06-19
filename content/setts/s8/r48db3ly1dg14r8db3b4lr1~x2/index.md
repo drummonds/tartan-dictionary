@@ -2,10 +2,9 @@
 title: "Prince Charles Cloak"
 date: 2023-03-18
 ---
-**Bands:** [RBYGRBBY](/stripes/rbygrbby/) · **Stripes:** [R DB LY DG R DB B LR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DB LY DG R DB B LR</span></span>
+In pattern [RBYGRBBY](/stripes/rbygrbby/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3b4lr1/)
-
 
 ## Thread count
 DR/96 DB6 LG2 DG28 DR16 DB6 B8 N/2

@@ -2,10 +2,9 @@
 title: "MacFarlane Dress Clan Tartan Tartan Number: 659. Earliest known date: 1930-40 MacKinlay was a collector of tartans from the period between the wars. He drew out the patterns on strips of paper defining the warp with colouring pencils. Originally listed as MacFadzean MacPhedran. Threadcount corrected in 2005. The B2 in the red was restored. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWRGWRBRWGBKRWB](/stripes/rwrgwrbrwgbkrwb/) · **Stripes:** [R W R G W R DB R W G DB K R W DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R G W R DB R W G DB K R W DB</span></span>
+In pattern [BWRKBGWRBRWGRWR](/stripes/bwrkbgwrbrwgrwr/).
 
-
-This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=659
 

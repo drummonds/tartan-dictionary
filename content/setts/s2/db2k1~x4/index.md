@@ -2,10 +2,9 @@
 title: "Tartan Army"
 date: 2023-03-18
 ---
-**Bands:** [KB](/stripes/kb/) · **Stripes:** [K DB](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB</span></span>
+In pattern [BK](/stripes/bk/).
 
-
-This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,14 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buffalo Plaid](/setts/s2/k1db1~x100/)
-- [Staines](/setts/s2/db12k1~x10/)
-
 
 ## Thread count
 B/8 DB/4

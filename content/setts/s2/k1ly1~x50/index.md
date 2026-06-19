@@ -2,19 +2,11 @@
 title: "Justus Check (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KY](/stripes/ky/) · **Stripes:** [K LY](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LY</span></span>
+In pattern [KY](/stripes/ky/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2733/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Justus Check (Personal)](/setts/s2/k1ly1~x40/)
-
 
 ## Thread count
 K/50 Y/50

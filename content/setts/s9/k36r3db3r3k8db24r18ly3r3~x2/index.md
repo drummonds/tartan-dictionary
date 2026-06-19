@@ -2,10 +2,9 @@
 title: "Girl Guiding Scotland (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRBRKBRYR](/stripes/krbrkbryr/) · **Stripes:** [K R DB R K DB R LY R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R DB R K DB R LY R</span></span>
+In pattern [KRBRKBRYR](/stripes/krbrkbryr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5822/
 

@@ -2,10 +2,9 @@
 title: "European"
 date: 2023-03-18
 ---
-**Bands:** [RBKBYBYB](/stripes/rbkbybyb/) · **Stripes:** [R N K N LY N LY N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="seq">R N K N LY N LY N</span></span>
+In pattern [BYBYBKBR](/stripes/bybybkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1138
 

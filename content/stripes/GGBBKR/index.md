@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/ggbbkr/
 ---
-GGBBKR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/r4k15t4dt15dg24y4~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GGBBKR
+
+{{< pat "GGBBKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K T DT DG Y <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R K T DT DG Y</span></span>
 
 | Tartans |
 |---------------|
 | [Haughfoot (Commemorative)](/setts/s6/r4k15t4dt15dg24y4~x2/)|
 |![Haughfoot (Commemorative) example sett](/setts/s6/r4k15t4dt15dg24y4~x2/sett.png)|
-

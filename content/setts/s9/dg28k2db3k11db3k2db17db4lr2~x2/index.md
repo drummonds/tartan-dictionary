@@ -2,10 +2,9 @@
 title: "West of Wells (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBBKBKBKG](/stripes/ybbkbkbkg/) · **Stripes:** [LR DB DB K DB K DB K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LR DB DB K DB K DB K DG</span></span>
+In pattern [GKBKBKBBY](/stripes/gkbkbkbby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10012/
 

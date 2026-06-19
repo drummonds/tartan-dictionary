@@ -2,10 +2,9 @@
 title: "Bell of the Borders."
 date: 2023-03-18
 ---
-**Bands:** [RGKBKBYBY](/stripes/rgkbkbyby/) · **Stripes:** [R G K B K B LY B LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G K B K B LY B LY</span></span>
+In pattern [RGKBKBYBY](/stripes/rgkbkbyby/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

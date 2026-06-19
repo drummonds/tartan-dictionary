@@ -2,10 +2,9 @@
 title: "Rennie (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBKGKW](/stripes/gbgbgbkgkw/) · **Stripes:** [Y DP Y DP Y DP K Y K W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y DP Y DP Y DP K Y K W</span></span>
+In pattern [GBGBGBKGKW](/stripes/gbgbgbkgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3501
 

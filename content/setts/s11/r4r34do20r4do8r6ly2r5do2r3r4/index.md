@@ -2,10 +2,9 @@
 title: "Morgan (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [RRBRYRBRBRR](/stripes/rrbryrbrbrr/) · **Stripes:** [R R DO R LY R DO R DO R R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R DO R LY R DO R DO R R</span></span>
+In pattern [RRBRBRYRBRR](/stripes/rrbrbryrbrr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5760/
 

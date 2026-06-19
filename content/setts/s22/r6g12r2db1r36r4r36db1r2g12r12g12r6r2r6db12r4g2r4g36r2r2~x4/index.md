@@ -2,10 +2,9 @@
 title: "MacDougall"
 date: 2023-03-18
 ---
-**Bands:** [RRGRGRBRRRGRGRBRRRBRGR](/stripes/rrgrgrbrrrgrgrbrrrbrgr/) · **Stripes:** [R R G R G R DB R R R G R G R DB R R R DB R G R](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R G R G R DB R R R G R G R DB R R R DB R G R</span></span>
+In pattern [RGRBRRRBRGRGRRRBRGRGRR](/stripes/rgrbrrrbrgrgrrrbrgrgrr/).
 
-
-This was sourced from logan-1831.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from logan-1831.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link /posts/logans-scottish-gael/
 

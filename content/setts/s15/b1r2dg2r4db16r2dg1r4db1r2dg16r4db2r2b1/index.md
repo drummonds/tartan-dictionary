@@ -2,10 +2,9 @@
 title: "MacIntyre"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRGRBRGRBRB](/stripes/brgrbrgrbrgrbrb/) · **Stripes:** [B R DG R DB R DG R DB R DG R DB R B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B R DG R DB R DG R DB R DG R DB R B</span></span>
+In pattern [BRBRGRBRGRBRGRB](/stripes/brbrgrbrgrbrgrb/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacIntyre](/setts/s15/b1r2dg2r4db16r2dg1r4db1r2dg16r4db2r2b1~x2/)
-
 
 ## Thread count
 B/1 DR2 DG2 DR4 DB16 DR2 DG1 DR4 DB1 DR2 DG16 DR4 DB2 DR2 B/1

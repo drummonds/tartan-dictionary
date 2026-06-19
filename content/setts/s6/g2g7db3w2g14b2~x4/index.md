@@ -2,10 +2,9 @@
 title: "Manx, Ellan Vannin"
 date: 2023-03-18
 ---
-**Bands:** [GGBWGB](/stripes/ggbwgb/) · **Stripes:** [G G DB W G B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G G DB W G B</span></span>
+In pattern [BGWBGG](/stripes/bgwbgg/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

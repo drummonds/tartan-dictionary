@@ -2,10 +2,9 @@
 title: "Scottish Knights Templar, of M.T.S. St Andrew"
 date: 2023-03-18
 ---
-**Bands:** [BRKWKWKBRW](/stripes/brkwkwkbrw/) · **Stripes:** [DB R K W K W K DB R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R K W K W K DB R W</span></span>
+In pattern [BRKWKWKBRW](/stripes/brkwkwkbrw/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Scottish Knights Templar, of M.T.S.](/setts/s10/w4r2db20k6w5k4w3k2r2db2~x2/)
-
 
 ## Thread count
 LN/8 R2 B40 K12 LN10 K8 LN6 K4 R2 B/4

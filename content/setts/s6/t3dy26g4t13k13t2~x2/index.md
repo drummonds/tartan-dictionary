@@ -2,19 +2,11 @@
 title: "MacTavish Hunting Clan Tartan Tartan Number: 232. Earliest known date: pre 2003 See Lord Thomson See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKBGGB](/stripes/bkbggb/) · **Stripes:** [T K T G DY T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T G DY T</span></span>
+In pattern [BGGBKB](/stripes/bggbkb/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=232
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacTavish Hunting](/setts/s6/t4dy28g6t12k12t3~x2/)
-
 
 ## Thread count
 B/6 T52 G8 B26 K26 B/4

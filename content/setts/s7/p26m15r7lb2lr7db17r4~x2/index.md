@@ -2,10 +2,9 @@
 title: "Redpath, The Ronald"
 date: 2023-03-18
 ---
-**Bands:** [RBYWRRB](/stripes/rbywrrb/) · **Stripes:** [R DB LR LB R M P](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R DB LR LB R M P</span></span>
+In pattern [BRRWYBR](/stripes/brrwybr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10351
 

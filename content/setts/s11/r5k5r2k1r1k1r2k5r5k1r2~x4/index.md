@@ -2,10 +2,9 @@
 title: "Border Reiver, The"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRKRKR](/stripes/rkrkrkrkrkr/) · **Stripes:** [R K R K R K R K R K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K R K R K R</span></span>
+In pattern [RKRKRKRKRKR](/stripes/rkrkrkrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=312
 
@@ -894,13 +893,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Impulse (Fashion)](/setts/s11/r2k10r9k13r7k3r2k3r2k3r2~x2/)
-
 
 ## Thread count
 R/20 K20 R8 K4 R4 K4 R8 K20 R20 K4 R/8

@@ -2,10 +2,9 @@
 title: "Chesters, Eric (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGYGWBK](/stripes/kgygwbk/) · **Stripes:** [K G LY DG LB DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G LY DG LB DB K</span></span>
+In pattern [KBWGYGK](/stripes/kbwgygk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11018
 

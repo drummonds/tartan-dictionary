@@ -2,10 +2,9 @@
 title: "Queen of Scots"
 date: 2023-03-18
 ---
-**Bands:** [RBRBGKGKG](/stripes/rbrbgkgkg/) · **Stripes:** [R DP R DP G K G K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DP R DP G K G K G</span></span>
+In pattern [GKGKGBRBR](/stripes/gkgkgbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3426
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3426](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3426)
 - Scottish Tartans Authority (ITI): 2627
 - Scottish Tartans World Register: 2627
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Queen of Scots (Commemorative))](/setts/s9/g22k3g1k3g2dp8r1dp8r16~x2/)
-
 
 ## Thread count
 DR/68 P8 DR2 P8 G4 K6 G2 K6 G/44

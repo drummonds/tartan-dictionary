@@ -2,10 +2,9 @@
 title: "Universal Ancient"
 date: 2023-03-18
 ---
-**Bands:** [GGGBGBGB](/stripes/gggbgbgb/) · **Stripes:** [DY G DY T DG T DG T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">DY G DY T DG T DG T</span></span>
+In pattern [BGBGBGGG](/stripes/bgbgbggg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4401
 

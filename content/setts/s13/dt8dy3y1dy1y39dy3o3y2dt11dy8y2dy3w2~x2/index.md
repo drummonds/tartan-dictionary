@@ -2,10 +2,9 @@
 title: "Afghanistan Memorial"
 date: 2023-03-18
 ---
-**Bands:** [BGGGGGRGBGGGW](/stripes/bgggggrgbgggw/) · **Stripes:** [DT DY Y DY Y DY O Y DT DY Y DY W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DT DY Y DY Y DY O Y DT DY Y DY W</span></span>
+In pattern [BGGGGGRGBGGGW](/stripes/bgggggrgbgggw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10425
 

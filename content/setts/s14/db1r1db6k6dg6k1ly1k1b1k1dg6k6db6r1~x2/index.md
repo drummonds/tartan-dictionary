@@ -2,10 +2,9 @@
 title: "Malcolm (a)"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKBKYKGKBRB](/stripes/rbkgkbkykgkbrb/) · **Stripes:** [R DB K DG K B K LY K DG K DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K DG K B K LY K DG K DB R DB</span></span>
+In pattern [BRBKGKYKBKGKBR](/stripes/brbkgkykbkgkbr/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

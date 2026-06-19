@@ -2,10 +2,9 @@
 title: "McCall (Caithness)"
 date: 2023-03-18
 ---
-**Bands:** [RKRBRWRBRWRBGBG](/stripes/rkrbrwrbrwrbgbg/) · **Stripes:** [R K R DP R LB R DP R LB R DP G DP G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K R DP R LB R DP R LB R DP G DP G</span></span>
+In pattern [GBGBRWRBRWRBRKR](/stripes/gbgbrwrbrwrbrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10360
 

@@ -2,10 +2,9 @@
 title: "Fort Lawrence (District)"
 date: 2023-03-18
 ---
-**Bands:** [WW](/stripes/ww/) · **Stripes:** [W W](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W W</span></span>
+In pattern [WW](/stripes/ww/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8822/
 

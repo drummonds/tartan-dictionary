@@ -2,10 +2,9 @@
 title: "Buchanan Variation (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBBBGBGBBBGBGBBBRG](/stripes/rbbbgbgbbbgbgbbbrg/) · **Stripes:** [R DO DO DO DG DO DG DO DO DO DG DO DG DO DO DO R DG](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DO DO DO DG DO DG DO DO DO DG DO DG DO DO DO R DG</span></span>
+In pattern [GRBBBGBGBBBGBGBBBR](/stripes/grbbbgbgbbbgbgbbbr/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3758/
 

@@ -2,10 +2,9 @@
 title: "Hawick Dress (District)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKGKKKBKBKBKBKBKBKGKGKBKBKB](/stripes/kbkbkbkgkkkbkbkbkbkbkbkgkgkbkbkb/) · **Stripes:** [K DB K DB K DB K G K K K DB K DB K DB K DB K DB K DB K G K G K DB K DB K DB](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB K G K K K DB K DB K DB K DB K DB K DB K G K G K DB K DB K DB</span></span>
+In pattern [BKBKBKGKGKBKBKBKBKBKBKKKGKBKBKBK](/stripes/bkbkbkgkgkbkbkbkbkbkbkkkgkbkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2409/
 

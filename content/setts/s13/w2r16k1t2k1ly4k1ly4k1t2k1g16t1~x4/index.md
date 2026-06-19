@@ -2,10 +2,9 @@
 title: "Buchanan"
 date: 2023-03-18
 ---
-**Bands:** [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/) · **Stripes:** [T G K T K LY K LY K T K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T G K T K LY K LY K T K R W</span></span>
+In pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
 
-
-This was sourced from logan-1831.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,15 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Buchanan** name adjusted Logan's counts: [Buchanan](/setts/s18/g23k3b9k3r20w3r20k3b9k3y20k3y20k3b9k3g23b9~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/); [Buchanan #2](/setts/s13/b3g31k2b4k2y8k2y8k2b4k2r31w3~b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/); [Buchanan #3](/setts/s13/b2g12k1b2k1y3k1y3k1b2k1r12w2~b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/); [Buchanan #4](/setts/s13/b4g25k2b4k2y8k3y8k2b4k2r25w4~b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buchanan 1](/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/)
-- [Buchanan 8](/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/)
-- [Buchanan 9](/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/)
-
 
 ## Thread count
 LN/8 R64 K4 B8 K4 Y16 K4 Y16 K4 B8 K4 G64 B/4

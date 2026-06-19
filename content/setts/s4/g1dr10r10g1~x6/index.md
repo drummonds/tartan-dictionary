@@ -2,10 +2,9 @@
 title: "Stirling of Keir (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRBG](/stripes/grbg/) · **Stripes:** [G R DR G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R DR G</span></span>
+In pattern [GBRG](/stripes/gbrg/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7817/
 

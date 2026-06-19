@@ -2,10 +2,9 @@
 title: "New Zealand (2000)"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKG](/stripes/kwkwkg/) · **Stripes:** [K LB K LB K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LB K LB K G</span></span>
+In pattern [GKWKWK](/stripes/gkwkwk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3124
 

@@ -2,10 +2,9 @@
 title: "Crowne Plaza (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRBYBRBYBRB](/stripes/grgrbybrbybrb/) · **Stripes:** [DG R DG R N LO N R N LO N R N](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">DG R DG R N LO N R N LO N R N</span></span>
+In pattern [BRBYBRBYBRGRG](/stripes/brbybrbybrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8103/
 

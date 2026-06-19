@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/grgwgwgygygy/
 ---
-GRGWGWGYGYGY
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-GRGWGWGYGYGY
+
+{{< pat "GRGWGWGYGYGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO G LY G LY G LB G LB G R G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G LY G LY G LB G LB G R G</span></span>
 
 | Tartans |
 |---------------|
 | [O'Brien](/setts/s12/lo13g6ly2g3ly2g6lb3g2lb3g12r3g6~x2/)|
 |![O'Brien example sett](/setts/s12/lo13g6ly2g3ly2g6lb3g2lb3g12r3g6~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Brunton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKGYGYG](/stripes/krkgygyg/) · **Stripes:** [K R K G LY G LY G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R K G LY G LY G</span></span>
+In pattern [GYGYGKRK](/stripes/gygygkrk/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6512/
 

@@ -2,10 +2,9 @@
 title: "Hannay Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKYKYYY](/stripes/kykykykyyy/) · **Stripes:** [K LR K LR K LR K LR LG LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LR K LR K LR K LR LG LY</span></span>
+In pattern [KYKYKYKYYY](/stripes/kykykykyyy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6129/
 

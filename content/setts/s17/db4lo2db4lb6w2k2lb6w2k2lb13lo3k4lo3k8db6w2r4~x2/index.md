@@ -2,10 +2,9 @@
 title: "Clauwaert (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWBKYKYWKWWKWWBYB](/stripes/rwbkykywkwwkwwbyb/) · **Stripes:** [R W DB K LO K LO LB K W LB K W LB DB LO DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">R W DB K LO K LO LB K W LB K W LB DB LO DB</span></span>
+In pattern [BYBWWKWWKWYKYKBWR](/stripes/bybwwkwwkwykykbwr/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4030/
 

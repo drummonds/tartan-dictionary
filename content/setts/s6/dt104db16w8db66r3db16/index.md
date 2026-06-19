@@ -2,10 +2,9 @@
 title: "US Navy Edzell"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBB](/stripes/brbwbb/) · **Stripes:** [DB R DB W DB DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">DB R DB W DB DT</span></span>
+In pattern [BBWBRB](/stripes/bbwbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4188
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4188](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4188)
 - Scottish Tartans Authority (ITI): 80
 - Scottish Tartans World Register: 80
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [U.S. Navy/Edzell (Military)](/setts/s6/dt45db7w3db27r1db7~x2/)
-
 
 ## Thread count
 DB/104 DBa16 LN8 DBa66 R3 DBa/16

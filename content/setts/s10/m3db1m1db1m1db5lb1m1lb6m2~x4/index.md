@@ -2,10 +2,9 @@
 title: "Kalamazoo Caledonians"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBWRWR](/stripes/rbrbrbwrwr/) · **Stripes:** [M DB M DB M DB LB M LB M](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M DB M DB M DB LB M LB M</span></span>
+In pattern [RBRBRBWRWR](/stripes/rbrbrbwrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1927
 

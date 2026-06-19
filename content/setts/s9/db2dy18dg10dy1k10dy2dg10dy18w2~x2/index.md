@@ -2,19 +2,11 @@
 title: "Duchess of York (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGGGKGGGW](/stripes/bgggkgggw/) · **Stripes:** [DB DY DG DY K DY DG DY W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DY DG DY K DY DG DY W</span></span>
+In pattern [BGGGKGGGW](/stripes/bgggkgggw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/607/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Duchess of York](/setts/s9/db1dy9dg5dy1k5dy1dg5dy9w1~x2/)
-
 
 ## Thread count
 DB/4 T36 DG20 T2 K20 T4 DG20 T36 W/4

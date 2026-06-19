@@ -2,10 +2,9 @@
 title: "Loughborough Sport"
 date: 2023-03-18
 ---
-**Bands:** [RBWBBWB](/stripes/rbwbbwb/) · **Stripes:** [R N W N DP W DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R N W N DP W DP</span></span>
+In pattern [BWBBWBR](/stripes/bwbbwbr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11089/
 

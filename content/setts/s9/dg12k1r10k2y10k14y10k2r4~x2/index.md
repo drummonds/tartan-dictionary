@@ -2,10 +2,9 @@
 title: "Borthwick D"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKRKG](/stripes/rkgkgkrkg/) · **Stripes:** [R K Y K Y K R K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K Y K Y K R K DG</span></span>
+In pattern [GKRKGKGKR](/stripes/gkrkgkgkr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Borthwick](/setts/s9/dg17k1r16k2y14k19y14k2r6/)
-
 
 ## Thread count
 G/24 K2 R20 K4 N20 K28 N20 K4 R/8

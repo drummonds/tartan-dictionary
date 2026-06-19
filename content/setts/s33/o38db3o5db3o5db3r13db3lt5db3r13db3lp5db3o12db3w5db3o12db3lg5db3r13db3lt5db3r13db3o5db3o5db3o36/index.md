@@ -2,10 +2,9 @@
 title: "Kumikyoku - Wind of Thistle"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBWBRBYBRBWBRBWBRBWBRBRBRBR](/stripes/rbrbrbrbwbrbybrbwbrbwbrbwbrbrbrbr/) · **Stripes:** [O DB O DB O DB R DB LT DB R DB LG DB O DB W DB O DB LP DB R DB LT DB R DB O DB O DB O](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DB O DB O DB R DB LT DB R DB LG DB O DB W DB O DB LP DB R DB LT DB R DB O DB O DB O</span></span>
+In pattern [RBRBRBRBWBRBWBRBWBRBYBRBWBRBRBRBR](/stripes/rbrbrbrbwbrbwbrbwbrbybrbwbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11284
 

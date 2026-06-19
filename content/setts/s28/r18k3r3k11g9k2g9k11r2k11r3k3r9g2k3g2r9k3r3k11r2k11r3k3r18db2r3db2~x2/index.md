@@ -2,10 +2,9 @@
 title: "MacInroy"
 date: 2023-03-18
 ---
-**Bands:** [RKRKGKGKRKRKRGKGRKRKRKRKRBRB](/stripes/rkrkgkgkrkrkrgkgrkrkrkrkrbrb/) · **Stripes:** [R K R K G K G K R K R K R G K G R K R K R K R K R DB R DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R K G K G K R K R K R G K G R K R K R K R K R DB R DB</span></span>
+In pattern [BRBRKRKRKRKRGKGRKRKRKGKGKRKR](/stripes/brbrkrkrkrkrgkgrkrkrkgkgkrkr/).
 
-
-This was sourced from weddslist.  It is a [28 band tartan](/bands/bands28/).
+This was sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

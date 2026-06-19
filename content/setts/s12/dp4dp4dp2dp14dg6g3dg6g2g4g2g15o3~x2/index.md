@@ -2,10 +2,9 @@
 title: "Kinloch Anderson Heather (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGGGGGGGBBBB](/stripes/rgggggggbbbb/) · **Stripes:** [O G G G G DG G DG DP DP DP DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">O G G G G DG G DG DP DP DP DP</span></span>
+In pattern [BBBBGGGGGGGR](/stripes/bbbbgggggggr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10836/
 

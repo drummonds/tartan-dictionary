@@ -2,10 +2,9 @@
 title: "Angus"
 date: 2023-03-18
 ---
-**Bands:** [KRKBRBRBR](/stripes/krkbrbrbr/) · **Stripes:** [K R K DB R DB R DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K DB R DB R DB R</span></span>
+In pattern [KRKBRBRBR](/stripes/krkbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=88
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [88](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=88)
 - Scottish Tartans Authority (ITI): 1179
 - Scottish Tartans World Register: 1179
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Angus](/setts/s9/k3r1k32db28r1db2r1db2r3~x2/)
-
 
 ## Thread count
 K/12 DR4 K56 DBa56 DR4 DBa4 DR4 DBa4 DR/8

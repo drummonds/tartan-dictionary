@@ -2,10 +2,9 @@
 title: "MacArthur"
 date: 2023-03-18
 ---
-**Bands:** [KGKGY](/stripes/kgkgy/) · **Stripes:** [K G K G LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K G K G LY</span></span>
+In pattern [KGKGY](/stripes/kgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2278
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2278](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2278)
 - Scottish Tartans Authority (ITI): 1100
 - Scottish Tartans World Register: 1100
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacArthur](/setts/s5/k32g6k12g30ly3/)
-
 
 ## Thread count
 K/36 G12 K12 G48 Y/8

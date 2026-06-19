@@ -2,10 +2,9 @@
 title: "New York Fire Department Pipe Band"
 date: 2023-03-18
 ---
-**Bands:** [KWGKBW](/stripes/kwgkbw/) · **Stripes:** [K W G K DB LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K W G K DB LB</span></span>
+In pattern [KWGKBW](/stripes/kwgkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3121
 

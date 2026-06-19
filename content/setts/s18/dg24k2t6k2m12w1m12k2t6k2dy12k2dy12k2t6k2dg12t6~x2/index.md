@@ -2,10 +2,9 @@
 title: "Buchanan Hunting (Mackinlay strip)"
 date: 2023-03-18
 ---
-**Bands:** [GKBKRWRKBKGKGKBKGB](/stripes/gkbkrwrkbkgkgkbkgb/) · **Stripes:** [DG K T K M W M K T K DY K DY K T K DG T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG K T K M W M K T K DY K DY K T K DG T</span></span>
+In pattern [BGKBKGKGKBKRWRKBKG](/stripes/bgkbkgkgkbkrwrkbkg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=427
 

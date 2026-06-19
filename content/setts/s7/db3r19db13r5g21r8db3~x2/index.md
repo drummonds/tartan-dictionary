@@ -2,10 +2,9 @@
 title: "MacBean of Tomatin (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRB](/stripes/brgrbrb/) · **Stripes:** [DB R G R DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R G R DB R DB</span></span>
+In pattern [BRBRGRB](/stripes/brbrgrb/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3342/
 
@@ -22,15 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5023](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5023)
 - Scottish Tartans Authority (ITI): 3342
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Logan](/setts/s7/db8r3db1r3g14r3db1~x4/)
-- [Logan, or Skene](/setts/s7/db9r3db1r3g9r3db1~x2/)
-- [MacFadyan (MacGregor Hastie)](/setts/s7/db3r25db17r5g22r9db3~x2/)
-
 
 ## Thread count
 DB/6 DR38 DB26 DR10 G42 DR16 DB/6

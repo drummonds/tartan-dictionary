@@ -2,10 +2,9 @@
 title: "Nowell/Noel 1951 (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KYKWKYKY](/stripes/kykwkyky/) · **Stripes:** [K LR K W K LR K LR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K LR K W K LR K LR</span></span>
+In pattern [KYKWKYKY](/stripes/kykwkyky/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8231/
 

@@ -2,10 +2,9 @@
 title: "Oxford University Dress"
 date: 2023-03-18
 ---
-**Bands:** [YBGWGBGRBYBRGBGWGB](/stripes/ybgwgbgrbybrgbgwgb/) · **Stripes:** [LY DB G W G DB G R DB LY DB R G DB G W G DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB G W G DB G R DB LY DB R G DB G W G DB</span></span>
+In pattern [BGWGBGRBYBRGBGWGBY](/stripes/bgwgbgrbybrgbgwgby/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3281
 

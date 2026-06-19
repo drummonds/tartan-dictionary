@@ -2,10 +2,9 @@
 title: "Morgan Mackenzie (Personal?)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGWRWGKBRB](/stripes/bkbkbkgwrwgkbrb/) · **Stripes:** [B K B K B K DG W R W DG K B R B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K B K DG W R W DG K B R B</span></span>
+In pattern [BKBKBKGWRWGKBRB](/stripes/bkbkbkgwrwgkbrb/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5996/
 

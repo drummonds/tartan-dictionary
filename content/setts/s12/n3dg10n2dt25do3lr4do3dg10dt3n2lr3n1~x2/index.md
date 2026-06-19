@@ -2,10 +2,9 @@
 title: "Bowhunter"
 date: 2023-03-18
 ---
-**Bands:** [BYBBGBYBBBGB](/stripes/bybbgbybbbgb/) · **Stripes:** [N LR N DT DG DO LR DO DT N DG N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="seq">N LR N DT DG DO LR DO DT N DG N</span></span>
+In pattern [BGBBBYBGBBYB](/stripes/bgbbbybgbbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10267
 

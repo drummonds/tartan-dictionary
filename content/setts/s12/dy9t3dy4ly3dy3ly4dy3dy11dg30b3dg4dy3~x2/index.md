@@ -2,10 +2,9 @@
 title: "Harmony 2"
 date: 2023-03-18
 ---
-**Bands:** [GGBGGGYGYGBG](/stripes/ggbgggygygbg/) · **Stripes:** [DY DG B DG DY DY LY DY LY DY T DY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY DG B DG DY DY LY DY LY DY T DY</span></span>
+In pattern [GBGYGYGGGBGG](/stripes/gbgygygggbgg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1608
 

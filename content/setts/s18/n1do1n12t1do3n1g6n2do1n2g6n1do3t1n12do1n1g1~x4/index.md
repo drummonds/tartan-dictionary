@@ -2,10 +2,9 @@
 title: "Wicklow, County"
 date: 2023-03-18
 ---
-**Bands:** [GBBBBBBGBBBGBBBBBB](/stripes/gbbbbbbgbbbgbbbbbb/) · **Stripes:** [G N DO N T DO N G N DO N G N DO T N DO N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="seq">G N DO N T DO N G N DO N G N DO T N DO N</span></span>
+In pattern [BBBBBBGBBBGBBBBBBG](/stripes/bbbbbbgbbbgbbbbbbg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4621
 

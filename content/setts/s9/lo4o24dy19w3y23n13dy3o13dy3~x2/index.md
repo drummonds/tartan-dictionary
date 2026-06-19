@@ -2,10 +2,9 @@
 title: "Teallach (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRGWGBGRG](/stripes/yrgwgbgrg/) · **Stripes:** [LO O DY W Y N DY O DY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO O DY W Y N DY O DY</span></span>
+In pattern [GRGBGWGRY](/stripes/grgbgwgry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4084
 

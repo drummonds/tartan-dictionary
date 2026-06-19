@@ -2,10 +2,9 @@
 title: "Logan, or Skene"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRB](/stripes/brgrbrb/) · **Stripes:** [DB R G R DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R G R DB R DB</span></span>
+In pattern [BRBRGRB](/stripes/brbrgrb/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,15 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Logan](/setts/s7/db8r3db1r3g14r3db1~x4/)
-- [MacBean of Tomatin (Clan)](/setts/s7/db3r19db13r5g21r8db3~x2/)
-- [MacFadyan (MacGregor Hastie)](/setts/s7/db3r25db17r5g22r9db3~x2/)
-
 
 ## Thread count
 B/18 R6 B2 R6 G18 R6 B/2

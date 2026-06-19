@@ -2,10 +2,9 @@
 title: "Baillie of Polkemett"
 date: 2023-03-18
 ---
-**Bands:** [GRKBW](/stripes/grkbw/) · **Stripes:** [G R K DB W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R K DB W</span></span>
+In pattern [GRKBW](/stripes/grkbw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

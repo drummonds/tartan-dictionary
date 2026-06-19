@@ -2,10 +2,9 @@
 title: "Sarna (District)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRGRGGGRGG](/stripes/grgrgrgrgrgggrgg/) · **Stripes:** [DY R DY R DY R DY R DY R DY G DY R DY G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DY R DY R DY R DY R DY R DY G DY R DY G</span></span>
+In pattern [GGRGGGRGRGRGRGRG](/stripes/ggrgggrgrgrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2039/
 

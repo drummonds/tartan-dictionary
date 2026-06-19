@@ -2,10 +2,9 @@
 title: "Craig (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKBKBKBRKGKBYBKR](/stripes/rkgkbkbkbrkgkbybkr/) · **Stripes:** [R K G K DB K DB K DB R K G K DB LO DB K R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G K DB K DB K DB R K G K DB LO DB K R</span></span>
+In pattern [RKBYBKGKRBKBKBKGKR](/stripes/rkbybkgkrbkbkbkgkr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=787
 

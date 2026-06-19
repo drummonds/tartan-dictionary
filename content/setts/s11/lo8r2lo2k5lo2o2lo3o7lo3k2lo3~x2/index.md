@@ -2,10 +2,9 @@
 title: "Dunbarton Warp/Weft"
 date: 2023-03-18
 ---
-**Bands:** [YKYRYRYKYRY](/stripes/ykyryrykyry/) · **Stripes:** [LO K LO O LO O LO K LO R LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO K LO O LO O LO K LO R LO</span></span>
+In pattern [YKYRYRYKYRY](/stripes/ykyryrykyry/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5227
 

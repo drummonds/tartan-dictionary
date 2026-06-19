@@ -2,10 +2,9 @@
 title: "MacDonell of Glengarry #3"
 date: 2023-03-18
 ---
-**Bands:** [BRBRKGRGRGW](/stripes/brbrkgrgrgw/) · **Stripes:** [DB R DB R K G R G R G W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB R K G R G R G W</span></span>
+In pattern [BRBRKGRGRGW](/stripes/brbrkgrgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2382
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2382](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2382)
 - Scottish Tartans Authority (ITI): 473
 - Scottish Tartans World Register: 473
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonell of Glengarry](/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/)
-- [MacDonell of Glengarry](/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/)
-
 
 ## Thread count
 DB/16 R5 DB30 R2 K33 G30 R5 G2 R2 G7 LN/4

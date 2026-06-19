@@ -2,10 +2,9 @@
 title: "Sawicki, Peter (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKBGYGBKGK](/stripes/kgkgkbgygbkgk/) · **Stripes:** [K G K G K DB G LO G DB K G K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K G K DB G LO G DB K G K</span></span>
+In pattern [KGKBGYGBKGKGK](/stripes/kgkbgygbkgkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10223
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10223
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10223](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10223)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sawicki, Peter (Personal)](/setts/s13/k10g2k2db2g14lo1g14db2k10g4k2g2k2~x2/)
-
 
 ## Thread count
 K/40 G8 K8 DB8 G56 DY2 G56 DB8 K40 G16 K8 G8 K/8

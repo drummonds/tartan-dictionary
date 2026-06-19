@@ -2,10 +2,9 @@
 title: "MacDuff"
 date: 2023-03-18
 ---
-**Bands:** [RBKGRKRKRGKRGKBR](/stripes/rbkgrkrkrgkrgkbr/) · **Stripes:** [R T K G R K R K R G K R G K T R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T K G R K R K R G K R G K T R</span></span>
+In pattern [RBKGRKGRKRKRGKBR](/stripes/rbkgrkgrkrkrgkbr/).
 
-
-This was sourced from logan-1831.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from logan-1831.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link /posts/logans-scottish-gael/
 

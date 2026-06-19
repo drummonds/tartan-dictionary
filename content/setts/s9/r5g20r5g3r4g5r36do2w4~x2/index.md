@@ -2,10 +2,9 @@
 title: "Baluch Regiment (Military)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBW](/stripes/rgrgrgrbw/) · **Stripes:** [R G R G R G R DO W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R G R G R DO W</span></span>
+In pattern [RGRGRGRBW](/stripes/rgrgrgrbw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3969/
 

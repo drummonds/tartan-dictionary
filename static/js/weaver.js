@@ -169,7 +169,9 @@
    * fragment when the URL's leaf is a hashed file name. */
   function setAddress(info, ttd) {
     if (ttd) {
-      history.replaceState(null, '', TTD_PATH + '#slug=' + info.slug);
+      // Keep any pinned baseline in the fragment so it survives shade jogs, scale steps and shares.
+      var base = baseSlugFromHash();
+      history.replaceState(null, '', TTD_PATH + '#slug=' + info.slug + (base ? '&base=' + base : ''));
       return;
     }
     var hashed = info.path.indexOf(info.slug) === -1;
@@ -189,6 +191,8 @@
         info.stripes + '/">' + info.stripes + ' stripes</a></p>');
       h.push('<h2>Thread count</h2>');
       h.push('<p>' + esc(info.threadcount) + '</p>');
+      h.push(scaleControls(info));
+      h.push(baselineSection(info));
       h.push('<p><img id="weaver-sett" alt="Sett"></p>');
       h.push('<h2>Palette</h2>');
       h.push('<div id="weaver-palette">' + paletteTable(info.palette, shadeRowsFor(info)) + '</div>');
@@ -231,7 +235,7 @@
     var woven = window.weaver.renderWoven(info.slug, 480);
     if (!woven.error) document.getElementById('weaver-tartan').src = pngURL(woven);
 
-    if (ttd) wireShadeButtons(shell, info);
+    if (ttd) { wireShadeButtons(shell, info); wireScale(shell, info); wireBaseline(shell, info); }
     var slot = document.getElementById('weaver-print-slot');
     if (slot) slot.replaceWith(printControls(info.slug, info.name || 'Tartan variant'));
 
@@ -295,6 +299,168 @@
       supplierId = sel.value;
       box.innerHTML = paletteTable(info.palette, shadeRowsFor(info));
     });
+  }
+
+  /* The sett's repeat/scale — the ~x<n> factor the canonical slug carries: one number scaling the
+   * whole cloth, so a fine 2/2 and a broad 50/50 of one structure differ only here. −/+ step the
+   * multiple of the unit sett; ×1 is the bare unit proportion (no scale tail). */
+  function scaleControls(info) {
+    var n = info.scale || 1;
+    var box = 'width:1.8em;height:1.8em;padding:0;line-height:1.8em;vertical-align:middle;cursor:pointer';
+    return '<p id="weaver-scale">Repeat / scale: ' +
+      '<button data-scale="-1"' + (n <= 1 ? ' disabled' : '') +
+      ' title="decrease scale (×' + (n - 1) + ')" style="' + box + '">−</button> ' +
+      '<strong>×' + n + '</strong> ' +
+      '<button data-scale="1" title="increase scale (×' + (n + 1) + ')" style="' + box + '">+</button> ' +
+      '<span style="color:#888;font-size:smaller">whole-sett thread scale</span></p>';
+  }
+
+  /* One scale step: rebuild the slug at the new ~x<n> (dropping the tail at x1) and re-render in
+   * place, exactly as a shade jog does — the structure (unit proportion) is untouched. */
+  function wireScale(shell, info) {
+    var box = document.getElementById('weaver-scale');
+    if (!box) return;
+    box.addEventListener('click', function (ev) {
+      var btn = ev.target.closest('button[data-scale]');
+      if (!btn) return;
+      ev.preventDefault();
+      var cur = info.scale || 1;
+      var n = Math.max(1, cur + parseInt(btn.dataset.scale, 10));
+      if (n === cur) return;
+      var structure = info.slug.replace(/~x\d+$/, '');
+      var next = window.weaver.parseSlug(n > 1 ? structure + '~x' + n : structure);
+      if (next.error) { statLine('scale change failed: ' + next.error); return; }
+      next.name = info.name || '';
+      setAddress(next, true);
+      render(shell, next, true);
+    });
+  }
+
+  /* ---- Stage 1: pin a baseline, reset to it, diff against it (epic #36) ----
+   * The baseline rides in the fragment as &base=<slug> next to the working &slug=, so a comparison
+   * is shareable and survives the per-edit re-render. */
+  function baseSlugFromHash() {
+    var m = /[#&]base=([0-9a-z-]+)/.exec(location.hash);
+    return m ? m[1] : null;
+  }
+
+  function setTTDFragment(slug, base) {
+    history.replaceState(null, '', TTD_PATH + '#slug=' + slug + (base ? '&base=' + base : ''));
+  }
+
+  /* The baseline card: pin when none is set; once pinned, show the baseline, a reset/re-pin/unpin
+   * row and the diff from it to the current cloth. */
+  function baselineSection(info) {
+    var baseSlug = baseSlugFromHash();
+    var s = '<div id="weaver-baseline" style="border:1px solid #ddd;border-radius:6px;padding:.6em .9em;margin:1em 0">';
+    if (!baseSlug) {
+      return s + '<button data-pin title="Remember this tartan as the baseline to compare your edits against">📌 Pin as baseline</button>' +
+        ' <span style="color:#888;font-size:smaller">Pin a starting point, then watch how your edits differ from it.</span></div>';
+    }
+    var base = window.weaver.parseSlug(baseSlug);
+    if (base.error) {
+      return s + 'Baseline could not be read. <button data-unpin>✕ Unpin</button></div>';
+    }
+    var same = base.slug === info.slug;
+    s += '<strong>Baseline:</strong> <code>' + esc(base.threadcount) + '</code>' +
+      (base.scale > 1 ? ' ×' + base.scale : '') +
+      ' <button data-reset' + (same ? ' disabled' : '') + ' title="Return to the pinned baseline">↺ Reset</button>' +
+      ' <button data-repin title="Pin the current tartan as the new baseline">📌 Re-pin here</button>' +
+      ' <button data-unpin title="Stop comparing">✕ Unpin</button>';
+    s += '<div style="margin-top:.5em">' + (same ? '<em>No change from baseline.</em>' : diffHTML(base, info)) + '</div>';
+    return s + '</div>';
+  }
+
+  function wireBaseline(shell, info) {
+    var box = document.getElementById('weaver-baseline');
+    if (!box) return;
+    box.addEventListener('click', function (ev) {
+      var b = ev.target.closest('button');
+      if (!b) return;
+      ev.preventDefault();
+      if (b.hasAttribute('data-pin') || b.hasAttribute('data-repin')) {
+        setTTDFragment(info.slug, info.slug);          // pin the current cloth as baseline
+        render(shell, info, true);
+      } else if (b.hasAttribute('data-unpin')) {
+        setTTDFragment(info.slug, null);
+        render(shell, info, true);
+      } else if (b.hasAttribute('data-reset')) {
+        var baseSlug = baseSlugFromHash();
+        var bi = window.weaver.parseSlug(baseSlug);
+        if (bi.error) { statLine('baseline unreadable: ' + bi.error); return; }
+        bi.name = info.name || '';
+        setTTDFragment(bi.slug, baseSlug);             // working returns to baseline; pin stays
+        render(shell, bi, true);
+      }
+    });
+  }
+
+  /* Per-stripe / scale diff from baseline to current. A small colour chip leads each stripe; an
+   * equal-length pair is compared positionally (count changes, recolours), otherwise an LCS pass
+   * reports inserted (+) and removed (−) stripes. */
+  function diffHTML(base, info) {
+    var hex = {};
+    (base.palette || []).forEach(function (p) { hex[p.code] = p.hex; });
+    (info.palette || []).forEach(function (p) { hex[p.code] = p.hex; });
+    var lines = [];
+    if ((base.scale || 1) !== (info.scale || 1)) {
+      lines.push('Scale ×' + (base.scale || 1) + ' → ×' + (info.scale || 1));
+    }
+    threadDiff(tokenize(base.threadcount), tokenize(info.threadcount), hex).forEach(function (l) { lines.push(l); });
+    if (!lines.length) lines.push('Identical thread count; differs only in address form.');
+    return '<ul style="margin:.2em 0 0 1.1em;padding:0">' +
+      lines.map(function (l) { return '<li>' + l + '</li>'; }).join('') + '</ul>';
+  }
+
+  function tokenize(tc) {
+    return String(tc).split(/\s+/).filter(Boolean).map(function (t) {
+      var m = /^([A-Za-z]+)\/?(\d+)$/.exec(t);
+      return m ? { code: m[1].toUpperCase(), count: parseInt(m[2], 10) } : null;
+    }).filter(Boolean);
+  }
+
+  function diffChip(hex) {
+    return '<span style="display:inline-block;width:.8em;height:.8em;background:' + (hex || '#ccc') +
+      ';border:1px solid #0003;vertical-align:middle;border-radius:2px"></span>';
+  }
+  function stripeLabel(t, hex) { return diffChip(hex[t.code]) + ' ' + esc(t.code) + t.count; }
+  function signed(n) { return (n > 0 ? '+' : '') + n; }
+
+  function threadDiff(a, b, hex) {
+    if (a.length === b.length) {
+      var out = [];
+      for (var i = 0; i < a.length; i++) {
+        var x = a[i], y = b[i];
+        if (x.code === y.code && x.count === y.count) continue;
+        if (x.code === y.code) {
+          out.push(diffChip(hex[x.code]) + ' ' + esc(x.code) + ' ' + x.count + '→' + y.count + ' (' + signed(y.count - x.count) + ')');
+        } else if (x.count === y.count) {
+          out.push('recolour ' + stripeLabel({ code: x.code, count: x.count }, hex) + ' → ' + diffChip(hex[y.code]) + ' ' + esc(y.code));
+        } else {
+          out.push(stripeLabel(x, hex) + ' → ' + stripeLabel(y, hex));
+        }
+      }
+      return out;
+    }
+    return lcsDiff(a, b, hex);
+  }
+
+  function lcsDiff(a, b, hex) {
+    var n = a.length, m = b.length, key = function (t) { return t.code + t.count; };
+    var dp = [];
+    for (var i = 0; i <= n; i++) { dp[i] = []; for (var j = 0; j <= m; j++) dp[i][j] = 0; }
+    for (i = n - 1; i >= 0; i--) for (j = m - 1; j >= 0; j--) {
+      dp[i][j] = key(a[i]) === key(b[j]) ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
+    }
+    var out = []; i = 0; j = 0;
+    while (i < n && j < m) {
+      if (key(a[i]) === key(b[j])) { i++; j++; }
+      else if (dp[i + 1][j] >= dp[i][j + 1]) { out.push('− ' + stripeLabel(a[i], hex)); i++; }
+      else { out.push('+ ' + stripeLabel(b[j], hex)); j++; }
+    }
+    while (i < n) { out.push('− ' + stripeLabel(a[i], hex)); i++; }
+    while (j < m) { out.push('+ ' + stripeLabel(b[j], hex)); j++; }
+    return out;
   }
 
   /* The entry form, shown above the rendered page in the TTD. Weaving re-renders in place and
@@ -365,21 +531,45 @@
    * lightness, ⊖/⊕ one dye duller/brighter (past the dullest dye, the spine's grey). */
   function shadeCell(code, row) {
     if (!row || !row.match) return '—';
-    var html = stepBtn(code, row.prev, '◀', 'previous hue');
-    html += ' ' + stepBtn(code, row.darker, '▼', 'darker');
-    html += ' ' + stepBtn(code, row.duller, '⊖', 'duller (less saturated)');
-    html += ' ' + (row.exact ? '' : '≈ ') + esc(row.match.name) +
-      (row.match.ref ? ' [' + esc(row.match.ref) + ']' : '') + ' ' + swatch(row.match.hex) + ' ';
-    html += stepBtn(code, row.brighter, '⊕', 'brighter (more saturated)');
-    html += ' ' + stepBtn(code, row.lighter, '▲', 'lighter');
-    html += ' ' + stepBtn(code, row.next, '▶', 'next hue');
-    return html;
+    // Fixed-width slots in a nowrap flex row: every button keeps its place across re-renders, and the
+    // matched-shade name (the only variable-width part) is boxed to a fixed width so the brighter/
+    // lighter/next buttons to its right never shift under the cursor between jogs.
+    var name = (row.exact ? '' : '≈ ') + row.match.name + (row.match.ref ? ' [' + row.match.ref + ']' : '');
+    var nameBox = '<span title="' + esc(row.match.name) + '" style="display:inline-block;width:9em;' +
+      'overflow:hidden;text-overflow:ellipsis;text-align:center;vertical-align:middle">' + esc(name) + '</span>';
+    return '<span style="display:inline-flex;align-items:center;gap:3px;white-space:nowrap">' +
+      stepBtn(code, row.prev, '◀', 'previous hue') +
+      stepBtn(code, row.darker, '▼', 'darker') +
+      stepBtn(code, row.duller, '⊖', 'duller (less saturated)') +
+      nameBox + swatch(row.match.hex) +
+      stepBtn(code, row.brighter, '⊕', 'brighter (more saturated)') +
+      stepBtn(code, row.lighter, '▲', 'lighter') +
+      stepBtn(code, row.next, '▶', 'next hue') +
+      '</span>';
   }
 
+  // A jog button painted in the colour it will apply, so the destination shade reads at a glance
+  // (the arrow rides on top in contrasting ink). Disabled steps keep the same footprint — they go
+  // blank rather than shrinking — so nothing reflows when an axis runs out at a family's end.
   function stepBtn(code, step, arrow, title) {
-    if (!step) return '<button disabled title="nothing that way">' + arrow + '</button>';
+    var box = 'width:1.7em;height:1.7em;padding:0;line-height:1.7em;vertical-align:middle;' +
+      'border:1px solid #0003;border-radius:3px;font-size:.85em;cursor:pointer;flex:0 0 auto';
+    if (!step) {
+      return '<button disabled title="nothing that way" style="' + box +
+        ';background:transparent;color:#ccc;cursor:default">' + arrow + '</button>';
+    }
     return '<button data-shade-code="' + esc(code) + '" data-shade-hex="' + esc(step.hex) +
-      '" title="' + title + ': ' + esc(step.name) + ' ' + esc(step.hex) + '">' + arrow + '</button>';
+      '" title="' + title + ': ' + esc(step.name) + ' ' + esc(step.hex) +
+      '" style="' + box + ';background:' + esc(step.hex) + ';color:' + readableInk(step.hex) + '">' +
+      arrow + '</button>';
+  }
+
+  // Black or white ink for legibility on a coloured button, by perceived luminance of the background.
+  function readableInk(hex) {
+    var h = hex.replace('#', '');
+    if (h.length === 3) h = h[0] + h[0] + h[1] + h[1] + h[2] + h[2];
+    var r = parseInt(h.substr(0, 2), 16), g = parseInt(h.substr(2, 2), 16), b = parseInt(h.substr(4, 2), 16);
+    return (0.299 * r + 0.587 * g + 0.114 * b) / 255 > 0.55 ? '#000' : '#fff';
   }
 
   /* Mirrors the static pages' colour chip (internal/dictionary cSwatch). */

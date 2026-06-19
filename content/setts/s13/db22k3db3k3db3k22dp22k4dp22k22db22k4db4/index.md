@@ -2,10 +2,9 @@
 title: "Glasgow Academy Corporate Tartan Tartan Number: 2052. Earliest known date: January 1992 Designed as the result of the merger of two Glasgow schools: The Westbourne School for girls and the Glasgow Academy. The Westbourne uniform was predominately purple and the Academy blue. The design is based on the Black Watch. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/) · **Stripes:** [DB K DB K DB K DP K DP K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K DP K DP K DB K DB</span></span>
+In pattern [BKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkb/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2052
 

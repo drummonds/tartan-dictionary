@@ -2,10 +2,9 @@
 title: "Murray of Tullibardine - Artefact"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKRKRGRKRKRGRGRKRG](/stripes/krkrkrkrgrkrkrgrgrkrg/) · **Stripes:** [K R K R K R K R DG R K R K R DG R DG R K R DG](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K R K R K R K R DG R K R K R DG R DG R K R DG</span></span>
+In pattern [GRKRGRGRKRKRGRKRKRKRK](/stripes/grkrgrgrkrkrgrkrkrkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3071
 

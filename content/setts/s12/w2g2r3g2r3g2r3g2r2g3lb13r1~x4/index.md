@@ -2,19 +2,11 @@
 title: "Princess Marina (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWGRGRGRGRGW](/stripes/rwgrgrgrgrgw/) · **Stripes:** [R LB G R G R G R G R G W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LB G R G R G R G R G W</span></span>
+In pattern [RWGRGRGRGRGW](/stripes/rwgrgrgrgrgw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6036/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Princess Marina #2](/setts/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/)
-
 
 ## Thread count
 W/8 G8 R12 G8 R12 G8 R12 G8 R8 G12 LP52 R/4

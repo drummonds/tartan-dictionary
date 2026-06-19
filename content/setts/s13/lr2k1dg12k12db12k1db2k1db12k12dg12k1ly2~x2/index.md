@@ -2,10 +2,9 @@
 title: "Campbell of Loudon"
 date: 2023-03-18
 ---
-**Bands:** [YKGKBKBKBKGKY](/stripes/ykgkbkbkbkgky/) · **Stripes:** [LR K DG K DB K DB K DB K DG K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LR K DG K DB K DB K DB K DG K LY</span></span>
+In pattern [YKGKBKBKBKGKY](/stripes/ykgkbkbkbkgky/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell of Loudon](/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/)
-
 
 ## Thread count
 N/4 K2 DG24 K24 DB24 K2 DB4 K2 DB24 K24 DG24 K2 LG/4

@@ -2,10 +2,9 @@
 title: "Leeds, University of (Dance) #1"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGWGRGRGRG](/stripes/rgrgrgwgrgrgrg/) · **Stripes:** [M G M G M G W G M G M G M G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M G M G M G W G M G M G M G</span></span>
+In pattern [GRGRGRGWGRGRGR](/stripes/grgrgrgwgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2082
 

@@ -2,10 +2,9 @@
 title: "Laval Dress, Tartan de"
 date: 2023-03-18
 ---
-**Bands:** [BWBBWBWB](/stripes/bwbbwbwb/) · **Stripes:** [DB LB DB DR LB DB LB DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LB DB DR LB DB LB DB</span></span>
+In pattern [BWBBWBWB](/stripes/bwbbwbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2063
 

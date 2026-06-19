@@ -2,10 +2,9 @@
 title: "Beckett Beaumont"
 date: 2023-03-18
 ---
-**Bands:** [WGBGRWGKGWGWKWBW](/stripes/wgbgrwgkgwgwkwbw/) · **Stripes:** [W Y DT Y R W DY K Y W Y W K W DT W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W Y DT Y R W DY K Y W Y W K W DT W</span></span>
+In pattern [WBWKWGWGKGWRGBGW](/stripes/wbwkwgwgkgwrgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=239
 

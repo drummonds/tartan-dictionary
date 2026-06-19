@@ -2,10 +2,9 @@
 title: "MacQuarrie #5"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRG](/stripes/rgrgrg/) · **Stripes:** [R G R G R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G</span></span>
+In pattern [GRGRGR](/stripes/grgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2732
 
@@ -30,14 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2732](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2732)
 - Scottish Tartans Authority (ITI): 892
 - Scottish Tartans World Register: 892
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine (Vestiarium Scoticum)](/setts/s6/g6r1g24r28g1r4~x2/)
-- [Unidentified, NW Highlands](/setts/s6/r2g2r16g15r2g2~x2/)
-
 
 ## Thread count
 R/64 G4 R4 G4 R16 G/48

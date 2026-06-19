@@ -2,10 +2,9 @@
 title: "Prince of Denmark (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRWBWB](/stripes/rgrgrwbwb/) · **Stripes:** [R DG R DG R W DB W DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG R DG R W DB W DB</span></span>
+In pattern [BWBWRGRGR](/stripes/bwbwrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2377/
 

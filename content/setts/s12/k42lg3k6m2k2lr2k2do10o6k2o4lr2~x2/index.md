@@ -2,10 +2,9 @@
 title: "Wcwm 849-3"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKYKBRKRY](/stripes/kykrkykbrkry/) · **Stripes:** [K LG K M K LR K DO O K O LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K LG K M K LR K DO O K O LR</span></span>
+In pattern [KYKRKYKBRKRY](/stripes/kykrkykbrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4554
 

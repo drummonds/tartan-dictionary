@@ -2,19 +2,11 @@
 title: "Wilding, Michael John (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRWRKRKRKYBKW](/stripes/krwrkrkrkybkw/) · **Stripes:** [K R W R K R K R K LY T K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R W R K R K R K LY T K W</span></span>
+In pattern [KRWRKRKRKYBKW](/stripes/krwrkrkrkybkw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11274/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilding, Michael John (Personal)](/setts/s13/w2k2t2ly2k2r6k1r12k2r6w1r23k1~x2/)
-
 
 ## Thread count
 W/4 K4 B4 Y4 K4 DR14 K2 DR24 K4 DR12 W2 DR46 K/2

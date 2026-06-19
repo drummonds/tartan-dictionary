@@ -2,10 +2,9 @@
 title: "Kinnieson (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWYWYWKRKWGWGWKB](/stripes/kwywywkrkwgwgwkb/) · **Stripes:** [K LB LO LB LO LB K R K LB G LB G LB K DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LB LO LB LO LB K R K LB G LB G LB K DB</span></span>
+In pattern [BKWGWGWKRKWYWYWK](/stripes/bkwgwgwkrkwywywk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1994
 

@@ -2,10 +2,9 @@
 title: "Somerville Dress (Name?)"
 date: 2023-03-18
 ---
-**Bands:** [YRRWRGRBRRRGRBRRRW](/stripes/yrrwrgrbrrrgrbrrrw/) · **Stripes:** [LY R R W R G R DB R R R G R DB R R R W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R R W R G R DB R R R G R DB R R R W</span></span>
+In pattern [WRRRBRGRRRBRGRWRRY](/stripes/wrrrbrgrrrbrgrwrry/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8847/
 

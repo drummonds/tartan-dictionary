@@ -2,10 +2,9 @@
 title: "Lysaght Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBKBKBGBG](/stripes/gkgkbkbkbgbg/) · **Stripes:** [DG K DG K DB K DB K DB DY DB DY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DG K DG K DB K DB K DB DY DB DY</span></span>
+In pattern [GBGBKBKBKGKG](/stripes/gbgbkbkbkgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2261
 

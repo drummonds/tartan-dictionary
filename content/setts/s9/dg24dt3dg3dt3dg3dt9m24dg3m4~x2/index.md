@@ -2,10 +2,9 @@
 title: "Lindsay"
 date: 2023-03-18
 ---
-**Bands:** [RGRBGBGBG](/stripes/rgrbgbgbg/) · **Stripes:** [M DG M DT DG DT DG DT DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="seq">M DG M DT DG DT DG DT DG</span></span>
+In pattern [GBGBGBRGR](/stripes/gbgbgbrgr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

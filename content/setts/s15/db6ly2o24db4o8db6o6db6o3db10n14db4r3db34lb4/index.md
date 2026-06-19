@@ -2,10 +2,9 @@
 title: "Matchpoint Dress"
 date: 2023-03-18
 ---
-**Bands:** [BYRBRBRBRBBBRBW](/stripes/byrbrbrbrbbbrbw/) · **Stripes:** [DB LY O DB O DB O DB O DB N DB R DB LB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DB LY O DB O DB O DB O DB N DB R DB LB</span></span>
+In pattern [BYRBRBRBRBBBRBW](/stripes/byrbrbrbrbbbrbw/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10910/
 

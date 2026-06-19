@@ -2,10 +2,9 @@
 title: "Maguire, Black (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRY](/stripes/rgrgry/) · **Stripes:** [R G R G R LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R G R G R LO</span></span>
+In pattern [RGRGRY](/stripes/rgrgry/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6812/
 

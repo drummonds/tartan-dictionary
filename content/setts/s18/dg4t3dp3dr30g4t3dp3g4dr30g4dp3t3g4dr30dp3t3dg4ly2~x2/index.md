@@ -2,10 +2,9 @@
 title: "Islay Whisky Club"
 date: 2023-03-18
 ---
-**Bands:** [YGBBBGBBGBGBBGBBBG](/stripes/ygbbbgbbgbgbbgbbbg/) · **Stripes:** [LY DG T DP DR G T DP G DR G DP T G DR DP T DG](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG T DP DR G T DP G DR G DP T G DR DP T DG</span></span>
+In pattern [GBBBGBBGBGBBGBBBGY](/stripes/gbbbgbbgbgbbgbbbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4834
 

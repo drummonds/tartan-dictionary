@@ -2,10 +2,9 @@
 title: "Hunter Graham"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKRBBK](/stripes/kgwgkrbbk/) · **Stripes:** [K DG W DG K R DB DP K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG W DG K R DB DP K</span></span>
+In pattern [KBBRKGWGK](/stripes/kbbrkgwgk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10018
 

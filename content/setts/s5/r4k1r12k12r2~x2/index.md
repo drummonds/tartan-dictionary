@@ -2,10 +2,9 @@
 title: "Campbell of Armaddie"
 date: 2023-03-18
 ---
-**Bands:** [RKRKR](/stripes/rkrkr/) · **Stripes:** [R K R K R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R</span></span>
+In pattern [RKRKR](/stripes/rkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5030
 
@@ -22,15 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5030](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5030)
 - Scottish Tartans Authority (ITI): 3800
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell Red (artefact)](/setts/s5/r4k1r24k22r2~x2/)
-- [MacLeod Black & Red](/setts/s5/r8k1r8k12r1~x2/)
-- [Masai Shuka 07 (Artefact)](/setts/s5/r75k15r4k15r4~x2/)
-
 
 ## Thread count
 R/8 K2 R24 K24 R/4

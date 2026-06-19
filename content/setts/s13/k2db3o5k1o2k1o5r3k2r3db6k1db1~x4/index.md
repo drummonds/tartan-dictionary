@@ -2,10 +2,9 @@
 title: "Franklin (District)"
 date: 2023-03-18
 ---
-**Bands:** [KBRKRKRRKRBKB](/stripes/kbrkrkrrkrbkb/) · **Stripes:** [K DB O K O K O R K R DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB O K O K O R K R DB K DB</span></span>
+In pattern [BKBRKRRKRKRBK](/stripes/bkbrkrrkrkrbk/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6678/
 

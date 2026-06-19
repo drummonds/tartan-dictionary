@@ -2,10 +2,9 @@
 title: "Southdown (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKWKWKGR](/stripes/krkwkwkgr/) · **Stripes:** [K R K W K W K DY R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K W K W K DY R</span></span>
+In pattern [KRKWKWKGR](/stripes/krkwkwkgr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1194/
 

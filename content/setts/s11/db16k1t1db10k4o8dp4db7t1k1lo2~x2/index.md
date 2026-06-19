@@ -2,10 +2,9 @@
 title: "Cian (Carroll), Clan"
 date: 2023-03-18
 ---
-**Bands:** [YKBBBRKBBKB](/stripes/ykbbbrkbbkb/) · **Stripes:** [LO K T DB DP O K DB T K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K T DB DP O K DB T K DB</span></span>
+In pattern [BKBBKRBBBKY](/stripes/bkbbkrbbbky/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

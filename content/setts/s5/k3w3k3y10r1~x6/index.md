@@ -2,10 +2,9 @@
 title: "Burberry Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KWKGR](/stripes/kwkgr/) · **Stripes:** [K W K Y R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K Y R</span></span>
+In pattern [KWKGR](/stripes/kwkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5071
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5071](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5071)
 - Scottish Tartans Authority (ITI): 3863
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Oban Grey](/setts/s5/k4w3k4y9r1~x4/)
-
 
 ## Thread count
 K/18 W18 K18 N60 R/6

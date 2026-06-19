@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bwrwykgkwrwkgwy/
 ---
-BWRWYKGKWRWKGWY
-
-It is a 15 band tartan.
+It is a 15 stripe tartan.
 
 
 
 ## Colour Sequence
-BWRWYKGKWRWKGWY
+
+{{< pat "BWRWYKGKWRWKGWY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY W G K W R W K G K LY W R W T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY W G K W R W K G K LY W R W T</span></span>
 
 | Tartans |
 |---------------|
 | [Contreceour Dress Corporate Tartan Tartan Number: 2295. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/ly10w1g2k2w2r1w2k2g2k1ly10w7r3w13t5~x2/)|
 |![Contreceour Dress Corporate Tartan Tartan Number: 2295. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/ly10w1g2k2w2r1w2k2g2k1ly10w7r3w13t5~x2/sett.png)|
-

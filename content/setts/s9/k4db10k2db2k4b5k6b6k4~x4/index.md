@@ -2,10 +2,9 @@
 title: "Saul (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKBK](/stripes/kbkbkbkbk/) · **Stripes:** [K DB K DB K B K B K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K B K B K</span></span>
+In pattern [KBKBKBKBK](/stripes/kbkbkbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4018/
 

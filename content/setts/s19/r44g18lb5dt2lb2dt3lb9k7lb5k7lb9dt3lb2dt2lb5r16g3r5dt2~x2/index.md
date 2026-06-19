@@ -2,10 +2,9 @@
 title: "Metcalf (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGWBWBWKWKWBWBWRGRB](/stripes/rgwbwbwkwkwbwbwrgrb/) · **Stripes:** [R G LB DT LB DT LB K LB K LB DT LB DT LB R G R DT](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R G LB DT LB DT LB K LB K LB DT LB DT LB R G R DT</span></span>
+In pattern [BRGRWBWBWKWKWBWBWGR](/stripes/brgrwbwbwkwkwbwbwgr/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3471/
 

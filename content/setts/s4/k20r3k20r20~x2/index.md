@@ -2,10 +2,9 @@
 title: "Wcwm 9275-1333-2"
 date: 2023-03-18
 ---
-**Bands:** [KRKR](/stripes/krkr/) · **Stripes:** [K R K R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R</span></span>
+In pattern [KRKR](/stripes/krkr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4559
 
@@ -15,19 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4559](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4559)
 - Scottish Tartans Authority (ITI): 4392
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clan Anord (Corporate)](/setts/s4/k3r20k20r3~x2/)
-- [Ettrick](/setts/s4/k6r31k31r6~x2/)
-- [Ettrick (District)](/setts/s4/k5r26k26r5~x4/)
-- [Lendrum (Black & Red) or MacFarlane](/setts/s4/k12r7k1r9~x4/)
-- [Lendrum, or MacFarlane](/setts/s4/k67r32k6/)
-- [MacFarlane Red & Black (Artefact)](/setts/s4/k30r17k3~x4/)
-- [Masai Shuka 12 (Artefact)](/setts/s4/r25k5r1~x4/)
-
 
 ## Thread count
 K/40 DR6 K40 DR/40

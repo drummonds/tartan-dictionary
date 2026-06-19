@@ -2,10 +2,9 @@
 title: "Thom(p)son, Grey"
 date: 2023-03-18
 ---
-**Bands:** [RKWKGR](/stripes/rkwkgr/) · **Stripes:** [R K W K Y R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K Y R</span></span>
+In pattern [RGKWKR](/stripes/rgkwkr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Unidentified Plaid #12"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRB](/stripes/rbrbrbrb/) · **Stripes:** [R DB R DB R DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4345
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mack of Stoneywood Dress (Personal)](/setts/s8/db80r1db2r1db6r10db1r7~x2/)
-
 
 ## Thread count
 R/3 B3 R3 B62 R3 B3 R64 B/3

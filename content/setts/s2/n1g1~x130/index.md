@@ -2,10 +2,9 @@
 title: "Hafren (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GB](/stripes/gb/) · **Stripes:** [G N](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="seq">G N</span></span>
+In pattern [BG](/stripes/bg/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1567
 

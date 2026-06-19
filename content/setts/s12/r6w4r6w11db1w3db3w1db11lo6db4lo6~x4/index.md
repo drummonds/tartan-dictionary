@@ -2,10 +2,9 @@
 title: "Lysaght Dress"
 date: 2023-03-18
 ---
-**Bands:** [RWRWBWBWBYBY](/stripes/rwrwbwbwbyby/) · **Stripes:** [R W R W DB W DB W DB LO DB LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R W R W DB W DB W DB LO DB LO</span></span>
+In pattern [RWRWBWBWBYBY](/stripes/rwrwbwbwbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260
 

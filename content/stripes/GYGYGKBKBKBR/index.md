@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gygygkbkbkbr/
 ---
-GYGYGKBKBKBR
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-GYGYGKBKBKBR
+
+{{< pat "GYGYGKBKBKBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### O DO K DO K DO K Y LR Y LR Y <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O DO K DO K DO K Y LR Y LR Y</span></span>
 
 | Tartans |
 |---------------|
 | [Dorcas](/setts/s12/y4lr2y2lr3y20k6do4k2do2k2do16o3~x2/)|
 |![Dorcas example sett](/setts/s12/y4lr2y2lr3y20k6do4k2do2k2do16o3~x2/sett.png)|
-

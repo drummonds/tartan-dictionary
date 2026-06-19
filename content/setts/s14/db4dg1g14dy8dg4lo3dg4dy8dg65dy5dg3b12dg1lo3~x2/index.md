@@ -2,10 +2,9 @@
 title: "State Seal of Vermont (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGBGGGGGYGGGGB](/stripes/ygbgggggyggggb/) · **Stripes:** [LO DG B DG DY DG DY DG LO DG DY G DG DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DG B DG DY DG DY DG LO DG DY G DG DB</span></span>
+In pattern [BGGGGYGGGGGBGY](/stripes/bggggygggggbgy/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8659/
 

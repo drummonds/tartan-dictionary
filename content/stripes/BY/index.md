@@ -4,17 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/by/
 ---
-BY
-
-It is a 2 band tartan.
+It is a 2 stripe tartan.
 
 
 
 ## Colour Sequence
-BY
+
+{{< pat "BY" >}}
 
 
 ## Tartans with this colour sequence
 
-
-
+| Tartans |
+|---------------|

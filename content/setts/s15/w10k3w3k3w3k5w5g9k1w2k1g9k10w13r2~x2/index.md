@@ -2,10 +2,9 @@
 title: "MacKenzie (MacGregor-Hastie)"
 date: 2023-03-18
 ---
-**Bands:** [RWKGKWKGWKWKWKW](/stripes/rwkgkwkgwkwkwkw/) · **Stripes:** [R W K G K W K G W K W K W K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W K G K W K G W K W K W K W</span></span>
+In pattern [RWKGKWKGWKWKWKW](/stripes/rwkgkwkgwkwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2522
 

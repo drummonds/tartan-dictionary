@@ -2,10 +2,9 @@
 title: "MacArthur-Fox (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGR](/stripes/kgkgr/) · **Stripes:** [K G K G R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K G R</span></span>
+In pattern [KGKGR](/stripes/kgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2282
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2282](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2282)
 - Scottish Tartans Authority (ITI): 1088
 - Scottish Tartans World Register: 1088
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacArthur-Fox](/setts/s5/k19g8k10g31r3/)
-
 
 ## Thread count
 K/16 G6 K8 G40 DR/8

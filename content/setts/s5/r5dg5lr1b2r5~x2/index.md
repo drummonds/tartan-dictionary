@@ -2,10 +2,9 @@
 title: "Menzies"
 date: 2023-03-18
 ---
-**Bands:** [RGYBR](/stripes/rgybr/) · **Stripes:** [R DG LR B R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG LR B R</span></span>
+In pattern [RBYGR](/stripes/rbygr/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

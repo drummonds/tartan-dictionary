@@ -2,10 +2,9 @@
 title: "MacPhie/Macfie"
 date: 2023-03-18
 ---
-**Bands:** [YRGRGRGRW](/stripes/yrgrgrgrw/) · **Stripes:** [LY R G R G R G R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R G R G R G R W</span></span>
+In pattern [WRGRGRGRY](/stripes/wrgrgrgry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2727
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2727](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2727)
 - Scottish Tartans Authority (ITI): 1847
 - Scottish Tartans World Register: 1847
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPhee, MacFie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x2/)
-
 
 ## Thread count
 Y/4 R48 G8 R4 G64 R4 G8 R48 W/4

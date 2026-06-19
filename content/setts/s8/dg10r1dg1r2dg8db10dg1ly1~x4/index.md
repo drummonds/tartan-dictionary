@@ -2,10 +2,9 @@
 title: "Glen Esk"
 date: 2023-03-18
 ---
-**Bands:** [YGBGRGRG](/stripes/ygbgrgrg/) · **Stripes:** [LY DG DB DG R DG R DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG DB DG R DG R DG</span></span>
+In pattern [GRGRGBGY](/stripes/grgrgbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1376](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376)
 - Scottish Tartans Authority (ITI): 5006
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glen Nevis #1 (Fashion)](/setts/s8/dg8r2dg2r3dg8db12dg2ly2~x2/)
-
 
 ## Thread count
 G/40 DR4 G4 DR8 G32 B40 G4 Y/4

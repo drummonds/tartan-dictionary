@@ -2,19 +2,11 @@
 title: "Sawicki, Peter (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKBGYGBKGK](/stripes/kgkgkbgygbkgk/) · **Stripes:** [K G K G K DB G LO G DB K G K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K G K DB G LO G DB K G K</span></span>
+In pattern [KGKBGYGBKGKGK](/stripes/kgkbgygbkgkgk/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10223/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sawicki, Peter (Personal)](/setts/s13/k20g4k4db4g28lo1g28db4k20g8k4g4k4~x2/)
-
 
 ## Thread count
 K/20 G4 K4 DB4 G28 DY2 G28 DB4 K20 G8 K4 G4 K/4

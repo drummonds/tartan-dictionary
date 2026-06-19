@@ -2,10 +2,9 @@
 title: "MacNaughton"
 date: 2023-03-18
 ---
-**Bands:** [KBRGKBRBK](/stripes/kbrgkbrbk/) · **Stripes:** [K DB R G K DB R DB K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB R G K DB R DB K</span></span>
+In pattern [KBRBKGRBK](/stripes/kbrbkgrbk/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

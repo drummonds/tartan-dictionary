@@ -2,10 +2,9 @@
 title: "MacQueen"
 date: 2023-03-18
 ---
-**Bands:** [KRKRKY](/stripes/krkrky/) · **Stripes:** [K R K R K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R K R K LY</span></span>
+In pattern [KRKRKY](/stripes/krkrky/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2736
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2736](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2736)
 - Scottish Tartans Authority (ITI): 1209
 - Scottish Tartans World Register: 1209
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacQueen](/setts/s6/k2r6k2r6k12ly1~x2/)
-
 
 ## Thread count
 K/8 R24 K8 R24 K48 Y/4

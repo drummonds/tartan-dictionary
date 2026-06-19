@@ -2,10 +2,9 @@
 title: "Balfour (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGYGYB](/stripes/rgygyb/) · **Stripes:** [R DY LY DY LY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DY LY DY LY DB</span></span>
+In pattern [BYGYGR](/stripes/bygygr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/684/
 
@@ -15,13 +14,6 @@ This cloth is also recorded under:
 
 - Balfour
 - Balfour #2
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Balfour #2](/setts/s6/db18ly2dy6ly2dy19r3~x2/)
-
 
 ## Thread count
 DB/72 Y8 T24 Y8 T76 R/12

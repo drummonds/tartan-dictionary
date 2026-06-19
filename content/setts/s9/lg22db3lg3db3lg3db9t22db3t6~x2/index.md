@@ -2,10 +2,9 @@
 title: "Lochearn (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBBBB](/stripes/ybybybbbb/) · **Stripes:** [LG DB LG DB LG DB T DB T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">LG DB LG DB LG DB T DB T</span></span>
+In pattern [BBBBYBYBY](/stripes/bbbbybyby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6134/
 

@@ -2,10 +2,9 @@
 title: "Hebridean Arisaid Red (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [KRYWGBKWKBGWYRKR](/stripes/krywgbkwkbgwyrkr/) · **Stripes:** [K R LR W G DB K W K DB G W LR R K R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R LR W G DB K W K DB G W LR R K R</span></span>
+In pattern [KRYWGBKWKBGWYRKR](/stripes/krywgbkwkbgwyrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1651
 

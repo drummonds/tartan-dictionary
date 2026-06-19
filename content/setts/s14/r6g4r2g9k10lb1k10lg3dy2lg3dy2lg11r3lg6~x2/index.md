@@ -2,10 +2,9 @@
 title: "Redgate (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKWKYGYGYRY](/stripes/rgrgkwkygygyry/) · **Stripes:** [R G R G K LB K LG DY LG DY LG R LG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="seq">R G R G K LB K LG DY LG DY LG R LG</span></span>
+In pattern [RGRGKWKYGYGYRY](/stripes/rgrgkwkygygyry/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10810/
 

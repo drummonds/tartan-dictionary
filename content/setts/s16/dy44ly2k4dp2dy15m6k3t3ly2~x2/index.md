@@ -2,10 +2,9 @@
 title: "Inches of Perth"
 date: 2023-03-18
 ---
-**Bands:** [YKBGRKBYBKRGBKYG](/stripes/ykbgrkbybkrgbkyg/) · **Stripes:** [LY K DP DY M K T LY T K M DY DP K LY DY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY K DP DY M K T LY T K M DY DP K LY DY</span></span>
+In pattern [GYKBGRKBYBKRGBKY](/stripes/gykbgrkbybkrgbky/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1819
 

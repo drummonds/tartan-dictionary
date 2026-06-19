@@ -2,10 +2,9 @@
 title: "Moncreiffe D"
 date: 2023-03-18
 ---
-**Bands:** [RGR](/stripes/rgr/) · **Stripes:** [R DG R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R</span></span>
+In pattern [RGR](/stripes/rgr/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Moncreiffe D](/setts/s3/r1dg1r1~x2/)
-
 
 ## Thread count
 DR/1 DG1 DR/1

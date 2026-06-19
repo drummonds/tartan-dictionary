@@ -2,10 +2,9 @@
 title: "Duchess of Edinburgh"
 date: 2023-03-18
 ---
-**Bands:** [RBKYKWKGRKRWRKRGKWKYKBGRGKBKBKYKRKB](/stripes/rbkykwkgrkrwrkrgkwkykbgrgkbkbkykrkb/) · **Stripes:** [R T K LY K W K G R K R W R K R G K W K LY K T G R G K DB K DB K LY K R K T](/stripes/stripes35/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T K LY K W K G R K R W R K R G K W K LY K T G R G K DB K DB K LY K R K T</span></span>
+In pattern [BKRKYKBKBKGRGBKYKWKGRKRWRKRGKWKYKBR](/stripes/bkrkykbkbkgrgbkykwkgrkrwrkrgkwkykbr/).
 
-
-This was sourced from weddslist.  It is a [35 band tartan](/bands/bands35/).
+This was sourced from weddslist.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

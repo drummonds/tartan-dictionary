@@ -2,10 +2,9 @@
 title: "Seller Clan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKBYBYBGRBRW](/stripes/gkbybybgrbrw/) · **Stripes:** [G K DB LY DB LY DB G R DB R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G K DB LY DB LY DB G R DB R W</span></span>
+In pattern [GKBYBYBGRBRW](/stripes/gkbybybgrbrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/771/
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sillars (Name)](/setts/s12/g64k4db9ly2db4ly2db4g11r8db2r4w3~x2/)
-
 
 ## Thread count
 G/92 K6 DB12 Y4 DB6 Y4 DB6 G14 R12 DB4 R6 W/8

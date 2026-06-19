@@ -2,19 +2,11 @@
 title: "Dunbar (District)"
 date: 2023-03-18
 ---
-**Bands:** [KRKWKY](/stripes/krkwky/) · **Stripes:** [K R K LB K LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K R K LB K LO</span></span>
+In pattern [KRKWKY](/stripes/krkwky/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2011/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black (symmetrical)](/setts/s6/k17r6k2lb6k17lo2~x2/)
-
 
 ## Thread count
 K/16 DR98 K16 N6 K40 DY/6

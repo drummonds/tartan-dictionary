@@ -2,10 +2,9 @@
 title: "Loch Lomond"
 date: 2023-03-18
 ---
-**Bands:** [RYRBRBGBB](/stripes/ryrbrbgbb/) · **Stripes:** [R LY R DT R DP DG P DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R LY R DT R DP DG P DP</span></span>
+In pattern [BBGBRBRYR](/stripes/bbgbrbryr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

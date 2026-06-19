@@ -2,10 +2,9 @@
 title: "Historic Scotland"
 date: 2023-03-18
 ---
-**Bands:** [YBYBRKRKRKRBYBYB](/stripes/ybybrkrkrkrbybyb/) · **Stripes:** [LR DT LR DT O K O K O K O DT LR DT LR DT](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="seq">LR DT LR DT O K O K O K O DT LR DT LR DT</span></span>
+In pattern [BYBYBRKRKRKRBYBY](/stripes/bybybrkrkrkrbyby/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1738
 

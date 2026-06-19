@@ -2,10 +2,9 @@
 title: "MacNeil - 1994 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKW](/stripes/bkbkw/) · **Stripes:** [B K DT K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B K DT K W</span></span>
+In pattern [BKBKW](/stripes/bkbkw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3500/
 

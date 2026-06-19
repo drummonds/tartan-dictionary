@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbgbgkbgbgb/
 ---
-BGBGBGKBGBGB
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBGBGKBGBGB
+
+{{< pat "BGBGBGKBGBGB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### DB G DB G DB K G DB G DB G DP <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB G DB G DB K G DB G DB G DP</span></span>
 
 | Tartans |
 |---------------|
 | [Stephen-Mathieson](/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/)|
 |![Stephen-Mathieson example sett](/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/sett.png)|
-

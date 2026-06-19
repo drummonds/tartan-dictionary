@@ -2,10 +2,9 @@
 title: "Chalk, Robert (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBYGYGWYBWB](/stripes/bbygygwybwb/) · **Stripes:** [DP DO LR DG LR DG W LY DP W DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DO LR DG LR DG W LY DP W DP</span></span>
+In pattern [BBYGYGWYBWB](/stripes/bbygygwybwb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10421
 

@@ -2,10 +2,9 @@
 title: "Stewart of Atholl (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKGKGKG](/stripes/rkrkgkgkg/) · **Stripes:** [R K R K DG K DG K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K R K DG K DG K DG</span></span>
+In pattern [GKGKGKRKR](/stripes/gkgkgkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/802/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/802/
 This cloth is also recorded under:
 
 - Stewart/Stuart of Atholl
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart of Atholl](/setts/s9/dg22k1dg2k1dg3k8r20k1r6~x2/)
-
 
 ## Thread count
 G/88 K4 G8 K4 G12 K32 R80 K4 R/12

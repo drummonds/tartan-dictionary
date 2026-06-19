@@ -2,10 +2,9 @@
 title: "MacEdward (MacGregor Hastie)"
 date: 2023-03-18
 ---
-**Bands:** [RYRGBKBKBR](/stripes/ryrgbkbkbr/) · **Stripes:** [R LO R DG DB K DB K DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LO R DG DB K DB K DB R</span></span>
+In pattern [RBKBKBGRYR](/stripes/rbkbkbgryr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2426
 

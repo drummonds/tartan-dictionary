@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbbbkgy/
 ---
-BKBBBKGY
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/db2k2dp1db30t1k12dg25lo1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BKBBBKGY
+
+{{< pat "BKBBBKGY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO DG K T DB DP K DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DG K T DB DP K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Castellari of Lochaber Lairds (Pers](/setts/s8/db2k2dp1db30t1k12dg25lo1~x2/)|
 |![Castellari of Lochaber Lairds (Pers example sett](/setts/s8/db2k2dp1db30t1k12dg25lo1~x2/sett.png)|
-

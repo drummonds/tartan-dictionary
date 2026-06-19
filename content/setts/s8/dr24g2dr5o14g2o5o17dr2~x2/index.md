@@ -2,10 +2,9 @@
 title: "Loch Rannoch"
 date: 2023-03-18
 ---
-**Bands:** [BRRGRBGB](/stripes/brrgrbgb/) · **Stripes:** [DR O O G O DR G DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR O O G O DR G DR</span></span>
+In pattern [BGBRGRRB](/stripes/bgbrgrrb/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

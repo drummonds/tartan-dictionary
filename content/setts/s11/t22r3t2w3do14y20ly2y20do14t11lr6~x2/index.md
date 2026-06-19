@@ -2,10 +2,9 @@
 title: "Wisconsin"
 date: 2023-03-18
 ---
-**Bands:** [YBBGYGBWBRB](/stripes/ybbgygbwbrb/) · **Stripes:** [LR T DO Y LY Y DO W T R T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">LR T DO Y LY Y DO W T R T</span></span>
+In pattern [BRBWBGYGBBY](/stripes/brbwbgygbby/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4765
 

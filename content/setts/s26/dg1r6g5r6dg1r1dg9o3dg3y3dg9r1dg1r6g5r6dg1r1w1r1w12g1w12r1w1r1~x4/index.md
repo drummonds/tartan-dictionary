@@ -2,10 +2,9 @@
 title: "Maple Leaf, dress"
 date: 2023-03-18
 ---
-**Bands:** [RWRWGWRWRGRGRGRGGGRGRGRGRG](/stripes/rwrwgwrwrgrgrgrgggrgrgrgrg/) · **Stripes:** [R W R W G W R W R DG R G R DG R DG Y DG O DG R DG R G R DG](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R W R W G W R W R DG R G R DG R DG Y DG O DG R DG R G R DG</span></span>
+In pattern [GRGRGRGRGGGRGRGRGRWRWGWRWR](/stripes/grgrgrgrgggrgrgrgrwrwgwrwr/).
 
-
-This was sourced from weddslist.  It is a [26 band tartan](/bands/bands26/).
+This was sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

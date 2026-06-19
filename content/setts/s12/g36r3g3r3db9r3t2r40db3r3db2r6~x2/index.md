@@ -2,10 +2,9 @@
 title: "MacLintock - 1880 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRGRG](/stripes/rbrbrbrbrgrg/) · **Stripes:** [R DB R DB R T R DB R G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R DB R T R DB R G R G</span></span>
+In pattern [GRGRBRBRBRBR](/stripes/grgrbrbrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/881/
 
@@ -894,13 +893,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLintock](/setts/s12/g38r3g3r3db9r3t2r40db3r3db2r6~x2/)
-
 
 ## Thread count
 G/72 R6 G6 R6 DB18 R6 B4 R80 DB6 R6 DB4 R/12

@@ -2,10 +2,9 @@
 title: "Unidentified #11"
 date: 2023-03-18
 ---
-**Bands:** [YKWKWKWKRYRKBKB](/stripes/ykwkwkwkryrkbkb/) · **Stripes:** [LY K W K W K W K R LY R K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K W K W K W K R LY R K DB K DB</span></span>
+In pattern [BKBKRYRKWKWKWKY](/stripes/bkbkryrkwkwkwky/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4212
 

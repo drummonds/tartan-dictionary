@@ -2,10 +2,9 @@
 title: "Glenmorangie (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYKGRGRG](/stripes/yryrykgrgrg/) · **Stripes:** [LO M LO M LO K Y M Y M Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO M LO M LO K Y M Y M Y</span></span>
+In pattern [GRGRGKYRYRY](/stripes/grgrgkyryry/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5981/
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/wbkbkw/
 ---
-WBKBKW
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/w4k26t26k2t5w2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-WBKBKW
+
+{{< pat "WBKBKW" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### W K T K T W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K T K T W</span></span>
 
 | Tartans |
 |---------------|
 | [Indian Pipe Band (Corporate)](/setts/s6/w4k26t26k2t5w2~x2/)|
 |![Indian Pipe Band (Corporate) example sett](/setts/s6/w4k26t26k2t5w2~x2/sett.png)|
-

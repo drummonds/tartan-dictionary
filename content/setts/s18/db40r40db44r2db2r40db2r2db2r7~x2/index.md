@@ -2,10 +2,9 @@
 title: "Unnamed C18th - Prince Charles Edward #2"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRBRBRBRBRB](/stripes/rbrbrbrbrbrbrbrbrb/) · **Stripes:** [R DB R DB R DB R DB R DB R DB R DB R DB R DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DB R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRBRBRBRBRBR](/stripes/brbrbrbrbrbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4421
 

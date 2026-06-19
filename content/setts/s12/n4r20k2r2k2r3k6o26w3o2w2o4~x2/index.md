@@ -2,10 +2,9 @@
 title: "Eidart 1990 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRKRKRKRB](/stripes/rwrwrkrkrkrb/) · **Stripes:** [O W O W O K R K R K R N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">O W O W O K R K R K R N</span></span>
+In pattern [BRKRKRKRWRWR](/stripes/brkrkrkrwrwr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8943/
 

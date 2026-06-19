@@ -2,10 +2,9 @@
 title: "Miss Peffer's, Plaid"
 date: 2023-03-18
 ---
-**Bands:** [GWGWGWGWGWGWKGWGKWKGWGKWKGWGWGWGW](/stripes/gwgwgwgwgwgwkgwgkwkgwgkwkgwgwgwgw/) · **Stripes:** [Y W Y W Y W Y W Y W Y W K Y W Y K W K Y W Y K W K Y W Y W Y W Y W](/stripes/stripes33/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y W Y W Y W Y W Y W Y W K Y W Y K W K Y W Y K W K Y W Y W Y W Y W</span></span>
+In pattern [GWGWGWGWGWGWKGWGKWKGWGKWKGWGWGWGW](/stripes/gwgwgwgwgwgwkgwgkwkgwgkwkgwgwgwgw/).
 
-
-This was sourced from weddslist.  It is a [33 band tartan](/bands/bands33/).
+This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

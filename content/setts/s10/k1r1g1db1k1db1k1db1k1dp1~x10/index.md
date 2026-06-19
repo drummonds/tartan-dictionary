@@ -2,10 +2,9 @@
 title: "Bell, Siobhan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRGBKBKBKB](/stripes/krgbkbkbkb/) · **Stripes:** [K R G DB K DB K DB K DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K R G DB K DB K DB K DP</span></span>
+In pattern [BKBKBKBGRK](/stripes/bkbkbkbgrk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11351
 

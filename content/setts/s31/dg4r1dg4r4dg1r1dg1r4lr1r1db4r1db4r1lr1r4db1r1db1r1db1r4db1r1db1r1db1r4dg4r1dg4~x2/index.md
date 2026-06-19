@@ -2,10 +2,9 @@
 title: "MacRae"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRYRBRBRYRBRBRBRBRBRBRGRG](/stripes/grgrgrgryrbrbryrbrbrbrbrbrbrgrg/) · **Stripes:** [DG R DG R DG R DG R LR R DB R DB R LR R DB R DB R DB R DB R DB R DB R DG R DG](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG R DG R DG R LR R DB R DB R LR R DB R DB R DB R DB R DB R DB R DG R DG</span></span>
+In pattern [GRGRBRBRBRBRBRBRYRBRBRYRGRGRGRG](/stripes/grgrbrbrbrbrbrbryrbrbryrgrgrgrg/).
 
-
-This was sourced from weddslist.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

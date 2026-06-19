@@ -2,10 +2,9 @@
 title: "Blue Castlefield"
 date: 2023-03-18
 ---
-**Bands:** [KKGKRKGKRKKY](/stripes/kkgkrkgkrkky/) · **Stripes:** [K K G K O K G K O K K LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K K G K O K G K O K K LR</span></span>
+In pattern [KKGKRKGKRKKY](/stripes/kkgkrkgkrkky/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10312
 

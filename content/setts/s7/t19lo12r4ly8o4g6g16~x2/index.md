@@ -2,10 +2,9 @@
 title: "Aberdeenshire Home Colours"
 date: 2023-03-18
 ---
-**Bands:** [GGRYRYB](/stripes/ggryryb/) · **Stripes:** [G G O LY R LO T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="seq">G G O LY R LO T</span></span>
+In pattern [BYRYRGG](/stripes/byryrgg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11267/
 

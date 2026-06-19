@@ -2,10 +2,9 @@
 title: "Drummond of Perth Dress #2"
 date: 2023-03-18
 ---
-**Bands:** [RYGBWRGBW](/stripes/rygbwrgbw/) · **Stripes:** [R LY Y DB W R Y DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R LY Y DB W R Y DB W</span></span>
+In pattern [RYGBWRGBW](/stripes/rygbwrgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=990
 

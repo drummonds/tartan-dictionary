@@ -2,10 +2,9 @@
 title: "Old England House Check"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWRWKWYW](/stripes/bwbwbwrwkwyw/) · **Stripes:** [DO W DO W DO W R W K W LR W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DO W DO W DO W R W K W LR W</span></span>
+In pattern [BWBWBWRWKWYW](/stripes/bwbwbwrwkwyw/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11148
 

@@ -2,10 +2,9 @@
 title: "Army Medical Services"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBGYRBRY](/stripes/rbrbrbgyrbry/) · **Stripes:** [R DB R DB R DB DG LY R DB R LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DB R DB R DB DG LY R DB R LR</span></span>
+In pattern [RBRBRBGYRBRY](/stripes/rbrbrbgyrbry/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11394
 

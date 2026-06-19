@@ -2,20 +2,11 @@
 title: "Ikelman #1 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBW](/stripes/bwbwbw/) · **Stripes:** [DB W DB W DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB W DB W</span></span>
+In pattern [BWBWBW](/stripes/bwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2210/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine Blanket](/setts/s6/db1w1db5w5db1w1~x8/)
-- [Erskine Blue (Dance)](/setts/s6/db6w2db29w29db2w6~x2/)
-
 
 ## Thread count
 LN/32 DB64 LN8 DB8 LN4 DB/4

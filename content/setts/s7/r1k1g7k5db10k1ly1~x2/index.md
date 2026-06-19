@@ -2,19 +2,11 @@
 title: "MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKGKBKY](/stripes/rkgkbky/) · **Stripes:** [R K G K DB K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K G K DB K LY</span></span>
+In pattern [RKGKBKY](/stripes/rkgkbky/).
 
-
-This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=15833
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLeod, Macleod of Harris](/setts/s7/r3k2g15k10db20k2ly2~x2/)
-
 
 ## Thread count
 R/2 K2 G14 K10 DB20 K2 Y/2

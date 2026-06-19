@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/kbkwkyywryk/
 ---
-KBKWKYYWRYK
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-KBKWKYYWRYK
+
+{{< pat "KBKWKYYWRYK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LO R LB LO LO K LB K DB K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO R LB LO LO K LB K DB K</span></span>
 
 | Tartans |
 |---------------|
 | [State Seal of Georgia (Fashion)](/setts/s11/k10db13k3lb7k1lo20lo3lb13r5lo47k3~x2/)|
 |![State Seal of Georgia (Fashion) example sett](/setts/s11/k10db13k3lb7k1lo20lo3lb13r5lo47k3~x2/sett.png)|
-

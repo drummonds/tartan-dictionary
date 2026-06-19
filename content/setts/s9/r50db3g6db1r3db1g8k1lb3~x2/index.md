@@ -2,10 +2,9 @@
 title: "MacAulay of Ardincaple (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBRBGKW](/stripes/rbgbrbgkw/) · **Stripes:** [R DB G DB R DB G K LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DB G DB R DB G K LB</span></span>
+In pattern [RBGBRBGKW](/stripes/rbgbrbgkw/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7120/
 

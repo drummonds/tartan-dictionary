@@ -2,21 +2,11 @@
 title: "Mar, Tribe of (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKY](/stripes/rkgky/) · **Stripes:** [R K G K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K G K LY</span></span>
+In pattern [RKGKY](/stripes/rkgky/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1586/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Mar Tribe](/setts/s5/r2k3g45k3ly2/)
-- [Mar, (Tribe of..)](/setts/s5/r2k4g45k3ly2/)
-- [Skene, or Tribe of Mar](/setts/s5/r1k2g16k2ly1~x2/)
-
 
 ## Thread count
 DR/4 K8 G90 K6 Y/4

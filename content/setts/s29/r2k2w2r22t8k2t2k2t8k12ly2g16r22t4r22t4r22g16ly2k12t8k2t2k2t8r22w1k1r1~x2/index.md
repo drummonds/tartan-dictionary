@@ -2,10 +2,9 @@
 title: "MacPherson"
 date: 2023-03-18
 ---
-**Bands:** [RKWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/rkwrbkbkbkygrbrbrgykbkbkbrwkr/) · **Stripes:** [R K W R T K T K T K LY G R T R T R G LY K T K T K T R W K R](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W R T K T K T K LY G R T R T R G LY K T K T K T R W K R</span></span>
+In pattern [RKWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/rkwrbkbkbkygrbrbrgykbkbkbrwkr/).
 
-
-This was sourced from logan-1831.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from logan-1831.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link /posts/logans-scottish-gael/
 

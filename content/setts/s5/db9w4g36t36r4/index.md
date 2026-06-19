@@ -2,10 +2,9 @@
 title: "Alvis of Lee (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGWB](/stripes/rbgwb/) · **Stripes:** [R T G W DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R T G W DB</span></span>
+In pattern [BWGBR](/stripes/bwgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2081
 
@@ -901,13 +900,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Alvis of Lee (Personal)](/setts/s5/db9w4g36t36r4~x2/)
-
 
 ## Thread count
 DB/9 LN4 G36 B36 R/4

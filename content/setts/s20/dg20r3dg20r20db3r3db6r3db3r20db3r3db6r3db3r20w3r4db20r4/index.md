@@ -2,10 +2,9 @@
 title: "MacRae of Conchra"
 date: 2023-03-18
 ---
-**Bands:** [RBRWRBRBRBRBRBRBRGRG](/stripes/rbrwrbrbrbrbrbrbrgrg/) · **Stripes:** [R DB R W R DB R DB R DB R DB R DB R DB R DG R DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB R W R DB R DB R DB R DB R DB R DB R DG R DG</span></span>
+In pattern [GRGRBRBRBRBRBRBRWRBR](/stripes/grgrbrbrbrbrbrbrwrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2748
 

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brbrgrgrbr/
 ---
-BRBRGRGRBR
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-BRBRGRGRBR
+
+{{< pat "BRBRGRGRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DB R G R G R DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R G R G R DB R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Auld Reekie Trade Tartan Tartan Number: 2381. Earliest known date: Pre 1997 Produced by or for Barkraft Lt for use as a blanket or rug. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db4r3db3r22g8r2~x2/)|
 |![Auld Reekie Trade Tartan Tartan Number: 2381. Earliest known date: Pre 1997 Produced by or for Barkraft Lt for use as a blanket or rug. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/db4r3db3r22g8r2~x2/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Fraser Arisaid"
 date: 2023-03-18
 ---
-**Bands:** [BWBGWGWBWB](/stripes/bwbgwgwbwb/) · **Stripes:** [DT LB DT G LB G LB DT LB DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="seq">DT LB DT G LB G LB DT LB DT</span></span>
+In pattern [BWBGWGWBWB](/stripes/bwbgwgwbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1250
 

@@ -2,10 +2,9 @@
 title: "Wcwm 1166-2"
 date: 2023-03-18
 ---
-**Bands:** [YBWBYB](/stripes/ybwbyb/) · **Stripes:** [LR DO LB DO LR DO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#412714"></span><span class="seq">LR DO LB DO LR DO</span></span>
+In pattern [BYBWBY](/stripes/bybwby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4514
 

@@ -2,10 +2,9 @@
 title: "Fily (Verneuil L'tang) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWB](/stripes/kwb/) · **Stripes:** [K W T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">K W T</span></span>
+In pattern [BWK](/stripes/bwk/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10277/
 

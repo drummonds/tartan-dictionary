@@ -2,10 +2,9 @@
 title: "Heirloom Blue Alba"
 date: 2023-03-18
 ---
-**Bands:** [YBBYBBBWBBBYBBYB](/stripes/ybbybbbwbbbybbyb/) · **Stripes:** [LO T DB LR DB DP DB W DB DP DB LR DB T LO T](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO T DB LR DB DP DB W DB DP DB LR DB T LO T</span></span>
+In pattern [BYBBYBBBWBBBYBBY](/stripes/bybbybbbwbbbybby/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1678
 

@@ -2,19 +2,11 @@
 title: "Virginia Tech (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYRYWB](/stripes/ryryryrywb/) · **Stripes:** [R LO R LO R LO R LO W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R LO R LO R LO R LO W DB</span></span>
+In pattern [BWYRYRYRYR](/stripes/bwyryryryr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7663/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Virginia Tech](/setts/s10/r6lo2r32lo15r2lo3r2lo6w3db4~x2/)
-
 
 ## Thread count
 DR/12 O4 DR72 O36 DR4 O8 DR4 O12 LN6 DB/8

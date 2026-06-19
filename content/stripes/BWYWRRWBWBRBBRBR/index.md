@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bwywrrwbwbrbbrbr/
 ---
-BWYWRRWBWBRBBRBR
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-BWYWRRWBWBRBBRBR
+
+{{< pat "BWYWRRWBWBRBBRBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R B R B DO R DO LB DO LB R R LB LO LB DO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="seq">R B R B DO R DO LB DO LB R R LB LO LB DO</span></span>
 
 | Tartans |
 |---------------|
 | [Wcwm 1717](/setts/s16/do20lb1lo8lb1r16r4lb1do18lb1do20r8do8b8r8b8r1~x4/)|
 |![Wcwm 1717 example sett](/setts/s16/do20lb1lo8lb1r16r4lb1do18lb1do20r8do8b8r8b8r1~x4/sett.png)|
-

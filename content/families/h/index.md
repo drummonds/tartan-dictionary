@@ -8,7 +8,7 @@ background: /bg/clans.png
 ## Ha
 
 - [Haddrell](/setts/s7/r2b4y18n2y2n41w2~x2/)
-- [Haig Check](/setts/s15/b1w1k1w1k1w1k1w1k1w1k1w1k1w1b1~x12/)
+- [Haig](/clan/haig/) — clan
 - [Halcrow Howell](/setts/s9/db4t3db6k2db12g2db2g24lb2~x2/)
 - [Halliday](/setts/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8/)
 - [Hamilton](/clan/hamilton/) — clan

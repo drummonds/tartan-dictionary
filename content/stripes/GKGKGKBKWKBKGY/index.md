@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkgkgkbkwkbkgy/
 ---
-GKGKGKBKWKBKGY
-
-It is a 14 band tartan.
+It is a 14 stripe tartan.
 
 
 
 ## Colour Sequence
-GKGKGKBKWKBKGY
+
+{{< pat "GKGKGKBKWKBKGY" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### LO DG K DT K LB K DT K DG K DG K DG <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG K DT K LB K DT K DG K DG K DG</span></span>
-
-| Tartans |
-|---------------|
-| [Proctor (Name)](/setts/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24lo3~x2/)|
-|![Proctor (Name) example sett](/setts/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24lo3~x2/sett.png)|
-
-### LY G K DB K W K DB K G K G K G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G K DB K W K DB K G K G K G</span></span>
 
 | Tartans |
 |---------------|
 | [Proctor](/setts/s14/g78k4g4k4g4k6db26k4w8k4db26k6g48ly3/)|
 |![Proctor example sett](/setts/s14/g78k4g4k4g4k6db26k4w8k4db26k6g48ly3/sett.png)|
-
+| [Proctor (Name)](/setts/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24lo3~x2/)|
+|![Proctor (Name) example sett](/setts/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24lo3~x2/sett.png)|

@@ -2,10 +2,9 @@
 title: "Dodd of Branford"
 date: 2023-03-18
 ---
-**Bands:** [KYWBKBGRG](/stripes/kywbkbgrg/) · **Stripes:** [K LO LB DB K DB G R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LO LB DB K DB G R G</span></span>
+In pattern [GRGBKBWYK](/stripes/grgbkbwyk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942
 

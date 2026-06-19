@@ -2,10 +2,9 @@
 title: "Mowat, Sir Oliver"
 date: 2023-03-18
 ---
-**Bands:** [RBYBWBGBGBGRGBYBWBG](/stripes/rbybwbgbgbgrgbybwbg/) · **Stripes:** [R DO LY DO LB DO DG DO DG DO DG R DG DO LY DO LB DO DG](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="seq">R DO LY DO LB DO DG DO DG DO DG R DG DO LY DO LB DO DG</span></span>
+In pattern [GBWBYBGRGBGBGBWBYBR](/stripes/gbwbybgrgbgbgbwbybr/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3036
 

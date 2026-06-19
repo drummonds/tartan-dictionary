@@ -2,10 +2,9 @@
 title: "Glen Lyon"
 date: 2023-03-18
 ---
-**Bands:** [KGB](/stripes/kgb/) · **Stripes:** [K G DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K G DB</span></span>
+In pattern [BGK](/stripes/bgk/).
 
-
-This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

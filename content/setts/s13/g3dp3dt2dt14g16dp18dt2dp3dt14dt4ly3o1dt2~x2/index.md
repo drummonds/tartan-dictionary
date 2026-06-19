@@ -2,10 +2,9 @@
 title: "ENABLE Scotland"
 date: 2023-03-18
 ---
-**Bands:** [GBBBGBBBBBYRB](/stripes/gbbbgbbbbbyrb/) · **Stripes:** [G DP DT DT G DP DT DP DT DT LY O DT](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">G DP DT DT G DP DT DP DT DT LY O DT</span></span>
+In pattern [BRYBBBBBGBBBG](/stripes/brybbbbbgbbbg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11177
 

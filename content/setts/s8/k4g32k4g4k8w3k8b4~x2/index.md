@@ -2,10 +2,9 @@
 title: "Hartmann"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKWKB](/stripes/kgkgkwkb/) · **Stripes:** [K G K G K W K B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G K G K W K B</span></span>
+In pattern [BKWKGKGK](/stripes/bkwkgkgk/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

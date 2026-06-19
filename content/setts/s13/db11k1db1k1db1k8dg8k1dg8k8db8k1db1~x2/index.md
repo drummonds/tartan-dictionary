@@ -2,10 +2,9 @@
 title: "Campbell"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKBKBKB](/stripes/bkbkgkgkbkbkb/) · **Stripes:** [DB K DB K DG K DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG K DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -64,13 +63,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell](/setts/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/)
-
 
 ## Thread count
 DB/22 K2 DB2 K2 DB2 K16 DG16 K2 DG16 K16 DB16 K2 DB/2

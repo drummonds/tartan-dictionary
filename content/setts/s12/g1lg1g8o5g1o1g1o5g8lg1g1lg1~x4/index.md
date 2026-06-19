@@ -2,10 +2,9 @@
 title: "O'Neill Pipe Band 1983"
 date: 2023-03-18
 ---
-**Bands:** [YGYGRGRGRGYG](/stripes/ygygrgrgrgyg/) · **Stripes:** [LG G LG G O G O G O G LG G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LG G LG G O G O G O G LG G</span></span>
+In pattern [GYGRGRGRGYGY](/stripes/gygrgrgrgygy/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3249
 

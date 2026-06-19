@@ -2,10 +2,9 @@
 title: "Wilson's, No 211"
 date: 2023-03-18
 ---
-**Bands:** [GBGB](/stripes/gbgb/) · **Stripes:** [G P G P](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">G P G P</span></span>
+In pattern [BGBG](/stripes/bgbg/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Elphinstone](/setts/s4/g12p3g1~x2/)
-
 
 ## Thread count
 G/32 P16 G4 P/8

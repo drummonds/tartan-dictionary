@@ -2,10 +2,9 @@
 title: "Caledonian Cameron Commando"
 date: 2023-03-18
 ---
-**Bands:** [RWKWKWKYGRKRWR](/stripes/rwkwkwkygrkrwr/) · **Stripes:** [R LT K LT K LT K LY DG R K R W R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LT K LT K LT K LY DG R K R W R</span></span>
+In pattern [RWKWKWKYGRKRWR](/stripes/rwkwkwkygrkrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=472
 

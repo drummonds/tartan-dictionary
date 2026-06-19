@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bwrkwkwkwkwkwkwkwkwkwrk/
 ---
-BWRKWKWKWKWKWKWKWKWKWRK
-
-It is a 23 band tartan.
+It is a 23 stripe tartan.
 
 
 
 ## Colour Sequence
-BWRKWKWKWKWKWKWKWKWKWRK
+
+{{< pat "BWRKWKWKWKWKWKWKWKWKWRK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K R W K W K W K W K W K W K W K W K W K R W DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K R W K W K W K W K W K W K W K W K W K R W DB</span></span>
 
 | Tartans |
 |---------------|
 | [McCready (Name)](/setts/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/)|
 |![McCready (Name) example sett](/setts/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/sett.png)|
-

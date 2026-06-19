@@ -2,10 +2,9 @@
 title: "Unidentified 18th Century"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRBRBRB](/stripes/rgrbrbrbrb/) · **Stripes:** [O G O DP O DP O DP O DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">O G O DP O DP O DP O DP</span></span>
+In pattern [BRBRBRBRGR](/stripes/brbrbrbrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5017
 

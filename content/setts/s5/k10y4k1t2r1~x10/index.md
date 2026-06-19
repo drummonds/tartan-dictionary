@@ -2,10 +2,9 @@
 title: "Brotherhood of the Kilt"
 date: 2023-03-18
 ---
-**Bands:** [KGKBR](/stripes/kgkbr/) · **Stripes:** [K Y K T R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">K Y K T R</span></span>
+In pattern [KGKBR](/stripes/kgkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5659
 

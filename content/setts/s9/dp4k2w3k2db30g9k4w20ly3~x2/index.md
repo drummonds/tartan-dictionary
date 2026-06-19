@@ -2,10 +2,9 @@
 title: "Minnesota Dress"
 date: 2023-03-18
 ---
-**Bands:** [YWKGBKWKB](/stripes/ywkgbkwkb/) · **Stripes:** [LY W K G DB K W K DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY W K G DB K W K DP</span></span>
+In pattern [BKWKBGKWY](/stripes/bkwkbgkwy/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5043
 

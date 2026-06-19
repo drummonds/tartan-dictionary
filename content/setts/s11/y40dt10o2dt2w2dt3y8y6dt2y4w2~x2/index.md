@@ -2,10 +2,9 @@
 title: "Cavalier, Blue"
 date: 2023-03-18
 ---
-**Bands:** [GBRBWBGGBGW](/stripes/gbrbwbggbgw/) · **Stripes:** [Y DT O DT W DT Y Y DT Y W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y DT O DT W DT Y Y DT Y W</span></span>
+In pattern [GBRBWBGGBGW](/stripes/gbrbwbggbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=597
 

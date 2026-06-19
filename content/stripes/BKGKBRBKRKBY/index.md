@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkgkbrbkrkby/
 ---
-BKGKBRBKRKBY
-
-It is a 12 band tartan.
+It is a 12 stripe tartan.
 
 
 
 ## Colour Sequence
-BKGKBRBKRKBY
+
+{{< pat "BKGKBRBKRKBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO P K R K P R P K DG K P <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LO P K R K P R P K DG K P</span></span>
 
 | Tartans |
 |---------------|
 | [Child, The](/setts/s12/p10k1dg4k1p10r4p10k1r4k1p10lo4~x2/)|
 |![Child, The example sett](/setts/s12/p10k1dg4k1p10r4p10k1r4k1p10lo4~x2/sett.png)|
-

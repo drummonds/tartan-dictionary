@@ -2,10 +2,9 @@
 title: "Daks, Muted blue"
 date: 2023-03-18
 ---
-**Bands:** [RBBRBBBR](/stripes/rbbrbbbr/) · **Stripes:** [O DB DB O DB DB DB O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DB DB O DB DB DB O</span></span>
+In pattern [RBBBRBBR](/stripes/rbbbrbbr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

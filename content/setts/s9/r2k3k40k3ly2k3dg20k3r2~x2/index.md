@@ -2,10 +2,9 @@
 title: "Strachan"
 date: 2023-03-18
 ---
-**Bands:** [RKKKYKGKR](/stripes/rkkkykgkr/) · **Stripes:** [R K K K LY K DG K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K K K LY K DG K R</span></span>
+In pattern [RKGKYKKKR](/stripes/rkgkykkkr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

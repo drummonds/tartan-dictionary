@@ -2,10 +2,9 @@
 title: "Keilar (2013)"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYGWBGRGRYWB](/stripes/yryrygwbgrgrywb/) · **Stripes:** [LY R LY R LY G W DB G R G R LY W DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R LY R LY G W DB G R G R LY W DB</span></span>
+In pattern [BWYRGRGBWGYRYRY](/stripes/bwyrgrgbwgyryry/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10853/
 

@@ -2,10 +2,9 @@
 title: "Dundonald (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBYBYYRBYBYB](/stripes/ybybybybyyrbybyb/) · **Stripes:** [LY DB LY DB LY DB LY DB LY LY R DB LY DB LY DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB LY DB LY DB LY DB LY LY R DB LY DB LY DB</span></span>
+In pattern [BYBYBRYYBYBYBYBY](/stripes/bybybryybybybyby/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7118/
 

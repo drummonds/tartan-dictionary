@@ -2,10 +2,9 @@
 title: "Doohan (New South Wales), Andrew"
 date: 2023-03-18
 ---
-**Bands:** [BYRBW](/stripes/byrbw/) · **Stripes:** [T LO R T W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T LO R T W</span></span>
+In pattern [BYRBW](/stripes/byrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10759
 

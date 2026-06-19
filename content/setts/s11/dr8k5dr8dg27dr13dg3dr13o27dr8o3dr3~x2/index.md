@@ -2,10 +2,9 @@
 title: "McCall/MacCall"
 date: 2023-03-18
 ---
-**Bands:** [BKBGBGBRBRB](/stripes/bkbgbgbrbrb/) · **Stripes:** [DR K DR DG DR DG DR O DR O DR](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR K DR DG DR DG DR O DR O DR</span></span>
+In pattern [BKBGBGBRBRB](/stripes/bkbgbgbrbrb/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

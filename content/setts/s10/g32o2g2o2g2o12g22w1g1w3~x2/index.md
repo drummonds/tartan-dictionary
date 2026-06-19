@@ -2,10 +2,9 @@
 title: "Unidentified Plaid 11"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGWGW](/stripes/grgrgrgwgw/) · **Stripes:** [G O G O G O G W G W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G O G O G O G W G W</span></span>
+In pattern [GRGRGRGWGW](/stripes/grgrgrgwgw/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

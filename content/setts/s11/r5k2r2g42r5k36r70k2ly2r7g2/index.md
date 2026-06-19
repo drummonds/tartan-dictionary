@@ -2,10 +2,9 @@
 title: "MacPherson of Cluny"
 date: 2023-03-18
 ---
-**Bands:** [RKRGRKRKYRG](/stripes/rkrgrkrkyrg/) · **Stripes:** [R K R G R K R K LY R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K R G R K R K LY R G</span></span>
+In pattern [GRYKRKRGRKR](/stripes/grykrkrgrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2723
 

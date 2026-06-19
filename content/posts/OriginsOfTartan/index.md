@@ -1,7 +1,7 @@
 ---
 title: "The Origins of Tartan"
 date: 2026-06-07
-lastmod: 2026-06-09
+lastmod: 2026-06-19
 tags: ["tartan", "history", "celtic", "twill", "weaving", "Indo-European"]
 ---
 
@@ -153,6 +153,16 @@ structure into the colour**: the weave simplified to plain 2/2, while the sett g
 (The older taste never died — plenty of cloth is still woven as herringbone, and herringbone
 rules in tweed.)
 
+The same drift toward the simple twill shows up at the northern edge of the wool world. In the
+Norse North Atlantic the weaves "encountered varied through time, with most diversity in weaves
+found during Iceland's Viking Age … and rapidly declining so that the main weave types which
+dominate the assemblage in the early medieval period are the 2/2 twill and the tabby or plain
+weave."[^hayeur-smith] That initial exuberance of weaving styles — seen alike at Hallstatt, at
+Vindolanda and in the Norse settlements of Iceland and Greenland — gives way to simpler twills,
+and it is reasonable to suppose something similar happened in Scotland. The older, more elaborate
+structure was never wholly lost: the herringbone twill is kept alive to this day in the tweed of
+Harris.
+
 The colour evolved too. The earliest checks lean heavily on the **natural colours of the fleece**
 — black, white, grey, brown — because dyed colour was expensive; a thin precious line of woad
 blue or madder red was set against broad fields of free natural wool. Only later does the dense,
@@ -246,6 +256,20 @@ rather than a single thread count or a single name — is really a way of seeing
 one continuous text, in which a 16th-century bog scrap, a Wilsons pattern-book sett and a modern
 registered design can be recognised as moments in one evolving tradition.
 
+One popular notion is worth weighing here, because it is *half* true: the idea that **more
+stripes meant more importance** — that an elaborate, many-coloured sett was a badge of rank. As a
+rule it is a myth; there was no sumptuary code pinning stripe-counts to station. But it has a
+genuine root in **cost**. Every extra colour meant another dyestuff, another dip and another set
+of changes at the loom, and dyes — especially imported reds and the deepest blues — were dear. A
+broad, many-striped, many-coloured cloth was therefore simply *expensive*, and like any expensive
+thing it advertised the purse that bought it. The well-off could afford exuberance, and they wore
+it: across the eighteenth century the Highland gentry are painted in a riot of stripes, often in
+**several different tartans at once**. The c. 1739 portrait of **James Moray of Abercairny** by
+Jeremiah Davidson is the classic case — the laird stands in a single outfit that cheerfully
+combines distinct, complicated setts across plaid, jacket and hose, with no thought of matching
+them.[^moray] The discipline of "one clan, one tartan" came later; the eighteenth-century taste
+was for *more*.
+
 ## The honest position
 
 Set strictly, the fully-developed, multi-colour **symmetric sett** that the
@@ -322,6 +346,9 @@ specimen and works a sett from it. See also [**What is Tartan?**]({{< ref "Tarta
 [^gromer-trad]: K. Grömer, "Tradition, creativity and innovation — the development of textile
   expertise from the Bronze Age to the Hallstatt period", in *Textiles from Hallstatt* (2013).
   <https://www.academia.edu/11038057/>
+[^hayeur-smith]: M. Hayeur Smith, "Dress, Cloth, and the Farmer's Wife: Textiles from Ø172
+  Tatsipataa, Greenland, with Comparative Data from Iceland", *Journal of the North Atlantic*,
+  Special Volume 7 (2014), 64–81. <https://doi.org/10.3721/037.002.sp607>
 [^penn]: *Ancient Mummies of the Tarim Basin*, Expedition Magazine, Penn Museum.
   <https://www.penn.museum/sites/expedition/ancient-mummies-of-the-tarim-basin/>
 [^nature]: F. Zhang et al. (2021), "The genomic origins of the Bronze Age Tarim Basin mummies",
@@ -334,3 +361,7 @@ specimen and works a sett from it. See also [**What is Tartan?**]({{< ref "Tarta
   <https://www.dsl.ac.uk/entry/dost/tartane>
 [^affric]: *Scotland's oldest tartan discovered by Scottish Tartans Authority*, V&A Dundee.
   <https://www.vam.ac.uk/dundee/info/scotland-s-oldest-tartan-discovered-by-scottish-tartans-authority>
+[^moray]: *James Moray of Abercairny*, by Jeremiah Davidson, c. 1739 — the sitter wears
+  deliberately mismatched setts on plaid, jacket and hose, a fashion of the pre-proscription
+  Highland gentry. See the discussion in *Was Tartan Really Banned?*, National Trust for Scotland
+  (Culloden). <https://cullodenbattlefield.wordpress.com/2017/03/10/was-tartan-really-banned/>

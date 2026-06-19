@@ -2,10 +2,9 @@
 title: "Setting Sun, The (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBWRBWYBRBYRWBYW](/stripes/ybwrbwybrbyrwbyw/) · **Stripes:** [LO DO LB O DO LB LO DO O DO LO O LB DO LO LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO DO LB O DO LB LO DO O DO LO O LB DO LO LB</span></span>
+In pattern [WYBWRYBRBYWBRWBY](/stripes/wybwrybrbywbrwby/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3199/
 

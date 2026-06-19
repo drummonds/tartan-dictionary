@@ -2,10 +2,9 @@
 title: "Outlander #3"
 date: 2023-03-18
 ---
-**Bands:** [GBYB](/stripes/gbyb/) · **Stripes:** [Y N LO N](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="seq">Y N LO N</span></span>
+In pattern [BYBG](/stripes/bybg/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11115
 

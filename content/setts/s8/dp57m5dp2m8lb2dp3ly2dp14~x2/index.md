@@ -2,10 +2,9 @@
 title: "Cairngorms National Park"
 date: 2023-03-18
 ---
-**Bands:** [BRBRWBYB](/stripes/brbrwbyb/) · **Stripes:** [DP M DP M LB DP LY DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP M DP M LB DP LY DP</span></span>
+In pattern [BRBRWBYB](/stripes/brbrwbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11197
 

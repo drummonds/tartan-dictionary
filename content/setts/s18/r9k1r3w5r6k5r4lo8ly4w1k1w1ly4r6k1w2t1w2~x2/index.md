@@ -2,10 +2,9 @@
 title: "Jacobite Old Sett"
 date: 2023-03-18
 ---
-**Bands:** [RKRWRKRYYWKWYRKWBW](/stripes/rkrwrkryywkwyrkwbw/) · **Stripes:** [R K R W R K R LO LY W K W LY R K W T W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K R W R K R LO LY W K W LY R K W T W</span></span>
+In pattern [RKRWRKRYYWKWYRKWBW](/stripes/rkrwrkryywkwyrkwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1877
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1877](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1877)
 - Scottish Tartans Authority (ITI): 1603
 - Scottish Tartans World Register: 1603
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Jacobite Old Sett (Artefact)](/setts/s18/r11k4r6w8r16k13r4lo12ly6w2k3w2ly6r7k4w3t3w2~x2/)
-
 
 ## Thread count
 R/18 K2 R6 LN10 R12 K10 R8 DY16 Y8 LN2 K2 LN2 Y8 R12 K2 LN4 B2 LN/4

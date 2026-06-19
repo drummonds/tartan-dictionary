@@ -2,10 +2,9 @@
 title: "Euphoria (Universal)"
 date: 2023-03-18
 ---
-**Bands:** [YKWYKYWBWKYRW](/stripes/ykwykywbwkyrw/) · **Stripes:** [LR K W LR K LR W B W K LR R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR K W LR K LR W B W K LR R W</span></span>
+In pattern [WRYKWBWYKYWKY](/stripes/wrykwbwykywky/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7363/
 

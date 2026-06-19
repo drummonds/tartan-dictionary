@@ -2,10 +2,9 @@
 title: "Bannockbane Navy"
 date: 2023-03-18
 ---
-**Bands:** [RRRWRBRB](/stripes/rrrwrbrb/) · **Stripes:** [O M O W M DB M DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">O M O W M DB M DB</span></span>
+In pattern [BRBRWRRR](/stripes/brbrwrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5045
 

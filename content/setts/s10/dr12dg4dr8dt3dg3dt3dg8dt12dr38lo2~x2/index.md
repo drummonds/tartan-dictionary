@@ -2,10 +2,9 @@
 title: "Wanstall"
 date: 2023-03-18
 ---
-**Bands:** [YBBGBGBBGB](/stripes/ybbgbgbbgb/) · **Stripes:** [LO DR DT DG DT DG DT DR DG DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">LO DR DT DG DT DG DT DR DG DR</span></span>
+In pattern [BGBBGBGBBY](/stripes/bgbbgbgbby/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4490
 

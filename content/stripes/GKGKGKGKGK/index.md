@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkgkgkgkgk/
 ---
-GKGKGKGKGK
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GKGKGKGKGK
+
+{{< pat "GKGKGKGKGK" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### K DG K G K DG K DG K DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K G K DG K DG K DG</span></span>
 
 | Tartans |
 |---------------|
 | [Guildry of Stirling](/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/)|
 |![Guildry of Stirling example sett](/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/sett.png)|
-
-### K G K G K G K G K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G K G K G K G</span></span>
-
-| Tartans |
-|---------------|
 | [Guildry of Stirling](/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/)|
 |![Guildry of Stirling example sett](/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/sett.png)|
-

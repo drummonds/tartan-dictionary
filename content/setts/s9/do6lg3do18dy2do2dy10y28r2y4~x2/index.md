@@ -2,10 +2,9 @@
 title: "Scottish Crofting Foundation"
 date: 2023-03-18
 ---
-**Bands:** [GRGGBGBYB](/stripes/grggbgbyb/) · **Stripes:** [Y R Y DY DO DY DO LG DO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#412714"></span><span class="seq">Y R Y DY DO DY DO LG DO</span></span>
+In pattern [BYBGBGGRG](/stripes/bybgbggrg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3712
 

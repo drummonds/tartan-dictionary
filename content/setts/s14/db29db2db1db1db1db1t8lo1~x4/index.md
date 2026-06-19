@@ -2,10 +2,9 @@
 title: "Marist School, The Corporate Tartan Tartan Number: 2376. Earliest known date: 1996 Designed for the 50th anniversary of this Catholic school in Sunninghill, Berkshire and to celebrate the appointment of the new Head Mistress, Mrs Krysia Butwilowska. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBYBBBBBBB](/stripes/bbbbbbybbbbbbb/) · **Stripes:** [DB DB DB DB DB T LO T DB DB DB DB DB DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DB DB DB DB T LO T DB DB DB DB DB DB</span></span>
+In pattern [BBBBBBBYBBBBBB](/stripes/bbbbbbbybbbbbb/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2376
 

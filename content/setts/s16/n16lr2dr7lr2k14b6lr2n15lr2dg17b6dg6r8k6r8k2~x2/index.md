@@ -2,10 +2,9 @@
 title: "Huntly Old"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGBGYBYBKYBYB](/stripes/krkrgbgybybkybyb/) · **Stripes:** [K R K R DG B DG LR N LR B K LR DR LR N](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="seq">K R K R DG B DG LR N LR B K LR DR LR N</span></span>
+In pattern [BYBYKBYBYGBGRKRK](/stripes/bybykbybygbgrkrk/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Huntly Old](/setts/s16/n16lr2dr7lr2k14b6lr2n15lr2dg17b6dg6r8k6r8k2/)
-
 
 ## Thread count
 N/32 Na4 DRa14 Na4 K28 B12 Na4 N30 Na4 DG34 B12 DG12 DR16 K12 DR16 K/4

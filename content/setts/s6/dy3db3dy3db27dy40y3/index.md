@@ -2,10 +2,9 @@
 title: "Keeper of the Quaich"
 date: 2023-03-18
 ---
-**Bands:** [GGBGBG](/stripes/ggbgbg/) · **Stripes:** [Y DY DB DY DB DY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">Y DY DB DY DB DY</span></span>
+In pattern [GBGBGG](/stripes/gbgbgg/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

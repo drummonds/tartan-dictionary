@@ -2,10 +2,9 @@
 title: "McCarthy"
 date: 2023-03-18
 ---
-**Bands:** [BGBBGBGBBBGBB](/stripes/bgbbgbgbbbgbb/) · **Stripes:** [DT G DT DP G DT G DT DP DT G DT DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DT G DT DP G DT G DT DP DT G DT DP</span></span>
+In pattern [BBGBBBGBGBBGB](/stripes/bbgbbbgbgbbgb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2873
 

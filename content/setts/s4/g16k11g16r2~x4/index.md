@@ -2,10 +2,9 @@
 title: "Kincaid of Kincaid"
 date: 2023-03-18
 ---
-**Bands:** [RGKG](/stripes/rgkg/) · **Stripes:** [R G K G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K G</span></span>
+In pattern [GKGR](/stripes/gkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1978
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1978](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1978)
 - Scottish Tartans Authority (ITI): 1106
 - Scottish Tartans World Register: 1106
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's No.094](/setts/s4/g4k5g4r2~x2/)
-
 
 ## Thread count
 G/64 K44 G64 DR/8

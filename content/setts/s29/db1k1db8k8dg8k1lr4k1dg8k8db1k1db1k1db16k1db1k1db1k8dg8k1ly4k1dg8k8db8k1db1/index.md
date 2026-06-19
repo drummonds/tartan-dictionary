@@ -2,10 +2,9 @@
 title: "Campbell of Argyll"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKYKGKBKBKBKBKBKGKYKGKBKB](/stripes/bkbkgkykgkbkbkbkbkbkgkykgkbkb/) · **Stripes:** [DB K DB K DG K LR K DG K DB K DB K DB K DB K DB K DG K LY K DG K DB K DB](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG K LR K DG K DB K DB K DB K DB K DB K DG K LY K DG K DB K DB</span></span>
+In pattern [BKBKGKYKGKBKBKBKBKBKGKYKGKBKB](/stripes/bkbkgkykgkbkbkbkbkbkgkykgkbkb/).
 
-
-This was sourced from weddslist.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell of Argyll](/setts/s29/db1k1db8k8dg8k1lr2k1dg8k8db1k1db1k1db8k1db1k1db1k8dg8k1ly2k1dg8k8db8k1db1~x2/)
-
 
 ## Thread count
 DB/1 K1 DB8 K8 DG8 K1 N4 K1 DG8 K8 DB1 K1 DB1 K1 DB16 K1 DB1 K1 DB1 K8 DG8 K1 LG4 K1 DG8 K8 DB8 K1 DB/1

@@ -2,10 +2,9 @@
 title: "British Energy"
 date: 2023-03-18
 ---
-**Bands:** [YBYBKB](/stripes/ybybkb/) · **Stripes:** [LY P LY P K B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY P LY P K B</span></span>
+In pattern [BKBYBY](/stripes/bkbyby/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

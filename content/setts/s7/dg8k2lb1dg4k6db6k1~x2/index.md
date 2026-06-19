@@ -2,10 +2,9 @@
 title: "MacCallum"
 date: 2023-03-18
 ---
-**Bands:** [KBKGWKG](/stripes/kbkgwkg/) · **Stripes:** [K DB K DG LB K DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DB K DG LB K DG</span></span>
+In pattern [GKWGKBK](/stripes/gkwgkbk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

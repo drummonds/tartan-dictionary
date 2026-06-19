@@ -2,10 +2,9 @@
 title: "Compaq"
 date: 2023-03-18
 ---
-**Bands:** [YYYYRYRYRYRYYYYY](/stripes/yyyyryryryryyyyy/) · **Stripes:** [LO LY LO LY R LY R LY R LY R LY LO LY LO LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LO LY LO LY R LY R LY R LY R LY LO LY LO LY</span></span>
+In pattern [YYYYRYRYRYRYYYYY](/stripes/yyyyryryryryyyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=726
 

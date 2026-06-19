@@ -2,10 +2,9 @@
 title: "Sutherland of Duffus (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RWYKYKYYYY](/stripes/rwykykyyyy/) · **Stripes:** [R LB LO K LO K LO LY LO LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LB LO K LO K LO LY LO LY</span></span>
+In pattern [RWYKYKYYYY](/stripes/rwykykyyyy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3232/
 

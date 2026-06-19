@@ -2,10 +2,9 @@
 title: "MacAlister of Glenbarr Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGGBGGGBGBG](/stripes/ggggggbgggbgbg/) · **Stripes:** [G DY G DY G DY DB DY G DY DB DY DB DY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">G DY G DY G DY DB DY G DY DB DY DB DY</span></span>
+In pattern [GBGBGGGBGGGGGG](/stripes/gbgbgggbgggggg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2270
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2270](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2270)
 - Scottish Tartans Authority (ITI): 910
 - Scottish Tartans World Register: 910
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacAlister of Glenbarr Clan Tartan Tartan Number: 910. Earliest known date: pre 1984 This version of the MacAlister of Glenbarr tartan is the same as the MacGillivray hunting tartan. This sample was taken from a piece woven by Lochcarron Weavers around 1984. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g4dy2g2dy2g2dy3db1dy1g4dy1db1dy12db2dy3~x2/)
-
 
 ## Thread count
 G/40 T6 G12 T12 G12 T16 DB4 T4 G40 T4 DB4 T92 DB6 T/16

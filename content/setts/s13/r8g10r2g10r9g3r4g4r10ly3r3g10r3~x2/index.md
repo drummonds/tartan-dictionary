@@ -2,10 +2,9 @@
 title: "MacRurie/MacRory"
 date: 2023-03-18
 ---
-**Bands:** [RGRYRGRGRGRGR](/stripes/rgryrgrgrgrgr/) · **Stripes:** [R G R LY R G R G R G R G R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R LY R G R G R G R G R</span></span>
+In pattern [RGRGRGRGRYRGR](/stripes/rgrgrgrgryrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2762
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2762](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2762)
 - Scottish Tartans Authority (ITI): 1498
 - Scottish Tartans World Register: 1498
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacRurie, MacRory](/setts/s13/r10g12r3g12r12g4r5g5r12ly4r5g12r4~x2/)
-
 
 ## Thread count
 R/16 G20 R4 G20 R18 G6 R8 G8 R20 Y6 R6 G20 R/6

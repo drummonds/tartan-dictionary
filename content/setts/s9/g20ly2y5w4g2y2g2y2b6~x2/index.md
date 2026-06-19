@@ -2,10 +2,9 @@
 title: "Boucherville (Tartan de..)"
 date: 2023-03-18
 ---
-**Bands:** [GYGWGGGGB](/stripes/gygwggggb/) · **Stripes:** [G LY Y W G Y G Y B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G LY Y W G Y G Y B</span></span>
+In pattern [BGGGGWGYG](/stripes/bggggwgyg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

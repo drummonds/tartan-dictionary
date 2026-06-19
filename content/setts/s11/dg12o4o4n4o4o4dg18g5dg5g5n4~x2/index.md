@@ -2,10 +2,9 @@
 title: "Ralston Personal Tartan Tartan Number: 6109. Earliest known date: 2003 The tartan commemorates the 60th birthday of Michael R. Ralstin of Scioto Co Ohio and provides a tartan design for the name Ralston and all its spelling variations. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRRBRRGGGGB](/stripes/grrbrrggggb/) · **Stripes:** [DG O O N O O DG G DG G N](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="seq">DG O O N O O DG G DG G N</span></span>
+In pattern [BGGGGRRBRRG](/stripes/bggggrrbrrg/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6109
 

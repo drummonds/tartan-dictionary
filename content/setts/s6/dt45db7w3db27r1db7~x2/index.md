@@ -2,19 +2,11 @@
 title: "U.S. Navy/Edzell (Military)"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBB](/stripes/brbwbb/) · **Stripes:** [DB R DB W DB DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">DB R DB W DB DT</span></span>
+In pattern [BBWBRB](/stripes/bbwbrb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/80/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [US Navy Edzell](/setts/s6/dt104db16w8db66r3db16/)
-
 
 ## Thread count
 DN/90 DB14 LN6 DB54 R2 DB/14

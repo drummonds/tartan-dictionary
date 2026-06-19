@@ -2,10 +2,9 @@
 title: "Glennie, The Rhythms of Evelyn"
 date: 2023-03-18
 ---
-**Bands:** [KBKRBKYKRKR](/stripes/kbkrbkykrkr/) · **Stripes:** [K DB K R DB K LY K R K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB K R DB K LY K R K R</span></span>
+In pattern [KBKRBKYKRKR](/stripes/kbkrbkykrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432
 

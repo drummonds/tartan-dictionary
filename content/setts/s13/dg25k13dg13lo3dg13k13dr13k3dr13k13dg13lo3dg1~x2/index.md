@@ -2,10 +2,9 @@
 title: "Burns Heritage"
 date: 2023-03-18
 ---
-**Bands:** [GKGYGKBKBKGYG](/stripes/gkgygkbkbkgyg/) · **Stripes:** [DG K DG LO DG K DR K DR K DG LO DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K DG LO DG K DR K DR K DG LO DG</span></span>
+In pattern [GKGYGKBKBKGYG](/stripes/gkgygkbkbkgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=450
 

@@ -2,21 +2,11 @@
 title: "Falkirk Tartan"
 date: 2023-03-18
 ---
-**Bands:** [KW](/stripes/kw/) · **Stripes:** [K W](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W</span></span>
+In pattern [KW](/stripes/kw/).
 
-
-This was sourced from research.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from research.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.nms.ac.uk/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Shepherd](/setts/s2/k1w1~x15/)
-- [Shepherd Check](/setts/s2/k1w1~x28/)
-- [Shepherd Check (Universal)](/setts/s2/k1w1~x6/)
-
 
 ## Thread count
 K/24 W/24

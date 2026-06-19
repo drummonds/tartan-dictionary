@@ -2,10 +2,9 @@
 title: "Unidentified Blanket"
 date: 2023-03-18
 ---
-**Bands:** [RWRGWRKW](/stripes/rwrgwrkw/) · **Stripes:** [R W R DG W R K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R DG W R K W</span></span>
+In pattern [RWRGWRKW](/stripes/rwrgwrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4280
 
@@ -21,14 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4280](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4280)
 - Scottish Tartans World Register: 1695
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's Blanket Pattern](/setts/s8/w50k1r14w1dg14r14w1r2~x4/)
-- [Wilsons' Blanket Pattern (Artefact)](/setts/s8/w80k2r19w2dg19r22w2r4~x2/)
-
 
 ## Thread count
 LN/100 K2 R24 LN2 G24 R26 LN2 R/4

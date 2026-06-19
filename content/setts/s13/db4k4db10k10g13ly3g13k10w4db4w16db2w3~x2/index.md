@@ -2,19 +2,11 @@
 title: "Gordon Dress Tartan Tartan Number: 294. Earliest known date: pre 2003 No source given See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGKWBWBW](/stripes/bkbkgygkwbwbw/) · **Stripes:** [DB K DB K G LY G K W DB W DB W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K G LY G K W DB W DB W</span></span>
+In pattern [BKBKGYGKWBWBW](/stripes/bkbkgygkwbwbw/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=294
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gordon Dress MINI design Tartan Tartan Number: 2944. Earliest known date: Dupion Silk. Generated for display purposes only. Reduced copy of the 294 Gordon dress. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db4k6db10k20g4ly3g4k20w4db4w20db2w3/)
-
 
 ## Thread count
 DB/8 K8 DB20 K20 G26 Y6 G26 K20 LN8 DB8 LN32 DB4 LN/6

@@ -2,10 +2,9 @@
 title: "Sandilands-Watson (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBBBKGGGGGGGBBBKB](/stripes/kbbbkgggggggbbbkb/) · **Stripes:** [K DB DP DB K DG Y DG Y DG Y DG DB DP DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB DP DB K DG Y DG Y DG Y DG DB DP DB K DB</span></span>
+In pattern [BKBBBGGGGGGGKBBBK](/stripes/bkbbbgggggggkbbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11551
 

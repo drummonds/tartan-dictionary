@@ -2,10 +2,9 @@
 title: "British European"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWR](/stripes/rbrbwr/) · **Stripes:** [R DB R DB W R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB W R</span></span>
+In pattern [RBRBWR](/stripes/rbrbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=363
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [363](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=363)
 - Scottish Tartans Authority (ITI): 6192
 - Scottish Tartans World Register: 2877
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [British European (Corporate)](/setts/s6/r12db2r12db17w2r2~x4/)
-
 
 ## Thread count
 DR/24 DB4 DR24 DB34 W4 DR/4

@@ -2,10 +2,9 @@
 title: "Cypress"
 date: 2023-03-18
 ---
-**Bands:** [RRRBRB](/stripes/rrrbrb/) · **Stripes:** [O O O DO M DO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#412714"></span><span class="seq">O O O DO M DO</span></span>
+In pattern [BRBRRR](/stripes/brbrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=861
 

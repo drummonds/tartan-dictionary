@@ -2,10 +2,9 @@
 title: "Tenon Tours"
 date: 2023-03-18
 ---
-**Bands:** [YRYYYWYWYKWYWYWYRYG](/stripes/yryyywywykwywywyryg/) · **Stripes:** [LO R LO LO LO W LO W LO K W LO W LO W LO R LO G](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO R LO LO LO W LO W LO K W LO W LO W LO R LO G</span></span>
+In pattern [GYRYWYWYWKYWYWYYYRY](/stripes/gyrywywywkywywyyyry/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10990/
 

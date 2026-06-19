@@ -2,10 +2,9 @@
 title: "Loch Lomond"
 date: 2023-03-18
 ---
-**Bands:** [YRWG](/stripes/yrwg/) · **Stripes:** [LY R W G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R W G</span></span>
+In pattern [GWRY](/stripes/gwry/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Loch Lomond #3](/setts/s4/g22w14r7ly2~x2/)
-
 
 ## Thread count
 G/44 LN28 R14 Y/2

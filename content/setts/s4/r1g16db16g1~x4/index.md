@@ -2,10 +2,9 @@
 title: "Barclay Htg (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGBG](/stripes/rgbg/) · **Stripes:** [R G DB G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DB G</span></span>
+In pattern [GBGR](/stripes/gbgr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/705/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/705/
 This cloth is also recorded under:
 
 - Barclay Htg
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barclay](/setts/s4/r1g16db16g1~x2/)
-
 
 ## Thread count
 R/4 G64 DB64 G/4

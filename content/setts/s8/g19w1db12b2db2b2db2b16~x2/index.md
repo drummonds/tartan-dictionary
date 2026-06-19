@@ -2,10 +2,9 @@
 title: "Unnamed, No 52"
 date: 2023-03-18
 ---
-**Bands:** [GWBBBBBB](/stripes/gwbbbbbb/) · **Stripes:** [G W DB B DB B DB B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G W DB B DB B DB B</span></span>
+In pattern [BBBBBBWG](/stripes/bbbbbbwg/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

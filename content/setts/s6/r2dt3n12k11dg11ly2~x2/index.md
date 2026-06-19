@@ -2,10 +2,9 @@
 title: "Huntly Gordon"
 date: 2023-03-18
 ---
-**Bands:** [RBBKGY](/stripes/rbbkgy/) · **Stripes:** [R DT N K DG LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DT N K DG LY</span></span>
+In pattern [RBBKGY](/stripes/rbbkgy/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

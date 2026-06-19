@@ -2,10 +2,9 @@
 title: "Keeling Dress"
 date: 2023-03-18
 ---
-**Bands:** [KRKGYWY](/stripes/krkgywy/) · **Stripes:** [K O K G LY W LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K O K G LY W LY</span></span>
+In pattern [KRKGYWY](/stripes/krkgywy/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10593
 

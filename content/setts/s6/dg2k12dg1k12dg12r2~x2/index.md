@@ -2,10 +2,9 @@
 title: "Gunn (Logan)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKG](/stripes/rgkgkg/) · **Stripes:** [R DG K DG K DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG K DG K DG</span></span>
+In pattern [GKGKGR](/stripes/gkgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1561
 
@@ -15,14 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1561](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1561)
 - Scottish Tartans World Register: 795
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gunn VS](/setts/s6/dg1k8dg1k8dg15r1~x2/)
-- [Gunn VS](/setts/s6/dg1k8dg1k8dg15r1~x4/)
-
 
 ## Thread count
 R/4 G24 K24 G2 K24 G/4

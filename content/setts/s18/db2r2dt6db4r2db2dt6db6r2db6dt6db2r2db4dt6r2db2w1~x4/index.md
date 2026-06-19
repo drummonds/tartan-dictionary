@@ -2,10 +2,9 @@
 title: "Scottish North American Business Council"
 date: 2023-03-18
 ---
-**Bands:** [BRBBRBBBRBBBRBBRBW](/stripes/brbbrbbbrbbbrbbrbw/) · **Stripes:** [DB R DT DB R DB DT DB R DB DT DB R DB DT R DB W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DT DB R DB DT DB R DB DT DB R DB DT R DB W</span></span>
+In pattern [BRBBRBBBRBBBRBBRBW](/stripes/brbbrbbbrbbbrbbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3735
 

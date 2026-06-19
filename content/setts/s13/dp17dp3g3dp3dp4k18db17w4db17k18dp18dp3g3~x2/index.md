@@ -2,10 +2,9 @@
 title: "Heart of Scotland (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GBBKBWBKBBGBB](/stripes/gbbkbwbkbbgbb/) · **Stripes:** [G DP DP K DB W DB K DP DP G DP DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP DP K DB W DB K DP DP G DP DP</span></span>
+In pattern [BBGBBKBWBKBBG](/stripes/bbgbbkbwbkbbg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3105/
 

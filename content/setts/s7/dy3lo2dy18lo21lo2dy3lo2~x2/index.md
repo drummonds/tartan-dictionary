@@ -2,10 +2,9 @@
 title: "Prince David #1 (Royal)"
 date: 2023-03-18
 ---
-**Bands:** [YGYYGYG](/stripes/ygyygyg/) · **Stripes:** [LO DY LO LO DY LO DY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO DY LO LO DY LO DY</span></span>
+In pattern [GYGYYGY](/stripes/gygyygy/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/826/
 

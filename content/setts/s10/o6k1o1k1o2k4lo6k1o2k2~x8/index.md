@@ -2,10 +2,9 @@
 title: "Tyndrum"
 date: 2023-03-18
 ---
-**Bands:** [KRKYKRKRKR](/stripes/krkykrkrkr/) · **Stripes:** [K O K LO K O K O K O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K O K LO K O K O K O</span></span>
+In pattern [KRKYKRKRKR](/stripes/krkykrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4173
 

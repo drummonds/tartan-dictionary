@@ -2,10 +2,9 @@
 title: "Harmony 8"
 date: 2023-03-18
 ---
-**Bands:** [GGRGG](/stripes/ggrgg/) · **Stripes:** [DY Y O DY Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DY Y O DY Y</span></span>
+In pattern [GGRGG](/stripes/ggrgg/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1612
 

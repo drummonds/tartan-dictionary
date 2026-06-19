@@ -2,10 +2,9 @@
 title: "Saint Margaret of Scotland Youth Group"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYKBW](/stripes/bbbbykbw/) · **Stripes:** [P DB P DB LG K DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">P DB P DB LG K DB W</span></span>
+In pattern [BBBBYKBW](/stripes/bbbbykbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10441
 

@@ -2,10 +2,9 @@
 title: "Isaia (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RRRGYGB](/stripes/rrrgygb/) · **Stripes:** [O O O DY LR DY N](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">O O O DY LR DY N</span></span>
+In pattern [BGYGRRR](/stripes/bgygrrr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10330/
 

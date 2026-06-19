@@ -2,10 +2,9 @@
 title: "Daks (Chino Check)"
 date: 2023-03-18
 ---
-**Bands:** [KKKKKKKBGKGK](/stripes/kkkkkkkbgkgk/) · **Stripes:** [K K K K K K K DB Y K Y K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">K K K K K K K DB Y K Y K</span></span>
+In pattern [KGKGBKKKKKKK](/stripes/kgkgbkkkkkkk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=868
 

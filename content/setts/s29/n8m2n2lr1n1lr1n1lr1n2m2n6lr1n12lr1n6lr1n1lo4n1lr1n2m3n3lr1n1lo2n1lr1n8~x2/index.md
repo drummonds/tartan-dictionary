@@ -2,10 +2,9 @@
 title: "Delmarva (District)"
 date: 2023-03-18
 ---
-**Bands:** [BRBYBYBYBRBYBYBYBYBYBRBYBYBYB](/stripes/brbybybybrbybybybybybrbybybyb/) · **Stripes:** [N M N LR N LR N LR N M N LR N LR N LR N LO N LR N M N LR N LO N LR N](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="seq">N M N LR N LR N LR N M N LR N LR N LR N LO N LR N M N LR N LO N LR N</span></span>
+In pattern [BRBYBYBYBRBYBYBYBYBYBRBYBYBYB](/stripes/brbybybybrbybybybybybrbybybyb/).
 
-
-This was sourced from tartans-authority.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10158/
 

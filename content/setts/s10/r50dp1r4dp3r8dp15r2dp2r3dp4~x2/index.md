@@ -2,10 +2,9 @@
 title: "Masai Shuka 06 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRB](/stripes/rbrbrbrbrb/) · **Stripes:** [R DP R DP R DP R DP R DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP R DP R DP R DP R DP</span></span>
+In pattern [BRBRBRBRBR](/stripes/brbrbrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7197/
 

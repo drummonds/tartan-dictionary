@@ -2,10 +2,9 @@
 title: "Sutherland"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKBKBKGYG](/stripes/rbrbkbkbkgyg/) · **Stripes:** [R DB R DB K DB K DB K DG LR DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB R DB K DB K DB K DG LR DG</span></span>
+In pattern [GYGKBKBKBRBR](/stripes/gygkbkbkbrbr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sutherland](/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/)
-
 
 ## Thread count
 DG/6 N2 DG24 K12 DB3 K2 DB2 K2 DB12 DR1 DB1 DR/3

@@ -2,10 +2,9 @@
 title: "Help for Heroes (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBBBBBBBBBBBBBWB](/stripes/rbbbbbbbbbbbbbwb/) · **Stripes:** [R T DT DB DT DB DT DB DT DB DT DB DT DB LB DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">R T DT DB DT DB DT DB DT DB DT DB DT DB LB DB</span></span>
+In pattern [BWBBBBBBBBBBBBBR](/stripes/bwbbbbbbbbbbbbbr/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10561/
 

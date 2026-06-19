@@ -2,10 +2,9 @@
 title: "Fitzgibbon (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GYGRGGGGG](/stripes/gygrggggg/) · **Stripes:** [DG LO G R Y DG Y DG G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG LO G R Y DG Y DG G</span></span>
+In pattern [GGGGGRGYG](/stripes/gggggrgyg/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6919/
 

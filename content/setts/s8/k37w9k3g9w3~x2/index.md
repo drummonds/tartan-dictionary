@@ -2,10 +2,9 @@
 title: "Glen Coe #2"
 date: 2023-03-18
 ---
-**Bands:** [KWKGWGKW](/stripes/kwkgwgkw/) · **Stripes:** [K W K G W G K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W K G W G K W</span></span>
+In pattern [KWKGWGKW](/stripes/kwkgwgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1372
 

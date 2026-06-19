@@ -2,10 +2,9 @@
 title: "Bodog"
 date: 2023-03-18
 ---
-**Bands:** [KRK](/stripes/krk/) · **Stripes:** [K R K](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K</span></span>
+In pattern [KRK](/stripes/krk/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194
 
@@ -22,13 +21,6 @@ This cloth appears in 3 source records; the oldest owns this page.
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10194](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Red Watch](/setts/s3/k10r3k1~x4/)
-
 
 ## Thread count
 K/160 DR2 K/120

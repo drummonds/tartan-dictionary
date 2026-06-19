@@ -2,10 +2,9 @@
 title: "Handley (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGKGKGKWG](/stripes/ykgkgkgkgkwg/) · **Stripes:** [LY K DG K G K DG K G K W DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K DG K G K DG K G K W DG</span></span>
+In pattern [GWKGKGKGKGKY](/stripes/gwkgkgkgkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1583
 

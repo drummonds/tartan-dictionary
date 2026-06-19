@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/kwkwkykykykgkwywkgkykykykwkwk/
 ---
-KWKWKYKYKYKGKWYWKGKYKYKYKWKWK
-
-It is a 29 band tartan.
+It is a 29 stripe tartan.
 
 
 
 ## Colour Sequence
-KWKWKYKYKYKGKWYWKGKYKYKYKWKWK
+
+{{< pat "KWKWKYKYKYKGKWYWKGKYKYKYKWKWK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K W K W K LY K LY K LY K G K W LY W K G K LY K LY K LY K W K W K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K W K LY K LY K LY K G K W LY W K G K LY K LY K LY K W K W K</span></span>
 
 | Tartans |
 |---------------|
 | [Vaughan (Welsh Name) Welsh Name Tartan Tartan Number: 6168. Earliest known date: pre 2004 The tartan for this Welsh surname and its variations, Baughan, Bawn, Fychan, Vain, Vaughan, Vaughn, Vauhan, Vayne, Vychan, Vachan, Vaghann, Young, Younger, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s29/k4w6k23w2k3ly17k2ly4k2ly17k3g17k20w6ly4w6k20g17k3ly17k2ly4k2ly17k3w2k23w6k4/)|
 |![Vaughan (Welsh Name) Welsh Name Tartan Tartan Number: 6168. Earliest known date: pre 2004 The tartan for this Welsh surname and its variations, Baughan, Bawn, Fychan, Vain, Vaughan, Vaughn, Vauhan, Vayne, Vychan, Vachan, Vaghann, Young, Younger, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s29/k4w6k23w2k3ly17k2ly4k2ly17k3g17k20w6ly4w6k20g17k3ly17k2ly4k2ly17k3w2k23w6k4/sett.png)|
-

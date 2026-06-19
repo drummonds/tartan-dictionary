@@ -2,10 +2,9 @@
 title: "Unidentified NW Highlands"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRG](/stripes/rgrgrg/) · **Stripes:** [R DG R DG R DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG R DG</span></span>
+In pattern [GRGRGR](/stripes/grgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4335
 
@@ -21,15 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4335](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4335)
 - Scottish Tartans World Register: 900
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Erskine](/setts/s6/dg6r1dg24r28dg1r4~x2/)
-- [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12/)
-- [MacQuarrie 7](/setts/s6/r16dg1r1dg1r4dg12~x2/)
-
 
 ## Thread count
 R/4 G4 R32 G30 R4 G/4

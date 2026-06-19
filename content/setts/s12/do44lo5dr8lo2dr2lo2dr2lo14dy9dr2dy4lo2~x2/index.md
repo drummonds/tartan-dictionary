@@ -2,10 +2,9 @@
 title: "Waverly Check Corporate Tartan Tartan Number: 1747. Earliest known date: 1984 Edinburgh Woollen Mills house tartan for staff uniforms. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YGBGYBYBYBYB](/stripes/ygbgybybybyb/) · **Stripes:** [LO DY DR DY LO DR LO DR LO DR LO DO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DY DR DY LO DR LO DR LO DR LO DO</span></span>
+In pattern [BYBYBYBYGBGY](/stripes/bybybybygbgy/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1747
 

@@ -2,10 +2,9 @@
 title: "Dutch, dress"
 date: 2023-03-18
 ---
-**Bands:** [KYKBWR](/stripes/kykbwr/) · **Stripes:** [K LO K T W R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LO K T W R</span></span>
+In pattern [KYKBWR](/stripes/kykbwr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Bristow Helicopters"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKWBKRKBWKB](/stripes/kbkbkwbkrkbwkb/) · **Stripes:** [K DB K DB K W DB K R K DB W K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K W DB K R K DB W K DB</span></span>
+In pattern [BKWBKRKBWKBKBK](/stripes/bkwbkrkbwkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=356
 

@@ -4,23 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/kbkgyk/
 ---
-KBKGYK
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/k5lr2dg18k17n16k3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-KBKGYK
+
+{{< pat "KBKGYK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K LR DG K N K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">K LR DG K N K</span></span>
 
 | Tartans |
 |---------------|
@@ -28,4 +23,3 @@ KBKGYK
 |![Melville example sett](/setts/s6/k5lr2dg18k17n16k3~x2/sett.png)|
 | [Melville](/setts/s6/k5lr2dg18k17n16k3/)|
 |![Melville example sett](/setts/s6/k5lr2dg18k17n16k3/sett.png)|
-

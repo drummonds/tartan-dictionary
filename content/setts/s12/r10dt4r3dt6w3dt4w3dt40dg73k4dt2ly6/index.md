@@ -2,10 +2,9 @@
 title: "Johnston, Diana Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWBWBGKBY](/stripes/rbrbwbwbgkby/) · **Stripes:** [R DT R DT W DT W DT DG K DT LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DT R DT W DT W DT DG K DT LY</span></span>
+In pattern [RBRBWBWBGKBY](/stripes/rbrbwbwbgkby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11203
 

@@ -2,10 +2,9 @@
 title: "Dowling"
 date: 2023-03-18
 ---
-**Bands:** [WBKBGKWKWKYBW](/stripes/wbkbgkwkwkybw/) · **Stripes:** [LB DO K DO G K LB K LB K LY DB LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DO K DO G K LB K LB K LY DB LB</span></span>
+In pattern [WBKBGKWKWKYBW](/stripes/wbkbgkwkwkybw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=967
 

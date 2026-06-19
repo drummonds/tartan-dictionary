@@ -2,10 +2,9 @@
 title: "Wright, Anne (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRBGBB](/stripes/yrbgbb/) · **Stripes:** [LO R DB G T DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">LO R DB G T DB</span></span>
+In pattern [BBGBRY](/stripes/bbgbry/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11188
 

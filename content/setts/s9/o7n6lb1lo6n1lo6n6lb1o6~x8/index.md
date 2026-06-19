@@ -2,10 +2,9 @@
 title: "Outlander #2"
 date: 2023-03-18
 ---
-**Bands:** [RBWYBYBWR](/stripes/rbwybybwr/) · **Stripes:** [O N LB LO N LO N LB O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O N LB LO N LO N LB O</span></span>
+In pattern [RBWYBYBWR](/stripes/rbwybybwr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11114/
 

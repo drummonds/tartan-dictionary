@@ -2,10 +2,9 @@
 title: "College of New Caledonia (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWGGYB](/stripes/rwggyb/) · **Stripes:** [R W G G LY B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R W G G LY B</span></span>
+In pattern [BYGGWR](/stripes/byggwr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10310/
 

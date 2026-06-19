@@ -2,10 +2,9 @@
 title: "RAF Kinloss"
 date: 2023-03-18
 ---
-**Bands:** [YBGBBBBBKBBRBRBBKBBBBBBB](/stripes/ybgbbbbbkbbrbrbbkbbbbbbb/) · **Stripes:** [LY DT DG DT N DT N DT K N DT M DT M DT N K DT N DT N DT DB DT](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">LY DT DG DT N DT N DT K N DT M DT M DT N K DT N DT N DT DB DT</span></span>
+In pattern [BBBBBBBKBBRBRBBKBBBBBGBY](/stripes/bbbbbbbkbbrbrbbkbbbbbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10120
 

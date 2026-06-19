@@ -2,10 +2,9 @@
 title: "Bartlett from Winnetka, Illinois"
 date: 2023-03-18
 ---
-**Bands:** [KGYGKGKGBYBGR](/stripes/kgygkgkgbybgr/) · **Stripes:** [K G LO G K G K G DB LO DB G R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G LO G K G K G DB LO DB G R</span></span>
+In pattern [KGYGKGKGBYBGR](/stripes/kgygkgkgbybgr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=224
 

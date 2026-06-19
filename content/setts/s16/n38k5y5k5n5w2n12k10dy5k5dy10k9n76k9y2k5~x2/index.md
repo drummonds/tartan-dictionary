@@ -2,10 +2,9 @@
 title: "Guildford Town Centre (British Columbia)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKGKGKBWBKGKB](/stripes/kgkbkgkgkbwbkgkb/) · **Stripes:** [K Y K N K DY K DY K N W N K Y K N](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K Y K N K DY K DY K N W N K Y K N</span></span>
+In pattern [BKGKBWBKGKGKBKGK](/stripes/bkgkbwbkgkgkbkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10785
 

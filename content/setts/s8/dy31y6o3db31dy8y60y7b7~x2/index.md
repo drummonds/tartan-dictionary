@@ -2,10 +2,9 @@
 title: "Little-Dowse Wedding"
 date: 2023-03-18
 ---
-**Bands:** [GGRBGGGB](/stripes/ggrbgggb/) · **Stripes:** [DY Y O DB DY Y Y B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DY Y O DB DY Y Y B</span></span>
+In pattern [BGGGBRGG](/stripes/bgggbrgg/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11075/
 

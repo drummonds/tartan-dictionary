@@ -2,10 +2,9 @@
 title: "MacArthur (Variant)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKY](/stripes/rgkgky/) · **Stripes:** [R G K G K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G K G K LY</span></span>
+In pattern [RGKGKY](/stripes/rgkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2279
 
@@ -901,13 +900,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Forbes](/setts/s6/r1g16k8g4k4ly1~x2/)
-
 
 ## Thread count
 R/6 G60 K24 G12 K32 Y/4

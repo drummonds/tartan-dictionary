@@ -2,20 +2,11 @@
 title: "Hopkins (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKW](/stripes/rkrkw/) · **Stripes:** [R K R K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K R K W</span></span>
+In pattern [RKRKW](/stripes/rkrkw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8392/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGregor, Black (Personal)](/setts/s5/r41k19r7k9w3~x2/)
-- [Masai Shuka 15 (Artefact)](/setts/s5/r20k2r2k15w1~x2/)
-
 
 ## Thread count
 R/72 K36 R8 K14 LN/4

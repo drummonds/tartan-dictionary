@@ -2,10 +2,9 @@
 title: "Law Society of Scotland (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRBKGKG](/stripes/rgrbrbkgkg/) · **Stripes:** [R G R T R T K G K G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R T R T K G K G</span></span>
+In pattern [GKGKBRBRGR](/stripes/gkgkbrbrgr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2413/
 

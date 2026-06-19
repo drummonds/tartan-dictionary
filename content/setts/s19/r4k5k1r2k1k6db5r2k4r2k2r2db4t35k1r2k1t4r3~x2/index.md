@@ -2,10 +2,9 @@
 title: "Taggart Name Tartan Tartan Number: 10003. Earliest known date: 08/04/2002 After many years of wearing kilts of different tartans the designer decided to have a tartan woven to his own design by Elliots of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKKRKKBRKRKRBBKRKBR](/stripes/rkkrkkbrkrkrbbkrkbr/) · **Stripes:** [R K K R K K DB R K R K R DB T K R K T R](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K K R K K DB R K R K R DB T K R K T R</span></span>
+In pattern [RBKRKBBRKRKRBKKRKKR](/stripes/rbkrkbbrkrkrbkkrkkr/).
 
-
-This was sourced from house-of-tartan.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10003
 

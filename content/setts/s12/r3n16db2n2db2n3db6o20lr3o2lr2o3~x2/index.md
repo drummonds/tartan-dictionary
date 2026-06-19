@@ -2,10 +2,9 @@
 title: "Callum"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRBBBBBBR](/stripes/ryryrbbbbbbr/) · **Stripes:** [O LR O LR O DB N DB N DB N R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">O LR O LR O DB N DB N DB N R</span></span>
+In pattern [RBBBBBBRYRYR](/stripes/rbbbbbbryryr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=485
 

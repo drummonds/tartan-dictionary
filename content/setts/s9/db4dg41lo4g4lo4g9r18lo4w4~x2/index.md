@@ -2,10 +2,9 @@
 title: "Gallagher Ancient"
 date: 2023-03-18
 ---
-**Bands:** [BGYGYGRYW](/stripes/bgygygryw/) · **Stripes:** [DB DG LO G LO G R LO W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DG LO G LO G R LO W</span></span>
+In pattern [BGYGYGRYW](/stripes/bgygygryw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1299
 

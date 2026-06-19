@@ -2,10 +2,9 @@
 title: "Lorne"
 date: 2023-03-18
 ---
-**Bands:** [GKBKBKBKGKGKGKB](/stripes/gkbkbkbkgkgkgkb/) · **Stripes:** [G K DB K DB K DB K G K G K G K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K DB K DB K G K G K G K DB</span></span>
+In pattern [BKGKGKGKBKBKBKG](/stripes/bkgkgkgkbkbkbkg/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [5th Royal Scots of Canada (Military)](/setts/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/)
-
 
 ## Thread count
 G/4 K2 B16 K2 B2 K2 B2 K16 G2 K2 G2 K2 G16 K2 B/4

@@ -2,10 +2,9 @@
 title: "North West Mounted Police (Commemo)"
 date: 2023-03-18
 ---
-**Bands:** [RBWGWGRBRGWBBRGW](/stripes/rbwgwgrbrgwbbrgw/) · **Stripes:** [R DO LB G LB Y R DO R Y LB DT DO R Y LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DO LB G LB Y R DO R Y LB DT DO R Y LB</span></span>
+In pattern [RBWGWGRBRGWBBRGW](/stripes/rbwgwgrbrgwbbrgw/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1652/
 

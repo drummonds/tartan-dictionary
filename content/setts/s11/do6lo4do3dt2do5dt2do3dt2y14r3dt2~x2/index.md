@@ -2,10 +2,9 @@
 title: "Limerick, County"
 date: 2023-03-18
 ---
-**Bands:** [BRGBBBBBBYB](/stripes/brgbbbbbbyb/) · **Stripes:** [DT R Y DT DO DT DO DT DO LO DO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="seq">DT R Y DT DO DT DO DT DO LO DO</span></span>
+In pattern [BRGBBBBBBYB](/stripes/brgbbbbbbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2113
 

@@ -2,10 +2,9 @@
 title: "Pounds (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBBBYBRBKRKBKB](/stripes/kbkbbbybrbkrkbkb/) · **Stripes:** [K N K N DP N LO N R N K O K N K N](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N DP N LO N R N K O K N K N</span></span>
+In pattern [BKBKRKBRBYBBBKBK](/stripes/bkbkrkbrbybbbkbk/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10070/
 

@@ -2,10 +2,9 @@
 title: "Harmon Dress"
 date: 2023-03-18
 ---
-**Bands:** [KWYWYWBGBWRKRGRGRY](/stripes/kwywywbgbwrkrgrgry/) · **Stripes:** [K LB LY LB LY LB N DG N LB R K R DG R DG R LY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K LB LY LB LY LB N DG N LB R K R DG R DG R LY</span></span>
+In pattern [KWYWYWBGBWRKRGRGRY](/stripes/kwywywbgbwrkrgrgry/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10020
 

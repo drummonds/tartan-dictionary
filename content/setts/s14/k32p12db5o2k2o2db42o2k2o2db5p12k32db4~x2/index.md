@@ -2,10 +2,9 @@
 title: "Longniddry Dress Lavender Fancy Tartan Tartan Number: 6468. Earliest known date: pre 1992 Dancers tartan from D.C. Dalgleish swatch book. In stock in 2004. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBBRKRBRKRBBKB](/stripes/kbbrkrbrkrbbkb/) · **Stripes:** [K P DB O K O DB O K O DB P K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K P DB O K O DB O K O DB P K DB</span></span>
+In pattern [BKBBRKRBRKRBBK](/stripes/bkbbrkrbrkrbbk/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6468
 

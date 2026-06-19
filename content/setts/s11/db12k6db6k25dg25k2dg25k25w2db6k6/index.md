@@ -2,10 +2,9 @@
 title: "Wacker"
 date: 2023-03-18
 ---
-**Bands:** [KBWKGKGKBKB](/stripes/kbwkgkgkbkb/) · **Stripes:** [K DB W K DG K DG K DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB W K DG K DG K DB K DB</span></span>
+In pattern [BKBKGKGKWBK](/stripes/bkbkgkgkwbk/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

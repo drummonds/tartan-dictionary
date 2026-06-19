@@ -2,10 +2,9 @@
 title: "Somerset #2"
 date: 2023-03-18
 ---
-**Bands:** [KGKGYBWG](/stripes/kgkgybwg/) · **Stripes:** [K DY K DY LR DB LB DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="seq">K DY K DY LR DB LB DG</span></span>
+In pattern [GWBYGKGK](/stripes/gwbygkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3834
 

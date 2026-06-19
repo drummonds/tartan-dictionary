@@ -2,10 +2,9 @@
 title: "Dunbar of Pitgaveny"
 date: 2023-03-18
 ---
-**Bands:** [RRWR](/stripes/rrwr/) · **Stripes:** [M O W O](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">M O W O</span></span>
+In pattern [RRWR](/stripes/rrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1018
 

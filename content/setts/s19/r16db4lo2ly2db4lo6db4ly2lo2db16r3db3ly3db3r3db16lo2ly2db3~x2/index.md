@@ -2,10 +2,9 @@
 title: "Longniddry"
 date: 2023-03-18
 ---
-**Bands:** [RBYYBYBYYBRBYBRBYYB](/stripes/rbyybybyybrbybrbyyb/) · **Stripes:** [R DB LO LY DB LO DB LY LO DB R DB LY DB R DB LO LY DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LO LY DB LO DB LY LO DB R DB LY DB R DB LO LY DB</span></span>
+In pattern [BYYBRBYBRBYYBYBYYBR](/stripes/byybrbybrbyybybyybr/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2204
 

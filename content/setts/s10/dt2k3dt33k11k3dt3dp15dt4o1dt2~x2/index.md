@@ -2,10 +2,9 @@
 title: "Scottish Thistle"
 date: 2023-03-18
 ---
-**Bands:** [BKBKKBBBRB](/stripes/bkbkkbbbrb/) · **Stripes:** [DT K DT K K DT DP DT O DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">DT K DT K K DT DP DT O DT</span></span>
+In pattern [BKBKKBBBRB](/stripes/bkbkkbbbrb/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3746
 

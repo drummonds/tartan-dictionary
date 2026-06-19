@@ -2,10 +2,9 @@
 title: "Manchester City Football Club \"Blue Moon\""
 date: 2023-03-18
 ---
-**Bands:** [BBYBWBKBRBBB](/stripes/bbybwbkbrbbb/) · **Stripes:** [T DB LY DB W DB K DB R DB T DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">T DB LY DB W DB K DB R DB T DB</span></span>
+In pattern [BBBRBKBWBYBB](/stripes/bbbrbkbwbybb/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11119
 

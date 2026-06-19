@@ -2,10 +2,9 @@
 title: "Highlands at Wyomissing, The"
 date: 2023-03-18
 ---
-**Bands:** [RWRYG](/stripes/rwryg/) · **Stripes:** [R W R LY G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W R LY G</span></span>
+In pattern [GYRWR](/stripes/gyrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10958
 

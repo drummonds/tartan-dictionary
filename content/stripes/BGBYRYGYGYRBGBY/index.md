@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbyrygygyrbgby/
 ---
-BGBYRYGYGYRBGBY
-
-It is a 15 band tartan.
+It is a 15 stripe tartan.
 
 
 
 ## Colour Sequence
-BGBYRYGYGYRBGBY
+
+{{< pat "BGBYRYGYGYRBGBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY T G T R LY G LY G LY R LY T G T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY T G T R LY G LY G LY R LY T G T</span></span>
 
 | Tartans |
 |---------------|
 | [el Corte](/setts/s15/ly6t5g4t5r2ly5g2ly14g10ly1r30ly10t14g5t2~x2/)|
 |![el Corte example sett](/setts/s15/ly6t5g4t5r2ly5g2ly14g10ly1r30ly10t14g5t2~x2/sett.png)|
-

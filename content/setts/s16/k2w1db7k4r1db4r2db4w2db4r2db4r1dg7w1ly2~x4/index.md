@@ -2,10 +2,9 @@
 title: "MacLellan/McLellan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KWBKRBRBWBRBRGWY](/stripes/kwbkrbrbwbrbrgwy/) · **Stripes:** [K W DB K R DB R DB W DB R DB R DG W LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W DB K R DB R DB W DB R DB R DG W LY</span></span>
+In pattern [KWBKRBRBWBRBRGWY](/stripes/kwbkrbrbwbrbrgwy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2622
 

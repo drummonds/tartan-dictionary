@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gykyky/
 ---
-GYKYKY
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/g3lo3k10lo26k3lo3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GYKYKY
+
+{{< pat "GYKYKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO K LO K LO G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO K LO K LO G</span></span>
 
 | Tartans |
 |---------------|
 | [Volkswagen Orange Trim](/setts/s6/g3lo3k10lo26k3lo3~x2/)|
 |![Volkswagen Orange Trim example sett](/setts/s6/g3lo3k10lo26k3lo3~x2/sett.png)|
-

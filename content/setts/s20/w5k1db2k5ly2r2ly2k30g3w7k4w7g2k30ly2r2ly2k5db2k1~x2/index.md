@@ -2,10 +2,9 @@
 title: "Braddock Family (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKYRYKGWKWGKYRYKBKW](/stripes/kbkyrykgwkwgkyrykbkw/) · **Stripes:** [K DB K LY R LY K G W K W G K LY R LY K DB K W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB K LY R LY K G W K W G K LY R LY K DB K W</span></span>
+In pattern [KBKYRYKGWKWGKYRYKBKW](/stripes/kbkyrykgwkwgkyrykbkw/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10278/
 

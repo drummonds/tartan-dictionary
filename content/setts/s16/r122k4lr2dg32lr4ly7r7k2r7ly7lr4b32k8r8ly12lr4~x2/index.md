@@ -2,10 +2,9 @@
 title: "Clan Chattan"
 date: 2023-03-18
 ---
-**Bands:** [RKYGYYRKRYYBKRYY](/stripes/rkygyyrkryybkryy/) · **Stripes:** [R K LR DG LR LY R K R LY LR B K R LY LR](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R K LR DG LR LY R K R LY LR B K R LY LR</span></span>
+In pattern [RKYGYYRKRYYBKRYY](/stripes/rkygyyrkryybkryy/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,15 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Clan Chattan](/setts/s16/r122k4lr2dg32lr4ly7r7k2r7ly7lr4b32k8r8ly12lr4/)
-- [Clan Chattan D](/setts/s16/r60k2lr1dg16lr2ly3r3k1r3ly3lr2b16k4r4ly6lr2~x2/)
-- [Clan Chattan D](/setts/s16/r60k2lr1dg16lr2ly3r3k1r3ly3lr2b16k4r4ly6lr2/)
-
 
 ## Thread count
 DR/244 K8 N4 DG64 N8 LG14 DR14 K4 DR14 LG14 N8 B64 K16 DR16 LG24 N/8

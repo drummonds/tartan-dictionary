@@ -2,10 +2,9 @@
 title: "Vaughan (Welsh Series)"
 date: 2023-03-18
 ---
-**Bands:** [WKYKYKYKGKW](/stripes/wkykykykgkw/) · **Stripes:** [W K LO K LO K LO K G K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K LO K LO K LO K G K W</span></span>
+In pattern [WKGKYKYKYKW](/stripes/wkgkykykykw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4445
 

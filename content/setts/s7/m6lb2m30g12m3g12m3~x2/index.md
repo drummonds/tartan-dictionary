@@ -2,10 +2,9 @@
 title: "Crawford"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRWR](/stripes/rgrgrwr/) · **Stripes:** [M G M G M LB M](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M G M G M LB M</span></span>
+In pattern [RGRGRWR](/stripes/rgrgrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=799
 

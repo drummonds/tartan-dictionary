@@ -2,10 +2,9 @@
 title: "MacAn of Lurgyvallan (Hose)"
 date: 2023-03-18
 ---
-**Bands:** [KRGRKR](/stripes/krgrkr/) · **Stripes:** [K R G R K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R G R K R</span></span>
+In pattern [KRGRKR](/stripes/krgrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2277
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2277](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2277)
 - Scottish Tartans Authority (ITI): 1159
 - Scottish Tartans World Register: 1159
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Macan, of Lurgyvallan (Hose)](/setts/s6/r10k1r4g6~x2/)
-
 
 ## Thread count
 DR/36 K4 DR20 G24 DR16 K/8

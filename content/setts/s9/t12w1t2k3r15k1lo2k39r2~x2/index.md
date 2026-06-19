@@ -2,10 +2,9 @@
 title: "Superstition Fire Honor Guard Pipes & Drums"
 date: 2023-03-18
 ---
-**Bands:** [RKYKRKBWB](/stripes/rkykrkbwb/) · **Stripes:** [R K LO K R K T W T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K LO K R K T W T</span></span>
+In pattern [BWBKRKYKR](/stripes/bwbkrkykr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11195
 

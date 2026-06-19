@@ -2,10 +2,9 @@
 title: "Sillitoe"
 date: 2023-03-18
 ---
-**Bands:** [BW](/stripes/bw/) · **Stripes:** [DB W](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W</span></span>
+In pattern [BW](/stripes/bw/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3786
 

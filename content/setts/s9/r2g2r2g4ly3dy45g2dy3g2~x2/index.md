@@ -2,10 +2,9 @@
 title: "Welsh Stanley–Gpa (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGYGGGG](/stripes/rgrgygggg/) · **Stripes:** [R G R G LY DY G DY G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G LY DY G DY G</span></span>
+In pattern [GGGGYGRGR](/stripes/ggggygrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388
 

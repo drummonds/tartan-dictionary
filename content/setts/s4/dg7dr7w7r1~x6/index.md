@@ -2,10 +2,9 @@
 title: "MacKinnon Dress Hunting (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RWBG](/stripes/rwbg/) · **Stripes:** [R W DR DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="seq">R W DR DG</span></span>
+In pattern [GBWR](/stripes/gbwr/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/921/
 

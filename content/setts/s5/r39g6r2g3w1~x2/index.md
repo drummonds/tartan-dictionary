@@ -2,10 +2,9 @@
 title: "MacGregor"
 date: 2023-03-18
 ---
-**Bands:** [RGRGW](/stripes/rgrgw/) · **Stripes:** [R G R G W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R G W</span></span>
+In pattern [RGRGW](/stripes/rgrgw/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,14 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Welsh National (District)](/setts/s5/r8g3r4g44w4~x2/)
-- [Welsh, National](/setts/s5/r2g1r1g11w1~x8/)
-
 
 ## Thread count
 R/78 G12 R4 G6 LN/2

@@ -2,10 +2,9 @@
 title: "Wilson's No.199"
 date: 2023-03-18
 ---
-**Bands:** [GBRGRBGBRGRB](/stripes/gbrgrbgbrgrb/) · **Stripes:** [Y DP R DG R DP Y DP R DG R DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">Y DP R DG R DP Y DP R DG R DP</span></span>
+In pattern [BRGRBGBRGRBG](/stripes/brgrbgbrgrbg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4731
 

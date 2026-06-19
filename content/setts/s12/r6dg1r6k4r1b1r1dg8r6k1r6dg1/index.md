@@ -2,10 +2,9 @@
 title: "MacNicol"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRBRGRKRG](/stripes/rgrkrbrgrkrg/) · **Stripes:** [R DG R K R B R DG R K R DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R K R B R DG R K R DG</span></span>
+In pattern [GRKRGRBRKRGR](/stripes/grkrgrbrkrgr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNicol](/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1~x2/)
-
 
 ## Thread count
 DR/6 DG1 DR6 K4 DR1 B1 DR1 DG8 DR6 K1 DR6 DG/1

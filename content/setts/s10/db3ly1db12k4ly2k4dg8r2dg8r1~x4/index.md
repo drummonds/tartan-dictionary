@@ -2,10 +2,9 @@
 title: "MacMillan Htg (1906) (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKYKBYB](/stripes/rgrgkykbyb/) · **Stripes:** [R DG R DG K LY K DB LY DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG R DG K LY K DB LY DB</span></span>
+In pattern [BYBKYKGRGR](/stripes/bybkykgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/668/
 
@@ -15,13 +14,6 @@ This cloth is also recorded under:
 
 - MacMillan Htg
 - MacMillan Hunting #2
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacMillan Hunting](/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/)
-
 
 ## Thread count
 DB/12 Y4 DB48 K16 Y8 K16 G32 R8 G32 R/4

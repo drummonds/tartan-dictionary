@@ -2,10 +2,9 @@
 title: "Bear"
 date: 2023-03-18
 ---
-**Bands:** [RGRGYYWWYKRGRGKYKG](/stripes/rgrgyywwykrgrgkykg/) · **Stripes:** [O DY O DY LO LY W W LR K O DY O DY K LR K DY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">O DY O DY LO LY W W LR K O DY O DY K LR K DY</span></span>
+In pattern [GKYKGRGRKYWWYYGRGR](/stripes/gkykgrgrkywwyygrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=235
 

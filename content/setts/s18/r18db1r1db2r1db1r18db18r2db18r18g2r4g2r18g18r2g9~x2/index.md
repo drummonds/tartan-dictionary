@@ -2,10 +2,9 @@
 title: "MacTier of Durris"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRBRGRGRGRG](/stripes/rbrbrbrbrbrgrgrgrg/) · **Stripes:** [R DB R DB R DB R DB R DB R G R G R G R G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R DB R DB R DB R DB R G R G R G R G</span></span>
+In pattern [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2773
 
@@ -15,15 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [2773](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2773)
 - Scottish Tartans Authority (ITI): 5692
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacTier of Durris](/setts/s18/r18db2r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x2/)
-- [Ross](/setts/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9~x4/)
-- [Ross 6](/setts/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/)
-
 
 ## Thread count
 DR/36 DB2 DR2 DB4 DR2 DB2 DR36 DB36 DR4 DB36 DR36 G4 DR8 G4 DR36 G36 DR4 G/18

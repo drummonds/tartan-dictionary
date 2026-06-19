@@ -2,20 +2,11 @@
 title: "Masai Shuka 23 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRB](/stripes/rbrbrbrbrb/) · **Stripes:** [R DB R DB R DB R DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DB</span></span>
+In pattern [BRBRBRBRBR](/stripes/brbrbrbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7283/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hebrides #7](/setts/s10/db2r2db15r15db2r2~x2/)
-- [Prince Charles Edward](/setts/s10/db40r40db44r2db2r40db2r2db2r7~x2/)
-
 
 ## Thread count
 R/60 DB16 R4 DB4 R4 DB4 R4 DB4 R4 DB/4

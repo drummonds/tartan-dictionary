@@ -2,19 +2,11 @@
 title: "MacLaurin of Broich (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [YKGRGKB](/stripes/ykgrgkb/) · **Stripes:** [LO K G R G K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K G R G K DB</span></span>
+In pattern [BKGRGKY](/stripes/bkgrgky/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/344/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLaren](/setts/s7/db12k4g4r1g4k1lo1~x4/)
-
 
 ## Thread count
 DB/72 K16 G6 DR6 G12 K2 DY/4

@@ -2,19 +2,11 @@
 title: "Black Watch/Isetan Men's"
 date: 2023-03-18
 ---
-**Bands:** [RKBKGKGKBKBKB](/stripes/rkbkgkgkbkbkb/) · **Stripes:** [R K DB K DG K DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DG K DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGKGKBKR](/stripes/bkbkbkgkgkbkr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11123/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Watch/Isetan Men's](/setts/s13/db21k2db2k2db2k16dg16k2dg16k16db16k2r1~x2/)
-
 
 ## Thread count
 DB/32 K4 DB4 K4 DB4 K24 DG26 K4 DG26 K24 DB24 K4 R/2

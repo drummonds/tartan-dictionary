@@ -2,10 +2,9 @@
 title: "Lander (2013)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGGRYRGGKGK](/stripes/kgkgkggryrggkgk/) · **Stripes:** [K DY K DY K DY DG R LY R DG DY K DY K](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="seq">K DY K DY K DY DG R LY R DG DY K DY K</span></span>
+In pattern [KGKGGRYRGGKGKGK](/stripes/kgkggryrggkgkgk/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10951/
 

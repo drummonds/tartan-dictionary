@@ -2,10 +2,9 @@
 title: "Whitson"
 date: 2023-03-18
 ---
-**Bands:** [KGYKBRBRBRBKYGKW](/stripes/kgykbrbrbrbkygkw/) · **Stripes:** [K Y LO K N R N R N R N K LO Y K LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K Y LO K N R N R N R N K LO Y K LB</span></span>
+In pattern [KGYKBRBRBRBKYGKW](/stripes/kgykbrbrbrbkygkw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4617
 

@@ -2,10 +2,9 @@
 title: "Chafyn House (School)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKRK](/stripes/krkbkrk/) · **Stripes:** [K R K T K R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K T K R K</span></span>
+In pattern [KRKBKRK](/stripes/krkbkrk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8062/
 

@@ -2,10 +2,9 @@
 title: "Nike Golf Light (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRWRWRBRBRBRBW](/stripes/rwrwrwrwrbrbrbrbw/) · **Stripes:** [R W O W O W O W O N O N O N O N W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W O W O W O W O N O N O N O N W</span></span>
+In pattern [RWRWRWRWRBRBRBRBW](/stripes/rwrwrwrwrbrbrbrbw/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10568/
 

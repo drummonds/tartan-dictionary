@@ -2,10 +2,9 @@
 title: "Shaw of Tordarroch, Mrs (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWBWBWGWGWB](/stripes/rwbwbwgwgwb/) · **Stripes:** [O LB DB LB DB LB Y LB Y LB DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">O LB DB LB DB LB Y LB Y LB DB</span></span>
+In pattern [BWGWGWBWBWR](/stripes/bwgwgwbwbwr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8893/
 

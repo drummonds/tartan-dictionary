@@ -2,10 +2,9 @@
 title: "Unidentified #14"
 date: 2023-03-18
 ---
-**Bands:** [GRBBRBBRBRBBRGRKB](/stripes/grbbrbbrbrbbrgrkb/) · **Stripes:** [DG R T DP R DP T R DP R T DP R DG R K T](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG R T DP R DP T R DP R T DP R DG R K T</span></span>
+In pattern [BKRGRBBRBRBBRBBRG](/stripes/bkrgrbbrbrbbrbbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4215
 

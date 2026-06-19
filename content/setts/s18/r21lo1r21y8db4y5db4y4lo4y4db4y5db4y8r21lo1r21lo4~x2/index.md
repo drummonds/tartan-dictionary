@@ -2,10 +2,9 @@
 title: "Rice of Wales"
 date: 2023-03-18
 ---
-**Bands:** [RYRGBGBGYGBGBGRYRY](/stripes/ryrgbgbgygbgbgryry/) · **Stripes:** [R LO R Y DB Y DB Y LO Y DB Y DB Y R LO R LO](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LO R Y DB Y DB Y LO Y DB Y DB Y R LO R LO</span></span>
+In pattern [RYRGBGBGYGBGBGRYRY](/stripes/ryrgbgbgygbgbgryry/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3506
 

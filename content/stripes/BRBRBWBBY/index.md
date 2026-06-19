@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brbrbwbby/
 ---
-BRBRBWBBY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BRBRBWBBY
+
+{{< pat "BRBRBWBBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DB DP W DB R DB R DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB DP W DB R DB R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Telfer, Brian William (Personal)](/setts/s9/db3r13db13r9db5w2dp9db21ly2~x2/)|
 |![Telfer, Brian William (Personal) example sett](/setts/s9/db3r13db13r9db5w2dp9db21ly2~x2/sett.png)|
-

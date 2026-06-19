@@ -2,10 +2,9 @@
 title: "Genesee Community College"
 date: 2023-03-18
 ---
-**Bands:** [YBWB](/stripes/ybwb/) · **Stripes:** [LO B W B](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO B W B</span></span>
+In pattern [BWBY](/stripes/bwby/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11468
 

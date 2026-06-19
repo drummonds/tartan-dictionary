@@ -4,17 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/wy/
 ---
-WY
-
-It is a 2 band tartan.
+It is a 2 stripe tartan.
 
 
 
 ## Colour Sequence
-WY
+
+{{< pat "WY" >}}
 
 
 ## Tartans with this colour sequence
 
-
-
+| Tartans |
+|---------------|

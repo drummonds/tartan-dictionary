@@ -2,10 +2,9 @@
 title: "Lennox"
 date: 2023-03-18
 ---
-**Bands:** [RRRRGYG](/stripes/rrrrgyg/) · **Stripes:** [R R R R G LR G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R R R R G LR G</span></span>
+In pattern [GYGRRRR](/stripes/gygrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2096
 

@@ -2,10 +2,9 @@
 title: "Campbell of Breadalbane"
 date: 2023-03-18
 ---
-**Bands:** [BKBKYGYKBKBKB](/stripes/bkbkygykbkbkb/) · **Stripes:** [DB K DB K LY G LY K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K LY G LY K DB K DB K DB</span></span>
+In pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
 
-
-This was sourced from logan-1831.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 
@@ -22,14 +21,6 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 ## Related setts
 
 Later records of the **Campbell of Breadalbane** name adjusted Logan's counts: [Campbell of Breadalbane](/setts/s13/b8k1b1k1b1k8y1g14y1k8b8k1b1~b2c4084-g005020-k101010-ye8c000~x2/); [Campbell of Breadalbane #2](/setts/s13/b26k4b4k4b4k27y5g47y5k27b25k4b4~b2c4084-g005020-k101010-ye8c000~x2/); [Campbell of Breadalbane #3](/setts/s7/k9g9y2g9k9b9k3~b2c2c80-g006818-k000000-ydcbc00~x2/); [Campbell of Breadalbane (Military)](/setts/s13/b26k4b4k4b4k27y5g47y5k27b25k4b4~b202060-g006818-k101010-ye8c000~x2/). Compare their thread counts with Logan's above.
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Campbell of Breadalbane](/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/)
-- [Campbell of Breadalbane (Military)](/setts/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/)
-
 
 ## Thread count
 DB/16 K8 DB8 K8 DB8 K56 Y4 G88 Y4 K56 DB48 K8 DB/8

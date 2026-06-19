@@ -2,10 +2,9 @@
 title: "Menzies VS"
 date: 2023-03-18
 ---
-**Bands:** [YRYRYBRBRBRY](/stripes/yryrybrbrbry/) · **Stripes:** [LR R LR R LR DR R DR R DR R LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LR R LR R LR DR R DR R DR R LR</span></span>
+In pattern [YRBRBRBYRYRY](/stripes/yrbrbrbyryry/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Menzies VS](/setts/s12/lr4r1lr2r3lr24dr5r3dr1r1dr1r20lr2/)
-
 
 ## Thread count
 N/8 DR2 N4 DR6 N48 DRa10 DR6 DRa2 DR2 DRa2 DR40 N/4

@@ -2,10 +2,9 @@
 title: "Seaforth Estate Check"
 date: 2023-03-18
 ---
-**Bands:** [RKRGRKRGRKRGRKRR](/stripes/rkrgrkrgrkrgrkrr/) · **Stripes:** [O K O Y O K O Y O K O Y O K O R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">O K O Y O K O Y O K O Y O K O R</span></span>
+In pattern [RKRGRKRGRKRGRKRR](/stripes/rkrgrkrgrkrgrkrr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3755
 

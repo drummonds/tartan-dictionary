@@ -2,10 +2,9 @@
 title: "Stewmann (2009) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBKBBBGBG](/stripes/ybkbbbgbg/) · **Stripes:** [LR DB K DB DP DB DG B DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="seq">LR DB K DB DP DB DG B DG</span></span>
+In pattern [GBGBBBKBY](/stripes/gbgbbbkby/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10520
 

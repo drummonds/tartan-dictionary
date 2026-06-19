@@ -2,10 +2,9 @@
 title: "Dundhuin Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBYGG](/stripes/rbygg/) · **Stripes:** [O T LY G DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">O T LY G DG</span></span>
+In pattern [GGYBR](/stripes/ggybr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10229
 
@@ -14,13 +13,6 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10229
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10229](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10229)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dundhuin Hunting (Personal)](/setts/s5/dg62g17ly12t8o8~x2/)
-
 
 ## Thread count
 LT/124 B34 LY24 LG16 K/16

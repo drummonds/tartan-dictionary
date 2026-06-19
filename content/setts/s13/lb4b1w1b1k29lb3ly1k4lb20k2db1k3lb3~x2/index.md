@@ -2,10 +2,9 @@
 title: "Silverton (Name)"
 date: 2023-03-18
 ---
-**Bands:** [WKBKWKYWKBWBW](/stripes/wkbkwkywkbwbw/) · **Stripes:** [LB K DB K LB K LY LB K B W B LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB K DB K LB K LY LB K B W B LB</span></span>
+In pattern [WBWBKWYKWKBKW](/stripes/wbwbkwykwkbkw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10275/
 

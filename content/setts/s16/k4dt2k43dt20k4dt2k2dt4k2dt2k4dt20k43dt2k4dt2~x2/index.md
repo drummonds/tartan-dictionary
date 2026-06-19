@@ -2,10 +2,9 @@
 title: "Dark Island"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKBKBKBKBKB](/stripes/kbkbkbkbkbkbkbkb/) · **Stripes:** [K DT K DT K DT K DT K DT K DT K DT K DT](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">K DT K DT K DT K DT K DT K DT K DT K DT</span></span>
+In pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=889
 

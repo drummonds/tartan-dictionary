@@ -2,10 +2,9 @@
 title: "Spirit of South Korea (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KWRBWRWBWKWKW](/stripes/kwrbwrwbwkwkw/) · **Stripes:** [K W R DB W R W DB W K W K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K W R DB W R W DB W K W K W</span></span>
+In pattern [KWRBWRWBWKWKW](/stripes/kwrbwrwbwkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10681/
 

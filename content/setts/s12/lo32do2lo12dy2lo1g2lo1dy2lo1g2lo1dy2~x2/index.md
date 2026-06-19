@@ -2,10 +2,9 @@
 title: "Houston #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBYGYGYGYGYG](/stripes/ybygygygygyg/) · **Stripes:** [LO DO LO DY LO G LO DY LO G LO DY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO DO LO DY LO G LO DY LO G LO DY</span></span>
+In pattern [GYGYGYGYGYBY](/stripes/gygygygygyby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1774
 

@@ -4,21 +4,16 @@ date: 2023-03-18
 aliases:
 - /patterns/gkrbrbrby/
 ---
-GKRBRBRBY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-GKRBRBRBY
+
+{{< pat "GKRBRBRBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LR DB R DB R DB R K DG <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LR DB R DB R DB R K DG</span></span>
 
 | Tartans |
 |---------------|
@@ -26,4 +21,3 @@ GKRBRBRBY
 |![Rattay example sett](/setts/s9/dg71k4r4db9r4db4r36db4lr4~x2/sett.png)|
 | [Rattay](/setts/s9/dg71k4r4db9r4db4r36db4lr4/)|
 |![Rattay example sett](/setts/s9/dg71k4r4db9r4db4r36db4lr4/sett.png)|
-

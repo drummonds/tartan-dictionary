@@ -2,10 +2,9 @@
 title: "Mary Erskine School, The"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRB](/stripes/rbrbrb/) · **Stripes:** [R DT R DT R DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT R DT R DT</span></span>
+In pattern [BRBRBR](/stripes/brbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2843
 

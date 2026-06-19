@@ -2,10 +2,9 @@
 title: "Wilson's No.111"
 date: 2023-03-18
 ---
-**Bands:** [BWGBKBGW](/stripes/bwgbkbgw/) · **Stripes:** [DP W G T K T G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W G T K T G W</span></span>
+In pattern [BWGBKBGW](/stripes/bwgbkbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4677
 

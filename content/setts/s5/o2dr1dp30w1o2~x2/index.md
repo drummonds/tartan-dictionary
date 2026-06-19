@@ -2,10 +2,9 @@
 title: "Wedding"
 date: 2023-03-18
 ---
-**Bands:** [RBBWR](/stripes/rbbwr/) · **Stripes:** [O DR DP W O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DR DP W O</span></span>
+In pattern [RBBWR](/stripes/rbbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10522
 

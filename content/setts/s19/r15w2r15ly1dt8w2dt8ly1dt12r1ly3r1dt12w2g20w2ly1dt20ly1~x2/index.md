@@ -2,10 +2,9 @@
 title: "Hébert Kitenge Family (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RWRYBWBYBRYRBWGWYBY](/stripes/rwrybwbybryrbwgwyby/) · **Stripes:** [R W R LY DT W DT LY DT R LY R DT W G W LY DT LY](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W R LY DT W DT LY DT R LY R DT W G W LY DT LY</span></span>
+In pattern [RWRYBWBYBRYRBWGWYBY](/stripes/rwrybwbybryrbwgwyby/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11304
 

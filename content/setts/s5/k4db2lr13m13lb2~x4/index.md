@@ -2,10 +2,9 @@
 title: "Think Pink (ICF)"
 date: 2023-03-18
 ---
-**Bands:** [KBYRW](/stripes/kbyrw/) · **Stripes:** [K DB LR M LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K DB LR M LB</span></span>
+In pattern [KBYRW](/stripes/kbyrw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4100
 

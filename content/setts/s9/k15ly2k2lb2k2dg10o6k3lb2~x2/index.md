@@ -2,10 +2,9 @@
 title: "Hebrides"
 date: 2023-03-18
 ---
-**Bands:** [KYKWKGRKW](/stripes/kykwkgrkw/) · **Stripes:** [K LY K LB K DG O K LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LY K LB K DG O K LB</span></span>
+In pattern [KYKWKGRKW](/stripes/kykwkgrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1656
 

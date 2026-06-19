@@ -2,10 +2,9 @@
 title: "Duke of York Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GYBYBWBG](/stripes/gybybwbg/) · **Stripes:** [G LY DB LY DB W DB G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY DB LY DB W DB G</span></span>
+In pattern [GBWBYBYG](/stripes/gbwbybyg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1012
 

@@ -2,10 +2,9 @@
 title: "Westenra of Christchurch (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKRWBK](/stripes/kbkbkbkrwbk/) · **Stripes:** [K DT K DB K DT K R W DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DT K DB K DT K R W DB K</span></span>
+In pattern [KBKBKBKRWBK](/stripes/kbkbkbkrwbk/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6881/
 

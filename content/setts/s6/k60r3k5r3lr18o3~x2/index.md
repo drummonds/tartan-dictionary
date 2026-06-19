@@ -2,10 +2,9 @@
 title: "Ailsa, Navy (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRYR](/stripes/krkryr/) · **Stripes:** [K R K R LR O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K R K R LR O</span></span>
+In pattern [KRKRYR](/stripes/krkryr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8105/
 

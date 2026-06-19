@@ -2,20 +2,11 @@
 title: "Schranz-Gritte (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KYKYKY](/stripes/kykyky/) · **Stripes:** [K LO K LO K LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO K LO K LO</span></span>
+In pattern [KYKYKY](/stripes/kykyky/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3074/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Justus #2 (Personal)](/setts/s6/k5lo1k1lo1~x20/)
-- [Monoch Airline](/setts/s6/lo4k6lo1k1lo16k2~x2/)
-
 
 ## Thread count
 O/48 K10 O8 K4 O6 K/4

@@ -2,10 +2,9 @@
 title: "Perry Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRWKY](/stripes/krwky/) · **Stripes:** [K R W K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R W K LY</span></span>
+In pattern [KRWKY](/stripes/krwky/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3321
 
@@ -901,13 +900,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Perry / Pirrie (Personal)](/setts/s5/k75r26w2k4ly5~x2/)
-
 
 ## Thread count
 K/130 DR54 LN4 K8 Y/10

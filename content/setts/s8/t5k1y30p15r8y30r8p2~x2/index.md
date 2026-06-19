@@ -2,10 +2,9 @@
 title: "Shaw of Tordarroch, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BKGBRGRB](/stripes/bkgbrgrb/) · **Stripes:** [T K Y P R Y R P](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">T K Y P R Y R P</span></span>
+In pattern [BKGBRGRB](/stripes/bkgbrgrb/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

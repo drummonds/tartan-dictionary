@@ -2,10 +2,9 @@
 title: "Morrison"
 date: 2023-03-18
 ---
-**Bands:** [KGKGBR](/stripes/kgkgbr/) · **Stripes:** [K DG K DG DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG K DG DB R</span></span>
+In pattern [KGKGBR](/stripes/kgkgbr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -40,13 +39,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Morrison](/setts/s6/k3dg14k14dg2db14r3~x2/)
-
 
 ## Thread count
 K/3 G14 K14 G2 DB14 R/3

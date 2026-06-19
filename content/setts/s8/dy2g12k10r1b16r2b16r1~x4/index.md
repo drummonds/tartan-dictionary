@@ -2,10 +2,9 @@
 title: "MacWilliam"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRKGG](/stripes/rbrbrkgg/) · **Stripes:** [R B R B R K G DY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R B R B R K G DY</span></span>
+In pattern [GGKRBRBR](/stripes/ggkrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2776
 

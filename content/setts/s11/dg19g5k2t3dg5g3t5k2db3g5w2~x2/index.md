@@ -2,10 +2,9 @@
 title: "MacLean, Kenneth, baron of Denboig (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGKBGGBKBGW](/stripes/ggkbggbkbgw/) · **Stripes:** [DG G K T DG G T K DB G W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DG G K T DG G T K DB G W</span></span>
+In pattern [GGKBGGBKBGW](/stripes/ggkbggbkbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11201
 

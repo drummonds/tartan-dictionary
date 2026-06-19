@@ -2,10 +2,9 @@
 title: "LOOK Keith"
 date: 2023-03-18
 ---
-**Bands:** [RBRBBGBGBGWGWGBGBGBBRBRB](/stripes/rbrbbgbgbgwgwgbgbgbbrbrb/) · **Stripes:** [R N R N N Y DB Y DB Y LB Y LB Y DB Y DB Y N N R N R N](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">R N R N N Y DB Y DB Y LB Y LB Y DB Y DB Y N N R N R N</span></span>
+In pattern [BRBRBBGBGBGWGWGBGBGBBRBR](/stripes/brbrbbgbgbgwgwgbgbgbbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11246
 

@@ -2,10 +2,9 @@
 title: "MacAulay"
 date: 2023-03-18
 ---
-**Bands:** [KRGRGW](/stripes/krgrgw/) · **Stripes:** [K R DG R DG LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K R DG R DG LB</span></span>
+In pattern [KRGRGW](/stripes/krgrgw/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

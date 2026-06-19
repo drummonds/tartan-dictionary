@@ -2,10 +2,9 @@
 title: "Crinnion (Middlesbrough) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBWKB](/stripes/ybwkb/) · **Stripes:** [LG P LB K B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LG P LB K B</span></span>
+In pattern [BKWBY](/stripes/bkwby/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10789
 

@@ -2,10 +2,9 @@
 title: "State Seal of Michigan (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBYBBW](/stripes/rbybbw/) · **Stripes:** [R DO LO N B LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DO LO N B LB</span></span>
+In pattern [RBYBBW](/stripes/rbybbw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8636/
 

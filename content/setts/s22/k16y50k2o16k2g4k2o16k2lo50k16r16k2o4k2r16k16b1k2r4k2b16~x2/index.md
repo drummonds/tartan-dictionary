@@ -2,10 +2,9 @@
 title: "Rosalyn (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKGKRKYKRKRKRKBKRKB](/stripes/kgkrkgkrkykrkrkrkbkrkb/) · **Stripes:** [K Y K O K G K O K LO K R K O K R K B K R K B](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K Y K O K G K O K LO K R K O K R K B K R K B</span></span>
+In pattern [BKRKBKRKRKRKYKRKGKRKGK](/stripes/bkrkbkrkrkrkykrkgkrkgk/).
 
-
-This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10155/
 

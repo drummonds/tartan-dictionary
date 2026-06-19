@@ -2,10 +2,9 @@
 title: "Dunbar Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGG](/stripes/gkgkgg/) · **Stripes:** [G K G K DG G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K DG G</span></span>
+In pattern [GGKGKG](/stripes/ggkgkg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017
 

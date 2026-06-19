@@ -2,10 +2,9 @@
 title: "Chicago University of.. Corporate Tartan Tartan Number: 2073. Earliest known date: 1991 William Rainey Harper, a Scot, was founder and first president of the University. Andrew MacLeish was one of the original trustees. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/) · **Stripes:** [R K R K R K R R R K R K R K R W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K R K R K R R R K R K R K R W</span></span>
+In pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2073
 

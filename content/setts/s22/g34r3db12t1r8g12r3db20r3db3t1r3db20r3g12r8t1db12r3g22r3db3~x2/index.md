@@ -2,10 +2,9 @@
 title: "Cumming, of Glenorchy"
 date: 2023-03-18
 ---
-**Bands:** [GRBBRGRBRBBRBRGRBBRGRB](/stripes/grbbrgrbrbbrbrgrbbrgrb/) · **Stripes:** [G R DB T R G R DB R DB T R DB R G R T DB R G R DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB T R G R DB R DB T R DB R G R T DB R G R DB</span></span>
+In pattern [BRGRBBRGRBRBBRBRGRBBRG](/stripes/brgrbbrgrbrbbrbrgrbbrg/).
 
-
-This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cumming](/setts/s22/g10r3db12t1r10g12r3db20r3db3t1r3db20r3g12r12t1db12r3g20r3db3~x2/)
-
 
 ## Thread count
 G/68 R6 B24 Ba2 R16 G24 R6 B40 R6 B6 Ba2 R6 B40 R6 G24 R16 Ba2 B24 R6 G44 R6 B/6

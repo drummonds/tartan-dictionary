@@ -2,10 +2,9 @@
 title: "McHale (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKBRWG](/stripes/gkbrwg/) · **Stripes:** [Y K N O W Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y K N O W Y</span></span>
+In pattern [GKBRWG](/stripes/gkbrwg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10708/
 

@@ -2,10 +2,9 @@
 title: "Wilson's No.212"
 date: 2023-03-18
 ---
-**Bands:** [RGRB](/stripes/rgrb/) · **Stripes:** [R G R T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G R T</span></span>
+In pattern [BRGR](/stripes/brgr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4743
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4743](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4743)
 - Scottish Tartans Authority (ITI): 506
 - Scottish Tartans World Register: 506
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's No.161](/setts/s4/g13r2t13~x2/)
-
 
 ## Thread count
 R/8 G36 R8 B/8

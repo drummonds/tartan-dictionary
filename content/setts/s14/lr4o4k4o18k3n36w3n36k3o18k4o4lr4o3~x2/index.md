@@ -2,10 +2,9 @@
 title: "Hebridean Granite"
 date: 2023-03-18
 ---
-**Bands:** [RYRKRKBWBKRKRY](/stripes/ryrkrkbwbkrkry/) · **Stripes:** [O LR O K O K N W N K O K O LR](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">O LR O K O K N W N K O K O LR</span></span>
+In pattern [RYRKRKBWBKRKRY](/stripes/ryrkrkbwbkrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1653
 

@@ -2,10 +2,9 @@
 title: "Tombow 140th Anniversary, The"
 date: 2023-03-18
 ---
-**Bands:** [GYRYBWB](/stripes/gyrybwb/) · **Stripes:** [G LY O LY DB W DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY O LY DB W DB</span></span>
+In pattern [BWBYRYG](/stripes/bwbyryg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11220/
 

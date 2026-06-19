@@ -2,10 +2,9 @@
 title: "Dublin Irish County Tartan Tartan Number: 2250. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RYRYBYRYRYRY](/stripes/ryrybyryryry/) · **Stripes:** [R LG R LG DP LG O LG O LG O LG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#82D67A"></span><span class="seq">R LG R LG DP LG O LG O LG O LG</span></span>
+In pattern [RYRYBYRYRYRY](/stripes/ryrybyryryry/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2250
 

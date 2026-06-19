@@ -2,10 +2,9 @@
 title: "Barclay Dress"
 date: 2023-03-18
 ---
-**Bands:** [YKYY](/stripes/ykyy/) · **Stripes:** [LY K LY LR](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY K LY LR</span></span>
+In pattern [YKYY](/stripes/ykyy/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Barclay Dress](/setts/s4/lr1ly6k6ly1~x2/)
-
 
 ## Thread count
 N/1 LG6 K6 LG/1

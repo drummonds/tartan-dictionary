@@ -2,10 +2,9 @@
 title: "United Scots American"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBBRBRW](/stripes/bbbbbbbrbrw/) · **Stripes:** [DP DT DB DT DB DP DB R DB R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DT DB DT DB DP DB R DB R W</span></span>
+In pattern [BBBBBBBRBRW](/stripes/bbbbbbbrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4398
 

@@ -2,10 +2,9 @@
 title: "Cunningham / Wilson's No 120"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKBR](/stripes/kgwgkbr/) · **Stripes:** [K G W G K DP R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G W G K DP R</span></span>
+In pattern [KGWGKBR](/stripes/kgwgkbr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=845
 

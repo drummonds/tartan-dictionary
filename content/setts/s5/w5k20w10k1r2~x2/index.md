@@ -2,10 +2,9 @@
 title: "Cornish Flag (District)"
 date: 2023-03-18
 ---
-**Bands:** [RKWKW](/stripes/rkwkw/) · **Stripes:** [R K W K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W K W</span></span>
+In pattern [RKWKW](/stripes/rkwkw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1618/
 
@@ -902,13 +901,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Havel](/setts/s5/r21k21w10k10w21~x2/)
-
 
 ## Thread count
 LN/10 K40 LN20 K2 R/4

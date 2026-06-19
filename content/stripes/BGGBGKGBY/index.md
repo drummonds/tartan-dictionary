@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bggbgkgby/
 ---
-BGGBGKGBY
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BGGBGKGBY
+
+{{< pat "BGGBGKGBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DB DY K DY DP G DY DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB DY K DY DP G DY DB</span></span>
 
 | Tartans |
 |---------------|
 | [Suzugamine (Corporate)](/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/)|
 |![Suzugamine (Corporate) example sett](/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/sett.png)|
-

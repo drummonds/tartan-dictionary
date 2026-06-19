@@ -4,23 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/rbgkr/
 ---
-RBGKR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/r1k8g2db4r1~x8/tartan.png)
 
 
 
 ## Colour Sequence
-RBGKR
+
+{{< pat "RBGKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K G DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G DB R</span></span>
 
 | Tartans |
 |---------------|
@@ -28,4 +23,3 @@ RBGKR
 |![Nairn example sett](/setts/s5/r1k8g2db4r1~x8/sett.png)|
 | [Nairn](/setts/s5/r1k8g2db4r1~x4/)|
 |![Nairn example sett](/setts/s5/r1k8g2db4r1~x4/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Shepherd Brown & White (Fashion?)"
 date: 2023-03-18
 ---
-**Bands:** [GW](/stripes/gw/) · **Stripes:** [DY LB](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DY LB</span></span>
+In pattern [GW](/stripes/gw/).
 
-
-This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3205/
 
@@ -14,6 +13,12 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/3205/
 This cloth is also recorded under:
 
 - Shepherd Brown & White
+
+## Related setts
+
+Setts a curator has related to this one.
+
+- **parent-of**: [Shepherd or Falkirk](/tartans/k1ly1/) — The black-and-white Shepherd's Check is the Falkirk sett restated in dyed wool.
 
 ## Thread count
 N/6 T/6

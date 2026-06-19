@@ -2,19 +2,11 @@
 title: "Leonard Hunting (Name)"
 date: 2023-03-18
 ---
-**Bands:** [KBKB](/stripes/kbkb/) · **Stripes:** [K DP K DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K DP</span></span>
+In pattern [BKBK](/stripes/bkbk/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5417/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wcwm 9275-1333-1](/setts/s4/k20dp3k20dp20~x2/)
-
 
 ## Thread count
 K/120 P20 K40 P/36

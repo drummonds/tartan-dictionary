@@ -2,10 +2,9 @@
 title: "MacInnes"
 date: 2023-03-18
 ---
-**Bands:** [RGBKWKGKGKGKY](/stripes/rgbkwkgkgkgky/) · **Stripes:** [R DG DB K LB K DG K DG K DG K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG DB K LB K DG K DG K DG K LY</span></span>
+In pattern [RGBKWKGKGKGKY](/stripes/rgbkwkgkgkgky/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

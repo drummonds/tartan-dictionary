@@ -2,10 +2,9 @@
 title: "Lions International"
 date: 2023-03-18
 ---
-**Bands:** [BWKBYBWYBKWBWWWBWBKW](/stripes/bwkbybwybkwbwwwbwbkw/) · **Stripes:** [B LB K B LO B LB LO B K LB B LB LB LB B LB B K LB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">B LB K B LO B LB LO B K LB B LB LB LB B LB B K LB</span></span>
+In pattern [BWKBYBWYBKWBWWWBWBKW](/stripes/bwkbybwybkwbwwwbwbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2123
 

@@ -2,10 +2,9 @@
 title: "Wee Course, Blairgowrie Golf Club, The"
 date: 2023-03-18
 ---
-**Bands:** [WBYBBYRBGBW](/stripes/wbybbyrbgbw/) · **Stripes:** [W DB LO N DB LO R DB DG N W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB LO N DB LO R DB DG N W</span></span>
+In pattern [WBGBRYBBYBW](/stripes/wbgbrybbybw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11428
 

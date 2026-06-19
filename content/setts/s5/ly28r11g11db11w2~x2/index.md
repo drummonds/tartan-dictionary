@@ -2,10 +2,9 @@
 title: "Samye #2"
 date: 2023-03-18
 ---
-**Bands:** [YRGBW](/stripes/yrgbw/) · **Stripes:** [LY R G DB W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R G DB W</span></span>
+In pattern [WBGRY](/stripes/wbgry/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5888
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5888](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5888)
 - Scottish Tartans World Register: 3169
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Samye](/setts/s5/ly25r10g10db11w2~x2/)
-
 
 ## Thread count
 Y/56 R22 G22 B22 LN/4

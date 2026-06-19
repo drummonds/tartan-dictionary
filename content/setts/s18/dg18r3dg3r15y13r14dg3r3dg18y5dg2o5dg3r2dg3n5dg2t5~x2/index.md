@@ -2,10 +2,9 @@
 title: "Ben Murad (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRGGGRGRGBGB](/stripes/grgrgrgrgggrgrgbgb/) · **Stripes:** [DG R DG R Y R DG R DG Y DG O DG R DG N DG T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG R DG R Y R DG R DG Y DG O DG R DG N DG T</span></span>
+In pattern [BGBGRGRGGGRGRGRGRG](/stripes/bgbgrgrgggrgrgrgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11003
 

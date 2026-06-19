@@ -2,10 +2,9 @@
 title: "Wormeck (2013) Germany"
 date: 2023-03-18
 ---
-**Bands:** [BYRKW](/stripes/byrkw/) · **Stripes:** [DB LO R K W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LO R K W</span></span>
+In pattern [BYRKW](/stripes/byrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10714
 

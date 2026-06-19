@@ -2,10 +2,9 @@
 title: "Thomson Camel (Jedburgh Mill)"
 date: 2023-03-18
 ---
-**Bands:** [KGKWKR](/stripes/kgkwkr/) · **Stripes:** [K Y K LB K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K Y K LB K R</span></span>
+In pattern [KGKWKR](/stripes/kgkwkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4122
 

@@ -2,10 +2,9 @@
 title: "St. Johnstone F.C. (Sports)"
 date: 2023-03-18
 ---
-**Bands:** [KWKBYBW](/stripes/kwkbybw/) · **Stripes:** [K LB K DB LO DB LB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LB K DB LO DB LB</span></span>
+In pattern [KWKBYBW](/stripes/kwkbybw/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2425/
 

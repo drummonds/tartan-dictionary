@@ -2,10 +2,9 @@
 title: "Saltcoats (Saskatchewan)"
 date: 2023-03-18
 ---
-**Bands:** [RGYBGBWBGYB](/stripes/rgybgbwbgyb/) · **Stripes:** [R DG LY B Y DB W B Y LY DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG LY B Y DB W B Y LY DB</span></span>
+In pattern [BYGBWBGBYGR](/stripes/bygbwbgbygr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5933
 

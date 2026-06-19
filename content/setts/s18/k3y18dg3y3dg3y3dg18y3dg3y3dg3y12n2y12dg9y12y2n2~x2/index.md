@@ -2,10 +2,9 @@
 title: "Van Ingelgem Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGGGGGGGGGGGBGGGGB](/stripes/kgggggggggggbggggb/) · **Stripes:** [K Y DG Y DG Y DG Y DG Y DG Y N Y DG Y Y N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="seq">K Y DG Y DG Y DG Y DG Y DG Y N Y DG Y Y N</span></span>
+In pattern [BGGGGBGGGGGGGGGGGK](/stripes/bggggbgggggggggggk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5761
 

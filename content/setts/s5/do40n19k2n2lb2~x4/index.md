@@ -2,10 +2,9 @@
 title: "National Ballet of Canada"
 date: 2023-03-18
 ---
-**Bands:** [BBKBW](/stripes/bbkbw/) · **Stripes:** [DO N K N LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DO N K N LB</span></span>
+In pattern [BBKBW](/stripes/bbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3096
 

@@ -2,10 +2,9 @@
 title: "Huntly #2"
 date: 2023-03-18
 ---
-**Bands:** [YRYKWYBYGWGRKRKRKRGWGYBYWKYRYB](/stripes/yrykwybygwgrkrkrkrgwgybywkyryb/) · **Stripes:** [LR R LR K LB LR B LR DG LB DG R K R K R K R DG LB DG LR B LR LB K LR R LR B](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LR R LR K LB LR B LR DG LB DG R K R K R K R DG LB DG LR B LR LB K LR R LR B</span></span>
+In pattern [BYRYKWYBYGWGRKRKRKRGWGYBYWKYRY](/stripes/byrykwybygwgrkrkrkrgwgybywkyry/).
 
-
-This was sourced from register-of-tartans.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1796
 

@@ -2,10 +2,9 @@
 title: "Scottish-Shop Switzerland"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBBBRBRBRBB](/stripes/ybbbbbbbrbrbrbb/) · **Stripes:** [LY DT DP DT DP DT DP DT O DT O DT O DT DP](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY DT DP DT DP DT DP DT O DT O DT O DT DP</span></span>
+In pattern [BBRBRBRBBBBBBBY](/stripes/bbrbrbrbbbbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11630
 

@@ -2,10 +2,9 @@
 title: "Lauder Primary School (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYBRBR](/stripes/rybrbr/) · **Stripes:** [R LY DB R T R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY DB R T R</span></span>
+In pattern [RBRBYR](/stripes/rbrbyr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10307/
 

@@ -2,10 +2,9 @@
 title: "Gold Country (California)"
 date: 2023-03-18
 ---
-**Bands:** [BYBB](/stripes/bybb/) · **Stripes:** [DT LO T DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">DT LO T DB</span></span>
+In pattern [BBYB](/stripes/bbyb/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10489
 

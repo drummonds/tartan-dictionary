@@ -2,19 +2,11 @@
 title: "St. Andrews Old Course Hotel (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [GBKBGB](/stripes/gbkbgb/) · **Stripes:** [G DB K DB DY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB K DB DY DB</span></span>
+In pattern [BGBKBG](/stripes/bgbkbg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2332/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g50db20k3db2dy2db5~x2/)
-
 
 ## Thread count
 G/104 DB40 K12 DB8 T8 DB/40

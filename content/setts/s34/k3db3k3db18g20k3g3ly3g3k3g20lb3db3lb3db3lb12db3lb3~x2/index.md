@@ -2,10 +2,9 @@
 title: "Johnston Dress (Dalgleish)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGKGYGKGWBWBWBWBWBWBWGKGYGKGBKB](/stripes/kbkbgkgygkgwbwbwbwbwbwbwgkgygkgbkb/) · **Stripes:** [K DB K DB G K G LY G K G LB DB LB DB LB DB LB DB LB DB LB DB LB G K G LY G K G DB K DB](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB G K G LY G K G LB DB LB DB LB DB LB DB LB DB LB DB LB G K G LY G K G DB K DB</span></span>
+In pattern [BKBGKGYGKGWBWBWBWBWBWBWGKGYGKGBKBK](/stripes/bkbgkgygkgwbwbwbwbwbwbwgkgygkgbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [34 band tartan](/bands/bands34/).
+This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1897
 

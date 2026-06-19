@@ -2,19 +2,11 @@
 title: "Logan - 1810 (Cockburn Collection)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGRK](/stripes/krkrgrk/) · **Stripes:** [K R K R DG R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R DG R K</span></span>
+In pattern [KRGRKRK](/stripes/krgrkrk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/398/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Logan (Dark)](/setts/s7/k15r4k1r4dg15r4k1~x4/)
-
 
 ## Thread count
 DB/28 R12 DB4 R12 G50 R12 DB/4

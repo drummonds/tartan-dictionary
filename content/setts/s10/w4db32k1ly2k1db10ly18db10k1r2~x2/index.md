@@ -2,10 +2,9 @@
 title: "European Union (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKBYBKYKBW](/stripes/rkbybkykbw/) · **Stripes:** [R K DB LY DB K LY K DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K DB LY DB K LY K DB W</span></span>
+In pattern [RKBYBKYKBW](/stripes/rkbybkykbw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2486/
 

@@ -2,10 +2,9 @@
 title: "Menzies"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRG](/stripes/rgrgrgrg/) · **Stripes:** [R G R G R G R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G R G</span></span>
+In pattern [GRGRGRGR](/stripes/grgrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2920
 
@@ -901,14 +900,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Aukland & District Pipe Band (Corp)](/setts/s8/g164r20g6r20g23r14g4r36/)
-- [Kyle Green (Name)](/setts/s8/r54g6r5g6r10g3r2g18~x2/)
-
 
 ## Thread count
 G/96 R8 G4 R8 G12 R4 G6 R/18

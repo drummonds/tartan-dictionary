@@ -2,10 +2,9 @@
 title: "Cameron"
 date: 2023-03-18
 ---
-**Bands:** [YBRBRKGRGRGRGRGKRBRBY](/stripes/ybrbrkgrgrgrgrgkrbrby/) · **Stripes:** [LY DB R DB R K G R G R G R G R G K R DB R DB LY](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DB R DB R K G R G R G R G R G K R DB R DB LY</span></span>
+In pattern [YBRBRKGRGRGRGRGKRBRBY](/stripes/ybrbrkgrgrgrgrgkrbrby/).
 
-
-This was sourced from logan-1831.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from logan-1831.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link /posts/logans-scottish-gael/
 

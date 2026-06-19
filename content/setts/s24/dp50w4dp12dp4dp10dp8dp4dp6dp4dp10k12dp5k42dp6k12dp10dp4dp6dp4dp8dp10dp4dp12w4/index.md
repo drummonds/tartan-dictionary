@@ -2,10 +2,9 @@
 title: "Institute of Directors (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BWBBBBBBBBKBKBKBBBBBBBBW](/stripes/bwbbbbbbbbkbkbkbbbbbbbbw/) · **Stripes:** [DP W DP DP DP DP DP DP DP DP K DP K DP K DP DP DP DP DP DP DP DP W](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W DP DP DP DP DP DP DP DP K DP K DP K DP DP DP DP DP DP DP DP W</span></span>
+In pattern [BWBBBBBBBBKBKBKBBBBBBBBW](/stripes/bwbbbbbbbbkbkbkbbbbbbbbw/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7763/
 

@@ -2,10 +2,9 @@
 title: "Hardie"
 date: 2023-03-18
 ---
-**Bands:** [RGWGBRBGWG](/stripes/rgwgbrbgwg/) · **Stripes:** [M DG W DG DT R DT DG W DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">M DG W DG DT R DT DG W DG</span></span>
+In pattern [GWGBRBGWGR](/stripes/gwgbrbgwgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1593
 

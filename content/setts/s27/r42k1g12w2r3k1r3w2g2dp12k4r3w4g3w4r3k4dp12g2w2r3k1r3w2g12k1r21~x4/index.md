@@ -2,10 +2,9 @@
 title: "MacFarlane"
 date: 2023-03-18
 ---
-**Bands:** [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbgwrkrwgkr/) · **Stripes:** [R K G W R K R W G DP K R W G W R K DP G W R K R W G K R](/stripes/stripes27/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G W R K R W G DP K R W G W R K DP G W R K R W G K R</span></span>
+In pattern [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbgwrkrwgkr/).
 
-
-This was sourced from logan-1831.  It is a [27 band tartan](/bands/bands27/).
+This was sourced from logan-1831.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link /posts/logans-scottish-gael/
 

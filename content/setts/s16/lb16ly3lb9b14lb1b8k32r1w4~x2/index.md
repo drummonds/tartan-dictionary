@@ -2,10 +2,9 @@
 title: "Wrens (WRNS)"
 date: 2023-03-18
 ---
-**Bands:** [YWBWBKRWRKBWBWYW](/stripes/ywbwbkrwrkbwbwyw/) · **Stripes:** [LY LB B LB B K R W R K B LB B LB LY LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY LB B LB B K R W R K B LB B LB LY LB</span></span>
+In pattern [WYWBWBKRWRKBWBWY](/stripes/wywbwbkrwrkbwbwy/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4785
 

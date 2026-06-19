@@ -2,10 +2,9 @@
 title: "Inverclyde"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBBGRWRGBBBBBBBW](/stripes/bbbbbbbgrwrgbbbbbbbw/) · **Stripes:** [DB DB DB N T N T G R W R G T N T N DB DB DB W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB DB DB N T N T G R W R G T N T N DB DB DB W</span></span>
+In pattern [BBBBBBBGRWRGBBBBBBBW](/stripes/bbbbbbbgrwrgbbbbbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4897
 

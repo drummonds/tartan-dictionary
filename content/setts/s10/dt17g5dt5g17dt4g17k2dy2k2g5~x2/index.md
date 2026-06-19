@@ -2,10 +2,9 @@
 title: "Hueg (Hunting) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGBGBGB](/stripes/gkgkgbgbgb/) · **Stripes:** [G K DY K G DT G DT G DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">G K DY K G DT G DT G DT</span></span>
+In pattern [BGBGBGKGKG](/stripes/bgbgbgkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10524/
 

@@ -2,10 +2,9 @@
 title: "Donegal County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KGYGKGGKYKRKW](/stripes/kgygkggkykrkw/) · **Stripes:** [K DG LO DG K G DG K LO K R K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DG LO DG K G DG K LO K R K W</span></span>
+In pattern [KGYGKGGKYKRKW](/stripes/kgygkggkykrkw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7450/
 

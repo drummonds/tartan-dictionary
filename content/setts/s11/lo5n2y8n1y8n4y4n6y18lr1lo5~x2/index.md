@@ -2,10 +2,9 @@
 title: "Bute Heather, Ancient Wth'd (Fashion"
 date: 2023-03-18
 ---
-**Bands:** [YYGBGBGBGBY](/stripes/yygbgbgbgby/) · **Stripes:** [LO LR Y N Y N Y N Y N LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO LR Y N Y N Y N Y N LO</span></span>
+In pattern [YBGBGBGBGYY](/stripes/ybgbgbgbgyy/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7247/
 

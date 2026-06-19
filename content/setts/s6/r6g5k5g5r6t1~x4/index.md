@@ -2,10 +2,9 @@
 title: "Norwich No.028"
 date: 2023-03-18
 ---
-**Bands:** [RGKGRB](/stripes/rgkgrb/) · **Stripes:** [R G K G R T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G K G R T</span></span>
+In pattern [BRGKGR](/stripes/brgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3177
 

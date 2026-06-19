@@ -2,10 +2,9 @@
 title: "MacKinnon #10"
 date: 2023-03-18
 ---
-**Bands:** [WRGRBRGRBRW](/stripes/wrgrbrgrbrw/) · **Stripes:** [W R DG R T R DG R T R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R DG R T R DG R T R W</span></span>
+In pattern [WRBRGRBRGRW](/stripes/wrbrgrbrgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2543
 

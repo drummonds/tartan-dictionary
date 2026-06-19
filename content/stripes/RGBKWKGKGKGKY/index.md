@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/rgbkwkgkgkgky/
 ---
-RGBKWKGKGKGKY
-
-It is a 13 band tartan.
+It is a 13 stripe tartan.
 
 
 
 ## Colour Sequence
-RGBKWKGKGKGKY
+
+{{< pat "RGBKWKGKGKGKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG DB K LB K DG K DG K DG K LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG DB K LB K DG K DG K DG K LY</span></span>
 
 | Tartans |
 |---------------|
 | [MacInnes](/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/)|
 |![MacInnes example sett](/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/sett.png)|
-

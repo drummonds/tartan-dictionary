@@ -2,10 +2,9 @@
 title: "Royal Highland Yacht Club"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKBGKW](/stripes/kbkbkbkbgkw/) · **Stripes:** [K DB K DP K DB K DB DG K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB K DP K DB K DB DG K W</span></span>
+In pattern [KBKBKBKBGKW](/stripes/kbkbkbkbgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5913
 

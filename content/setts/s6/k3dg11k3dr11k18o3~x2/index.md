@@ -2,10 +2,9 @@
 title: "The Harbour Town, Hilton Head"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKR](/stripes/kgkbkr/) · **Stripes:** [K DG K DR K O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K DG K DR K O</span></span>
+In pattern [KGKBKR](/stripes/kgkbkr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

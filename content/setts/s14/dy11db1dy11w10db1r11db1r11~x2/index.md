@@ -2,10 +2,9 @@
 title: "St. Andrews (Queens University)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWGBGBGWBRB](/stripes/rbrbwgbgbgwbrb/) · **Stripes:** [R DB R DB W DY DB DY DB DY W DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB W DY DB DY DB DY W DB R DB</span></span>
+In pattern [BRBWGBGBGWBRBR](/stripes/brbwgbgbgwbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3875
 

@@ -2,10 +2,9 @@
 title: "Wcwm 1106-2"
 date: 2023-03-18
 ---
-**Bands:** [KGBKW](/stripes/kgbkw/) · **Stripes:** [K DG DP K LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K DG DP K LB</span></span>
+In pattern [KGBKW](/stripes/kgbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4510
 

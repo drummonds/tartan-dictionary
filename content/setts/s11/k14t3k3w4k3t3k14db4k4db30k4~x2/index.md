@@ -2,10 +2,9 @@
 title: "Scottish Jewish Community"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKWKBK](/stripes/kbkbkbkwkbk/) · **Stripes:** [K DB K DB K T K W K T K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K T K W K T K</span></span>
+In pattern [KBKBKBKWKBK](/stripes/kbkbkbkwkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5970
 

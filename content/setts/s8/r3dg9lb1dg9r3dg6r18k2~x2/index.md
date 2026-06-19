@@ -2,10 +2,9 @@
 title: "Cumming SM"
 date: 2023-03-18
 ---
-**Bands:** [KRGRGWGR](/stripes/krgrgwgr/) · **Stripes:** [K R DG R DG LB DG R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R DG R DG LB DG R</span></span>
+In pattern [KRGRGWGR](/stripes/krgrgwgr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Comyn](/setts/s8/k1r9dg2r2dg4lb1dg4r1~x2/)
-
 
 ## Thread count
 R/6 G18 N2 G18 R6 G12 R36 K/4

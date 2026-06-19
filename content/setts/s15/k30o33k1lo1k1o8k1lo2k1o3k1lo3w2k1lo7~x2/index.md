@@ -2,10 +2,9 @@
 title: "Black Onyx (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KRKYKRKYKRKYWKY](/stripes/krkykrkykrkywky/) · **Stripes:** [K O K LO K O K LO K O K LO W K LO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K O K LO K O K LO K O K LO W K LO</span></span>
+In pattern [KRKYKRKYKRKYWKY](/stripes/krkykrkykrkywky/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3807/
 

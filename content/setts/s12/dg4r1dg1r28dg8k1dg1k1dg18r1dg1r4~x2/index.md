@@ -2,10 +2,9 @@
 title: "Drummond #3"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKGKGRGRG](/stripes/rgrgkgkgrgrg/) · **Stripes:** [R DG R DG K DG K DG R DG R DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG K DG K DG R DG R DG</span></span>
+In pattern [GRGRGKGKGRGR](/stripes/grgrgkgkgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982
 

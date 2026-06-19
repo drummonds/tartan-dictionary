@@ -2,10 +2,9 @@
 title: "Henkel"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKWKRKG](/stripes/kgkrkwkrkg/) · **Stripes:** [K Y K R K W K R K Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y K R K W K R K Y</span></span>
+In pattern [GKRKWKRKGK](/stripes/gkrkwkrkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1686
 

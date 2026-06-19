@@ -2,10 +2,9 @@
 title: "Quraysh"
 date: 2023-03-18
 ---
-**Bands:** [KGBGBGBGBGKBKRKGKB](/stripes/kgbgbgbgbgkbkrkgkb/) · **Stripes:** [K Y N Y N Y N Y N Y K DT K O K Y K DT](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">K Y N Y N Y N Y N Y K DT K O K Y K DT</span></span>
+In pattern [BKGKRKBKGBGBGBGBGK](/stripes/bkgkrkbkgbgbgbgbgk/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11531
 

@@ -2,10 +2,9 @@
 title: "Faskin Family (Aberdeenshire)"
 date: 2023-03-18
 ---
-**Bands:** [BBKGKGBGW](/stripes/bbkgkgbgw/) · **Stripes:** [T DP K G K G T G W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T DP K G K G T G W</span></span>
+In pattern [BBKGKGBGW](/stripes/bbkgkgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10571
 

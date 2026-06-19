@@ -2,10 +2,9 @@
 title: "Daks, Navy"
 date: 2023-03-18
 ---
-**Bands:** [RGBBBGBR](/stripes/rgbbbgbr/) · **Stripes:** [R G DB DB DB G DB R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G DB DB DB G DB R</span></span>
+In pattern [RBGBBBGR](/stripes/rbgbbbgr/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Daks (Navy)](/setts/s8/r3g6db2db2db11g9db2r3~x2/)
-
 
 ## Thread count
 R/5 G12 DB4 B4 DB22 G18 DB4 R/5

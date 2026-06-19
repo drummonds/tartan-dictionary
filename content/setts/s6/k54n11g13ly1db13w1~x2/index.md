@@ -2,10 +2,9 @@
 title: "Kilmaine Saints"
 date: 2023-03-18
 ---
-**Bands:** [KBGYBW](/stripes/kbgybw/) · **Stripes:** [K N G LY DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K N G LY DB W</span></span>
+In pattern [KBGYBW](/stripes/kbgybw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10423
 

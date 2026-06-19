@@ -2,19 +2,11 @@
 title: "Wombles Corporate Tartan Tartan Number: 1783. Earliest known date: pre 2003 Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. Wombles are television puppet characters. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WBWYWBRWRBWGWBW](/stripes/wbwywbrwrbwgwbw/) · **Stripes:** [W DB W LO W DB M W M DB W G W DB W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W LO W DB M W M DB W G W DB W</span></span>
+In pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
 
-
-This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1783
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wombles 5 (Corporate)](/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/)
-
 
 ## Thread count
 LN/10 DB4 LN2 O16 LN2 DB4 R4 LN2 R4 DB4 LN2 G16 LN2 DB4 LN/10

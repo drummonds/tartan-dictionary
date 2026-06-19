@@ -2,10 +2,9 @@
 title: "Royal Canadian Air Force"
 date: 2023-03-18
 ---
-**Bands:** [BBKBKBKYKBKBBBBBBB](/stripes/bbkbkbkykbkbbbbbbb/) · **Stripes:** [DR B K DR K B K LR K DR K DR DB DR DB DR DB DR](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR B K DR K B K LR K DR K DR DB DR DB DR DB DR</span></span>
+In pattern [BBBBBBBKBKYKBKBKBB](/stripes/bbbbbbbkbkykbkbkbb/).
 
-
-This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

@@ -2,10 +2,9 @@
 title: "Kirk (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RYRKRGR](/stripes/ryrkrgr/) · **Stripes:** [R LO R K R G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LO R K R G R</span></span>
+In pattern [RGRKRYR](/stripes/rgrkryr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4229/
 

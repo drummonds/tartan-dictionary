@@ -2,10 +2,9 @@
 title: "Affara (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGYKGKB](/stripes/kgykgkb/) · **Stripes:** [K G LY K G K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G LY K G K DB</span></span>
+In pattern [BKGKYGK](/stripes/bkgkygk/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=25
 

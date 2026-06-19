@@ -2,10 +2,9 @@
 title: "Healy (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YBWBRYBBWBB](/stripes/ybwbrybbwbb/) · **Stripes:** [LY DB LB B R LY DB B LB DB B](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY DB LB B R LY DB B LB DB B</span></span>
+In pattern [BBWBBYRBWBY](/stripes/bbwbbyrbwby/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6236/
 

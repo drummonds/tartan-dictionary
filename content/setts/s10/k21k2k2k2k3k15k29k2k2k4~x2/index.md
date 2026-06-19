@@ -2,19 +2,11 @@
 title: "City of Armadale Australian District Tartan Tartan Number: 5868. Earliest known date: pre 2003 No details known. City of Armadale is in Western Australia. Strictly speaking this should not be categorised as District without documented authorisation from a local government or business body for the area concerned. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KKKKKKKKKK](/stripes/kkkkkkkkkk/) · **Stripes:** [K K K K K K K K K K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">K K K K K K K K K K</span></span>
+In pattern [KKKKKKKKKK](/stripes/kkkkkkkkkk/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5868
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Colin Wesley Webster](/setts/s10/k100k5k4k3k2k1k2k2k4k5~x2/)
-
 
 ## Thread count
 K/42 G4 K4 G4 K6 G30 SR58 G4 SR4 G/8

@@ -2,10 +2,9 @@
 title: "Wcwm 972-1"
 date: 2023-03-18
 ---
-**Bands:** [WKBRGWKYKWKBW](/stripes/wkbrgwkykwkbw/) · **Stripes:** [LB K DO O G LB K LO K LB K DO LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB K DO O G LB K LO K LB K DO LB</span></span>
+In pattern [WBKWKYKWGRBKW](/stripes/wbkwkykwgrbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4578
 

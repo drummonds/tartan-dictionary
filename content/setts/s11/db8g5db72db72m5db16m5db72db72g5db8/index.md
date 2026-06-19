@@ -2,10 +2,9 @@
 title: "Gravesend Grammar School (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [BGBBRBRBBGB](/stripes/bgbbrbrbbgb/) · **Stripes:** [DB G DB DB M DB M DB DB G DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">DB G DB DB M DB M DB DB G DB</span></span>
+In pattern [BGBBRBRBBGB](/stripes/bgbbrbrbbgb/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7100/
 

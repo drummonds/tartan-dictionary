@@ -2,10 +2,9 @@
 title: "Wombles 1 (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [WBWYWBRWRBWGWBW](/stripes/wbwywbrwrbwgwbw/) · **Stripes:** [W DB W LO W DB R W R DB W G W DB W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W LO W DB R W R DB W G W DB W</span></span>
+In pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6077/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/6077/
 This cloth is also recorded under:
 
 - Womble
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wombles](/setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/)
-
 
 ## Thread count
 W/24 DB8 W8 G40 W8 DB8 R16 W8 R16 DB8 W8 O32 W8 DB8 W/24

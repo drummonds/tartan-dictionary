@@ -2,10 +2,9 @@
 title: "Diana Princess of Wales Commemorative Tartan Tartan Number: 2515. Earliest known date: 1997 Sales help Princess Diana Memorial Trust and commemorate the life of Diana Princess of Wales. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWKWBWBWKBWWW](/stripes/rwkwbwbwkbwww/) · **Stripes:** [R W K W T W T W K N LB W LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R W K W T W T W K N LB W LB</span></span>
+In pattern [RWKWBWBWKBWWW](/stripes/rwkwbwbwkbwww/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2515
 

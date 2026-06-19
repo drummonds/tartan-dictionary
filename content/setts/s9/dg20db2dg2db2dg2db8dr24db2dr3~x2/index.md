@@ -2,10 +2,9 @@
 title: "Lindsay"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBBBB](/stripes/gbgbgbbbb/) · **Stripes:** [DG DB DG DB DG DB DR DB DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG DB DG DB DG DB DR DB DR</span></span>
+In pattern [BBBBGBGBG](/stripes/bbbbgbgbg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lindsay](/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/)
-
 
 ## Thread count
 DG/40 DB4 DG4 DB4 DG4 DB16 DR48 DB4 DR/6

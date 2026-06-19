@@ -2,10 +2,9 @@
 title: "Wilson's, No 1"
 date: 2023-03-18
 ---
-**Bands:** [KRBKYKWKGRKRW](/stripes/krbkykwkgrkrw/) · **Stripes:** [K R T K LY K W K G R K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R T K LY K W K G R K R W</span></span>
+In pattern [KRBKYKWKGRKRW](/stripes/krbkykwkgrkrw/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Harden (Name)](/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/)
-
 
 ## Thread count
 K/2 R28 B16 K18 Y2 K4 LN4 K4 G20 R30 K8 R24 LN/2

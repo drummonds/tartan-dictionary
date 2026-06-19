@@ -2,10 +2,9 @@
 title: "Scotland the Brave"
 date: 2023-03-18
 ---
-**Bands:** [KWKBKGBGBG](/stripes/kwkbkgbgbg/) · **Stripes:** [K W K P K DG P DG DP DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">K W K P K DG P DG DP DG</span></span>
+In pattern [GBGBGKBKWK](/stripes/gbgbgkbkwk/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

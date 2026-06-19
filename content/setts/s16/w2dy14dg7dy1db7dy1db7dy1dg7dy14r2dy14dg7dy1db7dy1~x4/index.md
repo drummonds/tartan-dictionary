@@ -2,10 +2,9 @@
 title: "Fraser Hunting (unmarked sample)"
 date: 2023-03-18
 ---
-**Bands:** [GBGGGRGGGBGBGGGW](/stripes/gbgggrgggbgbgggw/) · **Stripes:** [DY DB DY DG DY R DY DG DY DB DY DB DY DG DY W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DY DB DY DG DY R DY DG DY DB DY DB DY DG DY W</span></span>
+In pattern [GBGGGRGGGBGBGGGW](/stripes/gbgggrgggbgbgggw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1260
 

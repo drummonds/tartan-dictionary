@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/brbrbrbgrgr/
 ---
-BRBRBRBGRGR
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BRBRBRBGRGR
+
+{{< pat "BRBRBRBGRGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R G R G DB R DB R DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R G DB R DB R DB R DB</span></span>
 
 | Tartans |
 |---------------|
 | [McCaslin](/setts/s11/db13r4db4r9db14r4db14g15r8g8r4~x2/)|
 |![McCaslin example sett](/setts/s11/db13r4db4r9db14r4db14g15r8g8r4~x2/sett.png)|
-

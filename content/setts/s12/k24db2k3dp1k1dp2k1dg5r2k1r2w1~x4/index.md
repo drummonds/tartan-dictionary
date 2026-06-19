@@ -2,19 +2,11 @@
 title: "Braveheart Warrior (Universal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/) · **Stripes:** [K DB K DP K DP K DG R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB K DP K DP K DG R K R W</span></span>
+In pattern [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2231/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Braveheart Commemorative Tartan Tartan Number: 2185. Earliest known date: 1995 Braveheart tartan commemorates the making of the film by the same name, which tells the story of one of Scotland's greatest heros, William Wallace. Originally designed for Ronnie Watt. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/)
-
 
 ## Thread count
 K/96 DB8 K12 DP4 K4 DP8 K4 DG20 DR8 K4 DR8 LN/4

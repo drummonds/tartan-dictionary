@@ -2,10 +2,9 @@
 title: "Heritage (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RBKBKGG](/stripes/rbkbkgg/) · **Stripes:** [R DB K DB K Y Y](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R DB K DB K Y Y</span></span>
+In pattern [GGKBKBR](/stripes/ggkbkbr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6014/
 

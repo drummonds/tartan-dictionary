@@ -2,10 +2,9 @@
 title: "MacKenzie Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBKGKWKGKWBWBW](/stripes/rbkgkwkgkwbwbw/) · **Stripes:** [R DB K G K W K G K W T W T W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K G K W K G K W T W T W</span></span>
+In pattern [RBKGKWKGKWBWBW](/stripes/rbkgkwkgkwbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2524
 

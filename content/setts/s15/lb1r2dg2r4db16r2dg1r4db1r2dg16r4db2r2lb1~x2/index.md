@@ -2,10 +2,9 @@
 title: "MacIntyre"
 date: 2023-03-18
 ---
-**Bands:** [WRGRBRGRBRGRBRW](/stripes/wrgrbrgrbrgrbrw/) · **Stripes:** [LB R DG R DB R DG R DB R DG R DB R LB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB R DG R DB R DG R DB R DG R DB R LB</span></span>
+In pattern [WRBRGRBRGRBRGRW](/stripes/wrbrgrbrgrbrgrw/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

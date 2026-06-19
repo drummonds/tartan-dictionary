@@ -2,10 +2,9 @@
 title: "Douglas Ancient Red"
 date: 2023-03-18
 ---
-**Bands:** [KYBRW](/stripes/kybrw/) · **Stripes:** [K LO N R LB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">K LO N R LB</span></span>
+In pattern [KYBRW](/stripes/kybrw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=960
 

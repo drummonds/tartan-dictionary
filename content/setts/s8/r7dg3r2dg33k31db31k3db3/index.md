@@ -2,10 +2,9 @@
 title: "Baird"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKBKB](/stripes/rgrgkbkb/) · **Stripes:** [R DG R DG K DB K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG R DG K DB K DB</span></span>
+In pattern [BKBKGRGR](/stripes/bkbkgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=169
 

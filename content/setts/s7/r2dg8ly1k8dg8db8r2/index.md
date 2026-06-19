@@ -2,10 +2,9 @@
 title: "Brodie Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGYKGBR](/stripes/rgykgbr/) · **Stripes:** [R DG LY K DG DB R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG LY K DG DB R</span></span>
+In pattern [RBGKYGR](/stripes/rbgkygr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

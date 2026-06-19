@@ -2,10 +2,9 @@
 title: "Miyuki, Check Ecru Beige, No 1001A"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKGKGKR](/stripes/kgkrkgkgkr/) · **Stripes:** [K Y K R K Y K Y K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K Y K R K Y K Y K R</span></span>
+In pattern [KGKRKGKGKR](/stripes/kgkrkgkgkr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "Hebrides Inner"
 date: 2023-03-18
 ---
-**Bands:** [BKBBBKBBBGBBBGBBBGGBBBBB](/stripes/bkbbbkbbbgbbbgbbbggbbbbb/) · **Stripes:** [DR K DB DR DB K DR DB DR G DR DB DR G DR DB DR G DG DR DB DR DB DR](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR K DB DR DB K DR DB DR G DR DB DR G DR DB DR G DG DR DB DR DB DR</span></span>
+In pattern [BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/).
 
-
-This was sourced from weddslist.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

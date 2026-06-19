@@ -2,10 +2,9 @@
 title: "MacDonald #7"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBRGRB](/stripes/grbrbrgrb/) · **Stripes:** [DG R DB R DB R DG R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DB R DB R DG R DB</span></span>
+In pattern [BRGRBRBRG](/stripes/brgrbrbrg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2340
 

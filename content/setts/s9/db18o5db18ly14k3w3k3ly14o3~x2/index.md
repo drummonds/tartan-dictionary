@@ -2,10 +2,9 @@
 title: "Strakan"
 date: 2023-03-18
 ---
-**Bands:** [RYKWKYBRB](/stripes/rykwkybrb/) · **Stripes:** [O LY K W K LY DB O DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">O LY K W K LY DB O DB</span></span>
+In pattern [BRBYKWKYR](/stripes/brbykwkyr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3974
 

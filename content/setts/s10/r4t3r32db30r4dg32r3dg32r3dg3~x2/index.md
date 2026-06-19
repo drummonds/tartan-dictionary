@@ -2,10 +2,9 @@
 title: "Unidentified Plaid #15"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRGRGRG](/stripes/rbrbrgrgrg/) · **Stripes:** [R T R DB R DG R DG R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R T R DB R DG R DG R DG</span></span>
+In pattern [GRGRGRBRBR](/stripes/grgrgrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4348
 

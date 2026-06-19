@@ -2,10 +2,9 @@
 title: "Allen - Northumbrian Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RRRGBGBGBGRGRG](/stripes/rrrgbgbgbgrgrg/) · **Stripes:** [O O O DY N DY N DY N DY O DY O DY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">O O O DY N DY N DY N DY O DY O DY</span></span>
+In pattern [GRGRGBGBGBGRRR](/stripes/grgrgbgbgbgrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10573
 

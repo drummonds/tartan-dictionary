@@ -2,19 +2,11 @@
 title: "Loch Laggan (District)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGKG](/stripes/rgrgkg/) · **Stripes:** [R G R G K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G K G</span></span>
+In pattern [GKGRGR](/stripes/gkgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/796/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Loch Laggan](/setts/s6/r19g6r7g101k7g7/)
-
 
 ## Thread count
 R/16 G8 R4 G80 K4 G/4

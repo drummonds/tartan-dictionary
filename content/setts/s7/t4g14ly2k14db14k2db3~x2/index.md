@@ -2,10 +2,9 @@
 title: "Hogarth of Firhill (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKYGB](/stripes/bkbkygb/) · **Stripes:** [DB K DB K LY G T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB K DB K LY G T</span></span>
+In pattern [BGYKBKB](/stripes/bgykbkb/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/198/
 
@@ -900,13 +899,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hogarth of Firhill](/setts/s7/t2g6ly1k6db6k1db1~x2/)
-
 
 ## Thread count
 B/8 G28 Y4 K28 DB28 K4 DB/6

@@ -2,19 +2,11 @@
 title: "Hunter of Hunterston (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [YGRGWBRBGBG](/stripes/ygrgwbrbgbg/) · **Stripes:** [LY G R G W DB R DB G DB G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G R G W DB R DB G DB G</span></span>
+In pattern [GBGBRBWGRGY](/stripes/gbgbrbwgrgy/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/719/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hunter of Hunterston](/setts/s11/g5db2g12db12r2db12w2g12r2g4ly3~x2/)
-
 
 ## Thread count
 G/10 DB4 G28 DB28 R4 DB28 W4 G28 R4 G8 LG/6

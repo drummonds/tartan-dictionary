@@ -2,10 +2,9 @@
 title: "Samye Sangha #2"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRR](/stripes/rrrrrr/) · **Stripes:** [R R R R R R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R R R</span></span>
+In pattern [RRRRRR](/stripes/rrrrrr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5917
 
@@ -24,13 +23,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [5917](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5917)
 - Scottish Tartans Authority (ITI): 7129
 - Scottish Tartans World Register: 3170
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Youth on The Horizon (Fashion)](/setts/s6/r2r2r2r2r6r1~x8/)
-
 
 ## Thread count
 DR/64 R6 DR6 R4 DR6 R/46

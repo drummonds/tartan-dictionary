@@ -2,10 +2,9 @@
 title: "South Australian Pipes & Drums (Corp"
 date: 2023-03-18
 ---
-**Bands:** [YBRBYB](/stripes/ybrbyb/) · **Stripes:** [LY DB R DB LY DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB LY DB</span></span>
+In pattern [BYBRBY](/stripes/bybrby/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5890/
 

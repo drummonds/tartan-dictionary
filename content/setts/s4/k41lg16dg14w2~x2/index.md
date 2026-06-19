@@ -2,10 +2,9 @@
 title: "Hamworthy Association"
 date: 2023-03-18
 ---
-**Bands:** [KYGW](/stripes/kygw/) · **Stripes:** [K LG DG W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K LG DG W</span></span>
+In pattern [KYGW](/stripes/kygw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11365
 

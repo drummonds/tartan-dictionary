@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbrbg/
 ---
-BKBRBG
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/g3db8r11dt3k2dp2~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BKBRBG
+
+{{< pat "BKBRBG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G DB R DT K DP <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DB R DT K DP</span></span>
 
 | Tartans |
 |---------------|
 | [Nicolson of Tiree & Coll (Clan)](/setts/s6/g3db8r11dt3k2dp2~x4/)|
 |![Nicolson of Tiree & Coll (Clan) example sett](/setts/s6/g3db8r11dt3k2dp2~x4/sett.png)|
-

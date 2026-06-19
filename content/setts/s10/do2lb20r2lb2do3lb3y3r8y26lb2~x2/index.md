@@ -2,10 +2,9 @@
 title: "Liama, The"
 date: 2023-03-18
 ---
-**Bands:** [BWRWBWGRGW](/stripes/bwrwbwgrgw/) · **Stripes:** [DO LB R LB DO LB Y R Y LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DO LB R LB DO LB Y R Y LB</span></span>
+In pattern [BWRWBWGRGW](/stripes/bwrwbwgrgw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2111
 

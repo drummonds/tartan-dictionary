@@ -2,10 +2,9 @@
 title: "Cranston Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBGG](/stripes/rbrbrbgg/) · **Stripes:** [R DB R DB R DB G G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R DB R DB G G</span></span>
+In pattern [GGBRBRBR](/stripes/ggbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=794
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [794](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=794)
 - Scottish Tartans Authority (ITI): 753
 - Scottish Tartans World Register: 753
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cranston, dress](/setts/s8/r30db3r2db3r6db14g26g6/)
-
 
 ## Thread count
 R/30 DB4 R2 DB4 R6 DB14 G26 Ga/6

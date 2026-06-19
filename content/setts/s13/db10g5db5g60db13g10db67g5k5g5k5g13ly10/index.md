@@ -2,10 +2,9 @@
 title: "Princess Beatrice Hunting"
 date: 2023-03-18
 ---
-**Bands:** [YGKGKGBGBGBGB](/stripes/ygkgkgbgbgbgb/) · **Stripes:** [LY G K G K G DB G DB G DB G DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G K G K G DB G DB G DB G DB</span></span>
+In pattern [BGBGBGBGKGKGY](/stripes/bgbgbgbgkgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3399
 

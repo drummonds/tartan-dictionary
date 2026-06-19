@@ -2,10 +2,9 @@
 title: "Stewart - Pr Ch Ed (Error?)"
 date: 2023-03-18
 ---
-**Bands:** [RBKWKWKGRKRW](/stripes/rbkwkwkgrkrw/) · **Stripes:** [R T K W K W K G R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R T K W K W K G R K R W</span></span>
+In pattern [RBKWKWKGRKRW](/stripes/rbkwkwkgrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1374/
 

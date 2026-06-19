@@ -2,10 +2,9 @@
 title: "Gray (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGGR](/stripes/rgrgrgrggr/) · **Stripes:** [R Y R G R G R G Y R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R Y R G R G R G Y R</span></span>
+In pattern [RGGRGRGRGR](/stripes/rggrgrgrgr/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2148/
 

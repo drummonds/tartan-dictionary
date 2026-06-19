@@ -2,10 +2,9 @@
 title: "Chivas Regal"
 date: 2023-03-18
 ---
-**Bands:** [YRBKB](/stripes/yrbkb/) · **Stripes:** [LY R DT K DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">LY R DT K DT</span></span>
+In pattern [BKBRY](/stripes/bkbry/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5110
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [5110](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5110)
 - Scottish Tartans Authority (ITI): 3949
 - Scottish Tartans World Register: 3269
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Chivas Regal (Corporate)](/setts/s5/dt2k2dt2r5ly1~x12/)
-
 
 ## Thread count
 DB/12 K12 DB12 R28 Y/6

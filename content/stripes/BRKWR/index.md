@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/brkwr/
 ---
-BRKWR
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/b16r1k16w1r1~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BRKWR
+
+{{< pat "BRKWR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R W K R B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R W K R B</span></span>
 
 | Tartans |
 |---------------|
 | [Christie (2016)](/setts/s5/b16r1k16w1r1~x4/)|
 |![Christie (2016) example sett](/setts/s5/b16r1k16w1r1~x4/sett.png)|
-

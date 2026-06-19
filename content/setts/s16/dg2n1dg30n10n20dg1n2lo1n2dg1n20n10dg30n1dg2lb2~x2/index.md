@@ -2,10 +2,9 @@
 title: "Scottish Borderland"
 date: 2023-03-18
 ---
-**Bands:** [GBGBBGBYBGBBGBGW](/stripes/gbgbbgbybgbbgbgw/) · **Stripes:** [DG N DG N N DG N LO N DG N N DG N DG LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DG N DG N N DG N LO N DG N N DG N DG LB</span></span>
+In pattern [GBGBBGBYBGBBGBGW](/stripes/gbgbbgbybgbbgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3709
 

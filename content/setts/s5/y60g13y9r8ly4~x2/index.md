@@ -2,10 +2,9 @@
 title: "Ballantyne (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRGGG](/stripes/yrggg/) · **Stripes:** [LY R Y G Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY R Y G Y</span></span>
+In pattern [GGGRY](/stripes/gggry/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7563/
 

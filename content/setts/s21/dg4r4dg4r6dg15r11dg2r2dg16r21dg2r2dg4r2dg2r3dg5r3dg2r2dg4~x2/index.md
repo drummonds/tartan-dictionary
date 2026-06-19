@@ -2,10 +2,9 @@
 title: "Murray of Dunmore (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRGRGRGRGRGRGRG](/stripes/grgrgrgrgrgrgrgrgrgrg/) · **Stripes:** [DG R DG R DG R DG R DG R DG R DG R DG R DG R DG R DG](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG R DG R DG R DG R DG R DG R DG R DG R DG R DG</span></span>
+In pattern [GRGRGRGRGRGRGRGRGRGRG](/stripes/grgrgrgrgrgrgrgrgrgrg/).
 
-
-This was sourced from tartans-authority.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8856/
 

@@ -2,10 +2,9 @@
 title: "Harding (Florida) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RYRGKGRYRB](/stripes/ryrgkgryrb/) · **Stripes:** [R LY M G K G M LY R DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R LY M G K G M LY R DT</span></span>
+In pattern [BRYRGKGRYR](/stripes/bryrgkgryr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1595
 

@@ -2,10 +2,9 @@
 title: "Brown Watch Trade Tartan Tartan Number: 1739. Earliest known date: pre 1986 Product of J & D Paton of Tillicoultry, one of many samples presented to the Scottish Tartan Society sometime before 1986 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/) · **Stripes:** [DY K DY K DY K DG K DG K DY K DY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY K DY K DY K DG K DG K DY K DY</span></span>
+In pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/).
 
-
-This was sourced from house-of-tartan.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1739
 

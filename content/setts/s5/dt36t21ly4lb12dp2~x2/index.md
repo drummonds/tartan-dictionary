@@ -2,10 +2,9 @@
 title: "Emond, Kenneth (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBYWB](/stripes/bbywb/) · **Stripes:** [DT T LY LB DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DT T LY LB DP</span></span>
+In pattern [BBYWB](/stripes/bbywb/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11546
 

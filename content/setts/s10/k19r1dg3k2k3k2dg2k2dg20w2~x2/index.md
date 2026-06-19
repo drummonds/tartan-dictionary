@@ -2,10 +2,9 @@
 title: "Scottish Chieftain"
 date: 2023-03-18
 ---
-**Bands:** [KRGKKKGKGW](/stripes/krgkkkgkgw/) · **Stripes:** [K R DG K K K DG K DG W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R DG K K K DG K DG W</span></span>
+In pattern [KRGKKKGKGW](/stripes/krgkkkgkgw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5445
 

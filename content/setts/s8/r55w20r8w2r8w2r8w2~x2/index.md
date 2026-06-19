@@ -2,20 +2,11 @@
 title: "Masai Shuka 08 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRWRW](/stripes/rwrwrwrw/) · **Stripes:** [R W R W R W R W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R W R W R W</span></span>
+In pattern [RWRWRWRW](/stripes/rwrwrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7199/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Menzies](/setts/s8/r36w4r3w4r6w2r1w12~x2/)
-- [Menzies (1815)](/setts/s8/r36w4r3w4r6w2r1w12~x4/)
-
 
 ## Thread count
 R/110 LN40 R16 LN4 R16 LN4 R16 LN/4

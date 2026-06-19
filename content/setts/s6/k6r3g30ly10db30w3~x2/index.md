@@ -2,10 +2,9 @@
 title: "Turnbull of Thornton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRGYBW](/stripes/krgybw/) · **Stripes:** [K R G LY DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R G LY DB W</span></span>
+In pattern [KRGYBW](/stripes/krgybw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4164
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4164](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4164)
 - Scottish Tartans Authority (ITI): 5087
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Charlotte Fire Department](/setts/s6/k75r10g7ly3db2w5~x2/)
-
 
 ## Thread count
 K/12 R6 G60 Y20 DB60 W/6

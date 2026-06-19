@@ -2,10 +2,9 @@
 title: "Passion of Scotland (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBBRB](/stripes/kgkbbrb/) · **Stripes:** [K G K DB DT O DT](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">K G K DB DT O DT</span></span>
+In pattern [BRBBKGK](/stripes/brbbkgk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7729/
 

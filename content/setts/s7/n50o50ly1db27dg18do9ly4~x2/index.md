@@ -2,10 +2,9 @@
 title: "Lachance (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBYRB](/stripes/ybgbyrb/) · **Stripes:** [LY DO DG DB LY O N](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">LY DO DG DB LY O N</span></span>
+In pattern [BRYBGBY](/stripes/brybgby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10645/
 

@@ -2,10 +2,9 @@
 title: "Leitrim"
 date: 2023-03-18
 ---
-**Bands:** [YBGGRGBGBG](/stripes/ybggrgbgbg/) · **Stripes:** [LO DR Y Y R Y DR Y DR Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO DR Y Y R Y DR Y DR Y</span></span>
+In pattern [GBGBGRGGBY](/stripes/gbgbgrggby/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

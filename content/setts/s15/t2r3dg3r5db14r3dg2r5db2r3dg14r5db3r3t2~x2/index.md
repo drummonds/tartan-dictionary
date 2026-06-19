@@ -2,10 +2,9 @@
 title: "Glen Orchy #1"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRGRBRGRBRB](/stripes/brgrbrgrbrgrbrb/) · **Stripes:** [T R DG R DB R DG R DB R DG R DB R T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R DG R DB R DG R DB R DG R DB R T</span></span>
+In pattern [BRBRGRBRGRBRGRB](/stripes/brbrgrbrgrbrgrb/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1393
 

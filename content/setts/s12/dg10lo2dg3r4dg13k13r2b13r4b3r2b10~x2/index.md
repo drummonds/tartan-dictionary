@@ -2,10 +2,9 @@
 title: "Bowie (Lochcarron)"
 date: 2023-03-18
 ---
-**Bands:** [GYGRGKRBRBRB](/stripes/gygrgkrbrbrb/) · **Stripes:** [DG LO DG R DG K R B R B R B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG LO DG R DG K R B R B R B</span></span>
+In pattern [BRBRBRKGRGYG](/stripes/brbrbrkgrgyg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=323
 

@@ -2,10 +2,9 @@
 title: "Kincardine Tweed"
 date: 2023-03-18
 ---
-**Bands:** [RRRB](/stripes/rrrb/) · **Stripes:** [O R O DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">O R O DB</span></span>
+In pattern [BRRR](/stripes/brrr/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

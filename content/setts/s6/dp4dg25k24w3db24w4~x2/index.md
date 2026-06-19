@@ -2,10 +2,9 @@
 title: "Herd"
 date: 2023-03-18
 ---
-**Bands:** [BGKWBW](/stripes/bgkwbw/) · **Stripes:** [DP DG K W DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP DG K W DB W</span></span>
+In pattern [BGKWBW](/stripes/bgkwbw/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

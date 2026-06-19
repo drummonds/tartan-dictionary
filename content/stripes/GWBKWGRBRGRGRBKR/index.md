@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/gwbkwgrbrgrgrbkr/
 ---
-GWBKWGRBRGRGRBKR
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-GWBKWGRBRGRGRBKR
+
+{{< pat "GWBKWGRBRGRGRBKR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R K T R DG R DG R DB R DG W K T W DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">R K T R DG R DG R DB R DG W K T W DG</span></span>
 
 | Tartans |
 |---------------|
 | [Stuart/Stewart of Appin (Dress Hunting Stewart)](/setts/s16/r3k2t2r2dg20r3dg2r2db7r2dg2w23k2t2w2dg2~x2/)|
 |![Stuart/Stewart of Appin (Dress Hunting Stewart) example sett](/setts/s16/r3k2t2r2dg20r3dg2r2db7r2dg2w23k2t2w2dg2~x2/sett.png)|
-

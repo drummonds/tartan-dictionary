@@ -2,10 +2,9 @@
 title: "MacNicol Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKYKYKGRKRBKGKGKB](/stripes/gkykykgrkrbkgkgkb/) · **Stripes:** [DG K LR K LY K DG R K R DB K DG K DG K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DG K LR K LY K DG R K R DB K DG K DG K DB</span></span>
+In pattern [BKGKGKBRKRGKYKYKG](/stripes/bkgkgkbrkrgkykykg/).
 
-
-This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

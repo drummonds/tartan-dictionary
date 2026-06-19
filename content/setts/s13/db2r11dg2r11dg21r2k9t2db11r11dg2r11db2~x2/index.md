@@ -2,10 +2,9 @@
 title: "Nicolson/MacNicol"
 date: 2023-03-18
 ---
-**Bands:** [BRGRGRKBBRGRB](/stripes/brgrgrkbbrgrb/) · **Stripes:** [DB R DG R DG R K T DB R DG R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DG R DG R K T DB R DG R DB</span></span>
+In pattern [BRGRBBKRGRGRB](/stripes/brgrbbkrgrgrb/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3139
 

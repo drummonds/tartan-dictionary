@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bwbbbwy/
 ---
-BWBBBWY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/ly2w21db16b8db30w8db1~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BWBBBWY
+
+{{< pat "BWBBBWY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY W DB B DB W DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY W DB B DB W DB</span></span>
 
 | Tartans |
 |---------------|
 | [Muir, John](/setts/s7/ly2w21db16b8db30w8db1~x2/)|
 |![Muir, John example sett](/setts/s7/ly2w21db16b8db30w8db1~x2/sett.png)|
-

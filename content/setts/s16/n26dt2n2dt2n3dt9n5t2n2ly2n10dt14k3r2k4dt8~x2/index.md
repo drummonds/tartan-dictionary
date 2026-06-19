@@ -2,10 +2,9 @@
 title: "Frogaletto (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKRKBBYBBBBBBBBB](/stripes/bkrkbbybbbbbbbbb/) · **Stripes:** [DT K R K DT N LY N T N DT N DT N DT N](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">DT K R K DT N LY N T N DT N DT N DT N</span></span>
+In pattern [BBBBBBBBBYBBKRKB](/stripes/bbbbbbbbbybbkrkb/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1284
 

@@ -2,10 +2,9 @@
 title: "MacGillivray Dress, Janice (Personal"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRBWBWBBW](/stripes/brbrgrbwbwbbw/) · **Stripes:** [DT R T R DG R DT LB T LB DT T LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DT R T R DG R DT LB T LB DT T LB</span></span>
+In pattern [BRBRGRBWBWBBW](/stripes/brbrgrbwbwbbw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10811/
 

@@ -2,10 +2,9 @@
 title: "World Federation of Building Contractors"
 date: 2023-03-18
 ---
-**Bands:** [RBBBW](/stripes/rbbbw/) · **Stripes:** [R DB DB B W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB DB B W</span></span>
+In pattern [RBBBW](/stripes/rbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4782
 

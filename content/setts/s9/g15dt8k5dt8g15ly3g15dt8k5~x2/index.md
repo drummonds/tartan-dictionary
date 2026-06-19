@@ -2,10 +2,9 @@
 title: "Dewar, Robert Alexander (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBGYGBKBG](/stripes/kbgygbkbg/) · **Stripes:** [K DT G LY G DT K DT G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DT G LY G DT K DT G</span></span>
+In pattern [GBKBGYGBK](/stripes/gbkbgygbk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10006/
 

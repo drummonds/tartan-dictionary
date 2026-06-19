@@ -2,10 +2,9 @@
 title: "Thain Dress #1"
 date: 2023-03-18
 ---
-**Bands:** [KWKWKWKWKWYWY](/stripes/kwkwkwkwkwywy/) · **Stripes:** [K W K W K W K W K W LY W LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K W K W K W K W K W LY W LY</span></span>
+In pattern [KWKWKWKWKWYWY](/stripes/kwkwkwkwkwywy/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4099
 
@@ -31,13 +30,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4099](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4099)
 - Scottish Tartans Authority (ITI): 1256
 - Scottish Tartans World Register: 1256
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Thain, dress](/setts/s13/ly22w1ly2w2k2w1k14w1k2w2k2w1k14~x2/)
-
 
 ## Thread count
 Y/88 LN4 Y8 LN8 K8 LN4 K56 LN4 K8 LN8 K8 LN4 K/56

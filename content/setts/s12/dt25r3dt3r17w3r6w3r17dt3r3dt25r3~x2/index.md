@@ -2,10 +2,9 @@
 title: "Bon Accord Corporate Com Tartan Tartan Number: 2229. Earliest known date: 1995 Designed by Michael King of Philip King Ltd. A tartan for the City of Aberdeen. Approved by the City council, launched at the Aberdeen Highland Games in June 1995. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRWRWRBRB](/stripes/rbrbrwrwrbrb/) · **Stripes:** [R DT R DT R W R W R DT R DT](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT R DT R W R W R DT R DT</span></span>
+In pattern [BRBRWRWRBRBR](/stripes/brbrwrwrbrbr/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2229
 

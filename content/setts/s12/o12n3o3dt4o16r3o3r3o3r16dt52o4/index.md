@@ -2,10 +2,9 @@
 title: "Drumbeg"
 date: 2023-03-18
 ---
-**Bands:** [RBRRRRRRBRBR](/stripes/rbrrrrrrbrbr/) · **Stripes:** [O DT R O R O R O DT O N O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DT R O R O R O DT O N O</span></span>
+In pattern [RBRBRRRRRRBR](/stripes/rbrbrrrrrrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=978
 

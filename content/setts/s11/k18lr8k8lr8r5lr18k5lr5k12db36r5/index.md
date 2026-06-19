@@ -2,10 +2,9 @@
 title: "Merchiston Castle School"
 date: 2023-03-18
 ---
-**Bands:** [KYKYRYKYKBR](/stripes/kykyrykykbr/) · **Stripes:** [K LR K LR R LR K LR K DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LR K LR R LR K LR K DB R</span></span>
+In pattern [KYKYRYKYKBR](/stripes/kykyrykykbr/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Merchiston Castle School](/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/)
-
 
 ## Thread count
 K/18 N8 K8 N8 DR5 N18 K5 N5 K12 DB36 DR/5

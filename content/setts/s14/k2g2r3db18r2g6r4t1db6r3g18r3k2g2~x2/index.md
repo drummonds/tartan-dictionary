@@ -2,10 +2,9 @@
 title: "Glen Orchy #2 or MacIntyre"
 date: 2023-03-18
 ---
-**Bands:** [KGRBRGRBBRGRKG](/stripes/kgrbrgrbbrgrkg/) · **Stripes:** [K G R DB R G R T DB R G R K G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G R DB R G R T DB R G R K G</span></span>
+In pattern [GKRGRBBRGRBRGK](/stripes/gkrgrbbrgrbrgk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1394
 

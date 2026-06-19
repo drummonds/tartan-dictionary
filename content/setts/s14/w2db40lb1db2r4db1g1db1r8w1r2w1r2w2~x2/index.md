@@ -2,10 +2,9 @@
 title: "St. Andrew's Soc. of Singapore (Corp"
 date: 2023-03-18
 ---
-**Bands:** [WRWRWRBGBRBWBW](/stripes/wrwrwrbgbrbwbw/) · **Stripes:** [W R W R W R DB G DB R DB LB DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R W R W R DB G DB R DB LB DB W</span></span>
+In pattern [WBWBRBGBRWRWRW](/stripes/wbwbrbgbrwrwrw/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8597/
 

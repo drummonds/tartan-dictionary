@@ -2,10 +2,9 @@
 title: "Noordermeer Personal Tartan Tartan Number: 6357. Earliest known date: 2004 Alwin Noordermeer is the senior petroleum engineering advisor for Rhourde El Baguel in Algeria. He designed his own tartan using Tartan Software and help from Maxine Scott. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KRWRKRKRKRKRKRWRKB](/stripes/krwrkrkrkrkrkrwrkb/) · **Stripes:** [K M W M K M K M K M K M K M W M K T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K M W M K M K M K M K M K M W M K T</span></span>
+In pattern [BKRWRKRKRKRKRKRWRK](/stripes/bkrwrkrkrkrkrkrwrk/).
 
-
-This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6357
 

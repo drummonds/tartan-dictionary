@@ -2,10 +2,9 @@
 title: "Mack of Stoneywood Hunting (Pers.)"
 date: 2023-03-18
 ---
-**Bands:** [GGBGGGKGKGB](/stripes/ggbgggkgkgb/) · **Stripes:** [DG DG T DG DG DG K DY K DG T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG DG T DG DG DG K DY K DG T</span></span>
+In pattern [BGKGKGGGBGG](/stripes/bgkgkgggbgg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10763/
 

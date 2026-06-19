@@ -2,10 +2,9 @@
 title: "Burt #1 (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RYBYBYBYR](/stripes/rybybybyr/) · **Stripes:** [R LO B LO B LG B LG M](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#CA047B"></span><span class="seq">R LO B LO B LG B LG M</span></span>
+In pattern [RYBYBYBYR](/stripes/rybybybyr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6148/
 

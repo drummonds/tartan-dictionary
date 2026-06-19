@@ -2,10 +2,9 @@
 title: "Wisconsin in Scotland"
 date: 2023-03-18
 ---
-**Bands:** [YBYRGRRWRRGRYBWBYRGRRWRRGRYBY](/stripes/ybyrgrrwrrgrybwbyrgrrwrrgryby/) · **Stripes:** [LY DB LY M Y M R W R M Y M LY DB W DB LY M Y M R W R M Y M LY DB LY](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DB LY M Y M R W R M Y M LY DB W DB LY M Y M R W R M Y M LY DB LY</span></span>
+In pattern [YBYRGRRWRRGRYBWBYRGRRWRRGRYBY](/stripes/ybyrgrrwrrgrybwbyrgrrwrrgryby/).
 
-
-This was sourced from weddslist.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

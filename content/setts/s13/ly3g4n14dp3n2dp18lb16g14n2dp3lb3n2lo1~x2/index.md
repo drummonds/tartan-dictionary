@@ -2,10 +2,9 @@
 title: "Enable (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YGBBBBWGBBWBY](/stripes/ygbbbbwgbbwby/) · **Stripes:** [LY G N DP N DP LB G N DP LB N LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LY G N DP N DP LB G N DP LB N LO</span></span>
+In pattern [YBWBBGWBBBBGY](/stripes/ybwbbgwbbbbgy/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8700/
 

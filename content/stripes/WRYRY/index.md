@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/wryry/
 ---
-WRYRY
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/w1o6lo4o4lo1~x10/tartan.png)
 
 
 
 ## Colour Sequence
-WRYRY
+
+{{< pat "WRYRY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO O LO O W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO O LO O W</span></span>
 
 | Tartans |
 |---------------|
 | [Amber Rose (Fashion)](/setts/s5/w1o6lo4o4lo1~x10/)|
 |![Amber Rose (Fashion) example sett](/setts/s5/w1o6lo4o4lo1~x10/sett.png)|
-

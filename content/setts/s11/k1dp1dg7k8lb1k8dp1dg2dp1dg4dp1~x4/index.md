@@ -2,10 +2,9 @@
 title: "Episcopal Clergy"
 date: 2023-03-18
 ---
-**Bands:** [KBGKWKBGBGB](/stripes/kbgkwkbgbgb/) · **Stripes:** [K DP DG K LB K DP DG DP DG DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP DG K LB K DP DG DP DG DP</span></span>
+In pattern [BGBGBKWKGBK](/stripes/bgbgbkwkgbk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1117
 

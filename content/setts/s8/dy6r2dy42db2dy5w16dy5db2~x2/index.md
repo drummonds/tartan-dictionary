@@ -2,10 +2,9 @@
 title: "Glenlivet Dress Reproduction (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [GRGBGWGB](/stripes/grgbgwgb/) · **Stripes:** [DY R DY DB DY W DY DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="seq">DY R DY DB DY W DY DB</span></span>
+In pattern [BGWGBGRG](/stripes/bgwgbgrg/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3941/
 

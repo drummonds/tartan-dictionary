@@ -2,10 +2,9 @@
 title: "Innes Hunting"
 date: 2023-03-18
 ---
-**Bands:** [KGWK](/stripes/kgwk/) · **Stripes:** [K G LB K](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">K G LB K</span></span>
+In pattern [KGWK](/stripes/kgwk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831
 

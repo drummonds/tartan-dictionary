@@ -2,10 +2,9 @@
 title: "Batten of Argyll (Baddenach)"
 date: 2023-03-18
 ---
-**Bands:** [RKGGBGKB](/stripes/rkggbgkb/) · **Stripes:** [R K DG DG DP DG K DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R K DG DG DP DG K DP</span></span>
+In pattern [BKGBGGKR](/stripes/bkgbggkr/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=229
 

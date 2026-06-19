@@ -2,10 +2,9 @@
 title: "Hong Kong, University of"
 date: 2023-03-18
 ---
-**Bands:** [YKRGYKWKGKWKW](/stripes/ykrgykwkgkwkw/) · **Stripes:** [LY K R DG LG K LT K DG K W K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K R DG LG K LT K DG K W K W</span></span>
+In pattern [WKWKGKWKYGRKY](/stripes/wkwkgkwkygrky/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10713
 

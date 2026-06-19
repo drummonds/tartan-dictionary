@@ -2,10 +2,9 @@
 title: "Blue Pride"
 date: 2023-03-18
 ---
-**Bands:** [BKBGBBBRBKW](/stripes/bkbgbbbrbkw/) · **Stripes:** [B K B G P DB P R B K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B K B G P DB P R B K W</span></span>
+In pattern [BKBGBBBRBKW](/stripes/bkbgbbbrbkw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11054/
 

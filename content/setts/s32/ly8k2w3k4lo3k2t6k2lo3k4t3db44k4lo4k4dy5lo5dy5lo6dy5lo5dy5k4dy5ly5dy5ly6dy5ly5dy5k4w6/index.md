@@ -2,10 +2,9 @@
 title: "Whiskey & Bourbon (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YKWKYKBKYKBBKYKGYGYGYGKGYGYGYGKW](/stripes/ykwkykbkykbbkykgygygygkgygygygkw/) · **Stripes:** [LY K W K LO K T K LO K T DB K LO K DY LO DY LO DY LO DY K DY LY DY LY DY LY DY K W](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K W K LO K T K LO K T DB K LO K DY LO DY LO DY LO DY K DY LY DY LY DY LY DY K W</span></span>
+In pattern [WKGYGYGYGKGYGYGYGKYKBBKYKBKYKWKY](/stripes/wkgygygygkgygygygkykbbkykbkykwky/).
 
-
-This was sourced from tartans-authority.  It is a [32 band tartan](/bands/bands32/).
+This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10544/
 

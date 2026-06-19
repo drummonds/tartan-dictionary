@@ -2,19 +2,11 @@
 title: "MacRae The Princes Own Clan Tartan Tartan Number: 982. Earliest known date: c.1815 Two MacRae setts, of which this is one, are contained in the Highland Society collection and presumably sealed by the Chief around 1815. Unless he recognised both, perhaps one is the clan and the other the Chief's own See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/) · **Stripes:** [G R G R K R K R K R K R K R K R W R DB R DB R W R G R G R G R G R G LY G R G W](/stripes/stripes38/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G R G R K R K R K R K R K R K R W R DB R DB R W R G R G R G R G R G LY G R G W</span></span>
+In pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/).
 
-
-This was sourced from house-of-tartan.  It is a [38 band tartan](/bands/bands38/).
+This was sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=982
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacRae Prince's Own](/setts/s38/g10r2g10r9k1r1k2r1k1r9k1r1k2r1k1r9w1r4db11r2db11r4w1r9g2r4g2r9g5r3g4r3g3ly1g3r3g6w1~x2/)
-
 
 ## Thread count
 G/58 R10 G56 R44 K4 R4 K8 R4 K4 R44 K4 R4 K8 R4 K4 R40 LN4 R18 DB52 R10 DB56 R18 LN4 R44 G6 R16 G6 R44 G16 R12 G16 R12 G10 Y6 G10 R14 G24 LN/4

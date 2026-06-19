@@ -2,10 +2,9 @@
 title: "Inglis (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YGBRBY](/stripes/ygbrby/) · **Stripes:** [LR G DB R DB LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LR G DB R DB LO</span></span>
+In pattern [YBRBGY](/stripes/ybrbgy/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1798/
 

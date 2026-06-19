@@ -2,10 +2,9 @@
 title: "Black Watch Dress, Brown/Grey (Fash)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBGBGBWBWBW](/stripes/bbbbgbgbwbwbw/) · **Stripes:** [N DT N DT Y DT Y DT LB N LB N LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N DT N DT Y DT Y DT LB N LB N LB</span></span>
+In pattern [BBBBGBGBWBWBW](/stripes/bbbbgbgbwbwbw/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3699/
 

@@ -2,10 +2,9 @@
 title: "Annan"
 date: 2023-03-18
 ---
-**Bands:** [RGKRGRYRGR](/stripes/rgkrgryrgr/) · **Stripes:** [O Y K O Y O LO O Y O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O Y K O Y O LO O Y O</span></span>
+In pattern [RGKRGRYRGR](/stripes/rgkrgryrgr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

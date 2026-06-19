@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbryb/
 ---
-BKBRYB
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/t26k10dt19r6ly2db9~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BKBRYB
+
+{{< pat "BKBRYB" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### T K DT R LY DB <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">T K DT R LY DB</span></span>
 
 | Tartans |
 |---------------|
 | [Meeson Dress Personal Tartan Tartan Number: 6026. Earliest known date: 2007 Formal Dress version. The gray was originally woven with a melange or marled yarn. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/t26k10dt19r6ly2db9~x2/)|
 |![Meeson Dress Personal Tartan Tartan Number: 6026. Earliest known date: 2007 Formal Dress version. The gray was originally woven with a melange or marled yarn. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/t26k10dt19r6ly2db9~x2/sett.png)|
-

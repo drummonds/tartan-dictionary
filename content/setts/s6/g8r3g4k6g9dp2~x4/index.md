@@ -2,19 +2,11 @@
 title: "Milton (Name?)"
 date: 2023-03-18
 ---
-**Bands:** [GRGKGB](/stripes/grgkgb/) · **Stripes:** [G R G K G DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G R G K G DP</span></span>
+In pattern [BGKGRG](/stripes/bgkgrg/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4176/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Milton](/setts/s6/g8r3g4k6g9dp2~x2/)
-
 
 ## Thread count
 G/32 DR12 G16 K24 G36 P/8

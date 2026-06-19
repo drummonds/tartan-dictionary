@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/wywwywywwrwgygywywrwwygyy/
 ---
-WYWWYWYWWRWGYGYWYWRWWYGYY
-
-It is a 25 band tartan.
+It is a 25 stripe tartan.
 
 
 
 ## Colour Sequence
-WYWWYWYWWRWGYGYWYWRWWYGYY
+
+{{< pat "WYWWYWYWWRWGYGYWYWRWWYGYY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LG LG G LG LT W R W LG LT LG G LG G W R W LT LG LT LG W LT LG LT <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LG LG G LG LT W R W LG LT LG G LG G W R W LT LG LT LG W LT LG LT</span></span>
 
 | Tartans |
 |---------------|
 | [Morddyn](/setts/s25/lt5lg13lt6w3lg5lt5lg24lt5w2r1w2g9lg18g9lg2lt4lg2w2r3w2lt12lg6g24lg6lg2~x2/)|
 |![Morddyn example sett](/setts/s25/lt5lg13lt6w3lg5lt5lg24lt5w2r1w2g9lg18g9lg2lt4lg2w2r3w2lt12lg6g24lg6lg2~x2/sett.png)|
-

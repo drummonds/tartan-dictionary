@@ -2,10 +2,9 @@
 title: "Uddingston Rugby Club Centenary (Cor"
 date: 2023-03-18
 ---
-**Bands:** [RBYBKBRYY](/stripes/rbybkbryy/) · **Stripes:** [R B LO B K B R LO LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R B LO B K B R LO LR</span></span>
+In pattern [RBYBKBRYY](/stripes/rbybkbryy/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6994/
 

@@ -2,10 +2,9 @@
 title: "Pendleton hunting Corporate Tartan Tartan Number: 2467. Earliest known date: 1998 Designed by Ms Annette Hoeffel for Pendleton Mills, established in 1863 and located in Portland, Oregon. This tartan and #2468 are virtually identical which suggests that one of the Tartan Society entries is an error. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BGRGKGYGBBBGYGKGRGBB](/stripes/bgrgkgygbbbgygkgrgbb/) · **Stripes:** [DB DG R DG K DG LO DG DB DB DB DG LO DG K DG R DG DB DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DG R DG K DG LO DG DB DB DB DG LO DG K DG R DG DB DB</span></span>
+In pattern [BBGRGKGYGBBBGYGKGRGB](/stripes/bbgrgkgygbbbgygkgrgb/).
 
-
-This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2467
 

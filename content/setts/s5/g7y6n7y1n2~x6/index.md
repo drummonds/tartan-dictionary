@@ -2,10 +2,9 @@
 title: "Bright of Garth (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGBGB](/stripes/ggbgb/) · **Stripes:** [G Y N Y N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="seq">G Y N Y N</span></span>
+In pattern [BGBGG](/stripes/bgbgg/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6576/
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bbybyby/
 ---
-BBYBYBY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/db2db4ly1db1ly2db4ly2~x12/tartan.png)
 
 
 
 ## Colour Sequence
-BBYBYBY
+
+{{< pat "BBYBYBY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LY DB LY DB LY DB DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB LY DB LY DB DB</span></span>
 
 | Tartans |
 |---------------|
 | [Creek Indian Nation (District)](/setts/s7/db2db4ly1db1ly2db4ly2~x12/)|
 |![Creek Indian Nation (District) example sett](/setts/s7/db2db4ly1db1ly2db4ly2~x12/sett.png)|
-

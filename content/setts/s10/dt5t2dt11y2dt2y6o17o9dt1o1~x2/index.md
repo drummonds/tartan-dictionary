@@ -2,10 +2,9 @@
 title: "Clarks No.1"
 date: 2023-03-18
 ---
-**Bands:** [RBRRGBGBBB](/stripes/rbrrgbgbbb/) · **Stripes:** [O DT O O Y DT Y DT T DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="seq">O DT O O Y DT Y DT T DT</span></span>
+In pattern [BBBGBGRRBR](/stripes/bbbgbgrrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10678
 

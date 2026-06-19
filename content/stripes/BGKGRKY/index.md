@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/bgkgrky/
 ---
-BGKGRKY
-
-It is a 7 band tartan.
+It is a 7 stripe tartan.
 
 ![Woven sample](/setts/s7/db14g18k3g18r20k14lo3~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BGKGRKY
+
+{{< pat "BGKGRKY" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### LO K R G K G DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K R G K G DB</span></span>
-
-| Tartans |
-|---------------|
-| [Scottish Parliament (unofficial)](/setts/s7/db14g18k3g18r20k14lo3~x2/)|
-|![Scottish Parliament (unofficial) example sett](/setts/s7/db14g18k3g18r20k14lo3~x2/sett.png)|
-
-### LY K M G K G DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K M G K G DB</span></span>
 
 | Tartans |
 |---------------|
 | [Scottish Parliament](/setts/s7/db8g11k3g11m12k10ly2~x2/)|
 |![Scottish Parliament example sett](/setts/s7/db8g11k3g11m12k10ly2~x2/sett.png)|
-
+| [Scottish Parliament (unofficial)](/setts/s7/db14g18k3g18r20k14lo3~x2/)|
+|![Scottish Parliament (unofficial) example sett](/setts/s7/db14g18k3g18r20k14lo3~x2/sett.png)|

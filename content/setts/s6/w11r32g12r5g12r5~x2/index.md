@@ -2,10 +2,9 @@
 title: "Al-Maktoum"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRW](/stripes/rgrgrw/) · **Stripes:** [R G R G R W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R G R W</span></span>
+In pattern [RGRGRW](/stripes/rgrgrw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=62
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [62](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=62)
 - Scottish Tartans Authority (ITI): 1531
 - Scottish Tartans World Register: 1531
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Makhtoum](/setts/s6/w11r40g13r5g12r5~x2/)
-
 
 ## Thread count
 W/22 R64 G24 R10 G24 R/10

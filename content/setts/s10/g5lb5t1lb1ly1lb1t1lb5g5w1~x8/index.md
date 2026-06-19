@@ -2,10 +2,9 @@
 title: "MacGiboney Dress"
 date: 2023-03-18
 ---
-**Bands:** [GWBWYWBWGW](/stripes/gwbwywbwgw/) · **Stripes:** [G LB T LB LY LB T LB G W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G LB T LB LY LB T LB G W</span></span>
+In pattern [GWBWYWBWGW](/stripes/gwbwywbwgw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4901
 
@@ -21,13 +20,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4901](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4901)
 - Scottish Tartans Authority (ITI): 3839
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacGiboney Clan Tartan Tartan Number: 3839. Earliest known date: 1999 Designed by Greg McGibonney from Fremont, California. The sett shown here was submitted as a woven sample by Greg McGibboney. Colours here are from the woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g5lb5t1lb1ly1lb1t1lb5g5w1~x4/)
-
 
 ## Thread count
 G/40 Na40 B8 Na8 Y8 Na8 B8 Na40 G40 LN/8

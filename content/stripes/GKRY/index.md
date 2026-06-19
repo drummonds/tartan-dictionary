@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/gkry/
 ---
-GKRY
-
-It is a 4 band tartan.
+It is a 4 stripe tartan.
 
 ![Woven sample](/setts/s4/g14k3r3lr2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-GKRY
+
+{{< pat "GKRY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LR R K G <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR R K G</span></span>
 
 | Tartans |
 |---------------|
 | [Bacon, Green (Fashion)](/setts/s4/g14k3r3lr2~x2/)|
 |![Bacon, Green (Fashion) example sett](/setts/s4/g14k3r3lr2~x2/sett.png)|
-

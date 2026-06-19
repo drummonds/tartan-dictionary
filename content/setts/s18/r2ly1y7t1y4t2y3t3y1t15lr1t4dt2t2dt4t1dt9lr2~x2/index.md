@@ -2,10 +2,9 @@
 title: "Glaz"
 date: 2023-03-18
 ---
-**Bands:** [RYGBGBGBGBYBBBBBBY](/stripes/rygbgbgbgbybbbbbby/) · **Stripes:** [R LY Y T Y T Y T Y T LR T DT T DT T DT LR](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R LY Y T Y T Y T Y T LR T DT T DT T DT LR</span></span>
+In pattern [RYGBGBGBGBYBBBBBBY](/stripes/rygbgbgbgbybbbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10774
 

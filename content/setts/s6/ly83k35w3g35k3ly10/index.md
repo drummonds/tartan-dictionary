@@ -2,19 +2,11 @@
 title: "Brandon Manitoba Trade Tartan Tartan Number: 1884. Earliest known date: pre 1997 From Dalgleish as Hamilton of Brandon. There is a similarity to Cape Breton. And to Paton's Jacobite. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YKGWKY](/stripes/ykgwky/) · **Stripes:** [LY K G W K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K G W K LY</span></span>
+In pattern [YKGWKY](/stripes/ykgwky/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1884
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Jacobite](/setts/s6/ly70k30w3g30k3ly10/)
-
 
 ## Thread count
 Y/83 K35 LN3 G35 K3 Ya/10

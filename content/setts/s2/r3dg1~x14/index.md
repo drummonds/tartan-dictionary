@@ -2,10 +2,9 @@
 title: "Wilson's No.134"
 date: 2023-03-18
 ---
-**Bands:** [RG](/stripes/rg/) · **Stripes:** [R DG](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG</span></span>
+In pattern [GR](/stripes/gr/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4691
 
@@ -22,15 +21,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4691](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4691)
 - Scottish Tartans Authority (ITI): 964
 - Scottish Tartans World Register: 964
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glenlyon (District)](/setts/s2/dg1r1~x80/)
-- [Moncreiffe](/setts/s2/dg1r1/)
-- [Wilson's No.099](/setts/s2/dg14r13~x2/)
-
 
 ## Thread count
 R/42 G/14

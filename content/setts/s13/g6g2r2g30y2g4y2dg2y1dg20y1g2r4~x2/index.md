@@ -2,10 +2,9 @@
 title: "All Ireland Green (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RGGGGGGGGGRGG](/stripes/rgggggggggrgg/) · **Stripes:** [R G Y DG Y DG Y G Y G R G G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G Y DG Y DG Y G Y G R G G</span></span>
+In pattern [GGRGGGGGGGGGR](/stripes/ggrgggggggggr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4065/
 

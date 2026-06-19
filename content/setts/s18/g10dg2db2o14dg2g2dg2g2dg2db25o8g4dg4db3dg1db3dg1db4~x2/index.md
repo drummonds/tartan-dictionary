@@ -2,10 +2,9 @@
 title: "Nova Scotia"
 date: 2023-03-18
 ---
-**Bands:** [GGBRGGGGGBRGGBGBGB](/stripes/ggbrgggggbrggbgbgb/) · **Stripes:** [G DG DB O DG G DG G DG DB O G DG DB DG DB DG DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">G DG DB O DG G DG G DG DB O G DG DB DG DB DG DB</span></span>
+In pattern [BGBGBGGRBGGGGGRBGG](/stripes/bgbgbggrbgggggrbgg/).
 
-
-This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

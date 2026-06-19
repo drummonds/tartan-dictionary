@@ -2,10 +2,9 @@
 title: "Rob Roy (Film) (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BGGBGB](/stripes/bggbgb/) · **Stripes:** [T DY DG T DG T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DY DG T DG T</span></span>
+In pattern [BGBGGB](/stripes/bgbggb/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7026/
 

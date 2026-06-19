@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/brgkgr/
 ---
-BRGKGR
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/r6g5k5g5r6t1~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BRGKGR
+
+{{< pat "BRGKGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R G K G R T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G K G R T</span></span>
 
 | Tartans |
 |---------------|
 | [Norwich No.028](/setts/s6/r6g5k5g5r6t1~x4/)|
 |![Norwich No.028 example sett](/setts/s6/r6g5k5g5r6t1~x4/sett.png)|
-

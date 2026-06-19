@@ -2,10 +2,9 @@
 title: "Deighan (Edinburgh)"
 date: 2023-03-18
 ---
-**Bands:** [GBKKB](/stripes/gbkkb/) · **Stripes:** [Y DT K K DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">Y DT K K DT</span></span>
+In pattern [BKKBG](/stripes/bkkbg/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10287
 

@@ -2,10 +2,9 @@
 title: "Australian Donkey (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KRRYWRRRG](/stripes/krrywrrrg/) · **Stripes:** [K O R LR W O R O DY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K O R LR W O R O DY</span></span>
+In pattern [GRRRWYRRK](/stripes/grrrwyrrk/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7069/
 

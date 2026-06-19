@@ -2,10 +2,9 @@
 title: "Graham, dress"
 date: 2023-03-18
 ---
-**Bands:** [WBWBWKGBGBGKBKBKWBWBW](/stripes/wbwbwkgbgbgkbkbkwbwbw/) · **Stripes:** [W DB W DB W K G T G T G K DB K DB K W DB W DB W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB W K G T G T G K DB K DB K W DB W DB W</span></span>
+In pattern [WBWBWKBKBKGBGBGKWBWBW](/stripes/wbwbwkbkbkgbgbgkwbwbw/).
 
-
-This was sourced from weddslist.  It is a [21 band tartan](/bands/bands21/).
+This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

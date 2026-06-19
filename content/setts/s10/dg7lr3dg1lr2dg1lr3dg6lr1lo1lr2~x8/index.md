@@ -2,10 +2,9 @@
 title: "Twisted Kilt Society"
 date: 2023-03-18
 ---
-**Bands:** [YYYGYGYGYG](/stripes/yyygygygyg/) · **Stripes:** [LR LO LR DG LR DG LR DG LR DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">LR LO LR DG LR DG LR DG LR DG</span></span>
+In pattern [GYGYGYGYYY](/stripes/gygygygyyy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11508
 

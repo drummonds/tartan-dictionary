@@ -2,10 +2,9 @@
 title: "Grainger"
 date: 2023-03-18
 ---
-**Bands:** [RBGBKWKBGBRB](/stripes/rbgbkwkbgbrb/) · **Stripes:** [R DB G DB K W K DB G DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB G DB K W K DB G DB R DB</span></span>
+In pattern [BRBGBKWKBGBR](/stripes/brbgbkwkbgbr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488
 

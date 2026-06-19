@@ -2,10 +2,9 @@
 title: "Aelfleda Arisaid (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBWRWGWBYBY](/stripes/ybybwrwgwbyby/) · **Stripes:** [LY DB LY DB LB R LB DG LB DB LY DB LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DB LY DB LB R LB DG LB DB LY DB LY</span></span>
+In pattern [YBYBWGWRWBYBY](/stripes/ybybwgwrwbyby/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10936/
 

@@ -2,10 +2,9 @@
 title: "Thorburn (1992)"
 date: 2023-03-18
 ---
-**Bands:** [RWBWBBBWB](/stripes/rwbwbbbwb/) · **Stripes:** [R LB DB LB DB T DB LB DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">R LB DB LB DB T DB LB DB</span></span>
+In pattern [BWBBBWBWR](/stripes/bwbbbwbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4125
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [4125](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4125)
 - Scottish Tartans Authority (ITI): 6615
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Thorburn #1 (Name)](/setts/s9/db12lb2db2t6db4lb3db4lb18r1~x4/)
-
 
 ## Thread count
 DB/24 LB8 DB8 B24 DB16 LB10 DB16 LB70 R/8

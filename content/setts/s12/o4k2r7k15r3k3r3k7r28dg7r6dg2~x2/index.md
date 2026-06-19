@@ -2,10 +2,9 @@
 title: "Walker, Evening (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKRKRGRG](/stripes/rkrkrkrkrgrg/) · **Stripes:** [O K R K R K R K R DG R DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">O K R K R K R K R DG R DG</span></span>
+In pattern [GRGRKRKRKRKR](/stripes/grgrkrkrkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2068/
 

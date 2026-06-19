@@ -2,10 +2,9 @@
 title: "Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge"
 date: 2023-03-18
 ---
-**Bands:** [WKWKWBWRWYWBWWWGWBWKWKW](/stripes/wkwkwbwrwywbwwwgwbwkwkw/) · **Stripes:** [W K W K LT P LT R LT LY LT DB LT W LT G LT P LT K W K W](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K LT P LT R LT LY LT DB LT W LT G LT P LT K W K W</span></span>
+In pattern [WKWKWBWGWWWBWYWRWBWKWKW](/stripes/wkwkwbwgwwwbwywrwbwkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10242
 

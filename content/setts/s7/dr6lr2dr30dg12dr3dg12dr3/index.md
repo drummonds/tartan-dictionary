@@ -2,10 +2,9 @@
 title: "Crawford"
 date: 2023-03-18
 ---
-**Bands:** [BYBGBGB](/stripes/bybgbgb/) · **Stripes:** [DR LR DR DG DR DG DR](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR LR DR DG DR DG DR</span></span>
+In pattern [BGBGBYB](/stripes/bgbgbyb/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Crawford](/setts/s7/dr6lr2dr30dg12dr3dg12dr3~x2/)
-
 
 ## Thread count
 DR/6 N2 DR30 DG12 DR3 DG12 DR/3

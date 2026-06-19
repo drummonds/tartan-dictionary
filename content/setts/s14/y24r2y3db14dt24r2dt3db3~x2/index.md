@@ -2,10 +2,9 @@
 title: "Grampian"
 date: 2023-03-18
 ---
-**Bands:** [RGBBRBBBRBBGRG](/stripes/rgbbrbbbrbbgrg/) · **Stripes:** [R Y DB DT R DT DB DT R DT DB Y R Y](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y DB DT R DT DB DT R DT DB Y R Y</span></span>
+In pattern [GRGBBRBBBRBBGR](/stripes/grgbbrbbbrbbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1489
 

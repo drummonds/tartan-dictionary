@@ -2,10 +2,9 @@
 title: "Portree, Blue (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [WYWBWWWBBWBW](/stripes/wywbwwwbbwbw/) · **Stripes:** [W LO W DP W LB W N DB W DB LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W LO W DP W LB W N DB W DB LB</span></span>
+In pattern [WBWBBWWWBWYW](/stripes/wbwbbwwwbwyw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5488/
 

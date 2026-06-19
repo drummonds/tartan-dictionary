@@ -2,10 +2,9 @@
 title: "Amarillo"
 date: 2023-03-18
 ---
-**Bands:** [YKGBRGKBGKB](/stripes/ykgbrgkbgkb/) · **Stripes:** [LO K G DT R G K DT G K DT](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">LO K G DT R G K DT G K DT</span></span>
+In pattern [BKGBKGRBGKY](/stripes/bkgbkgrbgky/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5262
 

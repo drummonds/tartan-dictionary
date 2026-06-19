@@ -2,10 +2,9 @@
 title: "Alliance of Border Scots (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKWGWGWGWGWGWKG](/stripes/rkwgwgwgwgwgwkg/) · **Stripes:** [O K W DY W DY W DY W DY W DY W K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O K W DY W DY W DY W DY W DY W K G</span></span>
+In pattern [GKWGWGWGWGWGWKR](/stripes/gkwgwgwgwgwgwkr/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3714/
 

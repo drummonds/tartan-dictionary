@@ -2,10 +2,9 @@
 title: "Carlisle (Family)"
 date: 2023-03-18
 ---
-**Bands:** [YKYRYBYRYKYB](/stripes/ykyrybyrykyb/) · **Stripes:** [LO K LO R LO B LO R LO K LO B](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO K LO R LO B LO R LO K LO B</span></span>
+In pattern [BYKYRYBYRYKY](/stripes/bykyrybyryky/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=562
 

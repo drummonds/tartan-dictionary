@@ -2,10 +2,9 @@
 title: "Murdoch Clebration (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBRBRBKW](/stripes/kbrbrbkw/) · **Stripes:** [K DB R DB R DB K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DB R DB R DB K W</span></span>
+In pattern [KBRBRBKW](/stripes/kbrbrbkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8441/
 

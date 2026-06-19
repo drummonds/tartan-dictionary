@@ -2,10 +2,9 @@
 title: "Celtic 2005 Sports Tartan Tartan Number: 6496. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Celtic Football Club updating the club's tartan for 2005. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GGKGKGKYKGKYKGKYKGKGKGGG](/stripes/ggkgkgkykgkykgkykgkgkggg/) · **Stripes:** [DG DG K DG K DG K LY K DG K LO K DG K LY K DG K DG K DG DG DG](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">DG DG K DG K DG K LY K DG K LO K DG K LY K DG K DG K DG DG DG</span></span>
+In pattern [GGGKGKGKYKGKYKGKYKGKGKGG](/stripes/gggkgkgkykgkykgkykgkgkgg/).
 
-
-This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6496
 

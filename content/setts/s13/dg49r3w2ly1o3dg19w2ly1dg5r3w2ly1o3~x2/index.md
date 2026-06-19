@@ -2,10 +2,9 @@
 title: "Hogan (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RYWRGYWGRYWRG](/stripes/rywrgywgrywrg/) · **Stripes:** [O LY W R DG LY W DG O LY W R DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">O LY W R DG LY W DG O LY W R DG</span></span>
+In pattern [GRWYRGWYGRWYR](/stripes/grwyrgwygrwyr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10071/
 

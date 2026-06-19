@@ -2,10 +2,9 @@
 title: "Unidentified 20th Centuary"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKY](/stripes/rkgkgky/) · **Stripes:** [R K G K Y K LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R K G K Y K LO</span></span>
+In pattern [RKGKGKY](/stripes/rkgkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4276
 

@@ -2,10 +2,9 @@
 title: "Alyssa's Theme"
 date: 2023-03-18
 ---
-**Bands:** [KRKGRKRGRKBKB](/stripes/krkgrkrgrkbkb/) · **Stripes:** [K O K Y O K O Y O K B K B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K O K Y O K O Y O K B K B</span></span>
+In pattern [BKBKRGRKRGKRK](/stripes/bkbkrgrkrgkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10656
 

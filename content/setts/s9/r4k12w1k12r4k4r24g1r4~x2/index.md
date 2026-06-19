@@ -2,10 +2,9 @@
 title: "Wemyss"
 date: 2023-03-18
 ---
-**Bands:** [RKWKRKRGR](/stripes/rkwkrkrgr/) · **Stripes:** [R K W K R K R G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K R K R G R</span></span>
+In pattern [RGRKRKWKR](/stripes/rgrkrkwkr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wemyss](/setts/s9/r4k12w1k12r4k4r24g1r4~x4/)
-
 
 ## Thread count
 R/8 K24 LN2 K24 R8 K8 R48 G2 R/8

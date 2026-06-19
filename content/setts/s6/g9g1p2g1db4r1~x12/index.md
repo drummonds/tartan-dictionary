@@ -2,10 +2,9 @@
 title: "Gorman, George (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBGG](/stripes/rbgbgg/) · **Stripes:** [R DB G P G G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB G P G G</span></span>
+In pattern [GGBGBR](/stripes/ggbgbr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10029/
 

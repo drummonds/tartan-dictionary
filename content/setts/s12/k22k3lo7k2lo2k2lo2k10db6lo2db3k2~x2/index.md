@@ -2,10 +2,9 @@
 title: "Daks (Chino Check) (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KKYKYKYKBYBK](/stripes/kkykykykbybk/) · **Stripes:** [K K LO K LO K LO K DB LO DB K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K K LO K LO K LO K DB LO DB K</span></span>
+In pattern [KBYBKYKYKYKK](/stripes/kbybkykykykk/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2630/
 

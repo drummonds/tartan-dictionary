@@ -2,10 +2,9 @@
 title: "Scottish Tartan Society"
 date: 2023-03-18
 ---
-**Bands:** [GKYKRKYKB](/stripes/gkykrkykb/) · **Stripes:** [G K LO K R K LO K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K LO K R K LO K DB</span></span>
+In pattern [BKYKRKYKG](/stripes/bkykrkykg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5193
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5193](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5193)
 - Scottish Tartans Authority (ITI): 3191
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Vosko](/setts/s9/db8k4lo2k3r2k3lo2k4g8~x4/)
-
 
 ## Thread count
 DB/40 K20 DY6 K14 DR8 K14 DY6 K16 G/40

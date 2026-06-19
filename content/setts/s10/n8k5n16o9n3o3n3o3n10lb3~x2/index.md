@@ -2,10 +2,9 @@
 title: "Digital Equipment Corp."
 date: 2023-03-18
 ---
-**Bands:** [BKBRBRBRBW](/stripes/bkbrbrbrbw/) · **Stripes:** [N K N O N O N O N LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N K N O N O N O N LB</span></span>
+In pattern [BKBRBRBRBW](/stripes/bkbrbrbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=937
 

@@ -2,10 +2,9 @@
 title: "Llama (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GWYWGWGYYW](/stripes/gwywgwgyyw/) · **Stripes:** [Y W LR W Y W Y LR LY W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">Y W LR W Y W Y LR LY W</span></span>
+In pattern [GWYWGWGYYW](/stripes/gwywgwgyyw/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8165/
 

@@ -2,10 +2,9 @@
 title: "Bruce (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBGBGBGBW](/stripes/ybgbgbgbgbw/) · **Stripes:** [LY DB G DB G DB G DB G DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB G DB G DB G DB G DB W</span></span>
+In pattern [WBGBGBGBGBY](/stripes/wbgbgbgbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=400
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [400](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=400)
 - Scottish Tartans Authority (ITI): 6832
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bute Heather, Glencallum (Fashion)](/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/)
-
 
 ## Thread count
 Y/4 DB32 G8 DB8 G24 DB4 G24 DB8 G8 DB32 W/4

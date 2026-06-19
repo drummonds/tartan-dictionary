@@ -2,10 +2,9 @@
 title: "Gorman Spring (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBBBGWRWGBGWRWGBBB](/stripes/bybbbgwrwgbgwrwgbbb/) · **Stripes:** [DB LY DB T DB G W M W G DB G W M W G DB T DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LY DB T DB G W M W G DB G W M W G DB T DB</span></span>
+In pattern [BBBGWRWGBGWRWGBBBYB](/stripes/bbbgwrwgbgwrwgbbbyb/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10262/
 

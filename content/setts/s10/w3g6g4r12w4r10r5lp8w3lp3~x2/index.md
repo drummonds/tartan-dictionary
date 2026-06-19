@@ -2,10 +2,9 @@
 title: "Ribbons of Hope"
 date: 2023-03-18
 ---
-**Bands:** [WGGRWRRWWW](/stripes/wggrwrrwww/) · **Stripes:** [W G G R W R R LP W LP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="seq">W G G R W R R LP W LP</span></span>
+In pattern [WGGRWRRWWW](/stripes/wggrwrrwww/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8436/
 

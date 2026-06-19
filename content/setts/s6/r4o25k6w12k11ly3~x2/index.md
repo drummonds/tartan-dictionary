@@ -2,10 +2,9 @@
 title: "Thomson Dress (Grey) (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RRKWKY](/stripes/rrkwky/) · **Stripes:** [R O K W K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R O K W K LY</span></span>
+In pattern [RRKWKY](/stripes/rrkwky/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3121/
 

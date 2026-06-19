@@ -2,10 +2,9 @@
 title: "Maier (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYKRKRKRKR](/stripes/kykrkrkrkr/) · **Stripes:** [K LY K R K R K R K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K LY K R K R K R K R</span></span>
+In pattern [KYKRKRKRKR](/stripes/kykrkrkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786
 

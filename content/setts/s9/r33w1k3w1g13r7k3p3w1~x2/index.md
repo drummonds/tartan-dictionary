@@ -2,10 +2,9 @@
 title: "Leach, Leech, Leitch, dress"
 date: 2023-03-18
 ---
-**Bands:** [RWKWGRKBW](/stripes/rwkwgrkbw/) · **Stripes:** [R W K W G R K P W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W K W G R K P W</span></span>
+In pattern [RWKWGRKBW](/stripes/rwkwgrkbw/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

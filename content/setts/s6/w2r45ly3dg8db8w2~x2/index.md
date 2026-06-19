@@ -2,10 +2,9 @@
 title: "Glencross (Moniaive) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WRYGBW](/stripes/wrygbw/) · **Stripes:** [W R LY DG DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R LY DG DB W</span></span>
+In pattern [WBGYRW](/stripes/wbgyrw/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10843/
 

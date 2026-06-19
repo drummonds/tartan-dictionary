@@ -2,10 +2,9 @@
 title: "MacLachlan W"
 date: 2023-03-18
 ---
-**Bands:** [RYYGKYY](/stripes/ryygkyy/) · **Stripes:** [R LR LY DG K LR LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LR LY DG K LR LY</span></span>
+In pattern [RYYGKYY](/stripes/ryygkyy/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacLachlan W](/setts/s7/r24lr2ly3dg16k16lr2ly3/)
-
 
 ## Thread count
 DR/48 N4 LG6 DG32 K32 N4 LG/6

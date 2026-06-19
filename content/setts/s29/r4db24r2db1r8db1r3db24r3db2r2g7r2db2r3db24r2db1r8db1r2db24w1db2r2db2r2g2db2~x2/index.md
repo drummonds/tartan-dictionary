@@ -2,10 +2,9 @@
 title: "Hebridean, South Uist Specimen"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRBRBRGRBRBRBRBRBWBRBRGB](/stripes/rbrbrbrbrbrgrbrbrbrbrbwbrbrgb/) · **Stripes:** [R DB R DB R DB R DB R DB R G R DB R DB R DB R DB R DB W DB R DB R G DB](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DB R G R DB R DB R DB R DB R DB W DB R DB R G DB</span></span>
+In pattern [BGRBRBWBRBRBRBRBRGRBRBRBRBRBR](/stripes/bgrbrbwbrbrbrbrbrgrbrbrbrbrbr/).
 
-
-This was sourced from weddslist.  It is a [29 band tartan](/bands/bands29/).
+This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

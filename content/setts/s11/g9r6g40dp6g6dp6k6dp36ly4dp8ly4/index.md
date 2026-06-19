@@ -2,10 +2,9 @@
 title: "Boyle Family, Susan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBKBGBGRG](/stripes/ybybkbgbgrg/) · **Stripes:** [LY DP LY DP K DP G DP G R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DP LY DP K DP G DP G R G</span></span>
+In pattern [GRGBGBKBYBY](/stripes/grgbgbkbyby/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8915/
 

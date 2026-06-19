@@ -2,10 +2,9 @@
 title: "Cuthill Clan/Family Tartan Tartan Number: 6954. Earliest known date: 2006 July Mr Cuthill based his design on Lindsay tartan which his family have worn since c1800 following the wedding between James Cuthill and Margaret Lindsay. (Unconfirmed and awaiting further research: a daughter of the Earl of Crawford) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGBRBRBRYRBRBRBGRGRGB](/stripes/grgrgbrbrbryrbrbrbgrgrgb/) · **Stripes:** [G R G R G DT R DB R DB R LY R DB R DB R DT G R G R G DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G DT R DB R DB R LY R DB R DB R DT G R G R G DB</span></span>
+In pattern [BGRGRGBRBRBRYRBRBRBGRGRG](/stripes/bgrgrgbrbrbryrbrbrbgrgrg/).
 
-
-This was sourced from house-of-tartan.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6954
 

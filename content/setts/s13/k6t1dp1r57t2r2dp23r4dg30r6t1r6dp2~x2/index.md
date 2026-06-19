@@ -2,10 +2,9 @@
 title: "MacGillivray #2"
 date: 2023-03-18
 ---
-**Bands:** [KBBRBRBRGRBRB](/stripes/kbbrbrbrgrbrb/) · **Stripes:** [K T DP R T R DP R DG R T R DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K T DP R T R DP R DG R T R DP</span></span>
+In pattern [BRBRGRBRBRBBK](/stripes/brbrgrbrbrbbk/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2441
 

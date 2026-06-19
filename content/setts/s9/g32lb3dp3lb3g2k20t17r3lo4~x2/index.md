@@ -2,10 +2,9 @@
 title: "Colorado"
 date: 2023-03-18
 ---
-**Bands:** [YRBKGWBWG](/stripes/yrbkgwbwg/) · **Stripes:** [LO R T K G LB DP LB G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO R T K G LB DP LB G</span></span>
+In pattern [GWBWGKBRY](/stripes/gwbwgkbry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=713
 

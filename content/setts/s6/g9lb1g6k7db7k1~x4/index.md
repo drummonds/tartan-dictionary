@@ -2,10 +2,9 @@
 title: "Menteith"
 date: 2023-03-18
 ---
-**Bands:** [KBKGWG](/stripes/kbkgwg/) · **Stripes:** [K DB K G LB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K G LB G</span></span>
+In pattern [GWGKBK](/stripes/gwgkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2919
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2919](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2919)
 - Scottish Tartans Authority (ITI): 929
 - Scottish Tartans World Register: 929
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Redland](/setts/s6/g52lb7g9k35db35k7/)
-
 
 ## Thread count
 G/36 N4 G24 K28 DB28 K/4

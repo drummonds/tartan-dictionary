@@ -2,10 +2,9 @@
 title: "Unidentified #19"
 date: 2023-03-18
 ---
-**Bands:** [BKYBBBKYBKBKRBBBKRB](/stripes/bkybbbkybkbkrbbbkrb/) · **Stripes:** [B K LY B T B K LY B K DB K R DB DB DB K R DB](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">B K LY B T B K LY B K DB K R DB DB DB K R DB</span></span>
+In pattern [BKYBBBKYBKBKRBBBKRB](/stripes/bkybbbkybkbkrbbbkrb/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4220
 

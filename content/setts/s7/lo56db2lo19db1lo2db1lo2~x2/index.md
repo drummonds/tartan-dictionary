@@ -2,10 +2,9 @@
 title: "Lewis (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [YBYBYBY](/stripes/ybybyby/) · **Stripes:** [LO DB LO DB LO DB LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DB LO DB LO DB LO</span></span>
+In pattern [YBYBYBY](/stripes/ybybyby/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5758/
 

@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bkwkwk/
 ---
-BKWKWK
-
-It is a 6 band tartan.
+It is a 6 stripe tartan.
 
 ![Woven sample](/setts/s6/db52k28w5k3w2k10/tartan.png)
 
 
 
 ## Colour Sequence
-BKWKWK
+
+{{< pat "BKWKWK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K W K W K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K W K DB</span></span>
 
 | Tartans |
 |---------------|
 | [St Andrews, Earl of](/setts/s6/db52k28w5k3w2k10/)|
 |![St Andrews, Earl of example sett](/setts/s6/db52k28w5k3w2k10/sett.png)|
-

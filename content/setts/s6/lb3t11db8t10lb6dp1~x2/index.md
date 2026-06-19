@@ -2,10 +2,9 @@
 title: "Loch Ness Water"
 date: 2023-03-18
 ---
-**Bands:** [BWBBBW](/stripes/bwbbbw/) · **Stripes:** [DP LB T DB T LB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">DP LB T DB T LB</span></span>
+In pattern [BWBBBW](/stripes/bwbbbw/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11488
 

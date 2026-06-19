@@ -2,10 +2,9 @@
 title: "Commonwealth"
 date: 2023-03-18
 ---
-**Bands:** [RBRBYKWRYB](/stripes/rbrbykwryb/) · **Stripes:** [R DT R DT LO K LB R LO DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT R DT LO K LB R LO DT</span></span>
+In pattern [BYRWKYBRBR](/stripes/byrwkybrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=721
 

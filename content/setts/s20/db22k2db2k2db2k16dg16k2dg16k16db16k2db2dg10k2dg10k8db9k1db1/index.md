@@ -2,10 +2,9 @@
 title: "Black Watch"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGBKBKGKGKBKBKB](/stripes/bkbkgkgbkbkgkgkbkbkb/) · **Stripes:** [DB K DB K DG K DG DB K DB K DG K DG K DB K DB K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG K DG DB K DB K DG K DG K DB K DB K DB</span></span>
+In pattern [BKBKBKGKGKBKBGKGKBKB](/stripes/bkbkbkgkgkbkbgkgkbkb/).
 
-
-This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -58,13 +57,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Black Watch](/setts/s20/db12k1db1k1db1k8dg8k1dg8k8db8k1db1dg6k1dg6k3db4k1db1/)
-
 
 ## Thread count
 DBa/22 K2 DBa2 K2 DBa2 K16 DG16 K2 DG16 K16 DBa16 K2 DBa2 DG10 K2 DG10 K8 DB9 K1 DB/1

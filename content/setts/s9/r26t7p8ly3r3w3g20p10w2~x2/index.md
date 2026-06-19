@@ -2,10 +2,9 @@
 title: "Wilson's, No 227"
 date: 2023-03-18
 ---
-**Bands:** [RBBYRWGBW](/stripes/rbbyrwgbw/) · **Stripes:** [R T P LY R W G P W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R T P LY R W G P W</span></span>
+In pattern [RBBYRWGBW](/stripes/rbbyrwgbw/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/gwkry/
 ---
-GWKRY
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/dg4lb4k2r15ly4~x4/tartan.png)
 
 
 
 ## Colour Sequence
-GWKRY
+
+{{< pat "GWKRY" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### LY R K LB DG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="seq">LY R K LB DG</span></span>
 
 | Tartans |
 |---------------|
 | [Benedict (Personal)](/setts/s5/dg4lb4k2r15ly4~x4/)|
 |![Benedict (Personal) example sett](/setts/s5/dg4lb4k2r15ly4~x4/sett.png)|
-
-### LY R K LB G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R K LB G</span></span>
-
-| Tartans |
-|---------------|
 | [Benedict (Personal)](/setts/s5/g4lb4k2r15ly4~x4/)|
 |![Benedict (Personal) example sett](/setts/s5/g4lb4k2r15ly4~x4/sett.png)|
-

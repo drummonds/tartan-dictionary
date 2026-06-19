@@ -2,10 +2,9 @@
 title: "Alberta, Quebec, Nova Scotia."
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGWBKGKGKGKGKWBKGB](/stripes/kbkbkgwbkgkgkgkgkwbkgb/) · **Stripes:** [K DB K DB K DG W DB K DG K DG K DG K DG K W DB K DG DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DG W DB K DG K DG K DG K DG K W DB K DG DB</span></span>
+In pattern [BGKBWKGKGKGKGKBWGKBKBK](/stripes/bgkbwkgkgkgkgkbwgkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=42
 

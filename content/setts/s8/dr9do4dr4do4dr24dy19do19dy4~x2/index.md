@@ -2,10 +2,9 @@
 title: "Chindecella Ruadh (Kemete Heil)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBBBBB](/stripes/gbgbbbbb/) · **Stripes:** [DY DO DY DR DO DR DO DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="seq">DY DO DY DR DO DR DO DR</span></span>
+In pattern [BBBBBGBG](/stripes/bbbbbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10253
 

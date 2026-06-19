@@ -2,10 +2,9 @@
 title: "House of Edgar Shotts & Dykehead"
 date: 2023-03-18
 ---
-**Bands:** [BWBYBWBBRBRBRBRBBWBYBW](/stripes/bwbybwbbrbrbrbrbbwbybw/) · **Stripes:** [DB W DB LY DB W DB N R DB R DB R DB R N DB W DB LY DB W](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W DB LY DB W DB N R DB R DB R DB R N DB W DB LY DB W</span></span>
+In pattern [BWBYBWBBRBRBRBRBBWBYBW](/stripes/bwbybwbbrbrbrbrbbwbybw/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1772
 

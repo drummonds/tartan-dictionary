@@ -2,10 +2,9 @@
 title: "Dogrobes"
 date: 2023-03-18
 ---
-**Bands:** [RWRBWBWRW](/stripes/rwrbwbwrw/) · **Stripes:** [R W R DT W DT LB R LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R W R DT W DT LB R LB</span></span>
+In pattern [RWRBWBWRW](/stripes/rwrbwbwrw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11612
 

@@ -2,10 +2,9 @@
 title: "Henderson Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [YKWKWBWBW](/stripes/ykwkwbwbw/) · **Stripes:** [LO K W K W B W B W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO K W K W B W B W</span></span>
+In pattern [WBWBWKWKY](/stripes/wbwbwkwky/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5176/
 

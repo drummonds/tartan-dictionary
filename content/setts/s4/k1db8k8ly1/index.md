@@ -2,10 +2,9 @@
 title: "Wallace Blue"
 date: 2023-03-18
 ---
-**Bands:** [KBKY](/stripes/kbky/) · **Stripes:** [K DB K LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K DB K LY</span></span>
+In pattern [KBKY](/stripes/kbky/).
 
-
-This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wallace (Personal)](/setts/s4/k1db7k7ly1~x10/)
-
 
 ## Thread count
 K/1 DB8 K8 LG/1

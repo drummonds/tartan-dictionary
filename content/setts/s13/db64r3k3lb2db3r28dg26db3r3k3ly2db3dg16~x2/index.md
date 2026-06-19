@@ -2,10 +2,9 @@
 title: "Wcwm 1571"
 date: 2023-03-18
 ---
-**Bands:** [GBYKRBGRBWKRB](/stripes/gbykrbgrbwkrb/) · **Stripes:** [DG DB LY K R DB DG R DB LB K R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DB LY K R DB DG R DB LB K R DB</span></span>
+In pattern [BRKWBRGBRKYBG](/stripes/brkwbrgbrkybg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4531
 

@@ -2,10 +2,9 @@
 title: "Wicklow County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YBGBYBYBB](/stripes/ybgbybybb/) · **Stripes:** [LR DB Y DB LO DB LO DB DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DB Y DB LO DB LO DB DB</span></span>
+In pattern [BBYBYBGBY](/stripes/bbybybgby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7436/
 

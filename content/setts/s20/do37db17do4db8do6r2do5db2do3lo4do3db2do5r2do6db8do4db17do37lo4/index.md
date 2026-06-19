@@ -2,10 +2,9 @@
 title: "Griffith of Wales"
 date: 2023-03-18
 ---
-**Bands:** [YBBBBBRBBBYBBBRBBBBB](/stripes/ybbbbbrbbbybbbrbbbbb/) · **Stripes:** [LO DO DB DO DB DO R DO DB DO LO DO DB DO R DO DB DO DB DO](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO DB DO DB DO R DO DB DO LO DO DB DO R DO DB DO DB DO</span></span>
+In pattern [BBBBBRBBBYBBBRBBBBBY](/stripes/bbbbbrbbbybbbrbbbbby/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5134
 

@@ -2,10 +2,9 @@
 title: "Lochcarron Mill"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKBBKBKBKBKB](/stripes/rbrbkbbkbkbkbkb/) · **Stripes:** [R N R N K N N K N K N K N K N](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">R N R N K N N K N K N K N K N</span></span>
+In pattern [BKBKBKBKBBKBRBR](/stripes/bkbkbkbkbbkbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2171
 

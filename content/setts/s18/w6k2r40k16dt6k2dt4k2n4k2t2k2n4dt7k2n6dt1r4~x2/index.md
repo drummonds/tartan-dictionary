@@ -2,10 +2,9 @@
 title: "Breeding"
 date: 2023-03-18
 ---
-**Bands:** [RBBKBBKBKBKBKBKRKW](/stripes/rbbkbbkbkbkbkbkrkw/) · **Stripes:** [R DT N K DT N K T K N K DT K DT K R K W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DT N K DT N K T K N K DT K DT K R K W</span></span>
+In pattern [RBBKBBKBKBKBKBKRKW](/stripes/rbbkbbkbkbkbkbkrkw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347
 

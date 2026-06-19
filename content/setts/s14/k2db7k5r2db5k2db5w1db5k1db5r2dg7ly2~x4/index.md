@@ -2,10 +2,9 @@
 title: "MacLellan/McLellan Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KBKRBKBWBKBRGY](/stripes/kbkrbkbwbkbrgy/) · **Stripes:** [K DB K R DB K DB W DB K DB R DG LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K DB K R DB K DB W DB K DB R DG LY</span></span>
+In pattern [KBKRBKBWBKBRGY](/stripes/kbkrbkbwbkbrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2624
 

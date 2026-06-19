@@ -2,10 +2,9 @@
 title: "North Berwick Pipe Band (Dancing)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGRGRGRW](/stripes/krkrgrgrgrw/) · **Stripes:** [K R K R DG R DG R DG R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K R K R DG R DG R DG R W</span></span>
+In pattern [KRKRGRGRGRW](/stripes/krkrgrgrgrw/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

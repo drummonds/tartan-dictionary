@@ -2,10 +2,9 @@
 title: "Highland Queen"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRKRYRKRY](/stripes/ryryrkryrkry/) · **Stripes:** [R LG R LR R K R LG R K R LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R LG R LR R K R LG R K R LY</span></span>
+In pattern [RYRYRKRYRKRY](/stripes/ryryrkryrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10171
 

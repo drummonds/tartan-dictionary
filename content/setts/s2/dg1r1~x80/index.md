@@ -2,10 +2,9 @@
 title: "Glenlyon (District)"
 date: 2023-03-18
 ---
-**Bands:** [RG](/stripes/rg/) · **Stripes:** [R DG](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG</span></span>
+In pattern [GR](/stripes/gr/).
 
-
-This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1424
 
@@ -22,15 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1424](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1424)
 - Scottish Tartans World Register: 15
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Moncreiffe](/setts/s2/dg1r1/)
-- [Wilson's No.099](/setts/s2/dg14r13~x2/)
-- [Wilson's No.134](/setts/s2/r3dg1~x14/)
-
 
 ## Thread count
 R/80 G/80

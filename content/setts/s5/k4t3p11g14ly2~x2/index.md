@@ -2,10 +2,9 @@
 title: "Wellington, No 122"
 date: 2023-03-18
 ---
-**Bands:** [KBBGY](/stripes/kbbgy/) · **Stripes:** [K T P G LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K T P G LY</span></span>
+In pattern [KBBGY](/stripes/kbbgy/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gallowater, Old](/setts/s5/k19t10p19g40ly10/)
-
 
 ## Thread count
 K/8 B6 P22 G28 Y/4

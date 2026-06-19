@@ -2,10 +2,9 @@
 title: "MacBain"
 date: 2023-03-18
 ---
-**Bands:** [RWWKWKWWKGKWRRGRRWKG](/stripes/rwwkwkwwkgkwrrgrrwkg/) · **Stripes:** [R LB LB K LB K LB LB K DG K LB R R DG R R LB K DG](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R LB LB K LB K LB LB K DG K LB R R DG R R LB K DG</span></span>
+In pattern [GKWRRGRRWKGKWWKWKWWR](/stripes/gkwrrgrrwkgkwwkwkwwr/).
 
-
-This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

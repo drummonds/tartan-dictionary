@@ -2,10 +2,9 @@
 title: "Queen's University Ont. (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBWBRBYGW](/stripes/bybybwbrbygw/) · **Stripes:** [DB LO DB LO DP W DP R DB LO G W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB LO DB LO DP W DP R DB LO G W</span></span>
+In pattern [BYBYBWBRBYGW](/stripes/bybybwbrbygw/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2103/
 

@@ -2,10 +2,9 @@
 title: "UPS No. 2 (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBWBWBWYWBW](/stripes/bwbwbwbwbwbwywbw/) · **Stripes:** [DO W DO W DO W DO W DO W DO W LO W DO W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DO W DO W DO W DO W DO W DO W LO W DO W</span></span>
+In pattern [BWBWBWBWBWBWYWBW](/stripes/bwbwbwbwbwbwywbw/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10024/
 

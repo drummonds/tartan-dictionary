@@ -2,10 +2,9 @@
 title: "Geddes"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRW](/stripes/brgrbrw/) · **Stripes:** [DP R G R DP R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP R G R DP R W</span></span>
+In pattern [BRGRBRW](/stripes/brgrbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1325
 
@@ -22,13 +21,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [1325](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1325)
 - Scottish Tartans Authority (ITI): 4969
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacKintosh-Geddes (Personal?)](/setts/s7/dp2r4g12r3dp6r10w2~x2/)
-
 
 ## Thread count
 DP/4 R20 G60 R12 DP36 R40 LN/4

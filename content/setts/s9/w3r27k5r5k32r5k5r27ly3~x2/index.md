@@ -2,10 +2,9 @@
 title: "MacIver #2"
 date: 2023-03-18
 ---
-**Bands:** [YRKRKRKRW](/stripes/yrkrkrkrw/) · **Stripes:** [LY R K R K R K R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R K R K R K R W</span></span>
+In pattern [WRKRKRKRY](/stripes/wrkrkrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2490
 
@@ -899,14 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacIver](/setts/s9/w1r9k2r2k12r2k2r9ly1~x4/)
-- [MacIver (Clan)](/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/)
-
 
 ## Thread count
 Y/6 R54 K10 R10 K64 R10 K10 R54 LN/6

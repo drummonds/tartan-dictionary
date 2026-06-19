@@ -2,10 +2,9 @@
 title: "MacInnes Dress (Dalgliesh)"
 date: 2023-03-18
 ---
-**Bands:** [RGBKWGKGKGWG](/stripes/rgbkwgkgkgwg/) · **Stripes:** [R G DB K W G K G K G W G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DB K W G K G K G W G</span></span>
+In pattern [GWGKGKGWKBGR](/stripes/gwgkgkgwkbgr/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2475
 

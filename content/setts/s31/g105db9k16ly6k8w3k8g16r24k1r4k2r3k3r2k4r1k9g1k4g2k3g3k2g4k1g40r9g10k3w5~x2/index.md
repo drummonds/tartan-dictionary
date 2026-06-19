@@ -2,10 +2,9 @@
 title: "Un-named C19th Plaid"
 date: 2023-03-18
 ---
-**Bands:** [GBKYKWKGRKRKRKRKRKGKGKGKGKGRGKW](/stripes/gbkykwkgrkrkrkrkrkgkgkgkgkgrgkw/) · **Stripes:** [G DB K LY K W K G R K R K R K R K R K G K G K G K G K G R G K W](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">G DB K LY K W K G R K R K R K R K R K G K G K G K G K G R G K W</span></span>
+In pattern [GBKYKWKGRKRKRKRKRKGKGKGKGKGRGKW](/stripes/gbkykwkgrkrkrkrkrkgkgkgkgkgrgkw/).
 
-
-This was sourced from tartans-authority.  It is a [31 band tartan](/bands/bands31/).
+This was sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8538/
 

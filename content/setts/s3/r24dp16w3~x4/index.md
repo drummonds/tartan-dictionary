@@ -2,10 +2,9 @@
 title: "National Autistic Society Scotland"
 date: 2023-03-18
 ---
-**Bands:** [RBW](/stripes/rbw/) · **Stripes:** [R DP W](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DP W</span></span>
+In pattern [RBW](/stripes/rbw/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10685
 

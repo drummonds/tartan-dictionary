@@ -2,10 +2,9 @@
 title: "Yellow Pencil"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYGYG](/stripes/ygygygyg/) · **Stripes:** [LY DY LY DY LY DY LY DY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY DY LY DY LY DY LY DY</span></span>
+In pattern [GYGYGYGY](/stripes/gygygygy/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10761
 

@@ -2,10 +2,9 @@
 title: "Kelso (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGYGYGYGYGGY](/stripes/ygygygygyggy/) · **Stripes:** [LR Y LR DG LR Y LR Y LR Y DG LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LR Y LR DG LR Y LR Y LR Y DG LR</span></span>
+In pattern [YGGYGYGYGYGY](/stripes/yggygygygygy/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5325/
 

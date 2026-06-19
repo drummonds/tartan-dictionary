@@ -2,10 +2,9 @@
 title: "Unidentified Plaid 3"
 date: 2023-03-18
 ---
-**Bands:** [BRYBYBYBYBYBYBYBYBYBYBB](/stripes/brybybybybybybybybybybb/) · **Stripes:** [N R LY N LY N LY N LY N LY N LY N LY N LY N LY N LY DR N](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="seq">N R LY N LY N LY N LY N LY N LY N LY N LY N LY N LY DR N</span></span>
+In pattern [BBYBYBYBYBYBYBYBYBYBYRB](/stripes/bbybybybybybybybybybyrb/).
 
-
-This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

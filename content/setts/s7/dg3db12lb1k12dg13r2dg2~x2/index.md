@@ -2,10 +2,9 @@
 title: "MacPhedran/MacFadzean"
 date: 2023-03-18
 ---
-**Bands:** [GRGKWBG](/stripes/grgkwbg/) · **Stripes:** [DG R DG K LB DB DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG K LB DB DG</span></span>
+In pattern [GBWKGRG](/stripes/gbwkgrg/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1102/
 

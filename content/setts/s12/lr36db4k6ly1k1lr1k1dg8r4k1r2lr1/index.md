@@ -2,10 +2,9 @@
 title: "Stewart Dress"
 date: 2023-03-18
 ---
-**Bands:** [YRKRGKYKYKBY](/stripes/yrkrgkykykby/) · **Stripes:** [LR R K R DG K LR K LY K DB LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LR R K R DG K LR K LY K DB LR</span></span>
+In pattern [YBKYKYKGRKRY](/stripes/ybkykykgrkry/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Stewart Dress](/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/)
-
 
 ## Thread count
 N/36 DB4 K6 LG1 K1 N1 K1 DG8 DR4 K1 DR2 N/1

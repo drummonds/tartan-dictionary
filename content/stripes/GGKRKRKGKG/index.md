@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/ggkrkrkgkg/
 ---
-GGKRKRKGKG
-
-It is a 10 band tartan.
+It is a 10 stripe tartan.
 
 
 
 ## Colour Sequence
-GGKRKRKGKG
+
+{{< pat "GGKRKRKGKG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G K Y K R K R K Y G <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K Y K R K R K Y G</span></span>
 
 | Tartans |
 |---------------|
 | [Forde](/setts/s10/g16y1k2r1k1r1k2y1k1g1~x4/)|
 |![Forde example sett](/setts/s10/g16y1k2r1k1r1k2y1k1g1~x4/sett.png)|
-

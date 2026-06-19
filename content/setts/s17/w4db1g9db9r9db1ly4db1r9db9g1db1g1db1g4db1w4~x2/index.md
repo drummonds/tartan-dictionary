@@ -2,10 +2,9 @@
 title: "Alaskan Scottish"
 date: 2023-03-18
 ---
-**Bands:** [WBGBRBYBRBGBGBGBW](/stripes/wbgbrbybrbgbgbgbw/) · **Stripes:** [W DB G DB R DB LY DB R DB G DB G DB G DB W](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB G DB R DB LY DB R DB G DB G DB G DB W</span></span>
+In pattern [WBGBGBGBRBYBRBGBW](/stripes/wbgbgbgbrbybrbgbw/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10851/
 

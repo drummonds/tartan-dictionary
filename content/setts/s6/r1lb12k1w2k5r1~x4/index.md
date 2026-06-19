@@ -2,10 +2,9 @@
 title: "Rui (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKWKWR](/stripes/rkwkwr/) · **Stripes:** [R K W K LB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K LB R</span></span>
+In pattern [RKWKWR](/stripes/rkwkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3617
 

@@ -2,10 +2,9 @@
 title: "Montgomerie of Eglinton"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKGK](/stripes/krkbkgk/) · **Stripes:** [K R K DB K G K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K DB K G K</span></span>
+In pattern [KGKBKRK](/stripes/kgkbkrk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Eglinton](/setts/s7/k1r1k1db7k1g1k1~x8/)
-
 
 ## Thread count
 K/8 R10 K8 B56 K8 G10 K/8

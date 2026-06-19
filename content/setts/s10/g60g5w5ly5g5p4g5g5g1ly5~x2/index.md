@@ -2,10 +2,9 @@
 title: "Hayden, Thomas (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGGGBGYWGG](/stripes/ygggbgywgg/) · **Stripes:** [LY G G G P G LY W G G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G G G P G LY W G G</span></span>
+In pattern [GGWYGBGGGY](/stripes/ggwygbgggy/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10378/
 

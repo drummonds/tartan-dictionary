@@ -2,10 +2,9 @@
 title: "First"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBKBW](/stripes/brbrbkbw/) · **Stripes:** [DP M DP M DP K DT W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP M DP M DP K DT W</span></span>
+In pattern [BRBRBKBW](/stripes/brbrbkbw/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1191
 

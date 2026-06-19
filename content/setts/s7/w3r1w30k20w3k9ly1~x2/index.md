@@ -2,10 +2,9 @@
 title: "MacPherson Dress (1842)"
 date: 2023-03-18
 ---
-**Bands:** [YKWKWRW](/stripes/ykwkwrw/) · **Stripes:** [LY K W K W R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K W K W R W</span></span>
+In pattern [WRWKWKY](/stripes/wrwkwky/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2713
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson Dress, Blue (Dance)](/setts/s7/w5r3w26k21w3k8ly3~x2/)
-
 
 ## Thread count
 LN/6 R2 LN60 K40 LN6 K18 Ya/2

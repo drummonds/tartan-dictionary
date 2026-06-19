@@ -2,10 +2,9 @@
 title: "Livingston"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRKRKRG](/stripes/rgrgrkrkrg/) · **Stripes:** [R DG R DG R K R K R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DG R K R K R DG</span></span>
+In pattern [GRKRKRGRGR](/stripes/grkrkrgrgr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Livingston](/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/)
-
 
 ## Thread count
 G/24 R6 K2 R6 K2 R8 G32 R40 G4 R/16

@@ -2,10 +2,9 @@
 title: "Royal Air Force Lossiemouth"
 date: 2023-03-18
 ---
-**Bands:** [RBRBGBKGKY](/stripes/rbrbgbkgky/) · **Stripes:** [O T R T G DT K G K LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">O T R T G DT K G K LO</span></span>
+In pattern [RBRBGBKGKY](/stripes/rbrbgbkgky/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3587
 

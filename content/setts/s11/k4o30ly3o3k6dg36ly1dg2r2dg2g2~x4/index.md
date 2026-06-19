@@ -2,10 +2,9 @@
 title: "Chelsea"
 date: 2023-03-18
 ---
-**Bands:** [KRYRKGYGRGG](/stripes/kryrkgygrgg/) · **Stripes:** [K O LY O K DG LY DG R DG G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K O LY O K DG LY DG R DG G</span></span>
+In pattern [GGRGYGKRYRK](/stripes/ggrgygkryrk/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=626
 

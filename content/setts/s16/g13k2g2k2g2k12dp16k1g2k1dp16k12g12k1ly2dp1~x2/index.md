@@ -2,10 +2,9 @@
 title: "Kettles, Ryan & Alan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBKGKBKGKYB](/stripes/gkgkgkbkgkbkgkyb/) · **Stripes:** [G K G K G K DP K G K DP K G K LY DP](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G K G K G K DP K G K DP K G K LY DP</span></span>
+In pattern [BYKGKBKGKBKGKGKG](/stripes/bykgkbkgkbkgkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11061/
 

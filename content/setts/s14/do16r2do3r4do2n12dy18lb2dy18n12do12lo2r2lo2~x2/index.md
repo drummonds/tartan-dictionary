@@ -2,10 +2,9 @@
 title: "Allen - 2012 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YRYBBGWGBBRBRB](/stripes/yrybbgwgbbrbrb/) · **Stripes:** [LO R LO DO N DY LB DY N DO R DO R DO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">LO R LO DO N DY LB DY N DO R DO R DO</span></span>
+In pattern [BRBRBBGWGBBYRY](/stripes/brbrbbgwgbbyry/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10573/
 

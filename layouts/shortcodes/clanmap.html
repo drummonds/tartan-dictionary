@@ -1,99 +1,58 @@
 {{- /*
-  clanmap — an all-Scotland clan map, pure HTML/CSS (no JavaScript).
-  Each clan's country is a disc filled with an SVG tartan <pattern> built from its sett,
-  sized by 1745 fighting strength and styled by Highland/Lowland type. Coastline is the
-  Natural Earth outline in data/scotland_outline.toml; clans are in data/clans.toml.
-  A radio toggles "all names" vs "Highland clans only" (the 1745 Memorial's own distinction).
-  Seeded from the 1745 "Memoriall anent the Highlands" — see the Books->Clans pipeline.
+  clanmap — the all-Scotland clan map for the front page. Pure HTML/CSS (no JavaScript):
+  three radio buttons toggle between the period eras, each embedding a tartan-filled SVG
+  rendered by tartan-weaver (cmd/clanmap → static/img/clanmap-{1745,1823,now}.svg). The
+  frontier of "tartan country" advances south through the eras; the land is partitioned by
+  clan territory and filled with each clan's sett, the Lowlands/Borders in the Shepherd/
+  Falkirk check and England in the Northumberland check. Seeded from the 1745 "Memoriall
+  anent the Highlands" (data/clans.toml). The SVGs are generated, not committed here.
 */ -}}
-{{- $clans := hugo.Data.clans.clan -}}
-{{- $outline := hugo.Data.scotland_outline.paths -}}
-
-{{- /* projection: geographic box -> 800x1000 viewBox (matches the outline data) */ -}}
-{{- $lonW := -8.70 -}}{{- $lonE := -0.70 -}}{{- $latS := 54.50 -}}{{- $latN := 61.00 -}}
-{{- $M := 20.0 -}}{{- $W := 760.0 -}}{{- $H := 960.0 -}}
-
 <div class="clanmap">
-  <input type="radio" name="clanmap-view" id="cv-all" class="cv-radio" checked>
-  <input type="radio" name="clanmap-view" id="cv-highland" class="cv-radio">
-  <div class="cv-controls">
-    <label for="cv-all">All names · 1745</label>
-    <label for="cv-highland">Highland clans only</label>
+  <input type="radio" name="clanmap-era" id="ce-1745" class="ce-radio">
+  <input type="radio" name="clanmap-era" id="ce-1823" class="ce-radio">
+  <input type="radio" name="clanmap-era" id="ce-now" class="ce-radio" checked>
+  <div class="ce-controls">
+    <label for="ce-1745">1745</label>
+    <label for="ce-1823">1823</label>
+    <label for="ce-now">Today</label>
   </div>
-  <p class="cv-caption cv-cap-all">The Highland clans of the 1745 <em>Memorial</em>, each country tinted with its tartan; disc size is the men it could raise. Gold dashed line = the Highland Boundary.</p>
-  <p class="cv-caption cv-cap-highland">Only the &ldquo;naturall chieftenries&rdquo; — the true clans whose followers were kinsmen. The great Lowland superiors (Perth, Atholl, Gordon) fade out, leaving the Highlands proper.</p>
 
-  <svg viewBox="0 0 800 1000" role="img" aria-label="Tartan map of the clans of Scotland, c.1745">
-    <defs>
-      {{- /* one tartan <pattern> per clan, filled with the real tartan-weaver image (content/setts/**) */ -}}
-      {{- range $clans }}
-      <pattern id="t-{{ .id }}" patternUnits="objectBoundingBox" patternContentUnits="objectBoundingBox" width="1" height="1">
-        <image href="{{ .img | relURL }}" x="0" y="0" width="1" height="1" preserveAspectRatio="xMidYMid slice"/>
-      </pattern>
-      {{- end }}
-    </defs>
+  <p class="ce-caption ce-cap-1745">Tartan country reaches the <strong>Highland Line</strong> (Helensburgh&ndash;Stonehaven) as the 1745 <a href="/posts/clanmap/">Memorial</a> found it; the Lowlands and Borders wear the Shepherd/Falkirk check, England the Northumberland check.</p>
+  <p class="ce-caption ce-cap-1823">After the 1822 royal-visit boom, tartan spreads south to the <strong>Southern Uplands</strong>.</p>
+  <p class="ce-caption ce-cap-now">The whole of Scotland in tartan, the border at the <strong>Solway&ndash;Tweed</strong> line; England in the Northumberland check.</p>
 
-    <rect x="0" y="0" width="800" height="1000" fill="#eef1f4"/>
+  <div class="ce-stage">
+    <img class="ce-map ce-map-1745" src="{{ "/img/clanmap-1745.svg" | relURL }}" alt="Tartan map of Scotland in 1745 — tartan country reaching the Highland Line" loading="lazy">
+    <img class="ce-map ce-map-1823" src="{{ "/img/clanmap-1823.svg" | relURL }}" alt="Tartan map of Scotland in 1823 — tartan spread to the Southern Uplands" loading="lazy">
+    <img class="ce-map ce-map-now"  src="{{ "/img/clanmap-now.svg"  | relURL }}" alt="Tartan map of Scotland today — the whole landmass in tartan" loading="lazy">
+  </div>
 
-    {{- /* coastline */ -}}
-    {{- range $outline }}
-    <path d="{{ . }}" fill="#dfe6dd" stroke="#9fb0a6" stroke-width="0.8"/>
-    {{- end }}
-
-    {{- /* Highland Boundary: Helensburgh (56.00,-4.72) -> Stonehaven (56.96,-2.10) */ -}}
-    {{- $hlx1 := add $M (mul (div (sub -4.72 $lonW) (sub $lonE $lonW)) $W) }}
-    {{- $hly1 := add $M (mul (div (sub $latN 56.00) (sub $latN $latS)) $H) }}
-    {{- $hlx2 := add $M (mul (div (sub -2.10 $lonW) (sub $lonE $lonW)) $W) }}
-    {{- $hly2 := add $M (mul (div (sub $latN 56.96) (sub $latN $latS)) $H) }}
-    <line class="cv-hline" x1="{{ $hlx1 }}" y1="{{ $hly1 }}" x2="{{ $hlx2 }}" y2="{{ $hly2 }}"
-          stroke="#b8860b" stroke-width="2.2" stroke-dasharray="8 5"/>
-    <text class="cv-hline-label" x="{{ sub $hlx1 6 }}" y="{{ add $hly1 16 }}">Highland Line</text>
-
-    {{- /* clan territories: tartan-filled discs, sized by men, styled by type */ -}}
-    {{- range $clans }}
-    {{- $px := add $M (mul (div (sub .lon $lonW) (sub $lonE $lonW)) $W) }}
-    {{- $py := add $M (mul (div (sub $latN .lat) (sub $latN $latS)) $H) }}
-    {{- $r := add 5.0 (mul 2.4 (math.Sqrt (div .men 100.0))) }}
-    <g class="clan clan--{{ .type }}">
-      <circle cx="{{ $px }}" cy="{{ $py }}" r="{{ $r }}" fill="url(#t-{{ .id }})"/>
-      <circle cx="{{ $px }}" cy="{{ $py }}" r="{{ $r }}" class="clan-ring" fill="none"/>
-      <text class="clan-label" x="{{ $px }}" y="{{ add (add $py $r) 11 }}" text-anchor="middle">{{ .name }}</text>
-    </g>
-    {{- end }}
-  </svg>
-
-  <p class="cv-foot">Centroids and setts are approximate (a first pass); territory polygons traced from
-  the 1899 <a href="/posts/clanmap/">Clans of Scotland</a> map, and a true date slider, are the next layer.</p>
+  <p class="ce-foot">Clan centroids and setts are a first pass; territory polygons traced from the
+  1899 <a href="/posts/clanmap/">Clans of Scotland</a> map, and a true date slider, are the next layer.</p>
 </div>
 
 <style>
 .clanmap { max-width: 560px; margin: 1.2rem auto; }
-.clanmap .cv-radio { position: absolute; opacity: 0; pointer-events: none; }
-.clanmap .cv-controls { display: flex; flex-wrap: wrap; gap: .4rem; justify-content: center; margin-bottom: .6rem; }
-.clanmap .cv-controls label {
+.clanmap .ce-radio { position: absolute; opacity: 0; pointer-events: none; }
+.clanmap .ce-controls { display: flex; flex-wrap: wrap; gap: .4rem; justify-content: center; margin-bottom: .6rem; }
+.clanmap .ce-controls label {
   cursor: pointer; padding: .25rem .8rem; border: 1px solid #bbb; border-radius: 999px;
   font-size: .9rem; background: #fff; color: #333; user-select: none;
 }
-.clanmap .cv-caption { display: none; text-align: center; font-style: italic; color: #444; margin: .2rem 0 .6rem; min-height: 3em; }
-.clanmap svg { width: 100%; height: auto; border: 1px solid #e3ded0; border-radius: 6px; display: block; background: #eef1f4; }
-.clanmap .cv-foot { font-size: .8rem; color: #777; text-align: center; margin-top: .5rem; }
-
-.clanmap .clan-label { font: 600 9px/1 sans-serif; fill: #2a2a2a; paint-order: stroke; stroke: #eef1f4; stroke-width: 2.4px; }
-.clanmap .clan-ring { stroke: #2a2a2a; stroke-width: 1; }
-.clanmap .clan--lowland-superior .clan-ring { stroke: #7a5a00; stroke-dasharray: 3 2; }
-.clanmap .clan--proscribed .clan-ring { stroke: #8a1418; stroke-dasharray: 1 2; }
-.clanmap .clan--reduced .clan-ring { stroke: #888; stroke-width: .7; }
-.clanmap .cv-hline-label { font: italic 12px serif; fill: #8a6508; }
+.clanmap .ce-caption { display: none; text-align: center; font-style: italic; color: #444; margin: .2rem 0 .6rem; min-height: 3em; }
+.clanmap .ce-map { display: none; width: 100%; height: auto; border: 1px solid #e3ded0; border-radius: 6px; background: #eef1f4; }
+.clanmap .ce-foot { font-size: .8rem; color: #777; text-align: center; margin-top: .5rem; }
 
 /* active control highlight */
-#cv-all:checked ~ .cv-controls label[for="cv-all"],
-#cv-highland:checked ~ .cv-controls label[for="cv-highland"] { background: #1f4e8c; color: #fff; border-color: #1f4e8c; }
+#ce-1745:checked ~ .ce-controls label[for="ce-1745"],
+#ce-1823:checked ~ .ce-controls label[for="ce-1823"],
+#ce-now:checked  ~ .ce-controls label[for="ce-now"] { background: #1f4e8c; color: #fff; border-color: #1f4e8c; }
 /* captions */
-#cv-all:checked ~ .cv-cap-all { display: block; }
-#cv-highland:checked ~ .cv-cap-highland { display: block; }
-/* Highland-clans-only view fades the Lowland superiors, proscribed and reduced lines */
-#cv-highland:checked ~ svg .clan--lowland-superior,
-#cv-highland:checked ~ svg .clan--proscribed { opacity: .12; }
-#cv-highland:checked ~ svg .cv-hline,
-#cv-highland:checked ~ svg .cv-hline-label { opacity: 1; }
+#ce-1745:checked ~ .ce-cap-1745,
+#ce-1823:checked ~ .ce-cap-1823,
+#ce-now:checked  ~ .ce-cap-now { display: block; }
+/* the selected era's map */
+#ce-1745:checked ~ .ce-stage .ce-map-1745,
+#ce-1823:checked ~ .ce-stage .ce-map-1823,
+#ce-now:checked  ~ .ce-stage .ce-map-now { display: block; }
 </style>

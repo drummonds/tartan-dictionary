@@ -2,10 +2,9 @@
 title: "Outdoorsmen (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KGBKGKB](/stripes/kgbkgkb/) · **Stripes:** [K G B K G K B](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G B K G K B</span></span>
+In pattern [BKGKBGK](/stripes/bkgkbgk/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8037/
 

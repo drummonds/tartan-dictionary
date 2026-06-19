@@ -2,10 +2,9 @@
 title: "Gipsy"
 date: 2023-03-18
 ---
-**Bands:** [KRKRWRBRK](/stripes/krkrwrbrk/) · **Stripes:** [K R K R W R DB R K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K R W R DB R K</span></span>
+In pattern [KRBRWRKRK](/stripes/krbrwrkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1347
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [1347](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1347)
 - Scottish Tartans Authority (ITI): 1137
 - Scottish Tartans World Register: 1137
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Gipsy](/setts/s9/k1r1k5r1w1r1db5r1k1~x2/)
-- [Gipsy (Fashion)](/setts/s9/k2r2k8r2w1r2db8r2k2~x4/)
-
 
 ## Thread count
 K/4 R4 K16 R4 W2 R4 DB16 R4 K/4

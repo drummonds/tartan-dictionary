@@ -2,10 +2,9 @@
 title: "Binder (2013)"
 date: 2023-03-18
 ---
-**Bands:** [RKBWGRGRKBKGKGKWBKRW](/stripes/rkbwgrgrkbkgkgkwbkrw/) · **Stripes:** [R K DB W G R DG R K DB K DG K G K W DB K R W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K DB W G R DG R K DB K DG K G K W DB K R W</span></span>
+In pattern [RKBWGRGRKBKGKGKWBKRW](/stripes/rkbwgrgrkbkgkgkwbkrw/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10879/
 

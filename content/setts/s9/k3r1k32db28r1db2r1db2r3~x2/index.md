@@ -2,10 +2,9 @@
 title: "Angus"
 date: 2023-03-18
 ---
-**Bands:** [KRKBRBRBR](/stripes/krkbrbrbr/) · **Stripes:** [K R K DB R DB R DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K DB R DB R DB R</span></span>
+In pattern [KRKBRBRBR](/stripes/krkbrbrbr/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Angus](/setts/s9/k3r1k14db14r1db1r1db1r2~x4/)
-
 
 ## Thread count
 K/6 R2 K64 B56 R2 B4 R2 B4 R/6

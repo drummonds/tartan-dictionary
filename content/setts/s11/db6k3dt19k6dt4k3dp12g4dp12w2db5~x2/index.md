@@ -2,10 +2,9 @@
 title: "Scotland Forever"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBGBWB](/stripes/bkbkbkbgbwb/) · **Stripes:** [DB K DT K DT K DP G DP W DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DT K DT K DP G DP W DB</span></span>
+In pattern [BKBKBKBGBWB](/stripes/bkbkbkbgbwb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3678
 

@@ -2,10 +2,9 @@
 title: "MacIain"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKY](/stripes/rkrkrky/) · **Stripes:** [R K R K R K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K R K R K LY</span></span>
+In pattern [RKRKRKY](/stripes/rkrkrky/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -949,14 +948,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDonald of Ardnamurchan (Clan?)](/setts/s7/r4k8r4k8r12k1ly2~x4/)
-- [MacKeane (Clan?)](/setts/s7/r4k8r4k8r12k1ly1~x2/)
-
 
 ## Thread count
 R/8 K16 R8 K16 R24 K2 Y/4

@@ -2,10 +2,9 @@
 title: "Pringle (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGYGKBYBWBW](/stripes/rgygkbybwbw/) · **Stripes:** [R DG LO DG K DT LO DT LB DT LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">R DG LO DG K DT LO DT LB DT LB</span></span>
+In pattern [RGYGKBYBWBW](/stripes/rgygkbybwbw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5447/
 

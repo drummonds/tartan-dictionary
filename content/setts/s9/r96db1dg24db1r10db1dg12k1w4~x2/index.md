@@ -2,10 +2,9 @@
 title: "MacAulay (MacGregor)"
 date: 2023-03-18
 ---
-**Bands:** [RBGBRBGKW](/stripes/rbgbrbgkw/) · **Stripes:** [R DB DG DB R DB DG K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB DG DB R DB DG K W</span></span>
+In pattern [RBGBRBGKW](/stripes/rbgbrbgkw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2286
 

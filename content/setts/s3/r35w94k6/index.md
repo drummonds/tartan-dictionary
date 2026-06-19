@@ -2,10 +2,9 @@
 title: "St Georges Check"
 date: 2023-03-18
 ---
-**Bands:** [KWR](/stripes/kwr/) · **Stripes:** [K W R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W R</span></span>
+In pattern [KWR](/stripes/kwr/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303
 
@@ -27,14 +26,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10303](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dacre Estate Check](/setts/s3/k1w1r1~x14/)
-- [International Karate Fed. (Corporat)](/setts/s3/r8w1k1~x20/)
-
 
 ## Thread count
 R/35 W94 K/6

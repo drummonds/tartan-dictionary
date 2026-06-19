@@ -2,10 +2,9 @@
 title: "Grassi (2009)"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKRKBKBKRBB](/stripes/kbkbkrkbkbkrbb/) · **Stripes:** [K N K N K O K N K N K O N DP](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K N K N K O K N K N K O N DP</span></span>
+In pattern [BBRKBKBKRKBKBK](/stripes/bbrkbkbkrkbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10010
 

@@ -2,10 +2,9 @@
 title: "Wilson's No.007 Or Eglinton"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKRKRKBKG](/stripes/kgkbkrkrkbkg/) · **Stripes:** [K G K DP K R K R K DP K G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K DP K R K R K DP K G</span></span>
+In pattern [GKBKRKRKBKGK](/stripes/gkbkrkrkbkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4646
 

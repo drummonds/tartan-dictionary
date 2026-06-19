@@ -2,10 +2,9 @@
 title: "Scottish Piping Society of London"
 date: 2023-03-18
 ---
-**Bands:** [GRGBGRGBGRGB](/stripes/grgbgrgbgrgb/) · **Stripes:** [Y R Y DB Y R Y DB Y R Y DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">Y R Y DB Y R Y DB Y R Y DB</span></span>
+In pattern [BGRGBGRGBGRG](/stripes/bgrgbgrgbgrg/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4963
 

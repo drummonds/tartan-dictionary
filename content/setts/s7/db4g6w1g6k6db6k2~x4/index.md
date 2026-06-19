@@ -2,10 +2,9 @@
 title: "MacNeil of Colonsay"
 date: 2023-03-18
 ---
-**Bands:** [KBKGWGB](/stripes/kbkgwgb/) · **Stripes:** [K DB K G W G DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K G W G DB</span></span>
+In pattern [BGWGKBK](/stripes/bgwgkbk/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacNeil of Colonsay (Clan)](/setts/s7/db16g14w2g14k13db12k4~x2/)
-
 
 ## Thread count
 B/16 G24 LN4 G24 K24 B24 K/8

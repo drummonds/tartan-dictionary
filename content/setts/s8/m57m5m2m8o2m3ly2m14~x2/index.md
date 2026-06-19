@@ -2,10 +2,9 @@
 title: "Cairngorms National Park"
 date: 2023-03-18
 ---
-**Bands:** [RRRRRRYR](/stripes/rrrrrryr/) · **Stripes:** [M M M M O M LY M](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M M M M O M LY M</span></span>
+In pattern [RRRRRRYR](/stripes/rrrrrryr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11197/
 

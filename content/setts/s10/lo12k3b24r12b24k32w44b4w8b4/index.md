@@ -2,10 +2,9 @@
 title: "Gillies Dress Blue"
 date: 2023-03-18
 ---
-**Bands:** [YKBRBKWBWB](/stripes/ykbrbkwbwb/) · **Stripes:** [LO K B R B K W B W B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO K B R B K W B W B</span></span>
+In pattern [BWBWKBRBKY](/stripes/bwbwkbrbky/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1342
 

@@ -2,10 +2,9 @@
 title: "Drovers' Tryst (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGYGRKRW](/stripes/gygygygrkrw/) · **Stripes:** [Y LG Y LO Y LG Y R K R LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">Y LG Y LO Y LG Y R K R LB</span></span>
+In pattern [GYGYGYGRKRW](/stripes/gygygygrkrw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8249/
 

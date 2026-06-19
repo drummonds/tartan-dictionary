@@ -2,10 +2,9 @@
 title: "Cumnock (District)"
 date: 2023-03-18
 ---
-**Bands:** [YKRKBKBG](/stripes/ykrkbkbg/) · **Stripes:** [LO K R K DP K DB G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO K R K DP K DB G</span></span>
+In pattern [GBKBKRKY](/stripes/gbkbkrky/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10436/
 

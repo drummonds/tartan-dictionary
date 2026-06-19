@@ -2,10 +2,9 @@
 title: "Masai Shuka 19 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RRB](/stripes/rrb/) · **Stripes:** [R R B](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R R B</span></span>
+In pattern [BRR](/stripes/brr/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7279/
 

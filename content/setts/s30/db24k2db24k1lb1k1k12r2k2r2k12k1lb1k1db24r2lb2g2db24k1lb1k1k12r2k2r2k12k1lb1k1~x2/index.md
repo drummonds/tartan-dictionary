@@ -2,10 +2,9 @@
 title: "Italian (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [KWKKRKRKKWKBGWRBKWKKRKRKKWKBKB](/stripes/kwkkrkrkkwkbgwrbkwkkrkrkkwkbkb/) · **Stripes:** [K LB K K R K R K K LB K DB G LB R DB K LB K K R K R K K LB K DB K DB](/stripes/stripes30/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LB K K R K R K K LB K DB G LB R DB K LB K K R K R K K LB K DB K DB</span></span>
+In pattern [BKBKWKKRKRKKWKBRWGBKWKKRKRKKWK](/stripes/bkbkwkkrkrkkwkbrwgbkwkkrkrkkwk/).
 
-
-This was sourced from tartans-authority.  It is a [30 band tartan](/bands/bands30/).
+This was sourced from tartans-authority.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5285/
 

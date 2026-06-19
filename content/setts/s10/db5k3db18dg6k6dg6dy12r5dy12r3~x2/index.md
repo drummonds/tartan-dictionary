@@ -2,10 +2,9 @@
 title: "Longford, County"
 date: 2023-03-18
 ---
-**Bands:** [RGRGGKGBKB](/stripes/rgrggkgbkb/) · **Stripes:** [R DY R DY DG K DG DB K DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DY R DY DG K DG DB K DB</span></span>
+In pattern [BKBGKGGRGR](/stripes/bkbgkggrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2201
 

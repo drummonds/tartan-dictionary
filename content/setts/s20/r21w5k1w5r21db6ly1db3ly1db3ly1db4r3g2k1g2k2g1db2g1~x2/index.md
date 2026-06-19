@@ -2,10 +2,9 @@
 title: "McKee (Lone Star) (Personal), Dot"
 date: 2023-03-18
 ---
-**Bands:** [RWKWRBYBYBYBRGKGKGBG](/stripes/rwkwrbybybybrgkgkgbg/) · **Stripes:** [R W K W R DB LY DB LY DB LY DB R G K G K G DB G](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W K W R DB LY DB LY DB LY DB R G K G K G DB G</span></span>
+In pattern [GBGKGKGRBYBYBYBRWKWR](/stripes/gbgkgkgrbybybybrwkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11057
 

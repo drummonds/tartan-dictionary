@@ -2,10 +2,9 @@
 title: "Perth - 1819 (District)"
 date: 2023-03-18
 ---
-**Bands:** [RWBYGRBWW](/stripes/rwbygrbww/) · **Stripes:** [R W DP LY DG R DP LT W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W DP LY DG R DP LT W</span></span>
+In pattern [RWBYGRBWW](/stripes/rwbygrbww/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5508/
 

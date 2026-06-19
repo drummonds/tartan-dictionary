@@ -4,26 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbrkgrg/
 ---
-BGBRKGRG
-
-It is a 8 band tartan.
+It is a 8 stripe tartan.
 
 ![Woven sample](/setts/s8/g2r1g16k12r1t16g1t2~x2/tartan.png)
 
 
 
 ## Colour Sequence
-BGBRKGRG
+
+{{< pat "BGBRKGRG" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### G R G K R T G T <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R G K R T G T</span></span>
 
 | Tartans |
 |---------------|
 | [Lochaber District](/setts/s8/g2r1g16k12r1t16g1t2~x2/)|
 |![Lochaber District example sett](/setts/s8/g2r1g16k12r1t16g1t2~x2/sett.png)|
-

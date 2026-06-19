@@ -2,10 +2,9 @@
 title: "Mowbray, (Moubray)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRB](/stripes/grgrb/) · **Stripes:** [Y R Y R T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">Y R Y R T</span></span>
+In pattern [BRGRG](/stripes/brgrg/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

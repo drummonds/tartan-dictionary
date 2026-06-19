@@ -2,10 +2,9 @@
 title: "Walter"
 date: 2023-03-18
 ---
-**Bands:** [RWYGBGB](/stripes/rwygbgb/) · **Stripes:** [R W LY DG P DY T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W LY DG P DY T</span></span>
+In pattern [BGBGYWR](/stripes/bgbgywr/).
 
-
-This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

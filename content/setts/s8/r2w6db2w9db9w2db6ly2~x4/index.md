@@ -2,10 +2,9 @@
 title: "North Vancouver Island"
 date: 2023-03-18
 ---
-**Bands:** [RWBWBWBY](/stripes/rwbwbwby/) · **Stripes:** [R W DB W DB W DB LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W DB W DB W DB LY</span></span>
+In pattern [RWBWBWBY](/stripes/rwbwbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3156
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3156](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3156)
 - Scottish Tartans Authority (ITI): 1682
 - Scottish Tartans World Register: 1682
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [North Vancouver, Island](/setts/s8/r2w6db2w9db9w2db6ly2~x2/)
-
 
 ## Thread count
 R/8 W24 DB8 W36 DB36 W8 DB24 Y/8

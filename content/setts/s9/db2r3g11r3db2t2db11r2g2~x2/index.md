@@ -2,10 +2,9 @@
 title: "Hebridean 1"
 date: 2023-03-18
 ---
-**Bands:** [GRBBBRGRB](/stripes/grbbbrgrb/) · **Stripes:** [G R DB T DB R G R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB T DB R G R DB</span></span>
+In pattern [BRGRBBBRG](/stripes/brgrbbbrg/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,10 +2,9 @@
 title: "MacGlashan"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRYRBWBWBWB](/stripes/ryryryrbwbwbwb/) · **Stripes:** [O LY O LY O LY O DR LB DR LB DR LB DR](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="seq">O LY O LY O LY O DR LB DR LB DR LB DR</span></span>
+In pattern [BWBWBWBRYRYRYR](/stripes/bwbwbwbryryryr/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

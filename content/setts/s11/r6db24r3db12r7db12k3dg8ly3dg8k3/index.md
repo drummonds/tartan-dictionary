@@ -2,10 +2,9 @@
 title: "South Australia #2"
 date: 2023-03-18
 ---
-**Bands:** [KGYGKBRBRBR](/stripes/kgygkbrbrbr/) · **Stripes:** [K DG LY DG K DB R DB R DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DG LY DG K DB R DB R DB R</span></span>
+In pattern [KGYGKBRBRBR](/stripes/kgygkbrbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5990
 

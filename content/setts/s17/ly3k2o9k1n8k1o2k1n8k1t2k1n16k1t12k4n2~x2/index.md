@@ -2,10 +2,9 @@
 title: "Golden Glow (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YKRKBKRKBKBKBKBKB](/stripes/ykrkbkrkbkbkbkbkb/) · **Stripes:** [LY K O K N K O K N K T K N K T K N](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">LY K O K N K O K N K T K N K T K N</span></span>
+In pattern [BKBKBKBKBKRKBKRKY](/stripes/bkbkbkbkbkrkbkrky/).
 
-
-This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10291/
 

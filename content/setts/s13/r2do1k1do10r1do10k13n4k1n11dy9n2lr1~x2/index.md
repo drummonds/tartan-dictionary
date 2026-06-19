@@ -2,10 +2,9 @@
 title: "Bruma"
 date: 2023-03-18
 ---
-**Bands:** [RBKBRBKBKBGBY](/stripes/rbkbrbkbkbgby/) · **Stripes:** [R DO K DO R DO K N K N DY N LR](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R DO K DO R DO K N K N DY N LR</span></span>
+In pattern [RBKBRBKBKBGBY](/stripes/rbkbrbkbkbgby/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11571
 

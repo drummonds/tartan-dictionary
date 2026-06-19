@@ -2,10 +2,9 @@
 title: "Urquhart"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKGKGR](/stripes/kgkgkgkgr/) · **Stripes:** [K G K G K G K G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K G K G K G R</span></span>
+In pattern [KGKGKGKGR](/stripes/kgkgkgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4431
 

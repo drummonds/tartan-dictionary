@@ -2,21 +2,11 @@
 title: "Cowie, Justine (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKG](/stripes/rkg/) · **Stripes:** [R K G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K G</span></span>
+In pattern [GKR](/stripes/gkr/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8555/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Wilson's No.200](/setts/s3/r4k7g4~x2/)
-- [Wilson's No.202](/setts/s3/g7k4r4~x2/)
-- [Wilson's, No 204](/setts/s3/r10k11g9~x2/)
-
 
 ## Thread count
 G/36 K72 R/8

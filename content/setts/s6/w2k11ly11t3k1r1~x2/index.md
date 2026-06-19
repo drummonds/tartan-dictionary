@@ -2,10 +2,9 @@
 title: "Cornish National Small Set Tartan Tartan Number: 7651. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RKBYKW](/stripes/rkbykw/) · **Stripes:** [R K T LY K W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K T LY K W</span></span>
+In pattern [RKBYKW](/stripes/rkbykw/).
 
-
-This was sourced from house-of-tartan.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7651
 
@@ -15,13 +14,6 @@ This cloth is also recorded under:
 
 - Cornish National #2
 - Cornish, National
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Cornish, National](/setts/s6/w5k26ly26t7k3r3~x2/)
-
 
 ## Thread count
 LN/4 K22 Y22 B6 K2 R/2

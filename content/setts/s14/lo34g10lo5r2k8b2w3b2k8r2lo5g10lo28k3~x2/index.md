@@ -2,10 +2,9 @@
 title: "Lambert Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KYGYRKBWBKRYGY](/stripes/kygyrkbwbkrygy/) · **Stripes:** [K LO G LO R K B W B K R LO G LO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">K LO G LO R K B W B K R LO G LO</span></span>
+In pattern [KYGYRKBWBKRYGY](/stripes/kygyrkbwbkrygy/).
 
-
-This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10663/
 

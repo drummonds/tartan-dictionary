@@ -2,10 +2,9 @@
 title: "Moran Blue Family Tartan Tartan Number: 3901. Earliest known date: 2001 Designed by Mark Moran after finding that the existing green Moran tartan was restricted (by copyright). Mark decided that he too, wished to reserve the design for his own famillies use. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBKWGKKBKKGWKBBW](/stripes/bbkwgkkbkkgwkbbw/) · **Stripes:** [B DB K W G K K B K K G W K DB B W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B DB K W G K K B K K G W K DB B W</span></span>
+In pattern [BBKWGKKBKKGWKBBW](/stripes/bbkwgkkbkkgwkbbw/).
 
-
-This was sourced from house-of-tartan.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3901
 

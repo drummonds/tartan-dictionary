@@ -2,10 +2,9 @@
 title: "MacBean (Lord Lyon version)"
 date: 2023-03-18
 ---
-**Bands:** [RWWKWKWWKGKWRRGRRWG](/stripes/rwwkwkwwkgkwrrgrrwg/) · **Stripes:** [R W LB K W K LB W K G K W R R G R R W G](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W LB K W K LB W K G K W R R G R R W G</span></span>
+In pattern [GWRRGRRWKGKWWKWKWWR](/stripes/gwrrgrrwkgkwwkwkwwr/).
 
-
-This was sourced from tartans-authority.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/951/
 

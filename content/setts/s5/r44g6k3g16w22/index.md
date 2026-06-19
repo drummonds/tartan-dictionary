@@ -2,19 +2,11 @@
 title: "Basque (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RGKGW](/stripes/rgkgw/) · **Stripes:** [R G K G W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G K G W</span></span>
+In pattern [RGKGW](/stripes/rgkgw/).
 
-
-This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8055/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Inverness Basque (District)](/setts/s5/r33g9k5g24w33~x2/)
-
 
 ## Thread count
 R/44 G6 K3 G16 LN/22

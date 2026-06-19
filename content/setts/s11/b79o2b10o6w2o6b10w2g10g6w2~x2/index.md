@@ -2,10 +2,9 @@
 title: "Dallas (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRWRBWGGW](/stripes/brbrwrbwggw/) · **Stripes:** [B O B O W O B W G G W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">B O B O W O B W G G W</span></span>
+In pattern [BRBRWRBWGGW](/stripes/brbrwrbwggw/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7513/
 

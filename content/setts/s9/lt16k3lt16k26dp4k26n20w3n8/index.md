@@ -2,10 +2,9 @@
 title: "Scotsburn Croft"
 date: 2023-03-18
 ---
-**Bands:** [BWBKBKWKW](/stripes/bwbkbkwkw/) · **Stripes:** [N W N K DP K LT K LT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">N W N K DP K LT K LT</span></span>
+In pattern [BWBKBKWKW](/stripes/bwbkbkwkw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11208
 

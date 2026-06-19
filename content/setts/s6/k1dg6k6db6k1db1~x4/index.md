@@ -2,10 +2,9 @@
 title: "Black Watch (smallest sett)"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKB](/stripes/kgkbkb/) · **Stripes:** [K DG K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DG K DB K DB</span></span>
+In pattern [BKBKGK](/stripes/bkbkgk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5376
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [5376](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5376)
 - Scottish Tartans Authority (ITI): 3695
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Sutherland 42nd](/setts/s6/k1dg3k3db3k1db1~x4/)
-
 
 ## Thread count
 K/4 Ga24 K24 DBa24 K4 DBa/4

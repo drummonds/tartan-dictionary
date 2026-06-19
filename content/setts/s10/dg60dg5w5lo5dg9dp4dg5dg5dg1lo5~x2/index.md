@@ -2,10 +2,9 @@
 title: "Hayden (Dublin) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGGGBGYWGG](/stripes/ygggbgywgg/) · **Stripes:** [LO DG DG DG DP DG LO W DG DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG DG DG DP DG LO W DG DG</span></span>
+In pattern [GGWYGBGGGY](/stripes/ggwygbgggy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10378
 

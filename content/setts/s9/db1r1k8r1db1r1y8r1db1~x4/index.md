@@ -2,10 +2,9 @@
 title: "MacPherson of Pitmain"
 date: 2023-03-18
 ---
-**Bands:** [BRKRBRGRB](/stripes/brkrbrgrb/) · **Stripes:** [DB R K R DB R Y R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R K R DB R Y R DB</span></span>
+In pattern [BRGRBRKRB](/stripes/brgrbrkrb/).
 
-
-This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -892,13 +891,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson Hunting](/setts/s9/db1r1k8r1db1r1y8r1db1~x2/)
-
 
 ## Thread count
 B/4 R4 K32 R4 B4 R4 N32 R4 B/4

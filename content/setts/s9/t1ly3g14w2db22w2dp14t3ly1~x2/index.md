@@ -2,10 +2,9 @@
 title: "Yule (Name)"
 date: 2023-03-18
 ---
-**Bands:** [YBBWBWGYB](/stripes/ybbwbwgyb/) · **Stripes:** [LY T DP W DB W G LY T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY T DP W DB W G LY T</span></span>
+In pattern [BYGWBWBBY](/stripes/bygwbwbby/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3896/
 

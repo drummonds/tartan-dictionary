@@ -2,10 +2,9 @@
 title: "U.S. Forces Thurso (Military)"
 date: 2023-03-18
 ---
-**Bands:** [YWYYKRB](/stripes/ywyykrb/) · **Stripes:** [LR W LR LO K R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LR W LR LO K R DB</span></span>
+In pattern [BRKYYWY](/stripes/brkyywy/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5074/
 

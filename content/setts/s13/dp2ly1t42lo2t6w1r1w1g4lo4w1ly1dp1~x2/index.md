@@ -2,10 +2,9 @@
 title: "Kerr of Ardgowan Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBWRWGYWYB](/stripes/bybybwrwgywyb/) · **Stripes:** [DP LY T LO T W R W G LO W LY DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP LY T LO T W R W G LO W LY DP</span></span>
+In pattern [BYBYBWRWGYWYB](/stripes/bybybwrwgywyb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7323/
 

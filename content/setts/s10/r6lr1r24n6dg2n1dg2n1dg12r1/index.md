@@ -2,10 +2,9 @@
 title: "Chisholm D"
 date: 2023-03-18
 ---
-**Bands:** [RYRBGBGBGR](/stripes/ryrbgbgbgr/) · **Stripes:** [R LR R N DG N DG N DG R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LR R N DG N DG N DG R</span></span>
+In pattern [RGBGBGBRYR](/stripes/rgbgbgbryr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Chisholm D](/setts/s10/r6lr1r24n6dg2n1dg2n1dg12r1~x2/)
-
 
 ## Thread count
 DR/6 Na1 DR24 N6 DG2 N1 DG2 N1 DG12 DR/1

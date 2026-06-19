@@ -2,19 +2,11 @@
 title: "Meridia Dance"
 date: 2023-03-18
 ---
-**Bands:** [WKWBRBRW](/stripes/wkwbrbrw/) · **Stripes:** [W K W DB M DB M W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W DB M DB M W</span></span>
+In pattern [WKWBRBRW](/stripes/wkwbrbrw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11142/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Merida Dance](/setts/s8/w8k4w54db18m6db8m49w6/)
-
 
 ## Thread count
 W/8 K6 W54 DB16 P6 DB8 P49 W/6

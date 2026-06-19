@@ -2,10 +2,9 @@
 title: "Norwich No.077"
 date: 2023-03-18
 ---
-**Bands:** [GRGYGWGRG](/stripes/grgygwgrg/) · **Stripes:** [DG R DG LY DG W DG R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DG R DG LY DG W DG R DG</span></span>
+In pattern [GRGWGYGRG](/stripes/grgwgygrg/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3194
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3194](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3194)
 - Scottish Tartans Authority (ITI): 5550
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unidentified #33](/setts/s9/dg2r3dg4w1dg1ly1dg4r3dg2~x2/)
-
 
 ## Thread count
 DG/10 R18 DG20 Y4 DG4 W4 DG20 R18 DG/10

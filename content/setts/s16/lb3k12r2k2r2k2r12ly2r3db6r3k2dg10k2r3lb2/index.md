@@ -2,10 +2,9 @@
 title: "Innes D"
 date: 2023-03-18
 ---
-**Bands:** [WKRKRKRYRBRKGKRW](/stripes/wkrkrkryrbrkgkrw/) · **Stripes:** [LB K R K R K R LY R DB R K DG K R LB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB K R K R K R LY R DB R K DG K R LB</span></span>
+In pattern [WKRKRKRYRBRKGKRW](/stripes/wkrkrkryrbrkgkrw/).
 
-
-This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -30,13 +29,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Innes](/setts/s16/lb7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lb4/)
-
 
 ## Thread count
 N/3 K12 R2 K2 R2 K2 R12 Y2 R3 DB6 R3 K2 G10 K2 R3 N/2

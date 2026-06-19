@@ -2,10 +2,9 @@
 title: "Knights Breton"
 date: 2023-03-18
 ---
-**Bands:** [KWKRKR](/stripes/kwkrkr/) · **Stripes:** [K W K R K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K W K R K R</span></span>
+In pattern [KWKRKR](/stripes/kwkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10616
 
@@ -27,14 +26,6 @@ This cloth appears in 2 source records; the oldest owns this page.
 External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [10616](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10616)
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hakkarain (Personal)](/setts/s6/k37w18k37r2k2r2~x2/)
-- [Ramsay of Dalhousie](/setts/s6/k4w2k28r30k1r3~x2/)
-
 
 ## Thread count
 DR/19 K8 DR18 K50 LY14 K/6

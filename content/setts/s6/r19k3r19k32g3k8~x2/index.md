@@ -2,10 +2,9 @@
 title: "Tartan TV"
 date: 2023-03-18
 ---
-**Bands:** [KGKRKR](/stripes/kgkrkr/) · **Stripes:** [K G K R K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G K R K R</span></span>
+In pattern [KGKRKR](/stripes/kgkrkr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4077](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077)
 - Scottish Tartans Authority (ITI): 3906
 - Scottish Tartans World Register: 2858
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacCormick (Dress)](/setts/s6/k3g13k10r13k2r3~x2/)
-
 
 ## Thread count
 Ra/38 DB6 Ra38 DB64 G6 DB/16

@@ -2,20 +2,11 @@
 title: "Wilsons' Blanket Pattern (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [RWRGWRKW](/stripes/rwrgwrkw/) · **Stripes:** [R W R DG W R K W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R W R DG W R K W</span></span>
+In pattern [RWRGWRKW](/stripes/rwrgwrkw/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3704/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Unidentified Blanket](/setts/s8/w50k1r12w1dg12r13w1r2~x2/)
-- [Wilson's Blanket Pattern](/setts/s8/w50k1r14w1dg14r14w1r2~x4/)
-
 
 ## Thread count
 W/160 K4 R38 W4 G38 R44 W4 R/8

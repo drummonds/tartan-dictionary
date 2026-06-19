@@ -2,10 +2,9 @@
 title: "Pride of Scotland, Silver (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRRRBBBBRB](/stripes/brbrrrbbbbrb/) · **Stripes:** [N O N R O R N N N N R N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">N O N R O R N N N N R N</span></span>
+In pattern [BRBBBBRRRBRB](/stripes/brbbbbrrrbrb/).
 
-
-This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6476/
 

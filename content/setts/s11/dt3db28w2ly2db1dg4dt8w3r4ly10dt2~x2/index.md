@@ -2,10 +2,9 @@
 title: "Colours of Hope"
 date: 2023-03-18
 ---
-**Bands:** [BYRWBGBYWBB](/stripes/byrwbgbywbb/) · **Stripes:** [DT LY R W DT DG DB LY W DB DT](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">DT LY R W DT DG DB LY W DB DT</span></span>
+In pattern [BBWYBGBWRYB](/stripes/bbwybgbwryb/).
 
-
-This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11643
 

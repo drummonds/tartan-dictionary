@@ -2,10 +2,9 @@
 title: "Lehbrink No. 1 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YRRYRYRYRYRYRYRYRYRYRBRY](/stripes/yrryryryryryryryryryrbry/) · **Stripes:** [LY O O LY O LY O LY O LY O LY O LY O LY O LY O LY R N R LY](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY O O LY O LY O LY O LY O LY O LY O LY O LY O LY R N R LY</span></span>
+In pattern [YRBRYRYRYRYRYRYRYRYRYRRY](/stripes/yrbryryryryryryryryryrry/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8240/
 

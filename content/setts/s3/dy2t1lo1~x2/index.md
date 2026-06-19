@@ -2,10 +2,9 @@
 title: "Gearach Woodcock Tweed (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [YBG](/stripes/ybg/) · **Stripes:** [LO T DY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO T DY</span></span>
+In pattern [GBY](/stripes/gby/).
 
-
-This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7466/
 

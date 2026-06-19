@@ -2,10 +2,9 @@
 title: "Lewis, Magenta (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [YWRW](/stripes/ywrw/) · **Stripes:** [LG W M W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG W M W</span></span>
+In pattern [WRWY](/stripes/wrwy/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7579/
 

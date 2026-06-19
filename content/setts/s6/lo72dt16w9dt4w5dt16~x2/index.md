@@ -2,10 +2,9 @@
 title: "Machair"
 date: 2023-03-18
 ---
-**Bands:** [YBWBWB](/stripes/ybwbwb/) · **Stripes:** [LO DT W DT W DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">LO DT W DT W DT</span></span>
+In pattern [BWBWBY](/stripes/bwbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2465
 

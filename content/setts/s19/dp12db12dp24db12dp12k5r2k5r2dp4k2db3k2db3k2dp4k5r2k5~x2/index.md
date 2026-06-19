@@ -2,10 +2,9 @@
 title: "Burns, Virginia (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKBKBKBKBRKRKBBBBB](/stripes/krkbkbkbkbrkrkbbbbb/) · **Stripes:** [K R K DP K DB K DB K DP R K R K DP DB DP DB DP](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K R K DP K DB K DB K DP R K R K DP DB DP DB DP</span></span>
+In pattern [BBBBBKRKRBKBKBKBKRK](/stripes/bbbbbkrkrbkbkbkbkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11028
 

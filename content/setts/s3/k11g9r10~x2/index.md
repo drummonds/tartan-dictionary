@@ -2,10 +2,9 @@
 title: "Wilson's No.204"
 date: 2023-03-18
 ---
-**Bands:** [KGR](/stripes/kgr/) · **Stripes:** [K G R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G R</span></span>
+In pattern [KGR](/stripes/kgr/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4736
 
@@ -16,17 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [4736](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4736)
 - Scottish Tartans Authority (ITI): 2030
 - Scottish Tartans World Register: 2030
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glen Lyon](/setts/s3/k6g5r2~x2/)
-- [Kincaid of Kincaid (Clan)](/setts/s3/k11g16r2~x4/)
-- [Kincaid, of Kincaid](/setts/s3/k4g6r1~x10/)
-- [Wilson's, No 187](/setts/s3/k1g1r1~x8/)
-- [Wilson's, No 94](/setts/s3/k5g4r2~x2/)
-
 
 ## Thread count
 K/22 G18 R/20

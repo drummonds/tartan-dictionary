@@ -2,10 +2,9 @@
 title: "Purple Rain"
 date: 2023-03-18
 ---
-**Bands:** [BWBKWBWBWBWBWWWW](/stripes/bwbkwbwbwbwbwwww/) · **Stripes:** [DP LB DP K LB DP LB DP LB DP LB DP LB W LB W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP LB DP K LB DP LB DP LB DP LB DP LB W LB W</span></span>
+In pattern [BWBKWBWBWBWBWWWW](/stripes/bwbkwbwbwbwbwwww/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11538
 

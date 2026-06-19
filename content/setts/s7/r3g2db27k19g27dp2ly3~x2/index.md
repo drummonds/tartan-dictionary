@@ -2,10 +2,9 @@
 title: "Christian Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGBKGBY](/stripes/rgbkgby/) · **Stripes:** [R G DB K G DP LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G DB K G DP LY</span></span>
+In pattern [RGBKGBY](/stripes/rgbkgby/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=647
 

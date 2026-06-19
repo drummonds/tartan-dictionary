@@ -2,10 +2,9 @@
 title: "Montrose of Alabama American District Tartan Tartan Number: 2288. Earliest known date: 1996 House of Edgar. One of the smallest of 13 Montroses in the US. The Navy Blue should be very much darker. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBRBKBGYGBKBRB](/stripes/kbrbkbgygbkbrb/) · **Stripes:** [K DT R DT K DT G LY G DT K DT R DT](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">K DT R DT K DT G LY G DT K DT R DT</span></span>
+In pattern [BRBKBGYGBKBRBK](/stripes/brbkbgygbkbrbk/).
 
-
-This was sourced from house-of-tartan.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2288
 

@@ -2,10 +2,9 @@
 title: "Red Watch"
 date: 2023-03-18
 ---
-**Bands:** [KRK](/stripes/krk/) · **Stripes:** [K R K](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K</span></span>
+In pattern [KRK](/stripes/krk/).
 
-
-This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
+This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3480
 
@@ -15,13 +14,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3480](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3480)
 - Scottish Tartans Authority (ITI): 5427
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Bodog](/setts/s3/k80r1k60~x2/)
-
 
 ## Thread count
 K/40 DR12 K/4

@@ -2,10 +2,9 @@
 title: "Greyhound Grenadiers Pipe Band"
 date: 2023-03-18
 ---
-**Bands:** [KBKBBRBBKBBBBBKBBRBBKB](/stripes/kbkbbrbbkbbbbbkbbrbbkb/) · **Stripes:** [K N K N N R N N K B N N N B K N N R N N K N](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N N R N N K B N N N B K N N R N N K N</span></span>
+In pattern [BKBBRBBKBBBBBKBBRBBKBK](/stripes/bkbbrbbkbbbbbkbbrbbkbk/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1546
 

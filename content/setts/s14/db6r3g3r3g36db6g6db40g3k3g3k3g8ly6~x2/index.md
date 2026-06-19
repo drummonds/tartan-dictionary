@@ -2,10 +2,9 @@
 title: "Princess Beatrice Hunting (MacKinlay strip)"
 date: 2023-03-18
 ---
-**Bands:** [YGKGKGBGBGRGRB](/stripes/ygkgkgbgbgrgrb/) · **Stripes:** [LY G K G K G DB G DB G R G R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G K G K G DB G DB G R G R DB</span></span>
+In pattern [BRGRGBGBGKGKGY](/stripes/brgrgbgbgkgkgy/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3400
 
@@ -28,13 +27,6 @@ External register numbers recorded for this tartan.
 
 - Scottish Register of Tartans: [3400](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3400)
 - Scottish Tartans Authority (ITI): 5467
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Beatrice Princess.. (Hunting) Royal Family Tartan Tartan Number: 545. Earliest known date: pre 2003 Reduced by 1/6th to display. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db10r5g5r5g60db13g10db67g5k5g5k5g13ly10/)
-
 
 ## Thread count
 DB/12 R6 G6 R6 G72 B12 G12 DB80 G6 K6 G6 K6 G16 Y/12

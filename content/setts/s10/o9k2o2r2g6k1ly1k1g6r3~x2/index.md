@@ -2,10 +2,9 @@
 title: "MacAart"
 date: 2023-03-18
 ---
-**Bands:** [RKRRGKYKGR](/stripes/rkrrgkykgr/) · **Stripes:** [O K O R G K LY K G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">O K O R G K LY K G R</span></span>
+In pattern [RGKYKGRRKR](/stripes/rgkykgrrkr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

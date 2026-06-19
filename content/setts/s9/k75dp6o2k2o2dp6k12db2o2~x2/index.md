@@ -2,20 +2,11 @@
 title: "Clan Inebriated (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [KBRKRBKBR](/stripes/kbrkrbkbr/) · **Stripes:** [K DP O K O DP K DB O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">K DP O K O DP K DB O</span></span>
+In pattern [KBRKRBKBR](/stripes/kbrkrbkbr/).
 
-
-This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7692/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [CI (Corporate)](/setts/s9/k100dp8o4k4o4dp8k25db10o4/)
-- [Clan Inebriated](/setts/s9/k21dp2o1k1o1dp2k6db2o1~x4/)
-
 
 ## Thread count
 K/150 P12 N4 K4 N4 P12 K24 DB4 N/4

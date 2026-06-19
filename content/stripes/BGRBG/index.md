@@ -4,34 +4,22 @@ date: 2023-03-18
 aliases:
 - /patterns/bgrbg/
 ---
-BGRBG
-
-It is a 5 band tartan.
+It is a 5 stripe tartan.
 
 ![Woven sample](/setts/s5/dr2y10o15dr10y2~x4/tartan.png)
 
 
 
 ## Colour Sequence
-BGRBG
+
+{{< pat "BGRBG" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### G DP O G DP <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP O G DP</span></span>
-
-| Tartans |
-|---------------|
-| [Harmony, 6](/setts/s5/dp2g10o15dp10g2~x4/)|
-|![Harmony, 6 example sett](/setts/s5/dp2g10o15dp10g2~x4/sett.png)|
-
-### Y DR O Y DR <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="seq">Y DR O Y DR</span></span>
 
 | Tartans |
 |---------------|
 | [Harmony 8](/setts/s5/dr2y10o15dr10y2~x4/)|
 |![Harmony 8 example sett](/setts/s5/dr2y10o15dr10y2~x4/sett.png)|
-
+| [Harmony, 6](/setts/s5/dp2g10o15dp10g2~x4/)|
+|![Harmony, 6 example sett](/setts/s5/dp2g10o15dp10g2~x4/sett.png)|

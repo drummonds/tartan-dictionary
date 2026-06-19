@@ -2,10 +2,9 @@
 title: "Perry Ancient (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGGKY](/stripes/kggky/) · **Stripes:** [K Y Y K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K Y Y K LY</span></span>
+In pattern [KGGKY](/stripes/kggky/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4806
 

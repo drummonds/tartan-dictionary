@@ -4,32 +4,20 @@ date: 2023-03-18
 aliases:
 - /patterns/rbkbkgkgr/
 ---
-RBKBKGKGR
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-RBKBKGKGR
+
+{{< pat "RBKBKGKGR" >}}
 
 
 ## Tartans with this colour sequence
-
-Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
-
-
-### R DG K DG K T K T R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K DG K T K T R</span></span>
 
 | Tartans |
 |---------------|
 | [Ayrton](/setts/s9/r3dg2k1dg20k9t20k1t2r3~x2/)|
 |![Ayrton example sett](/setts/s9/r3dg2k1dg20k9t20k1t2r3~x2/sett.png)|
-
-### R G K G K T K T R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K G K T K T R</span></span>
-
-| Tartans |
-|---------------|
 | [Ayrton](/setts/s9/r3g2k1g20k9t20k1t2r3~x2/)|
 |![Ayrton example sett](/setts/s9/r3g2k1g20k9t20k1t2r3~x2/sett.png)|
-

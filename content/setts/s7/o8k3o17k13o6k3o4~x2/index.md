@@ -2,10 +2,9 @@
 title: "Scott Black & Grey (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRKR](/stripes/rkrkrkr/) · **Stripes:** [O K O K O K O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K O K O</span></span>
+In pattern [RKRKRKR](/stripes/rkrkrkr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1287/
 
@@ -14,13 +13,6 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/1287/
 This cloth is also recorded under:
 
 - Scott Black & Grey
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dunbar, John Telfer (Personal)](/setts/s7/o5k2o28k10o26k4o4~x2/)
-
 
 ## Thread count
 N/16 K6 N34 K26 N12 K6 N/8

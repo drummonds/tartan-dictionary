@@ -2,10 +2,9 @@
 title: "Inverness - 2000 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKWKWBWR](/stripes/rkwkwbwr/) · **Stripes:** [R K W K W B W R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K W B W R</span></span>
+In pattern [RKWKWBWR](/stripes/rkwkwbwr/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5271/
 

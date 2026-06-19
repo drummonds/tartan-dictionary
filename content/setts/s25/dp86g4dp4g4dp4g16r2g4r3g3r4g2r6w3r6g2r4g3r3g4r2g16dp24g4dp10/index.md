@@ -2,10 +2,9 @@
 title: "Arran - 1978 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGRGRGRGRWRGRGRGRGBGBGB](/stripes/bgbgrgrgrgrwrgrgrgrgbgbgb/) · **Stripes:** [DP G DP G R G R G R G R W R G R G R G R G DP G DP G DP](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP G DP G R G R G R G R W R G R G R G R G DP G DP G DP</span></span>
+In pattern [BGBGBGRGRGRGRWRGRGRGRGBGB](/stripes/bgbgbgrgrgrgrwrgrgrgrgbgb/).
 
-
-This was sourced from tartans-authority.  It is a [25 band tartan](/bands/bands25/).
+This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/381/
 

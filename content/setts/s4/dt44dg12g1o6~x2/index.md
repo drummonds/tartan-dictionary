@@ -2,10 +2,9 @@
 title: "Heslop Lurdenlaw by Kelso"
 date: 2023-03-18
 ---
-**Bands:** [RGGB](/stripes/rggb/) · **Stripes:** [O G DG DT](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="seq">O G DG DT</span></span>
+In pattern [BGGR](/stripes/bggr/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10331
 

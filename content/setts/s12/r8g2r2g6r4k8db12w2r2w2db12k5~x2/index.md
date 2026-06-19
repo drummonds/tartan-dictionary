@@ -2,10 +2,9 @@
 title: "Glengarry Highland Games"
 date: 2023-03-18
 ---
-**Bands:** [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/) · **Stripes:** [K DB W R W DB K R G R G R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K DB W R W DB K R G R G R</span></span>
+In pattern [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/).
 
-
-This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Glengarry Highland Games](/setts/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/)
-
 
 ## Thread count
 R/16 G4 R4 G12 R8 K16 B24 LN4 R4 LN4 B24 K/10

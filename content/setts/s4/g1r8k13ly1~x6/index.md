@@ -2,19 +2,11 @@
 title: "Billy Apple"
 date: 2023-03-18
 ---
-**Bands:** [YKRG](/stripes/ykrg/) · **Stripes:** [LY K R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K R G</span></span>
+In pattern [GRKY](/stripes/grky/).
 
-
-This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11143/
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Billy Apple® Red](/setts/s4/g1r13k8ly1~x6/)
-
 
 ## Thread count
 Y/6 K78 R48 G/6

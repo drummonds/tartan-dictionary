@@ -2,10 +2,9 @@
 title: "Robertson Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/) · **Stripes:** [DB K DB K DB K G K R K G K DB K W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K DB K DB K G K R K G K DB K W</span></span>
+In pattern [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3532
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3532)
 - Scottish Tartans Authority (ITI): 299
 - Scottish Tartans World Register: 299
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Robertson Htg - 1816 (Clan)](/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/)
-- [Robertson of Kindeace](/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/)
-
 
 ## Thread count
 DB/48 K4 DB4 K4 DB4 K24 G32 K2 R4 K2 G32 K24 DB24 K2 W/6

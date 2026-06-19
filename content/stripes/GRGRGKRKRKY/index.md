@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/grgrgkrkrky/
 ---
-GRGRGKRKRKY
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-GRGRGKRKRKY
+
+{{< pat "GRGRGKRKRKY" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### LO K R K R K DG R DG R DG <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LO K R K R K DG R DG R DG</span></span>
 
 | Tartans |
 |---------------|
 | [79th Regiment (Military)](/setts/s11/dg22r2dg2r6dg42k46r2k42r6k12lo3/)|
 |![79th Regiment (Military) example sett](/setts/s11/dg22r2dg2r6dg42k46r2k42r6k12lo3/sett.png)|
-

@@ -2,10 +2,9 @@
 title: "Wilson's No 158"
 date: 2023-03-18
 ---
-**Bands:** [KBKGWG](/stripes/kbkgwg/) · **Stripes:** [K P K G W G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K P K G W G</span></span>
+In pattern [GWGKBK](/stripes/gwgkbk/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

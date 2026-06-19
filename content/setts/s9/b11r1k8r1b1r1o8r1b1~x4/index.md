@@ -2,10 +2,9 @@
 title: "MacPherson Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BRKRBRRRB](/stripes/brkrbrrrb/) · **Stripes:** [B R K R B R O R B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B R K R B R O R B</span></span>
+In pattern [BRKRBRRRB](/stripes/brkrbrrrb/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2722
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2722](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2722)
 - Scottish Tartans Authority (ITI): 547
 - Scottish Tartans World Register: 547
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacPherson Htg](/setts/s9/b1r1k8r1b1r1o8r1b1~x4/)
-
 
 ## Thread count
 B/44 R4 K32 R4 B4 R4 N32 R4 B/4

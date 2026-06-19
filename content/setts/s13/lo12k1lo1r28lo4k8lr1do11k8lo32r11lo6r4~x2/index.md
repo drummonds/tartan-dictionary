@@ -2,10 +2,9 @@
 title: "Aboyne"
 date: 2023-03-18
 ---
-**Bands:** [RYRYKBYKYRYKY](/stripes/ryrykbykyryky/) · **Stripes:** [R LO R LO K DO LR K LO R LO K LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R LO R LO K DO LR K LO R LO K LO</span></span>
+In pattern [RYRYKBYKYRYKY](/stripes/ryrykbykyryky/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5170
 

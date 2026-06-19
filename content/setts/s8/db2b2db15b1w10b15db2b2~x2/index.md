@@ -2,10 +2,9 @@
 title: "Bannockbane"
 date: 2023-03-18
 ---
-**Bands:** [BBBBWBBB](/stripes/bbbbwbbb/) · **Stripes:** [DB B DB B W B DB B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB B DB B W B DB B</span></span>
+In pattern [BBBBWBBB](/stripes/bbbbwbbb/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

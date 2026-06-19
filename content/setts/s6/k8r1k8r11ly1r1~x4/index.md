@@ -2,10 +2,9 @@
 title: "Swanstrom (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KRKRYR](/stripes/krkryr/) · **Stripes:** [K R K R LY R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R K R LY R</span></span>
+In pattern [KRKRYR](/stripes/krkryr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4052
 

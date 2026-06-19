@@ -2,10 +2,9 @@
 title: "Montgomery"
 date: 2023-03-18
 ---
-**Bands:** [GBGB](/stripes/gbgb/) · **Stripes:** [G DB G DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB</span></span>
+In pattern [BGBG](/stripes/bgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2989
 
@@ -16,14 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2989](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2989)
 - Scottish Tartans Authority (ITI): 114
 - Scottish Tartans World Register: 114
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Montgomerie](/setts/s4/g12db3g1~x2/)
-- [Montgomery - 1842 (VS](/setts/s4/g6db2g1~x8/)
-
 
 ## Thread count
 G/24 DB8 G4 DB/8

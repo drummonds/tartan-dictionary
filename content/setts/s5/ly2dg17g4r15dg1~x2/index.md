@@ -2,10 +2,9 @@
 title: "Christmas"
 date: 2023-03-18
 ---
-**Bands:** [YGGRG](/stripes/yggrg/) · **Stripes:** [LY DG G R DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG G R DG</span></span>
+In pattern [GRGGY](/stripes/grggy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10554
 

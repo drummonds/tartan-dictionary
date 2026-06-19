@@ -2,10 +2,9 @@
 title: "Casely"
 date: 2023-03-18
 ---
-**Bands:** [RGKGBG](/stripes/rgkgbg/) · **Stripes:** [R G K G N Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R G K G N Y</span></span>
+In pattern [GBGKGR](/stripes/gbgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=586
 

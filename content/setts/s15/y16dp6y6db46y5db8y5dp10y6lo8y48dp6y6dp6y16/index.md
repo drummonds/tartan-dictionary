@@ -2,10 +2,9 @@
 title: "Aberlour Bicentenary (Commemorative)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGYGBGBGBGBG](/stripes/gbgbgygbgbgbgbg/) · **Stripes:** [Y DP Y DP Y LO Y DP Y DB Y DB Y DP Y](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y DP Y DP Y LO Y DP Y DB Y DB Y DP Y</span></span>
+In pattern [GBGBGBGBGYGBGBG](/stripes/gbgbgbgbgygbgbg/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10563/
 

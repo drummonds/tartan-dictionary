@@ -2,19 +2,11 @@
 title: "Pringle Personal Tartan Tartan Number: 5447. Earliest known date: c.1998 Dalgleish of Selkirk designed and wove this circa 1998 as a personal tartan for someone of the name, Pringle. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RGYGKBYBWBW](/stripes/rgygkbybwbw/) · **Stripes:** [R DG LY DG K DB LY DB W DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG LY DG K DB LY DB W DB W</span></span>
+In pattern [RGYGKBYBWBW](/stripes/rgygkbybwbw/).
 
-
-This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5447
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Pringle](/setts/s11/r4dg64ly4dg4k6db4ly4db56w4db4w1/)
-
 
 ## Thread count
 DRa/4 G64 Y4 G4 K6 DBa4 Y4 DBa56 LN4 DBa4 LN/4

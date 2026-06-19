@@ -2,10 +2,9 @@
 title: "Erskine Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGG](/stripes/gggggg/) · **Stripes:** [DG G DG G DG G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG G DG G DG G</span></span>
+In pattern [GGGGGG](/stripes/gggggg/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1127
 

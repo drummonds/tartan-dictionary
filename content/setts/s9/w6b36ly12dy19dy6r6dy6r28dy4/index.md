@@ -2,10 +2,9 @@
 title: "Derry Family (Olney, Buckinghamshire) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGGYBW](/stripes/grgrggybw/) · **Stripes:** [DY R DY R DY DY LY B W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DY R DY R DY DY LY B W</span></span>
+In pattern [GRGRGGYBW](/stripes/grgrggybw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10377
 

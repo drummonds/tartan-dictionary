@@ -2,10 +2,9 @@
 title: "Castlefield (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YKGRKGKYKGKG](/stripes/ykgrkgkykgkg/) · **Stripes:** [LR K Y O K G K LO K G K Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LR K Y O K G K LO K G K Y</span></span>
+In pattern [GKGKYKGKRGKY](/stripes/gkgkykgkrgky/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10154
 

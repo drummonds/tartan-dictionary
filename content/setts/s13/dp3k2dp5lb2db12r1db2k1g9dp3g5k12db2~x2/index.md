@@ -2,10 +2,9 @@
 title: "MacKusick (Piper) #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKGBGKBRBWBKB](/stripes/bkgbgkbrbwbkb/) · **Stripes:** [DB K G DP G K DB R DB LB DP K DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB K G DP G K DB R DB LB DP K DP</span></span>
+In pattern [BKBWBRBKGBGKB](/stripes/bkbwbrbkgbgkb/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3430/
 

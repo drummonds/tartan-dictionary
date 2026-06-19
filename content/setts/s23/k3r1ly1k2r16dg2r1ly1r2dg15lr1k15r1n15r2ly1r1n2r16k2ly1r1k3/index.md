@@ -2,10 +2,9 @@
 title: "Hay and Leith"
 date: 2023-03-18
 ---
-**Bands:** [KRYKRGRYRGYKRBRYRBRKYRK](/stripes/krykrgryrgykrbryrbrkyrk/) · **Stripes:** [K R LY K R DG R LY R DG LR K R N R LY R N R K LY R K](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R LY K R DG R LY R DG LR K R N R LY R N R K LY R K</span></span>
+In pattern [KRYKRBRYRBRKYGRYRGRKYRK](/stripes/krykrbryrbrkygryrgrkyrk/).
 
-
-This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
+This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2218
 - Scottish Tartans World Register: 737
 - Scottish Tartans World Register: 897
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Hay and Leith](/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3~x2/)
-
 
 ## Thread count
 K/3 DR1 LG1 K2 DR16 DG2 DR1 LG1 DR2 DG15 Na1 K15 DR1 N15 DR2 LG1 DR1 N2 DR16 K2 LG1 DR1 K/3

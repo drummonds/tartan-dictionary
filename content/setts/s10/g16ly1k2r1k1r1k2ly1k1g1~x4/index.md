@@ -2,19 +2,11 @@
 title: "Forde Irish Family Tartan Tartan Number: 829. Earliest known date: c1890 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19thC See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GKYKRKRKYG](/stripes/gkykrkrkyg/) · **Stripes:** [G K LY K R K R K LY G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K LY K R K R K LY G</span></span>
+In pattern [GKYKRKRKYG](/stripes/gkykrkrkyg/).
 
-
-This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=829
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Forde](/setts/s10/g30ly2k3r2k2r2k3ly2k2g4~x2/)
-
 
 ## Thread count
 G/64 Y4 K8 R4 K4 R4 K8 Y4 K4 G/4

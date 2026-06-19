@@ -2,10 +2,9 @@
 title: "St Anne de Portneuf Canadian District Tartan Tartan Number: 5779. Earliest known date: 2002 Ste-Anne-de-Portneuf is a village of about 1000 population on the north shore of the St lawrence River in Quebec. The first permanent residents established themselvs there in 1902 and the original industrialists were mainly of English and Scottish origin whilst the work force was French Canadian. This tartan was woven in cotton by a company called Leclerc. The tartan is unconventional in that it has 10 colours, is non-repeating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YWYBGRYGWYBBRYGWB](/stripes/ywybgrygwybbrygwb/) · **Stripes:** [LO W LO DB DY R LY DG W LO DB DO R LY DG W T](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO W LO DB DY R LY DG W LO DB DO R LY DG W T</span></span>
+In pattern [BWGYRBBYWGYRGBYWY](/stripes/bwgyrbbywgyrgbywy/).
 
-
-This was sourced from house-of-tartan.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5779
 

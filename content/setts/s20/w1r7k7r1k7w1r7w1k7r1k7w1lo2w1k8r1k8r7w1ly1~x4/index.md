@@ -2,10 +2,9 @@
 title: "Order of the Holy Sepulchre (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [YWRKRKWYWKRKWRWKRKRW](/stripes/ywrkrkwywkrkwrwkrkrw/) · **Stripes:** [LY W R K R K W LO W K R K W R W K R K R W](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY W R K R K W LO W K R K W R W K R K R W</span></span>
+In pattern [WRKRKWRWKRKWYWKRKRWY](/stripes/wrkrkwrwkrkwywkrkrwy/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2161/
 

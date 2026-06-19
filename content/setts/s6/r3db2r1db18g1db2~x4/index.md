@@ -2,10 +2,9 @@
 title: "Lynch"
 date: 2023-03-18
 ---
-**Bands:** [RBRBGB](/stripes/rbrbgb/) · **Stripes:** [R DB R DB G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB G DB</span></span>
+In pattern [BGBRBR](/stripes/bgbrbr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2253
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [2253](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2253)
 - Scottish Tartans Authority (ITI): 2163
 - Scottish Tartans World Register: 2163
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lynch Family Tartan Tartan Number: 2163. Earliest known date: 1994 Information from Dr. Phil Smith, Narvon, USA. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r19db6r14db101g7db7/)
-
 
 ## Thread count
 R/12 DB8 R4 DB72 G4 DB/8

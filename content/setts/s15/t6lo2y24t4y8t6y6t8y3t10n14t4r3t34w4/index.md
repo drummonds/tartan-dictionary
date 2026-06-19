@@ -2,10 +2,9 @@
 title: "MatchPoint Dress"
 date: 2023-03-18
 ---
-**Bands:** [BYGBGBGBGBBBRBW](/stripes/bygbgbgbgbbbrbw/) · **Stripes:** [T LO Y T Y T Y T Y T N T R T W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T LO Y T Y T Y T Y T N T R T W</span></span>
+In pattern [BYGBGBGBGBBBRBW](/stripes/bygbgbgbgbbbrbw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10910
 

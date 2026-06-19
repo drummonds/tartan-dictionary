@@ -2,10 +2,9 @@
 title: "Touch"
 date: 2023-03-18
 ---
-**Bands:** [RKGKYG](/stripes/rkgkyg/) · **Stripes:** [R K DG K LY Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R K DG K LY Y</span></span>
+In pattern [GYKGKR](/stripes/gykgkr/).
 
-
-This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

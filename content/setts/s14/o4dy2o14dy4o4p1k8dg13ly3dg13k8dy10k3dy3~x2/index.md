@@ -2,10 +2,9 @@
 title: "Humble, Gordon (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRBKGYGKGKG](/stripes/rgrgrbkgygkgkg/) · **Stripes:** [O DY O DY O P K DG LY DG K DY K DY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">O DY O DY O P K DG LY DG K DY K DY</span></span>
+In pattern [GKGKGYGKBRGRGR](/stripes/gkgkgygkbrgrgr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11520
 

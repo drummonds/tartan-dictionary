@@ -2,10 +2,9 @@
 title: "Read Dress, Peter (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RKGKGKGKGKGKGKGRYW](/stripes/rkgkgkgkgkgkgkgryw/) · **Stripes:** [R K Y K Y K Y K Y K Y K Y K Y R LO W](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K Y K Y K Y K Y K Y K Y K Y R LO W</span></span>
+In pattern [RKGKGKGKGKGKGKGRYW](/stripes/rkgkgkgkgkgkgkgryw/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11008
 

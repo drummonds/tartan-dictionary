@@ -2,10 +2,9 @@
 title: "Haughey (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRGRGWGKBGBW](/stripes/brbrbrgrgwgkbgbw/) · **Stripes:** [DB R DB R DB R G R G W G K DP G DP W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB R DB R DB R G R G W G K DP G DP W</span></span>
+In pattern [BRBRBRGRGWGKBGBW](/stripes/brbrbrgrgwgkbgbw/).
 
-
-This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7139/
 

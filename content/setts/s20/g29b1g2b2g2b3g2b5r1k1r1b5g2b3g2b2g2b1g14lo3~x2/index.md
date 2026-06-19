@@ -2,10 +2,9 @@
 title: "Murphy & his Gang (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGBGBGBGBRKRBGBGBGBG](/stripes/ygbgbgbgbrkrbgbgbgbg/) · **Stripes:** [LO G B G B G B G B R K R B G B G B G B G](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G B G B G B G B R K R B G B G B G B G</span></span>
+In pattern [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/).
 
-
-This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands20/).
+This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10419/
 

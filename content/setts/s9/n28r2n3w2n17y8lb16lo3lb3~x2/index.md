@@ -2,10 +2,9 @@
 title: "Guszcza, The (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBGWYW](/stripes/brbwbgwyw/) · **Stripes:** [N R N W N Y LB LO LB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N R N W N Y LB LO LB</span></span>
+In pattern [BRBWBGWYW](/stripes/brbwbgwyw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5989
 

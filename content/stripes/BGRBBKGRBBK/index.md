@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgrbbkgrbbk/
 ---
-BGRBBKGRBBK
-
-It is a 11 band tartan.
+It is a 11 stripe tartan.
 
 
 
 ## Colour Sequence
-BGRBBKGRBBK
+
+{{< pat "BGRBBKGRBBK" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### K T DB R G K T DB R G T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T DB R G K T DB R G T</span></span>
 
 | Tartans |
 |---------------|
 | [Coopers & Lybrand](/setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/)|
 |![Coopers & Lybrand example sett](/setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/sett.png)|
-

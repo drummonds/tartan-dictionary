@@ -2,10 +2,9 @@
 title: "Lands of Liberty"
 date: 2023-03-18
 ---
-**Bands:** [RBBWR](/stripes/rbbwr/) · **Stripes:** [R B DB W R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R B DB W R</span></span>
+In pattern [RBBWR](/stripes/rbbwr/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10928
 

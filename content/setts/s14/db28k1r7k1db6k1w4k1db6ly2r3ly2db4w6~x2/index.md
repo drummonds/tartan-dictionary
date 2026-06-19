@@ -2,10 +2,9 @@
 title: "Rabbinical"
 date: 2023-03-18
 ---
-**Bands:** [BKRKBKWKBYRYBW](/stripes/bkrkbkwkbyrybw/) · **Stripes:** [DB K R K DB K W K DB LY R LY DB W](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB K R K DB K W K DB LY R LY DB W</span></span>
+In pattern [BKRKBKWKBYRYBW](/stripes/bkrkbkwkbyrybw/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10100
 

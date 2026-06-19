@@ -2,10 +2,9 @@
 title: "Somerset"
 date: 2023-03-18
 ---
-**Bands:** [RYYWKWKWKWKWYYRG](/stripes/ryywkwkwkwkwyyrg/) · **Stripes:** [O LG LR LB K LB K LB K LB K LB LR LG O Y](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O LG LR LB K LB K LB K LB K LB LR LG O Y</span></span>
+In pattern [GRYYWKWKWKWKWYYR](/stripes/gryywkwkwkwkwyyr/).
 
-
-This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3833
 

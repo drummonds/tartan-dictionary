@@ -2,10 +2,9 @@
 title: "Century 21 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RYGBBBBBBKB](/stripes/rygbbbbbbkb/) · **Stripes:** [R LY DG DB DB DB DB DB DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R LY DG DB DB DB DB DB DB K DB</span></span>
+In pattern [BKBBBBBBGYR](/stripes/bkbbbbbbgyr/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8140/
 

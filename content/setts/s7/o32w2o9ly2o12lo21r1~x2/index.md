@@ -2,10 +2,9 @@
 title: "Weathered Cyclist (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [RYRYRWR](/stripes/ryryrwr/) · **Stripes:** [R LO O LY O W O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R LO O LY O W O</span></span>
+In pattern [RWRYRYR](/stripes/rwryryr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10732/
 

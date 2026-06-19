@@ -2,10 +2,9 @@
 title: "Nicolson of Taransay Hunting (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [KGYWBBR](/stripes/kgywbbr/) · **Stripes:** [K G LY W DB DB R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">K G LY W DB DB R</span></span>
+In pattern [KGYWBBR](/stripes/kgywbbr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5753
 

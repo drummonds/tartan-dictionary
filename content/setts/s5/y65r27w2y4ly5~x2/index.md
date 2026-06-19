@@ -2,10 +2,9 @@
 title: "Perry, Arisaid"
 date: 2023-03-18
 ---
-**Bands:** [YGWRG](/stripes/ygwrg/) · **Stripes:** [LY Y W R Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY Y W R Y</span></span>
+In pattern [GRWGY](/stripes/grwgy/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

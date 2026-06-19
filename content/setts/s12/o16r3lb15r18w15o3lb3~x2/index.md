@@ -2,10 +2,9 @@
 title: "Glasgow Fancy Tartan Tartan Number: 4993. Earliest known date: 1984 From Dalgliesh Dancers Fancies swatch book. Sample in STA Dalgety Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRRRWRWRW](/stripes/rwrwrrrwrwrw/) · **Stripes:** [O W R LB R O R LB R W O LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">O W R LB R O R LB R W O LB</span></span>
+In pattern [RWRWRRRWRWRW](/stripes/rwrwrrrwrwrw/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4993
 

@@ -2,10 +2,9 @@
 title: "Allison"
 date: 2023-03-18
 ---
-**Bands:** [YBRBBWGKGYB](/stripes/ybrbbwgkgyb/) · **Stripes:** [LY DB R DB DB W G K G LY DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB DB W G K G LY DB</span></span>
+In pattern [BYGKGWBBRBY](/stripes/bygkgwbbrby/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

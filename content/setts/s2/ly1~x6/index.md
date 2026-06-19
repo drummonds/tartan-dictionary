@@ -2,10 +2,9 @@
 title: "Saffron Irish Family Tartan Tartan Number: 4078. Earliest known date: 1998 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [YY](/stripes/yy/) · **Stripes:** [LY LY](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY LY</span></span>
+In pattern [YY](/stripes/yy/).
 
-
-This was sourced from house-of-tartan.  It is a [2 band tartan](/bands/bands2/).
+This was sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4078
 

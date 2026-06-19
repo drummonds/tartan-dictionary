@@ -2,10 +2,9 @@
 title: "O'Sullivan McCragh (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGYGRGBGBGBWRKRKRWBGBGB](/stripes/grgygrgbgbgbwrkrkrwbgbgb/) · **Stripes:** [Y R Y LO Y R Y DB Y DB Y DB W O K O K O W DB Y DB Y DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">Y R Y LO Y R Y DB Y DB Y DB W O K O K O W DB Y DB Y DB</span></span>
+In pattern [BGBGBWRKRKRWBGBGBGRGYGRG](/stripes/bgbgbwrkrkrwbgbgbgrgygrg/).
 
-
-This was sourced from tartans-authority.  It is a [24 band tartan](/bands/bands24/).
+This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2169/
 

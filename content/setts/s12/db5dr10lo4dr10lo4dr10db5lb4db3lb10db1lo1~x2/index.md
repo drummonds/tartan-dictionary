@@ -2,10 +2,9 @@
 title: "Glover, Thomas Blake"
 date: 2023-03-18
 ---
-**Bands:** [YBWBWBBYBYBB](/stripes/ybwbwbbybybb/) · **Stripes:** [LO DB LB DB LB DB DR LO DR LO DR DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB LB DB LB DB DR LO DR LO DR DB</span></span>
+In pattern [BBYBYBBWBWBY](/stripes/bbybybbwbwby/).
 
-
-This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1441
 

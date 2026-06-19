@@ -2,10 +2,9 @@
 title: "Boroughmuir"
 date: 2023-03-18
 ---
-**Bands:** [GWBYB](/stripes/gwbyb/) · **Stripes:** [DG W DT LY DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="seq">DG W DT LY DT</span></span>
+In pattern [BYBWG](/stripes/bybwg/).
 
-
-This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

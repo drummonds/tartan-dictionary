@@ -2,10 +2,9 @@
 title: "Instakilt, Pink (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RKRKRWR](/stripes/rkrkrwr/) · **Stripes:** [M K M K M W M](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M K M K M W M</span></span>
+In pattern [RKRKRWR](/stripes/rkrkrwr/).
 
-
-This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7550/
 

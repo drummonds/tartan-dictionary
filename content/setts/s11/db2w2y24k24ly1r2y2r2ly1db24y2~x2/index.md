@@ -2,10 +2,9 @@
 title: "Smithsonian (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GBYRGRYKGWB](/stripes/gbyrgrykgwb/) · **Stripes:** [Y DB LY R Y R LY K Y W DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">Y DB LY R Y R LY K Y W DB</span></span>
+In pattern [BWGKYRGRYBG](/stripes/bwgkyrgrybg/).
 
-
-This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5813/
 

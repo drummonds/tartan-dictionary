@@ -2,10 +2,9 @@
 title: "Bannockbane Grey #3"
 date: 2023-03-18
 ---
-**Bands:** [KYKYGGYG](/stripes/kykyggyg/) · **Stripes:** [K LY K LY Y Y LY Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K LY K LY Y Y LY Y</span></span>
+In pattern [GYGGYKYK](/stripes/gyggykyk/).
 
-
-This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5295
 

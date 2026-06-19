@@ -2,10 +2,9 @@
 title: "Platt"
 date: 2023-03-18
 ---
-**Bands:** [RYGBGRBYBGRGYBG](/stripes/rygbgrbybgrgybg/) · **Stripes:** [R LY G DB G R DB LY DB G R G LY DB G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY G DB G R DB LY DB G R G LY DB G</span></span>
+In pattern [GBYGRGBYBRGBGYR](/stripes/gbygrgbybrgbgyr/).
 
-
-This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -893,13 +892,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Platt](/setts/s15/g16db6ly2g12r2g14db14ly1db12r2g6db24g6ly2r2~x2/)
-
 
 ## Thread count
 G/16 B6 Y2 G12 R2 G14 B14 Y2 B12 R2 G6 B24 G6 Y2 R/2

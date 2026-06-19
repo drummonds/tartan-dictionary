@@ -2,10 +2,9 @@
 title: "Wisconsin (US State)"
 date: 2023-03-18
 ---
-**Bands:** [YBKYGKRBRB](/stripes/ybkygkrbrb/) · **Stripes:** [LO N K LY DG K O N R N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">LO N K LY DG K O N R N</span></span>
+In pattern [BRBRKGYKBY](/stripes/brbrkgykby/).
 
-
-This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5882/
 

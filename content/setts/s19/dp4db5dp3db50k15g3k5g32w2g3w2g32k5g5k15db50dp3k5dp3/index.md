@@ -2,10 +2,9 @@
 title: "Spirit of Morningside"
 date: 2023-03-18
 ---
-**Bands:** [BKBBKGKGWGWGKGKBBBB](/stripes/bkbbkgkgwgwgkgkbbbb/) · **Stripes:** [DP K DP DB K G K G W G W G K G K DB DP DB DP](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP K DP DB K G K G W G W G K G K DB DP DB DP</span></span>
+In pattern [BBBBKGKGWGWGKGKBBKB](/stripes/bbbbkgkgwgwgkgkbbkb/).
 
-
-This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/bands19/).
+This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3864
 

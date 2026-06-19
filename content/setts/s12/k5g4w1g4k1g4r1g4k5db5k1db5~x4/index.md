@@ -2,19 +2,11 @@
 title: "Lloyd of Dolobran Family Tartan Tartan Number: 1970. Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [KGWGKGRGKBKB](/stripes/kgwgkgrgkbkb/) · **Stripes:** [K G W G K G R G K DB K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G W G K G R G K DB K DB</span></span>
+In pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/).
 
-
-This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/).
+This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1970
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Lloyd of Dolobran (Personal)](/setts/s12/k10g4w1g4k1g4r1g4k5db5k1db5~x4/)
-
 
 ## Thread count
 K/20 G16 LN4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20

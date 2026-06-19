@@ -2,10 +2,9 @@
 title: "Buchanan Dress"
 date: 2023-03-18
 ---
-**Bands:** [RWKGKYKYKGKGB](/stripes/rwkgkykykgkgb/) · **Stripes:** [R W K Y K LY K LY K Y K DY T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W K Y K LY K LY K Y K DY T</span></span>
+In pattern [BGKGKYKYKGKWR](/stripes/bgkgkykykgkwr/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=423
 

@@ -2,10 +2,9 @@
 title: "Glen Tilt #1"
 date: 2023-03-18
 ---
-**Bands:** [WGBGBBBGBW](/stripes/wgbgbbbgbw/) · **Stripes:** [LB G DR G DR DB DR G DR LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB G DR G DR DB DR G DR LB</span></span>
+In pattern [WBGBBBGBGW](/stripes/wbgbbbgbgw/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1399
 

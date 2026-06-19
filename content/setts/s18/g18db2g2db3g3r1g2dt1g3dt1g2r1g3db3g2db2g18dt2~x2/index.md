@@ -2,10 +2,9 @@
 title: "Owen of Wales"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGRGBGBGRGBGBGB](/stripes/gbgbgrgbgbgrgbgbgb/) · **Stripes:** [G DB G DB G R G DT G DT G R G DB G DB G DT](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">G DB G DB G R G DT G DT G R G DB G DB G DT</span></span>
+In pattern [BGBGBGRGBGBGRGBGBG](/stripes/bgbgbgrgbgbgrgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3279
 

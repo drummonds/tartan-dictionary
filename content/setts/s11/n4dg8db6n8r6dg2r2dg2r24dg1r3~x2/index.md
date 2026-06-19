@@ -2,10 +2,9 @@
 title: "MacDougall VS"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBBGB](/stripes/rgrgrgrbbgb/) · **Stripes:** [R DG R DG R DG R N DB DG N](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="seq">R DG R DG R DG R N DB DG N</span></span>
+In pattern [BGBBRGRGRGR](/stripes/bgbbrgrgrgr/).
 
-
-This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
+This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -51,13 +50,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 897
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacDougall VS](/setts/s11/n4dg8db6n8r6dg2r2dg2r24dg1r3/)
-
 
 ## Thread count
 N/8 DG16 DB12 N16 DR12 DG4 DR4 DG4 DR48 DG2 DR/6

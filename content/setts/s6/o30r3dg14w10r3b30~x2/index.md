@@ -2,10 +2,9 @@
 title: "Cercle de Fermières Varennes"
 date: 2023-03-18
 ---
-**Bands:** [RRGWRB](/stripes/rrgwrb/) · **Stripes:** [O R DG W R B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">O R DG W R B</span></span>
+In pattern [BRWGRR](/stripes/brwgrr/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11453
 

@@ -2,10 +2,9 @@
 title: "Harmony 9"
 date: 2023-03-18
 ---
-**Bands:** [YGRYG](/stripes/ygryg/) · **Stripes:** [LY DY R LY DY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY DY R LY DY</span></span>
+In pattern [GYRGY](/stripes/gyrgy/).
 
-
-This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
+This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1613
 

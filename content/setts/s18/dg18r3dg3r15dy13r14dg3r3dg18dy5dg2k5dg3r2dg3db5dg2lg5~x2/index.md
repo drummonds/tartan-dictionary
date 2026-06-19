@@ -2,10 +2,9 @@
 title: "Ben Murad (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [YGBGRGKGGGRGRGRGRG](/stripes/ygbgrgkgggrgrgrgrg/) · **Stripes:** [LG DG DB DG R DG K DG DY DG R DG R DY R DG R DG](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LG DG DB DG R DG K DG DY DG R DG R DY R DG R DG</span></span>
+In pattern [GRGRGRGRGGGKGRGBGY](/stripes/grgrgrgrgggkgrgbgy/).
 
-
-This was sourced from tartans-authority.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11003/
 

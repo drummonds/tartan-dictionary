@@ -2,10 +2,9 @@
 title: "Doyel (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBRKRKRBKBKB](/stripes/gkgkbrkrkrbkbkb/) · **Stripes:** [DG K DG K DT O K R K O DT K DT K DT](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">DG K DG K DT O K R K O DT K DT K DT</span></span>
+In pattern [BKBKBRKRKRBKGKG](/stripes/bkbkbrkrkrbkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7684/
 

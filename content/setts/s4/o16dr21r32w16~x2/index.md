@@ -2,10 +2,9 @@
 title: "Bloomer-Alexander (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRW](/stripes/rbrw/) · **Stripes:** [O DR R W](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">O DR R W</span></span>
+In pattern [RBRW](/stripes/rbrw/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10480
 

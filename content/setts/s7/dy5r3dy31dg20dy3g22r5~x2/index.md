@@ -2,10 +2,9 @@
 title: "Ballantrae (Dalgety)"
 date: 2023-03-18
 ---
-**Bands:** [RGGGGRG](/stripes/rggggrg/) · **Stripes:** [R G DY DG DY R DY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R G DY DG DY R DY</span></span>
+In pattern [GRGGGGR](/stripes/grggggr/).
 
-
-This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
+This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177
 
@@ -23,13 +22,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [177](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177)
 - Scottish Tartans Authority (ITI): 1541
 - Scottish Tartans World Register: 1541
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Ballintrae Trade Tartan Tartan Number: 1541. Earliest known date: 1982 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dy10r5dy62dg40dy5g44r10/)
-
 
 ## Thread count
 R/10 G44 T6 DG40 T62 R6 T/10

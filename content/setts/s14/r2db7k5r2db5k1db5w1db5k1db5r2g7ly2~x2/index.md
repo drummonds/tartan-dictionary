@@ -2,10 +2,9 @@
 title: "MacLellan, McLellan hunting"
 date: 2023-03-18
 ---
-**Bands:** [RBKRBKBWBKBRGY](/stripes/rbkrbkbwbkbrgy/) · **Stripes:** [R DB K R DB K DB W DB K DB R G LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB K R DB K DB W DB K DB R G LY</span></span>
+In pattern [RBKRBKBWBKBRGY](/stripes/rbkrbkbwbkbrgy/).
 
-
-This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

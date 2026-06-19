@@ -2,10 +2,9 @@
 title: "Robinson Dress (Pendleton) #1"
 date: 2023-03-18
 ---
-**Bands:** [KRKRBG](/stripes/krkrbg/) · **Stripes:** [K R K R DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R K R DB G</span></span>
+In pattern [GBRKRK](/stripes/gbrkrk/).
 
-
-This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3538
 
@@ -29,13 +28,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [3538](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3538)
 - Scottish Tartans Authority (ITI): 739
 - Scottish Tartans World Register: 739
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Robinson, dress](/setts/s6/k1r7k1r7db16g1~x2/)
-
 
 ## Thread count
 K/4 R28 K4 R28 DB64 G/4

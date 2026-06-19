@@ -2,10 +2,9 @@
 title: "Wilson's No.079"
 date: 2023-03-18
 ---
-**Bands:** [KWGB](/stripes/kwgb/) · **Stripes:** [K W G T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K W G T</span></span>
+In pattern [BGWK](/stripes/bgwk/).
 
-
-This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4667
 

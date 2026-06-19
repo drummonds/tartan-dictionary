@@ -2,10 +2,9 @@
 title: "Florence (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWRWRRBRRB](/stripes/rbrbwrwrrbrrb/) · **Stripes:** [O DP O DP W O W O O DP O O DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">O DP O DP W O W O O DP O O DP</span></span>
+In pattern [BRRBRRWRWBRBR](/stripes/brrbrrwrwbrbr/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4871/
 

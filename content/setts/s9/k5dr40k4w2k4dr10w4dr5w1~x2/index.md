@@ -2,10 +2,9 @@
 title: "Southern Illinois University - Carbondale"
 date: 2023-03-18
 ---
-**Bands:** [KBKWKBWBW](/stripes/kbkwkbwbw/) · **Stripes:** [K DR K W K DR W DR W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">K DR K W K DR W DR W</span></span>
+In pattern [KBKWKBWBW](/stripes/kbkwkbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
+This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10519
 

@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bgkgwgwgr/
 ---
-BGKGWGWGR
-
-It is a 9 band tartan.
+It is a 9 stripe tartan.
 
 
 
 ## Colour Sequence
-BGKGWGWGR
+
+{{< pat "BGKGWGWGR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R DG W DG W DG K DG DT <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="seq">R DG W DG W DG K DG DT</span></span>
 
 | Tartans |
 |---------------|
 | [Todd](/setts/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/)|
 |![Todd example sett](/setts/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/sett.png)|
-

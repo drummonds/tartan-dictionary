@@ -2,10 +2,9 @@
 title: "MacInroy"
 date: 2023-03-18
 ---
-**Bands:** [KGKRBRBRGK](/stripes/kgkrbrbrgk/) · **Stripes:** [K G K R DB R DB R G K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K R DB R DB R G K</span></span>
+In pattern [KGKRBRBRGK](/stripes/kgkrbrbrgk/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -886,13 +885,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacInroy (Clan)](/setts/s10/k1g3k3r1db3r1db1r3g1k1~x8/)
-
 
 ## Thread count
 K/4 G12 K12 R4 B12 R4 B4 R12 G4 K/4

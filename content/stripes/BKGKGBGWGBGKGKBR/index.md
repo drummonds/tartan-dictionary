@@ -4,24 +4,18 @@ date: 2023-03-18
 aliases:
 - /patterns/bkgkgbgwgbgkgkbr/
 ---
-BKGKGBGWGBGKGKBR
-
-It is a 16 band tartan.
+It is a 16 stripe tartan.
 
 
 
 ## Colour Sequence
-BKGKGBGWGBGKGKBR
+
+{{< pat "BKGKGBGWGBGKGKBR" >}}
 
 
 ## Tartans with this colour sequence
-
-
-
-### R T K G K DG T DG LB DG T DG K G K T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T K G K DG T DG LB DG T DG K G K T</span></span>
 
 | Tartans |
 |---------------|
 | [Scottish Ambulance Service](/setts/s16/t16k12g2k2dg32t2dg2lb3dg2t2dg32k2g2k12t16r3~x2/)|
 |![Scottish Ambulance Service example sett](/setts/s16/t16k12g2k2dg32t2dg2lb3dg2t2dg32k2g2k12t16r3~x2/sett.png)|
-

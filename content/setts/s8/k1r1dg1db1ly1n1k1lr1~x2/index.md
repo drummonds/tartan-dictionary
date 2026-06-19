@@ -2,10 +2,9 @@
 title: "Rainbow"
 date: 2023-03-18
 ---
-**Bands:** [KRGBYBKY](/stripes/krgbybky/) · **Stripes:** [K R DG DB LY N K LR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">K R DG DB LY N K LR</span></span>
+In pattern [KRGBYBKY](/stripes/krgbybky/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

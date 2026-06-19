@@ -2,10 +2,9 @@
 title: "Commonwealth, Games 1986"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWKWRWB](/stripes/rbrbwkwrwb/) · **Stripes:** [R DB R DB W K W R W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB W K W R W DB</span></span>
+In pattern [BWRWKWBRBR](/stripes/bwrwkwbrbr/).
 
-
-This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -899,13 +898,6 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 993
 - Scottish Tartans World Register: 997
 - Scottish Tartans World Register: 998
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Commonwealth Games 1986](/setts/s10/db6w2r6w3k2w6db10r2db3r2~x4/)
-
 
 ## Thread count
 B/24 LN8 R24 LN10 K8 LN24 B40 R8 B10 R/8

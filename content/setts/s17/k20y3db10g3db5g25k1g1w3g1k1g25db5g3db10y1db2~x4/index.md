@@ -2,10 +2,9 @@
 title: "Blairgowrie"
 date: 2023-03-18
 ---
-**Bands:** [KGBGBGKGWGKGBGBGB](/stripes/kgbgbgkgwgkgbgbgb/) · **Stripes:** [K Y DB G DB G K G W G K G DB G DB Y DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">K Y DB G DB G K G W G K G DB G DB Y DB</span></span>
+In pattern [BGBGBGKGWGKGBGBGK](/stripes/bgbgbgkgwgkgbgbgk/).
 
-
-This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
+This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5093
 

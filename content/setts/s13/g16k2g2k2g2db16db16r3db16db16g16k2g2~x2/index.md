@@ -2,10 +2,9 @@
 title: "MacLachlan, Green Dress (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGBBRBBGKG](/stripes/gkgkgbbrbbgkg/) · **Stripes:** [G K G K G DB DB R DB DB G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G DB DB R DB DB G K G</span></span>
+In pattern [GKGBBRBBGKGKG](/stripes/gkgbbrbbgkgkg/).
 
-
-This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8826/
 

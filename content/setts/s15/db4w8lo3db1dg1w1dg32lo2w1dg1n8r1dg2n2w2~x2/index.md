@@ -2,10 +2,9 @@
 title: "Thomas McGurran"
 date: 2023-03-18
 ---
-**Bands:** [BWYBGWGYWGBRGBW](/stripes/bwybgwgywgbrgbw/) · **Stripes:** [DB W LO DB DG W DG LO W DG N R DG N W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W LO DB DG W DG LO W DG N R DG N W</span></span>
+In pattern [BWYBGWGYWGBRGBW](/stripes/bwybgwgywgbrgbw/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11589
 

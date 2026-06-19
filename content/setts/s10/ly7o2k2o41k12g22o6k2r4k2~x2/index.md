@@ -2,10 +2,9 @@
 title: "Dinwiddie"
 date: 2023-03-18
 ---
-**Bands:** [KRKRGKRKRY](/stripes/krkrgkrkry/) · **Stripes:** [K R K O G K O K O LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">K R K O G K O K O LY</span></span>
+In pattern [KRKRGKRKRY](/stripes/krkrgkrkry/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=939
 
@@ -16,13 +15,6 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [939](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=939)
 - Scottish Tartans Authority (ITI): 2660
 - Scottish Tartans World Register: 2660
-
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Dinwiddie Clan Tartan Tartan Number: 3212. Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/ly4o2k2o42k13g25o6k2r4k2~x2/)
-
 
 ## Thread count
 Y/14 N4 K4 N82 K24 G44 N12 K4 R8 K/4

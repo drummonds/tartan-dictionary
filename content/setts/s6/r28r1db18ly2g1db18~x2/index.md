@@ -2,10 +2,9 @@
 title: "European Judo Union"
 date: 2023-03-18
 ---
-**Bands:** [RRBYGB](/stripes/rrbygb/) · **Stripes:** [R R DB LY G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R R DB LY G DB</span></span>
+In pattern [BGYBRR](/stripes/bgybrr/).
 
-
-This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
+This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11221/
 

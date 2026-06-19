@@ -2,10 +2,9 @@
 title: "Wilson's, No 83"
 date: 2023-03-18
 ---
-**Bands:** [KYGRWRWB](/stripes/kygrwrwb/) · **Stripes:** [K LY G R W R W P](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K LY G R W R W P</span></span>
+In pattern [BWRWRGYK](/stripes/bwrwrgyk/).
 
-
-This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

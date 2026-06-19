@@ -2,10 +2,9 @@
 title: "Hawaiian"
 date: 2023-03-18
 ---
-**Bands:** [RYBBGYRYGBBYRB](/stripes/rybbgyrygbbyrb/) · **Stripes:** [R LY T DO Y LY R LY Y DO T LY R T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R LY T DO Y LY R LY Y DO T LY R T</span></span>
+In pattern [BRYBBGYRYGBBYR](/stripes/brybbgyrygbbyr/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1626
 

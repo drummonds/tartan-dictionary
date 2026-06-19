@@ -2,10 +2,9 @@
 title: "Unidentified (Teddy Bear)"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGKBRBKGYGYG](/stripes/gygygkbrbkgygyg/) · **Stripes:** [DG LY DG LY DG K DB R DB K DG LY DG LY DG](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">DG LY DG LY DG K DB R DB K DG LY DG LY DG</span></span>
+In pattern [GYGYGKBRBKGYGYG](/stripes/gygygkbrbkgygyg/).
 
-
-This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4274
 

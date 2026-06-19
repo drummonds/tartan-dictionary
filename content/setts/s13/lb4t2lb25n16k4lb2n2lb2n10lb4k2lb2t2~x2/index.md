@@ -2,10 +2,9 @@
 title: "Balmoral (Jack Allen)"
 date: 2023-03-18
 ---
-**Bands:** [BWKWBWBWKBWBW](/stripes/bwkwbwbwkbwbw/) · **Stripes:** [T LB K LB N LB N LB K N LB T LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">T LB K LB N LB N LB K N LB T LB</span></span>
+In pattern [BWKWBWBWKBWBW](/stripes/bwkwbwbwkbwbw/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=181
 

@@ -2,10 +2,9 @@
 title: "McCulloch, Grant (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGYRYBBBBB](/stripes/gbgbgyrybbbbb/) · **Stripes:** [Y DB Y DB Y LR R LR N DB N DB N](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">Y DB Y DB Y LR R LR N DB N DB N</span></span>
+In pattern [BBBBBYRYGBGBG](/stripes/bbbbbyrygbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2879
 

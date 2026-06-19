@@ -2,10 +2,9 @@
 title: "Scottish Scouts"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBWBWBGBG](/stripes/gbgbgbwbwbgbg/) · **Stripes:** [Y N Y N Y N LB N LB N Y N Y](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y N Y N Y N LB N LB N Y N Y</span></span>
+In pattern [GBGBGBWBWBGBG](/stripes/gbgbgbwbwbgbg/).
 
-
-This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
+This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

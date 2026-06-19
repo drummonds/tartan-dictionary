@@ -2,10 +2,9 @@
 title: "Antrim, County"
 date: 2023-03-18
 ---
-**Bands:** [YGBRYBYGBG](/stripes/ygbrybygbg/) · **Stripes:** [LO Y DT O LO DT LO Y DT Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y DT O LO DT LO Y DT Y</span></span>
+In pattern [GBGYBYRBGY](/stripes/gbgybyrbgy/).
 
-
-This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
+This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=98
 

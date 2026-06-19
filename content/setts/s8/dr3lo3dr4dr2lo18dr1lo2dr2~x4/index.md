@@ -2,10 +2,9 @@
 title: "Loughheed (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBBYB](/stripes/bybybbyb/) · **Stripes:** [DR LO DR LO DR DR LO DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR LO DR LO DR DR LO DR</span></span>
+In pattern [BYBBYBYB](/stripes/bybbybyb/).
 
-
-This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
+This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4112/
 

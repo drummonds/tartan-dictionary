@@ -2,10 +2,9 @@
 title: "Wilson (Janet) #2"
 date: 2023-03-18
 ---
-**Bands:** [RWRBGRGRGRGRGRGBGBGBWB](/stripes/rwrbgrgrgrgrgrgbgbgbwb/) · **Stripes:** [R W R T DG R DG R DG R DG R DG R DG T DG T DG T W DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R T DG R DG R DG R DG R DG R DG T DG T DG T W DB</span></span>
+In pattern [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/).
 
-
-This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
+This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4635
 

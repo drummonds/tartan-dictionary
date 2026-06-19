@@ -2,10 +2,9 @@
 title: "Orvis Sports Company"
 date: 2023-03-18
 ---
-**Bands:** [RGKGKGKGGGKGKGKGRG](/stripes/rgkgkgkgggkgkgkgrg/) · **Stripes:** [R DG K DG K Y K DG Y DG K Y K DG K DG R DG](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG K DG K Y K DG Y DG K Y K DG K DG R DG</span></span>
+In pattern [GRGKGKGKGGGKGKGKGR](/stripes/grgkgkgkgggkgkgkgr/).
 
-
-This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
+This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3268
 

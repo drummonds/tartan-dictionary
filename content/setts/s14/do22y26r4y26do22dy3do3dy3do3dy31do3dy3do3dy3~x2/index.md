@@ -2,10 +2,9 @@
 title: "Devarr"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBGBGBGRGB](/stripes/gbgbgbgbgbgrgb/) · **Stripes:** [DY DO DY DO DY DO DY DO DY DO Y R Y DO](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="seq">DY DO DY DO DY DO DY DO DY DO Y R Y DO</span></span>
+In pattern [BGRGBGBGBGBGBG](/stripes/bgrgbgbgbgbgbg/).
 
-
-This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
+This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5391
 
